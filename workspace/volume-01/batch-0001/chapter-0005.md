@@ -16,7 +16,7 @@ Marek had not expected her to know his name, and it took him a second to decide 
 
 “Sera Quill.”
 
-“You are the surveyor at the cooperative with the well that does not balance.” She did not make it a question. “I have a piece of work at the salt cistern past the water-meadow, and I am there until dark tomorrow and I do not stop for anything on the way, and I am telling you that so that you can spend the walk preparing whatever it is instead of trying to be impressive in the first hundred yards.”
+“You are the surveyor at the cooperative with the well that does not balance.” She did not make it a question. “I have a piece of work at the salt cistern past the water-meadow, and I shall be there until dark today and I do not stop for anything on the way, and I am telling you that so that you can spend the walk preparing whatever it is instead of trying to be impressive in the first hundred yards.”
 
 “I have a scope in writing,” Marek said, and put his hand on his coat pocket and then took it off again. “I wrote it out. I want you to read it and change it and tell me what it should say, and then I will pay whatever you say, and I want to be paid before you do anything, and I want you to know before you look at anything that I am not licensed for any of the work we would be talking about.”
 
@@ -54,7 +54,7 @@ Marek found that he had turned to look at the fen and had forgotten the fen.
 
 “Why tell me this on a road?”
 
-“Because you have a well that does not balance and a load test in a ledger, and because in about two days I am going to open your well head, and because I would rather you were not surprised by what I have got in my case when I put it on the table.” She looked at him for a moment. “I am not offering you a mystery, Mr Vale. I am telling you not to let a man in a bad coat tell you that your father’s death was weather.”
+“Because you have a well that does not balance and a load test in a ledger, and because in about two days I am going to open your well head, and because I would rather you were not surprised by what I have got in my case when I put it on the table.” She held his eye. “I am not offering you a mystery, Mr Vale. I am telling you not to let a man in a bad coat tell you that your father’s death was weather.”
 
 She started walking, and after a dozen paces she slowed until he was beside her, which was consent of a kind.
 
@@ -86,7 +86,7 @@ Marek stopped walking. “That is not a fee. That is a risk.”
 
 So Marek Vale stood on the third gate of the fen road in the gray morning and wrote down the terms of Sera Quill on the back of a requisition, in his own hand, and then read them back to her, and she made him read them back twice, and then she signed the page as witness to the terms and not as witness to the work, and gave it back.
 
-“There is one more thing,” she said, when it was folded into his coat, “and I am going to say it now instead of on Thursday, because you are about to spend two nights deciding whether to bring it.”
+“There is one more thing,” she said, when it was folded into his coat, “and I am going to say it now instead of at the gate tomorrow morning, because you are about to spend two nights deciding whether to bring it, and a man who has spent two nights on it should have an answer by the time he asks.”
 
 “You have a book in that kit and you have mentioned it twice in a man’s voice, which is how men talk about things they expect to be asked for. I am not going to ask you for it. I want you to know that I know about it, and that I have not asked, and that when I do ask — and I will ask, Mr Vale, because a well head that does not balance and a dead engineer under it and a log with a false column are three things and not two, and I do not have the third one yet — I will ask it in front of witnesses and I will write down what it does. Bring it or do not bring it. Do not bring it half. A thing that has been wrapped up for eight years is not evidence of anything except that its owner has been frightened of it, and a frightened man is not a witness, whatever is in the wrap.”
 

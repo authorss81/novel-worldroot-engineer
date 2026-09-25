@@ -21,7 +21,7 @@ Ilsa Kern read it over his shoulder.
 
 “Then cross it out and write what we can do, or we will be sitting here on the twentieth with a list of what we did not have.”
 
-Marek looked at the pit through the open door. It had not gone down. There was a foot of water in it and a slick of tar on the surface where the compound had let go and gone to soup, and the pad was a black shape under the water with the cradle showing through at the low side, and the scarwood under it was open to the weather for the first time in four seasons and would be open to it for the next seven days and probably for the rest of the season.
+Marek looked at the pit through the open door. It had not gone down. There was a foot of water in it and a slick of tar where the compound had let go and gone to soup, and the pad was a black shape under the water with the cradle showing through at the low side, and the scarwood under it was open to the weather for the first time in four seasons and would be open to it for the next seven days and probably for the rest of the season.
 
 He did not cross it out. He put a line through it and wrote underneath: *we do this ourselves and we have never done it, and whoever signs for it signs for that too.*
 
@@ -33,7 +33,7 @@ Tova Reed came in at eleven with her coat off and stayed standing.
 
 “All right.”
 
-“The seed house bed has a compost return and has had one for eleven years, and it has been sheep manure off the pasture flock every year since I came here, and it is the reason the bed has stayed at four degrees through two bad seasons.” She put her hand flat on the table. “The flock is gone. So the return is bought compost, and the bought compost that Sera Quill put in the return main on the seventh day cost four shillings a hundredweight, and I know that because I read the invoice, because I read everything, and because you should know that I read it. At four shillings, four hundredweight a month is eighty pounds a month, and this cooperative takes in five pounds eleven and the price of a lamp, and there is a charter date in seven days, and I am telling you now that a bed with no return is a bed that kills seed in a fortnight.”
+“The seed house bed has a compost return and has had one for eleven years, and it has been sheep manure off the pasture flock every year since I came here, and it is the reason the bed has stayed at four degrees through two bad seasons.” She put two fingers on the table. “The flock is gone. So the return is bought compost, and the bought compost Sera Quill put in the return main on the seventh day cost four shillings a hundredweight, and she paid for that herself out of her own fee money because the cooperative could not have, and I know the price because I read the invoice off the water-meadow farm in the open book, because I read everything, and because you should know that I read it. Four shillings a hundredweight, four hundredweight a month, is eighty pounds a month, and this cooperative takes in five pounds eleven and the price of a lamp, and there is a charter date in seven days. A bed with no return is a bed that kills seed in a fortnight.”
 
 “How much do you need a month?” Dunmar Fitch asked, from the doorway, with his book.
 
@@ -43,9 +43,9 @@ Tova Reed came in at eleven with her coat off and stayed standing.
 
 They came in then, in ones and twos, and by noon the seed house had forty-one people in it and there was a second lamp on the middle of the table because the first one had not been enough.
 
-Sera Quill stood by the wall. She had not sat down since she arrived the day before. She had a sheet in her hand — the scope, her scope, the one Marek had read out on a road and signed at a gate.
+Sera Quill stood by the wall. She had not sat down since she came in with the inspector yesterday morning. She had a sheet in her hand — the scope, her scope, the one Marek had read out on a road and signed at a gate.
 
-“I am going to say my piece before the numbers, because after the numbers I will not be able to say it without sounding like a condition.” She held the sheet up. “I signed a scope for two days at a well head and a written finding, and that is what I have done and the finding is on the table. I have not been hired to repair anything. I have no contractor, no crew, no materials, and fourteen pounds. If the cooperative now votes me a repair, I will put my license behind it. I want that understood before the vote, because I have signed my name under a man’s reading that I cannot vouch for, and I am not going to be standing in a room in ten days having said the same thing about something larger.”
+“I am going to say my piece before the numbers, because after the numbers I will not be able to say it without sounding like a condition.” She held the sheet up. “I signed a scope for two days at a well head and a written finding, and the finding is on the table. I have not been hired to repair anything. I have no contractor, no crew, no materials, and fourteen pounds. If the cooperative now votes me a repair, I will put my license behind it. I want that understood before the vote, because I have already signed my name under a man’s reading that I cannot vouch for, and I am not going to be standing in a room in ten days having said the same thing about something larger.”
 
 “You are signing a plan that may never come,” Marek said.
 
@@ -79,13 +79,13 @@ Lissa Vale did not move.
 
 The room sat very still.
 
-“That is not an answer,” Lissa Vale said, “it is a reason, and you are using a reason in the place of an answer, and I have watched you do that since you were nineteen.” But she said it more slowly than she had said anything for a week. “Well. I will hold it. And when you come for it you will come to this table and you will say what for, and I will write it down, and if I think the what-for is a bad what-for I will say no, and if I say no you will not do it anyway. Do you understand that is not a power I have got?”
+“That is a reason in the place of an answer, and I have watched you do that since you were nineteen.” But she said it more slowly than she had said anything for a week. “Well. I will hold it. And when you come for it you will come to this table and say what for, and I will write it down, and if I think the what-for is bad I will say no, and if I say no you will not do it anyway. Do you understand that is not a power I have got?”
 
 “Yes,” Marek said. “It is a power we have got.”
 
 Clerk Perrin Osse came in at half past two with a bundle under her arm and the wet coming off her, having come the eleven miles from Fennmere on a bad road, and stood in the doorway until Dunmar Fitch came and took the bundle from her and found the right document in it.
 
-There were two documents. The first was a district circular in an envelope with the sub-office stamp on it, addressed to the charter holder and copied to the cooperative, headed *Observation of the tenth — filing note*, and it was the district’s own record of Marek’s page, and it had the two Crown serial numbers on it, and it had a line at the bottom that said the district reserves the emergency clause.
+There were two documents. The first was a district circular with the sub-office stamp on it, addressed to the charter holder and copied to the cooperative, headed *Observation of the tenth — filing note*: the district’s own record of Marek’s page, with the two Crown serial numbers on it and a line at the bottom saying the district reserves the emergency clause.
 
 The second was a letter from Kellan Rusk, of Fennmere, to the district, copied to the cooperative.
 
@@ -105,13 +105,13 @@ The room read it twice, in silence.
 
 “He has taken it back off the exclusivity,” Tova Reed said.
 
-“He has taken it off the table,” Dunmar Fitch said. “That is not the same and it is worse. On Tuesday the offer came into this room with a page attached to it and every person in this building understood that the page was the price. This has no page on it. This is a man doing us a kindness and writing down in a district file that our wound is open because his crew went up the fen road at eleven o’clock at night with his compound on a cart while a girl was in the water.”
+“He has taken it off the table,” Dunmar Fitch said. “That is not the same and it is worse. On Tuesday the offer came into this room with a page attached and everybody understood that the page was the price. This has no page on it. This is a man doing us a kindness and writing down in a district file that our wound is open because his crew went up the fen road at eleven at night with his compound on a cart while a girl was in the water.”
 
 “That is the right reading of it,” said Sera Quill from the wall. “I have read nine hundred of those letters. He has taken the condition off and left the accusation on, and if you take this one you will be eating his food in a district building in eight days with his man sitting next to you at the table, and there is nothing in the room that comes out of that well.”
 
 “He saved himself the paper and put it on us,” Ilsa Kern said.
 
-“Miss Kern, I am going to say a thing that is not my business,” Sera Quill said. “Mr Rusk is not a good man. He has also, on four occasions that I know of and one that he has told me about, refused a district instruction to open a well he was paid to hold closed. I do not know what to do with a man like that and I have not worked it out in nine hundred letters. What I will say is that a man who keeps his word about a pad for four years and then drives his kit up a road in a storm to get it out of an inspection is not doing it out of love of the district.”
+“Miss Kern, I am going to say a thing that is not my business,” Sera Quill said. “Mr Rusk is not a good man. He has also, on four occasions I know of and one he has told me about, refused a district instruction to open a well he was paid to hold closed. I do not know what to do with a man like that and I have not worked it out in nine hundred letters. What I will say is that a man who keeps his word about a pad for four years and then drives his kit up a road in a storm to get it out of an inspection is not doing it out of love of the district.”
 
 “It does not matter what he is doing it out of,” Marek said.
 
@@ -119,7 +119,7 @@ The room read it twice, in silence.
 
 Dunmar Fitch read the letter again, formally, and then put it on the table, and then stood up straighter than he had stood all day.
 
-“There is business,” he said. “I am going to number it and I am going to keep the number in the book, and I am going to read every one of them out before the vote so that nobody in this room can say afterwards that they did not know what they were voting for. There are four motions. There is one refusal. I am going to keep the two lists apart, because they are different kinds of thing and the difference is the only thing this cooperative has learned this week.”
+“There is business,” he said. “I am going to number it and keep the number in the book, and read every one out before the vote, so that nobody in this room can say afterwards they did not know what they were voting for. There are four motions. There is one refusal. I am keeping the two lists apart, because they are different kinds of thing and the difference is the only thing this cooperative has learned this week.”
 
 He read the four.
 
@@ -131,7 +131,7 @@ He read the four.
 
 “**Two.** One shared draw at the head, under a written return, so that the draw is not a private act but an act of the cooperative; the return to be made in labor, in compost, and in money, and to be written down item by item with a name against each one; and a standing pressure log, kept at this table, open to any member and to any stranger and to any clerk of the sub-office who asks, without notice and without a member to open it; and a report of root changes, once a month, filed with the sub-office. I move that.”
 
-Nobody seconded for a moment, and then four people said it at once.
+Nobody seconded, and then four people said it at once.
 
 “**Three.** A repair attempt at the well head, on the scope signed at the gate, which Sera Quill will certify if it is made and will not certify if it is not made, with the words *as it stands tonight* on the front of it, and with her license and her name behind it. I move that.”
 
@@ -143,7 +143,7 @@ Nobody seconded for a moment, and then four people said it at once.
 
 Tova Reed put her hand on the book.
 
-“My condition is one line,” she said. “Any reading taken by an unlicensed hand is entered in the seed house book, with the date, the instrument, the person who took it, and the name of the licensed person who stood in the room while it was taken; and the entry is open to anybody who asks to see it. Every one of them. Not only the ones that help us. If the fieldbook is read in this fen again by an unlicensed hand, the reading goes in that book with a date on it before the person who took it goes to sleep.”
+“My condition is one line,” she said. “Any reading taken by an unlicensed hand is entered in the seed house book, with the date, the instrument, the person who took it, and the name of the licensed person who stood in the room while it was taken; and the entry is open to anybody who asks to see it. Every one of them. Not only the ones that help us.”
 
 “No,” said a voice near the door.
 
@@ -167,7 +167,7 @@ Then Dunmar said, “The refusal.”
 
 “Mr Fitch,” Marek said, “I would like to add something before you read it.”
 
-“You would not. There is one letter from the district and it has already been read, and the answer to it is the answer the cooperative has to give, and it is either yes or no, and it cannot be anything else, and there is no procedure for a man standing up in the middle of a served document to add something.” Dunmar closed the book. “I am the clerk of this cooperative and this is a served document and you will answer it before you do anything else, and I will read the answer into the book with the hour on it. The answer is no. The cooperative declines the offer of a coupling, a re-dress, and a crew of two for four days, and it declines it in front of the clerk of the Fennmere sub-office, and it declines it free.”
+“You would not. There is one letter from the district and it has already been read, and the answer to it is the answer this cooperative has to give, and it is either yes or no, and there is no procedure for a man standing up in the middle of a served document to add something.” Dunmar closed the book. “I am the clerk of this cooperative, this is a served document, and you will answer it before you do anything else, and I will read the answer into the book with the hour on it. The answer is no. The cooperative declines the offer of a coupling, a re-dress, and a crew of two for four days, and it declines it in front of the clerk of the Fennmere sub-office, and it declines it free.”
 
 He wrote it down.
 
@@ -195,13 +195,13 @@ Dunmar Fitch read the charter schedule on the table, twice, the way he read ever
 
 The room waited.
 
-“So I will carry it,” he said, “as a note, unsigned by nobody but you, dated, and in the margin, and when somebody stands up in a room in Fennmere on the eighteenth and says the cooperative has no plan, I will be able to hold this up and say: on the eleventh day it had a note in the margin saying it intended one, and could not pay for it. Which is not a plan. Which is worth nothing against a bill. But which is not nothing at all.”
+“So I will carry it,” he said, “as a note, signed by nobody but you, dated, in the margin. And when somebody stands up in a room in Fennmere on the eighteenth and says the cooperative has no plan, I will be able to hold this up and say: on the eleventh day it had a note in the margin saying it intended one, and could not pay for it. Which is not a plan. Which is worth nothing against a bill. But which is not nothing at all.”
 
 He wrote it in. He put the page number beside it.
 
 “Now the last item,” he said, “and it is not a motion either, and it is Mr Fitch’s book and Mrs Vale’s custody, and I would like it minuted.”
 
-He said it. He read the words out and Tova Reed read them again from over his shoulder and checked two words in it, and then Marek Vale unwrapped the fieldbook on the seed house table for the last time and put it in his mother’s hands.
+He said it. He read the words out and Tova Reed read them again from over his shoulder and checked two words in it, and then Marek Vale unwrapped the fieldbook on the seed house table and put it in his mother’s hands.
 
 Eleven pages. A bead in a copper collar. Four corners cut off a map. A column of figures in a dead man’s hand with a date in it that could not be true.
 
@@ -223,7 +223,7 @@ It was Nia, going to Cray on the twentieth, with a list in a drawer that he had 
 
 She put a folded sheet on the table and Lissa Vale read it and signed it, and Sera Quill came off the wall and signed the front of her scope, and Dunmar Fitch entered four numbers and one refusal and one note in the margin and the hour beside each of them, and the book of the Lantern Reach Work Cooperative shut at twenty past six on the eleventh day of the season with a stone lamp burning on it.
 
-Nia Vale, who had been sitting on her hands all afternoon, put her chin on her hand and said, to the table and to everybody in it, “The cart is booked for the twentieth. It is a hired cart out of Fennmere to the Salt March road and the man is holding it with a deposit and he does not hold carts. I am going on the twentieth, and I am going whether the season is saved or not, and I would like the seed house to have a written list of everything I am taking out of it and where it is going, because I am not taking anything that is the cooperative’s and I am not having anybody in this room say afterwards that I did.”
+Nia Vale, who had been sitting on her hands all afternoon, put her chin on her hand and said, to the table and everybody in it, “The cart is booked for the twentieth. Hired, out of Fennmere to the Salt March road, and the man is holding it with a deposit and he does not hold carts. I am going on the twentieth, and I am going whether the season is saved or not, and I would like a written list of everything I am taking out of this seed house and where it is going, because I am not taking anything that is the cooperative’s and I am not having anybody in this room say afterwards that I did.”
 
 “I will write it,” Marek said.
 
@@ -239,12 +239,26 @@ Nia Vale, who had been sitting on her hands all afternoon, put her chin on her h
 
 Seven days to the eighteenth.
 
-Marek stood at the end of his mother’s table, in a room with forty people in it, with his hands in his pockets and no instrument on him anywhere in the world, and worked out what he had.
+The room emptied the way a room empties: slowly, in order, one conversation at a time. Ilsa Kern went out first to see whether the pit had stopped rising. Dunmar Fitch went with a lamp and a list and the look of a man who intends to be in his own seed house at six the next morning. The north row left talking about a gate that has been down since the summer. Old Hesk told the man beside him that the rye was going over sideways and that he had said so for two years, and the man beside him said everybody had said so, and Hesk said that was what made it true.
 
-A pad that had to be built by hands that had never built one. A coupling that could not be bought in Fennmere and would not be bought off a cart. Four hundredweight of compost a month at four shillings and no flock. A shared draw whose return was written down and owed and unpaid. A licensed engineer who had put her license behind a plan that said *as it stands tonight* on the front of it. A note in the margin of a plan book with a figure against it and no money behind it, in the handwriting of an officer of a cooperative that had five pounds eleven, and a book of its own figures open to anybody who asked, and a stranger in it who could add up.
+Nobody asked Marek to leave. Two people asked him whether the lamp wanted oil, and he said it did not, and one of them filled it anyway.
 
-And a fieldbook, in a press, under a ledger, in his mother’s keeping, with a use log on the first page and his own signature under the first line.
+His mother was still at the end of the table with the book closed in front of her and her hands square on the cover, and she was not going to bed, and she was not going to the annex, and Marek understood, some time after he had stopped looking at her, that she was waiting for the room.
 
-He had eight days’ worth of reading, a witness who could contradict him in front of a clerk, a monthly report he had voted for himself, and a bypass nobody could fund.
+“Go on,” Lissa Vale said, without opening it. “Say the thing you have been not-saying since the twelfth. You have had a whole day of not saying it and it has not improved.”
 
-He put his hand flat on the table, on the plan, on the margin where his own note was, and left it there while the room emptied, which took forty minutes, and which nobody asked him to leave.
+Marek stood at her table with his hands in his pockets and no instrument on him anywhere in the world.
+
+“I do not have a plan,” he said.
+
+“You have four motions, a refusal, and a note in a margin,” his mother said. “Say the other thing.”
+
+“I have seven days,” Marek said, “and a pad that has to be built by people who have never built one, and a coupling that cannot be bought in Fennmere and will not be bought off a cart, and eighty pounds a month of compost with no flock behind it, and a shared draw whose return is written down and owed and unpaid, and a licensed engineer who has put her license behind a plan that says *as it stands tonight* on the front of it. And I have a bypass in the margin of your plan book with a figure against it and no money behind it, and my own handwriting on it, in a cooperative that takes in five pounds eleven.”
+
+Lissa Vale looked at the closed book for some time.
+
+“Say the last part,” she said.
+
+“The fieldbook is in a press, under a ledger, in your keeping, with a use log on the first page and my name under the first line. And I cannot get it back by wanting it. I have to come to this table and ask.”
+
+“That is right,” his mother said. “It is a custody and not a forgiveness, and you will be able to tell the difference for the rest of your life, and I would rather you learned it here than at a hearing.” She got up, and picked up her shears, and went past him to the annex, and stopped in the doorway. “You are going to be up all night on that list. There is a lamp on it and there is bread on the shelf behind the ledger, and if you turn the compost page over I will know in the morning.”

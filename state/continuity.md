@@ -40,6 +40,8 @@ A later writer must not change these without recording the change.
 | Return branch as built | 22 rods, 8 inch, silted, stone at the 11th rod | Ch 3 |
 | Loading test result | 134 turns of the handle, stopped by hand | Ch 3 |
 | Pump test, day 1, static lift with collar shut | 41/48 | Ch 1 |
+| Pump test, day 1, after Marek clears the draw by hand | counter still 41/48; the pump **runs** and the yard trough fills | Ch 1 |
+| The outer rows | gone over sideways, lying along the row, white at the top, uncut | Ch 1 |
 | Pump test, day 8, loaded | 48/48 | Ch 6 |
 | Pump, seed, and coil positions on the 8th | sound; the fault is elsewhere | Ch 6 |
 | Sera Quill's fee | 14 pounds, paid personally by Marek; a second visit is another 14 | Ch 5, Ch 10 |
@@ -49,7 +51,7 @@ A later writer must not change these without recording the change.
 | The serial's meaning | District N, execution number, K = a three-year cycle; **one item executed twice** | Ch 8 |
 | The pressure pulse at the head | about one beat in four seconds; on day 8 it came in four events of two, three, four and five beats | Ch 1, Ch 6 |
 | The mill hand tally, highest figure on the board | 261 turns, in the spring of the year Aldren went | Ch 2 |
-| The breeding flock | 130 head (90 ewes, 40 lambs, 4 rams) | Ch 9 |
+| The breeding flock | 130 head (90 ewes, 36 lambs, 4 rams) | Ch 9 |
 | Compound on the pad at the flood | one base coat four seasons old plus four dressings, one of them laid on day 3 | Ch 1, Ch 3, Ch 9 |
 | Nia's cart | day 20, out of Fennmere toward the Salt March and Cray | Ch 10 |
 
@@ -100,14 +102,14 @@ Approved in `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md`
 
 Charter expiry and annual inspection are both day 18. Ch 1–2 on day 1 · day 2 is Tova's two-day look at the records and carries no chapter · Ch 3 on day 3 afternoon, the closing hours of that look, and Ch 4 that evening · Ch 5 on day 6 · Ch 6 across days 7–8 · Ch 7 on day 9 · Ch 8 and Ch 9 on day 10 · Ch 10 on day 11, with seven days remaining. Ch 3 must land inside the two-day window; moving it later breaks the batch's first irreversible act.
 
-Weekdays follow from the text: day 3 is a Tuesday (Ch 4, Ch 10), so day 6 is a Friday, days 7–8 are a Saturday and a Sunday, day 10 is a Tuesday, day 11 a Wednesday, and the eighteenth a Wednesday. Sera's two-day supervised session therefore runs over a weekend, and Ch 5's "instead of on Thursday" means day 5.
+Weekdays follow from the text: day 3 is a Tuesday (Ch 4, Ch 10), so day 6 is a Friday, days 7–8 are a Saturday and a Sunday, day 10 is a Tuesday, day 11 a Wednesday, and the eighteenth a Wednesday. Sera's two-day supervised session therefore runs over a weekend. **Ch 5 (day 6, Friday) carries no weekday name**: it says the cistern job is until dark *today* and that the fieldbook question is hers to raise now rather than at the gate *tomorrow morning*. Ch 4 and Ch 10's "Tuesday" is day 3 and is correct.
 
 Two within-chapter counts are fixed and must not drift: Ch 9 (day 10) ends on **eight** days, and Ch 10 (day 11) on **seven**.
 
 ### Stage and contact accounting after Batch 0001
 
 - Ch 6 contact: supervised, Sera present, a licensed engineer fitted the copper clip, Gael at the sump. Cost is a memory bleed. Sera takes the fieldbook's contents **from the operator by dictation, not from the instrument** — she never opens the book. This must stay true, because Chapter 8's record depends on it.
-- Ch 9 contact: deliberate, unsupervised, unlicensed, **no bead and no return**. Cost is a second memory bleed, four seconds longer, plus a handprint he cannot account for. Damaged wood gave him a wrong direction and nothing else.
+- Ch 9 contact: deliberate, unsupervised, unlicensed, **no bead and no return**. Cost is a second memory bleed **of the same four seconds as the first and dearer than the first** — a handprint he cannot account for and the hour between the gate and the crown — plus a handprint on the weir stones. Damaged wood gave him a wrong direction and nothing else. **The length is not the price; do not make the second contact longer.**
 - Marek ends the batch with nothing on his skin and cannot repeat either contact. Sera has told him to look at his arm twice a week for a year and to record in his own book the first time it is not nothing.
 - In Ch 8, after the fieldbook goes on the record, he lays two fingers on the **front board**, well away from the bead, and does not touch the bead. Perrin Osse records that he did not. Do not give him a third contact.
 
@@ -117,15 +119,34 @@ Two within-chapter counts are fixed and must not drift: Ch 9 (day 10) ends on **
 - **The copper seam** at the housing, where the collar's ring meets the conduit's ferrule, is the contact point any fieldbook session uses. Fitted nine years ago and never looked at.
 - **The Crown sign at Weir Row** is the load-bearing piece of Movement 1 evidence: *BRANCH MAINTENANCE — DISTRICT SCHEDULE. NO LOCAL HOLDER. REPORT CUTS TO THE SUB-OFFICE, FENNMERE.* Notification is not in the schedule as drafted.
 - **The fieldbook's impossible date** is written into Finding 2's companion note as *probably a copying error; to be treated as one, and no inference to be drawn from it.* Marek asked for that wording himself. It is the only protection the volume gives him, and Movement 2 may not quietly undo it.
-- **Sera has seen the shape of the schedule table before and will not say where.** Her Ch 8 line is the entire payoff of Ch 5's "I have papers I will not show you."
+- **Sera has seen the shape of the schedule table before and will not say where.** Her Ch 8 line is the entire payoff of Ch 5's "I have papers I will not show you." On the seventh day she is at the salt cistern until dark and on the eighth she is at the well head; she is not in two places on one day.
 - **Kellan is not a villain and not a coward.** He refuses four district instructions to open a well he is paid to hold closed (Sera, Ch 10), and he drove his compound kit up the fen road in a storm to get it out of an inspection. He removed the exclusivity from his second offer and left the accusation in. He is not redeemed.
 - **Renn Tallow's refusal** at the weir is one flat line, *"I have got the load,"* and it is never explained or softened. Do not turn it into cruelty.
 - **Gael Senn** is the witness who signs in Ch 7, the person at risk in Ch 9, and the one Lissa chooses in Ch 5 because she wants this to be real more than she wants to be important. She is 23 and wants to be a rootwright.
 - **Ilsa Kern** is Hansa Kern's granddaughter, on the short road to the weir, and the E. Kern initials on the work book page are a Kern family signature, not a Lissa Vale relation. Do not restate the family connection wrongly.
-- **Tova's nineteen years** (Ch 4) is a trust report she has read about the shape of free offers, and it is about the Salt March. It is a Volume 03 plant. She says in the room that she will not say more about it.
+- **Tova's unread paper** (Ch 4) is a paper she has read on the shape of free offers with a signature attached. It is **not dated, not numbered, and not located** in the prose any more — she refuses to describe it in the room precisely so that nobody in the room starts behaving like the people in the paper. It is a Volume 03 plant. She has not been offered a number, so Brinewake cannot be read forward off this page. Do not restore a number to it.
 - **Nia leaves on day 20** and does not return within the volume. Her list of what she takes is to be written with columns for crate, destination, and who stood there when it went, in the cooperative's own book.
 - **Tova's evidentiary rule** is now cooperative policy: any reading taken by an unlicensed hand is entered in the seed house book with the date, the instrument, the taker, and the licensed person present, and the entry is open to anybody who asks. The chapter names it. Later writers must not restate it as a Crown rule.
 - **Section nine of the charter schedule** allows any entry made by an officer of the cooperative, dated and signed, as evidence of what the cooperative intended and not of what it did. This is the mechanism that carries the bypass as a note. Use it again rather than inventing a second mechanism.
+
+### Fixes applied to the drafted Batch 0001 on review, and the locks they created
+
+Recorded here because Batch 0002 was written against the *state* files, not the prose, and four of these were wrong in both.
+
+1. **The two Crown serials live in Marek's weir notebook (Ch 7), not in the fieldbook.** The fieldbook's last page holds only Aldren's line of figures (*Seventeen. Set in the low. Eleven. Watch the fourth beat in the small hours.*), the column head and figure *confirmed — set — 4.*, and the impossible year. Bray reads N-2214 and N-3318 off the to-scale drawing in Ch 8. Do not put a serial on a fieldbook page.
+2. **Sera's Ch 8 beat is now on the page.** She asks for the page, reads the two numbers twice, says she has seen the shape of that table, refuses to say where she saw it or what it is, and asks that both refusals be entered with her name. She still names no branch and no office, and she has not been asked about Brinewake. That exchange is the whole payoff of Ch 5.
+3. **Both contacts are four seconds.** The second is *dearer*, not longer. Its extra costs are the handprint on the weir stones and the lost hour between the third gate and the crown.
+4. **Tova withdraws nothing in Ch 4.** The vault veto stands, the cooperative broke it, and the record says so. There is no withdrawn condition anywhere in the batch.
+5. **Pathhound reaches the page.** Lissa Vale names it in Ch 9, says it herds rather than hunts, that it cannot be called off or tied up or be rid of by killing what it stands on, and that the only thing that moves it is a change in where the water goes. She also says the word has not been said in this yard in thirty years. **Rootwoken** is used once, in Marek's recognition of the animal. The second, adult pathhound is Chs 23–25 and is a different animal.
+6. **The compost return link is planted in Ch 9, not Ch 10.** Ilsa Kern says it at dawn, in the pit, immediately after the compound kit. Tova's arithmetic in Ch 10 is confirmation, not revelation. Do not spend this connection anywhere else.
+7. **Ch 4 records two dispositions and one defeat.** Motion one (the trays and the trust's material) carried 34–0. Motion two (entering the claim in the log) **lost 9–22 with 4 abstentions**, of thirty-five hands in a room of forty, because the room would rather be sealed by Kellan's hand on the eighteenth than by its own on the fourteenth. Dunmar will not enter a true number without a licensed cause. The open book is therefore a *private act of the meeting*, not a filing, and it is the reason Ch 8's open book is a document and not a finding.
+8. **The refusal becomes a carried motion in Marek's name.** Lissa refuses it in the room, then demands it be entered as a motion; Marek moves it himself so that a seed steward's refusal is not the operative act. Carried 31–4, with Dunmar entering the number, the hour, and the fact that no member signed Oskell's second page.
+9. **The compost price reconciles.** Bought compost is 4 s/cwt. Sera's two hundredweight on the seventh day is £40 and she pays for it out of her own money and enters it in the cooperative's open book under her own name, so the open book opens on a document that is not the cooperative's. Tova reads the water-meadow farm's invoice off that entry in Ch 10. The £14 fee and the £5 11 treasury are untouched.
+10. **The mill board is a record of return, not of draw.** It counts wheel turns on milling days only — two or three in a week — and 261 is the highest single day on it. 720 turns/day is the whole holding's stated absorption in a hot week, every acre including the outer rows, which the mill never sees the water from. They are different quantities and must not be set on the same line of the same page. Both are locked; neither is a lie. This matters because the mill tally is one of the four records at the Ch 44–46 climax.
+11. **The dial and the stroke tally are separate instruments throughout.** The dial is pressure; the tally is volume; the recorded result is *one hundred and thirty-four turns of the handle, needle at three-eighths under the mark*, and it is a rate, not a day. The daily figures (1,100 / 720 / 380 / 832,000) are the log's, not the test's. Do not let a later chapter make a ten-minute hand test into a daily turn count.
+12. **The pulse has a custodian.** Bray times it twice in the open pit and does not write it, because he did not feel it and would not put an officer's pen to a thing one man felt and an inspector did not. Sera's Ch 6 wording (*no inference is to be drawn from it*) is the authority for that discretion. Nobody names it.
+13. **Ch 3's beat is shame, not relief.** He respects a refusal in the moment that counts and does not agree with it, and the discovery that the difference is the whole of what he has to learn is the chapter's turn. Relief is named, taken, turned over, and refused.
+14. **Ch 1 delivers the pump.** Marek clears a fouled foot valve and gland by hand, runs the pit with the collar off, and fills the dry yard trough. Four men drink from it and the water tastes of iron. That is the pride beat and it is why the dread lands. The counter stays at 41/48 and he says why out loud.
 
 ### Proposed canon changes recorded, not silently applied
 

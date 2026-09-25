@@ -10,9 +10,9 @@ Sera Quill arrived at the well head at seven on the seventh day with a sheet of 
 
 “You are. No — listen to me before you say no, Mr Fitch, because you will say no and then say it again in a letter. This well head has a wounded conduit about two hands long under four seasons of tar. I am going to log that conduit for two days. In two days, a wounded conduit that is not being given anything back will be further along than when I started, and when I sign my name under its condition I will have signed it about a wound I made worse in order to measure it. Nobody can be asked to take that from me. So the return goes in.”
 
-“There is no money for two hundredweight of compost,” Dunmar said.
+“There is no money for two hundredweight of compost,” Dunmar said, “and there is no money for the fee either, and both of those facts are going into the same book.”
 
-“There is the fee,” Sera Quill said. “Fourteen pounds, and if the cooperative reimburses the fee then the cooperative may have opinions about what the fee bought. I have thought about that for a whole morning and I am telling you that I would rather be argued with than wrong.” She looked at Marek. “And I have thought about whether to make the argument for you. Mr Vale, listen. Three things, or you do nothing at all. Something alive to hold on to. A way through that will carry it. And something given back. A man can do the second one with wire and the third one with money, and if he only has the second and the third he has plumbing, and plumbing on a living thing is a way of making a corpse out of it. I have watched it happen twice. If you cannot put three of them on this well head, I will leave today and you will keep the fourteen pounds and I will have wasted a day, and you would have been better off.”
+“The compost is mine,” Sera Quill said. “Two hundredweight at four shillings is forty pounds, which is three fees, and I am not being generous, I am being consistent. You will pay me fourteen pounds at the gate and the cooperative’s open book will open with a line that says the compost came off my own money and the return went in on the seventh day, and that line is worth more to you than the four pounds it would have cost you to buy it yourselves, because a document with a document inside it is a document with an opinion inside it. And if the cooperative reimburses the fee, then the cooperative may have opinions about what the fee bought. I have thought about that for a whole morning and I am telling you that I would rather be argued with than wrong.” She looked at Marek. “And I have thought about whether to make the argument for you. Mr Vale, listen. Three things, or you do nothing at all. Something alive to hold on to. A way through that will carry it. And something given back. A man can do the second one with wire and the third one with money, and if he only has the second and the third he has plumbing, and plumbing on a living thing is a way of making a corpse out of it. I have watched it happen twice. If you cannot put three of them on this well head, I will leave today and you will keep the fourteen pounds and I will have wasted a day, and you would have been better off.”
 
 “There is an anchor,” Marek said. “The conduit in the housing. It is alive. It pushed back when I had my arm in.”
 
@@ -58,7 +58,7 @@ Sera Quill looked up from her page.
 
 “It is off the pump.”
 
-“It is the housing. Listen.” She stood very still for a moment. “That is a pressure change coming up the pipe and going through the frame, and it is not a pump, and it has a beat, and it is coming up from underneath the water in the pit. Mr Vale, that is the fourth one since noon and I have got them all. Go and get the pressure off the sump tap, off the bottom, quickly, and I want the small one on it too, and I want you to take both readings at once, at this exact minute, and I do not care what your two instruments say about each other.”
+“It is the housing. Listen.” She went absolutely still. “That is a pressure change coming up the pipe and going through the frame, and it is not a pump, and it has a beat, and it is coming up from underneath the water in the pit. Mr Vale, that is the fourth one since noon and I have got them all. Go and get the pressure off the sump tap, off the bottom, quickly, and I want the small one on it too, and I want you to take both readings at once, at this exact minute, and I do not care what your two instruments say about each other.”
 
 She sent Gael out first — to the sump tap at the bottom of the pit with the second dial, to take a reading at the same minute as the one at the head, because a pulse that arrives from below can only be found by two people at once — and then went out through the seed house door herself, because the second dial was in the well house and she had said she would fetch it herself.
 
@@ -66,17 +66,17 @@ Gael Senn came up the ladder with the dial in her hand and went down the outside
 
 The pump noise came back and covered the door and covered the yard and covered everything.
 
-And Marek Vale, alone on a board over four feet of iron-colored water with a clip he was not supposed to touch and a well he had been logging for two days, put his hand on the clip and thought: *four seconds and I will have it.*
+And Marek Vale, alone on a board over four feet of iron-colored water with a clip he was not supposed to touch and a well he had been logging for two days, put his hand on the clip, and thought: *hold it long enough to be worth writing down and then get off it.*
 
 He got them.
 
-He did not see anything. There was no shaft, no light, no room, no face. There was a set of hands, and they were his hands, in a body that was his body and was not his body, and they did four things in order and he was each pair of hands as it did them.
+He did not see anything. Nothing looked back. There was no room and no face and nobody in the thing saying anything to him or to anybody. There was a set of hands, and they were his hands, in a body that was his body and was not his body, and they did four things in order and he was each pair of hands as it did them. It was work. He understood that inside the first two seconds and understood it better by the fourth, because he had done every one of these four things with his own hands in a pit, and a thing done in a pit by a man who knows the job does not need a face to be legible.
 
 The left hand went onto a valve wheel and turned it a quarter and held it, and the arm knew the wheel’s size without being told, and the wheel was cold and the cold of it was in the shoulder. The right hand went flat onto a rail and stayed there for a length of time he could not count. Then the left hand went back to the wheel and turned it three quarters and stopped, and the right hand went up to something — a lamp, a hook, a chain — and came down again. Then the left hand shut the wheel all the way, and the valve closed, and everything went quiet and slightly rang.
 
 Underneath that, much larger and much older and not his at all, there was a rhythm in the water. It had been there the whole two days and he had written it down in a column he had not understood. It was a pulse, one beat in about four seconds, slow as a man breathing asleep, coming up under the pit the way the sun comes up under a door.
 
-And in the middle of it: a shaft. Cold, narrow, the walls sweating. A lamp on a chain throwing one moving edge of light. A wheel on a stand, and hands on it — his hands, older, with a torn cuff, turning something through an arc and stopping it, and stopping it, the same four things in the same order, over and over, patient, over a long time that had nothing to do with Thursday.
+And inside it, between the second thing and the third, as though the shaft had been there the whole while and he had been working down it: a place. Cold, narrow, the walls sweating. A lamp on a chain throwing one moving edge of light. A wheel on a stand, and hands on it — his hands, older, with a torn cuff, turning something through an arc and stopping it, and stopping it, the same four things in the same order, over and over, patient, over a time that had no day in it at all and was not waiting for him.
 
 Then it stopped and Marek was on a board over iron water in a fen in the darkening afternoon with blood running out of his left nostril onto the back of his hand.
 
@@ -94,7 +94,7 @@ He picked up the pencil and he wrote on the page of the open notebook, in the mi
 
 And then, underneath: *Session terminated by me. Reason: witness withdrawn to the sump, and operator unfit to continue. Three findings follow. I am writing them now with nobody in the pit at all, which is the worst condition there is and the reason I am writing them in this order before she gets back.*
 
-The pump noise dropped. In the doorway Sera Quill stood with a second dial in one hand and a folded paper in the other, looking at him over the pit, and Marek understood that she had been standing in the doorway for a while.
+The pump noise dropped. In the doorway Sera Quill stood with a second dial in one hand and a folded paper in the other, looking at him over the pit, and Marek understood that she had been standing in that doorway through the whole of it.
 
 “Sit down,” she said.
 
@@ -106,7 +106,7 @@ She came down the ladder past him, set the dial on the board, and looked at the 
 
 “Three,” Marek said. His mouth was dry and his head felt packed. “The operator was unfit to continue. I have had a nosebleed, I have lost about a minute I cannot account for, and I do not trust what is on that page. I will write it down anyway. That is the point. That is what you told me to do.”
 
-“You did exactly what I told you to do,” Sera Quill said, “and I have trained four hundred men and two of them did it, and one of them died of something else afterward, and one of them is a seedwright at Lantern Reach who is going to be extremely inconvenient to somebody in the capital. You are not going to be able to do it again. That is not me being frightened. That is what happens to the instrument and the man both.”
+“You did exactly what I told you to do,” Sera Quill said, “and I have trained four hundred men and two of them did it, and one of them died of something else afterward, and one of them is a seedwright forty miles north of here who is going to be extremely inconvenient to somebody in the capital. You are not going to be able to do it again. That is not me being frightened. That is what happens to the instrument and the man both.”
 
 “I know,” Marek said.
 
@@ -126,7 +126,9 @@ Marek wrote.
 
 He read it out. He had written it in the flatest hand he could manage and it took him longer than any page he had ever written in his life.
 
-Sera Quill read it twice, and then said, “You have already changed my word,” Sera Quill said. “Finding two says *not identified in the course of this session*, and I did not tell you to change it. I had meant to say it myself, at the bottom of the page, with my hand over the top of yours, because a licensed engineer who puts a phrase in an operator’s mouth owns it. Instead you corrected me toward the more careful phrase on your own, at a moment when you were the least fit to be careful about anything.” She turned the page around and read it. “That is the only good thing that has happened in this pit today and I am going to have to lean on it for the rest of this season. I am not going to have to be disappointed about it once. Not even once.”
+Sera Quill read it twice.
+
+“You have already changed my word,” she said. “Finding two says *not identified in the course of this session*, and I did not tell you to change it. I had meant to say it myself, at the bottom of the page, with my hand over the top of yours, because a licensed engineer who puts a phrase in an operator’s mouth owns it. Instead you corrected me toward the more careful phrase on your own, at a moment when you were the least fit to be careful about anything.” She turned the page around and read it. “That is the only good thing that has happened in this pit today and I am going to have to lean on it for the rest of this season. I am not going to have to be disappointed about it once. Not even once.”
 
 “Now the date.” She did not reach for it. “I am not opening that book in a pit. I told you on a road that when I ask, I ask in front of witnesses, and there is one in this yard and she has a step to come up. You will read it out loud to me from where you are sitting, and I will write down that I took it from the operator and not from the instrument, and if anybody ever asks me what that book contains they can have this page and not my hands.”
 

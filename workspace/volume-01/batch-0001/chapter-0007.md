@@ -8,7 +8,7 @@ Marek read the schedule in the seed house on the seventh night with a lamp and a
 
 Under a maintenance order meant: the ground was the charter holder’s, and the cooperative had no standing on it at all. Going over the weir was not trespass against a stranger. It was trespass against their own charter, in writing, in a schedule any inspector could produce, and it was exactly the kind of unregistered work that a certain clause existed for.
 
-He sat with that for a while. Then he wrote in the back of the notebook, in the page where a man keeps the things he is not yet prepared to do: *weir line, day 9, two of us, daylight, take nothing off, cut nothing, photograph nothing because we have no such thing, mark where we step, back off at dusk.*
+He sat with that. Then he wrote in the back of the notebook, in the page where a man keeps the things he is not yet prepared to do: *weir line, day 9, two of us, daylight, take nothing off, cut nothing, photograph nothing because we have no such thing, mark where we step, back off at dusk.*
 
 That was all. It was not a plan. It was a man writing down the reason he was about to do something.
 
@@ -146,7 +146,7 @@ Gael read it. It took a while. She was slow and careful and she went back twice,
 
 It was on the way back up the crown, ninety yards from the cut, on the fen side where the ground drops away to the old water meadow, that he found the marker.
 
-It was a flat slab of fen sandstone set on end in the ground, chest high, weathered to the color of the moss around it, with a shallow dish worn into the top of it by about two hundred years of people putting cups down on it. There was no writing that he could read from the path. He went over the fence and walked around it and read it from the other side, and then he stood with his back to Gael for a while so that she would not be able to read his face.
+It was a flat slab of fen sandstone set on end in the ground, chest high, weathered to the color of the moss around it, with a shallow dish worn into the top of it by about two hundred years of people putting cups down on it. There was no writing that he could read from the path. He went over the fence and walked around it and read it from the other side, and then he stood with his back to Gael, so that she would not be able to read his face.
 
 *HANSA KERN. WENT WITH THE WATER. 1802.*
 
@@ -164,7 +164,7 @@ At two o’clock, Ilsa Kern came up the cart track from the bottom meadow with t
 
 Gael Senn, thirty feet away with her back politely turned, learned every word of it.
 
-Ilsa did not say anything for a while. She went and stood by the marker and put a hand flat on the top of it, on the dish, the way you touch a thing you have touched before, and she read the letters with her finger going along them, and she did not read the shallow last line twice because she did not need to.
+Ilsa went and stood by the marker and put her hand on the top of it, on the dish, the way you touch a thing you have touched before, and she read the letters with her finger going along them, and she did not read the shallow last line twice because she did not need to.
 
 “Yes,” she said. “The E. is my family’s hand. The whole slab is. That is my grandmother. She is in the fen book at Fennmere. She went out on the sixth of a wet month in a year nobody wrote down and came back on the ninth, and that slab is where they put her clothes. The short road went along the bank from the meadow up to the weir steps and it was there when I was a girl.”
 

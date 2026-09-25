@@ -4,17 +4,17 @@
 
 Inspector Ansel Bray arrived at twenty past eight in the rain with a satchel, a folded umbrella he did not open, and Clerk Perrin Osse, who had a book under her arm and the expression of a woman attending a fire she had reported herself.
 
-He was perhaps fifty and he had the manner of somebody who believes his own work and has thought about it longer than he has thought about anything else. He did not look at the well head for the first four minutes. He stood in the wet yard with his hands behind his back and read the paper, and Marek understood that the paper was the thing that had come across the fen on a horse at dusk the night before and that Bray had already decided what it was for.
+He was perhaps fifty and he had the manner of somebody who believes his own work. He did not look at the well head for the first four minutes. He stood in the wet yard with his hands behind his back and read the paper, and Marek understood that the paper was what had come across the fen on a horse at dusk the night before and that Bray had already decided what it was for.
 
 “Marek Vale,” Bray said, without looking up. “Surveyor. I am here under the eighteenth clause of the charter schedule, on an annual inspection called forward by the district. Mr Fitch has the calling order. I am going to ask you some questions and some of them are not fair. Say so when they are not fair, because I will write it down that you did.”
 
 “All right.”
 
-“I am also going to tell you the thing I have been told to tell you, at the front, so that you can spend the next two hours on the rest of it. If I find unregistered maintenance on a non-scheduled branch, I may seal the head, take the seed stock into district custody, or refer the charter for relocation. Those are the three. I have said them before and I will say them again on the eighteenth if I come back, and if you look at me as though I enjoy it we will waste the morning.”
+“I am going to tell you the thing I have been told to tell you at the front, so that you can spend the next two hours on the rest of it. If I find unregistered maintenance on a non-scheduled branch, I may seal the head, take the seed stock into district custody, or refer the charter for relocation. Those are the three. I have said them before and I will say them again on the eighteenth, and if you look at me as though I enjoy it we will waste the morning.”
 
 “I do not think you enjoy it.”
 
-“No,” Bray said. “I have sealed one in this district and it was the right call and the village it was in has not had a bad year since. I have also sealed two that were the right call at the time and have had a very bad year since for reasons that were not anybody’s fault, and one of those two had a cooperative at the far end of it that I had been told was a going concern by a man with a ledger he had not opened. I am not your enemy. I am the last office in the chain that has anybody in it who can write a number down and have it hold.”
+“No,” Bray said. “I have sealed one in this district and it was the right call and the village has not had a bad year since, and I have sealed two more that were the right call at the time and have had a very bad year since for reasons that were nobody’s fault. I am not your enemy. I am the last office in the chain that has anybody in it who can write a number down and have it hold.”
 
 He put the paper away.
 
@@ -26,13 +26,23 @@ Bray went down the ladder himself.
 
 He was down there for nineteen minutes and Ilsa Kern counted them afterward and said so to three different people. He went over the compound pad with his own thumbnail in four places. He asked Marek to fetch the cradle, and then he asked him to fetch his own gauge, and then he made him fetch the fieldbook’s case and set it on the boards unopened while he timed the pressure at four depths and wrote down the four numbers and the times without being asked for any of them.
 
+Twice he stopped what he was doing and stood with his thumb on the rim of the pit and waited, and the second time he counted something on his fingers, and Marek understood that a thing was going up through the water in that pit at an interval, and understood that the inspector had found it, and that the inspector was not writing it down.
+
+When he came up, Marek said, low, “You felt it.”
+
+“I timed it twice and I did not feel it once,” Bray said, “and I have a needle on my own belt that says the water is where the water should be. I am not going to put a district officer’s pen to a thing one man felt and a district inspector did not, because the day I do, every cooperative in this district with a man who notices things has a finding against it by supper. It is in your book, isn’t it.”
+
+“It is, and the licensed engineer wrote that no inference is to be drawn from it.”
+
+“Then I will draw none.” He went past him up the ladder. “You are welcome to be annoyed with me about that in six weeks, when you know more than I do.”
+
 When he came up he looked at the oilcloth wrap and did not touch it.
 
 “What is in that?”
 
 “A fieldbook. Front board, a living bead, and eleven pages. It is my father’s and it is the only instrument on this holding that is not a gauge.”
 
-“It is not an instrument a licensed man may use. It is not an instrument a licensed man may sell. It is not an instrument that has a place on a cooperative holding at all, and if I had found it open on your bench in front of a licensed reader I would have taken it and written a report and you would be in front of a district officer before the month was out.” Bray said all of that without heat, and then said, “Is it open?”
+“It is not an instrument a licensed man may use, or sell, or keep on a cooperative holding at all, and if I had found it open on your bench in front of a licensed reader I would have taken it and you would be in front of a district officer before the month was out.” Bray said it without heat. “Is it open?”
 
 “No.”
 
@@ -42,9 +52,9 @@ Clerk Osse wrote *closed. Not examined by the district. Produced on the seventh 
 
 Bray read the open book on the seed house table for an hour.
 
-He read it properly, which was worse than the way he had read the pad. He read Kellan’s log against the acceptance column, and the acceptance column against the cooperative’s own work book, and the work book against the mill tallies, and he made Perrin Osse take out the district’s own copy of the Lantern Reach filing and lay it beside the cooperative’s own work book page with the return branch on it — the one that said forty-one rods of twelve inch, with a cooperative member’s initials on it — and when the two documents were side by side he sat back and said, “Well.”
+He read it properly, which was worse than the way he had read the pad. He read Kellan’s log against the acceptance column, the acceptance column against the work book, and the work book against the mill tallies. Then he made Perrin Osse lay the district’s own copy of the Lantern Reach filing beside the cooperative’s work book page with the return branch on it — forty-one rods of twelve inch, with a member’s initials on it — and when the two documents were side by side he sat back and said, “Well.”
 
-Two words, in a flat voice, and then he sat and did not say anything else for a while.
+Two words, in a voice with no expression in it, and then he sat and said nothing else.
 
 “Your surveyor is right,” he said at last, to nobody in particular, “and he is right in a way I cannot use, and I want to explain the shape of that to him because he is the only person in this room who will understand the sentence.”
 
@@ -62,7 +72,7 @@ He put his finger on the notebook, on the page with the scale bar.
 
 “Write it.”
 
-“I am going to write it. And the trespass puts cooperative hands on a non-scheduled branch, and the pad over that head is a compound coat that has been topped up four seasons running and never replaced, and the log calls it a seal, and the acceptance was signed by your own engineer of record for four of the six years.” Bray looked up. “So on the face of it this is a cooperative that did unregistered work on ground it did not own, beside a well it certified as sealed, with a book that says the wrong number, and the wrong number is in the district’s own filing. That is a negligent cooperative. That is what my report says at the top.”
+“I am going to write it. The trespass puts cooperative hands on a non-scheduled branch, the pad over that head has been topped up four seasons running and never replaced, the log calls it a seal, and your own engineer of record signed the acceptance for four of the six years.” Bray looked up. “So on the face of it this is a cooperative that did unregistered work on ground it did not own, beside a well it certified as sealed, with a book that says the wrong number, and the wrong number is in the district’s own filing. That is a negligent cooperative. That is what my report says at the top.”
 
 “Go on,” Marek said.
 
@@ -74,9 +84,9 @@ He took out a small sheet with a table printed on it and set it in front of Mare
 
 “Where is the full table?”
 
-“Up,” Bray said, and did not say anything else about it for a moment. “Above both of us. The branch is on a schedule, Mr Vale. It is not on any map you have because a scheduled branch is not drawn on a local map; the map is for the ground a local holder is responsible for. A scheduled item does not appear anywhere a cooperative would look. That is not an error. That is how the work is done.”
+“Up,” Bray said, and left it there. “Above both of us. The branch is on a schedule, Mr Vale. It is not on any map you have because a scheduled branch is not drawn on a local map; the map is for the ground a local holder is responsible for. A scheduled item does not appear anywhere a cooperative would look. That is not an error. That is how the work is done.”
 
-He let that sit in the room for a while.
+He let that sit in the room and let them look at each other while it did.
 
 “It means the cut is not yours,” Marek said.
 
@@ -88,7 +98,7 @@ Bray did not turn round. “Because notification is not in the schedule as draft
 
 “Yes, Inspector.”
 
-“That is the whole of what I have,” Bray said. “It moves the question. It does not answer it. What I have at nine o’clock in the morning is a cooperative with an open book, an over-stated number in a district filing that the cooperative signed for six years, a trespass, a pad that is not a seal, and no licensed hand that has signed anything. I will write all of it. I am not going to pretend I have found a wound upstream that belongs to somebody else’s schedule and call the morning a good one, because a schedule that nobody local can see is not a defence, it is an absence.”
+“That is the whole of what I have,” Bray said. “It moves the question and does not answer it. At nine in the morning I have a cooperative with an open book, an over-stated number in a district filing the cooperative signed for six years, a trespass, a pad that is not a seal, and no licensed hand that has signed anything. I will write all of it. I am not going to pretend I have found a wound upstream that belongs to somebody else’s schedule and call the morning a good one, because a schedule nobody local can see is not a defence, it is an absence.”
 
 “I want to put something on the table,” Marek said.
 
@@ -112,9 +122,15 @@ Sera Quill had come in behind Bray and had been standing by the wall. Now she sa
 
 “Read it into the record,” Marek said.
 
+“The raw figures are mine,” Sera Quill said.
+
+She had it in her hand before he had finished the sentence. Nine pages, two days of quarter-hourly readings, every figure on all nine of them in a surveyor’s hand. She put them in the middle of the long table, squared to the edge, the page with the four strokes past the refusal on top where it could not be missed, and then stepped back from them so that it was plainly not her property.
+
+“From the operator,” she said, “by dictation, on the eighth day, in a pit, with a witness. I never opened the book. That is the whole of my standing in it and you may have the clerk check every word of it against the fieldbook, which is on this table open.”
+
 He read it out.
 
-He read the two days of quarter-hourly figures, the loaded test at forty-eight of forty-eight, the four beats, and then Finding 3, in his own flat hand, word for word, in the room where thirty people were standing, and he read the part about the four seconds, and the part about not being able to separate his own hands from another pair of hands, and the part where it says *logged as UNVERIFIED*, and then he came to the end of it and stopped and said, out loud, to Inspector Ansel Bray:
+He read the two days of quarter-hourly figures off her pages, and the loaded test at forty-eight of forty-eight, and the four beats, and then Finding 3, in his own hand, word for word, in the room where thirty people were standing, and he read the part about the four seconds, and the part about not being able to separate his own hands from another pair of hands, and the part where it says *logged as UNVERIFIED*, and then he came to the end of it and stopped and said, out loud, to Inspector Ansel Bray:
 
 “That last one is my own reading of an instrument I am not licensed to use, taken by a hand with no standing, in four seconds I cannot account for, on an instrument my own gauge contradicted. It is not evidence of anything. It is the least reliable thing any man has said in this room today, and I am asking you to write it in your book as an unverified observation, with my name against it, so that it is on the record and cannot be used later by anybody who finds it comfortable.”
 
@@ -128,19 +144,37 @@ He read the two days of quarter-hourly figures, the loaded test at forty-eight o
 
 The rain came harder on the roof.
 
-Bray looked at the book on the table for a long time.
+Bray reached for the pencil, and then did not pick it up.
 
-Then he read the two numbers off the page, and got out a lead pencil, and did not write.
+Instead he got up, went along the table, and picked up the fieldbook with both hands and turned it so the bead was under the lamp. He read the last page — the one with the surveyor’s father’s hand on it, the column head, the figure, the line of figures above it, and the year that was eight months after the shaft came in. He read it once. He read it again with his thumb on the year.
 
-Instead he got up, went along the table, and picked up the fieldbook with both hands, turned it so the bead was under the lamp, and read the last page — the one with his father’s hand on it, the column head and the figure, and the year that was eight months after the shaft came in.
+He set it down again, the way people put down something they have just worked out is not theirs, and asked for the other book.
+
+“The one from the weir. The drawing.”
+
+Marek gave him the weir notebook and Bray opened it at the page with the scale bar, and there, copied out in block capitals because Marek Vale had copied them out by hand and made his witness watch him do it, were two die-struck numbers.
 
 “2214,” he said. “And this is 3318. Same district, same letter, K cycle. That is one item executed twice, Mr Vale, not two items, and I want you to understand what that means before you put it in your mouth tonight. That is a piece of work that comes back. It comes back on a cycle, and the cycle is written down, and the second execution is not a repair of the first. It is the same repair, on a schedule, after a man has seen the first one heal. Are you certain of the second die?”
 
 “It is shallower and one arm of the three is thin. Different die, worn.”
 
-Bray put the fieldbook down very carefully, the way people put down something they have just realized is not theirs.
+Sera Quill said, “Let me see the page.”
 
-Then he read the margin on the weir page, where Gael Senn had written in her own hand about a sandstone slab and a short road to the weir and a woman called Hansa Kern, and he read it twice, and then he said, to Perrin Osse, “Copy the margin into the district record as part of the observation, and copy Mr Vale’s page and the numbers off it, and enter the finding as he has asked. Unverified. Witnessed by the surveyor, contradicted by his own instrument, and now read out by a licensed engineer from the operator and not from the instrument, in your presence.”
+Bray handed it over. She did not read it the way a licensed engineer reads a drawing. She read the two numbers, and then she read them again, and then she stood at the long table with the rain coming off the roof and a district clerk’s pen stopped an inch off the paper, and said nothing for long enough that Perrin Osse looked up.
+
+“Ms Quill.” Bray said it carefully.
+
+“Six columns and no headings,” Sera Quill said. “One of them holds a number, the other five hold dates, and the sheet you have brought me is a photograph of a window. I have seen the shape of that table. Often enough to know its shape in the dark.” She gave the page back. “I am not going to tell you where I saw it and I am not going to tell you what it is, and I want both refusals in your record with my name on them, because in about four years somebody is going to ask a licensed engineer whether she recognized a Crown schedule when she saw one, and the answer will be *yes*, and it is easier to say yes when there is a page with today’s date on it.”
+
+“Clerk,” said Bray, “enter that exactly as she has said it.”
+
+“You knew.” Marek said it to the back of her head. “On the road, at the gate. You said you had papers you would not show me and that you had failed to find out by whom for six years, and you have known since the sixth day that a branch on this fen was cut on Crown money, and you sat down that night and let me pay you fourteen pounds.”
+
+“I let you pay me fourteen pounds,” she said, “because on the sixth day I had a story with nothing in it, and this morning I have half a table and a man who copied two numbers out by hand and made a lamp-keeper watch him do it. I have spent six years failing to find out by whom. You are the first person in six years who has handed me a page.”
+
+Bray put the pencil down. “The serials go in as a matter of fact and not as an inference. I will not go further than that in this room.”
+
+Then he read the margin on the weir page, where Gael Senn had written in her own hand about a sandstone slab, a short road to the weir, and a woman called Hansa Kern. He read it twice, and then he said, to Perrin Osse, “Copy the margin into the district record as part of the observation, copy Mr Vale’s page and the numbers off it, and enter the finding as he has asked. Unverified. Witnessed by the surveyor, contradicted by his own instrument, and now read out by a licensed engineer from the operator and not from the instrument, in your presence.”
 
 Sera Quill said, “You are entering a reading taken without a license.”
 
@@ -148,7 +182,7 @@ Sera Quill said, “You are entering a reading taken without a license.”
 
 He signed the page, and dated it, and turned it round, and put the lead down.
 
-“I will not take the book,” he said. “I will note it exists, that it was produced voluntarily on the tenth day by the engineer of record, that its contents have been taken by a licensed engineer from the operator and not from the instrument, and that it is to be produced at the eighteenth if the district requires it, and that it was produced open, on my instruction, in a pit, in front of a clerk, which is the only condition under which I will allow it to be produced again. It is not seized and it is not the cooperative’s. It is a record now. You may not move it, sell it, lend it, or put it in another instrument without telling the sub-office, and I will take it, Mr Vale, the first time it is opened by an unlicensed hand without a licensed reader in the room — not the day after, the first time. I have taken one before and the man who owned it still writes to me. Do you understand what you have done.”
+“I will not take the book,” he said. “I will note that it exists, that it was produced voluntarily on the tenth day by the engineer of record, that its contents have been taken by a licensed engineer from the operator and not from the instrument, and that it is to be produced on the eighteenth if the district requires it. It is not seized and it is not the cooperative’s. It is a record now. You may not move it, sell it, lend it, or put it in another instrument without telling the sub-office, and I will take it, Mr Vale, the first time it is opened by an unlicensed hand without a licensed reader in the room. Not the day after. The first time. I have taken one before and the man who owned it still writes to me. Do you understand what you have done.”
 
 “Yes,” Marek said.
 
@@ -158,11 +192,11 @@ He signed the page, and dated it, and turned it round, and put the lead down.
 
 Bray put his satchel on the table.
 
-“Now the finding on the node. Ms Quill, you are a licensed engineer. You have a scope, which Mr Fitch has, and a fee, which is paid, and a signature, which is in your own book. I will not ask you for it and I will not take it. But I will ask you one question as the officer of this inspection, and I will put the answer in the record whether you like it or not, because the alternative is a blank in a district file about a cooperative whose district file is open. Is the node maintained, not maintained, or maintained with defects?”
+“Now the finding on the node. Ms Quill, you are a licensed engineer, you have a scope, a fee, and a signature in your own book, and I will neither ask you for it nor take it. I will ask you one question as the officer of this inspection and I will put the answer in the record whether you like it or not, because the alternative is a blank in a file about a cooperative whose file is open. Is the node maintained, not maintained, or maintained with defects?”
 
 Sera Quill looked at the well house door, through which the rain and the yard and the embankment and the whole flat gray of the fen could be seen.
 
-“Maintained with defects,” she said. “Defects which are not the cooperative’s, a pad which is not a seal, and a fault which is not in the well head. I can sign that on the eighth day of a session of two days and I will not sign anything else, and if your district wants a seal it needs a repair attempt, and the repair attempt is not mine to make, it is his, and it has to be made by a crew and witnessed and dated and returned, and he has not got one and he has not got a fortnight and he has not got a contractor, and if the district’s file needs a man to have tried, then the district can have a man to have tried, and I will not pretend the try is a repair.”
+“Maintained with defects,” she said. “Defects which are not the cooperative’s, a pad which is not a seal, and a fault which is not in the well head. I can sign that and I will not sign anything else. If your district wants a seal it needs a repair attempt, and the attempt is not mine to make, it is his, and it has to be made by a crew and witnessed and dated and returned, and he has not got one and he has not got a contractor. If the district’s file needs a man to have tried, then the district can have a man to have tried, and I will not pretend the try is a repair.”
 
 Bray wrote that down too.
 
@@ -172,21 +206,17 @@ Bray wrote that down too.
 
 He put his hat on.
 
-“Mr Vale, I am going to say the last thing and then I am going to leave before the room gets braver. I do not think you are a crook. I have known three or four. You are a competent man in a bad position who has done a competent, licensed-sized piece of work without a license to do it, which is the exact way this district produces men like you, and I would rather this cooperative had a licensed man in it than a good one, and there is nobody in this fen I would send who will still be standing here in three weeks. If the Crown will not put a person in here, then somebody in here has to become a person, and that is going to take longer than eighteen days, and I am sorry for it, and I am not going to pretend that is an excuse.”
+“Mr Vale, I am going to say the last thing and then leave before the room gets braver. I do not think you are a crook. I have known three or four. You are a competent man in a bad position who has done a competent, licensed-sized piece of work without a license to do it, which is the exact way this district produces men like you, and I would rather this cooperative had a licensed man in it than a good one, and there is nobody in this fen I would send who will still be standing here in three weeks. Somebody in here has to become a person. That is going to take longer than eighteen days. I am sorry for it, and I am not going to pretend that is an excuse.”
 
 He got as far as the door.
 
-“Kellan Rusk is in my yard,” he said, without turning round. “He has been in my yard since seven this morning asking me to make sure the compound kit went out of this cooperative before this morning’s inspection, and I have told him it goes out of this fen tonight with his crew and not before, and he has accepted that, and I have written it down.”
-
-He looked out at the rain.
-
-“You should know that a man who asks me to empty a pit before an inspection is a man who expects to win by what is not in the pit. I have seen that twice. Both times I was wrong, and both times the cooperative was fine, and both times the fault went upstream to a district office and never came back down.”
+“Kellan Rusk is in my yard,” he said, without turning round. “He has been there since seven this morning asking me to make sure the compound kit went out before this morning’s inspection. I have told him it goes out of this fen tonight with his crew and not before, he has accepted that, and I have written it down. You should know that a man who asks me to empty a pit before an inspection expects to win by what is not in the pit. I have seen that twice. Both times I was wrong, and both times the fault went upstream to a district office and never came back down.”
 
 Then he was gone, and the yard was loud again.
 
 Kellan Rusk came in at noon.
 
-He had not gone into the yard. He waited until Bray’s cart was off the fen road, and then he came through the gate and took his hat off, which he had never once done in six years of coming through that gate, and that was how Marek knew the morning had cost him something.
+He waited until Bray’s cart was off the fen road, and then came through the gate and took his hat off, which he had never once done in six years of coming through it, and that was how Marek knew the morning had cost him something.
 
 “Rusk.”
 
@@ -198,17 +228,17 @@ He had not gone into the yard. He waited until Bray’s cart was off the fen roa
 
 “Yes.”
 
-Kellan Rusk looked around the seed house for a while, at the open book on the table and the four people standing guard over it, and at the tray in the annex with three dead trays in it.
+Kellan Rusk looked around the seed house: at the open book on the table and the four people standing guard over it, and at the tray in the annex with three dead trays in it.
 
 “Was it your father’s?” he asked.
 
 “Yes.”
 
-“Then you have no idea what you have done and I am not going to help you.” He put his hat back on. “My crew pulls the pit ladder, the fiber, and fortyweight of compound out of that pump shed tonight. Everything that is mine. What is left is yours and it is a pad over a hole.”
+“Then you have no idea what you have done and I am not going to help you.” He put his hat back on. “My crew pulls the pit ladder, the fiber and fortyweight of compound out of that shed tonight. What is left is yours, and it is a pad over a hole.”
 
 “The pad is the last thing between that wound and the pit.”
 
-“The pad is a coat of tar somebody puts on a wound that is not closing,” Kellan Rusk said, “and I have dressed it every year for four years and you know that I have dressed it every year for four years, and the wound is not closing, and the reason the wound is not closing is a cut on somebody else’s schedule a mile up the fen that I do not have a right to look at and am not going to be blamed for. When your inspector comes back on the eighteenth, Mr Vale, there is going to be nothing in that pit of mine, and the reason there is going to be nothing in that pit of mine is that I would rather be an expensive man who did nothing than a cheap man who did something and got it wrong twice.”
+“The pad is a coat of tar somebody puts on a wound that is not closing,” Kellan Rusk said, “and I have dressed it every year for four years, and it is not closing, and the reason it is not closing is a cut on somebody else’s schedule a mile up the fen that I have no right to look at and am not going to be blamed for. When your inspector comes back on the eighteenth there is going to be nothing in that pit of mine, and the reason there is going to be nothing in that pit of mine is that I would rather be an expensive man who did nothing than a cheap man who did something and got it wrong twice.”
 
 He went out through the seed house door and stopped in the middle of the yard.
 

@@ -142,6 +142,8 @@ She looked at him for a second longer than she needed to.
 
 He had worked out, on the way back to the seed house, how the mill’s hand tally related to the two columns in the log, which was the thing he had not told her. The wheel was turned by the return race — the ditch that carried the cooperative’s drainage back down to the node, and the same water Kellan’s log claimed was coming back. Wheel turns and water turns were the same measure; that was the whole point of the tally board, and it had been the whole point of it for thirty years, and nobody had ever needed to explain it to a Salt March seed steward because nobody had ever asked.
 
+What the board was not, and what nobody ever asked it for either, was a day’s draw. It was a record of what came back, and only on the days the mill ground, which was two or three in a week, and the drainage went past that wheel on all the rest of them with nobody counting. And seven hundred and twenty turns was what the whole holding was said to be able to take in a hot week, every acre of it including the outer rows, which the mill never saw the water from. Two different quantities, both honest, and a man who put them on the same line of the same page would be doing arithmetic on the wrong pair of numbers and would look clever doing it.
+
 At the seed house door Lissa Vale had been standing the whole time without moving, and now she said, “Bring the trays in. The annex is four degrees. Watch your feet on the step, the third board is soft, and if you spill sand on my floor I will make you sweep it before you eat.”
 
 And Tova Reed, who had walked into a cooperative in the middle of a failed season to tell it that its numbers were false, said, “Thank you,” and went in.
@@ -150,7 +152,7 @@ The afternoon went the way afternoon’s do. Crates up, sand spilled, the Longne
 
 He went out at dusk and stood at the mill-keeper’s shed across the race, where the tally board hung under a tin roof, thirty years of hand figures in five different hands, one line for each day, the seasons separated by a ruled band.
 
-Two hundred and sixty-one was the highest figure in the whole board, and it was in the spring of the year Aldren had gone.
+Two hundred and sixty-one was the highest figure in the whole board, and it was in the spring of the year Aldren had gone, and the nearest figure to it in the twenty-nine years on either side was two hundred and forty, which told Marek nothing at all except that the mill had a bad spring that year and had been counting honestly while it did.
 
 She had read that board from the yard. He was sure of it, because she had looked at it and then looked at the mill and then looked at him, and the mill race was twenty feet wide and shallow and the only thing worth looking at on that side of the yard.
 
@@ -192,4 +194,4 @@ Marek went out into a yard that had gone completely dark, with the wind coming u
 
 The cooperative had promised a pressure report. He had roughly a week to build one, and the only circuit on the whole holding that could be loaded and measured inside a day was the seed house’s return line, and the seed house’s return line ran under the north annex, where eleven crates of the March’s last dry-land rye were lying in wet sand in the dark.
 
-He stood in the cold for a while thinking about a woman who had found the worst number in the building by doing arithmetic on a cart, and had then sat in a seed house and listened to two hours of talk about rye without once mentioning it.
+He stood in the cold thinking about a woman who had found the worst number in the building by doing arithmetic on a cart, and had then sat in a seed house and listened to two hours of talk about rye without once mentioning it.

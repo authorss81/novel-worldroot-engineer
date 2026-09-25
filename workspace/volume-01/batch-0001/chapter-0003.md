@@ -8,31 +8,23 @@ He had slept about two hours and had spent the rest of the night doing the only 
 
 Eleven hundred turns a day at the head. Seven hundred and twenty the ground can take. Three hundred and eighty going down a private branch. And for that to be a *drawing* rather than a robbery, the return had to come back. Water in, water back, and the back end of it through a return branch the cooperative was supposed to maintain.
 
-The return main under the north annex was the largest pipe on the holding. It was the only circuit that could be loaded and read inside a day. The well could not be loaded without Kellan’s gauge and Kellan’s crew. The main could be read off a dial. The return could be read off a dial and driven hard enough to find out what it would really pass, which was the only way in the world to make an argument you could put in a clerk’s book.
+The return main under the north annex was the largest pipe on the holding. It was the only circuit that could be loaded and read inside a day. The well could not be loaded without Kellan’s gauge and Kellan’s crew. The main could be read off a dial. The return could be read off a dial and driven hard enough to find out what it would really pass, which was the only way to make an argument a clerk would take.
 
 The only trouble with the return main was what it ran under.
 
 “It is not a bad idea,” Ilsa Kern said, from the shed door. “It is a bad place to have it.”
 
-“I am not putting a load through the bed,” Marek said. “I am putting a load through the *line*. The bed is on the far end of the line. That is where the water goes. That is what the water is for.”
+“I am not putting a load through the bed,” Marek said. “I am putting a load through the *line*, and the bed is on the far end of the line, and that is where the water goes.”
 
-“It is on the far end of the line.”
+“Ten,” she said, not listening to any of it.
 
-“Yes.”
-
-“And the far end of the line is where the March’s trays are sitting in wet sand under a slab of living rootwood that I have watched Lissa Vale keep alive for eleven years with cold water and sheep manure and a great deal of doing nothing very carefully.”
-
-“Ten.”
-
-“Ten what?”
-
-“Ten minutes. I want ten minutes of a loaded line at three-quarter pressure. That is a loading test, that is a standard, you could read the number off it in a shed in any district in the Crown. The bed sees what it sees in ten minutes. It will not even change temperature.”
+“Ten minutes. I want ten minutes of a loaded line at three-quarter pressure. That is a standard; you could read the number off it in a shed in any district in the Crown. The bed sees what it sees in ten minutes. It will not even change temperature.”
 
 Ilsa looked at the rig, and then at him, in a way he did not like, and then she said, “I do not understand the argument and I am going to refuse anyway,” which was the most Ilsa Kern sentence that has ever been spoken in this shed.
 
 Marek opened his mouth to explain it again, and the north annex door opened, and Tova Reed came in with her coat off and two days of the cooperative’s records in her head.
 
-She had said she would not say one word until the second day was out, and the second day was not out. She looked at the rig, and at the coil of hose, and at the brass gauge, and at the length of line going out of the shed across the yard toward the seed house, and she had the whole of it in about four seconds.
+She had said she would not say one word until the second day was out, and the second day was not out. She looked at the rig, and at the length of line going out of the shed across the yard toward the seed house, and she had the whole of it in about four seconds.
 
 “No,” she said.
 
@@ -46,9 +38,11 @@ She had said she would not say one word until the second day was out, and the se
 
 “There is nothing in the book yet. Your two days are not out.”
 
-“That does not make the condition go away, it makes it worse, because you knew it before I had finished saying it.” She came further in. “Mr Vale, you do not need the vault. You need a number. There are four other ends on that return main. Three of them are ditches. Put your load in a ditch and read the dial and I will witness all of it and I will not say one word about your driving it up under my rye.”
+He heard himself say it. It was in the book. He had watched his own name go into it at twenty past nine on the second morning, three lines and the hour beside them, and there was exactly one reason to say otherwise, and the reason was that a man who will not admit a thing on the record has not got it on the record.
 
-“The ditches are downstream. A ditch will tell you what the line passes when nothing is fighting it at the far end. I need the *closed* end. I need the line loaded against something. Otherwise I have measured a pipe and not a return, and half a load proves nothing at all, and then I go to the clerk on the eighteenth with a number that could be argued with by anybody with a bad hand and a free afternoon.”
+“That does not make the condition go away,” Tova Reed said, “it makes it worse, because you knew it before I had finished saying it. It is in the book and you can go and look at it after I have gone, if you would like to be able to say that you never saw it.” She came further in. “Mr Vale, you do not need the vault. You need a number. There are four other ends on that return main. Three of them are ditches. Put your load in a ditch and read the dial and I will witness all of it and I will not say one word about your driving it up under my rye.”
+
+“The ditches are downstream. A ditch will tell you what the line passes when nothing is fighting it at the far end. I need the *closed* end. I need the line loaded against something. Otherwise I have measured a pipe and not a return, and half a load proves nothing, and then I go to the clerk on the eighteenth with a number anybody with a bad hand and a free afternoon could argue with.”
 
 “So you want to measure the line by driving water into the vault.”
 
@@ -100,9 +94,9 @@ He got two fingers on the handle and pushed, and the pump took on his weight and
 
 It was cold. He had known it would be cold. He had not known that it would be that cold, and he had not known it would come up grey-brown, and he had not known that it would smell of iron so hard in a closed room that Nia Vale, who was counting trays on the far side of the annex, stopped counting.
 
-He watched the dial come up off its rest. Sixty. Eighty. A hundred and ten. A hundred and thirty, and holding, and the hand shaking a little, and he wrote the number down on his forearm because he had the notebook in his back pocket and both hands were on the handle.
+He watched the dial come up off its rest. Sixty. Eighty. A hundred and ten. A hundred and thirty, and holding, and the hand shaking a little. Behind the dial there was a tally stick, and the tally was the number and the dial was only the pressure, because a stroke is a measured quantity and a hand on a needle is an opinion, and he had spent his working life finding out which of the two people in a room believed the needle. He wrote both on his forearm, because he had the notebook in his back pocket and both hands were on the handle.
 
-“Tova,” he said. “It is holding at a hundred and thirty. That is the number. A hundred and thirty turns of the handle is what your return line will pass, and the log says three hundred and eighty a day, and you can put that in a book and it is worth more than eight hundred thousand turns of arithmetic, because a clerk can check it and a district office can check it and a Crown man can check it, and I have it in my hand.”
+“Tova,” he said. “The needle is holding at a hundred and thirty and the tally is at a hundred and thirty. That is the number. A hundred and thirty strokes in ten minutes is what your return line will pass, and the log says three hundred and eighty has to come back through it every day, and you can put that in a book and it is worth more than eight hundred thousand turns of arithmetic, because a clerk can check it and a district office can check it and a Crown man can check it, and I have it in my hand. It is a rate and not a day, and I am not going to dress it up as a day, and the tape is what tells you the rest.”
 
 She did not answer. She had gone past him and into the annex.
 
@@ -134,19 +128,25 @@ The coupling lay in the pieces in the wet. He had made it. Three weeks ago, out 
 
 “Stop it properly. Uncouple the source, close the valve, and put a board on the pit so nobody comes out here in the dark and puts a foot through it.”
 
-That was not what she had said. That was not a request to shut something off. That was a competent person taking a job away from a man who had just shown her he could not be trusted with it, and Marek found that it did not feel like a rebuke, it felt like relief.
+That was not what she had said. That was not a request to shut something off. That was a competent person taking a job away from a man who had just shown her he could not be trusted with it.
+
+Something in him let go, and what it let go into was relief, and he took the relief and turned it over and did not want it. She was not absolving him. He was being relieved of the job, which was not the same, and the difference between the two was three trays of rye raised a thousand miles in wet sand by people who could not afford another failure.
+
+That was the part he was going to have to carry. Not that he had been wrong about the return. He had been exactly right about the return and she had put it in a book. He had been right about a number and reckless about what the number would cost, and both were true at once and neither cancelled the other, and there is no version of an afternoon in which a man with a defensible reason does not pay for having had it.
+
+And the other half, which he had no name for: she had said no, in writing, before he started, and he had heard her, and hearing her had not stopped him. Respecting a refusal was not the same as agreeing with it, and he had known that for eleven seconds and had gone on anyway, and that difference was going to be the whole of what he had to learn.
 
 He shut the source down. He closed the valve. He got a board out of the annex and laid it across the pit and weighted it with two sacks of the Longneck’s own sand, which was such a small stupid thing to do with a spadeful of somebody’s future that he had to stand still for a second afterward.
 
 Then he gave her the log.
 
-Not the water-stained working notes. The proper fieldbook of the loading test, the one with the time, the gauge, the temperature, the number, the start and the stop, and the *stopped by hand at a hundred and thirty-four turns of the handle* written in the middle of the page in his own hand. He held it out to her with the wet coming off the boards onto his boot, and she took it, and she did not say thank you, because it was not a gift.
+Not the water-stained working notes. The proper fieldbook of the loading test, the one with the time, the gauge, the temperature, the number, the start and the stop, and the *stopped by hand at one hundred and thirty-four turns of the handle, needle at three-eighths under the mark* written in the middle of the page in his own hand. He held it out to her with the wet coming off the boards onto his boot, and she took it, and she did not say thank you, because it was not a gift.
 
 “It is all there,” he said. “Including the four strokes I did after you told me to stop. Write those down too. They are in the time.”
 
 “I saw them,” Tova Reed said.
 
-He washed his hands in the cold bucket and watched the water in it go the color of the pit. Then he went into the annex and knelt down by the bed and put his hand flat on the rootwood, and it was cold and it was wet and it was a slab of living rootwood that had been keeping eleven trays of seed at four degrees for eleven years, and he put his other hand on the crown of the first leaf he could reach and it was slimy in a way that healthy leaves never are.
+He washed his hands in the cold bucket and watched the water in it go the color of the pit. Then he went into the annex, knelt down by the bed, and laid his hand on the rootwood, and it was cold and it was wet and it was a slab of living rootwood that had been keeping eleven trays of seed at four degrees for eleven years, and he put his other hand on the crown of the first leaf he could reach and it was slimy in a way that healthy leaves never are.
 
 He waited for something. He was not quite honest with himself about what he was waiting for, and he would have been ashamed to write it down: he wanted the wood to say something. He wanted the slab under his palm to lift, or go slack, or answer, the way a thing answers when it knows it has been touched by a man who can hear it. He wanted the rootwood to be a door.
 
@@ -156,7 +156,7 @@ It was wood. It was wet, and cold, and it did what wet cold wood does, which is 
 
 They went out. The trays nearest the inlet — the first two, and the edge of the third — had gone a translucent yellow-white from the crown down, the same color as the water that had come up, and the leaves were heavy with it, and where he had lifted one the leaf came away from the crown and left a smear.
 
-She did not say it might be all right. Marek waited for it. She went along the three trays, lifting a leaf at the root with a fingernail, counting, not hurrying, and putting the leaves down the way she had found them, and at the end of the third tray she stood with her back to him for a while.
+She did not say it might be all right. Marek waited for it. She went along the three trays, lifting a leaf at the root with a fingernail, counting, not hurrying, and putting the leaves down the way she had found them, and at the end of the third tray she stood with her back to him and said nothing at all for long enough that the annex dripped twice.
 
 “Eleven crates,” she said. “The Longneck is eleven crates and four seasons of work at Cray and it is the only dry-land line the March has. Two trays and the edge of a third, and I will not be able to prove which seeds in those two trays came from what parent, and even the ones that look whole will not carry a load I would trust past the March. So: three trays. I am calling three trays spoiled and I am not going to soften it later because it will be convenient to soften it later.”
 
@@ -166,7 +166,7 @@ She did not say it might be all right. Marek waited for it. She went along the t
 
 He went out into the yard and stood by the well head in the dark, where two of Kellan’s men were still working.
 
-He had not seen them come in. They had come in some time in the afternoon, while he had been in the annex, and they were on the ladder with the compound pot and the fiber roll, doing what they did every year, and one of them — a youngish man, a pump engineer by his rig, who had nodded to Marek in the spring and never said more than that — was smoothing a fresh coat over the pad at the six o’clock position where the water came up, working it into the old coats, pressing it down with the heel of his hand so it would take.
+They had come in some time in the afternoon, while he had been in the annex, and they were on the ladder with the compound pot and the fiber roll, doing what they did every year, and one of them — a youngish man, a pump engineer by his rig, who had nodded to Marek in the spring and never said more than that — was smoothing a fresh coat over the pad at the six o’clock position where the water came up, working it into the old coats so it would take.
 
 “Marek,” he said, without stopping. “You want to keep off the boards.”
 
@@ -180,19 +180,17 @@ Renn Tallow finished the run, sat back on his heels, and looked at the coat. “
 
 “No,” Marek said. “You cannot.”
 
-Renn Tallow nodded slowly, and looked at the pit, and then at Marek.
-
-“Who came up through the pit this morning with his arm in to the shoulder?”
+Renn Tallow looked at the pit, and then at Marek. “Who came up through the pit this morning with his arm in to the shoulder?”
 
 “Me.”
 
 “Aye,” Renn Tallow said, and went back to his pot.
 
-Marek stood there in the cold for a while, and thought about three trays.
+Marek stood in the cold and thought about three trays, and about the two days of a season it had taken to prove a thing he already knew, which could not be got back, because a number is worth nothing until the day it is due.
 
 The two days were out. Tova Reed came out of the annex at last with the log under her arm and the wet sand weighed out into a bucket, and walked straight past him to the well house, where she stood under the one good lamp and read his loading test from beginning to end, and where, at the place where the numbers stopped making sense, she read it again.
 
-“Your gauge and my work book agree,” she said. “Your gauge says the return line will not pass what the log says is coming back. My tape says the return line is a third of the length the work book says. Those are two records, made by two people who do not know how to read each other’s work, and they say the same thing.” She looked up. “That is the first useful thing that has happened in this yard in six years, and I want you to understand that it happened because of a coupling you built out of a mill collar, and that the coupling is now in pieces on the floor and the line has a hole in it that will not be repaired before the eighteenth, and that the March has just lost three trays of the only rye it has left.”
+“Your loading test and my work book agree,” she said. “Your loading test says the return line will not pass what the log says is coming back. My tape says the return line is a third of the length the work book says. Those are two records, made by two people who do not know how to read each other’s work, and they say the same thing.” She looked up. “That is the first useful thing that has happened in this yard in six years, and I want you to understand that it happened because of a coupling you built out of a mill collar, and that the coupling is now in pieces on the floor and the line has a hole in it that will not be repaired before the eighteenth, and that the March has just lost three trays of the only rye it has left.”
 
 “Yes,” Marek said.
 

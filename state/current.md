@@ -1,6 +1,6 @@
 # Current State
 
-Current phase: Volume 01, Batch 0001 **written and reviewed**. Chapters 1–10 exist in `workspace/volume-01/batch-0001/`.
+Current phase: Volume 01, Batch 0001 **written, reviewed, and repaired**. Chapters 1–10 exist in `workspace/volume-01/batch-0001/`. A full review found ten blocking continuity breaks, eleven missing card beats, six state-file errors and a batch-wide pause-formula tic; all were fixed in place without restarting the batch or changing the plot. The numbered fix list, and the locks it created, are in `state/continuity.md`.
 
 Current volume: 1
 
@@ -18,8 +18,10 @@ Active threats: Lantern Reach's failing well and expiring charter; Kellan's fals
 
 Active promises: build a real seal by hand in seven days with people who have never built one; make the shared draw's return visible and paid; get Sera Quill a repair attempt she can certify; put Tova's annex and the trust's name in the cooperative's book; and keep the fieldbook out of the district's hands without losing the only instrument that has ever told Marek the truth.
 
+Added by the review: **the cooperative voted the truth out of its own book in Ch 4** and then opened the book instead, so Movement 2 inherits a membership that has chosen not to file a correction. **Sera has now broken six years of silence in public** and asked for her refusals recorded, so she is visible to the district in a way she was not at the start of the batch. **The pulse has a custodian** — Bray timed it, declined to write it, and put that on the record.
+
 Forbidden in Volume 01: the Crown Engine, the Continuity Office, False Season, Iona Vey, the Quiet Break, and any history lecture. The Crown here is a serial number, a stamp, a table, a schedule, and a clause.
 
 Current relationship pressure: Marek and Tova are professionals with a written disagreement and a shared plan, and nothing else; Lissa holds the fieldbook under a use log and has not forgiven him; Nia has a cart booked for the twentieth; Sera has put her license behind a plan that says *as it stands tonight* on the front of it; Kellan is exposed, not defeated, and his crew has left the fen.
 
-Current power state: **Stage 0.** Two contacts behind him — one supervised (Ch 6), one deliberate and unlicensed with no return (Ch 9) — and Sera Quill's own statement that he cannot safely repeat either. No rootmark, no anchor work, no bridge above local conduit, no seedheart, no caretaker link. Stage 1 is not sustained until the end of Volume 01; the first skin rootmark is Volume 02.
+Current power state: **Stage 0.** Two contacts behind him — one supervised (Ch 6), one deliberate and unlicensed with no return (Ch 9) — and Sera Quill's own statement that he cannot safely repeat either. **Both contacts lasted four seconds; the second cost more, not longer.** No rootmark, no anchor work, no bridge above local conduit, no seedheart, no caretaker link. Stage 1 is not sustained until the end of Volume 01; the first skin rootmark is Volume 02.

@@ -16,11 +16,11 @@ Before anybody moved a motion, Tova Reed stood up.
 
 “I am going to say three things and then I am going to sit down,” she said, “and then you are going to do whatever you are going to do without me watching, because I do not want to be a reason for anything.”
 
-She put her hand flat on the book.
+She put two fingers on the book.
 
-“One. I withdraw the condition I entered yesterday at the seed house book. Not the conditions. The one about the vault. Marek Vale agreed to it, you witnessed it, Mr Fitch entered it, and he broke it at two o’clock this afternoon, and I want the record to show that I withdrew nothing that was in writing and that the writing still stands as a thing that was agreed and then broken. That is the whole of what I am withdrawing. My veto on the vault still stands. Any further test, any sample, any tray, I still say no without a reason.”
+“One. I am not withdrawing anything. The condition about the vault stands, and it is the whole of what I am going to say about today. Mr Vale agreed to it on the second morning, in this room, with his mother and Ilsa Kern and his sister Nia standing behind him, and Mr Fitch entered it, and this afternoon at two o’clock he broke it. I want the record to show that nothing was withdrawn in writing, and that the writing stands as a thing that was agreed and then broken. My veto on the vault is the only reason there are not four trays dead instead of three, and I would like the men in this room to sit with that for as long as it takes them to understand it.”
 
-A murmur. Dunmar’s pen moved.
+A murmur, and then no murmur. Dunmar’s pen did not move at all, which was how Marek knew she had meant every word of it.
 
 “Two. On the three trays. They are spoiled. I will say that once more so that no one in this room goes home believing there is a chance of recovering them, and then I am not going to say it again this season unless somebody asks me directly. The March will not charge Lantern Reach for them. That is not a kindness and it is not forgiveness and it is a decision I have made about the trust’s money, and I would like the room to hear the reason, which is that if the trust starts sending invoices to cooperatives that break their own conditions, then within a year every cooperative in the March will be doing it on purpose.”
 
@@ -38,13 +38,17 @@ Lissa Vale moved one grain of sand on the table with a finger and looked at noth
 
 “I spoiled them,” Marek said.
 
+“Second,” said the man with the cough, before Dunmar had the pen down.
+
 “Mr Vale—”
 
 “I put the load through a line the trust’s steward had refused in writing and I put it through anyway, and the water came up and it was iron, and three trays are dead, and I will pay for them out of my wages and my mother’s wages and whatever is left after that, and I would like it minuted that I said that in the first thirty seconds and not after somebody had asked me.”
 
 Marek felt the room decide whether to be angry at him or merely disappointed in him, and it went with disappointment, which was worse, because disappointment is what you get from people who expected better and have stopped being surprised.
 
-“Second,” said Dunmar. “The claim in the log.”
+“Carried,” said Dunmar Fitch. “The trays are spoiled, the March is not charging for them, and the trust’s material goes back to Cray with the March’s own copy whatever this room does about the rest. Thirty-four hands for, none against, and Mr Fitch entered the hour of it before he entered anything else, because he said a thing that is settled should be written down first while everybody still agrees with it.”
+
+“Second motion,” said Dunmar. “The claim in the log.”
 
 And there the shape of the night turned, because that was the motion that mattered and everybody knew it.
 
@@ -53,6 +57,20 @@ And there the shape of the night turned, because that was the motion that matter
 “You could enter the cause,” Marek said. “You could enter: *return branch as built falls short of the specification in this cooperative’s own work book; cause of the shortfall not established.* That is a fact. You can stand behind a fact.”
 
 “I can stand behind a fact with a licensed hand behind it,” Dunmar said. “There is not one in this cooperative. There is one in Fennmere who charges money, and two in the capital who do not come out, and that is the whole of the Crown’s answer to a cooperative with no contractor and a date on its charter.”
+
+Nobody said anything, and then somebody at the back said, “Put it in the book.”
+
+“Put what in the book, Mrs Kern?”
+
+“The number that is wrong. Put the wrong number in our book and in the district’s, and let the man in Fennmere come and take the charter off us on the eighteenth instead of on the fourteenth. Let it be his hand that ends it. Ours has been trying to hold it up for six years.”
+
+That got a noise out of the room that was closer to agreement than anything else said all night, and Dunmar Fitch looked at his own open book for a while and then said, “No. It goes in on a licensed hand or it does not go in at all, and there is no licensed hand in this room, and a hearing officer will ask me for the cause in the first five minutes and I will have to say *the charter clerk believed it*. I will not put that in a book. I will not put a true number in a book and get us sealed for it.”
+
+“Then it is lost,” said Marek.
+
+“Then it is lost tonight,” said Dunmar Fitch. “Motion refused. There are the hands.”
+
+The clerk counted them herself, because Dunmar would not. Nine for, twenty-two against, four abstaining, out of thirty-five hands in a room that held forty. The man with the cough abstained and said so when she asked, twice, and would not say why. Dunmar entered the number, and the hour, and the number of people the clerk had counted in the room, and the room did not cheer.
 
 “Mr Vale.” The man by the door spoke for the first time. He was perhaps sixty, gray, with a good coat and the manner of a person who has delivered other people’s bad news in other people’s parlors. “Bram Oskell. I keep the papers at Kellan Rusk’s pump house in Fennmere. He has sent me up this evening so that you hear it from a person and not from a bird.”
 
@@ -80,7 +98,7 @@ She had not touched the paper. She was looking at it the way you look at a lever
 
 “There is. You have written *subject to acceptance of the recorded maintenance, 6 seasons* at the bottom, and you have written it in a smaller hand than the rest, and you read the whole of a document aloud when you deliver it, and you have just stopped.”
 
-Oskell looked at her for a moment with an expression that might have been respect.
+Oskell looked at her with something that might have been respect.
 
 “Subject to acceptance of the recorded maintenance for six seasons,” he said. “The cooperative confirms that the maintenance carried out in those six seasons was as logged, and that the log entries are correct.”
 
@@ -88,11 +106,11 @@ Oskell looked at her for a moment with an expression that might have been respec
 
 “Because he will do the work for nothing,” said the man with the cough. “Gasket. Seal. Six days.”
 
-“Because he will do the work for nothing *in exchange for a signature*,” Tova Reed said, “and I have been in this room for one day and I have already learned that the cooperative has no money, and I am telling you that the shape of this offer is the shape of every offer you will be given for the next twenty days, and it is the shape that finishes you. He will fix a wound that is one thing, and buy a piece of paper that is another, and the second is worth more to him than the first is to you, because the second is about the six years in front of me and about everything before them, and I have read a report on the shape of these offers that is nineteen years old and is about the Salt March, and I will not say more about that in this room.”
+“Because he will do the work for nothing *in exchange for a signature*,” Tova Reed said, “and I have been in this room for one day and I have already learned that the cooperative has no money, and I am telling you that the shape of this offer is the shape of every offer you will be given for the next twenty days, and it is the shape that finishes you. He will fix a wound that is one thing, and buy a piece of paper that is another, and the second is worth more to him than the first is to you, because the second is about the six years in front of me and about everything before them, and I have read a paper on the shape of these offers that I am not going to describe in this room, and I am not going to describe it because the moment a room has a number attached to that shape, everybody in it starts behaving like the people in the paper instead of the people at the table.”
 
-“Nineteen years?” Marek said.
+Marek looked at her. She had said *a paper*, and she had said it the way a person says the name of a town they have no family in.
 
-“I am not a lawyer and I am not accusing him of anything,” Tova Reed said. “I am a seed keeper and I have watched a great many people accept a free thing.”
+“I am not a lawyer and I am not accusing him of anything,” Tova Reed said. “I am a seed keeper and I have watched a great many people accept a free thing, and the ones who took it are not all dead. That is the part that is worse.”
 
 Lissa Vale spoke for the first time in nine minutes.
 
@@ -106,7 +124,21 @@ Lissa Vale spoke for the first time in nine minutes.
 
 “Nothing that anyone has offered us,” Lissa said.
 
-Oskell put the papers away, unhurried, and looked at the twenty people for a while with the expression of a man doing arithmetic of his own.
+Oskell put the papers away, unhurried, and looked at the twenty people with the expression of a man doing arithmetic of his own.
+
+“Mr Fitch,” Lissa Vale said. “Enter the refusal as a motion. I will not have this room say afterwards that a woman said no at a table and that nothing came of it.”
+
+Nobody had ever heard her ask for a motion before. Dunmar Fitch looked at her for a moment and then at the charter clerk’s paper.
+
+“Then somebody has to move it,” he said, “because I will not second my own clerk’s refusal and call it the will of the meeting.”
+
+“The cooperative declines the two-year exclusive extension, declines to confirm the recorded maintenance for six seasons, and declines the gasket and the seal free,” Marek said. “I move that, and I move it in my own name and not in hers, because I am the engineer of record and because in five minutes somebody is going to say that a seed steward had nothing to do with a pump, and they will be wrong, and I will not have it written down that they were not wrong.”
+
+“Seconded,” said the man with the cough, before anybody else got there.
+
+“Carried,” said Dunmar Fitch. “Thirty-one hands, four against, and the four did not want me to write the number, and I am going to write the number.” He wrote it. “And the hour. And that Mr Oskell was present and that Mr Rusk’s paper is annexed to the minute and that no member of this cooperative has signed the second page of it, and that is the whole of what I am obliged to do with a piece of paper and the whole of what I am able to do.”
+
+Oskell inclined his head to the table and to Marek, separately, which was the closest the man came to admitting he had been outworked in his own profession.
 
 “There is one more thing and then I am going down the road in the dark, which I do not advise.” He said it to the middle of the table, not to Marek. “Mr Rusk asked me to mention it, and I am not sure why, and I have thought about it on the road and I have decided to mention it anyway. If the cooperative wants a licensed hand, there is one within a week’s ride. Quill. Sera Quill. She has a piece of work at the salt cistern past the water-meadow and she will be on the fen road on the sixth day going out, and she will be on it coming back on the seventh unless the cistern goes badly. She is not cheap. She is not expensive either. She is exact.”
 
@@ -122,7 +154,7 @@ Marek put his hand on the back of his own chair.
 
 “Mr Fitch,” he said. “Before anybody goes to bed. One more thing, and it is not a motion.”
 
-“I have a book full of things that are not motions, Mr Vale.”
+“I have a book full of things that are not motions, Mr Vale.” He read the charter schedule, and then he read the room, and then he said, “And I will tell you what a motion is. A motion has to say who is affected and how long it lasts and what happens when somebody comes with a Crown badge and asks for a page. Anything else in this room tonight is a conversation, and a conversation is worth exactly what the room is worth in the morning.”
 
 “Open the figures. The draw figures, the log, the acceptance column, the work book page with the return branch on it, and my loading test. All of it. Open to any member of this cooperative, any stranger, and any clerk of the sub-office who asks. Not copied out. Open. The board on the mill-keeper’s shed stays where it is and anybody can walk out and read it.”
 
@@ -130,7 +162,7 @@ Dunmar Fitch put the quill down.
 
 “That is not a motion either, because a motion has to say who is affected and how long it lasts and what happens when somebody comes with a Crown badge and asks for a page.”
 
-“Then I will say it as a standing act of this meeting and let the clerk find the words.” Marek put his hand flat on the table next to the log. “And I will put my own page in with it. Mine is the loading test from this afternoon. It says I loaded a line I was refused the use of, four strokes past the refusal, and it says the stop was made by hand and not by the pump. It is my hand, it is my error, and it goes in the same book as Kellan’s six years, on the same page, in the same open book, and if somebody comes with a badge they can read both of mine and both of his in the same afternoon.”
+“Then I will say it as a standing act of this meeting and let the clerk find the words.” Marek put his hand down on the table beside the log. “And I will put my own page in with it. Mine is the loading test from this afternoon. It says I loaded a line I was refused the use of, four strokes past the refusal, and it says the stop was made by hand and not by the pump. It is my hand, it is my error, and it goes in the same book as Kellan’s six years, on the same page, in the same open book, and if somebody comes with a badge they can read both of mine and both of his in the same afternoon.”
 
 The room went quiet in the particular way that a room goes quiet when everybody has understood that the man offering this is going to be the one who suffers for it.
 
@@ -144,7 +176,7 @@ The room went quiet in the particular way that a room goes quiet when everybody 
 
 The man with the cough looked at the lamp for a while, and then said, “Then somebody ought to be thanked for that,” which was not quite a thing anybody had said, and which nobody took up, because it would have been a kindness and nobody in the room could afford one tonight.
 
-Dunmar Fitch wrote for a long time.
+Dunmar Fitch wrote, and did not stop, and did not look up.
 
 “Open book,” he said at last, “on the seed house table, from the sixth day, until the charter is settled either way. Mr Vale’s loading test is entered as part of it. Entered as what, Mr Vale? I have to write a word.”
 
