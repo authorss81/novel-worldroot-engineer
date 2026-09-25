@@ -2,10 +2,23 @@
 
 ## Immediate volume promises
 
-- Can the Lantern Reach well be repaired before the charter inspection, and can Kellan's falsified gauge be exposed without destroying the field the crew came to save?
+- Can the Lantern Reach well be repaired before the charter inspection, and can Kellan's falsified gauge be exposed without destroying the field the crew came to repair?
 - Why does Aldren's fieldbook carry a pattern the sky has not produced, and why does the damaged branch answer a fieldbook no ordinary gauge can verify?
 - Why is a rootwoken pathhound following the failed branch, and can the cooperative distinguish a territorial community from a monster nest?
 - Can Tova's Salt March seed trust and Lantern Reach agree on a temporary relay when both sides need the other's records?
+
+### Volume 01 plan locks carried from the approved outline
+
+Set in `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md`. These are planned, not yet canon, until Chapters 1–10 are drafted.
+
+- **The eighteenth day is one deadline, not two.** The charter expiry and the Directorate hearing are the same date, so no extension is ever won by a deferral.
+- **The fieldbook is a fragment:** front board, living root bead, and a handful of pages. The back board and most of Aldren's survey pages are gone, which is why every reading is fragmentary and why the Aldren thread cannot be resolved from Lantern Reach.
+- **Volume 01 delivers the target-pattern answer and no more:** what Marek reads is a work order written in advance, not a memory of a season that has not happened. Nobody in this volume names the Engine, the office, False Season, or Iona Vey.
+- **Two different pathhounds.** The weir animal in Chapter 9 is redirected by changing the dead flow, not commanded. The Fennmere-area animal in Chapters 23–25 settles on the dead flow and holds it, and is not a repetition of the first.
+- **The lost compost return is the mechanism of the midpoint reversal.** The flock lost in Chapter 9 is why the Chapter 21–25 graft can succeed and fail at the same time. Do not spend that connection anywhere else.
+- **The bypass is planted and refused in Chapters 24–27 and is still unbuilt when the flood arrives.** It must not be quietly funded or built early.
+- **The public pressure log and monthly report are voted by the cooperative in Chapter 10 and adopted by the Crown as charter conditions in Chapter 47.** The Crown does not invent them, which is also how they stay revisable.
+- **Nia leaves in Chapter 20 and does not return within the volume.**
 
 ## Historical and political threads
 
@@ -32,4 +45,5 @@
 
 ## Phase handoff
 
-- The Volume 01 outline scaffold still needs the guide-required `Starting relationships` and `Starting power level` fields. That belongs to the dedicated outline phase, not this bootstrap repair.
+- The Volume 01 outline now contains the guide-required `Starting relationships` and `Starting power level` fields, plus escalation sequence, open clocks, and a batch map. The Batch 0001 cards are written for Chapters 1–10 with a day clock, required world reveals, and a per-chapter pressure type.
+- Next phase is prose: `workspace/volume-01/batch-0001/PROMPT.md` writes Chapters 1–10 against those cards. No chapter prose exists yet.

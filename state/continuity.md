@@ -37,6 +37,31 @@ Marek is Stage 0. His father's fieldbook and a first impossible pressure reading
 - The earlier Volume 13 public-evidence sacrifice costs Marek one irreplaceable Aldren memory, not all archive access.
 - Tova's Volume 08 anchor work leaves partial hearing loss. Lissa's forgiveness remains partial and practical. Halden's reconciliation requires a specific public concession. Tarin is captured, testifies under guard, and is not redeemed.
 
+## Volume 01 plan locks
+
+Approved in `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md`. These are planned, not canon, until the chapters are drafted. They resolve or specify existing canon and do not change any world rule.
+
+- **Fieldbook fragment.** Aldren's fieldbook is a fragment: front board, living root bead, and a handful of pages. The back board and most of Aldren's survey pages are gone. This specifies `bible/world.md`'s "old fieldbook fragment" and is the reason every reading in Volume 01 is fragmentary and why the Aldren thread cannot be resolved from Lantern Reach.
+- **Power ceiling.** Volume 01 runs Stage 0 to Stage 1, matching the series contract. Marek's first skin rootmark does not appear until his first independent graft in Volume 02. The graft his crew performs in Chapters 21–25 is crew work under Sera's license, not his.
+- **No anchor work, no romantic turn.** No human living anchor is used in Volume 01, and Marek and Tova reach a conditional alliance with nothing tender in it. The slow burn runs 1–49 as disagreement, not as attraction.
+- **Capacity.** Volume 01's root work is local conduit work only: a well, a seed house, and a short run of living pipe with one local steward. No other bridge capacity appears in this volume.
+- **The deciding forum.** A Well Directorate hearing at the Fennmere sub-office, before an appointed hearing officer, with Inspector Ansel Bray reporting as inspector and giving evidence rather than chairing. The cooperative cannot appeal it.
+- **Volume 01's deeper answer.** What Marek reads in Chapter 6 is a maintenance pattern, and what Sera eventually calls it is a target pattern: a work order written in advance, not a memory of a season that has not happened. This satisfies the Volume 01 row in the series mystery schedule. Nobody in Volume 01 names the Crown Engine, the Continuity Office, False Season, or Iona Vey.
+- **Terminology caution.** Kellan's surviving charter is described as a monitored charter with conditions. Do not use "covenant" for it; that word is reserved for the First Continuity covenant in Volume 13.
+- **Kellan's fate.** Exposed by corroborated records plus Sera's licensed read, deprived of the Lantern Reach contract, kept on a private charter under monitored conditions because Fennmere's low quarter needs his water, and turned into a witness. Not killed, not fled, not redeemed.
+- **Spelling.** The bible uses US spelling: labor, behavior, license, fertilizer. Outline and prose should match.
+
+### Supporting cast introduced in the Volume 01 plan
+
+Not in the bible yet; planned only. If drafted, promote them into `bible/characters.md` as secondary characters.
+
+- **Ilsa Kern**, 44 — the cooperative's embankment foreman. Trusts Marek's hands, distrusts his instruments and all rootwork.
+- **Dunmar Fitch**, 58 — the cooperative's charter clerk. Will not file anything a hearing officer would reject.
+- **Gael Senn**, 23 — lamp-keeper who wants to be a rootwright; the batch's witness and the person at risk in Chapter 9.
+- **Ansel Bray** — Well Directorate inspector for Tarrow Fen. Sincere, procedural, armed with the emergency-seizure clause. Not a villain and not a bureaucrat who can be outsmarted.
+- **Renn Tallow** — Kellan's pump engineer. Competent, uneasy, present in Volume 01, potentially a later witness.
+- **Fennmere** — the fen market town, the Directorate sub-office and hearing room, and the mill whose wheel turns the cooperative has tallied by hand.
+
 ## Ending lock
 
 Iona's White Mercy is stopped through a braided, staged handoff to tested local seedhearts, not one overwhelming rootlight draw. Iona survives under public custody. The Engine becomes a bounded reservoir and archive, the Root Commons has local charters and vetoes, and some regions remain damaged or deliberately independent.
