@@ -20,7 +20,7 @@ He had run out of the argument two days before and he had spent them looking for
 
 The first was the bypass, and it was dead on the twenty-seventh morning with four signatures against it in the margin of the cooperative book and a clause about being worth nothing against a cut.
 
-The second was money, and the money was four pounds and five shillings, and a wheelbarrow of compost was two shillings, and he did the sum on the back of a seed order on Monday morning with a broken chisel, which is a thing Nia Vale used to do in this building every night, and which nobody had said anything about at the time, and which he thought about every single time he picked it up.
+The second was money, and the money was four pounds and five shillings, and a wheelbarrow of compost was two shillings, and he did the sum on the back of a seed order on Saturday morning with a broken chisel, which is a thing Nia Vale used to do in this building every night, and which nobody had said anything about at the time, and which he thought about every single time he picked it up.
 
 One hundredweight of compost is four shillings. A hundredweight of compost is four days on the bed, or one day in four hundred on the node. Three acres that has been drained for three seasons and has come up dry wants, conservatively, four hundredweight to hold the ground together through to the frost, and conservatively means a poor year.
 
@@ -28,7 +28,7 @@ Four hundredweight is one pound. Four hundredweight will not do it. He wanted si
 
 He wrote the sum on the seed order and then he wrote under it: *A man who will not do this arithmetic is a man who is not going to be any good at it in a month*, and then he did the third one.
 
-The third was the draw, and it was the one everybody was going to expect, and it was the one Tova Reed had already read, because she had the open book out on the seed house table with the big compost figure on it when he came in with his seed order on the Monday evening.
+The third was the draw, and it was the one everybody was going to expect, and it was the one Tova Reed had already read, because she had the open book out on the seed house table with the big compost figure on it when he came in with his seed order on the Sunday evening.
 
 ---
 
@@ -52,7 +52,7 @@ Marek said, "The fourth day," and she said, "The fourth day."
 
 "No," said Tova Reed. "I have said what the fourth day costs, and you have to tell me which of those two things I have done, and I will help you, because you are tired and it has been a week.
 
-"I have not permitted it. The condition is in this book's ninth page and it has been there since the first day of this month and it has never been withdrawn, and I wrote it, and a seed steward is the only person in this building who can stop this seed being used, and on the third day of this month you broke it once in an afternoon and I ruled three trays and did not soften it and I will rule the same way now.
+"I have not permitted it. The condition is in this book's ninth page and it has been there since the first day of this month and it has never been withdrawn, and I wrote it, and a seed steward is the only person in this building who can stop this seed being used, and on the third day of last month you broke it once in an afternoon and I ruled three trays and did not soften it and I will rule the same way now.
 
 "And I have also told you the cost. Both are true at once and they have been true at once all month, and the reason this is a hard thing to refuse somebody is not that it is difficult to calculate. It is that refusing you is *cheap* for me. It costs me nothing. You are asking a woman from the Salt March for four days of a seed bed and the woman from the Salt March says no, and the woman from the Salt March is correct, and the woman from the Salt March has no three acres at the top end of a field that she has drained by hand and put her own lime in, and I do not have to look at what happens to them."
 
@@ -86,9 +86,9 @@ She looked at him for a second longer than she had needed to.
 
 He let it stand on the Wednesday afternoon, and the letting was the whole of the afternoon, and it was much worse than the refusing.
 
-He did not go round her. He did not ask the four. He did not take four turns off the head at two in the morning with the collar shut and the book open and say nothing, which he had thought about for about four minutes on Tuesday and which he had gone to the seed house at eight the next morning and written on the back of a seed order instead, with the hour on it, in his own hand, in four lines:
+He did not go round her. He did not ask the four. He did not take four turns off the head at two in the morning with the collar shut and the book open and say nothing, which he had thought about for about four minutes on the Wednesday and which he had gone to the seed house at eight the next morning and written on the back of a seed order instead, with the hour on it, in his own hand, in four lines:
 
-*A draw of 380 turns/day for four days on the three acres at the top end, taken from the shallow flow under the north annex, was proposed by me at the first hour of the twentieth, in the presence of T. Reed and S. Quill. It was refused by T. Reed under the seed-vault condition of the ninth page of the cooperative book, on the ground that the fourth day takes the seed bed. It was refused by S. Quill as a return substitution, on the ground that the practitioner would take the load and not the water. Both refusals stand. I did not act on it. I am writing this at the eighth hour of the same day, and the lateness is part of the entry, and the reason for the lateness is that I wanted to sit with it for one day before I wrote it down, and I know exactly what that is worth.*
+*A draw of 380 turns/day for four days on the three acres at the top end, taken from the shallow flow under the north annex, was proposed by me at the seed house table on the Sunday evening, in the presence of T. Reed, and refused by T. Reed under the seed-vault condition of the ninth page of the cooperative book, on the ground that the fourth day takes the seed bed. It was put to S. Quill at the pit on the Wednesday morning and refused by her as a return substitution, on the ground that the practitioner would take the load and not the water. Both refusals stand. I did not act on it. I am writing this at the eighth hour of the day after the Wednesday, and the lateness is part of the entry, and the reason for the lateness is that I wanted to sit with it for one day before I wrote it down, and I know exactly what that is worth.*
 
 Anneke Roos read the whole of it aloud before he put his name to it, because it was in the cooperative's own book and the book is read aloud, and Tova Reed initialled it, and reading somebody else's refusal aloud in a room is a thing she had never done in twenty-eight days and which she did not once look at him while she did.
 
@@ -102,7 +102,7 @@ The banks that had been in the ground for three years came out of it in lumps th
 
 It is not a crop loss. He said that out loud to the yard on the Friday evening, twice, and it is true: the three acres will be mowable and will not crop well in the spring, and will crop in the third season after this one, and the four hundred and ten yards of ditch he put in it by hand across three autumns are going to be a liability rather than an asset, because a ditch bank that has slumped into its own bed is a place a sheep will put a leg in, and there are no sheep, and there will be forty ewes on this holding by then or there will not be anything.
 
-He said that, and then somebody asked him the question that had been waiting for him at the seed house door since Wednesday, and it was his mother, and she asked it without any weight on it at all, in front of nine people, the way she asked him the fieldbook question on the tenth.
+He said that, and then somebody asked him the question that had been waiting for him at the seed house door since Wednesday, and it was his mother, and she asked it without any weight on it at all, in front of nine people, the way she asked him the fieldbook question on the twentieth.
 
 "Your three acres," Lissa Vale said. "Are they in the cooperative's book?"
 

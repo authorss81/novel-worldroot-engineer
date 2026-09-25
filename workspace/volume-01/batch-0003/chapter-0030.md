@@ -8,19 +8,19 @@ Seven of them, and it took until half past four. Sera Quill had her case and did
 
 ---
 
-"Third of the month, tenth hour and forty minutes, licensed reader, four witnesses. A fieldbook at the copper seam returned three lines." She read them. "That is a reading. It is a licensed reading, on the third, by me, with four witnesses, at the hour, and it is the only licensed reading that has ever been taken on this node by anybody but Mr Vale, and it is in your own book, in a form your own rule made, and it is dated.
+"Fourth of the month, tenth hour and forty minutes, licensed reader, four witnesses. A fieldbook at the copper seam returned three lines." She read them. "That is a reading. It is a licensed reading, on the fourth, by me, with four witnesses, at the hour, and it is the only licensed reading that has ever been taken on this node, and Mr Vale has never taken one, because he is not licensed to take one and has never said that he was. It is in your own book, in a form your own rule made, and it is dated.
 
 "Now I am going to tell you what it is worth, and I have taught this for thirty years and I have watched four hundred people not learn it.
 
 "A reading is not a fact. A fact is a thing a stranger can walk up to and check without believing anybody. A reading is a thing one person did inside themselves with an instrument, and it is as good as that person is and as good as the hour it was taken, and it is worth nothing to anybody who has to use it against somebody else.
 
-"An unlicensed reading is a rumour with a witness in it. That is the phrase and I did not invent it and I have never improved on it. Your fieldbook reading from the eighth of the month is a rumour with a witness in it. Your fieldbook reading from the twentieth is a rumour with a witness in it. Mr Vale's four seconds in a flooded pit on the tenth is a rumour with a witness in it, and I was the witness, and I have said in three books that I would not stand up and say what he got, and I will not.
+"An unlicensed reading is a rumour with a witness in it. That is the phrase and I did not invent it and I have never improved on it. Your fieldbook reading from the eighth of last month is a rumour with a witness in it. Your fieldbook reading from the twentieth of last month is a rumour with a witness in it. Mr Vale's four seconds in a flooded pit on the tenth is a rumour with a witness in it, and I was the witness, and I have said in three books that I would not stand up and say what he got, and I will not.
 
-"And the third of the month is not a rumour with a witness in it. It is a licensed reading with four witnesses and an hour on it, and it is the only thing in this building worth a hearing officer's afternoon, and it is worth it to the district and not to you, because it says *below* and *not yours*, and the district has already read it out loud at a counter in front of a clerk, twice, and carried it away in a satchel."
+"And the fourth of the month is not a rumour with a witness in it. It is a licensed reading with four witnesses and an hour on it, and it is the only thing in this building worth a hearing officer's afternoon, and it is worth it to the district and not to you, because it says *below* and *not yours*, and the district has already read it out loud at a counter in front of a clerk, twice, and carried it away in a satchel."
 
 Nobody spoke for a while.
 
-"Then what is the cure," said Marek, though he had known what the cure was since the eighth of the month and had been not asking it for three weeks.
+"Then what is the cure," said Marek, though he had known what the cure was since the eighth of last month and had been not asking it for three weeks.
 
 "Two things," said Sera Quill. "There are only two things, and there have only ever been two things, and people who come to me with a third thing have usually had it invented for them in a room.
 
@@ -50,7 +50,7 @@ She squared the case on the bench.
 
 "It is not going to travel," said Dunmar Fitch, "and I will not have it said kindly. The standing pressure log is the cooperative's own book. On the fourth part, second clause, of a charter that lapsed on the eighteenth, a record is a record in the book of the holder. There is no holder. So that book is a book kept by a body of people with no standing, and a district clerk may look at it and may copy it and may carry the copy away, and may not certify it, and every line in it is the word of a body that has just been billed sixty pounds ten for something it cannot prove.
 
-"The open book is not a filing. It has never been a filing. On the third day of this month the motion to enter the claim in the log was moved and lost nine to twenty-two with four abstentions, in a room of forty, and what it became instead was a standing act of the meeting, and a standing act of a meeting is a thing you do, not a thing you have done to anybody. Perrin Osse may look at it. She may not take it. It goes away with me."
+"The open book is not a filing. It has never been a filing. On the third day of last month the motion to enter the claim in the log was moved and lost nine to twenty-two with four abstentions, in a room of forty, and what it became instead was a standing act of the meeting, and a standing act of a meeting is a thing you do, not a thing you have done to anybody. Perrin Osse may look at it. She may not take it. It goes away with me."
 
 He put his hand flat on it.
 
@@ -64,7 +64,7 @@ Anneke Roos put her hand on the book too, and there were three hands on a clerk'
 
 "There is a third thing," she said, "and it is not a record and it is not a cure and I would like it said in this room because nobody is going to say it in a month.
 
-"The open book has been standing on that table under a stone with a slate on it since the fourth of this month, and the standing log has been on its board, and Anneke reads the standing log out loud at the seed house door every night at nine o'clock and anybody can come and stand and listen to it and any stranger can come and ask for the open book and be handed it without notice.
+"The open book has been standing on that table under a stone with a slate on it since the fourth of last month, and the standing log has been on its board, and Anneke reads the standing log out loud at the seed house door every night at nine o'clock and anybody can come and stand and listen to it and any stranger can come and ask for the open book and be handed it without notice.
 
 "Not one person has come.
 
@@ -84,7 +84,7 @@ He said the last thing at about four o'clock and he said it standing up, with hi
 
 "The account this cooperative holds of the cause of the damage in the low quarter of Fennmere is a rumour with a witness in it. It is not proof. It is not evidence. It is four unlicensed people with a pail and a watch and a miller's chalk and a licensed engineer who will not say what she read. There is one licensed reading on this node and it says *below* and *not yours* and it is the district's, not ours, and the district is going to use it against us and is right to.
 
-"That is the truth about what we know, and we have known it since the fourth of this month, and we have not written it, and we are going to write it now, in our own hand, on our own page, with the hour on it, and we are going to send it to Fennmere with the form inside fourteen days, attached, where a clerk will read it and a hearing officer will read it in a cold room and a man with a satchel can produce it.
+"That is the truth about what we know, and we have known it since the fourth of last month, and we have not written it, and we are going to write it now, in our own hand, on our own page, with the hour on it, and we are going to send it to Fennmere with the form inside fourteen days, attached, where a clerk will read it and a hearing officer will read it in a cold room and a man with a satchel can produce it.
 
 "I am not doing it because I think it will help us. I do not think it will help us. I am doing it because a thing that is entered cannot be lost, and every one of the last three days has been a day on which a document that existed in this yard could have been destroyed by one man with a bad morning and a pencil."
 
@@ -102,7 +102,7 @@ Sera Quill did not say no, and she did not say it was a good idea, and she cappe
 
 "You are going to want to write that the book told you to do it," Sera Quill said. "I know what you are going to want to write, because you have been carrying it since Tuesday and you have told four people in a room that a book said *not yours*. You are not writing it. Not on that page, not in a letter, not in a representation, not in a room, ever, and if it is in a piece of paper anywhere I will find it and take it out and say in the room that I took it out and why.
 
-"That is not a rule I am inventing for you. It is a rule I invented for myself, nineteen years ago, for a document in a different office, and I have never told anybody what it was about and I am not going to tell you, and that is my third refusal and it is a different one and I have not given it a number.
+"That is not a rule I am inventing for you. It is a rule I invented for myself, nineteen years ago, for a document in a different office, and I have never told anybody what it was about and I am not going to tell you, and it is a different one from the other three and I have not given it a number.
 
 "A book is an instrument. An instrument that has told a licensed reader *not yours* about a piece of living wood has been written to, or is reading a wound. Either way it is not a person and it does not get to be a reason. If you put it in a document, some man in six weeks will read it and believe you or not believe you, and everything I have signed in thirty years will come out of the file at the same time.
 

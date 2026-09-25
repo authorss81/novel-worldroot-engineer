@@ -84,7 +84,7 @@ The branch under a foot of mud and eight feet of gravel had been a live trunk fo
 
 "From the top," said Marek.
 
-"From above. Twice, with a die, and the second time eleven days ago, and then opened three feet with a bar and a pair of shears, and every one of those is two hundred yards from here and nine miles the other way, and the reason nothing comes up this bed is that there is nothing coming up it, because the whole column above it is open air now." She sat back on her heels. "I am not going to say what killed it, because I have got no document and no instrument and I am a woman standing in a wet ditch in a town I have not been in for eleven years.
+"From above. Twice, with a die, and the second time sixteen days ago, and then opened three feet with a bar and a pair of shears, and every one of those is two hundred yards from here and nine miles the other way, and the reason nothing comes up this bed is that there is nothing coming up it, because the whole column above it is open air now." She sat back on her heels. "I am not going to say what killed it, because I have got no document and no instrument and I am a woman standing in a wet ditch in a town I have not been in for eleven years.
 
 "I will say this. That bed is the outlet for the gravel under forty-one houses, and while it was taking, it turned that gravel over four times a day and the iron came off the fen mud and washed through and out. And it has not turned that gravel over as it did since the spring before last, which is a thing every man in that quarter could tell you and not one of them can say so. What has happened to Mr Slee's well in the last four days is not iron coming off my fen. It is iron that was already in that gravel, standing still, and it comes up when the head goes, and the head has gone because your head is taking more out of this node than it was taking a fortnight ago, and this bed is where the taking stops.""
 
@@ -96,7 +96,7 @@ Nobody answered him and he did not press it, and he went and stood twenty feet o
 
 They came up off the bottom of the quarter at two in the afternoon and went north along the mill race to where Rowan Teale had his head race shut, and Renn Tallow was standing in it up to the knee with a bar and a rope, doing a job.
 
-He had been in the mill head race a long time and had done the whole of it and had the gate barrowseated when they came along, and he looked up and saw the five of them and did not stop.
+He had been in the mill head race a long time and had done the whole of it and had the gate barred and seated when they came along, and he looked up and saw the five of them and did not stop.
 
 "Mr Vale," he said.
 
@@ -134,6 +134,6 @@ Gael Senn said it, because she had been carrying the log for three miles and had
 
 Marek looked at her for a moment, and then said, "It is a document that cannot be made," and Gael Senn said, "Then write that one down as well," and he wrote it in the working notes at the fifth hour with the hour on it, in his own hand, and it was the shortest line in the book that month and it was the only one he was sure of.
 
-He wrote: *Walked the low quarter, Fennmere, fifth of the month, six of us. Cause of the change at the four wells on that ground: the gravel under the quarter has stopped being turned, and the branch that turns it is dead at the bed, and I can prove the second half and I cannot prove the first half in a document, and the document that would prove it cannot be obtained by this cooperative, and the reason it cannot be obtained is at the top of this page and is a statement of what we did not tell the district on the seventeenth day of the month.*
+He wrote: *Walked the low quarter, Fennmere, sixth of the month, five of us. Cause of the change at the four wells on that ground: the gravel under the quarter has stopped being turned, and the branch that turns it is dead at the bed, and I can prove the second half and I cannot prove the first half in a document, and the document that would prove it cannot be obtained by this cooperative, and the reason it cannot be obtained is at the top of this page and is a statement of what we did not tell the district on the seventeenth day of last month.*
 
 Anneke Roos would have read it aloud if she had been there. There was nobody to read it, and he signed it, and five people walked eleven miles back up the fen road in the dark with a log that could not be filed, and at about the third gate Jonas Byre said, out of breath, in the dark, "It is going to be worse before the frost," and neither Marek nor Sera Quill asked him how he knew, because he had been counting the mill wheel in his head for thirty-one years and there was no instrument in Tarrow Fen that could tell him anything he had not already said at the top of the quarter.

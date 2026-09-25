@@ -14,7 +14,7 @@ It was on the certificate in Sera Quill's hand: *an examination, and something p
 
 She was in the pit eleven minutes.
 
-Marek stood at the rim with a hot brick in a bucket and a towel over his shoulder and did not go down, because he had been told in a pump shed on the twelfth of this month that he was not going in that pit again and he had not argued once, and there was no reason to start on a Saturday with a woman twenty-three years old holding a rule in the dark.
+Marek stood at the rim with a hot brick in a bucket and a towel over his shoulder and did not go down, because he had been told in a pump shed on the twelfth of last month that he was not going in that pit again and he had not argued once, and there was no reason to start on a Saturday with a woman twenty-three years old holding a rule in the dark.
 
 She lifted the sacking at the six o'clock corner and held the lamp down into the gap and did not touch the seal.
 
@@ -64,7 +64,7 @@ Marek got the boards down onto the well house bench at ten and laid out eleven p
 
 "Here is the fault and here is the size of it. The return main under this head is twenty-two rods of eight inch. The work book in my mother's book says forty-one rods of twelve. There is a stone at the eleventh rod that has been there longer than the charter and I have known about it since the third day because a woman put her boot in it in Cray in the spring and told a woman in this yard about it.
 
-"That main will not pass what the log says this node gives. It will not pass it by a long way. The cooperative's own ground takes seven hundred and twenty turns a day in a hot week and the log says this node gives eleven hundred, and three hundred and eighty of that is going somewhere on somebody else's ground every day of the year, and I have been able to prove that number since the third of this month and have not been allowed to file it.
+"That main will not pass what the log says this node gives. It will not pass it by a long way. The cooperative's own ground takes seven hundred and twenty turns a day in a hot week and the log says this node gives eleven hundred, and three hundred and eighty of that is going somewhere on somebody else's ground every day of the year, and I have been able to prove that number since the third of last month and have not been allowed to file it.
 
 "So the water comes up this head, and it goes into twenty-two rods of eight inch, and it comes out the other end, and the ground that is supposed to have it is not the ground that is standing next to this head. It is the field two hundred yards out that goes over sideways in a hot week, and it has been going over sideways for three seasons, and there are twenty-two acres of it, and the three acres at the top end of it are mine and I have been working them separately since the third season back because the cooperative would not have them.
 
@@ -94,7 +94,7 @@ Sera Quill wrote that down. She wrote down *cut with the root plate on* and *if 
 
 "Return," she said. "What is going back in."
 
-And that was the one, and Marek had known it was going to be the one since the seventh day of this month when a licensed woman had brought two hundredweight of compost into a yard out of her own fee money.
+And that was the one, and Marek had known it was going to be the one since the seventh day of last month when a licensed woman had brought two hundredweight of compost into a yard out of her own fee money.
 
 "Labour," he said. "Recorded. Two names twice a day on the mill floor, and a monthly examination, and a name on the first of every month. That is the return that exists."
 

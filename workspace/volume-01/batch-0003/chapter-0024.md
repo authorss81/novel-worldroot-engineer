@@ -2,13 +2,13 @@
 
 ## Three Hundred And Ninety-Nine
 
-It came out of Tova Reed's own arithmetic, on the third of the month, at the north annex, with the tray of the Longneck's own empty space in front of her and four people standing in a seed house before eight in the morning.
+It came out of Tova Reed's own arithmetic, on the fourth of the month, at the north annex, with the tray of the Longneck's own empty space in front of her and four people standing in a seed house before eight in the morning.
 
 She had asked for the licence sheet and Dunmar Fitch had brought it, and she read it standing up in the way she read everything, and she got to the return line and stopped and read it again.
 
 *Return: labour, recorded. Compost into the return main, one hundredweight, first of the month, G. Senn. Against a specified four hundred hundredweight a month at the load this node is being asked to carry. Shortfall: three hundred and ninety-nine hundredweight a month.*
 
-"Three hundred and ninety-nine," she said. "At four shillings that is seventy-nine pounds sixteen, and the specification is eighty, and the cooperative has four pounds and five shillings, and those three numbers have been in this building since the tenth of the month and until this morning they have not been in the same sentence."
+"Three hundred and ninety-nine," she said. "At four shillings that is seventy-nine pounds sixteen, and the specification is eighty, and the cooperative has four pounds and five shillings, and those three numbers have been in this building since the tenth of last month and until this morning they have not been in the same sentence."
 
 Nobody argued with the arithmetic. There was nothing to argue with.
 
@@ -24,7 +24,7 @@ Lissa Vale opened the bin.
 
 "Everything that comes off this holding," said Lissa Vale. "Manure, sweepings, the two loads of spent bark off the Longneck trays, the ash off the annex fire, whatever the boys bring in. It is what it has always been."
 
-"Who brought it in before the tenth of this month."
+"Who brought it in before the tenth of last month."
 
 Lissa Vale stood with the lid of the bin in her hand and worked it out, standing up, with four people waiting.
 
@@ -44,11 +44,11 @@ Tova Reed had the bin lid in her hand then, and she handed it back, and she did 
 
 "Labour, twice a day, on the mill floor. The mill floor warms the bed. The bed is kept by what goes in the bin. What goes in the bin came off a hundred and thirty head of sheep, and there are no sheep, and the sheep went up the fen road on the tenth because of a thing walking beside them, and the same water that took the compost out of this building is the water that has taken the return out of the node.
 
-"So there is one gap and not two, and it has been in the books since the third of the month and nobody put the two ends of it together because we were all looking at a wound. Every return on this holding goes through that bin. The certificate's monthly examination is a return that goes through that bin. The new run's return is a return that goes through that bin. There is one hole in the middle of it and the hole is the tenth of October and it is a hundred and thirty animals' worth, and it is four hundred hundredweight a month, and there is no way to fill it from anything that walks."
+"So there is one gap and not two, and it has been in the books since the third of last month and nobody put the two ends of it together because we were all looking at a wound. Every return on this holding goes through that bin. The certificate's monthly examination is a return that goes through that bin. The new run's return is a return that goes through that bin. There is one hole in the middle of it and the hole is the tenth of October and it is a hundred and thirty animals' worth, and it is four hundred hundredweight a month, and there is no way to fill it from anything that walks."
 
 Ilsa Kern had been leaning on the door frame with her arms folded and she took them apart.
 
-"There is nothing to put in it," she said. "That is not a difficulty. I want to say it this morning so that nobody spends the rest of the month calling it a difficulty. There is nothing to put in it. I said the same thing in a flooded pit at dawn on the tenth of this season and I said it to nobody and I have been carrying it for eleven days."
+"There is nothing to put in it," she said. "That is not a difficulty. I want to say it this morning so that nobody spends the rest of the month calling it a difficulty. There is nothing to put in it. I said the same thing in a flooded pit at dawn on the tenth of this season and I said it to nobody and I have been carrying it for fourteen days."
 
 ---
 
@@ -72,13 +72,13 @@ He asked for the fieldbook at twenty past nine at his mother's table with three 
 
 Lissa Vale said no.
 
-She said it once, instantly, the way she said the first one on the twentieth of the month, and she stopped, and she did not say it a second time, and Marek stood at the table and understood that something had changed and could not work out for about a minute what it was.
+She said it once, instantly, the way she said the first one on the twentieth of last month, and she stopped, and she did not say it a second time, and Marek stood at the table and understood that something had changed and could not work out for about a minute what it was.
 
 "I said no once," she said. "On the twentieth I said no twice and then I made you say what you meant. I have thought about that all week and I have decided it was a way of being right twice instead of being right once, and I am not going to do it again, and you are going to have to get used to a woman who trusts you a little more than she did on the twentieth, and I would like you to notice that it is a very small amount more and that it is not the same as the other thing, because the other thing is not happening this year."
 
 The use-log line was written out in the seven-column form and read aloud before it was signed, which was Anneke Roos's habit and had become the room's habit.
 
-*Third day, ninth hour and twenty minutes. Fieldbook, produced by Mrs Vale from the press, at the request of M. Vale, at the seed house table, in the presence of T. Reed, A. Roos and D. Fitch. Purpose: to be used by Sera Quill, licensed engineer, at the copper seam of the well head, for one reading on this day, and for no other purpose. Licensed person present: S. Quill. M. Vale will not touch the instrument and will stand outside the housing. Out. Back.*
+*Fourth day, ninth hour and twenty minutes. Fieldbook, produced by Mrs Vale from the press, at the request of M. Vale, at the seed house table, in the presence of T. Reed, A. Roos and D. Fitch. Purpose: to be used by Sera Quill, licensed engineer, at the copper seam of the well head, for one reading on this day, and for no other purpose. Licensed person present: S. Quill. M. Vale will not touch the instrument and will stand outside the housing. Out. Back.*
 
 Lissa capped the ink and went back to her bin, and did not watch him carry it out.
 
@@ -94,13 +94,13 @@ She read it out. She always read it out, because a reading taken in a pit is not
 
 Nobody said anything at all for about six seconds, and the pump was on the idle and the beat came up once through the boards, one about every four seconds, out of the sump and below the sump.
 
-"I want it entered that I read it before the choice and not after it," Sera Quill said, "and I want it entered that the choice was not mine. And I want the three of you who are standing there to have heard it, and I want that in the book too, with the hour."
+"I want it entered that I read it before the choice and not after it," Sera Quill said, "and I want it entered that the choice was not mine. And I want the four of you who are standing there to have heard it, and I want that in the book too, with the hour."
 
 She put two fingers on the page.
 
 "Now I am going to tell you the three things I know about it and I am not going to tell you the fourth one.
 
-"A fieldbook reads what a node has recently had done to it. That is all it is. It is a poor instrument, it reads a short way back, it reads a *sequence* of work and not an opinion, and it will give you a procedure that has been performed on a piece of living wood and it will give it to you in the order it was performed. On the eighth of this month it gave a man a list of maintenance on a well. On the twentieth it gave me three words that are the order the Weir Row branch is in. It is not a mind and it is not a voice and it has never once in my life answered a question I asked it.
+"A fieldbook reads what a node has recently had done to it. That is all it is. It is a poor instrument, it reads a short way back, it reads a *sequence* of work and not an opinion, and it will give you a procedure that has been performed on a piece of living wood and it will give it to you in the order it was performed. On the eighth of last month it gave a man a list of maintenance on a well. On the twentieth it gave me three words that are the order the Weir Row branch is in. It is not a mind and it is not a voice and it has never once in my life answered a question I asked it.
 
 "What I have not seen in thirty years is the third line. Not once. I have had a pressure, I have had a direction, I have had a direction that was wrong, I have had a shaft and a pair of hands, and I have had four hundred sequences of ordinary work, and I have never had a book say *not yours* to me, in those words, about anything.
 
@@ -108,7 +108,7 @@ She put two fingers on the page.
 
 Gael Senn said, very quietly, "That is an instruction."
 
-"That may be an instruction," said Sera Quill. "Write it down as *three lines read at the seam, tenth hour, third of the month, S. Quill, licensed, with four witnesses present*, and write the three lines under it exactly as I read them, and do not write *the book told us to* anywhere on that page, because the day somebody reads that page in a room is the day everything anybody has said in this yard goes under a blanket."
+"That may be an instruction," said Sera Quill. "Write it down as *three lines read at the seam, tenth hour, fourth of the month, S. Quill, licensed, with four witnesses present*, and write the three lines under it exactly as I read them, and do not write *the book told us to* anywhere on that page, because the day somebody reads that page in a room is the day everything anybody has said in this yard goes under a blanket."
 
 Marek came in off the boards and stood at the rail.
 
@@ -132,7 +132,7 @@ Rowan Teale's boy came up the fen road again at the seventh hour that evening wi
 
 The letter was three lines.
 
-*Tuesday, third of the month. Wheel, 231, milling day. Down twenty-three on Monday. I have written both and I have put my hand on the chalk both times and I have not written why, because I do not know why and I have been reading this board for thirty-one years and I have never seen it go down in the middle of a week with the water coming up.*
+*Tuesday, fourth of the month. Wheel, 231, milling day. Down twenty-three on Monday. I have written both and I have put my hand on the chalk both times and I have not written why, because I do not know why and I have been reading this board for thirty-one years and I have never seen it go down in the middle of a week with the water coming up.*
 
 *Rowan Teale.*
 

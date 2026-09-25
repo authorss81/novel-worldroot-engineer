@@ -2,7 +2,7 @@
 
 ## A Bucket And A Slip Of Paper
 
-Two things came up the fen road on the fourth of the month and they came within two hours of each other, and the one that arrived first was a man with a bucket.
+Two things came up the fen road on the fifth of the month and they came within two hours of each other, and the one that arrived first was a man with a bucket.
 
 He was about sixty and thin and he had walked four miles, and he was standing at the gate at nine in the morning with a wooden pail in his hand and he would not come in past the gate posts, and he said his name when Marek got to it and he said it flatly, as though the name were a thing he had to get over with before he could get to the rest.
 
@@ -34,7 +34,7 @@ And Marek did not answer, which was the whole of the problem, and he stood at a 
 
 It was the branch below. It was the branch the cooperative's own return was hung off, and the branch below came up out of the fen side below the split and ran down under the fen to Fennmere, and the low quarter sat on the two or three hundred yards of it that came out into the bottom of the quarter and the wells on that ground were shallow wells cut into a wet gravel that was fed by nothing anybody had looked at since the year before last.
 
-And it was the branch that had been cut on the tenth of this season by a Crown crew with a die in a cart, and cut eight years before that by a Crown crew with a die in a cart, and it was in a district works schedule on a piece of paper that had gone back to Fennmere in a clerk's satchel on the seventeenth of the month.
+And it was the branch that had been cut on the tenth of this season by a Crown crew with a die in a cart, and cut eight years before that by a Crown crew with a die in a cart, and it was in a district works schedule on a piece of paper that had gone back to Fennmere in a clerk's satchel on the seventeenth of last month.
 
 He could not say a word of that to a man holding a pail.
 
@@ -50,7 +50,7 @@ He could not say a word of that to a man holding a pail.
 
 "Who was the first one."
 
-"A man from the district with a stick," said Corvin Slee, "on Wednesday. He said it exactly the same way."
+"A man from the water company with a stick," said Corvin Slee, "on Tuesday. He said it exactly the same way."
 
 ---
 
@@ -94,15 +94,15 @@ Anneke Roos came down off the north row at four in the afternoon, which she had 
 
 "The renewal," said Anneke Roos. "Kellan's. His charter takes the branch and nobody else's does, and he has never once in six years come up that road and looked at the low quarter, and every man down there has a bucket and no one to give it to, and the branch that feeds them is a branch a charter holder has had for six years and has used for his own side draw and has written a log about that is a lie.
 
-"And I am not saying Kellan did this," she said. "I am saying that on the day you walk down there you are going to be a man from a cooperative that held no charter on the nineteenth of this month, telling forty-one households that the district is slow, and that is what you are going to be, and there is nothing anybody can put in that bucket to make it not be that."
+"And I am not saying Kellan did this," she said. "I am saying that on the day you walk down there you are going to be a man from a cooperative that held no charter on the nineteenth of last month, telling forty-one households that the district is slow, and that is what you are going to be, and there is nothing anybody can put in that bucket to make it not be that."
 
 She looked at the notice on the table for a while.
 
-"Write down that you were told this today by a tenant and not by an inspector," she said. "Because in six weeks a man in a good coat is going to say that a cooperative which had been told about the low quarter on the fourth of the month did not come until the fifth, and he will be right about the days and wrong about everything else, and the wrong about everything else is the part that will cost us."
+"Write down that you were told this today by a tenant and not by an inspector," she said. "Because in six weeks a man in a good coat is going to say that a cooperative which had been told about the low quarter on the twenty-fourth did not come until the twenty-fifth, and he will be right about the days and wrong about everything else, and the wrong about everything else is the part that will cost us."
 
 Marek wrote it in the standing pressure log at the fourth hour with the hour and the tenant's name and nothing else, and Anneke Roos read it back and initialled it, and then she said, on the step, on her way up the row, "Tell him to bring his own water up if he wants anybody to believe him," and went home.
 
-Marek stood in the yard after that with four people and a licensed engineer and eleven miles of fen road in front of him, and worked out that the four could not all go and that the pit could not be left, and that Gael Senn had the first of the month coming round again in twenty-eight days and a certificate with her name second on it, and that if he asked her to walk four miles into a town where there was an animal in it that she did not know the rules of, and where the branch was four feet down and full of iron water, and where a licensed engineer would be standing —
+Marek stood in the yard after that with four people and a licensed engineer and eleven miles of fen road in front of him, and worked out that the four could not all go and that the pit could not be left, and that Gael Senn had the first of the month coming round again in six days and a certificate with her name second on it, and that if he asked her to walk four miles into a town where there was an animal in it that she did not know the rules of, and where the branch was four feet down and full of iron water, and where a licensed engineer would be standing —
 
 "Right," he said. "We go at first light. All five of us, and the pit is shut and the seal is covered and the pump is on the idle and Ilsa's boy sits on the boards from six until we are back, and if anybody from the district comes up that road in the meantime he is welcome to the well house and he is welcome to the open book and he is welcome to be told there is nothing here to inspect, and I am not saying that as a joke and I would like it written in the working notes that I did not say it as a joke."
 

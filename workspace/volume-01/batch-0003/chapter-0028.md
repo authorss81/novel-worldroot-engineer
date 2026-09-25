@@ -6,7 +6,7 @@ Perrin Osse's note came up the fen road on the mill's own cart at about ten in t
 
 *The applicant of record is requested to attend at the Fennmere sub-office counter on the twenty-eighth, at the third hour, in the matter of the received report of the twenty-fourth. Attendance is not compulsory. There is no power to compel it. Bring the book.*
 
-Marek read it twice and said, "Not compulsory," out loud, in a yard, to five people, in the voice of a man who has learned what that means from a chapter that is not in this book.
+Marek read it twice and said, "Not compulsory," out loud, in a yard, to five people, in the voice of a man who has learned what that phrase is for.
 
 "It means she has written down that she cannot make us, because she cannot make us and she is a clerk and she has a square hand and a family, and it means if we do not come she will write that we did not come and the file will have both the report and the non-attendance on it and the non-attendance will weigh more than the report."
 
@@ -32,7 +32,7 @@ She had a bundle and she squared it on the counter and untied it and took out tw
 
 Then she turned the first sheet round.
 
-*Well Directorate, Tarrow district. Schedule of damage, district water-supply bylaw, sixth part. In respect of unfit water at four wells in the low quarter, Fennmere, between the twenty-first and the twenty-eighth day of the month. Thirty-nine houses at one pound ten shillings for fourteen days. Two public pumps at one pound. Sixty pounds ten shillings in the whole. Referred against the body last responsible for the supply to the ground, being the cooperative of Lantern Reach, whose charter on the node expired at midnight on the eighteenth day of the month. Payable within fourteen days of service. Representations in writing within fourteen days, to be placed before an appointed hearing officer. The cooperative may not appeal and there is no appeal.*
+*Well Directorate, Tarrow district. Schedule of damage, district water-supply bylaw, sixth part. In respect of unfit water at four wells in the low quarter, Fennmere, between the twenty-first and the twenty-eighth day of the month. Thirty-nine houses at one pound ten shillings for fourteen days. Two public pumps at one pound. Sixty pounds ten shillings in the whole. Referred against the body last responsible for the supply to the ground, being the cooperative of Lantern Reach, whose charter on the node expired at midnight on the eighteenth day of last month. Payable within fourteen days of service. Representations in writing within fourteen days, to be placed before an appointed hearing officer. The cooperative may not appeal and there is no appeal.*
 
 "Payable within fourteen days is the one that matters and I am going to say the true thing about it," said Perrin Osse, "and the true thing is that you do not have to pay it and you cannot refuse it. Those are not the same and the difference between them is the whole of what is left to you. If you pay it, you have admitted the schedule. If you do not pay it, the district does not seize the well — there is no well to seize, you do not hold a charter — the district takes the debt against the body, and the body is a cooperative, and what a district does with a cooperative's debt is in a schedule I have not got in front of me and neither have you, and neither of us is going to find out this month."
 
@@ -42,7 +42,7 @@ She put a finger on the second sheet.
 
 Nobody said anything.
 
-"Your hundredweight went into a return main on the first," said Anneke Roos. "That is the twenty-first of last month and it is a different month and there is nothing in it."
+"Your hundredweight went into a return main on the first," said Anneke Roos. "That is the same day the schedule starts on, so that is no use to anybody. And a hundredweight is a quarter of one month's return against a node that has had nothing put into that main since the middle of October, because the flock went up the fen road on the tenth and not one animal came back. A hundredweight on the first of the month did not turn the gravel under forty-one houses and it could not have, and there are six weeks of nothing in front of it and not a quart of anything in it."
 
 "Then you will say so in your representations, in fourteen days, in writing, and there is a form and I will give you the form, and the form is two sheets and a box in the corner that says *amount disputed* and there is a line under the box that says *cause of the unfit water, so far as the disputing party is able to state it*."
 
@@ -58,19 +58,19 @@ Inspector Ansel Bray came out of the back room at noon with a satchel and a coat
 
 He put the satchel on the counter.
 
-"Three things, and I have said them at the front of every room I have been in since the tenth of this month, and I am not going to stop saying them because a file has got longer.
+"Three things, and I have said them at the front of every room I have been in since the tenth of last month, and I am not going to stop saying them because a file has got longer.
 
 "If I find unregistered maintenance on a non-scheduled branch, I may seal the head, take the seed stock into district custody, or refer for relocation. I am not sealing the head. I am not taking the seed stock. I have no immediate-risk finding and it has not been disturbed, and the reason it has not been disturbed is on this same counter in your own book, which says *nothing found* on the first of the month in a lamp-keeper's hand, and I have read it twice.
 
 "The emergency clause is not spent and it is not extinguished. I said that on the eighteenth with a bailiff's hour in my head and I am saying it now without one. It is open, and it is open because of a report taken over that counter on the twenty-fourth from a man called Slee, and I did not take that report and I would not have taken it if I had been on the counter, and I have told Perrin Osse so and she has written it down."
 
-He opened the satchel and took out a single sheet and laid it flat on the counter, squared to the edge, the way Sera Quill had put nine pages of raw notes on a seed house table on the tenth of this month, and Dunmar Fitch saw her do it and looked at the sheet and then at her and then understood what he was looking at.
+He opened the satchel and took out a single sheet and laid it flat on the counter, squared to the edge, the way Sera Quill had put nine pages of raw notes on a seed house table on the tenth of last month, and Dunmar Fitch saw her do it and looked at the sheet and then at her and then understood what he was looking at.
 
 "Mr Vale, I have been in the district office since seven and I have read your file from the beginning, because a file that reopens is read from the beginning. I am going to read you three lines out of it, and I want you to understand before I start that I have not chosen them and that I have not gone looking, and that every one of them is in your own hand or in the licensed engineer's hand, and that I have never in twenty-two years had a cooperative put these three things in its own book and never known it had."
 
 He read the first.
 
-"*Third day, tenth hour and forty minutes. Fieldbook, at the copper seam, licensed engineer reading, four witnesses present.* The new run is fed. The new run is fed from below. Below is not yours."
+"*Fourth day, tenth hour and forty minutes. Fieldbook, at the copper seam, licensed engineer reading, four witnesses present.* The new run is fed. The new run is fed from below. Below is not yours."
 
 He looked up.
 
