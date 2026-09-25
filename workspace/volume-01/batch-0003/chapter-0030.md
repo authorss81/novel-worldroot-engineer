@@ -8,7 +8,7 @@ Seven of them, and it took until half past four. Sera Quill had her case and did
 
 ---
 
-"Fourth of the month, tenth hour and forty minutes, licensed reader, four witnesses. A fieldbook at the copper seam returned three lines." She read them. "That is a reading. It is a licensed reading, on the fourth, by me, with four witnesses, at the hour, and it is the only licensed reading that has ever been taken on this node, and Mr Vale has never taken one, because he is not licensed to take one and has never said that he was. It is in your own book, in a form your own rule made, and it is dated.
+"Twenty-fourth of the month, tenth hour and forty minutes, licensed reader, four witnesses. A fieldbook at the copper seam returned three lines." She read them. "That is a reading. It is a licensed reading, on the twenty-fourth, by me, with four witnesses, at the hour, and it is the only licensed reading that has ever been taken on this node, and Mr Vale has never taken one, because he is not licensed to take one and has never said that he was. It is in your own book, in a form your own rule made, and it is dated.
 
 "Now I am going to tell you what it is worth, and I have taught this for thirty years and I have watched four hundred people not learn it.
 
@@ -16,7 +16,7 @@ Seven of them, and it took until half past four. Sera Quill had her case and did
 
 "An unlicensed reading is a rumour with a witness in it. That is the phrase and I did not invent it and I have never improved on it. Your fieldbook reading from the eighth of last month is a rumour with a witness in it. Your fieldbook reading from the twentieth of last month is a rumour with a witness in it. Mr Vale's four seconds in a flooded pit on the tenth is a rumour with a witness in it, and I was the witness, and I have said in three books that I would not stand up and say what he got, and I will not.
 
-"And the fourth of the month is not a rumour with a witness in it. It is a licensed reading with four witnesses and an hour on it, and it is the only thing in this building worth a hearing officer's afternoon, and it is worth it to the district and not to you, because it says *below* and *not yours*, and the district has already read it out loud at a counter in front of a clerk, twice, and carried it away in a satchel."
+"And the twenty-fourth of the month is not a rumour with a witness in it. It is a licensed reading with four witnesses and an hour on it, and it is the only thing in this building worth a hearing officer's afternoon, and it is worth it to the district and not to you, because it says *below* and *not yours*, and the district has already read it out loud at a counter in front of a clerk, twice, and carried it away in a satchel."
 
 Nobody spoke for a while.
 
@@ -50,7 +50,7 @@ She squared the case on the bench.
 
 "It is not going to travel," said Dunmar Fitch, "and I will not have it said kindly. The standing pressure log is the cooperative's own book. On the fourth part, second clause, of a charter that lapsed on the eighteenth, a record is a record in the book of the holder. There is no holder. So that book is a book kept by a body of people with no standing, and a district clerk may look at it and may copy it and may carry the copy away, and may not certify it, and every line in it is the word of a body that has just been billed sixty pounds ten for something it cannot prove.
 
-"The open book is not a filing. It has never been a filing. On the third day of last month the motion to enter the claim in the log was moved and lost nine to twenty-two with four abstentions, in a room of forty, and what it became instead was a standing act of the meeting, and a standing act of a meeting is a thing you do, not a thing you have done to anybody. Perrin Osse may look at it. She may not take it. It goes away with me."
+"The open book is not a filing. It has never been a filing. On the fourth of last month the motion to enter the claim in the log was moved and lost nine to twenty-two with four abstentions, in a room of forty, and what it became instead was a standing act of the meeting, and a standing act of a meeting is a thing you do, not a thing you have done to anybody. Perrin Osse may look at it. She may not take it. It goes away with me."
 
 He put his hand flat on it.
 
@@ -144,4 +144,4 @@ The three acres at the top end were the colour of a wet road and the crust came 
 
 Marek stood at the four o'clock corner of a ditch he had made, with a dead branch two hundred yards behind him up the fen road and a dead bed nine miles off under a low quarter, and a notice nailed to a well house door with sixty pounds ten shillings and fourteen days on it, and a document in Fennmere with his own name at the top of it saying that everything he knew was a rumour with a witness in it.
 
-He put his hand on the willow for about a second and then took it off, because he was the engineer of record and there was nobody licensed standing next to him, and he had not asked to be in that ditch on the first of the month and he was not going to start on the thirtieth.
+He put his hand on the willow for about a second and then took it off, because he was the engineer of record and there was nobody licensed standing next to him, and he had not asked to be in that ditch on the twenty-first and he was not going to start on the thirtieth.

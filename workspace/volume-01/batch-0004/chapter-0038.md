@@ -24,7 +24,7 @@ Bray took out one sheet, and it was the certificate of copy Perrin Osse had writ
 
 "Mr Vale. On Monday this office was given a copy of your standing pressure log, entire, on the certificate of the clerk of this sub-office, which cannot be recalled by anybody who is not an officer of this office. It was not a district document on Sunday and it is one now, and you put it there. I say that first because otherwise this morning looks as though I did something on Monday and today I am coming for it.
 
-"That copy carries two entries about a fieldbook at the copper seam of this well head with a licensed reader and witnesses: the fourth day of last month at the tenth hour and forty minutes, and the twentieth day of last month. I read the first of them out loud at that counter on the twenty-eighth in front of that clerk, and it has been in a district file since.
+"That copy carries two entries about a fieldbook at the copper seam of this well head with a licensed reader and witnesses: the twenty-fourth day of last month at the tenth hour and forty minutes, and the twentieth day of last month. I read the first of them out loud at that counter on the twenty-eighth in front of that clerk, and it has been in a district file since.
 
 "And the instrument those two entries name is not in this office. It has not been here since the tenth day of a month, when it was produced to a district inspector and read out in this room by a person holding it, and neither that inspector nor that person is licensed to read it. So there is a document in this district that describes an instrument, and the instrument is in a press in a fen, and the woman keeping the press is not a licensed anything.
 

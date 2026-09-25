@@ -38,7 +38,7 @@ The annex was two sheets, and the sixth document of the season to go through tha
 
 What was left of the day was about who could sign, and it went on for two hours and it was the hardest hour of the day, and the thing that broke it open was Lissa Vale refusing to sign anything at all until somebody read her the seed house's own column.
 
-"The bed is at three and a half degrees," she said, "and the bin has had sweepings in it since the first of last month, and I have measured that bed this morning with a soil iron and I have had it twice, and it is not a cold room. A cold room you can put a blanket round. That is a rootwood bed with a mill floor under it and there is nothing coming up from the bottom.
+"The bed is at three and a half degrees," she said, "and the bin has had sweepings in it since the twenty-first of last month, and I have measured that bed this morning with a soil iron and I have had it twice, and it is not a cold room. A cold room you can put a blanket round. That is a rootwood bed with a mill floor under it and there is nothing coming up from the bottom.
 
 "So there is a document on this table that says the trust is a party to the seed arrangements of this node, and it is a month before anything can be sown, and the ground it is sown in is three and a half degrees and has been going down since the middle of last month, and there is no money in this cooperative to put four hundred hundredweight a month into a return main.
 
@@ -46,7 +46,7 @@ What was left of the day was about who could sign, and it went on for two hours 
 
 Tova Reed wrote it, and it took her about four minutes, and it is a single line and it is the reason the annex is a document and not a promise.
 
-*Entered on this annex, in the steward's hand, before signature: the return main of the node at Lantern Reach is three hundred and ninety-nine hundredweight a month short of specification; the compost return of the seed bed has received one hundredweight since the first of the month of last month; the bed stands at three and a half degrees; and the seed described on this annex may not come up. This is stated at the request of the seed house of this cooperative and against the interest of the trust, and is entered in the trust's own book as well as in the cooperative's.*
+*Entered on this annex, in the steward's hand, before signature: the return main of the node at Lantern Reach is three hundred and ninety-nine hundredweight a month short of specification; the compost return of the seed bed has received one hundredweight since the twenty-first of last month; the bed stands at three and a half degrees; and the seed described on this annex may not come up. This is stated at the request of the seed house of this cooperative and against the interest of the trust, and is entered in the trust's own book as well as in the cooperative's.*
 
 And then she initialled it, and put the pen down and picked it up again, and said, "Now the signature, and the signature is the hard part and I want it done properly and not quickly."
 
@@ -54,7 +54,7 @@ And then she initialled it, and put the pen down and picked it up again, and sai
 
 "Lantern Reach cannot sign," said Dunmar Fitch. "That is not a modesty. I am the clerk of a body that has no charter, and a body with no charter cannot execute an instrument, and a document executed by a body that cannot execute it is voidable by anybody who ever hears of it, and there is a hearing officer coming to this district on a date that I do not know and a schedule of damage in a file and a circular with a president's name on it going round four hundred doors. If this cooperative signs this annex as a cooperative, then in the forty-second a man is entitled to say that the trust attached itself to an unchartered body, and he will be right, and it will be the trust's problem and not ours, and the trust's problem is nine thousand people on a road.
 
-"What I can do is this. The signatory block names the individual, states the capacity, and states the limit, and the limit is written into the body of the annex so that it cannot be read out of it. Three signatures: for the seed house, Lissa Vale. For the node as engineer of record, Marek Vale. And me, as a witness and not as a party, because I am not a party and I have not been a party to anything since the third day of a month when a motion of mine was lost nine to twenty-two."
+"What I can do is this. The signatory block names the individual, states the capacity, and states the limit, and the limit is written into the body of the annex so that it cannot be read out of it. Three signatures: for the seed house, Lissa Vale. For the node as engineer of record, Marek Vale. And me, as a witness and not as a party, because I am not a party and I have not been a party to anything since the fourth day of a month when a motion of mine was lost nine to twenty-two."
 
 "Write the limit," said Marek.
 

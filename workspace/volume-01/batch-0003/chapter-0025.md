@@ -2,7 +2,7 @@
 
 ## A Bucket And A Slip Of Paper
 
-Two things came up the fen road on the fifth of the month and they came within two hours of each other, and the one that arrived first was a man with a bucket.
+Two things came up the fen road on the twenty-fifth of the month and they came within two hours of each other, and the one that arrived first was a man with a bucket.
 
 He was about sixty and thin and he had walked four miles, and he was standing at the gate at nine in the morning with a wooden pail in his hand and he would not come in past the gate posts, and he said his name when Marek got to it and he said it flatly, as though the name were a thing he had to get over with before he could get to the rest.
 

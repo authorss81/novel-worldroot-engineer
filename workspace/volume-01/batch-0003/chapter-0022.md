@@ -100,7 +100,7 @@ Marek took his own drawing off the rail and turned it over and wrote on the back
 
 "I will put it on the stake."
 
-"You will not," she said. "That stake says what the anchor is. A stake is not a place for a thing that is not fixed yet. Put it in the book. And if in six weeks the new run is doing what you say it will do, then somebody in a cold room is going to read the book and see that on the first day of a month four people knew about the fence post, and that is worth more to you than a good line on a post."
+"You will not," she said. "That stake says what the anchor is. A stake is not a place for a thing that is not fixed yet. Put it in the book. And if in six weeks the new run is doing what you say it will do, then somebody in a cold room is going to read the book and see that on the twenty-first four people knew about the fence post, and that is worth more to you than a good line on a post."
 
 He wrote it in the working notes at the ninth hour and read it back, and Anneke Roos initialled it because it was an opinion and not a record, and it was the third time in a month.
 

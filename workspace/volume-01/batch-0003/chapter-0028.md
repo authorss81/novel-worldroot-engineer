@@ -42,7 +42,7 @@ She put a finger on the second sheet.
 
 Nobody said anything.
 
-"Your hundredweight went into a return main on the first," said Anneke Roos. "That is the same day the schedule starts on, so that is no use to anybody. And a hundredweight is a quarter of one month's return against a node that has had nothing put into that main since the middle of October, because the flock went up the fen road on the tenth and not one animal came back. A hundredweight on the first of the month did not turn the gravel under forty-one houses and it could not have, and there are six weeks of nothing in front of it and not a quart of anything in it."
+"Your hundredweight went into a return main on the twenty-first," said Anneke Roos. "That is the same day the schedule starts on, so that is no use to anybody. And a hundredweight is a quarter of one month's return against a node whose bin has had nothing in it since the middle of October, because the flock went up the fen road on the tenth and not one animal came back, and which has had that quarter and nothing else in the main this month. A hundredweight on the twenty-first did not turn the gravel under forty-one houses and it could not have, and there are six weeks of nothing in front of it and not a quart of anything in it."
 
 "Then you will say so in your representations, in fourteen days, in writing, and there is a form and I will give you the form, and the form is two sheets and a box in the corner that says *amount disputed* and there is a line under the box that says *cause of the unfit water, so far as the disputing party is able to state it*."
 
@@ -60,7 +60,7 @@ He put the satchel on the counter.
 
 "Three things, and I have said them at the front of every room I have been in since the tenth of last month, and I am not going to stop saying them because a file has got longer.
 
-"If I find unregistered maintenance on a non-scheduled branch, I may seal the head, take the seed stock into district custody, or refer for relocation. I am not sealing the head. I am not taking the seed stock. I have no immediate-risk finding and it has not been disturbed, and the reason it has not been disturbed is on this same counter in your own book, which says *nothing found* on the first of the month in a lamp-keeper's hand, and I have read it twice.
+"If I find unregistered maintenance on a non-scheduled branch, I may seal the head, take the seed stock into district custody, or refer for relocation. I am not sealing the head. I am not taking the seed stock. I have no immediate-risk finding and it has not been disturbed, and the reason it has not been disturbed is on this same counter in your own book, which says *nothing found* on the twenty-first in a lamp-keeper's hand, and I have read it twice.
 
 "The emergency clause is not spent and it is not extinguished. I said that on the eighteenth with a bailiff's hour in my head and I am saying it now without one. It is open, and it is open because of a report taken over that counter on the twenty-fourth from a man called Slee, and I did not take that report and I would not have taken it if I had been on the counter, and I have told Perrin Osse so and she has written it down."
 
@@ -70,7 +70,7 @@ He opened the satchel and took out a single sheet and laid it flat on the counte
 
 He read the first.
 
-"*Fourth day, tenth hour and forty minutes. Fieldbook, at the copper seam, licensed engineer reading, four witnesses present.* The new run is fed. The new run is fed from below. Below is not yours."
+"*Twenty-fourth day, tenth hour and forty minutes. Fieldbook, at the copper seam, licensed engineer reading, four witnesses present.* The new run is fed. The new run is fed from below. Below is not yours."
 
 He looked up.
 
@@ -78,13 +78,13 @@ He looked up.
 
 He read the second.
 
-"*Second day, seventh hour. A local conduit, thirty-one yards, of the character called a local conduit, cut from the return main above the eleventh rod, and let into the outer field's own root line, with four willow sets, and no other capacity, on the twenty-second, under the licence of S. Quill.* And then, four lines under that, in the same hand, *The new run is fed from below.*"
+"*Twenty-second day, seventh hour. A local conduit, thirty-one yards, of the character called a local conduit, cut from the return main above the eleventh rod, and let into the outer field's own root line, with four willow sets, and no other capacity, on the twenty-second, under the licence of S. Quill.* And then, four lines under that, in the same hand, *The new run is fed from below.*"
 
 "That is twice," said Bray. "In your own book, at two different hours, by two different people, one of whom is a licensed engineer and one of whom is you, and neither of you has ever said what *below* is, and a district officer is going to read those two lines together out loud in front of a hearing officer and he is going to ask what is below, and Mr Vale, on the twenty-seventh of this month, this cooperative was two hundred yards from a Crown work party and did not say."
 
 He read the third, and he read it slowly.
 
-"*Second day, fourth hour, licensed, S. Quill.* Return: labour, recorded. Compost into the return main, one hundredweight, first of the month, G. Senn. Against a specified four hundred hundredweight a month at the load this node is being asked to carry. Shortfall: three hundred and ninety-nine hundredweight a month."
+"*Twenty-second day, fourth hour, licensed, S. Quill.* Return: labour, recorded. Compost into the return main, one hundredweight, the twenty-first, G. Senn. Against a specified four hundred hundredweight a month at the load this node is being asked to carry. Shortfall: three hundred and ninety-nine hundredweight a month."
 
 He squared the sheet.
 

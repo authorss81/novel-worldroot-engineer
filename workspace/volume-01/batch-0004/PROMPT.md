@@ -1,5 +1,7 @@
 # Volume 01 — Batch 0004 (Chapters 31–40)
 
+> **SUPERSEDED IN PART — read this before using anything below.** This prompt is the record of what Batch 0004 was asked to write, and it is left as written. **Two of its instructions were wrong and the review of the finished batch caught both.** (1) **The month boundary is wrong throughout this file.** It says season day 21 is the first day of a calendar month; that is false, and it is the fault that put the first … the tenth of a month into ten chapters. **Months run thirty days: season days 1–30 are October and day 31 is the first of the next month.** A day in 21–30 is the plain number only. The governing table is in `state/continuity.md` under *Batch 0003 day clock*, and the whole manuscript has been corrected. (2) **This prompt's claim that the season month is not to be named was carried correctly, but the claim that the boundary rule held without a violation was not, and the batch could not have held it.** Everything else in this file stands. The findings and what was done about them are in `reviews/batch-0004.findings.md`.
+
 Write **Chapters 31–40** of Volume 01. This is the fourth prose batch and **Movement 4, *Water Above the Embankment*** — the liability movement, in which the cooperative's own good record is turned into the district's best evidence. Chapters 1–30 are drafted; read them.
 
 ## Read first

@@ -2,11 +2,11 @@
 
 ## Three Hundred And Ninety-Nine
 
-It came out of Tova Reed's own arithmetic, on the fourth of the month, at the north annex, with the tray of the Longneck's own empty space in front of her and four people standing in a seed house before eight in the morning.
+It came out of Tova Reed's own arithmetic, on the twenty-fourth, at the north annex, with the tray of the Longneck's own empty space in front of her and four people standing in a seed house before eight in the morning.
 
 She had asked for the licence sheet and Dunmar Fitch had brought it, and she read it standing up in the way she read everything, and she got to the return line and stopped and read it again.
 
-*Return: labour, recorded. Compost into the return main, one hundredweight, first of the month, G. Senn. Against a specified four hundred hundredweight a month at the load this node is being asked to carry. Shortfall: three hundred and ninety-nine hundredweight a month.*
+*Return: labour, recorded. Compost into the return main, one hundredweight, the twenty-first, G. Senn. Against a specified four hundred hundredweight a month at the load this node is being asked to carry. Shortfall: three hundred and ninety-nine hundredweight a month.*
 
 "Three hundred and ninety-nine," she said. "At four shillings that is seventy-nine pounds sixteen, and the specification is eighty, and the cooperative has four pounds and five shillings, and those three numbers have been in this building since the tenth of last month and until this morning they have not been in the same sentence."
 
@@ -78,7 +78,7 @@ She said it once, instantly, the way she said the first one on the twentieth of 
 
 The use-log line was written out in the seven-column form and read aloud before it was signed, which was Anneke Roos's habit and had become the room's habit.
 
-*Fourth day, ninth hour and twenty minutes. Fieldbook, produced by Mrs Vale from the press, at the request of M. Vale, at the seed house table, in the presence of T. Reed, A. Roos and D. Fitch. Purpose: to be used by Sera Quill, licensed engineer, at the copper seam of the well head, for one reading on this day, and for no other purpose. Licensed person present: S. Quill. M. Vale will not touch the instrument and will stand outside the housing. Out. Back.*
+*Twenty-fourth day, ninth hour and twenty minutes. Fieldbook, produced by Mrs Vale from the press, at the request of M. Vale, at the seed house table, in the presence of T. Reed, A. Roos and D. Fitch. Purpose: to be used by Sera Quill, licensed engineer, at the copper seam of the well head, for one reading on this day, and for no other purpose. Licensed person present: S. Quill. M. Vale will not touch the instrument and will stand outside the housing. Out. Back.*
 
 Lissa capped the ink and went back to her bin, and did not watch him carry it out.
 
@@ -108,7 +108,7 @@ She put two fingers on the page.
 
 Gael Senn said, very quietly, "That is an instruction."
 
-"That may be an instruction," said Sera Quill. "Write it down as *three lines read at the seam, tenth hour, fourth of the month, S. Quill, licensed, with four witnesses present*, and write the three lines under it exactly as I read them, and do not write *the book told us to* anywhere on that page, because the day somebody reads that page in a room is the day everything anybody has said in this yard goes under a blanket."
+"That may be an instruction," said Sera Quill. "Write it down as *three lines read at the seam, tenth hour, twenty-fourth, S. Quill, licensed, with four witnesses present*, and write the three lines under it exactly as I read them, and do not write *the book told us to* anywhere on that page, because the day somebody reads that page in a room is the day everything anybody has said in this yard goes under a blanket."
 
 Marek came in off the boards and stood at the rail.
 
@@ -132,7 +132,7 @@ Rowan Teale's boy came up the fen road again at the seventh hour that evening wi
 
 The letter was three lines.
 
-*Tuesday, fourth of the month. Wheel, 231, milling day. Down twenty-three on Monday. I have written both and I have put my hand on the chalk both times and I have not written why, because I do not know why and I have been reading this board for thirty-one years and I have never seen it go down in the middle of a week with the water coming up.*
+*Tuesday, the twenty-fourth. Wheel, 231, milling day. Down twenty-three on Monday. I have written both and I have put my hand on the chalk both times and I have not written why, because I do not know why and I have been reading this board for thirty-one years and I have never seen it go down in the middle of a week with the water coming up.*
 
 *Rowan Teale.*
 

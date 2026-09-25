@@ -52,7 +52,7 @@ Marek said, "The fourth day," and she said, "The fourth day."
 
 "No," said Tova Reed. "I have said what the fourth day costs, and you have to tell me which of those two things I have done, and I will help you, because you are tired and it has been a week.
 
-"I have not permitted it. The condition is in this book's ninth page and it has been there since the first day of this month and it has never been withdrawn, and I wrote it, and a seed steward is the only person in this building who can stop this seed being used, and on the third day of last month you broke it once in an afternoon and I ruled three trays and did not soften it and I will rule the same way now.
+"I have not permitted it. The condition is in this book's ninth page and it has been there since the eighteenth and it has never been withdrawn, and I wrote it, and a seed steward is the only person in this building who can stop this seed being used, and on the twenty-third you broke it once in an afternoon and I ruled three trays and did not soften it and I will rule the same way now.
 
 "And I have also told you the cost. Both are true at once and they have been true at once all month, and the reason this is a hard thing to refuse somebody is not that it is difficult to calculate. It is that refusing you is *cheap* for me. It costs me nothing. You are asking a woman from the Salt March for four days of a seed bed and the woman from the Salt March says no, and the woman from the Salt March is correct, and the woman from the Salt March has no three acres at the top end of a field that she has drained by hand and put her own lime in, and I do not have to look at what happens to them."
 

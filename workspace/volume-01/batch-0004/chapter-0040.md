@@ -90,7 +90,7 @@ Nobody said anything, and then Marek said the thing he had come out of the seed 
 
 "Right," he said. "Then here is the only thing in this yard that costs nothing and can be done tomorrow, and it is not a bypass and it is not a fire and it is not a reader.
 
-"There is a reed gauge clamped on the return main at the eleventh rod. It has been on the peg since the fourth of the month. Jonas has read it every morning since and written it and signed it, and nobody has read it today, and in four days' time the only number that will tell us whether this node is still taking what the log says it takes is going to be a thumb on a cheap reed that we screwed to a pipe in a ditch in a storm, by a man who is not a rootwright and not an inspector.
+"There is a reed gauge clamped on the return main at the eleventh rod. It went on the peg on the twenty-first of last month, Jonas read it that same morning, and he did not write down what it said, and there is still no figure for it in any book in this building, and the one entry that does exist about it says in its own words that the reading for that morning cannot be supplied. Nobody has read it today, and in four days' time the only number that will tell us whether this node is still taking what the log says it takes is going to be a thumb on a cheap reed that we screwed to a pipe in a ditch in a storm, by a man who is not a rootwright and not an inspector.
 
 "So at the fourth hour tomorrow, before anything else, Jonas and Gael and Ilsa go down to the eleventh rod and read it and write it and enter the load under it, and if it has moved we will know on the morning of the rain and not on the night of it, and if it has not moved then we will at least have the number that says so.
 

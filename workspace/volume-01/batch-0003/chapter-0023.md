@@ -48,7 +48,7 @@ Marek put his hand on the rail and could not feel anything at all, and neither c
 
 "It is there," Gael Senn said. "It is just not through the rail."
 
-"It is there and it is not through the rail," Marek said, "and I am going to write *present at the coping stone, not at the rail, eighth hour, third day of the month* and then I am going to write *cause not established* underneath it, because that is the rule and because Ms Quill is not here and because the alternative is that four of us put a cause in a book in a morning when we have just watched a field stand up, and a man who has had a good morning is the worst witness in this trade."
+"It is there and it is not through the rail," Marek said, "and I am going to write *present at the coping stone, not at the rail, eighth hour, twenty-third of the month* and then I am going to write *cause not established* underneath it, because that is the rule and because Ms Quill is not here and because the alternative is that four of us put a cause in a book in a morning when we have just watched a field stand up, and a man who has had a good morning is the worst witness in this trade."
 
 He wrote it on the spot, on the standing pressure log, at the hour, and read it back, and Gael Senn signed it and the licensed person present column said *none* and nobody wrote anything under that, because there was nobody to write anything.
 
@@ -60,7 +60,7 @@ The pump ran clean.
 
 He tested it at the ninth hour with the collar shut and the pressure logged before the reading, and the head came up to eleven hundred and held it, and the frame stopped humming at nine hundred and fifty and did not start again until a thousand and forty.
 
-"I want that written down the way it is and not the way it sounds," he said, from the boards, while Jonas Byre read the dial out and Anneke Roos wrote. "The head would not hold nine hundred before Saturday. It holds eleven hundred now. That is a dial reading and a pressure and it is not a day of water and I am not going to have anybody in six months reading it as one. Enter it as a dial reading at the ninth hour on the third of the month, and put the load under it and put the hour under the load."
+"I want that written down the way it is and not the way it sounds," he said, from the boards, while Jonas Byre read the dial out and Anneke Roos wrote. "The head would not hold nine hundred before Saturday. It holds eleven hundred now. That is a dial reading and a pressure and it is not a day of water and I am not going to have anybody in six months reading it as one. Enter it as a dial reading at the ninth hour on the twenty-third of the month, and put the load under it and put the hour under the load."
 
 He came up off the boards afterwards and said, to nobody in particular, the thing he had been carrying since the twentieth:
 
@@ -86,7 +86,7 @@ Nobody in that yard had said the number out loud and it came into the middle of 
 
 Marek got the letter that Teale had written behind it, which was four lines, in a miller's hand, and read it standing up.
 
-*Monday, third of the month. Wheel, 254, milling day. It is the highest this board has read since the spring your father went and it is seven short of the best figure on it, and I have read this board thirty-one years and I do not know how to say the next part so I am going to say it. On Friday it read 131. On the Wednesday before that it read 126. I have written both and I have written the time and I have put my hand on the chalk both times, and I am a miller and not a clerk and I do not know what a number means until somebody tells me, and I am telling you first, this morning, before the district, because the district will hear about it from me either way and I would rather you had it at nine than at four.*
+*Monday, twenty-third of the month. Wheel, 254, milling day. It is the highest this board has read since the spring your father went and it is seven short of the best figure on it, and I have read this board thirty-one years and I do not know how to say the next part so I am going to say it. On Friday it read 131. On the Wednesday before that it read 126. I have written both and I have written the time and I have put my hand on the chalk both times, and I am a miller and not a clerk and I do not know what a number means until somebody tells me, and I am telling you first, this morning, before the district, because the district will hear about it from me either way and I would rather you had it at nine than at four.*
 
 *Rowan Teale, miller, Fennmere.*
 
@@ -142,7 +142,7 @@ He read it twice, and Marek was on the boards with him, and it read forty-one on
 
 "Right," said Jonas Byre.
 
-And then Jonas Byre put his thumb on the second dial, which was a new one, a cheap reed gauge they'd clamped on the return main at the eleventh rod on the Sunday because nobody had thought to bring a good one, and he looked at it, and he took his thumb off it, and he said:
+And then Jonas Byre put his thumb on the second dial, which was a new one, a cheap reed gauge they'd clamped on the return main at the eleventh rod on the Saturday because nobody had thought to bring a good one, and he looked at it, and he took his thumb off it, and he said:
 
 "That one has moved. It is on about the peg since Saturday. I do not know what it was on Saturday. There is nobody in this building who does know what it was on Saturday, because we did not write it down on Saturday, and I read it on Saturday and I did not write it down because I did not think anybody was going to be interested."
 

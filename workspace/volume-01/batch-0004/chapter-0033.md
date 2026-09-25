@@ -84,7 +84,7 @@ Marek made the call at six with the form in his coat and the light off the water
 
 "I am not signing it," he said, "and I want the reason entered in the same minute so that nobody in this yard has to guess.
 
-"Ms Quill licensed one work on this node on the first and second days of last month with the return short, and she said on the twenty-seventh that she would not license a second one, and she has been asked to speak about this and she has said the same sentence again and somebody said it was the same sentence and she said yes, because it is the same sentence and she is the same woman and I would like that written down as arithmetic and not as caution.
+"Ms Quill licensed one work on this node on the twenty-first and twenty-second of last month with the return short, and she said on the twenty-seventh that she would not license a second one, and she has been asked to speak about this and she has said the same sentence again and somebody said it was the same sentence and she said yes, because it is the same sentence and she is the same woman and I would like that written down as arithmetic and not as caution.
 
 "So there is no licensed act here, which means there is nothing for me to sign a consent about, because a consent is a licensed person's act wearing a body's clothes, and the only licensed person in this district is standing eight feet from me and has already answered the question for the month.
 

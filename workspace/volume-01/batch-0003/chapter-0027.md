@@ -14,7 +14,7 @@ The four of them did not answer at once, and that was the answer, and he let it 
 
 "Ms Quill."
 
-"No," said Sera Quill. "I licensed one piece of work this month on this node and the return line on that document has three hundred and ninety-nine hundredweight of a hole in it in my own hand, and I will not put a second licence on the same node in the same month while the first one is unfed. That is not caution and I would like it recorded that it is not caution. It is arithmetic. A second work on a system that is already short does not make good the short; it makes the short twice as big and puts both halves under one signature, and the signature is mine, and in about six weeks somebody is going to ask me in a room which of two things I was thinking of on the third day of last month, and I will not be able to answer, because you are all four standing here with your faces on and I will not."
+"No," said Sera Quill. "I licensed one piece of work this month on this node and the return line on that document has three hundred and ninety-nine hundredweight of a hole in it in my own hand, and I will not put a second licence on the same node in the same month while the first one is unfed. That is not caution and I would like it recorded that it is not caution. It is arithmetic. A second work on a system that is already short does not make good the short; it makes the short twice as big and puts both halves under one signature, and the signature is mine, and in about six weeks somebody is going to ask me in a room which of two things I was thinking of on the twenty-first, and I will not be able to answer, because you are all four standing here with your faces on and I will not."
 
 "Mrs Roos."
 

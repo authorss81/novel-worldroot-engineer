@@ -12,9 +12,9 @@ Gael Senn went down the ladder at seven in the morning on the first of the month
 
 She was in the pit ten minutes.
 
-She lifted the sacking at the six o'clock corner, held the lamp down into the gap, and did not touch the seal. Then she went and got the second rule off the board herself and came back down the ladder with it, because there are two rules in this building and one of them is the one she keeps in her coat, and on the first of last month she had made a man carry it down for her and had not liked the sound of his boots on the ladder.
+She lifted the sacking at the six o'clock corner, held the lamp down into the gap, and did not touch the seal. Then she went and got the second rule off the board herself and came back down the ladder with it, because there are two rules in this building and one of them is the one she keeps in her coat, and on the twenty-first of last month she had made a man carry it down for her and had not liked the sound of his boots on the ladder.
 
-"Quarter of an inch," she said, from below. "It was a quarter of an inch at the sixth hour on the first of last month and it is a quarter of an inch now, and the pump is on the idle, and it has not gone anywhere. I have measured it twice with two rules. I want it written exactly that way and I want the load under it, because a quarter of an inch at an idle and a quarter of an inch at a thousand one hundred turns are not the same sentence and I have watched somebody write them as though they were."
+"Quarter of an inch," she said, from below. "It was a quarter of an inch at the sixth hour on the twenty-first of last month and it is a quarter of an inch now, and the pump is on the idle, and it has not gone anywhere. I have measured it twice with two rules. I want it written exactly that way and I want the load under it, because a quarter of an inch at an idle and a quarter of an inch at a thousand one hundred turns are not the same sentence and I have watched somebody write them as though they were."
 
 "Write both," said Marek. "And the second one is not going to be applied in a hurry. That load test was the twentieth day's act, on a certificate, and there is no charter to hang a second load on and nobody to hang it to, and Ms Quill said on Monday that she is not spending another act on that head in that condition. So the number in the book is a number at an idle and I would rather it said an idle in plain words than had the figure floating about with a load on it that was never put there."
 
@@ -36,7 +36,7 @@ She came up and wrote the examination entry, and she read it back before she sig
 
 The return line was the problem, and it was the whole of the day.
 
-The certificate's return is two things and not one. It is an examination, and it is something put into the return main. Gael Senn had done the first one in eleven minutes. The second one needs a hundredweight of compost, and there was no hundredweight, because the only hundredweight on the holding went into that main on the first of last month and the crate it came out of has been standing open against the seed house wall ever since with a shovel in it and nothing in the crate but the cold, and there is no compost in this building to put into anything, and there has not been since the first of last month.
+The certificate's return is two things and not one. It is an examination, and it is something put into the return main. Gael Senn had done the first one in eleven minutes. The second one needs a hundredweight of compost, and there was no hundredweight, because the only hundredweight on the holding went into that main on the twenty-first of last month and the crate it came out of has been standing open against the seed house wall ever since with a shovel in it and nothing in the crate but the cold, and there is no compost in this building to put into anything, and there has not been since the twenty-first of last month.
 
 "The line is not going to be able to be filled," Marek said.
 
@@ -52,13 +52,13 @@ She got the log back off him and turned it round to herself and put her thumb un
 
 She read it out.
 
-*Return, first of the month, this day, seventh hour. Nothing put into the return main. None available to put. Specification, four hundred hundredweight a month, at the load this node is carried at. Last put in: one hundredweight, on the first day of the month of last month. To the body: four pounds five shillings. Signed G. Senn. Witnessed: none. Licensed person present: none.*
+*Return, first of the month, this day, seventh hour. Nothing put into the return main. None available to put. Specification, four hundred hundredweight a month, at the load this node is carried at. Last put in: one hundredweight, on the twenty-first of last month. To the body: four pounds five shillings. Signed G. Senn. Witnessed: none. Licensed person present: none.*
 
 "And the two lines underneath it," she said, "which I have added and which nobody has asked me to add. One: an entry made at the hour it describes. Two: and this is the one I want argued about — *nothing found* is what you find at the wound, and it is a thing you check, and what is written in the return line above is a thing that did not happen, and it is a thing nobody could check, and I have written it anyway, in a hand that could be compared with every other hand I have ever written, because a book that can record a thing that did not happen is worth more than a book that cannot, and every cooperative in this district would be frightened of one and every hearing officer in it would be glad of one."
 
 Anneke Roos had come down off the north row at seven and had been standing at the well house door for the whole of it, and she came in and read the entry over Marek's shoulder and did not touch it.
 
-"Do not change a word of it," she said. "And when you write the working note about this morning, write that a twenty-three-year-old put a line into a public book admitting that the body she works for cannot do the second half of what it promised a licensed engineer it would do, and that she was not asked to and that she offered it. A hearing officer will not be able to tell that from the first of last month. Write the difference down in your own hand so that somebody can point at it."
+"Do not change a word of it," she said. "And when you write the working note about this morning, write that a twenty-three-year-old put a line into a public book admitting that the body she works for cannot do the second half of what it promised a licensed engineer it would do, and that she was not asked to and that she offered it. A hearing officer will not be able to tell that from the twenty-first of last month. Write the difference down in your own hand so that somebody can point at it."
 
 He wrote it in the working notes at the eighth hour with the hour on it, and read it back, and she initialled it because it was an opinion and not a record, as she does.
 
@@ -114,4 +114,4 @@ He stood at the four-o'clock corner of a ditch he had made and worked out what h
 
 "A standing field that nothing in this fen can eat. A dead branch two hundred yards up the road. A dead bed nine miles off. A bill for sixty pounds ten and four pounds five in the box. A wound under a piece of sacking that a woman goes down a ladder and look at on the first of every month — twice now — to write down that there is nothing to put into the thing that is keeping it alive. Nineteen acres. A cold bed. And eleven miles of fen road to a man who is sixty-one."
 
-He did not put his hand on the willow, because he was the engineer of record and there was nobody licensed standing next to him, and he had not asked to be in that ditch on the first of the month and he was not going to start on the first of this one.
+He did not put his hand on the willow, because he was the engineer of record and there was nobody licensed standing next to him, and he had not asked to be in that ditch on the twenty-first and he was not going to start on the first of this one.

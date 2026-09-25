@@ -62,7 +62,7 @@ The three questions came after that, and he asked them in the order he had said 
 
 "Who pays for the compost."
 
-"Four hundred hundredweight a month at four shillings is eighty pounds a month," said Marek. "One hundredweight went into that main on the first of last month and cost four shillings, and there is nothing in the bin since the middle of October because a hundred and thirty head of sheep went up the fen road on the tenth and have not come back. The licensed sheet says the return is three hundred and ninety-nine hundredweight a month short, in the engineer's own hand. I do not have eighty pounds a month and I have four pounds five."
+"Four hundred hundredweight a month at four shillings is eighty pounds a month," said Marek. "One hundredweight went into that main on the twenty-first of last month and cost four shillings, and there is nothing in the bin since the middle of October because a hundred and thirty head of sheep went up the fen road on the tenth and have not come back. The licensed sheet says the return is three hundred and ninety-nine hundredweight a month short, in the engineer's own hand. I do not have eighty pounds a month and I have four pounds five."
 
 "That is the first question and you have answered it honestly, which is the only reason I am asking the second. The second is: what is the notice for. Is it for the hearing in a fortnight, or is it for the charter, which is the thing after the charter."
 

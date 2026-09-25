@@ -1,8 +1,8 @@
 # Chapter 21
 
-## The First Of The Month
+## Ten Days Early
 
-Gael Senn went down the ladder at seven in the morning with a lamp on a hook, a rule in her coat, and the standing pressure log folded under her arm, because the first of the month was the first of the month and there was nobody else in the building who was required to be in a cold pit at seven in the morning on a Saturday because her name was second on a piece of paper.
+Gael Senn went down the ladder at seven in the morning with a lamp on a hook, a rule in her coat, and the standing pressure log folded under her arm, because the first of the month was ten days off it and there was nobody else in the building who was required to be in a cold pit at seven in the morning on a Saturday because her name was second on a piece of paper.
 
 She had asked for one thing before she went down and she had got it.
 
@@ -24,7 +24,7 @@ It was the same.
 
 The second rule came down and the number was the same, and she wrote it down before she said the rest of it, which is the way she had been taught by a woman who was not in the yard.
 
-*Quarter of an inch, sixth hour, first of the month, pump on the idle. Measured twice. No change since the twentieth. Not a leak at the load stated.*
+*Quarter of an inch, sixth hour, the twenty-first of the month, pump on the idle. Measured twice. No change since the twentieth. Not a leak at the load stated.*
 
 Then she wrote the sentence underneath it that the certificate required, and she read it out loud before she wrote the last two words.
 
@@ -56,7 +56,7 @@ Lissa Vale came out with the barrow and looked at it and did not help push it, w
 
 "Nobody put a number on it before," Ilsa Kern said, from the boards.
 
-"I have put one on it now," Tova Reed said, "because it is the first of the month and a woman has just put a hundredweight into a main and written down what she found, and the two numbers ought to be in the same conversation before either of them gets away."
+"I have put one on it now," Tova Reed said, "because the first of the month is ten days off and a woman has just put a hundredweight into a main and written down what she found, and the two numbers ought to be in the same conversation before either of them gets away."
 
 ---
 
