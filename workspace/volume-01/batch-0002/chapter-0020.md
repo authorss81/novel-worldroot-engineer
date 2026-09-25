@@ -16,7 +16,7 @@ Twenty-two lines.
 
 The Longneck, eight trays, living, two and a half crates, condition *alive and cold and going to Cray to be compared against nothing*, destination Cray, standing there Nia Vale, witness Lissa Vale. The trust's own material in the tin, which was not going, which was *retained at Lantern Reach by the seed steward's decision, at risk, and the trust knows where it is*, standing there Lissa Vale, witness Tova Reed, and the word *at risk* in a line of her own writing under two lines of somebody else's, and Tova Reed initialled it, which was the second time in a week that woman had initialled something for a woman she disagreed with.
 
-Six lines of the cooperative's own winter appropriation, a bolt of cloth, a hundredweight of the thinnest bought compost the water-meadow farm would sell, which was a hundredweight at four shillings and which was a fortnight.
+Six lines of the cooperative's own winter appropriation and a bolt of cloth, which were going, and a hundredweight of the thinnest bought compost the water-meadow farm would sell, which was a hundredweight at four shillings and which was a fortnight, and which was *not* going, and which Nia entered in the columns anyway, in the same voice as the rest, because a hundredweight of compost is not a thing a seed consignment carries down to a counting house; it is a thing that goes into a return main on the first of every month, and it was the only line on the page the other twenty-one were in service of, and a line like that does not come off a list for tidiness.
 
 Three lines of seed off the north annex, which was Tova Reed's own and which she put in herself and which Nia entered in the same columns and in the same voice.
 
@@ -26,7 +26,7 @@ One letter. Sealed, addressed to K. Rusk, Fennmere pump house, to be delivered b
 
 And the last line, which she read out on the bench at four o'clock in the afternoon with the cart half loaded and the light going and the whole yard standing in it.
 
-*Item: one person. Nia Vale. Bag, one. Box, one. No crate. Destination Cray, by the Salt March road, and Fennmere on the way, nine days. Condition: going. Who is standing there when it goes: Nia Vale. Witness: Lissa Vale.*
+*Item: one person. Nia Vale. Bag, one. Box, one. No crate. Destination Cray, by the Salt March road, and Fennmere on the way, seven days. Condition: going. Who is standing there when it goes: Nia Vale. Witness: Lissa Vale.*
 
 There was a silence in the yard that had a different shape from every other silence that had happened in it that month.
 
@@ -80,7 +80,7 @@ Marek put his hand on it and left it there.
 
 Nia Vale's cart ruts were already in the soft ground of the lane by then, two sets, four inches deep, going out through the gate and up the lane and away, and they would be there for a fortnight and they would be the only thing in Tarrow Fen that looked like anything had gone anywhere.
 
-He counted the crates. He did not know why he counted the crates, and there was nothing in the yard to count, and he counted them anyway: four, the ones he had stacked against the seed house wall that afternoon because the cart could not take them wet and the annex could not hold them and there was nowhere else, and they were the cooperative's own winter appropriation and a hundredweight of thinnest compost and a bolt of cloth and eight trays of the last dry-line rye, and one of them had the lamp hooked over it still, because he had not unhooked the lamp, and he stood in the dark looking at a seed-house lamp burning on the side of a crate in a yard at half past five because he had not had a minute in nine days in which nobody needed him to do something.
+He counted the crates. He did not know why he counted the crates, and there was nothing in the yard he had meant to count, and he counted them anyway: four, the ones he had stacked against the seed house wall that afternoon, when the cart filled and two of the appropriation lines came back off the list in Nia's hand and the compost had never gone on it at all. The appropriation in three crates, for sixteen houses, and the hundredweight of thinnest compost in the fourth, which is going to stand against that wall until somebody opens the return main with it, and one of them had the lamp hooked over it still, because he had not unhooked the lamp, and he stood in the dark looking at a seed-house lamp burning on the side of a crate in a yard at half past five because he had not had a minute in nine days in which nobody needed him to do something.
 
 Anneke Roos came past with a lamp of her own and stopped.
 

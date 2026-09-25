@@ -47,7 +47,7 @@ The cooperative has **no charter**. The pump still runs. A hand-built holding se
 | Clock | Established | Due |
 |---|---|---|
 | **The twenty-seventh** — N-2214/K is due to be executed at Weir Row on a Friday, seven days after Nia leaves, and the cooperative cannot object and was not notified | Ch 16, Ch 20 | Movement 3, and it is a live problem before the flood |
-| The weep at the six o'clock corner. Not a leak. A finger's width is a leak, and a leak under sacking goes into the housing, not the pit | Ch 19 | Do not resolve before Ch 41; the flood is decided by it |
+| The weep at the six o'clock corner. A quarter of an inch, measured, not a leak; half an inch is where Sera stops calling it a weep. A leak under sacking goes into the housing, not the pit | Ch 19 | Do not resolve before Ch 41; the flood is decided by it |
 | The monthly examination on the first of every month, signed by Gael Senn, worded *nothing found* and not *all well* | Ch 19 | Movement 3's first instance; climax use |
 | The certificate, which cannot be entered as a charter condition and is worth one day of evidence | Ch 19 | Ch 47's conditional charter, and the volume's proof |
 | The emergency clause, alive and reopening on any report, and a file that does not travel with Bray | Ch 17 | Background condition of Movements 3 and 4 |

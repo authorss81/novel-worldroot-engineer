@@ -128,7 +128,7 @@ She stopped and waited until somebody asked, and Anneke Roos asked, because Anne
 
 "Write one more line under them," Sera Quill said, "in my words, and get it right: *a licensed reader at the same seam, at the same node, under full draw, on the twentieth, did not obtain the sequence obtained on the eighth. Both sequences are logged. The difference is unaccounted for.* That is not nothing. It is the only reason I would put my name under either of them."
 
-"What matters this morning," she said, "is that the certificate is on the satchel and it is on a piece of paper and the load was held at eleven hundred turns for two and a half hours with five people watching and a licensed woman's name at the top of it. I cannot certify a node in front of a district officer today, because there is no charter to certify it against. I can certify what happened this morning, and that is all, and I have written it, and Mr Vale is going to have to decide whether that is worth what it cost."
+"What matters this morning," she said, "is that the certificate is on the satchel and it is on a piece of paper and the load was held at eleven hundred turns for an hour and forty minutes with five people watching and a licensed woman's name at the top of it. I cannot certify a node in front of a district officer today, because there is no charter to certify it against. I can certify what happened this morning, and that is all, and I have written it, and Mr Vale is going to have to decide whether that is worth what it cost."
 
 ---
 

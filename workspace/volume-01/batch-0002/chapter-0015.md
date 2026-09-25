@@ -10,13 +10,13 @@ The four of them had been in the well house since first light, because the wound
 
 "Read it to me."
 
-"It is a page and a half and I have read it twice on the road and I can read it again for a living." Oskell turned it round. "The Well Directorate, Tarrow district, offers the cooperative of Lantern Reach, as a monitored repair under the emergency-maintenance schedule: material from the Fennmere yard delivered on the day, a two-person crew for six working days, a licensed engineer of the district's choosing retained by the district, and a monthly inspection for twelve months at the district's cost. In consideration, exclusive access to the head, the housing, and the node for the term, the term being the life of the charter, the term being renewable only by the district."
+"It is a page and a half and I have read it twice on the road and I can read it again for a living." Oskell turned it round. "The Well Directorate, Tarrow district, offers the cooperative of Lantern Reach, as a monitored repair under the emergency-maintenance schedule: material from the Fennmere yard delivered on the day, a two-person crew for six working days, a licensed engineer of the district's choosing retained by the district, and a monthly inspection for twelve months at the district's cost. In consideration, exclusive access to the head, the housing, and the node for the term, the term being the life of the charter, the term being renewable only by the district." He put his thumb on the foot of the page. "The first paragraph is what they give. The second is what they want. And there is a paragraph at the foot in a different hand, and it is not the district's."
 
-Marek read the paragraph twice himself.
+Marek read the second paragraph twice himself.
 
-"Who signed the second paragraph," he said.
+"Who signed the third one," he said.
 
-"Nobody. It is in the second paragraph that Mr Rusk says he has nothing to do with it, in writing, with his name on it." Oskell shifted the bag. "I have been a contract clerk for nineteen years and that is the first time a charter holder has written that sentence to me and it cost him something to write it."
+"Nobody. It is Mr Rusk's own paragraph, in his own hand, and it says he has nothing to do with any of it, in writing, with his name at the foot of it." Oskell shifted the bag. "I have been a contract clerk for nineteen years and that is the first time a charter holder has written that sentence to me and it cost him something to write it."
 
 "And the compound."
 
@@ -144,7 +144,7 @@ It was four lines.
 
 *Read that last sentence again.*
 
-*Marek put it down. He read it again, because Oskell was watching him, and then he said, out loud, to four people in a pump shed, "He is right. That is what I have been doing since the fourth day, and he is the only man in this district who has had the nerve to say so to my face, and he is right and I am not going to argue with him in front of you."
+Marek put it down. He read it again, because Oskell was watching him, and then he said, out loud, to four people in a pump shed, "He is right. That is what I have been doing since the fourth day, and he is the only man in this district who has had the nerve to say so to my face, and he is right and I am not going to argue with him in front of you."
 
 "You are not going to argue with him because you agree with him," said Gael Senn.
 

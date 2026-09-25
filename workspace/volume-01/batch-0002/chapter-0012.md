@@ -2,7 +2,7 @@
 
 ## The Column With Nothing In It
 
-Four of the five said no on the first morning, and Marek had been ready for three of them, and the fourth was the one that taught him something.
+Not one of the four said no on the first morning, and every one of them had a reason that in anybody else's cooperative would have been a no, and Marek had been ready for three of the reasons, and the fourth was the one that taught him something.
 
 He caught Jonas Byre at the north gate at seven, because Jonas Byre was out at seven whatever the weather, and had been out at seven for thirty-one years, and the cough had been with him since before the first White Harvest and had got worse in the wet and was no worse in the dry.
 
@@ -20,7 +20,7 @@ He was in by seven twenty. That was the easy one.
 
 Anneke Roos was not the easy one.
 
-She was forty-one and she farmed the low acre, the one that goes under first, and she had no children and a brother in Fennmere who did not write, and she was standing at the end of her own drain with a bar in her hand at half past seven on a Friday morning because there was still a foot of water in the ditch four days after the storm and somebody had to be the somebody who went down it.
+She was fifty, and fifty-one in the spring, and she farmed the low acre, the one that goes under first, and she had no children and a brother in Fennmere who did not write, and she was standing at the end of her own drain with a bar in her hand at half past seven on a Friday morning because there was still a foot of water in the ditch four days after the storm and somebody had to be the somebody who went down it.
 
 "I have heard what you are doing," she said, before he had got ten yards. "I heard it at the seed house last night and I have been thinking about it since the middle of the night, which I would rather not have done, and I am going to say the thing that is wrong with it and then you are going to tell me why I have got it wrong, and if you have got an answer I will go and get my coat."
 

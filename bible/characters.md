@@ -247,7 +247,7 @@ These are drafted and load-bearing. They are not atmosphere.
 
 ### Anneke Roos — tenant, north row, the low acre
 
-- **Age:** Forty-one. Farms the low acre, the ground that goes under first. No children; a brother in Fennmere who does not write; **fifty-one in the spring.**
+- **Age:** Fifty, and fifty-one in the spring. Farms the low acre, the ground that goes under first. No children; a brother in Fennmere who does not write.
 - **Want:** To be one of the people who does the work rather than one of the people who arranges it.
 - **Strength:** She reads an entry for what it is trying to become. On the fourteenth day she refuses to sign a drafted log line that says *wound inspected* when the pad was on and nobody had touched it, and rewrites it at nineteen lines because four unlicensed people had been within reach of a living conduit and the page did not say so. **Her refusal is correct, and the rewritten entry is the first document in six years that Sera Quill would put in front of a hearing officer unaltered.**
 - **Function:** She is the voice of the rule that the volume turns on. On the eleventh she says the real objection to the crew work — not that it is dangerous, but that the four hands will be the four names in a document about a thing that went wrong, while the two who arranged it are not in it. On the sixteenth she makes the refusal of Crown money cost something specific: *if it goes in February it goes because we said no to the only person in this district who could have stopped it going.* On the nineteenth she names Gael Senn as the monthly examiner and gives the reason. On the twentieth she tells Marek he is not going to be the one in the pit in January.

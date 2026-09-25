@@ -50,7 +50,7 @@ Marek got two fingers to the edge of the sheet and stopped with them there, beca
 
 *Row forty-one. N-2214/K, and then five more figures across.*
 
-Four of them were dates and they had a small mark against them at the side of the column, a single stroke, the same stroke in all four. The first was eight years back and the second was eleven days ago. The third was the twenty-seventh of this month, and the fourth was the twenty-seventh of the year after that.
+Four of them were dates and they had a small mark against them at the side of the column, a single stroke, the same stroke in all four. The first was eight years back and the second was seven days ago. The third was the twenty-seventh of this month, and the fourth was the twenty-seventh of the year after that.
 
 The fifth was also a date, and it was also marked, and Marek had to stand there and look at it twice before he understood that a row could hold a date that had not happened and still be marked, and that the only way to tell the difference between the two was the shape of the thing in front of it, and there was nothing in the shape of a figure to tell you which was which.
 

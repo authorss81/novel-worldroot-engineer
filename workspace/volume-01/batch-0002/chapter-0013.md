@@ -6,7 +6,7 @@ Saturday was a working day. Saturdays had been working days on this holding for 
 
 The pit had a foot of water in it and it had to come out before ten o'clock, because at ten o'clock four people were going to stand in it with a book.
 
-Marek set them a rule before he handed out the buckets. *Out of the pit, not into anything else.* The pit water was iron and it had been standing over a wound since the flood night, and the return main under the north annex was the seed house's bed and there was a woman in Cray who had vetoed the use of that bed in writing.
+Marek set them a rule before he handed out the buckets. *Out of the pit, not into anything else.* The pit water was iron and it had been standing over a wound since the flood night, and the return main under the north annex was the seed house's bed, and the only veto anybody had ever held over that bed belonged to Tova Reed, it was in writing, and it had not been withdrawn, and nobody was going to be the person who went into that pit and found out.
 
 That took nine buckets a round with a hand bailer, and there were three hundred and something buckets out of a four-foot pit, and it took four of them from eight in the morning until a quarter past ten with two breaks for the cold, and it is the least interesting work in the world and they did it well.
 

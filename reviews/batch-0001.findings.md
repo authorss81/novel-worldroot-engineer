@@ -56,6 +56,12 @@ The review's own closing note is the reason this file exists: **Batch 0002 was d
 - **Ch 6 L109 described Tova as a seedwriter at Lantern Reach** where Ch 2 has her say she cannot read a bead. She is now a student of Sera's who was going to be inconvenient to somebody in the capital.
 - **Ch 10's closing was a ledger, not a scene**, sitting between the batch's best beat and the last image. Replaced with the room emptying and his mother making him say out loud what he has — which starts *I do not have a plan*, gives the list, and ends on the fieldbook he has to come and ask for. **A custody is not a forgiveness** is the chapter's last line, and the batch now ends on Lissa rather than on a gesture.
 
+## Amended during the Batch 0002 fix pass
+
+This batch was reviewed and marked complete before `batch-0002` was drafted. The Batch 0002 review found that drafting had required **one** edit inside a completed, already-reviewed batch, and recorded it in `state/continuity.md` without recording it here, where a future writer would look.
+
+- **Ch 9's dressing count was wrong and is now corrected.** Ilsa Kern's dawn speech in the flooded pit read *the base coat and the **four** dressings laid on it since had all let go at once*. Ch 1's prose (*three more coats*) and Ch 1's own notebook line both give **a base coat plus three dressings**, and `state/continuity.md` carried the same wrong figure. `chapter-0009.md` now reads **three**, and the standing table in `state/continuity.md` was corrected with it. **Four governs the volume:** a base coat and three dressings, and Batch 0002's Ch 14 four-layer strip — *Four Seasons In Four Layers* — is built on that count and would not survive a fifth. The correction is recorded as `state/continuity.md` lock 1 of the Batch 0002 section. Nothing else in this batch was touched.
+
 ## Cleared by the review and not chased
 
 Ch 4's `yesterday` is correct (the condition was entered on the second morning; Ch 4 is day 3 evening). Ch 10's `Tuesday` is correct (day 3). Ch 5 does produce a written scope, signed at the gate, consistent with Ch 10. "Sensory bleed" never appears and "memory bleed" is used correctly in both places. Ch 3 performs no rootwork and Ch 9 is tools, not a spell. One Fieldbook panel in the batch, at the Ch 6 choice, three plain lines. `AGENTS.md`'s flag words are clean.

@@ -4,7 +4,7 @@
 
 The seal was two days old on the morning of the eighteenth, and it was standing, and it had not been touched.
 
-It was standing the way a thing stands when it is not being asked anything: four green withies driven into the four sockets in the wire cradle, woven twice, tied off with withy and not with anything else, a frame about nine inches across lying over the face of the wound, and a piece of seed-house sacking spread and laced over the whole of it and cut short so that the sacking itself would show a wet spot if there was one. A flat willow stake stood at the four o'clock corner with the date cut into it in five strokes, and beside the date, in a smaller hand, the five names that had worked it, and the fifth name was not Marek's, and there was nothing on the stake about what came next because on the sixteenth nobody had written down yet what came next.
+It was standing the way a thing stands when it is not being asked anything: four green withies driven into the four sockets in the wire cradle, woven twice, tied off with withy and not with anything else, a frame about nine inches across lying over the face of the wound, and a piece of seed-house sacking spread and laced over the whole of it and cut short so that the sacking itself would show a wet spot if there was one. A flat willow stake stood at the four o'clock corner with the date cut into it in five strokes, and beside the date, in a smaller hand, five names, and the fifth of them was cut in a different hand than the other four, because Sera Quill had stood over the whole of the working day and had wanted to be on the piece of wood that was going to still be there in February, and Marek had not argued with her about it, because she was right to be. And there was nothing on the stake about what came next, because on the sixteenth nobody had written down yet what came next.
 
 The withies had gone brown and hard in the cold, and iron had come out of them where the ties were, and green wood does that, and Ilsa Kern had said it would and it had. The whole of it weighed about four pounds. It was, by any measure in the district, a piece of rubbish.
 
@@ -22,7 +22,7 @@ At half past seven, Inspector Ansel Bray came through the gate with a satchel an
 
 "Then stand at the back," Bray said, and went to the well head.
 
-He had a satchel and an umbrella and a habit, and for eleven minutes he did exactly what he had done on the tenth, which was stand in the wet yard and not go near anything.
+He had a satchel and an umbrella and a habit, and for twenty minutes he did exactly what he had done on the tenth, which was stand in the wet yard and not go near anything.
 
 Then he said, "I am going to state the three things at the front again, because I have said I would say them every time, and Mr Vale, I know you have heard them, and I am not going to insult either of us by pretending that today is different. If I find unregistered maintenance on a non-scheduled branch, I may seal the head, take the seed stock into district custody, or refer the charter for relocation. Those are the three. I do not intend to use any of them and I have no immediate-risk finding, and I put that in the file on the tenth and it stands, and I would like everyone in this yard to understand that it is the only reason this morning is a morning and not an afternoon."
 
