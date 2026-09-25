@@ -41,6 +41,14 @@ Every working rootwork operation needs all three:
 
 A strong practitioner can temporarily substitute their own body for a return. This is why rootwork can save a harvest quickly and why it damages the practitioner.
 
+## Human living anchors and shared anchors
+
+A human being can be used as a **living anchor** without becoming a rootworker. The person must have living tissue compatible with the path, and the practitioner must explain the purpose, duration, likely pressure, and available stop signal before contact. The exchange carries water, heat, nutrients, or a maintenance pattern through the person's body; it does not carry commands, memories, or authority.
+
+An anchor arrangement is valid only when the person can withdraw at any time. The practitioner must record a stop signal and a safe way to close the path, and a second steward or community witness must know that the arrangement exists. If the anchor asks to disconnect, the practitioner closes the path immediately and returns or redistributes the load before doing anything else. Sensory bleed, fever, pain, and loss of a private memory are possible costs for both people. A link that ignores refusal is a living bind and is forbidden.
+
+A **shared anchor** is two or more consenting people carrying separate channels of the same limited pattern. It does not merge their minds. Each participant keeps an independent stop signal, and one person's withdrawal redistributes the load among the remaining channels; it never becomes permission for the practitioner to command the others. Shared anchors are useful for memory work and final maintenance, but they add people who can be hurt and relationships that must be maintained.
+
 ## The four core operations
 
 ### Attune
@@ -77,6 +85,12 @@ Pruning a flow stops a harmful branch and redirects its pressure. Patterning coo
 - **Cost:** The operator must understand the whole connected system, maintain it in person or through trained anchors, and live with the redirected consequences.
 - **Failure:** A bad prune can create a rootwoken, sterilize a field, or push pressure into a city. A pattern can outlive the person who designed it.
 
+### False Season's physical effect
+
+False Season is a repeated human-designed control pattern, not weather summoned by the Rootway. The Crown Engine shifts stored water and heat, changes pressure in selected living branches, and repeats the same growth and dormancy timing across a scheduled zone. Through soil moisture, localized temperature, evapotranspiration, and the migration cues those changes create, people experience repeatable heat, frost, flowering, and dry-season effects.
+
+The pattern cannot create clouds, rain, soil, or a new season in the sky. It can change the local surface conditions that ordinary people call weather within the affected root network, and the effects can travel as an ecological consequence when a branch is connected elsewhere. A region outside the controlled zone may experience an opposite shift because the Engine has redirected pressure. This physical distinction keeps False Season within the limits of rootlight rather than turning it into unrestricted weather magic.
+
 ## The Fieldbook interface
 
 A **Fieldbook** is an old survey tool with a living root bead, a mechanical gauge, and pages for handwritten notes. The bead translates only local pressure and recently stored patterns into plain impressions; it does not read the Deep Archive. It is not a sentient advisor and not a second mind.
@@ -97,7 +111,7 @@ A **seedheart** is a living public anchor made from mature local seedstock and r
 
 ### Caretaker link
 
-The **caretaker link** is the Crown Engine's human decision loop: a physical and rootway connection that lets an office choose among competing flows. It is a machine process, not a sentient command. A caretaker link can be inspected, limited, or disconnected, but severing it without a replacement often causes the flows it was managing to fail. The final conflict is over who may hold the link, not whether the network can speak.
+The **caretaker link** is the Crown Engine's human decision loop: a physical and rootway connection that lets an office choose among competing flows. It is a machine process, not a sentient command. A caretaker link can be inspected, limited, or disconnected, but severing it without a replacement often causes the flows it was managing to fail. A living control seed is not a caretaker: without a compatible return path and an active link, it can open local valves but cannot command the running Engine or overwrite its redundant terminals. The final conflict is over who may hold the link, not whether the network can speak.
 
 ### Rootmark transfer
 
@@ -112,7 +126,7 @@ The operation is not a convenient teleport of power. It takes time, a living anc
 
 ### Caretaker handoff
 
-A caretaker link can be transferred from the Crown Engine to a distributed commons only after the replacement anchors are carrying the flow. The handoff is physical and staged: open maintenance valves, test regional seedhearts, transfer the shared pattern, isolate Iona's terminal, and only then disconnect the old link. A premature disconnect causes the managed flows to fail, which is why the final team must build the replacement before they can stop the Engine.
+A caretaker link can be transferred from the Crown Engine to a distributed commons only after the replacement anchors are carrying the flow. The handoff is physical and staged: plant and connect the replacement seedhearts, run a public stress test through a real flood or dry-season draw, transfer the shared pattern, isolate Iona's terminal, and only then disconnect the old link. A premature disconnect causes the managed flows to fail. If one replacement seedheart cannot carry its agreed load, the final operation cannot begin and the old link must remain connected while the team repairs the failure.
 
 ## The rootwoken rule
 
@@ -143,7 +157,7 @@ After an initial exposure to a living bead, Marek can sense pressure, heat direc
 
 ### Stage 2 — Grafthand
 
-Marek can make small, reliable grafts between a living plant or rootwood tool and a limited local branch. He can keep two or three active links with careful maintenance. He cannot make a permanent bridge, and he cannot safely attach himself to the network.
+Marek can make small, reliable grafts between a living plant or rootwood tool and a limited local branch. He can keep two or three active links with careful maintenance. He cannot make a permanent high-capacity bridge alone, and he cannot safely attach himself to the network. A trained crew may later turn those small grafts into a seed-route bridge, but the capacity belongs to the crew and the local system, not to Marek's stage alone.
 
 **Cost:** The anchor and the practitioner both record the graft. Repeated work gives Marek a physical **rootmark**, a visible dark branching line along his wrist or forearm. The mark is a record of what he connected, not a badge of rank.
 
@@ -163,7 +177,7 @@ Marek can maintain a heartroot or small cluster of branches while multiple opera
 
 Marek can read the Deep Archive and reconstruct past environmental conditions from rootwood: drought patterns, flood lines, old graft practices, and the effect of past policy on living tissue. He cannot read intent, future events, or a person's soul. A fabricated archive can fool him, and an honest archive can be incomplete.
 
-**Cost:** **Memory bleed** becomes dangerous. He may remember a stranger's childhood from a node, lose a personal date, or mistake his mother's voice for a root pattern. Tova and Sera serve as living anchors, but they can be harmed if he uses them too long. A memory can also be surrendered as a one-time archive key or public proof; that loss is permanent and cannot be repaired by rest or return. The cost is relational as well as neurological.
+**Cost:** **Memory bleed** becomes dangerous. He may remember a stranger's childhood from a node, lose a personal date, or mistake his mother's voice for a root pattern. Tova and Sera serve as living anchors, but only with informed consent, a stop signal, and a safe disconnect; they can be harmed if he uses them too long. A memory can also be surrendered as a one-time archive key or candidate evidence; that loss is permanent and cannot be repaired by rest or return. A surrendered memory is not public proof by itself. To make the claim verifiable, a second trained operator must independently read the same physical node through a separate anchor, the original gauge and field notes must be preserved, and at least two independent records—such as a dated seed-house ledger and a maintenance log—must corroborate the event. The cost is relational as well as neurological.
 
 ### Stage 6 — Bridgebuilder
 

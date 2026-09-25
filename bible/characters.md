@@ -19,7 +19,7 @@ Marek grew up in the cooperative's shared workrows. His father, **Aldren Vale**,
 
 He does not believe his father was a hero. He believes he was a careful engineer who made one decision under impossible pressure, then paid for it in a way that left his family with an unanswered question. That belief makes Marek both sympathetic to sacrifice and suspicious of noble-sounding choices.
 
-His mother, **Lissa Vale**, manages the cooperative's seed house and has never forgiven Marek for leaving after their father's disappearance to take a capital contract. His younger sister **Nia** wants a life beyond the fen. The family is loving and practical, not a source of uncomplicated support.
+His mother, **Lissa Vale**, manages the cooperative's seed house and has never forgiven Marek for leaving after their father's disappearance to take a capital contract. His younger sister **Nia** wants a life beyond the fen. The family is loving and practical, not a source of uncomplicated support. Lissa's forgiveness is not a reward Marek can claim by producing a useful answer: in the final aftermath he must return to the seed house, admit that he chose distance from the family while chasing the capital, and accept that she may work beside him without declaring the old abandonment forgiven.
 
 ### External want
 
@@ -90,7 +90,9 @@ Marek refuses deliberate severing, involuntary binding, and the use of a person 
 - **Want:** Ensure local crop communities can decide which varieties to keep, trade, or give up; protect the Seed Commons from becoming a Crown inventory
 - **Flaw:** She can turn disagreement into a principle so quickly that she misses a practical compromise
 - **Strength:** She knows what a harvest costs in human labor and remembers varieties that official records erase
-- **Power limitation:** She has no direct rootwork ability; her influence comes from seed viability, negotiation, and the trust of growers
+- **Power limitation:** She has no direct rootwork ability. Her influence comes from seed viability, negotiation, and the trust of growers.
+- **Why she is in Lantern Reach:** The Salt March's northern seed trust lost its relay and needed to compare its last viable dry-land lines with Lantern Reach's seed house. The cooperative granted Tova a temporary seat in exchange for a crop and pressure report. She came to challenge the cooperative's water use, not to seek a hero or a husband.
+- **Living-anchor limitation:** Tova can serve as a voluntary human living anchor because her training is in seed and tissue handling, not because she has rootwork ability. Every anchor session records a purpose, duration, stop signal, and independent witness, and she can disconnect at any time.
 - **Planned cost:** Her voluntary memory anchor in Volume 08 leaves her with partial hearing loss; she remains a capable leader rather than an exempt character
 
 Tova and Marek begin as competitors over a failed field: he sees a water-delivery problem, she sees a seed line that should not be planted because its roots are carrying a scar pattern. Their first useful victory requires both diagnoses. They do not become close because they agree. They become close because they can name their disagreement without making the other person foolish.
@@ -123,8 +125,8 @@ The romance is a partnership of two competent people with different duties. It d
 - **Want:** Repair the system she helped make and spend the rest of her life being useful without pretending her past was innocent
 - **Flaw:** She treats confession as a substitute for restitution
 - **Relationship:** She trained Marek's father, recognizes Marek's habits because he inherited them from Aldren, and becomes a difficult substitute parent rather than a perfect mentor.
-- **Historical position:** She was not present at the 121-year-old Quiet Break. Her witness is through the surviving records, colleagues, and the later Crown relay she helped conceal.
-- **Revelation:** She designed a later Crown safety relay that could have interrupted the pruning cycle before it triggered another regional collapse. She removed or falsified the relay's warning because a political failure seemed more manageable than an admission of fault.
+- **Historical position:** She was not present at the 121-year-old Quiet Break. Her witness is through the surviving records, colleagues, and the later Brinewake relay she helped conceal.
+- **Revelation:** Nineteen years ago she designed a Crown safety relay that could have isolated a pruning pulse before the **Brinewake Collapse** in the Salt March. The pulse killed 4,200 people in its first winter and displaced 9,000 more. She removed the relay's red-line warning, changed the log to routine recalibration, and signed a report blaming salt creep and weather. She did not operate the Engine or cause the collapse alone, but her falsification removed the warning that might have slowed it. Her testimony later concerns records and decisions she made, not an eyewitness memory of the Quiet Break.
 - **Arc:** She publicly testifies, surrenders her professional authority, and helps distribute the archives. She survives the final conflict and lives with the fact that survival is not absolution.
 
 ### Soren Rill — Thornwild guide and political bridge
@@ -159,7 +161,7 @@ Aldren is not a hidden superpowered ally. He is a missing engineer whose final d
 - **Want:** Prevent another uncontrolled collapse by sealing wild root access until a proven standard is established
 - **Method:** Licenses, inspection rules, and technical vetoes
 - **Belief:** Consent-based engineering is too slow for a dying world
-- **Function:** Forces Marek to confront expertise without democracy. He later helps with the final network but never receives authority over local communities.
+- **Function:** Forces Marek to confront expertise without democracy. After the Charter of Many Wells passes, he publicly withdraws his blanket veto, apologizes to the Thornwild council for the sealed-node order he signed, and helps write inspection protocols that give local councils a real right to refuse. He later helps with the final network but never receives authority over local communities.
 
 ### Tarin Callow — ideological antagonist of the Pale Orchard
 
@@ -168,7 +170,7 @@ Aldren is not a hidden superpowered ally. He is a missing engineer whose final d
 - **Want:** Make the cost of controlled magic undeniable by destroying the systems that deny it
 - **Method:** Sabotage, seed theft, false reports, and attacks on root bridges
 - **Belief:** A network that can be commanded will eventually be commanded against the people who need it; only a world too damaged to centralize can remain free
-- **Function:** His actions cause real deaths and force the protagonist to distinguish critique from nihilism. He is not redeemed simply because his critique is correct.
+- **Function:** His actions cause real deaths and force the protagonist to distinguish critique from nihilism. He is not redeemed simply because his critique is correct. After the final pruning is stopped, he is captured in Thornwild while trying to destroy the last Engine relay. His testimony about Crown experiments is admitted under guard, but the victims' families set the conditions of his custody and he refuses to join the Root Commons.
 
 ### Chancellor Iona Vey — final antagonist
 

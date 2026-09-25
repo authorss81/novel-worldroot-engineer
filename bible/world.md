@@ -11,7 +11,7 @@ The world is not waiting for a chosen wizard to save it. It is already running, 
 ### The surface
 
 - Farmland depends on ordinary soil, water, seed, compost, weather, and labor. A green harvest is never guaranteed merely because rootlight is nearby.
-- Cities cluster around stable heartroots, shallow water, and defensible trade routes. Their wells are public infrastructure until a charter makes them private property.
+- Cities cluster around stable heartroots, shallow water, and defensible trade routes. Their wells are public infrastructure until a charter grants a holder exclusive maintenance and draw rights; the living node beneath the well remains unowned.
 - Old forests are not empty wilderness. They contain seed banks, seasonal paths, fungal gardens, and communities that have adapted to sparse or broken root flow.
 - Mountain rock does not block the Rootway completely, but it makes deep work dangerous. Old mines can expose living scarwood, unstable pressure chambers, and memories that have no water source.
 - The southern sea is salty and poor in rootlight. Coastal cities trade food and tools inland rather than attempting to grow everything locally.
@@ -35,7 +35,7 @@ A place may have rootlight but still lack water, seed, or stable soil. A place m
 | **Auberron** | The Hearth Crown's capital, built over a vast buried engine chamber | Dense artificial flow and the strongest legal control | Centralization, archives, and the Crown Engine |
 | **Auberron Basin** | The broad central plain around Auberron, the Crown's most protected agricultural and maintenance zone | Strongest stored flow, but most exposed to the Engine's pruning schedule | Iona's White Mercy depends on keeping this basin productive while abandoning the outer regions |
 | **Glassward** | High plateaus, exposed rootwood, old observatories, and sealed mines | Strong natural flow interrupted by deliberate cuts | Who has the tools and knowledge to repair deep branches |
-| **Salt March** | Dry trade roads, salt flats, seed caravans, and shallow wells | Thin flow that can travel far if the trunkway remains connected | Migration, water, and the temptation to abandon fragile regions |
+| **Salt March** | Dry trade roads, salt flats, seed caravans, and shallow wells | Thin flow that can travel far if the trunkway remains connected | Migration, water, a failed northern relay, and the temptation to abandon fragile regions |
 | **Thornwild** | Old forest, fungal thickets, rootwoken territories, and nonhuman communities | Highly adaptive but damaged by extraction and Crown pruning | Recognition of rootwoken lives and negotiated borders |
 | **The Lower Coast** | Reclamation towns, ports, and marsh farms | Brackish, weakened, but useful for seeds and repair crews | Food logistics after repeated climate disruption |
 
@@ -65,7 +65,13 @@ Sixty-one years before the present, drought and war returned. The Crown expanded
 
 Thirty-one years before the present, Chancellor Iona Vey became the head of the Continuity Office. She inherited a machine already failing and a population that had forgotten how to maintain local nodes. She revived the engine, removed several emergency locks, and began enforcing a predictable seasonal cycle. Her method reduced famine in the central provinces and increased the failure of every region that did not match the standard cycle.
 
-She called the cycle **False Season**. It was not a natural season and not a prophecy. It was a control pattern maintained by a human-designed engine.
+She called the cycle **False Season**. It was not a natural season and not a prophecy. It was a control pattern maintained by a human-designed engine. The engine opens and closes valves, shifts stored water and heat, and repeats growth timing in selected living branches. Soil moisture and local temperature make the effect feel like weather, but the pattern cannot make clouds, rain, or a new season appear in the sky.
+
+### The Brinewake Collapse
+
+Nineteen years before the present, a dry-season Crown relay in the western Salt March sent a pruning pulse through three heartroots at once. The first winter killed 4,200 people and displaced 9,000 more when wells, seed depots, and the western salt corridor failed together. The Crown called it salt creep compounded by weather and sealed the compensation records.
+
+Sera Quill's engineering team had found that a safety relay could have isolated the pulse before the first closure. She removed the red-line warning, changed the relay log to routine recalibration, and signed the report that blamed the landscape. The Crown's continued operation caused the collapse, but Sera's falsification delayed the warning and made the later cover-up easier. Her responsibility is a specific historical act, not a claim that she personally operated the Engine or witnessed the Quiet Break.
 
 ### The present
 
@@ -85,7 +91,7 @@ The **Well Directorate** handles inspections, taxes, and emergency seizures. Its
 
 A professional body of engineers, soil readers, well builders, and plant doctors. It was formalized after the Quiet Break from the surviving crews, inspectors, and field engineers who had kept the Crown Engine's outer works running. The Assembly publishes safe methods, trains apprentices, and sends inspectors to major works. It is divided between public-service engineers who accept oversight and contract engineers who believe expertise should earn authority.
 
-The Assembly's motto is **Measure before moving**. The irony is that many members measure the wrong things because the Crown controls the maps and the reference years.
+The Assembly's motto is **Measure before moving**. The irony is that many members measure the wrong things because the Crown controls the maps and the reference years. Rootwork itself is a licensed, published profession. What is forbidden is unlicensed grafting, coercive binding, and the use of a living anchor or node without a real return path and a recorded right to withdraw.
 
 ### The Lantern Reach Work Cooperative
 
@@ -101,7 +107,7 @@ The Undercommons believes every living node should have a community of stewards.
 
 ### The Thornwild Assemblies
 
-Communities in the old forest, including humans who live with rootwoken beings and rootwoken beings who can speak, trade, and form binding agreements. They are not a monster faction waiting to be cleared away. They have borders, archives, food systems, and memories of Crown extraction.
+Communities in the old forest, including humans who live with rootwoken beings and rootwoken beings who can speak, trade, and form negotiated agreements. They are not a monster faction waiting to be cleared away. They have borders, archives, food systems, and memories of Crown extraction.
 
 Their representatives refuse the word **clearing** and insist on negotiated land use. Some Thornwild groups want total separation from Hearth infrastructure; others trade carefully and share repair knowledge.
 
@@ -150,7 +156,7 @@ The story must show the consequences of damaging root systems without turning ev
 
 A charter grants a holder the right to maintain and draw from a named well. It grants no ownership of the living node below it, but the law is written as if it does. A cooperative can lose a charter through nonpayment, a failed inspection, or an emergency seizure. The holder pays a tax in grain, labor, or rootlight.
 
-The old covenant says **No living bind**. The Crown has weakened that clause during emergencies. Many people no longer remember what it means.
+The old covenant says **No living bind**. The Crown has weakened that clause during emergencies. Many people no longer remember what it means. A living bind is any arrangement that makes a person, living node, or community dependent on another party's continuing permission, obedience, or access. It includes an involuntary anchor, a proprietary lock on a living return path, and a bridge that a community cannot refuse or exit. Ordinary duties, fees, and time-limited maintenance obligations are not living binds when a participant can still leave, disconnect, revise the terms, and return the living system to safe operation.
 
 ### Rootlight economies
 
@@ -158,7 +164,8 @@ Rootlight is measured by practical loads rather than a universal number:
 
 - A healthy household lamp can run through a night on one living bulb.
 - A village well can support a modest dry-season household load if the node is connected to a river or deep reservoir.
-- A rootbridge can move enough water for a local settlement or a seed convoy, but not an entire city without a heartroot and a trained crew.
+- A local conduit can move enough water for a settlement, while a seed-route bridge can carry irrigation and a seed convoy along a dry corridor; neither can support an entire city without a heartroot and a trained crew.
+- A regional bridge synchronizes several heartroots and maintenance zones. It carries a shared network load, not ownership of the places it connects.
 - Stored rootlight in scarwood fades within days unless it is kept in a living container.
 
 The important number is always the downstream cost. A field may look improved while a village downstream loses its drinking water.

@@ -64,7 +64,13 @@ A major living node where several trunkway branches meet. A heartroot can suppor
 
 ### Rootbridge
 
-An engineered living connection between separated nodes or conduits. A bridge can move water, heat, rootlight, and limited patterns. It requires compatible tissue, maintenance on both ends, and consent from local stewards. It can fail as a shared system rather than as a simple break.
+An engineered living connection between separated nodes or conduits. A bridge can move water, heat, rootlight, and limited patterns. It requires compatible tissue, maintenance on both ends, and consent from local stewards. It can fail as a shared system rather than as a simple break. Capacity is named by the work it carries, not by a claim to ownership:
+
+- **Local conduit:** a short connection between adjacent branches or a settlement's well, seed house, and pump. It serves a small household or neighborhood load and has a local steward.
+- **Seed-route bridge:** a maintained connection built to carry irrigation for a seed convoy and the settlements along a dry route. It needs public ledgers, a return path, and crews at both ends, but it is not yet a regional network.
+- **Regional bridge:** a high-capacity connection that synchronizes several heartroots or maintenance zones. It needs trained crews, a shared schedule, and local vetoes; a single practitioner cannot build or own it.
+
+The categories describe load and responsibility, not a promise that a bridge will work forever. A Stage 2 practitioner can help assemble a seed-route bridge with local crews, while a regional bridge requires collective capacity. The three names should remain consistent in prose and outlines.
 
 ### Scarroot
 
@@ -128,9 +134,13 @@ A 312-year-old climate catastrophe that motivated the Crown Engine project. It i
 
 A multi-decade period of drought, war, and declining local maintenance that led to the expansion of Crown well charters.
 
+### Brinewake Collapse
+
+A named regional failure in the Salt March nineteen years before the present. A Crown pruning pulse severed the western salt corridor's three heartroots, killing 4,200 people in the first winter and displacing 9,000 more. The public account blamed salt creep and weather. The later evidence showed that Sera Quill had removed the red-line warning from a safety relay and falsified the maintenance report that could have isolated the pulse. She did not cause the collapse alone, but her concealment delayed the warning and the compensation record was never opened.
+
 ### False Season
 
-A human-imposed repeating root pattern that makes root systems, weather effects, plant behavior, and migration diverge from the actual sky. It is not a natural season or prophecy. The Continuity Office uses it to demonstrate the need for centralized control.
+A human-imposed repeating root pattern that makes root systems, surface conditions, plant behavior, and migration diverge from the actual sky. The Engine shifts water, heat, pressure, and growth timing through selected living branches; soil moisture and local temperature then make the result feel like weather. It cannot create clouds, rain, or a new season in the sky. It is not a natural season or prophecy. The Continuity Office uses it to demonstrate the need for centralized control.
 
 ### White Harvest
 
@@ -142,7 +152,11 @@ Iona Vey's final plan to prune every root branch outside the Auberron Basin and 
 
 ### Seedheart
 
-A living public anchor made from mature seedstock and rootwood. It can carry a shared maintenance signal without binding anyone's mind or giving the network a human-like voice.
+A living public anchor made from mature seedstock and rootwood. It can carry a shared maintenance signal without binding anyone's mind or giving the network a human-like voice. Its stewards must maintain its return path, and every user can disconnect from it.
+
+### Living bind
+
+A rule, graft, charter, or political arrangement that makes a person, living node, or community dependent on another party's continuing permission, obedience, or access. It includes an involuntary human anchor, a proprietary lock on a living return path, removing a community's ability to refuse a bridge, and encoding a caretaker's authority as the only lawful way to keep flow alive. Ordinary time limits, fees, maintenance duties, and compensation are not living binds when the participant can still leave, disconnect, revise the terms, and return the living system to safe operation. **No living bind** means that no person, living community, or root flow may be made an involuntary permanent dependency.
 
 ### Caretaker link
 
@@ -151,6 +165,14 @@ The Crown Engine's human decision loop for choosing among competing flows. It is
 ### Caretaker handoff
 
 The staged, physical transfer of an Engine link to tested regional seedhearts. The replacement network must carry the load before the old link is isolated; a premature handoff causes managed flows to fail.
+
+### Public proof
+
+Evidence that a community outside the practitioner's private experience can test. A surrendered memory becomes public proof only after an independent operator reads the same physical node through a separate anchor, the original instrument and notes are preserved, and at least two independent records corroborate the event. A witness's belief, a Crown's summary, or a panel-like impression alone is not enough.
+
+### Regional flow ledger
+
+A public, copyable record of pressure, water, seed, maintenance, and refusal decisions across a region. It is evidence and coordination, not a private archive or a magical index. Its authority comes from corroboration, public maintenance, and the ability of other stewards to read and copy it.
 
 ### Charter of Many Wells
 
@@ -257,7 +279,8 @@ The world does not use a universal mana meter. Practical loads are described by 
 
 - A healthy living lamp can carry a household's light through one night.
 - A cooperative sunwell can maintain a local dry-season load if its return path is intact.
-- A rootbridge can move water for a settlement or seed convoy, not an entire city without a heartroot and trained crew.
+- A local conduit can move water for a settlement or a single cooperative, while a seed-route bridge can carry an irrigation stream and a seed convoy along a dry route. Neither can support an entire city without a heartroot and trained crew.
+- A regional bridge can synchronize several heartroots, but it carries a shared network load and cannot erase the political boundaries of the places it connects.
 - Scarwood stores a trace of rootlight for days, not months.
 - A rootmark records a connection; it does not measure the user's worth or total ability.
 - The important consequence of any number is the downstream person, field, or region affected.

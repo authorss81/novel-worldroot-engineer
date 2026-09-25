@@ -8,7 +8,7 @@
 - **Protagonist:** Marek Vale, agricultural engineer and irrigation surveyor
 - **Relationship:** One slow-burn romance between Marek and Tova Reed; no harem
 - **Central promise:** A practical repair can save a field, a well, or a bridge while changing the political and emotional life of everyone connected to it
-- **Ending lock:** The Rootway is restored as a damaged, distributed ecological commons. It does not become a sentient ruler, a second state, or Marek's private power base.
+- **Ending lock:** The Rootway is restored as a damaged, distributed ecological commons. It does not become a sentient ruler, a second state, or Marek's private power base. The final emotional answer, the volume-16 handoff, and the post-ending world state are specified in `outline/ending.md`.
 
 ## Premise
 
@@ -47,7 +47,7 @@ The Crown Engine was built during the Ash Winter as a temporary famine-relief ne
 
 Thirty-one years before the opening, Chancellor Iona Vey revived the engine and institutionalized its seasonal pattern as **False Season**. She has a real record of saving central cities and a genuine belief that one trained caretaker is the only way to prevent another mass famine. She is wrong because the same centralized control creates the conditions for the next collapse.
 
-The Rootway itself is not a human-like mind. It is a living ecological network that stores environmental patterns in growth and responds to changes in flow, pressure, extraction, and trust. Its feedback can look intelligent because living systems are adaptive. The rootwoken are damaged and changed lives, not a hidden army. The final mystery is resolved by returning the network's differences and consequences to human communities, not by giving the network a crown or a voice.
+The Rootway itself is not a human-like mind. It is a living ecological network that stores environmental patterns in growth and responds to changes in flow, pressure, extraction, and damage. Its feedback can look intelligent because living systems are adaptive. Trust is a human maintenance variable, not a magical input the network requires. The rootwoken are damaged and changed lives, not a hidden army. The final mystery is resolved by returning the network's differences and consequences to human communities, not by giving the network a crown or a voice.
 
 ## Mystery reveal schedule
 
@@ -55,7 +55,7 @@ The Rootway itself is not a human-like mind. It is a living ecological network t
 |---|---|---|
 | 1 | A living branch is responding to a damaged well; old fieldbook records contain impossible pressure data | The records are target patterns written into damaged rootwood, not future memory; Marek's first fieldbook impression carries an older maintenance pattern, while his first skin rootmark does not appear until his first independent graft in Volume 2 |
 | 2 | Root memories disagree with Crown maps and seed histories | The Quiet Break was not the first time local systems were deliberately documented out of existence |
-| 3 | Scarroot preserves a famine-era engineering sequence | The first root engineers deliberately pruned irregular branches; Sera later helped hide a warning from a safety relay |
+| 3 | Scarroot preserves a famine-era engineering sequence | The first root engineers deliberately pruned irregular branches; Sera later removed the warning from the safety relay that could have limited the Brinewake Collapse |
 | 4 | Rootwoken creatures are following a broken flow and are not all attacking | Rootwoken behavior is ecological adaptation shaped by extraction and repeated rootwork |
 | 5 | A heartroot is sending the same pulse in different regions | False Season is a controlled signal, not natural weather |
 | 6 | The Crown Engine is maintaining the signal | Iona Vey and the Continuity Office are deliberately editing local seasons |
@@ -102,6 +102,16 @@ Sera is not a final villain, but her former design and concealed warning make he
 
 Iona is the final antagonist. She has saved lives, understands the system's physical limits, and can show that fragmented decisions produced catastrophic outcomes. Her solution is the White Mercy: prune the Rootway to one predictable core season, sacrifice the periphery, and make herself the permanent caretaker. Marek cannot beat her by proving she is evil. He must prove that a damaged, plural network can be maintained without making one person its ruler.
 
+## Succession offers and recorded refusals
+
+Iona's offer of central authority is tested three times, and each offer has different terms. It must never read as the same speech repeated.
+
+- **Volume 8 — technical co-caretaker:** Iona offers Marek a provisional emergency post inside the Continuity Office in exchange for surrendering his independent readings and joining her archive. Marek refuses because the post has no exit and makes him responsible for flows he cannot disclose. He leaves the formal offer open.
+- **Volume 14 — conditional succession:** After the first White Mercy phase succeeds in the core, Iona offers Marek a one-season transfer of the caretaker link in exchange for guaranteeing the central harvest and giving the Crown continuous access to the regional flow ledger. Regional councils may petition but cannot veto. Marek refuses and leads the coalition onward; Nia records the refusal.
+- **Volume 16 — final terms:** Iona offers permanent custody of the caretaker link, the Engine terminal, and the Deep Archive. She guarantees the central harvest, assigns triage-only water to the outer regions, and leaves no regional authority able to reopen a branch. Marek understands that accepting would solve part of the crisis immediately and make the core permanent. He refuses and transfers the living resonance of his rootmark into the public seedhearts instead.
+
+The final choice is not a first refusal of a familiar offer. It is a deliberate decision after Marek has seen exactly who the arrangement serves.
+
 ## Relationship milestones
 
 | Range | Relationship development | Consequence |
@@ -111,9 +121,9 @@ Iona is the final antagonist. She has saved lives, understands the system's phys
 | 99–147 | Sera's past enters the work; Tova and Marek choose not to keep private records | They begin to treat shared information as a relationship obligation, not a strategic advantage |
 | 148–196 | Marek hides a rootwoken migration prediction; Tova refuses to anchor him afterward | The relationship survives only after Marek apologizes and accepts that love is not permission to bypass consent |
 | 197–245 | Tova becomes a seed-route organizer and Soren becomes a political bridge | Marek's team becomes a real partnership rather than a personal support system |
-| 246–294 | Tova anchors Marek during memory work; Sera and Tova impose different safeguards | Marek's hidden work is exposed; Tova refuses to be a passive safety device |
+| 246–294 | Tova anchors Marek during memory work under recorded consent, stop signals, and a safe disconnect; Sera and Tova impose different safeguards | Marek's hidden work is exposed; Tova refuses to be a passive safety device |
 | 295–343 | Tova and Soren negotiate the first regional bridge with local vetoes | Marek must accept that a bridge can be physically successful and politically rejected |
-| 344–392 | Marek refuses a false message from Aldren and uses a shared anchor with Tova | Their relationship becomes an explicit chosen partnership, still rooted in separate careers |
+| 344–392 | Marek refuses a false message from Aldren and uses a shared anchor with Tova, with separate channels and an independent disconnect | Their relationship becomes an explicit chosen partnership, still rooted in separate careers |
 | 393–490 | Tova leads seed politics while Marek bridges routes; Soren represents wild-root refusal | The three prove that a coalition can disagree without collapsing |
 | 491–588 | Sera confesses, Marek and Tova separate for a dangerous mission, and the team carries the plan without him | The romance proves it can survive unequal proximity and a changed role |
 | 589–637 | Marek gives up a personal memory fragment as public evidence; Tova refuses to call that his only useful sacrifice | He chooses public accountability over private grief and lets Tova lead the ethical argument |
@@ -122,6 +132,13 @@ Iona is the final antagonist. She has saved lives, understands the system's phys
 
 Nia's arc runs beside these milestones: she refuses to define adulthood through the cooperative, becomes a traveling seed-route coordinator, and in the final volume makes the Root Commons function when Marek is isolated at the Engine.
 
+Two supporting relationships carry their own consequences rather than serving as background:
+
+- **Tova's arrival:** She is a loaned steward from the Salt March seed trust, sent to Lantern Reach because the March's northern relay failed and its last dry-land seed lines needed a secure comparison. Her forced collaboration with Marek begins as a professional audit of the cooperative's water use, not a romantic coincidence.
+- **Lissa's unresolved forgiveness:** Marek's mother never forgives him for taking the capital contract after Aldren disappeared. In the final aftermath he returns to the seed house, tells her what he chose and what he feared, and works beside her without asking for absolution. She changes the terms of their relationship; she does not erase the wound.
+- **Halden's reconciliation:** After the Charter of Many Wells passes, Halden withdraws his blanket veto, apologizes to the Thornwild council, and helps write inspection protocols with a local right of refusal. His later cooperation is earned through a specific concession, not a soft change of heart.
+- **Tarin's disposition:** After the final pruning is stopped, Tarin is captured while destroying the last Engine relay. He gives records-based testimony under guard, receives no pardon, and refuses to join the commons. His critique remains useful; his methods remain his responsibility.
+
 ## Power stages and costs
 
 | Stage | First sustained use | New capability | Non-negotiable cost |
@@ -129,8 +146,8 @@ Nia's arc runs beside these milestones: she refuses to define adulthood through 
 | 0 — Rootblind engineer | Opening | Ordinary diagnosis, repair, and observation | No direct magic; can be deceived by a valid-looking fake |
 | 1 — Touchroot | 1–49 | Attune through contact | Disorientation, sensory bleed, grief-shaped memory fragments |
 | 2 — Grafthand | 50–147 | Small reliable grafts | Anchor strain, permanent rootmark, limited number of active links |
-| 3 — Drawwright | 148–245 | Draw and return water, heat, and rootlight | Rootburn and visible downstream ecological debt |
-| 4 — Patternkeeper | 197–343 | Maintain a heartroot with a team | Absorbs failure sensations; becomes a maintenance bottleneck |
+| 3 — Drawwright | 99–245 | Draw and return water, heat, and rootlight | Rootburn and visible downstream ecological debt |
+| 4 — Patternkeeper | 148–343 | Maintain a heartroot with a team | Absorbs failure sensations; becomes a maintenance bottleneck |
 | 5 — Memorydiver | 246–441 | Read Deep Archive environmental patterns | Memory bleed and dependence on trusted living anchors |
 | 6 — Bridgebuilder | 295–637 | Connect distant nodes and coordinate regional flows | Shared vulnerability, political target, and no command over consent |
 | 7 — Commonskeeper | 540–780 | Coordinate many local stewards through public maintenance | Divides his root access and loses exclusive deep control |
@@ -150,7 +167,7 @@ The series must show the cost of a new stage in ordinary scenes. A stronger capa
 - **Concrete resolution:** The cooperative keeps a conditional charter, the first harvest survives, and the Crown takes the case seriously. The local promise is paid in food and a new obligation to report root changes.
 - **Next question:** Why does the rootwood carry a record of a season that has not happened, and why is Aldren's name in the old maintenance log?
 - **Power:** Stage 0 to Stage 1.
-- **Relationship:** Tova enters as a skeptical seed partner; Sera offers a dangerous job; Nia pushes Marek to leave the valley.
+- **Relationship:** Tova enters as the Salt March seed trust's loaned steward, sent to audit the cooperative's water use and compare the March's last dry-land lines with the Lantern Reach seed house; Sera offers a dangerous job; Nia pushes Marek to leave the valley.
 - **Mystery:** First impossible Fieldbook reading and rootwoken clue.
 
 ### Volume 02 — The Graft Market (Chapters 50–98)
@@ -158,7 +175,7 @@ The series must show the cost of a new stage in ordinary scenes. A stronger capa
 - **Central pressure:** The successful repair attracts charter buyers, seed speculators, and Rootwright contractors who want to turn a local solution into a profitable network.
 - **Starting state:** Lantern Reach has one vulnerable well and a fragile public record; Marek has a working but limited root sense.
 - **Major turn:** A graft carries a seedkeeper's memory into a market device. Tova discovers that a technically perfect connection can erase local crop history, and the cooperative must decide whether to profit from the discovery.
-- **Volume climax:** The team builds the first public living bridge between a seed bank and a dry Salt March settlement, but the Crown taxes the bridge and makes its use conditional.
+- **Volume climax:** The team builds the first public seed-route bridge between a seed bank and a dry Salt March settlement, but the Crown taxes the bridge and makes its use conditional.
 - **Concrete resolution:** The exchange survives as a local commons with public ledgers and a refusal clause. Marek earns a reputation as a useful engineer and a dangerous independent witness.
 - **Next question:** Who altered the maps and seed records enough to make this bridge legal?
 - **Power:** Stage 1 to Stage 2.
@@ -169,7 +186,7 @@ The series must show the cost of a new stage in ordinary scenes. A stronger capa
 
 - **Central pressure:** An old orchard in Glassward begins producing last season's crop under the wrong sky, forcing the team to expose historical root records while the Crown wants them buried.
 - **Starting state:** The cooperative has a charter and a small repair crew; Marek can graft but cannot safely read deep memory.
-- **Major turn:** Sera admits she helped build a Crown bridge and reveals that a later safety relay could have interrupted the pruning cycle, but she hid the warning. Marek sees a record suggesting his father chose to cut a branch during a real emergency.
+- **Major turn:** Sera privately admits she worked on the Crown safety relay and that it could have interrupted the pruning pulse before the Brinewake Collapse in the Salt March. She gives Marek only the relay fragment: she removed the red-line warning and signed a false report, while the sealed compensation record remains hidden. Marek sees a record suggesting his father chose to cut a branch during a real emergency.
 - **Volume climax:** The team rescues a living archive seed and publishes the evidence, sacrificing the orchard's commercial harvest. Rootwoken growth spreads through the abandoned rows.
 - **Concrete resolution:** The truth survives in copied ledgers and local memory. The Crown declares the records unsafe, and a migration of farmers begins.
 - **Next question:** If the Quiet Break was engineered, who is still maintaining the machine that caused it?
@@ -203,7 +220,7 @@ The series must show the cost of a new stage in ordinary scenes. A stronger capa
 
 ### Volume 06 — The False Season (Chapters 246–294)
 
-- **Central pressure:** Weather and root behavior diverge across three regions, drawing rootwoken and refugees toward Auberron.
+- **Central pressure:** Surface conditions and root behavior diverge across three regions, drawing rootwoken and refugees toward Auberron.
 - **Starting state:** The local commons is functional but cannot explain the larger pattern; Sera's knowledge is increasingly dangerous.
 - **Major turn:** The team proves that False Season is a maintained pattern and that the Crown Engine is pruning alternate routes.
 - **Volume climax:** Marek, Tova, and Soren enter an engine relay, recover a living seed containing the control sequence, and escape before the Crown seals the chamber.
@@ -216,13 +233,13 @@ The series must show the cost of a new stage in ordinary scenes. A stronger capa
 ### Volume 07 — The Bridge Below (Chapters 295–343)
 
 - **Central pressure:** A severed region must be reconnected before its people and seed supply collapse, but every proposed bridge crosses a disputed territory.
-- **Starting state:** The team has a living seed control sequence and no secure route to use it.
+- **Starting state:** The team has a living control seed but no secure route to use it.
 - **Major turn:** A bridge succeeds technically but transfers a rootwoken blight into Thornwild, proving that a connection can export consequences as easily as goods.
-- **Volume climax:** The team builds a two-way bridge with local vetoes, sacrificing a strategic shortcut that would have made the war easier to win.
+- **Volume climax:** The team builds a two-way regional bridge with local vetoes, sacrificing a strategic shortcut that would have made the Crown's next regional campaign easier to win.
 - **Concrete resolution:** A migration and trade corridor opens. The Crown claims ownership, making the bridge a political test rather than a neutral solution.
 - **Next question:** Who gets to decide what a bridge connects?
 - **Power:** Stage 6, first regional bridge; shared vulnerability.
-- **Antagonist:** Iona's office weaponizes infrastructure; Halden supports sealing the route.
+- **Antagonist:** Iona's office weaponizes infrastructure; Halden supports sealing the route and signs the order, making his later apology necessary.
 - **Relationship:** Tova and Soren co-design the public terms; Marek accepts that they may refuse him.
 
 ### Volume 08 — What the Roots Remember (Chapters 344–392)
@@ -230,12 +247,12 @@ The series must show the cost of a new stage in ordinary scenes. A stronger capa
 - **Central pressure:** The only surviving evidence of the White Mercy schedule is buried in Deep Archive memory, and reading it may damage Marek's identity.
 - **Starting state:** The bridge corridor is open, but the Crown can close it or weaponize its trade.
 - **Major turn:** Marek sees his father alive in a memory fragment and nearly chooses the comforting false version over the actual record.
-- **Volume climax:** With Tova as a living anchor, Marek refuses the edited message and retrieves the true pruning schedule. Tova survives the shared memory but loses a sensory association.
+- **Volume climax:** With Tova as a voluntarily recorded living anchor, Marek refuses the edited message and retrieves the true pruning schedule. Tova survives the shared memory but loses a sensory association.
 - **Concrete resolution:** The team can prove that the engine plans to prune noncore regions. Political action stalls because the Crown frames the evidence as contaminated.
 - **Next question:** Can a slow, imperfect patchwork outlast a single decisive strike?
-- **Power:** Stage 5 mastery, with severe memory bleed and a permanent loss in Tova's hearing.
+- **Power:** Stage 6 with Stage 5 memory mastery, with severe memory bleed and a permanent loss in Tova's hearing.
 - **Relationship:** Marek and Tova become explicit romantic partners without surrendering separate leadership.
-- **Antagonist:** Iona personally confronts Marek and offers him succession.
+- **Antagonist:** Iona personally confronts Marek and offers him a provisional technical co-caretaker post inside the Continuity Office in exchange for surrendering his independent readings. He refuses because the post has no exit, but she keeps the formal offer open.
 
 ### Volume 09 — The Rootless Vote (Chapters 393–441)
 
@@ -243,7 +260,7 @@ The series must show the cost of a new stage in ordinary scenes. A stronger capa
 - **Starting state:** The network has multiple nodes, a functioning bridge, and no accepted rule for shared maintenance.
 - **Major turn:** A regional council seizes a heartroot; the resulting rootwoken outbreak forces Marek to oppose people he previously called allies.
 - **Volume climax:** A multi-region assembly votes to keep the bridges and share the burden of maintenance. The Charter of Many Wells passes narrowly.
-- **Concrete resolution:** The Well Directorate is dissolved, the Crown retreats to the Engine, and plural stewardship is tested by its first famine.
+- **Concrete resolution:** The Well Directorate is dissolved, the Crown retreats to the Engine, and plural stewardship is tested by its first famine. Halden withdraws his blanket veto, apologizes to the Thornwild council, and helps write inspection protocols that give local councils a real right to refuse.
 - **Next question:** Can distributed control survive a real shortage without reverting to command?
 - **Power:** Stage 6 as facilitator, not ruler; he gives up exclusive access to a bridge.
 - **Antagonist:** Institutional collapse and Iona's controlled retreat.
@@ -267,14 +284,14 @@ The series must show the cost of a new stage in ordinary scenes. A stronger capa
 - **Volume climax:** The team reverses one pruning wheel and releases several local patterns. Iona seals the central chamber and abandons the outer districts to the consequences.
 - **Concrete resolution:** The Engine is partially disabled, but released patterns create an ecological boom and a new political emergency.
 - **Next question:** Can the engine be dismantled without causing a root famine?
-- **Power:** Stage 6, with the first partial Stage 7 coordination; severe accumulated cost.
+- **Power:** Stage 6, with a limited shared-coordination rehearsal that will become Stage 7; severe accumulated cost.
 - **Antagonist:** Iona's personal argument and the Continuity Office.
-- **Relationship:** Sera makes a full confession and begins public restitution; Tova and Marek operate on separate fronts.
+- **Relationship:** Sera makes a full public confession about the Brinewake relay, including the sealed log and the missing compensation record, and begins public restitution; Tova and Marek operate on separate fronts.
 
 ### Volume 12 — The Many-Handed Spring (Chapters 540–588)
 
 - **Central pressure:** The released root patterns produce growth, migration, and new rootwoken forms that different communities interpret as disaster or opportunity.
-- **Starting state:** The Engine is weakened, but no central authority can safely manage the consequences.
+- **Starting state:** Marek, Tova, Soren, and the outer relay crews escape through a maintenance culvert with the living control seed; Nia coordinates civilian evacuation outside the sealed chamber while local crews hold the outer relays. The Engine's central chamber is still intact, its Deep Archive terminal still answers, and the reversed wheel has disabled only one of three pruning governors. A redundant terminal and sealed local relays keep the White Mercy schedule running, so no central authority can safely manage the consequences.
 - **Major turn:** A newly communicative rootwoken community refuses reconnection, exposing the limits of Marek's assumption that restoration means universal access.
 - **Volume climax:** Regional teams build local maintenance lattices and accept one region's right to remain outside the main network.
 - **Concrete resolution:** The Rootway becomes a patchwork of intentionally different patterns. Iona announces the White Mercy schedule.
@@ -286,11 +303,11 @@ The series must show the cost of a new stage in ordinary scenes. A stronger capa
 
 - **Central pressure:** The original covenant must be made public before the first White Mercy pruning phase begins, but the evidence lives in Marek's most private memory.
 - **Starting state:** The network is plural on paper, but the Crown can still weaponize the Engine's stored pattern memory.
-- **Major turn:** The Deep Archive proves the First Continuity covenant explicitly forbade permanent binding and that later leaders removed the restriction.
-- **Volume climax:** Marek surrenders a final personal memory fragment containing Aldren's edited record as public evidence. He loses the ability to revisit the memory himself.
-- **Concrete resolution:** A public mandate requires distributed limits, but Iona calls Marek a traitor and starts the first White Mercy pruning phase at dawn. The full operation remains scheduled for the final volumes.
+- **Major turn:** The Deep Archive proves the First Continuity covenant explicitly forbade permanent binding and that later leaders removed the restriction. A neutral Rootwright repeats the read through a separate anchor, while a dated seed-house ledger and a surviving maintenance log independently corroborate the relay record.
+- **Volume climax:** Marek surrenders one irreplaceable Aldren memory containing the edited record as public evidence. The independent read and two external records make the claim verifiable, but he loses that single memory and can never revisit it himself.
+- **Concrete resolution:** A public mandate requires distributed limits, but Iona calls Marek a traitor and starts the first White Mercy pruning phase at dawn: a limited, announced core test. The full operation remains scheduled for the final volumes.
 - **Next question:** What does Marek become when the mystery that organized his life is finally answered?
-- **Power:** Stage 7; public accountability costs him private access.
+- **Power:** Stage 7; public accountability costs him one irreplaceable Aldren memory, while continuous Deep Archive access remains available until the final rootmark transfer.
 - **Antagonist:** Iona's final ideological and material escalation.
 - **Relationship:** Tova supports the public sacrifice but refuses to define love as permission to suffer for it.
 
@@ -300,7 +317,7 @@ The series must show the cost of a new stage in ordinary scenes. A stronger capa
 - **Starting state:** The coalition has a charter and public evidence, but no safe way to move enough people, seed, and water.
 - **Major turn:** Tova must abandon a strategically valuable seed vault to evacuate communities that are being cut off.
 - **Volume climax:** Marek's regional network diverts enough flow to reach the capital, but one secondary city is abandoned. The cost is explicit and cannot be undone.
-- **Concrete resolution:** The coalition reaches the Engine. Iona explains that she has saved millions and asks Marek to become her successor.
+- **Concrete resolution:** The coalition reaches the Engine. The first White Mercy phase has succeeded in the core: the central harvest is real, and the outer districts have paid the promised price. Iona offers Marek a one-season conditional succession in exchange for guaranteeing the central harvest and giving the Crown continuous access to the regional flow ledger; regional councils may petition but cannot veto. Marek refuses, and Nia records the refusal.
 - **Next question:** Can Marek refuse absolute control without allowing the people he loves to die?
 - **Power:** Stage 7, deliberately not overpowered; Marek coordinates a distributed system but cannot command it alone, and the plan depends on every prior relationship and network tier.
 - **Antagonist:** Iona's White Mercy and the machinery of state behind it.
@@ -310,24 +327,24 @@ The series must show the cost of a new stage in ordinary scenes. A stronger capa
 - **Central pressure:** The coalition must define maintenance, consent, and refusal before Iona completes the pruning cycle, while the network's remaining regions are still failing.
 - **Starting state:** The map is public, the Engine is contested, and several regions cannot agree on what “restored” means.
 - **Major turn:** A small council refuses a bridge Marek considers necessary. The refusal is politically costly but reveals that the alternative is not a universal solution.
-- **Volume climax:** Seed planting, bridge maintenance, public defense, and wild-root diplomacy happen at the same time. A rootwoken community chooses the route it will defend, not the route Marek prefers.
-- **Concrete resolution:** A provisional Root Commons charter is signed by multiple regions. Iona's White Mercy reaches its final pruning window at dawn, and the prepared network is not perfect but no longer has a single operator.
+- **Volume climax:** Seed planting, bridge maintenance, public defense, and wild-root diplomacy happen at the same time. Regional crews plant a ring of replacement seedhearts and stress-test them through a real dry-season draw and flood load, publishing the results and leaving one region to refuse the test. A rootwoken community chooses the route it will defend, not the route Marek prefers.
+- **Concrete resolution:** A provisional Root Commons charter is signed by multiple regions. Iona's White Mercy reaches its final pruning window at dawn. The window opens the decisive activation in the final volume, and the prepared network is not perfect but no longer has a single operator.
 - **Next question:** Can a damaged system be restored without a single command?
-- **Power:** Stage 7. Marek agrees to place his rootmark in a public seedheart and builds the voluntary anchor network, but the irreversible split remains for the final volume.
+- **Power:** Stage 7. Marek agrees to place the living resonance of his rootmark in a public seedheart and builds the voluntary anchor network, but the irreversible split remains for the final volume. The handoff cannot start unless every replacement seedheart has passed the public load test.
 - **Relationship:** Tova and Marek choose a shared life after separate public work; Nia and Soren can sustain the commons without them.
 
 ### Volume 16 — The Returning Root (Chapters 736–780)
 
 - **Central pressure:** Iona's White Mercy will sever the Rootway's outer regions, and the coalition must stop it without destroying the living network or establishing another permanent caretaker.
-- **Starting state:** The Root Commons has local crews, public records, a partial map, and no guarantee of success. Iona still controls the Engine and the strongest stored rootlight.
-- **Midpoint reversal:** Iona offers Marek succession and the ability to save the central population with one clear command. He understands that accepting would solve part of the crisis and make the old system permanent.
-- **Final external conflict:** The team conducts a braided restoration across the Engine, seed routes, regional bridges, Thornwild paths, and local civic anchors. Tova leads seed and food logistics; Nia coordinates the moving reserves; Soren negotiates and protects the wild nodes; local councils enact the shared maintenance schedule; Sera releases the historical evidence. Marek enters the Engine and must coordinate a staged caretaker handoff: the replacement seedhearts must carry tested flow before Iona's link is isolated and disconnected without severing the Rootway itself.
-- **Final internal choice:** Marek gives up exclusive access to the Deep Archive by planting his rootmark in a living public seedheart, allowing many voluntary anchors to share the burden. He chooses a slower patchwork and accepts that some damaged regions will remain damaged. He does not destroy Iona, the Engine, or the network; he prevents any one of them from becoming the sole authority.
+- **Starting state:** The Root Commons has local crews, public records, a partial map, tested replacement seedhearts, and no guarantee of success. Iona still controls the sealed Engine chamber, the redundant Archive governor, and the strongest stored rootlight. The central chamber survived the earlier reverse, so the final team must isolate a live caretaker link rather than merely enter a broken machine. The final pruning window has opened. The living control seed carries the sequence but cannot command a running Engine without a caretaker link and compatible return path; it can only open local valves.
+- **Midpoint reversal:** Iona offers Marek permanent custody of the caretaker link, the Engine terminal, and the Deep Archive. She guarantees the central harvest, assigns triage-only water to the outer regions, and leaves no regional authority able to reopen a branch. He understands that accepting would solve part of the crisis immediately and make the old system permanent, so he refuses the terms instead of accepting a softer version of them.
+- **Final external conflict:** The team conducts a braided restoration across the Engine, seed routes, regional bridges, Thornwild paths, and local civic anchors. Tova leads seed and food logistics; Nia coordinates the moving reserves; Soren negotiates and protects the wild nodes; local councils enact the shared maintenance schedule; Sera releases the historical evidence. Marek enters the Engine and must coordinate a staged caretaker handoff: the replacement seedhearts must carry tested flow before Iona's link is isolated and disconnected without severing the Rootway itself. If one seedheart fails its test, the handoff cannot begin and the coalition must restore its share before the old link can be touched.
+- **Final internal choice:** Marek gives up exclusive access to the Deep Archive by placing the living resonance of his rootmark in one of the tested public seedhearts, allowing the ring of seedhearts and its many voluntary anchors to share the burden. He chooses a slower patchwork and accepts that some damaged regions will remain damaged. He does not destroy Iona, the Engine, or the network; he prevents any one of them from becoming the sole authority.
 - **Final climax:** Iona's White Mercy is stopped. The Engine becomes a bounded reservoir and archive under public maintenance. The Rootway returns as a network of varied local flows, not a single restored crown.
 - **Concrete resolution:** The Root Commons is established, local seed routes are permanent, Crown charter tyranny ends, and people begin a long recovery from the White Harvests. Restoration is real but uneven.
 - **Mystery resolution:** The Quiet Break was an engineered policy failure; False Season was deliberate; Aldren died eight years ago interrupting the current pruning cycle; the Rootway is adaptive ecological memory rather than a human-like mind. The original builders' deeper intentions and the full nature of Rootway memory remain intentionally unresolved.
 - **Final relationship resolution:** Marek and Tova remain partners with separate careers, shared custody of difficult decisions, and no expectation that love gives either person authority over the other. Sera, Soren, Nia, Kellan, and Halden have roles in the commons, with consequences from their earlier choices still visible.
-- **Final image:** At dawn in Lantern Reach, Marek and Tova stand beside a muddy field as several separate rootbridges carry green-gold light through different irrigation channels. A farmer asks Marek which line is the important one. He closes the Fieldbook and answers with ordinary work, while the network continues without a single voice.
+- **Final image:** At dawn in Lantern Reach, Marek and Tova stand beside a muddy field as separate local conduits, seed-route bridges, and one reconnected regional bridge carry green-gold light through different irrigation channels. A farmer asks Marek which line is the important one. He closes the Fieldbook and answers with ordinary work, while the network continues without a single voice.
 
 ## Long-form pacing rules
 

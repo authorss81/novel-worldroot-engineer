@@ -16,7 +16,7 @@ When the harvest fails in the agricultural province of Tarrow Fen, agricultural 
 
 The third consecutive **White Harvest** has failed in Lantern Reach, a small farming cooperative on the edge of the Tarrow Fen. The local well still produces water, but the water tastes faintly of iron and the crops grow sideways. The Hearth Crown's well charter expires at the end of the season. If the cooperative cannot prove that its node is worth keeping, Crown inspectors will seal it, seize its seed stock, and relocate the families to a distant city.
 
-Marek is the cooperative's irrigation surveyor. He is good at finding leaks, reading soil, repairing pumps, and calculating how much water a field can afford. He is not trained in the forbidden craft of rootwork and has no interest in becoming a hero. He wants a funded repair, a working well before the next sowing, and enough security for his younger sister Nia to leave the fen if she wants to.
+Marek is the cooperative's irrigation surveyor. He is good at finding leaks, reading soil, repairing pumps, and calculating how much water a field can afford. He is not trained in the licensed craft of rootwork and has no interest in becoming a hero. He wants a funded repair, a working well before the next sowing, and enough security for his younger sister Nia to leave the fen if she wants to.
 
 His ordinary work becomes impossible to separate from magic when a living rootlet beneath the failed field responds to his father's old fieldbook and flow gauge. The response is not a spell or a quest. It is a pressure change, a missing memory, and a pattern in the soil that no ordinary gauge can explain.
 
@@ -40,7 +40,7 @@ He fears that the next failure will happen while he is looking away and that peo
 
 ### Moral boundary
 
-Marek will not deliberately sever a living node, bind a person without informed consent, or call a rootwoken creature disposable merely because it is unfamiliar. He will break the habit of making unilateral decisions before he can be trusted with large-scale power.
+Marek will not deliberately sever a living node, bind a person without informed consent, or call a rootwoken creature disposable merely because it is unfamiliar. Rootwork is legal when performed under an Assembly license and with a return path; the forbidden part is coercive or unlicensed work that turns a living person or node into an involuntary dependency. He will break the habit of making unilateral decisions before he can be trusted with large-scale power.
 
 ## Central mystery
 

@@ -74,7 +74,7 @@ The final network must preserve both cultivated relationships and uncoordinated 
 
 - **Volume 1:** A network is something one can repair before it becomes a political problem.
 - **Volumes 2–4:** Repair requires people, trade, and consent; no engineer can remain outside the community's future.
-- **Volumes 5–8:** The network remembers what institutions did. Trust is part of infrastructure.
+- **Volumes 5–8:** The network remembers what institutions did. Trust between maintainers is part of infrastructure, not a resource the Rootway consumes.
 - **Volumes 9–12:** Plural stewardship is messy and slower, but it is more resilient than a single caretaker.
 - **Volumes 13–15:** The question becomes who gets to define a safe limit and who pays for a region that is intentionally left scarred.
 - **Volume 16:** The answer is a bounded commons: local stewardship, public maintenance, multiple operators, and no permanent human command. The network remains a living ecological system, not a new sovereign.
