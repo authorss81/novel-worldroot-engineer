@@ -335,6 +335,103 @@ These are drafted and load-bearing. They are not atmosphere.
 
 Not a character but a fact with a name nobody in the fen may write down. **About ninety people, no charter, no seat, no name on any roll, ground the district calls Crown-held and has never held.** It holds the far end of the long line and has known what is under the windbreak for longer than the cooperative has had a charter, and has said so to nobody, because nobody with a table has ever come. It is the political fact the volume turns on. **It must not become a rescue, a tribe, or a plot device, and its refusal is permanent and procedural, not a position that can be argued with in Ch 47.**
 
+## End-of-volume positions (Volume 01, Chapters 41–49)
+
+**Recorded here because Volume 01 is closed and a Volume 02 writer must not have to reconstruct these from the chapters.** Prose governs; this is a summary, not a replacement.
+
+### Marek Vale — the end of Volume 01
+
+- **Stage 1, Touchroot, and nothing more.** He can feel a pressure in a piece of wood with his hand on it. It is **unreliable**, it cost him the ground under his feet on the morning of the seventeenth, an hour he cannot account for, and a stone at a weir, and **it is worth nothing in front of anybody except a licensed woman standing next to him.** **No bead, no rootmark, nothing on his arm, no anchor work, no bridge above local conduit, no seedheart, no caretaker link.** The first skin rootmark is Volume 02 and belongs to his first independent graft.
+- **The third contact of the season** was a scarroot cut face at Weir Row, not a fieldbook, and it was four seconds, and it was the *order* in the wood rather than a record of anything: cut, wait, cut, at a scale that made the face under his palm about the size of a thumbnail. **Gael Senn wrote in her own book that she did not see it, and that his account of that hour is a rumour with a witness in it, which is her phrase, used about him on purpose.**
+- **The choice that defines the volume:** six words, said in daylight, in front of the people who live on the ground, and no motion was moved because a vote would have made it the body's loss and it is not the body's loss. **I am flooding my three acres.** The cost is his own ground, for three seasons, entered in the cooperative's book as a decision and not as a charge.
+- **The six section-nine margin notes**, the sixth of which is the only one that is not about a cut: *nobody will be able to see the starve from the top of the field; they will see it in the second week of next August; by then it will be somebody else's log.*
+- **He keeps nothing.** No instrument — it is on his mother's table. No private log — it is a book anybody may read and the copy is in a file that cannot be recalled. No private advantage. He has a certificate he cannot use without a licensed witness and a monthly obligation he argued against for nine minutes.
+- **What he now says in public that he did not say in October:** the eighty turns a day is in the district's hands, the graft is being run at a fifth of what it was designed for, and the three lines an instrument gave a licensed reader are not in any document as a reason.
+
+### Lissa Vale — the end of Volume 01
+
+- **The instrument and the use log are on the middle of the seed-house table, not in the press**, and anybody may look and anybody may ask to have the log read to her. The press stands open with the March's tin under the ledger, **thirty-three days at risk and unmoved.**
+- **Her fourth refusal of the season, unnumbered, unexplained, and not to be asked about.** It is *not* Sera Quill's fourth refusal and the two must never be run together.
+- **The clean record is still gone.** From the eighth of the month the fieldbook is a district file that cannot be recalled and cannot be added to without a district officer in the room. **She is not sorry, and she must not be made sorry, and she must not be thanked.**
+- **What she did in the flood:** took the instrument out of the press at four in the morning and initialled the hour herself; read the use log entire to a bench in the mud in front of a district inspector, and again in a room on the twenty-first; entered Renn Tallow's statement on the nineteenth with the lateness declared and said in front of the room that she knows exactly who did not record it and that it was not him; entered that Sera Quill said nothing about the name in the box and did not enter why.
+- **No forgiveness, none offered, none implied.** She fed the lamp and would not allow a ceremony of it.
+
+### Tova Reed — the end of Volume 01
+
+- **She paid for the second reader out of the trust's own annex, fourteen pounds ten, in her own hand, against the trust**, over two refusals that were both correct, and **the cost is on the annex: the March's first row of its own line is thinner by that sum.** She is not a rescue and Marek is not saved and the override is the refusal's cost written on a document against nine thousand people who are not in the room.
+- **She found the sentence in Ch 44 and then ruled out the vote on it**, because a vote would have made nine thousand people a party to three acres of a man's ground.
+- **Six lines entered against the trust's own interest since the ninth of the month**, including the one that matters: the holding fed a graft at about a fifth of what the graft was designed to be fed, and nobody in the building ever said the graft was working.
+- **Her rule about degrees:** a compost return is a number of hundredweight and not a number of degrees. A hundredweight is worth about half a degree; twenty-one hundredweight and a quarter is worth about a tenth; **a soil iron cannot read a tenth of a degree and she will not write a degree she cannot stand behind.**
+- **The dry-land line is still lost**, the tin is still in the press, and the annex still says the seed house does not undertake to move it and the trust does not ask it to.
+- **Nothing about this is tender and nothing is a cure.** The slow burn runs on disagreement.
+
+### Nia Vale — the end of Volume 01
+
+- **Back up the fen road on the morning of the nineteenth of the month with four bundles of paper and no seed, thirty days gone**, and the reason stated plainly so that nobody can improve it: the fen road was under at the second gate for three days and the March road went on the sixteenth, and the counting house sent the cart back before it closed and sent it with her.
+- **The letter is not delivered.** She reached Kellan Rusk's gate on the twenty-second of last month, saw a district man in the yard with a satchel, stood in the road for about eleven minutes and turned the cart round. **Her account: she did not decide not to give it to him; she decided every morning not to have decided.** Whether she hands it over is still unsettled and belongs to nobody but her.
+- **She gave the letter back on the table and did not push it towards him.** Anneke Roos entered *the letter was not delivered* in her own hand with the hour, because a cooperative that wrote to its contractor and did not send the letter is going to be in a room whether it is in a book or not.
+
+### Kellan Rusk — the end of Volume 01
+
+- **The Lantern Reach contract is gone and he does not appeal it and does not ask for a part of it.** The private charter survives under monitoring: a gauge **below the split** that any party may read, the reading in a book kept in Fennmere and not in Fennmere only, his log open to any member of the cooperative at any hour without notice, a monthly return to the district with a copy to the seed house, a person may be sent to his pump house on a day's notice with the reason minuted, and no variation of the draw without a form. **He asked for every word of it to be minuted and it was.**
+- **Why he falsified the book, in his own mouth:** *a district may be fed and a branch may not be fed. If I had written what the gauge said, they would have shut my branch, and the low quarter drinks off the bed that my branch feeds, and there is no other water in that quarter for nine miles. I chose forty-one houses over a book, every month, for six years — and if it was for money I would not be able to tell you what it was for.*
+- **The name in the box.** He gave it on a bench in the mud, in front of a district inspector, having never seen the man: **schedule clerk, fen drains.** His reason for saying it at all: *if a thing is a shape and not a man, the shape is public, and if the shape is not public the man never has to answer for it.* **Sera Quill heard it and said nothing.**
+- **He gave evidence for an hour and ten minutes and gave it badly, and it was worth more than anything else said in the room.** He is not killed, not fled, not redeemed, and he is **a witness, not a penitent.**
+
+### Renn Tallow — the end of Volume 01
+
+- **The docket.** One sheet, torn from a nail in a yard at Fennmere on the eighteenth day of last month: item N-2214/K, tools drawn against the item — chain, block, dies, grafting set — **order date: not on the docket, work description: none.** He put it down face up on a bench in the mud and did not say anything about it. **This is not the works schedule and it does not produce one.**
+- **His statement, asked for on the night of the tenth day of last month and never recorded:** that the branch below Weir Row has had nothing coming up it since the spring before last, that every man in the low quarter knows it, and that a statement of it was asked to be entered in the book of the body responsible for the ground. **He brought it back himself, five lines, in his own hand, on the nineteenth of this month, thirty-nine days late, and Lissa Vale entered it with the lateness declared.** She said in front of the room that she knows exactly who did not record it and that it was not him.
+- **His refusal is not softened, not apologised for, and not withdrawn. He is a foreman who said a true thing once and asked for it to be written down, and nobody wrote it down, and he asked again.**
+- In the flood he held the corner open, and he said she was wrong about the west side of the windbreak, and that was the whole of the healing of the crew split.
+
+### Gael Senn — the end of Volume 01
+
+- **The monthly examiner under a charter that expires at the end of a season.** *Nothing found* at the wound, and a second wording for the return line that records a thing that did not happen — and **the second wording is now in a district charter for the first time, on a fifth sheet argued for nine minutes in a cold room.**
+- **The first examination under the new charter is the first of next month, ten days after the charter was made, and it may be under a foot of fen.** She said in the room that she would be there for it, then said that she had said that and had written nothing and would not write anything, and **the hearing officer minuted that too because she said it in front of her.** **Nobody may fill that log for her.**
+- **She used the second wording on the fourteenth of the month, the first time it has ever been used on a day that was not the first of a month**, and signed it in the morning rather than at one in the morning.
+- **She decided not to write anything about the pathhound and asked for the decision to be entered with her name on it and not the animal's**, and **she did not write the word *failed*** about a row of seed leaning eleven degrees off the vertical, and gave the reason: *a woman who writes* failed *in a public book about a row of seed in a wet drill is writing about herself and not about the seed.*
+- She is twenty-three and she has been the person in every room since the first of the month.
+
+### Sera Quill — the end of Volume 01
+
+- **She said the volume's deeper answer in plain words on a bench in the mud:** a node does not remember a season that has not happened; what is in the bead and in a cut face is a **work order** — a shape set down in advance, in the order a man works in when he means to bring a thing about; it is a **target pattern, and the word for a target pattern is not a prophecy, it is a specification.** She has seen the structure of one before, has not wanted to say so for twenty-three years, **and will not say where she saw it, what wrote it, or why a pattern of that shape would be put into living wood at all.** Those three are in a district file as questions and she answered them at a hearing and not on a bench.
+- **She refused to be corroborated.** She will not repeat the instrument's three lines on a bench, will not let a district inspector write them down, and states that **no document in the district may quote them as a reason and no finding of hers or Vane's may quote them as an instruction** — while conceding that the three lines of the twenty-fourth are already in a district register and cannot be got out of it.
+- **She heard the name of the district office and said nothing**, the way she has said nothing three times before, and Lissa Vale entered that she said nothing and not why. **She has not been asked about Brinewake in forty-nine chapters and has not offered it.**
+- **Her fourth refusal stands unnumbered, unopened and unexplained**, and nobody in this fen asked her about it, and she checked Marek's arm four times in the season and not a fifth.
+- She went down the road on the afternoon cart on the twenty-second with her fee on an invoice and eight pages of notes, and **nobody in this fen has told her she was right, and nobody is going to.**
+
+### Idris Vane — the end of Volume 01
+
+- **Paid on the fifteenth, out of the Dryfoot Trust's annex, and read the node on the eighteenth, which was the fourteenth day of a notice served in person on the fourth.** His own bead, his own clip, his own contact, his own date, told nothing. Three lines, in his own hand, unedited, under his own name, attested, and **the same three lines**, with a line at the foot saying the applicant's copy was not shown to him first.
+- **He refused a creditor's money and refused Marek's too, and said both refusals out loud.** *I am not being paid to help you. I am not doing this for a creditor. And I am not doing it for you either.* He did it for a woman who put fourteen pounds ten on her own paper where it hurt her.
+- **He refused her condition** — the reading goes to the district first and the applicant second — and wrote to her on the sixteenth to say so, because a person who buys a second opinion and then decides what it was going to say has bought a signature, not an opinion.
+- **He said what the reading was worth before he had read anything**, and asked Marek to remember that he said it before and not afterwards.
+- **His own fieldbook was on his kitchen table and was neither offered nor asked about, twice.** He is sixty-one in this volume, sixty-eight by Volume 02, has taken no paid work since his wife died, and **does not appear again in Volume 01.**
+
+### Corvin Slee — the end of Volume 01
+
+- Walked nine miles in the rain to say that nineteen inches of standing water in the low quarter was **not moving**, and would not name the pipe it came out of because a granddaughter of his drinks the water.
+- **His quarter mapped its own line.** Four men, the nineteenth and the twentieth, chalking the height of the standing iron on every gatepost, door step and cellar wall, on a stick and a bucket of lime, at their own hand and at their own cost. It is on a piece of paper in Fennmere and it is the only survey of that ground anybody has ever had. **Marek heard about it at the gate and did not go.**
+
+### Hester Carrow — the end of Volume 01
+
+- **Fixed the sitting on the twenty-first and made it.** Refused the inspector's application on her own ruling of the eighth, kept the application on the file unwithdrawn, kept her own ruling that nobody in her room may open the instrument, **and did not open it herself when it was produced in front of her.**
+- **Wrote Gael Senn's second wording into a charter** and said in the minute that the second half is the reason this body will be able to prove anything at all in four years.
+- **Did not touch the schedule of damage**, because a hearing officer has no power over it, and said why in the room: *if I reduce it or remit it I am doing on one morning, in a cold room, with a hearing officer's stamp on it, a thing that only the district can do with a form.*
+- **Put the Directorate's reservation in the minute:** the right to reopen the file on any new report. *It is the actual shape of the thing you have been asking for, which is a node you can keep working on, and you cannot have that and have it closed at the same time.*
+- **Her authority over charters runs to the end of the year**, and she said she has never once in four districts seen a year used as a reason to do less.
+
+### Ansel Bray — the end of Volume 01
+
+- **Stood in the mud with a wet notebook on the seventeenth and did not stop a licensed reading he had no rule to stop**, and said so out loud, and said he would be asked in six weeks by a man in Auberron who does not know him and would have to answer with the morning and not with a form. **The application was refused and is not withdrawn.**
+- **Used none of the three things** — did not seal the head, did not take the seed stock, did not refer for relocation — **and could not have used any of them**, because to do so he would have to name a body last responsible and the caution in the district's own hand says there is none.
+- He read the eighty turns a day out in the inspector's own voice and not as a summary, and entered it, and it is now the district's exhibit.
+
+### Not a character but a fact: **schedule clerk, fen drains**
+
+**An office in the authorising box of a district works order, and the name that goes there is the name of the office and not of a man.** The post has existed longer than Kellan Rusk; the man in it has changed four times that he knows of; **he does not come out. He signs the paper. The paper goes to a store. The store gives out the kit.** He has no face in this volume and no name that is not a post. **Sera Quill heard the post named and said nothing, and Lissa Vale entered that she said nothing and did not enter why, and nobody asked her a fourth time.** This is **Volume 01's last political discovery and it is a shape, not a villain.** A Volume 02 writer may put a man behind the post; a Volume 02 writer may not do it cheaply, may not do it in a room, and may not turn a procedure into a moustache.
+
 ## Relationship and conflict map
 
 - **Marek / Tova:** competence-based attraction, consent-based intimacy, shared work, no rescue fantasy.
