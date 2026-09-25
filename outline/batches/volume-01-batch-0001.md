@@ -10,13 +10,15 @@ Movement: The Water Is Lying (Volume 01, Movement 1)
 
 Every card's deadline depends on this. The charter expires on day 18, and the annual inspection sits on the same day, so no extension is ever won by a deferral.
 
-Day 1 — Ch 1 (well head, morning), Ch 2 (caravan arrival, midday and evening) · Day 3 — Ch 3 (afternoon), Ch 4 (evening) · Day 6 — Ch 5 (the fen road) · Days 7–8 — Ch 6 (two days of logging; the reading on day 8) · Day 9 — Ch 7 (Weir Row) · Day 10 — Ch 8 (Bray arrives early), Ch 9 (that night) · Day 11 — Ch 10 (the vote)
+Day 1 — Ch 1 (well head, morning), Ch 2 (caravan arrival, midday and evening) · Day 2 — no chapter; Tova's two-day look at the records starts here and runs through day 3 · Day 3 — Ch 3 (afternoon, the closing hours of Tova's look), Ch 4 (evening) · Day 6 — Ch 5 (the fen road) · Days 7–8 — Ch 6 (two days of logging; the reading on day 8) · Day 9 — Ch 7 (Weir Row) · Day 10 — Ch 8 (Bray arrives early), Ch 9 (that night) · Day 11 — Ch 10 (the vote)
+
+Day 2 has no chapter because it is Tova's, not Marek's: she arrived at midday on day 1, opens the cooperative's records on day 2, and will say nothing about them until the two days are up. Her two-day look therefore closes on the afternoon of day 3, and Ch 3 is written to land inside its final hours. A writer who moves Ch 3 later than day 3 afternoon has broken the batch's first irreversible act.
 
 Seven days remain when the batch closes. The two Crown events are separate: a routine charter-condition walk-through on day 1, done by a sub-office clerk, and the annual inspection on day 18, which is what gets brought forward to day 10.
 
 ## Batch goal
 
-Introduce Lantern Reach, Marek's ordinary work and its limits, the expiring charter, the falsified maintenance log, and Tova's audit. Force the first fieldbook contact and the first real cost. End the batch with seven days until the eighteenth, no contractor, a waterlogged compound coat failing over the wound, a spoiled seed line, a flock driven off alive and never recovered, and an instrument that now belongs on a Directorate record.
+Introduce Lantern Reach, Marek's ordinary work and its limits, the expiring charter, the falsified maintenance log, and Tova's audit. Force the first fieldbook contact and the first real cost. End the batch with seven days until the eighteenth, no contractor, a waterlogged compound pad failing over the wound, a spoiled seed line, a flock driven off alive and never recovered, and an instrument that now belongs on a Directorate record.
 
 The batch's promise to the reader is: this is a working story about a man trying to prove a number is false. The number is false. Proving it does not fix anything by itself.
 
@@ -56,10 +58,10 @@ The cooperative votes its own plan: a seal built by hand, a shared draw with a w
 
 - Marek ends the batch at Stage 0, one contact behind him, with no rootmark. Stage 1 is not sustained until the end of Volume 01, and his first skin rootmark does not arrive until his first independent graft in Volume 02.
 - **Chapter 3 performs no rootwork at all.** It is a hand rig, a mechanical pump, and a coupling. What Marek feels is his own exhaustion and his hands on wet living rootwood. Name this in the prose or the reader will assume a power the character does not have.
-- **Chapter 6 names all three exchange requirements:** anchor is the fieldbook's living root bead and the well's living conduit; path is the bead's contact through a copper contact clip at the housing seam; return is the compost and flow Sera has arranged and logged for the session. The cost is disorientation, nosebleed, and a sensory bleed that runs through the afternoon.
+- **Chapter 6 names all three exchange requirements:** anchor is the fieldbook's living root bead and the well's living conduit; path is the bead's contact through a copper contact clip at the housing seam; return is the compost and flow Sera has arranged and logged for the session. The cost is disorientation, nosebleed, and a memory bleed that runs through the afternoon. Use the registered term **memory bleed**; "sensory bleed" is ordinary speech for a minor case, not the term for this one.
 - **Chapter 9 names two and deliberately omits the third.** Anchor is the scarroot's cut face; path is bare-hand contact with no bead; there is no return, which is precisely why it costs. The engineering is a crowbar and a graft shear, not a spell. Marek does not redirect the pathhound. He pries open the healed seam of the dead cut so its stored pressure vents into an empty channel, and the animal breaks off a route it can no longer feel.
 - One Fieldbook panel is permitted in the whole batch, at the choice in Chapter 6: short, plain, local, three lines, no commentary.
-- Physical and material ledger: part of the Salt March dry-land line is spoiled; the coupling is wrecked and cannot be replaced before the eighteenth; the fieldbook fragment is encumbered; the breeding flock is gone and none of it came back; the compound coat over the wound is waterlogged and failing inside the seven-day window; seven days remain.
+- Physical and material ledger: part of the Salt March dry-land line is spoiled; the coupling is wrecked and cannot be replaced before the eighteenth; the fieldbook fragment is encumbered; the breeding flock is gone and none of it came back; the compound pad over the wound is waterlogged and failing inside the seven-day window; seven days remain.
 
 ## Required world reveals
 
@@ -99,7 +101,7 @@ Immediate goal: Get the well head running before the charter-condition walk-thro
 
 Resistance: The pump test fails, and the failure is not the pump. The water tastes of iron. Kellan's brass gauge reads a normal draw, and the clerk is going to write down what the gauge says. The charter expires on the eighteenth, the outer rows are whitening, and the third item on Nia's list is the relocation clause, which nobody in the yard says out loud. The cooperative cannot afford a Crown mechanic.
 
-Information revealed: The well's living conduit is wounded, not dead. What is holding the wound closed is a coat of compound laid over the scarwood, and Kellan's log records a proper seal that was never installed. The clerk's book gives the cooperative seventeen days and explains what a charter condition is for, in the flat tone of someone who has done this forty times.
+Information revealed: The well's living conduit is wounded, not dead. What is holding the wound closed is a coat of compound laid over the scarwood, and Kellan's log records a proper seal that was never installed. The coat has an ordinary history and Marek can read it: Kellan's crew laid it four seasons ago at the last real maintenance call as a surface hold over open scarwood, and every year since the crew has topped it up rather than ever replacing it. It is a pad, not a seal. The log is false in the way the charter cares about, because the log upgrades a pad that keeps getting re-dosed into a proper seal. The clerk's book gives the cooperative seventeen days and explains what a charter condition is for, in the flat tone of someone who has done this forty times.
 
 Action or decision: Marek opens the well head with Ilsa, gets an arm to the elbow in iron-smelling water, and rebuilds the draw by hand so the pump does run before the clerk arrives. He then tells the clerk, in front of the crew, that the fault is in the root line and not the pump, and that he intends to prove it in front of an inspector rather than in a shed.
 
@@ -107,7 +109,7 @@ Emotional change: Pride first, in a pump that runs. Then a specific dread, becau
 
 Power or resource change: No power change. The pump runs, which is the batch's first small win and changes nothing that matters. In the last few lines, the fieldbook fragment stays wrapped in his kit and he does not open it — but the needle inside shifts off its rest and will not settle while the head is open, and he puts the kit down without looking at it again.
 
-Continuity fact to preserve: The charter expires on day 18. The well is wounded, not dead. The wound is held by an unlogged coat of compound; Kellan's log records a seal that was never installed. The crops still grow sideways. The fieldbook is a fragment: front board, living bead, a handful of pages.
+Continuity fact to preserve: The charter expires on day 18. The well is wounded, not dead. The wound is held by a compound pad laid by Kellan's crew four seasons ago as a surface hold and topped up annually, never replaced; Kellan's log records a proper seal that was never installed. The crops still grow sideways. The fieldbook is a fragment: front board, living bead, a handful of pages.
 
 Ending type: Discovery
 
@@ -127,7 +129,7 @@ Resistance: Tova Reed does not want a bed and a kindness. She wants the cooperat
 
 Information revealed: Tova finds the arithmetic that does not work in Kellan's published draw figures and says so in the yard, in front of the members, before she has eaten. The Salt March's dry-land line should not be planted at all this year, by the trust's own reckoning. Her authority is seed viability and records, not rootwork, and she says so when Marek asks whether she can read the well head herself.
 
-Action or decision: Marek offers her the pressure report the cooperative promised her, in exchange for housing her lines. She names her terms instead: a measured draw, published numbers, her own veto on any use of the vault for a test, and a copy of everything for the March whether or not it helps them. She will look at the cooperative's records for two days before she will say anything else about them.
+Action or decision: Marek offers her the pressure report the cooperative promised her, in exchange for housing her lines. She names her terms instead: a measured draw, published numbers, her own veto on any use of the vault for a test, and a copy of everything for the March whether or not it helps them. She will look at the cooperative's records for two days — day 2 and day 3, opening on the morning after she arrives — before she will say anything else about them.
 
 Emotional change: Marek feels checked by a competent stranger and finds it bracing rather than reassuring. He also learns that he is no longer the only person in the room who can do arithmetic on his own house.
 
@@ -147,7 +149,7 @@ Location/time: The seed house rootwood bed and its return line, afternoon, day 3
 
 Pressure type: Action and cost
 
-Immediate goal: Produce one real draw measurement before Tova's two days are up, and prove Kellan's log false with something physical.
+Immediate goal: Produce one real draw measurement before Tova's two-day look closes on the afternoon of day 3, and prove Kellan's log false with something physical.
 
 Resistance: The seed house's return line is the only circuit that can be loaded in a day, and the seed vault is on the other end of it. Marek cannot fully justify the load and knows it while he is setting it. Tova reads the plan in a minute and says no. Ilsa does not understand the argument and still refuses when Tova explains what is at risk. Marek starts it anyway, because the arithmetic is hers and the window is his.
 
@@ -167,7 +169,7 @@ Next-chapter pull: The vault is not his to spend, so the spoiled line and the op
 
 ### Chapter 0004 — The Vote and the Ledger
 
-POV: Marek, with Lissa
+POV: Marek
 
 Location/time: The seed house, evening, day 3
 
@@ -183,9 +185,9 @@ Action or decision: Marek refuses the extension in front of the members and inst
 
 Emotional change: He trades leverage for exposure and the room does not thank him for it. Confidence replaces doubt on a condition he can live with, which is not a good condition.
 
-Power or resource change: No power change. What the cooperative acquires is an open book, not a rule: anyone may now read its figures, which is a smaller and more dangerous thing. The standing pressure log and the monthly report do not exist yet; those are voted in Chapter 10, and the Crown adopts them as charter conditions in Chapter 47. Kellan's free gasket and seal are refused, so the compound coat over the wound is still Kellan-maintained when his crew leaves the fen.
+Power or resource change: No power change. What the cooperative acquires is an open book, not a rule: anyone may now read its figures, which is a smaller and more dangerous thing. The standing pressure log and the monthly report do not exist yet; those are voted in Chapter 10, and the Crown adopts them as charter conditions in Chapter 47. Kellan's free gasket and seal are refused, so the compound pad over the wound is still Kellan-maintained when his crew leaves the fen — "maintained" meaning the crew's annual top-up, and that is the last top-up it ever gets.
 
-Continuity fact to preserve: Renewal requires proof of maintenance. Lissa's grievance is unresolved and practical. Kellan's offer is refused and the refusal is recorded, and it is the first thing he offers again in Movement 2. Kellan's crew and their compound kit are on the road in Chapter 9, which is why the coat is unmaintained when the pit floods.
+Continuity fact to preserve: Renewal requires proof of maintenance. Lissa's grievance is unresolved and practical. Kellan's offer is refused and the refusal is recorded, and it is the first thing he offers again in Movement 2. Kellan's crew and their compound kit are on the road in Chapter 9, which is why the pad is unmaintained when the pit floods. The pad's origin is settled in Chapter 1 and must not be re-opened: a surface hold laid four seasons ago, topped up annually, never replaced, misdescribed in the log as a proper seal. Movement 2's hand-built seal is the first real one, and its failure or survival decides the flood.
 
 Ending type: Decision with a public cost
 
@@ -235,7 +237,7 @@ Action or decision: Marek ends the session himself before Sera returns. He insis
 
 Emotional change: He chooses to share the first private instrument he has, and discovers the choice does not make the reading more true. It only makes him less alone with it, and it puts his grief into a record where the Crown can find it.
 
-Power or resource change: First contact. Anchor is the living root bead and the well's living conduit; path is the clip's contact at the housing seam; return is the compost and flow Sera arranged and logged for the session. Costs: disorientation, nosebleed, and a sensory bleed that puts another person's hands in his own memory for the rest of the afternoon. He cannot safely repeat it. There is no mark on his skin, and Sera notes that there is not, and says it will not stay that way. The Fieldbook panel is permitted here and only here.
+Power or resource change: First contact. Anchor is the living root bead and the well's living conduit; path is the clip's contact at the housing seam; return is the compost and flow Sera arranged and logged for the session. Costs: disorientation, nosebleed, and a memory bleed that puts another person's hands in his own memory for the rest of the afternoon. He cannot safely repeat it. There is no mark on his skin, and Sera notes that there is not, and says it will not stay that way. The Fieldbook panel is permitted here and only here.
 
 Continuity fact to preserve: The first fieldbook impression is a maintenance pattern, not a message, and it is logged as unverified in Marek's own hand. Sera now holds a copy of his raw notes. The unexplained pressure cycle stays unnamed by everyone.
 
@@ -313,7 +315,7 @@ Action or decision: With no supervisor, no license, and no time, Marek puts his 
 
 Emotional change: The best decision available to him still produces a loss, and the loss is measured in animals, a compost heap, and a branch that will bleed for years.
 
-Power or resource change: First deliberate contact, still Stage 0 with one contact behind him, and the only one in the batch with no return arranged: anchor is the scarroot's cut face, path is bare-hand contact with no bead, and the return is missing, which is exactly why it costs. He collapses on the weir stones. The opened seam marks the branch permanently and it bleeds steadily from now on. The flock is driven off alive into open fen and not one animal comes back. The pump pit floods, and the unlogged compound coat over the wound is now waterlogged and failing inside the seven-day window.
+Power or resource change: First deliberate contact, still Stage 0 with one contact behind him, and the only one in the batch with no return arranged: anchor is the scarroot's cut face, path is bare-hand contact with no bead, and the return is missing, which is exactly why it costs. He collapses on the weir stones. The opened seam marks the branch permanently and it bleeds steadily from now on. The flock is driven off alive into open fen and not one animal comes back. The pump pit floods, and the compound pad over the wound — topped up for the last time on day 3, now four seasons old and never replaced — is waterlogged and failing inside the seven-day window.
 
 Continuity fact to preserve: A pathhound can be redirected by changing the flow and cannot be commanded. There are two pathhounds in Volume 01 and this is the smaller one. Gael is unhurt; Ilsa and the crew are inland with the trays. The Chapter 9 use is unlicensed and unsupervised, and it is the strongest evidence the Crown will later have against Marek. The flock-made compost is gone and nothing has replaced it yet.
 
@@ -335,7 +337,7 @@ Resistance: Every option costs a specific person. A seal built by the members ca
 
 Information revealed: Two additions to terms the reader already has. Sera signs the scope she brought, which puts her name and her license on the plan as it stands tonight and not on a repair that may never come. Tova asks for her condition to be read into the cooperative's own book before she will sign anything, which is how the seed annex starts: the trust's name, in the cooperative's record, in the cooperative's hand.
 
-Action or decision: The cooperative votes four things and one refusal. The refusal is Kellan's gasket and seal, offered again by letter, and turned down again in front of the clerk who brings it. The four are a seal built by hand, one shared draw with a written return, a repair attempt Sera can certify, and Tova's seed annex, plus a bypass cut for the weir branch if anyone finds the money before the water comes. On Tova's evidentiary rule — any reading taken by an unlicensed hand is logged in the seed house and may be checked by anyone who asks — Marek's fieldbook goes into Lissa's custody with a written log of every use. He does not argue, and he does not get a speech about it.
+Action or decision: The cooperative votes **four things and one refusal**, and the count is exact. The four are a seal built by hand, one shared draw with a written return, a repair attempt Sera can certify, and Tova's seed annex. The refusal is Kellan's gasket and seal, offered again by letter, and turned down again in front of the clerk who brings it. The bypass cut for the weir branch is **not** a fifth vote and must not be counted or staged as one — it is a plan with no money behind it, and it enters the book only when Marek writes it in the margin and Dunmar has to decide whether a plan is something a hearing officer would accept as a filing. That decision, not a vote, is what makes the bypass a live promise for Ch 24–27 and unbuilt at Ch 41. On Tova's evidentiary rule — any reading taken by an unlicensed hand is logged in the seed house and may be checked by anyone who asks — Marek's fieldbook goes into Lissa's custody with a written log of every use. He does not argue, and he does not get a speech about it.
 
 Emotional change: He is the man in the room who is not holding the instrument, and the room neither thanks him nor forgives him, and he can work in that.
 
@@ -356,4 +358,5 @@ Next-chapter pull: The seal has to be built by hand in seven days, the draw has 
 - Nothing romantic happens in this batch, and nothing should lean toward it. Tova and Marek end it as professionals with a written disagreement and a shared plan.
 - No history lesson, no Crown Engine, no False Season, no name the reader has not earned. A serial number, a stamp, a table, and a schedule are the whole of the Crown here.
 - Every chapter ends with a decision, a cost, a discovery, or a new obligation. Do not cut away mid-action to manufacture suspense.
+- Chapters 4 and 10 are both seed-house meetings and the echo will be audible. They are deliberately different rooms. Chapter 4 is reactive and accusatory: a spoiled line to survive, a courier in person, a vote about blame, and a man trading leverage for exposure. Chapter 10 is procedural and slow: a letter refused before a clerk, a plan nobody can fund, a document handed over, and a table that ends with everyone inside it. Do not let Chapter 10 replay Chapter 4's confrontation, and do not let a character in Chapter 10 refer back to Chapter 4's vote as if it were the same kind of event.
 - This chapter list is a plan, not a script. If a scene needs a different shape to be a complete scene, change the shape and keep the card's change, cost, and ending type.

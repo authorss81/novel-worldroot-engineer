@@ -18,7 +18,7 @@ Marek Vale is twenty-nine, an agricultural engineer and irrigation surveyor at t
 
 ## Starting relationships
 
-- **Marek / Lissa:** Their mother runs the seed house and has not forgiven him for taking a capital contract after Aldren disappeared. Cold, practical, still reliable at the work table.
+- **Marek / Lissa:** His mother runs the seed house and has not forgiven him for leaving on a capital contract after Aldren disappeared. Cold, practical, still reliable at the work table.
 - **Marek / Nia:** Twenty-three, an accountant in the seed house, openly counting the days until she can leave the fen. Affectionate and combative.
 - **Marek / Tova:** Not yet met. She arrives in Chapter 2 as a lender with terms, not a rescuer.
 - **Marek / Sera:** Out of contact for six years. She trained Aldren, so she reads Marek's habits as inherited.
@@ -65,7 +65,7 @@ Marek tries to prove the fault is in the root line rather than the pump and find
 
 ### Movement 2 — Somebody Else's Hand (Chapters 11–20)
 
-Sera examines the well head, offers the dangerous job, and names its cost: certify the node as maintained after a real documented repair attempt, with her own liability on the line. Marek assembles a crew who are not rootwrights — Ilsa, Gael, two tenant farmers — and trains them in safe ordinary practice: log, witness, date, return. They find the cut branch is not neglected work but scheduled Crown maintenance carrying a serial from a table the cooperative has never been given. Kellan offers Crown-funded monitored repair in exchange for exclusive access; the Undercommons sends a courier warning that the same serial appears on branches in three other provinces. **The first real pump seal is built by hand here**, because the compound coat Kellan's log never recorded is failing and nobody else will come. **The day-18 inspection happens here** and the cooperative loses it on a technicality, which converts the charter from a date into a siege. Nia leaves at the end of this movement, on day 20, with a seed consignment and a hired cart, and the volume does not get her back.
+Sera examines the well head, offers the dangerous job, and names its cost: certify the node as maintained after a real documented repair attempt, with her own liability on the line. Marek assembles a crew who are not rootwrights — Ilsa, Gael, two tenant farmers — and trains them in safe ordinary practice: log, witness, date, return. They find the cut branch is not neglected work but scheduled Crown maintenance carrying a serial from a table the cooperative has never been given. Kellan offers Crown-funded monitored repair in exchange for exclusive access; the Undercommons sends a courier warning that the same serial appears on branches in three other provinces. **The first real pump seal is built by hand here**, because the compound pad over the wound is failing and the pad's only maintenance was a top-up from a crew that has now left the fen. **The day-18 inspection happens here** and the cooperative loses it on a technicality, which converts the charter from a date into a siege. Nia leaves at the end of this movement, on day 20, with a seed consignment and a hired cart, and the volume does not get her back.
 
 ### Movement 3 — The Repair That Bites (Chapters 21–30)
 
@@ -117,7 +117,7 @@ Every one of these is a live promise when Batch 0002 opens, and each has a chapt
 | Clock | Established | Paid |
 |---|---|---|
 | Day 18: the charter expiry and the annual inspection are the same date | Ch 8 moves the decision to it | Ch 18 loses the first time; Ch 46–48 settles it |
-| The compound coat on the wound, which Kellan's log never recorded, is waterlogged and failing | Ch 9 | The first real seal is built by hand in Ch 14–17; its failure or survival decides the flood |
+| The compound pad over the wound — laid by Kellan's crew four seasons ago as a surface hold, topped up annually, never replaced, and logged as a proper seal — is waterlogged and failing | Ch 1 lays it; Ch 9 waterlogs it | The first real seal is built by hand in Ch 14–17; its failure or survival decides the flood |
 | The fieldbook is on a Directorate record and open to seizure | Ch 8 | Ch 36–38, when Lissa refuses Bray and the cooperative pays for it; the use log is read aloud at the climax |
 | The marked, bleeding branch from the weir | Ch 9 | Ch 22–25, where its steady bleed is what breaks the graft's return arithmetic |
 | The flock, driven off alive and not recovered, and the thin bought compost | Ch 9 | Ch 20–30 return arithmetic; the cost is permanent in Ch 49 |
@@ -129,7 +129,7 @@ Every one of these is a live promise when Batch 0002 opens, and each has a chapt
 
 - **Start:** Stage 0. **End of volume:** Stage 1, Touchroot — unreliable, costly, and dependent on a licensed witness. This matches the series contract of "Stage 0 to Stage 1" for Volume 01.
 - Stage 2 (Grafthand) and the first skin rootmark do not arrive until Volume 02, at Marek's first independent graft. The graft his crew performs in Chapters 21–25 is **crew work under Sera's license**, not his.
-- Costs paid in this volume, in order: part of a spoiled seed line and a wrecked coupling (Ch 3); disorientation, nosebleed, and a sensory bleed that runs through the afternoon (Ch 6); collapse, a permanently marked branch, the lost flock, and a waterlogged pump pit (Ch 9); the outer field (Movement 3).
+- Costs paid in this volume, in order: part of a spoiled seed line and a wrecked coupling (Ch 3); disorientation, nosebleed, and a memory bleed that runs through the afternoon (Ch 6); collapse, a permanently marked branch, the lost flock, and a waterlogged pump pit (Ch 9); the outer field (Movement 3).
 - No human living anchor is used in this volume. Tova is a lender, an auditor, a witness, and a professional opponent. Anchor work does not begin until later volumes.
 - No draw in this volume is free. Every one is written down, and three of them are refused outright.
 - Volume 01's root work is **local conduit** work: a well, a seed house, and a short run of living pipe with one local steward. No bridge of any other capacity is built in this volume, and the name is used in prose so the later capacity names have a floor.

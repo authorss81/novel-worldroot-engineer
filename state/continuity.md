@@ -1,8 +1,12 @@
 # Continuity State
 
-## Bootstrap canon status
+## Canon status
 
-The world, power rules, protagonist, relationships, terminology, antagonist ladder, and ending constraints are established in `bible/` and `outline/`. No chapter prose has been written yet. Do not treat the volume and batch scaffolds as canon; they remain pending for their dedicated phases.
+The world, power rules, protagonist, relationships, terminology, antagonist ladder, and ending constraints are established in `bible/` and `outline/series.md`. Those are canon.
+
+`outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md` are now also **approved** — the outline phase completed them and the review findings against them have been applied. They are the governing plan for Volume 01 and Batch 0001, and the Volume 01 plan locks at the end of this file are part of them. They are still not *prose*: nothing in them is canon as a scene, a line of dialogue, or an event until the corresponding chapter is drafted. Where a plan and this file disagree, the plan governs the draft and this file gets corrected.
+
+**No chapter prose has been written yet.** The next prose phase is Batch 0001, Chapters 1–10, and it is the only one queued; there is exactly one batch prompt in `workspace/`.
 
 ## Opening state
 
@@ -39,7 +43,7 @@ Marek is Stage 0. His father's fieldbook and a first impossible pressure reading
 
 ## Volume 01 plan locks
 
-Approved in `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md`. These are planned, not canon, until the chapters are drafted. They resolve or specify existing canon and do not change any world rule.
+Approved in `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md`. These are the governing plan, not yet prose. They resolve or specify existing canon and do not change any world rule.
 
 - **Fieldbook fragment.** Aldren's fieldbook is a fragment: front board, living root bead, and a handful of pages. The back board and most of Aldren's survey pages are gone. This specifies `bible/world.md`'s "old fieldbook fragment" and is the reason every reading in Volume 01 is fragmentary and why the Aldren thread cannot be resolved from Lantern Reach.
 - **Power ceiling.** Volume 01 runs Stage 0 to Stage 1, matching the series contract. Marek's first skin rootmark does not appear until his first independent graft in Volume 02. The graft his crew performs in Chapters 21–25 is crew work under Sera's license, not his.
@@ -48,8 +52,16 @@ Approved in `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md`
 - **The deciding forum.** A Well Directorate hearing at the Fennmere sub-office, before an appointed hearing officer, with Inspector Ansel Bray reporting as inspector and giving evidence rather than chairing. The cooperative cannot appeal it.
 - **Volume 01's deeper answer.** What Marek reads in Chapter 6 is a maintenance pattern, and what Sera eventually calls it is a target pattern: a work order written in advance, not a memory of a season that has not happened. This satisfies the Volume 01 row in the series mystery schedule. Nobody in Volume 01 names the Crown Engine, the Continuity Office, False Season, or Iona Vey.
 - **Terminology caution.** Kellan's surviving charter is described as a monitored charter with conditions. Do not use "covenant" for it; that word is reserved for the First Continuity covenant in Volume 13.
+- **Memory bleed, not sensory bleed.** The Chapter 6 and Chapter 9 costs are a **memory bleed**, per `bible/terminology.md`. Characters may say sensory bleed in dialogue; narration and records use the registered term.
+- **Pathhound.** Registered in `bible/terminology.md`. It herds living things off a broken flow, is redirected by changing the flow, is never commanded, and is not solved by killing its anchor. Two appear in Volume 01, at the weir and on the dead flow downstream.
+- **The compound pad.** The coat over the wound is a **pad**, not a seal: laid by Kellan's crew four seasons ago as a surface hold over open scarwood, topped up annually, never replaced, and described in the log as a proper seal that was never installed. Day 3 is the last top-up. The hand-built seal in Chapters 14–17 is the first real one, and its failure or survival decides the flood.
 - **Kellan's fate.** Exposed by corroborated records plus Sera's licensed read, deprived of the Lantern Reach contract, kept on a private charter under monitored conditions because Fennmere's low quarter needs his water, and turned into a witness. Not killed, not fled, not redeemed.
+- **The family.** Lissa Vale is Marek's **mother** and runs the seed house. Nia is his younger sister. There is no third woman in this family; do not write one.
 - **Spelling.** The bible uses US spelling: labor, behavior, license, fertilizer. Outline and prose should match.
+
+### Batch 0001 day clock
+
+Charter expiry and annual inspection are both day 18. Ch 1–2 on day 1 · day 2 is Tova's two-day look at the records and carries no chapter · Ch 3 on day 3 afternoon, the closing hours of that look, and Ch 4 that evening · Ch 5 on day 6 · Ch 6 across days 7–8 · Ch 7 on day 9 · Ch 8 and Ch 9 on day 10 · Ch 10 on day 11, with seven days remaining. Ch 3 must land inside the two-day window; moving it later breaks the batch's first irreversible act.
 
 ### Supporting cast introduced in the Volume 01 plan
 

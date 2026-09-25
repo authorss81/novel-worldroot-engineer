@@ -42,7 +42,7 @@ A recurring relationship between flow, season, water, soil, and living tissue. A
 
 ### Memory bleed
 
-The dangerous loss of boundary between a practitioner's memories and environmental patterns read from rootwood. Symptoms include misplaced scenes, impossible sensory detail, and emotional responses to another person's history.
+The dangerous loss of boundary between a practitioner's memories and environmental patterns read from rootwood. Symptoms include misplaced scenes, impossible sensory detail, and emotional responses to another person's history. A minor or short bleed is often described in ordinary speech, and in older working notes, as a sensory bleed; the registered term for the whole effect is **memory bleed**, and it is the term outlines, chapter cards, records, and narration should use.
 
 ### Rootmark
 
@@ -55,6 +55,10 @@ The acute physical reaction to excessive draw or mismatched return: darkened vei
 ### Rootwoken
 
 A living organism changed by repeated exposure to a damaged, contradictory, or forcibly repeated root pattern. Rootwoken creatures include animals, plants, fungi, and people. Rootwoken is a category imposed by outsiders, not a moral judgment.
+
+### Pathhound
+
+A rootwoken animal that remembers the route of a flow that has been broken and moves living things carrying that pattern away from the cut. A pathhound is herding, not attacking, and it is often holding or grieving a dead flow rather than hunting. It can be redirected by changing the flow. It cannot be commanded without a living anchor, and killing its anchor does not solve it. Two pathhounds appear in Volume 01 and they are different animals with different reasons.
 
 ## Infrastructure and people
 
@@ -270,6 +274,8 @@ An old forest region of rootwoken communities, fungal networks, and negotiated b
 - Use **rootlight** for energy and **rootwork** for the practice. Do not call them mana, power, or magic in narration unless a character uses an imprecise everyday word.
 - Use **memory** for environmental pattern stored in growth, not for telepathy or prophecy.
 - Use **rootwoken** as an outsider category until a character establishes a more specific local name.
+- Use **pathhound** for the animal that moves living things off a broken flow. It is redirected by changing the flow, never commanded, and not solved by killing its anchor.
+- Use **memory bleed** for the cost of reading a root pattern into yourself. Ordinary characters may say sensory bleed; narration and records use the registered term.
 - Use **Crown Engine**, **False Season**, and **Quiet Break** consistently; do not introduce synonyms for them as new canon.
 - Keep the System interface in plain language. It may say “The branch is losing pressure” or “Return flow,” but it does not issue a quest, assign a rank, or declare a moral truth.
 

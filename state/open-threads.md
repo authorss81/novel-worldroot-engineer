@@ -11,7 +11,7 @@
 
 Set in `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md`. These are planned, not yet canon, until Chapters 1–10 are drafted.
 
-- **The eighteenth day is one deadline, not two.** The charter expiry and the Directorate hearing are the same date, so no extension is ever won by a deferral.
+- **The eighteenth day is one deadline, not two.** The charter expiry and the annual **inspection** are the same date, so no extension is ever won by a deferral. The deciding hearing comes later, in Chapters 46–48, and is not on the eighteenth.
 - **The fieldbook is a fragment:** front board, living root bead, and a handful of pages. The back board and most of Aldren's survey pages are gone, which is why every reading is fragmentary and why the Aldren thread cannot be resolved from Lantern Reach.
 - **Volume 01 delivers the target-pattern answer and no more:** what Marek reads is a work order written in advance, not a memory of a season that has not happened. Nobody in this volume names the Engine, the office, False Season, or Iona Vey.
 - **Two different pathhounds.** The weir animal in Chapter 9 is redirected by changing the dead flow, not commanded. The Fennmere-area animal in Chapters 23–25 settles on the dead flow and holds it, and is not a repetition of the first.
