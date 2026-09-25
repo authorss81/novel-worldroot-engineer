@@ -26,7 +26,15 @@ She read the whole of it back. Dunmar Fitch entered the page number. And nobody 
 
 Then she said the second thing.
 
-"Now sit down, Mr Tallow, because there is a bench in this room with your docket on it and a licensed engineer in the seed house, and you are the only person in Tarrow Fen who has ever handed anybody a piece of paper with a tool list on it. Say out loud, in front of four people, what a docket is, and I will write it down, and it will be in this book and in the other one on Tuesday when the clerk comes up to reconcile it."
+"Now sit down, Mr Tallow, because there is a bench in this room with your docket on it and a licensed engineer in the seed house, and you are the only person in Tarrow Fen who has ever handed anybody a piece of paper with a tool list on it. Say out loud, in front of four people, what a docket is, and I will write it down, and it will be in this book and in the other one on the twentieth, when the clerk comes up to reconcile it."
+
+And while she was writing, an old black-and-white collie with the left ear off came up the fen road and stopped in the gateway, and it did not come in, and it did not go away, and Joss Pyle's grandmother's dog is nine miles off in the low quarter and this one has no collar and no name in this yard.
+
+Gael Senn came and looked at it from the step for about a minute and then went back inside and wrote something in the cooperative's own book, with the hour on it, and read it back before anybody else had read it.
+
+"I am not writing anything about that animal," she said, "and I am writing down that I have decided not to, with my name on the decision and not the animal's on it, and the report of the sixth of this month about an old collie standing in the dead channel at the bottom of that quarter is in three places already and this is not going to be a fourth place with an opinion in it. If somebody wants to know what I would have written under it they can ask me in four years and by then I will have had a chance to find out whether I was right."
+
+Nobody asked her, and nobody went out to it, and it went back up the fen road at about eleven with its tail down.
 
 ---
 
@@ -46,44 +54,34 @@ The last page she reconciled was the return line of the fourteenth, with the twe
 
 ---
 
-The low quarter mapped its own line on the Sunday, and nobody in Tarrow Fen asked it to.
+The low quarter mapped its own line over the weekend, and nobody in Tarrow Fen asked it to.
 
 Corvin Slee had come up the road on the Saturday with four other men and a line chalk, because the district had sent a clerk up on the Friday with a form and a sum for clearing a drain, and the clerk had asked which drain, and Corvin Slee had said the one under the bottom row, and the clerk had written *the drain* on the form and taken it away, and nobody had come back.
 
-So four men walked the bottom row at the low quarter on the Sunday in the wet and chalked a line on every gatepost and every door step and every cellar wall where the iron had stood, at the height of the iron, which is a thing a man can do with a stick and a bucket of lime and no instrument at all, and it took them two days and it is on a piece of paper in Fennmere now and it is the only survey of that ground anybody has ever had.
+So four men walked the bottom row at the low quarter on the Saturday and the Sunday in the wet and chalked a line on every gatepost and every door step and every cellar wall where the iron had stood, at the height of the iron, which is a thing a man can do with a stick and a bucket of lime and no instrument at all, and it is on a piece of paper in Fennmere now and it is the only survey of that ground anybody has ever had.
 
-Marek heard about it on the Sunday evening from Corvin Slee himself at the gate and did not go, and said why, in one sentence, into the cooperative's book, with the hour on it, which is his habit:
+Marek heard about it on the Sunday evening from Corvin Slee himself at the gate and did not go, and put why into the cooperative's own book, with the hour on it:
 
 *The line of the standing water in the low quarter of Fennmere was walked and chalked by the people who live in it, on the nineteenth and twentieth days of this month, at their own hand and at their own cost, on no instrument but a stick and a bucket of lime. It is not this body's work and it was not this body's suggestion and nobody in this yard is going to walk it. The report of the sixth of the month concerning an old collie standing in the dead channel at the bottom of that quarter is entered in the standing pressure log and is in the certified copy and is in the copy that went to the March road, and nothing has ever been written underneath it, and nothing is going to be written underneath it now, and I would like somebody in six months to notice that and not to know what I would have written.*
 
 ---
 
-Nia Vale came up the fen road on the morning of the nineteenth on the bench of a hired cart with four bundles of paper under a tarpaulin and no seed in it at all, and she came into the seed house and put the bundles down and said, before anybody asked her anything:
+The letter came back on the nineteenth, and it did not come back by cart.
 
-"The fen road was under at the second gate for three days and the March road went on the sixteenth, and the counting house at Cray put four people and a barrow in a barn for two nights and then decided that the only sensible thing to do with a cart and a set of records was to send the cart back up the fen road before the road closed, and to send it with me, because I am the only person in this business who has ever read all of it.
+Anneke Roos put it on the seed house table herself, face down, and it was sealed, and it was addressed to K. Rusk, Fennmere pump house, and it was the letter that had gone out of this building on the twentieth day of last month on the twenty-second line of a list, in a column headed *who is standing there when it goes*, with a clerk's and a seed house's name in the two columns beside it and neither of them knowing that the woman who wrote the list was the one who had carried it.
 
-"That is the reason I am here. Write it down like that, in those words, because there are going to be three people in this room who would prefer a better one."
+"It came back this morning," she said. "It came back into this yard by hand and the person who brought it has gone on up the road and did not stop, and she is not in this building and I am not going to ask anybody to go after her.
 
-Then she put her bag down against the table leg and said, "And there is one more thing and it is mine and it is not the counting house's, and I have had it in a cart for thirty days and I have thought about it every morning since and I have not decided anything, and I would like to do that now while you are all looking at me."
+"And here is what goes in the book, in my hand, and Marek can stop me and he is not going to stop me, because a cooperative that wrote to its contractor and did not send the letter is a fact about this cooperative and it is going to be in a room on the twenty-first whether it is in a book or not. The letter was written on the twentieth day of last month. The list was made out. The letter was not delivered, and it has come back unopened, and the reason it was not delivered is hers and not mine and she has not given it to me and I am not writing down a thing I was not told.
 
-She took it out of her coat. It was sealed, and it was addressed to K. Rusk, Fennmere pump house, and it was the letter that had gone out of this building on the twentieth day of last month on the twenty-second line of a list, in a column headed *who is standing there when it goes*, with her name in it and her mother's name in the witness column.
+"And the part that is ours goes in. This body built a list, and put a line on it, and put a name against the line, and sent a woman out with a sealed letter in her coat, and did not ask her afterwards whether she had done it, because the answer was easier not to have. That is a fact about this yard and it is a fact about me, because I countersigned it, and I would like it in the book in my own hand on the nineteenth of this month rather than on a wall in Fennmere on the twenty-first, where a stranger would be able to say it in a nicer voice than I have said it in."
 
-"I did not give it to him," said Nia Vale. "I gave it to him on the twenty-second day of last month, which was the day the low quarter's first well went off, and I rode out to his gate at about eleven in the morning with the whole list in my book and I was going to hand it over because it was on the list and things that are on a list get done.
+She read it back. She signed it. And the letter went into the open drawer of the seed house table with the levy papers and the rent book, and it stayed sealed, and it was not opened by anybody in that building, and nobody wrote the word *undelivered* in a hand that could be mistaken for a clerk's.
 
-"And there was a district man in his yard with a satchel. Not a crew. A man with a satchel and a form, and he was asking Mr Rusk about a docket, and Mr Rusk was answering him in a voice I had not heard him use, and I stood in the road for about eleven minutes with the letter in my hand and then I turned the cart round and went to Cray.
+Marek did not touch it then or afterwards. What he said about it, at about the fourth hour of the afternoon, into the cooperative's own book, was one sentence, and the sentence was about himself and not about her: *There is a letter in this building that this body wrote and did not send, and it came back unopened, and I have not asked anybody where it went or how long it was in a cart, and I am not going to. If a man in a room on the twenty-first asks me about it I will tell him it was not delivered, and that is the whole of what I know.*
 
-"And I have thought about it every morning since and I want to say the true thing about it, and the true thing is that I did not decide not to give it to him. I did not decide anything at all. I decided every morning not to have decided, and on the thirtieth day of last month I got in that cart with the letter still in it, and I have been in three counting houses since and I have not opened it and it is not mine.
+The man who was to be asked about it had stood at that gate in a coat two days earlier and put his own log on a bench in the mud, and had not asked about it, and could not have known, because nobody in that yard had told anybody there was a sealed letter in an open drawer.
 
-"You can have it back," she said, and put it on the table, and did not push it towards him.
+---
 
-Marek did not touch it for about a minute.
-
-"You went eleven miles on the second day of the month," he said, "with a notice in your coat for a man who is sixty-one, and then you went eleven miles the other way with a letter in your hand and did not give it to him, and you have been in a cart for a month."
-
-"I have been in a cart for a month."
-
-"That is going in the book," said Anneke Roos, "and I am putting in that the letter was not delivered, and that it was returned by hand on the nineteenth day of this month by the person who carried it, and that the reason is hers and she has given it and I am not writing it down because she did not give it to me. And I am going to say what I am going to say, and Marek can stop me and he is not going to stop me, because a cooperative that wrote to its contractor and did not send the letter is a fact about this cooperative and it is going to be in a room on Tuesday whether it is in a book or not, and I would rather it were in a book, in my hand, with the hour on it, than in his."
-
-She wrote it. She read it back. She signed it.
-
-And then the clerk's business of the day, which was four bundles of paper on a table and four lines back from a counting house that had read a seed annex, and a bed which Tova Reed measured twice with a soil iron on the twentieth and which read three and a half degrees, the same as it read on the fourteenth and the same as it read on the first of the month, and which she entered in the annex against the trust's interest for the second time in a month, and beside the figure she entered the hundredweight, because twenty-one hundredweight and a quarter is worth about a tenth of a degree and a soil iron cannot read a tenth of a degree, and a compost return is a number of hundredweight and not a number of degrees, and the first of every month somebody in this building is going to have to write the hundredweight down.
+And then the clerk's business of the day, which was a bed which Tova Reed measured twice with a soil iron on the twentieth and which read three and a half degrees, the same as it read on the fourteenth and the same as it read on the first of the month, and which she entered in the annex against the trust's interest for the second time in a month, and beside the figure she entered the hundredweight, because twenty-one hundredweight and a quarter is worth about a tenth of a degree and a soil iron cannot read a tenth of a degree, and a compost return is a number of hundredweight and not a number of degrees, and the first of every month somebody in this building is going to have to write the hundredweight down.

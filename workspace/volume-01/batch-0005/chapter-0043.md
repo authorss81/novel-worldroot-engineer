@@ -4,7 +4,7 @@
 
 The rain stopped about two in the afternoon on the Sunday, the thirteenth of the month, and the whole fen went quiet in a way that had fooled Marek exactly once before, and he got up twice in the night and went out to the ditch head and found the same water in the same place and came back in.
 
-Sera Quill was on the boards over the pit at the fourth hour of the Monday morning with a lamp on the hook and her own rule in her hand and Marek on the ladder, which is where he stands.
+She had been in this yard since the eleventh of the month and was on the boards over the pit at the seventh hour of the Monday morning, in daylight, with her own rule in her hand and Marek on the ladder, which is where he stands. She had said on the eleventh that she would take a thing like this in a yard and not in a doorway, and a quarter past seven was as light as that yard was going to get, and she took the whole of it in eleven minutes.
 
 "Lift the sacking," she said. "Do not touch the seal. Do not put your thumb in it. Lift it and put the lamp in the gap and tell me what you can see and nothing else."
 
@@ -26,9 +26,9 @@ He got the other rule, and she measured twice, and it was half an inch and a six
 
 "I have called that corner a weep for nine weeks and I have measured it twice with two rules on three occasions and I have entered the figure in your own book every time, and I have said in this pit and in a book and on a certificate that it is not a leak at the load stated. All of that is still true and none of it is what is in front of me now.
 
-"A weep is water coming out. That is water going in. And the reason the pit has not risen is the second law and I taught it to this yard in the fourteenth week of last month and only two people in this building have ever written it down, and I am going to say it out loud to a man on a ladder at seven in the morning in a flood because somebody in this fen has to say it out loud.
+"A weep is water coming out. That is water going in. And the reason the pit has not risen is the second law, which is a law about a seal and not a law about water, and which I have said out loud four times in this building and only two people in it have ever written it down, and I am going to say it a fifth time to a man on a ladder at seven in the morning with the light still on the water, because somebody in this fen has to say it out loud.
 
-"A leak under sacking at full draw goes into the housing and not into the pit. That is what the housing is for. That is the only job the housing has ever had. And it is doing that job, at this moment, on the load, and the pit is dry because the casting is holding, and the casting is the only thing between this node and four feet of iron water, and I cannot see inside it, and there is no licensed person in this district who can, and nobody in this office has ever kept a record of when it was cast."
+"A leak under sacking at full draw goes into the housing and not into the pit. That is what the housing is for. That is the only job the housing has ever had. And it is doing that job, at this moment, on the load, and the pit has four feet of iron water in it and it is not up a quarter of an inch, because the casting is holding, and the casting is the only thing between this node and four feet of iron water, and I cannot see inside it, and there is no licensed person in this district who can, and nobody in this office has ever kept a record of when it was cast."
 
 Gael Senn was on the ladder below him with the log open on her knee and she wrote it as it was said and read it back before she came up.
 
@@ -76,7 +76,7 @@ It came in the middle of the Monday afternoon on foot, in the rain, and it was C
 
 "I have got four inches of iron on my own floor and up my wall to the height of my chest, and it is not from a well, and I am not going to stand in a seed house and tell you which pipe it came out of, because then it is a thing that is in a book, and I have a granddaughter who drinks water."
 
-Anneke Roos wrote the figure and the hour and read it back and wrote nothing underneath it, and added a line of her own with her initials on it and not her name, which is her habit and has been since the fourteenth day of last month: *A thing reported. No cause entered. The licensed person present column says S. Quill for the entry above and is not evidence for this one.*
+Anneke Roos wrote the figure and the hour and read it back and wrote nothing underneath it, and added a line of her own with her initials on it and not her name, as she has done since the fourteenth day of last month: *A thing reported. No cause entered. The licensed person present column says S. Quill for the entry above and is not evidence for this one.*
 
 Then Marek did the arithmetic on the seed house table with a pencil in his wet hand, and it took four minutes, and there were six people watching him do it.
 
@@ -88,7 +88,7 @@ Then Marek did the arithmetic on the seed house table with a pencil in his wet h
 
 The second levy was taken at nine o'clock on the Monday night with the lamp in and the rain still going, and it went faster than the first and worse, and Dunmar Fitch entered the whole of it in the columns and read it back at ten.
 
-Sixteen households. Fourteen signatures, the same fourteen, and the two who did not sign last month did not sign this month and their names are not recorded because the paper forbade it. The four who put nothing in last time put something in. Hesk's daughter put in a shilling again and did not write anything under it this time. The two who signed only so as not to be the ones who had not signed again signed first.
+Sixteen households. Fourteen signatures, the same fourteen, and the two who did not sign last month did not sign this month and their names are not recorded because the paper forbade it. The two who put nothing in last time put nothing in this time, and nobody in that room found that surprising, and the woman with the shilling put the shilling in again and wrote the same three words under it in the same hand, and the two who signed only so as not to be the ones who had not signed again signed first.
 
 "Four pounds five," said Dunmar Fitch, and then read the figure back a second time, because it is the figure.
 

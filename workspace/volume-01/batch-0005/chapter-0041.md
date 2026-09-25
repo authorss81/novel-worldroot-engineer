@@ -12,7 +12,7 @@ The gauge was where it had been since the twenty-first of last month: a length o
 
 "Then read it and write it down."
 
-Gael Senn got the lamp onto the mark and held it there while Jonas Byre crouched, and the three of them stood about eleven seconds looking at a thing that had been in a ditch for twenty-one days.
+Gael Senn got the lamp onto the mark and held it there while Jonas Byre crouched, and the three of them stood about eleven seconds looking at a thing that had been in a ditch for twenty days.
 
 "A quarter inch," said Jonas Byre. "Just under a quarter. Call it three-sixteenths and be honest about the light."
 
@@ -120,4 +120,4 @@ Marek wrote the count down and did not improve it, and Lissa Vale entered the pa
 
 At the gate, in the last of the light, the west had gone the colour of a wet slate and the barometer had gone down another tenth, and Marek stood at the low corner of the south embankment and looked at nine hundred yards of willow and grey elder with a hundred and six feet missing out of the middle of it because Ilsa Kern had cut it for withy in a month in October and entered it in a book with the hour on it.
 
-Tomorrow the rain was due, three days of it, on the main drain, and the district had no instrument that would measure the low quarter nine miles down the fen and did not pretend to one, and the four men were walking down a peat road with a barrow of tools and would not be back, and the drain at the head of the field was already standing in its own water, and there was a number in a book for the first time in twenty-one days and no number at all to compare it with.
+Tomorrow the rain was due, three days of it, on the main drain, and the district had no instrument that would measure the low quarter nine miles down the fen and did not pretend to one, and the four men were walking down a peat road with a barrow of tools and would not be back, and the drain at the head of the field was already standing in its own water, and there was a number in a book for the first time in twenty days and no number at all to compare it with.

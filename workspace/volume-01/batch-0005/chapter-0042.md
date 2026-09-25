@@ -68,7 +68,7 @@ He wrote it in the book at the eighth hour with the hour on it and read it back,
 
 The burn's window shut at midnight and nobody signed anything and nobody refused anything, and Dunmar Fitch entered the fact at the ninth hour with the hour on it and did not editorialise on it, which was the single largest act of restraint of his working life and he said so himself in the working note.
 
-*The district's hazard measure of the third was to be executed between the sixth and the twelfth day of this month on a day of the district's choosing. The thirteenth is the thirteenth day and the measure has not been executed. The cooperative neither consented nor refused. The measure has lapsed by its own terms and no party is to be treated as having decided anything.*
+*The district's hazard measure of the third was to be executed between the sixth and the twelfth day of this month on a day of the district's choosing. The window was the sixth to the twelfth. It is now the thirteenth and the measure has not been executed. The cooperative neither consented nor refused. The measure has lapsed by its own terms and no party is to be treated as having decided anything.*
 
 Then, at nine o'clock, with the rain still going and the lamp in, Lissa Vale put the levy paper on the seed house table, because it was four weeks since the last one and it was a Saturday.
 
@@ -94,7 +94,7 @@ She put the sheet on the table flat.
 
 "What the trust buys is this. The reading goes to the district first and to you second. Not the other way round. And the March gets a copy and the annex carries a sum against it, and in four years the first row of the March's own line is thinner than it would have been by fourteen pounds ten, and I am going to write that down now, in my own hand, on the annex, where nine thousand people on a road who are not in this room can find it."
 
-It took two refusals and a vote and both refusals were correct, and Dunmar Fitch entered all three things with the hours on them and the order they were said in.
+It took two refusals and a vote, and the vote was five to three with the two who had spoken against it not voting at all, and both refusals were correct, and Dunmar Fitch entered all three things with the hours on them and the order they were said in.
 
 Anneke Roos went first and went to the shape of it rather than the money, which is what she does.
 

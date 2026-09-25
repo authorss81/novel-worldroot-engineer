@@ -4,15 +4,19 @@
 
 The hearing room at the Fennmere sub-office has four chairs on the district side of a table and eleven on the other, and on the morning of the twenty-first of the month there were six of them on the district side and ten on the other, and the sixth chair on the district side was empty all morning and it stayed empty, and nobody put anything in it.
 
-Hester Carrow came in with a bundle tied in tape and squared it to the edge of the table before she sat down, which Dunmar Fitch watched her do and understood.
+Hester Carrow came in at half past nine with a bundle tied in tape and squared it to the edge of the table before she sat down, which Dunmar Fitch watched her do and understood.
 
-"Four things on the file," she said. "The inspector's application to have the instrument taken into district custody. The applicant's representations in answer to a schedule of damage. The certificate of the twentieth day of last month, with three names on it. And a document dated the seventeenth of this month, with a licensed engineer's name at the foot of it and four records above it.
+"Five things on the file," she said. "The inspector's application to have the instrument taken into district custody. The applicant's representations in answer to a schedule of damage. The certificate of the twentieth day of last month, with three names on it. A document dated the seventeenth of this month, with a licensed engineer's name at the foot of it and four records above it. And an attested copy dated the eighteenth, with a private reader's name on it, which I have read twice, and which came into this office before the applicant's copy did, and which is in the file in the order the clerk received it and not in the order anybody would like.
+
+"And I am going to say the last of those plainly, because a room that has spent five weeks being told that a thing nobody can check is worth nothing has just been handed a document that somebody was paid fourteen pounds ten to disagree with, and the two of those are the same argument from opposite ends, and this officer is not going to pretend otherwise.
 
 "And one matter that is not on the file and is on the wall in front of me, which is sixty pounds ten shillings, payable in full since the forty-second of this month, and I am going to deal with it third and not last, because if I deal with it last it will look like a reward and it is not a reward, it is a debt, and a hearing that ends on a debt is a hearing that has decided the debt."
 
-She read back what she had written before she turned the register round, which she did not do once in the whole of the morning.
+She read back what she had written, and then she read back the order, and then she turned the register round, which she did not do once in the whole of the morning.
 
-"Order. The application. The representations. The instrument. The charter. The inspector reports and gives evidence and is not chairing this, and I am not the district, and there is a great deal in this room today that the district has not been told."
+"Order, as I wrote it at four this morning and not as the day will run: the application. The representations. The instrument. The charter. I am not going to stand in a room with the district's own inspector in it and pretend to know before ten o'clock what a morning is going to do, and if it runs out of order the register will show which of us was wrong.
+
+"The inspector reports and gives evidence and is not chairing this. I am not the district. And there is a great deal in this room today that the district has not been told."
 
 ---
 
@@ -33,6 +37,14 @@ Then Lissa Vale produced the fieldbook on a form, with the hour, the place, two 
 The use log went in with it, entire, copied in the clerk's square hand, read back to the custodian page by page, and minuted with the hour. And Lissa Vale read it, and it took nine minutes, and the room heard the first line and the two hours on the first line again because the hours are the whole of it and a room does not hear a number inside a sentence, and then heard the lateness of the first line declared by the woman who made it, entered on the eighth of this month before anybody had looked for it, and minuted in the same words and not in a summary.
 
 "She read that log to me in this room on the eighth of this month," said the officer, "and told me what was in it before I had to ask, and that is the only reason I could fix a date for this sitting with a file still arriving, and I would like it recorded that the applicant taught this office its own file."
+
+Then she did the thing that was not in anybody's script, which was to put two documents face up on the table at the same time and read from both of them without moving either.
+
+"Ms Quill's, of the seventeenth, and Mr Vane's, of the eighteenth. Same node. Four days apart. Two sets of instruments, both preserved, both travelling, and they do not agree, and where hers says the head is giving eleven hundred turns a day his says below it and does not give a figure that matches, and I am not going to sit here and decide between two licensed readers on a Monday morning, and neither is this district going to be able to decide between them without a form, and that is the situation I am going to minute.
+
+"What I am going to minute, in the reader's own words, because he put them there himself and he did not have to, is this. That on the fourth of this month, before he had read the node, he was told what the first reader had found. He has written that at the foot of his own attested copy, with the date of the telling, and he has written beside it that in his own judgement it makes his reading no better and no worse and that he would rather have it in the file than out of it. And that the applicant's copy was not shown to him first.
+
+"A room in which two men who were paid to be careful have both written down the thing that was done to their independence is a better room than one in which it was not done. That is not a ruling. It is a minute."
 
 ---
 
@@ -68,11 +80,11 @@ The representations took an hour and the schedule of damage took twenty minutes,
 
 "And I am not the district and I cannot bind the district and my authority over charters runs to the end of the year, and I have never once in four districts seen a year used as a reason to do less. So the sum is in the file, and the file stays open, and the clause stays live, and I am going to say the sentence that this cooperative has to hear and then put it in the minute.
 
-"The Directorate reserves the right to reopen this file on any new report. That is not a threat and it is not a condition and it is not going to be traded away in a room like this one. It is the actual shape of the thing you have been asking for, which is a node you can keep working on, and you cannot have that and have it closed at the same time, and anybody who tells you otherwise is selling you the second thing, which is what the second thing is for."
+"The Directorate reserves the right to reopen this file on any new report. That is not a threat and it is not a condition and it is not going to be traded away in a room like this one. It is the actual shape of the thing you have been asking for, which is a node you can keep working on, and you cannot have that and have it closed at the same time, and anybody who tells you otherwise is selling you the thing that is not on offer, which is what that thing is for."
 
 ---
 
-The charter was made at about two o'clock in the afternoon and it is four clauses long and it is not a victory, and everybody who signed it knew that, and Anneke Roos entered the whole of it in the cooperative's book that night with the hour on it and read it aloud at the seed house door at nine o'clock, which is her habit, so that anybody in a yard could stand and hear it.
+The charter was made at about two o'clock in the afternoon and it is four clauses long and it is not a victory, and everybody who signed it knew that, and Anneke Roos entered the whole of it in the cooperative's book that night with the hour on it and read it aloud at the seed house door at nine o'clock, so that anybody in a yard could stand and hear it.
 
 It is conditional, and it is for the season, and it expires at the end of the season without notice and without anything being said.
 
