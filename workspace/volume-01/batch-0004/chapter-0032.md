@@ -28,7 +28,7 @@ It was a single sheet, printed on one side, with a form number in the top corner
 
 *1. The Assembly reminds its licensed members that a graft requires a living anchor, a compatible path, and a return, and that where a return is not maintained, a graft is not maintained.*
 
-*2. Where a graft has been performed under the licence of a named engineer, and the return to that graft is not maintained, the question of the licence is a question for the Assembly, and is not a question for the engineer alone. A member who is unable to answer for the maintenance of a return entered against her licence will be liable to be dealt with under the standing of the Assembly.*
+*2. Where a graft has been performed under the license of a named engineer, and the return to that graft is not maintained, the question of the license is a question for the Assembly, and is not a question for the engineer alone. A member who is unable to answer for the maintenance of a return entered against her license will be liable to be dealt with under the standing of the Assembly.*
 
 *3. Members, bodies and persons are invited to report grafts performed by, or under the supervision of, unlicensed hands, to the district office, which will forward them.*
 
@@ -54,9 +54,9 @@ Nobody said anything for about a minute, and then four or five people said thing
 
 It is Tova Reed who found the thing that was actually in the sheet, and it took her about a minute and a half, and she found it standing on the annex step with her arms folded and not because she is clever but because she reads offers the way other people read weather.
 
-"Clause three," she said. "Report grafts performed by, or under the supervision of, unlicensed hands. Four unlicensed hands dug a ditch on the Sunday of last month under a named licensed engineer and it is in our book with four names and an hour on it, and a clause three in a printed sheet has just made those four names reportable, and every one of them is a member of a cooperative that has lost its charter.
+"Clause three," she said. "Report grafts performed by, or under the supervision of, unlicensed hands. Four unlicensed hands dug a ditch on the Sunday of last month under a named licensed engineer and it is in our book with four names and an hour on it, and a clause three in a printed sheet has just made those four names reportable, and every one of them is a member of a cooperative that has lost its charter."
 
-"And clause two does not say what happens to the graft. It does not say the run will be cut out. It does not say the field will be flooded and left. It does not say one single thing about the ditch, and it says in three lines what happens to the engineer.
+"And clause two does not say what happens to the graft. It does not say the run will be cut out. It does not say the field will be flooded and left. It does not say one single thing about the ditch, and it says in three lines what happens to the engineer."
 
 "So read the rest of it again and tell me what kind of paper that is."
 
@@ -64,7 +64,7 @@ It was quiet in the yard for a moment.
 
 "It is a paper about a person," said Marek.
 
-"It is a paper about a person who is not in it," said Tova Reed, "and about a body with no charter, and about four hands, and it is not a paper about the ditch, and I want everybody in this yard to be careful about that, because the whole of what is happening in this file is happening to the ditch and the only thing the circular threatens is a woman who signed a piece of paper that says the return is short. She wrote that herself. In her own hand, on purpose, at the head of a licence sheet this body has never filed anywhere, because the arithmetic and the licence are the same act."
+"It is a paper about a person who is not in it," said Tova Reed, "and about a body with no charter, and about four hands, and it is not a paper about the ditch, and I want everybody in this yard to be careful about that, because the whole of what is happening in this file is happening to the ditch and the only thing the circular threatens is a woman who signed a piece of paper that says the return is short. She wrote that herself. In her own hand, on purpose, at the head of a license sheet this body has never filed anywhere, because the arithmetic and the license are the same act."
 
 Nobody asked Marek about the man whose name was on it, and he noticed that they did not ask, and it went in the working notes at the third hour without a comment: *the subject of the circular has not been asked about by any member of this cooperative in four days. He is a signature. Nobody here has seen him. Nobody here has asked to.*
 
@@ -76,9 +76,9 @@ Lissa Vale asked the question that turned out to be the real one, and she asked 
 
 Nobody had an answer, and the answer came from Dunmar Fitch, who had been thinking about it since two o'clock and had clearly been waiting for somebody with standing to ask.
 
-"It has got none," he said. "A box at the Fennmere post was paid for out of the charter and the charter went at midnight on the eighteenth, and the box is either shut or it is somebody else's. The Assembly's rule is that a reply is *received from a member or from a body*, and a body has to be a body. A cooperative without a charter is not a body before the district. It is a set of people in a yard.
+"It has got none," he said. "A box at the Fennmere post was paid for out of the charter and the charter went at midnight on the eighteenth, and the box is either shut or it is somebody else's. The Assembly's rule is that a reply is *received from a member or from a body*, and a body has to be a body. A cooperative without a charter is not a body before the district. It is a set of people in a yard."
 
-"And a reply from a set of people in a yard, in no hand but the clerk's, on seed-house paper, with no seal — that is not a reply. It is a piece of paper that a man in an office will read and be able to say, and he will be right to say it, that no licensed member of the Assembly has answered and no body of recognised standing has replied, and he will file that. And the circular will stand in the file unanswered, which is the worst place for a document, because a thing nobody has answered is a thing nobody has contradicted, and in six weeks a hearing officer reads a file with a notice in it and nobody's answer to it and he does the arithmetic himself."
+"And a reply from a set of people in a yard, in no hand but the clerk's, on seed-house paper, with no seal — that is not a reply. It is a piece of paper that a man in an office will read and be able to say, and he will be right to say it, that no licensed member of the Assembly has answered and no body of recognized standing has replied, and he will file that. And the circular will stand in the file unanswered, which is the worst place for a document, because a thing nobody has answered is a thing nobody has contradicted, and in six weeks a hearing officer reads a file with a notice in it and nobody's answer to it and he does the arithmetic himself."
 
 "So we do not answer," said Ilsa Kern.
 
@@ -88,13 +88,13 @@ Nobody had an answer, and the answer came from Dunmar Fitch, who had been thinki
 
 Marek made the call at five, on the well house bench, with the log open, and he made it the way he made everything, by saying the reasons first and the decision last and reading the whole of it back out loud afterwards.
 
-"Three things," he said. "One: the circular is correct about the graft and correct about the return and it is the third time in six weeks that somebody has told us the same thing in a different hand, and every one of the three was right.
+"Three things," he said. "One: the circular is correct about the graft and correct about the return and it is the third time in six weeks that somebody has told us the same thing in a different hand, and every one of the three was right."
 
-"Two: clause two is about a person and not about a work, and if this cooperative does nothing, then in a fortnight a professional body in another district has a notice in a file that was never contradicted, and the woman whose name is on it is the only person in this fen who can read a node.
+"Two: clause two is about a person and not about a work, and if this cooperative does nothing, then in a fortnight a professional body in another district has a notice in a file that was never contradicted, and the woman whose name is on it is the only person in this fen who can read a node."
 
-"Three: we cannot send them a reply that they have to treat as a reply. So we are going to send them a page. From the seed house, on seed-house paper, in the clerk's hand, unsigned, with the whole of the arithmetic on it, including the three hundred and ninety-nine hundredweight, and including the fact that the licence sheet is a single page in our own book and has never been filed anywhere, and including the month, the day and the hour that a woman put the shortfall in her own hand and said out loud that she was not going to pretend.
+"Three: we cannot send them a reply that they have to treat as a reply. So we are going to send them a page. From the seed house, on seed-house paper, in the clerk's hand, unsigned, with the whole of the arithmetic on it, including the three hundred and ninety-nine hundredweight, and including the fact that the license sheet is a single page in our own book and has never been filed anywhere, and including the month, the day and the hour that a woman put the shortfall in her own hand and said out loud that she was not going to pretend."
 
-"They may treat it as nothing. I expect they will. And I want it to go anyway, because on the thirtieth of last month we entered a thing in our own book that says everything we know is a rumour with a witness in it, and the reason we did that is that a thing that is entered can be denied but not lost, and this page is that page going out of the building for the first time in six weeks. If it is filed, it is a document. If it is not filed, it is in a basket in another office, and a basket is a thing that burns."
+"They may treat it as nothing. I expect they will. And I want it to go anyway, because on the thirtieth of last month we entered a thing in our own book that says everything we know is a rumor with a witness in it, and the reason we did that is that a thing that is entered can be denied but not lost, and this page is that page going out of the building for the first time in six weeks. If it is filed, it is a document. If it is not filed, it is in a basket in another office, and a basket is a thing that burns."
 
 He read the decision back. Dunmar Fitch wrote it at the fifth hour and twenty minutes with the hour on it, and entered that it was made by the engineer of record and by nobody else, and read it back, and nobody initialled it because it was not an opinion.
 

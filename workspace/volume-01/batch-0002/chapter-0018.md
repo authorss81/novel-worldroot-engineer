@@ -62,7 +62,7 @@ Nia Vale had the book and the columns, because Nia Vale had been the only person
 
 Eight lines, and then the ninth, which was the trust's own material — a sealed tin of the March's last two hundredweight of the same line, which was a fifth of what the March had, and which Tova was taking back, and which Lissa Vale said was not a fifth of anything and put her hand flat on the tin.
 
-"That tin came in on the first day of this season on a wagon with a broken axle," Lissa said. "It has been in my north annex since the second of this month, under three dead trays, and if it goes down the road to Cray on a hired cart on Friday it goes in a basket with a strap over it, and I will not put it on a hired cart, and I do not care what the trust's paper says about carriage."
+"That tin came in on the first day of this season on a wagon with a broken axle," Lissa said. "It has been in my north annex since the second, under three dead trays, and if it goes down the road to Cray on a hired cart on Friday it goes in a basket with a strap over it, and I will not put it on a hired cart, and I do not care what the trust's paper says about carriage."
 
 "The trust's paper says nothing about carriage," said Tova Reed, "because I wrote it."
 
@@ -76,7 +76,7 @@ And then Tova Reed put her hand on the bench and named the condition, out loud, 
 
 "Put it in the book," said Tova Reed, "and put the tin in the press, and put the March's copy in Cray on Friday in the same cart as my steward's trunk, and do not tell me the March can manage the carriage, because it cannot, and I have done the arithmetic twice."
 
-Marek signed, because the person who accepts a condition for a cooperative is the engineer of record and it had been his signature that broke the vault's veto on the third of the month, and Lissa signed as seed steward, and Tova signed for the trust, and Nia entered eight lines and a ninth with a witness against every one, and the ninth line's witness was Nia herself and her own name had to be in it, which she said was a rule she had invented and was not giving up.
+Marek signed, because the person who accepts a condition for a cooperative is the engineer of record and it had been his signature that broke the vault's veto on the third, and Lissa signed as seed steward, and Tova signed for the trust, and Nia entered eight lines and a ninth with a witness against every one, and the ninth line's witness was Nia herself and her own name had to be in it, which she said was a rule she had invented and was not giving up.
 
 ---
 

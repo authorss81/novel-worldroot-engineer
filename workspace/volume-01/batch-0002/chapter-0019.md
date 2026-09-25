@@ -42,7 +42,7 @@ Then Lissa Vale got up, and went to the press, and lifted the ledger and the oil
 
 "Yes."
 
-"I said no twice before I said yes and I am not going to apologise for the two, and I want you to sit with the fact that the first two were the right answer to what you asked and the third was the right answer to what you meant, and that you did not say what you meant until I made you."
+"I said no twice before I said yes and I am not going to apologize for the two, and I want you to sit with the fact that the first two were the right answer to what you asked and the third was the right answer to what you meant, and that you did not say what you meant until I made you."
 
 ---
 
@@ -92,9 +92,9 @@ At seven hundred and twenty, which they held from the half hour after ten, the h
 
 At nine hundred the head went soft and the pitch changed and the water in the pit came up a quarter of an inch and stood there.
 
-At eleven hundred, which was reached at about twenty past eleven, the whole four-foot frame of the well house went tight, and the pump laboured, and Marek had his hand on Ilsa Kern's arm because the frame was humming in a way the frame had not hummed before, and he wrote down *frame humming at full draw, from about nine hundred and fifty* and *no audible change at the wound*.
+At eleven hundred, which was reached at about twenty past eleven, the whole four-foot frame of the well house went tight, and the pump labored, and Marek had his hand on Ilsa Kern's arm because the frame was humming in a way the frame had not hummed before, and he wrote down *frame humming at full draw, from about nine hundred and fifty* and *no audible change at the wound*.
 
-And the beat came up about ten minutes into the full draw, with eleven hundred held and the pump labouring.
+And the beat came up about ten minutes into the full draw, with eleven hundred held and the pump laboring.
 
 It came up through the boards and through the soles of everybody standing on them, one about every four seconds, and this time it was in runs of seven and eight, and it was in the frame and it was in the housing and it came up through the pit water. Gael Senn counted it and put the count in the log and did not give it a name, because the one name in this business is *pressure pulse* and that is the licensed word for it and it is a finding, and a lamp-keeper was not going to enter a finding. The licensed engineer wrote the times and the counts and the words *cause not established* underneath, and initialled it, and that is the only reason the sentence exists anywhere in the world.
 
@@ -112,15 +112,15 @@ She did not touch the seal. She lifted the corner of the cloth and held the lamp
 
 Then she did the other thing, and she did it in the open pit with the pump running at full draw and five people in a yard, and she did not do it because she wanted to.
 
-She opened the fieldbook to the last page, and read out the line of figures and the column head and the figure and the year, in a voice with nothing in it, and then she read Finding 2 and Finding 3 out of the nine pages in her own case, in her own hand, taken from the operator by dictation on the eighth of the month, and then she read the thing about a shaft and a lamp and a pair of hands.
+She opened the fieldbook to the last page, and read out the line of figures and the column head and the figure and the year, in a voice with nothing in it, and then she read Finding 2 and Finding 3 out of the nine pages in her own case, in her own hand, taken from the operator by dictation on the eighth, and then she read the thing about a shaft and a lamp and a pair of hands.
 
-"That is what the book said on the eighth, and it is on the district's record, and Mr Vale read it out in a seed house in front of thirty people and told them it was the least reliable thing anybody had said that day." She turned the book round so that the page faced up in the light. "Now I am going to tell you what it says today, at the same seam, at full draw, on the twentieth, and I am going to read it out because five people have to hear it, and I am not going to write it down as a finding, because it is not a finding. It is four seconds and it is mine this time, and I have had four hundred of them, and I have never once written one down for anybody else. And I am going to say the thing about it first, because somebody will notice it in about a year and I would rather they heard it from me.
+"That is what the book said on the eighth, and it is on the district's record, and Mr Vale read it out in a seed house in front of thirty people and told them it was the least reliable thing anybody had said that day." She turned the book round so that the page faced up in the light. "Now I am going to tell you what it says today, at the same seam, at full draw, on the twentieth, and I am going to read it out because five people have to hear it, and I am not going to write it down as a finding, because it is not a finding. It is four seconds and it is mine this time, and I have had four hundred of them, and I have never once written one down for anybody else. And I am going to say the thing about it first, because somebody will notice it in about a year and I would rather they heard it from me."
 
 "On the eighth it gave a man a sequence of working actions on a well. Valve, hand, wait, valve, lamp, valve. That is maintenance. That is somebody doing a job to a machine on a schedule, and the shaft and the lamp and his father's hands were not in it, they were in him, and I have told him so twice and I will tell him so again if he asks. Today, at the same book, on the same node, at eleven hundred turns, it gave a working sequence with no well in it at all. No shaft, no lamp, no hands, and nothing in the order that belongs to anything above ground."
 
 She stopped and waited until somebody asked, and Anneke Roos asked, because Anneke Roos understood what a silence at a well head is for.
 
-"Cut," Sera Quill said. "Wait. Cut. And I recognised the order before I had finished it, and I recognised it because I have been reading about the Weir Row branch for three days, and that is the order that branch is in, and the wood has had it done to it twice."
+"Cut," Sera Quill said. "Wait. Cut. And I recognized the order before I had finished it, and I recognized it because I have been reading about the Weir Row branch for three days, and that is the order that branch is in, and the wood has had it done to it twice."
 
 "That is the finding I am not writing down," she said, and closed two fingers on the page. "Not that it means anything. That a fieldbook reads what a node has recently had done to it, and that on the eighth the node had recently had maintenance done to it, and today the node has recently had something else, and I cannot tell you what the something else is, and I am not going to, because I have been asked twice already this month to say where I saw the shape of this and what it is, and I refused twice, and I am refusing a third time this morning, in a yard, with a book open on my knees, and the third refusal is the same two refusals and I would like all three entered."
 

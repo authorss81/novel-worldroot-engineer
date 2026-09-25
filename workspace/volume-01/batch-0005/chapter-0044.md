@@ -16,7 +16,7 @@ Ilsa Kern was on the low corner at eight and she had been on it since the twelft
 
 He left at nine with fourteen pounds ten in a sealed envelope in his coat and a cart and one man, and the causeway below Weir Row was under, and had been since the Monday night, which meant the last two miles on foot in a wind that had come round to the west-north-west and was not a gale and was going to be a gale.
 
-Idris Vane's door was open and the kettle was going and there was a lamp on the table that had not been lit on the last visit, and the fieldbook with the grey boards and the stiff strap was on the table where it had been on the fourth of the month, in the same place, and it was not moved and it was not mentioned and neither of them looked at it.
+Idris Vane's door was open and the kettle was going and there was a lamp on the table that had not been lit on the last visit, and the fieldbook with the gray boards and the stiff strap was on the table where it had been on the fourth of the month, in the same place, and it was not moved and it was not mentioned and neither of them looked at it.
 
 "Sit down," said Vane. "You are wet and you have come in a flood and you have not come to tell me about the weather."
 
@@ -54,7 +54,7 @@ Vane did not touch the envelope for about four seconds.
 
 "Then I will read the node," said Idris Vane. "On the eighteenth, which is the fourteenth day, and it is a day, and I do not do it in a day, and I have not moved my rate in four years and I am not moving it now because a fen is under water and my roof is not."
 
-"And I am going to tell you the thing I have been not telling you since the fourth, and I have been not telling it because you did not ask and because a man who has come eleven miles twice is not a man who wants a favour."
+"And I am going to tell you the thing I have been not telling you since the fourth, and I have been not telling it because you did not ask and because a man who has come eleven miles twice is not a man who wants a favor."
 
 "I do not do this for a creditor. I have turned down four bodies in this district in nine years that could pay me, and I turned down all four of them for the same reason, which is that a person who buys a second opinion and then decides what it was going to say before it was said has not bought a second opinion, they have bought a signature, and I have signed enough of those in my life to know what they are worth, and I have just spent a paragraph telling you that you are one of them."
 
@@ -72,7 +72,7 @@ Marek stood up in a wet coat in a small kitchen eleven miles from a fen.
 
 "What happens if your reading does not agree with hers."
 
-"Then the district has two licensed readers who do not agree, on the same node, on two dates, with both instruments preserved and both sets of figures travelling," said Idris Vane, "and that is not a worse thing for anybody than a rumour with a witness in it, and it is a great deal better than a cooperative with one licensed reader and a bill of sixty pounds ten, and I would like you to go home and remember that I said that to you before I had read anything, and not afterwards."
+"Then the district has two licensed readers who do not agree, on the same node, on two dates, with both instruments preserved and both sets of figures traveling," said Idris Vane, "and that is not a worse thing for anybody than a rumor with a witness in it, and it is a great deal better than a cooperative with one licensed reader and a bill of sixty pounds ten, and I would like you to go home and remember that I said that to you before I had read anything, and not afterwards."
 
 ---
 

@@ -58,9 +58,9 @@ Inspector Ansel Bray came out of the back room at noon with a satchel and a coat
 
 He put the satchel on the counter.
 
-"Three things, and I have said them at the front of every room I have been in since the tenth of last month, and I am not going to stop saying them because a file has got longer.
+"Three things, and I have said them at the front of every room I have been in since the tenth of last month, and I am not going to stop saying them because a file has got longer."
 
-"If I find unregistered maintenance on a non-scheduled branch, I may seal the head, take the seed stock into district custody, or refer for relocation. I am not sealing the head. I am not taking the seed stock. I have no immediate-risk finding and it has not been disturbed, and the reason it has not been disturbed is on this same counter in your own book, which says *nothing found* on the twenty-first in a lamp-keeper's hand, and I have read it twice.
+"If I find unregistered maintenance on a non-scheduled branch, I may seal the head, take the seed stock into district custody, or refer for relocation. I am not sealing the head. I am not taking the seed stock. I have no immediate-risk finding and it has not been disturbed, and the reason it has not been disturbed is on this same counter in your own book, which says *nothing found* on the twenty-first in a lamp-keeper's hand, and I have read it twice."
 
 "The emergency clause is not spent and it is not extinguished. I said that on the eighteenth with a bailiff's hour in my head and I am saying it now without one. It is open, and it is open because of a report taken over that counter on the twenty-fourth from a man called Slee, and I did not take that report and I would not have taken it if I had been on the counter, and I have told Perrin Osse so and she has written it down."
 
@@ -78,23 +78,23 @@ He looked up.
 
 He read the second.
 
-"*Twenty-second day, seventh hour. A local conduit, thirty-one yards, of the character called a local conduit, cut from the return main above the eleventh rod, and let into the outer field's own root line, with four willow sets, and no other capacity, on the twenty-second, under the licence of S. Quill.* And then, four lines under that, in the same hand, *The new run is fed from below.*"
+"*Twenty-second day, seventh hour. A local conduit, thirty-one yards, of the character called a local conduit, cut from the return main above the eleventh rod, and let into the outer field's own root line, with four willow sets, and no other capacity, on the twenty-second, under the license of S. Quill.* And then, four lines under that, in the same hand, *The new run is fed from below.*"
 
-"That is twice," said Bray. "In your own book, at two different hours, by two different people, one of whom is a licensed engineer and one of whom is you, and neither of you has ever said what *below* is, and a district officer is going to read those two lines together out loud in front of a hearing officer and he is going to ask what is below, and Mr Vale, on the twenty-seventh of this month, this cooperative was two hundred yards from a Crown work party and did not say."
+"That is twice," said Bray. "In your own book, at two different hours, by two different people, one of whom is a licensed engineer and one of whom is you, and neither of you has ever said what *below* is, and a district officer is going to read those two lines together out loud in front of a hearing officer and he is going to ask what is below, and Mr Vale, on the twenty-seventh, this cooperative was two hundred yards from a Crown work party and did not say."
 
 He read the third, and he read it slowly.
 
-"*Twenty-second day, fourth hour, licensed, S. Quill.* Return: labour, recorded. Compost into the return main, one hundredweight, the twenty-first, G. Senn. Against a specified four hundred hundredweight a month at the load this node is being asked to carry. Shortfall: three hundred and ninety-nine hundredweight a month."
+"*Twenty-second day, fourth hour, licensed, S. Quill.* Return: labor, recorded. Compost into the return main, one hundredweight, the twenty-first, G. Senn. Against a specified four hundred hundredweight a month at the load this node is being asked to carry. Shortfall: three hundred and ninety-nine hundredweight a month."
 
 He squared the sheet.
 
-"That is the one that finishes you and I am going to tell you why, because you have had a month to be told things and I am the last one anybody is going to be kind to for a while.
+"That is the one that finishes you and I am going to tell you why, because you have had a month to be told things and I am the last one anybody is going to be kind to for a while."
 
 "You have documented, in a licensed engineer's hand, at the hour, on the day, that the return on the node you were working is three hundred and ninety-nine hundredweight a month short. That is not a thing a man says in a room. That is a thing a body says when it knows what it is doing and wants it on the record. A cooperative that did not know what it was doing does not write that down. Mr Fitch's filing of the seventeenth says *cause of the shortfall not established*, and this says the shortfall. You have now established the shortfall, in your own words, on a day of your own choosing, and I am obliged to carry it and I am going to, and I would like you to understand that I would rather not."
 
 He closed the satchel.
 
-"I have no advice for you. I am not permitted to give you advice on this file and I would not give it to you if I were, because the advice would be worth exactly nothing in a room in six weeks and you would have had it for free and you would not have earned it.
+"I have no advice for you. I am not permitted to give you advice on this file and I would not give it to you if I were, because the advice would be worth exactly nothing in a room in six weeks and you would have had it for free and you would not have earned it."
 
 "What I will do is tell you the one thing that is in my gift. You have eleven working days to file representations. The form is two sheets and a box. Put the date on it and the hour. Do not put anything in it you cannot stand behind at the second reading, and do not put in it a thing that you have had to go and look up, because they read it in a cold room and they will ask you a second time."
 
@@ -114,11 +114,11 @@ He read it back to Perrin Osse, and she wrote the hour of it in her register, an
 
 Then she said, with the pen squared and the register closed:
 
-"Mr Vale. You came in on the seventeenth and you were told that you may not keep the schedule, and that any line you write of it is yours and a clerk can find, and that Mr Fitch would carry the number and find it himself the first time anybody came looking.
+"Mr Vale. You came in on the seventeenth and you were told that you may not keep the schedule, and that any line you write of it is yours and a clerk can find, and that Mr Fitch would carry the number and find it himself the first time anybody came looking."
 
-"I am going to say one thing to you at a counter and not in a register, and I will deny that I said it if anybody asks me, and I would like that understood before I start.
+"I am going to say one thing to you at a counter and not in a register, and I will deny that I said it if anybody asks me, and I would like that understood before I start."
 
-"The district will not produce that schedule. Not to you, not to a hearing officer, not on the twenty-ninth or the fortieth. It is not a privilege and it is not concealment and I will not be insulted if you call it concealment, and I have written that sentence in the register on the day I said it, and it is the only sentence I have written in that register in twenty-two years that is not a fact about a form.
+"The district will not produce that schedule. Not to you, not to a hearing officer, not on the twenty-ninth or the fortieth. It is not a privilege and it is not concealment and I will not be insulted if you call it concealment, and I have written that sentence in the register on the day I said it, and it is the only sentence I have written in that register in twenty-two years that is not a fact about a form."
 
 "The reason is this. That table has a column in it that says whether the work is Crown-held, and the branch at Weir Row is Crown-held, and if the district produces a table which shows that the branch which stopped the water reaching forty-one houses was cut on Crown money on a Crown order on a Crown date, then it is not a schedule any more, it is an admission, and the district does not make admissions to bodies that hold no charter. It would not do it for you if you had ten charters. It would not do it for the water company. It does not do it for the low quarter, and if you ask me for it again I will refuse you correctly and in a square hand and I will mean it."
 

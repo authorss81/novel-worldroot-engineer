@@ -10,7 +10,7 @@ He had drained it. That was the three seasons. He had dug four hundred and ten y
 
 The ditches held. That was not the problem.
 
-On the Sunday morning the three acres were pale the way ground goes pale in a drought, and by Monday noon the rye on it had begun to lie over, and on Tuesday it was lying along the row the way it had lain in the first week of the season, and on Wednesday Marek walked out into it and put his boot through a crust of about an inch and a half that came up in one sheet, and under the sheet the ground was grey and dry and the roots were at the surface, holding on to the top inch of soil the way a hand holds on to a rail.
+On the Sunday morning the three acres were pale the way ground goes pale in a drought, and the crust came up under his boot in one sheet about an inch and a half thick and stood up on the edge of the hole he had made in it, and by Monday noon the rye on it had begun to lie over, and on Tuesday it was lying along the row the way it had lain in the first week of the season, and on Wednesday Marek walked out into it again and put his boot through the same sheet, which had not moved, and under it the ground was gray and dry and the roots were at the surface, holding on to the top inch of soil the way a hand holds on to a rail.
 
 "It has not got wet because the water ran out of the top of it," he said, to nobody, on the Wednesday, to the field. "It has got no water in it at all. There is nothing to run out of."
 
@@ -38,11 +38,11 @@ She had the three conditions out and she had them written on the back of his own
 
 "Write it."
 
-"Your head gives eleven hundred turns a day at the collar shut. Your ground takes seven hundred and twenty. You want a third more for four days on three acres, which is three hundred and eighty turns a day for four days, and that is a thousand five hundred and twenty turns out of the shallow flow under this holding, and the shallow flow under this holding is one body of water and it is under the north annex as well as it is under your three acres, and it is what the bed is standing in.
+"Your head gives eleven hundred turns a day at the collar shut. Your ground takes seven hundred and twenty. You want a third more for four days on three acres, which is three hundred and eighty turns a day for four days, and that is a thousand five hundred and twenty turns out of the shallow flow under this holding, and the shallow flow under this holding is one body of water and it is under the north annex as well as it is under your three acres, and it is what the bed is standing in."
 
-"Three days is nothing. I will put my name to three days and so would Ms Quill and so would anybody. On the third evening the bed's own water drops about an inch and the rootwood cools a degree and nothing in that building dies.
+"Three days is nothing. I will put my name to three days and so would Ms Quill and so would anybody. On the third evening the bed's own water drops about an inch and the rootwood cools a degree and nothing in that building dies."
 
-"On the fourth morning it drops about a foot, and the rootwood bed is at four degrees now and has been going down a degree every nine or ten days since the middle of October because there is nothing going into the bin, and a foot of fall in a day is the whole of the difference between that bed being cold and that bed being a different thing. The trays go onto the mill floor twice a day on a floor that is fed from the bin, and the bin is empty, and the Longneck's own tin is in the press under the ledger in this room and it is the last of the March's dry-land material on this side of the water.
+"On the fourth morning it drops about a foot, and the rootwood bed is at four degrees now and has been going down a degree every nine or ten days since the middle of October because there is nothing going into the bin, and a foot of fall in a day is the whole of the difference between that bed being cold and that bed being a different thing. The trays go onto the mill floor twice a day on a floor that is fed from the bin, and the bin is empty, and the Longneck's own tin is in the press under the ledger in this room and it is the last of the March's dry-land material on this side of the water."
 
 "So the fourth day is the day the bed goes under, and the bed going under is the March's line going, and the March's line going is nine thousand people on the March road eating something else for four years, and I have said that sentence to you in a yard once and I am saying it at a table and it is not a threat, it is the reason I am sitting here."
 
@@ -50,17 +50,17 @@ Marek said, "The fourth day," and she said, "The fourth day."
 
 "You have not said I can not."
 
-"No," said Tova Reed. "I have said what the fourth day costs, and you have to tell me which of those two things I have done, and I will help you, because you are tired and it has been a week.
+"No," said Tova Reed. "I have said what the fourth day costs, and you have to tell me which of those two things I have done, and I will help you, because you are tired and it has been a week."
 
-"I have not permitted it. The condition is in this book's ninth page and it has been there since the eighteenth and it has never been withdrawn, and I wrote it, and a seed steward is the only person in this building who can stop this seed being used, and on the twenty-third you broke it once in an afternoon and I ruled three trays and did not soften it and I will rule the same way now.
+"I have not permitted it. The condition is in this book's ninth page and it has been there since the eighteenth and it has never been withdrawn, and I wrote it, and a seed steward is the only person in this building who can stop this seed being used, and on the twenty-third you broke it once in an afternoon and I ruled three trays and did not soften it and I will rule the same way now."
 
 "And I have also told you the cost. Both are true at once and they have been true at once all month, and the reason this is a hard thing to refuse somebody is not that it is difficult to calculate. It is that refusing you is *cheap* for me. It costs me nothing. You are asking a woman from the Salt March for four days of a seed bed and the woman from the Salt March says no, and the woman from the Salt March is correct, and the woman from the Salt March has no three acres at the top end of a field that she has drained by hand and put her own lime in, and I do not have to look at what happens to them."
 
 She put both hands flat on the seed order.
 
-"I am going to say the rest of it and then I am going to stop for a week.
+"I am going to say the rest of it and then I am going to stop for a week."
 
-"You asked me on the third day of this season to stop a draw on this holding, and I refused you, and I was right, and I have had twenty-six days to enjoy it and I have not enjoyed it for a moment. I am refusing you now, and I am right, and I would like you to notice one thing about it, which is that the second time is easier. The first time I had to work out whether you were wrong. The second time I have the numbers and the numbers do not care that it is you.
+"You asked me on the third day of this season to stop a draw on this holding, and I refused you, and I was right, and I have had twenty-six days to enjoy it and I have not enjoyed it for a moment. I am refusing you now, and I am right, and I would like you to notice one thing about it, which is that the second time is easier. The first time I had to work out whether you were wrong. The second time I have the numbers and the numbers do not care that it is you."
 
 "I do not like that and I am not going to pretend to you that I do not, because a refusal that costs the person making it something is a better refusal and mine costs me a sitting at a table on a Sunday evening and a bad feeling about myself at about eleven o'clock at night. That is all it costs me. That is what I would like written down next to my name, if this is going in the book."
 
@@ -98,7 +98,7 @@ The three acres came up sour on the Friday and the ground began to go.
 
 What Marek understood about drainage in the four days after that, standing in it with a bar, was that he had spent three autumns taking water out of three acres of gravel and that the whole arrangement had been a promise about a slope, and the slope had been a promise about a gravel seam under the middle of the field, and the seam is not there any more because the water table under this holding is about four inches of what it was a week ago and a foot of what it was a fortnight ago, and the ditch he dug in the second season has stopped being a ditch and become a crack.
 
-The banks that had been in the ground for three years came out of it in lumps that rolled when he kicked them, and the ground between them went to a crust an inch and a half thick, and underneath the crust the ground was grey, and the roots were at the surface.
+The banks that had been in the ground for three years had been coming away at the top since the Monday, and on the Friday he put his boot into one of them and it rolled, and the ground between them kept the crust it had gone to on the Sunday and had not moved since, and underneath the crust the ground was gray, and the roots were at the surface.
 
 It is not a crop loss. He said that out loud to the yard on the Friday evening, twice, and it is true: the three acres will be mowable and will not crop well in the spring, and will crop in the third season after this one, and the four hundred and ten yards of ditch he put in it by hand across three autumns are going to be a liability rather than an asset, because a ditch bank that has slumped into its own bed is a place a sheep will put a leg in, and there are no sheep, and there will be forty ewes on this holding by then or there will not be anything.
 
@@ -112,7 +112,7 @@ He said that, and then somebody asked him the question that had been waiting for
 
 "Yes."
 
-"Write down the last part again, in front of them, in a longer sentence." Lissa Vale put the cap on the ink. "Because it is the whole of what happened this month, and nobody in this building is going to be able to say it in a month, and you are the only one of us who can still say it.
+"Write down the last part again, in front of them, in a longer sentence." Lissa Vale put the cap on the ink. "Because it is the whole of what happened this month, and nobody in this building is going to be able to say it in a month, and you are the only one of us who can still say it."
 
 "The node had a hole in it and a licensed engineer put the hole in writing, and the seed bed had a hole in it and a seed steward from the Salt March put that in writing too, and the low quarter had a hole in it and a tenant with a bucket put that in writing, and every single thing anybody lost in this month went into a book with a name against it. And three acres of a man's own ground went sour in four days, and it cannot go in anywhere, because it is not the cooperative's loss and it is not a charge anybody can serve on anybody, and it is yours, and nobody else in this yard has to look at it, and you have to look at it every day for two years while it heals or it does not."
 

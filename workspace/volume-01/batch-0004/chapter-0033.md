@@ -26,7 +26,7 @@ She stood on the loading bench and read it, and it was a single printed sheet wi
 
 They walked out to the south embankment at half past ten, all of them, which is nine people on an embankment with a clerk in a good coat on it.
 
-The windbreak is not beautiful and it is not old. It is about four feet of willow and grey elder laid in a single line along the top of the south embankment for nine hundred yards, planted by somebody's grandfather in a bad year, and it has been cut and cut and cut for sixty years for withy, for bean rods, for hurdles and for fence, and what is left of it is a line of stems with a crown on top and gaps in it where a gap has always been.
+The windbreak is not beautiful and it is not old. It is about four feet of willow and gray elder laid in a single line along the top of the south embankment for nine hundred yards, planted by somebody's grandfather in a bad year, and it has been cut and cut and cut for sixty years for withy, for bean rods, for hurdles and for fence, and what is left of it is a line of stems with a crown on top and gaps in it where a gap has always been.
 
 Ilsa Kern was already at the west end with a hook in her hand, because she is the embankment foreman and the embankment is hers, and she put her hand flat on the crown of a stem about hip high and said what she said to a fence post a month ago.
 
@@ -52,9 +52,9 @@ They argued about it from the third hour and it went on until the light went, an
 
 Ilsa Kern was for burning it, and she said so before anybody asked her, and she gave no speech at all.
 
-"I will say the thing nobody wants," she said. "A controlled burn is a fire with men on it and a firebreak cut to the mill race and a licensed man watching, and it is done in the right month, and it is the cheapest way there is of taking a fen back. And the other way of taking a fen back is a gale in February with a spark off a hearth nine miles west, and I have been on this embankment for forty years and I have seen it done the other way once, and I do not want to be near it again in my own time.
+"I will say the thing nobody wants," she said. "A controlled burn is a fire with men on it and a firebreak cut to the mill race and a licensed man watching, and it is done in the right month, and it is the cheapest way there is of taking a fen back. And the other way of taking a fen back is a gale in February with a spark off a hearth nine miles west, and I have been on this embankment for forty years and I have seen it done the other way once, and I do not want to be near it again in my own time."
 
-"And I will say the second thing, and I will say it because it is mine. That windbreak is down to the old wood for a hundred feet and a bit along the third stake from the west, because I cut a hundred and six feet of green withy off it on the Sunday of last month for four sets of willow, because there was nothing else to make the lashings out of and the windbreak was the supply. It is in the working notes in Marek's hand and Anneke Roos initialled it, because I would not write it myself about a thing I had done for a thing that might work.
+"And I will say the second thing, and I will say it because it is mine. That windbreak is down to the old wood for a hundred feet and a bit along the third stake from the west, because I cut a hundred and six feet of green withy off it on the Sunday of last month for four sets of willow, because there was nothing else to make the lashings out of and the windbreak was the supply. It is in the working notes in Marek's hand and Anneke Roos initialled it, because I would not write it myself about a thing I had done for a thing that might work."
 
 "So the fen is already in this windbreak for a hundred and six feet, and every year I have worked that will be more of it, and in nine years there will not be a windbreak on this embankment at all. It is going to happen with or without a fire."
 
@@ -64,7 +64,7 @@ Jonas Byre was for it too, and gave one sentence, and nobody in the yard had to 
 
 Anneke Roos was against it, and she was against it on the ground she had used on the twenty-seventh, and she used it in the same words, deliberately.
 
-"It is the second Crown-shaped document in a month," she said. "An extract of Ms Quill's licence sheet is in a district file, and it is a Crown-shaped page with a hole in it and her name at the top. If we sign this page then in a month a hearing officer has two documents from this cooperative, both put in front of a district in a month, both shaped like something the district would have written, and one of them is a licensed engineer admitting she licensed an unfed graft and the other is a body with no charter admitting that a live line under its own windbreak is not a line it relies on.
+"It is the second Crown-shaped document in a month," she said. "An extract of Ms Quill's license sheet is in a district file, and it is a Crown-shaped page with a hole in it and her name at the top. If we sign this page then in a month a hearing officer has two documents from this cooperative, both put in front of a district in a month, both shaped like something the district would have written, and one of them is a licensed engineer admitting she licensed an unfed graft and the other is a body with no charter admitting that a live line under its own windbreak is not a line it relies on."
 
 "And the reason there is no money in it is the reason there never is. The trade is always the same. Somebody is being paid in something and we are being asked to be paid in the only currency we have left, which is our own handwriting."
 
@@ -72,9 +72,9 @@ Tova Reed was against it and had already given her number, four years, and said 
 
 Gael Senn was the one who found the actual problem, and she found it at about five o'clock when the light had gone orange and everybody else was tired of arguing.
 
-"I am the person who writes *nothing found* on the first of every month," she said. "And I want to say what that means for this and I do not think anybody has thought of it.
+"I am the person who writes *nothing found* on the first of every month," she said. "And I want to say what that means for this and I do not think anybody has thought of it."
 
-"That examination is a return. It is the return on a piece of work that four unlicensed people did under a licence, and it is the only return this cooperative makes that anybody can check, and it is checked by a woman of twenty-three with a rule. And if we burn a windbreak on the say-so of a licensed man who is not going to be here in February, then the first of next month I go down that ladder and there will be a black ground outside and a hot smell in the pit and the pack under the sacking will have gone dry and hard the way things do when the air round them changes, and I will be the one who has to write down what I find, and I will not be able to write *nothing found*, and whatever I write will be about a thing this body agreed to and had no standing to stop.
+"That examination is a return. It is the return on a piece of work that four unlicensed people did under a license, and it is the only return this cooperative makes that anybody can check, and it is checked by a woman of twenty-three with a rule. And if we burn a windbreak on the say-so of a licensed man who is not going to be here in February, then the first of next month I go down that ladder and there will be a black ground outside and a hot smell in the pit and the pack under the sacking will have gone dry and hard the way things do when the air round them changes, and I will be the one who has to write down what I find, and I will not be able to write *nothing found*, and whatever I write will be about a thing this body agreed to and had no standing to stop."
 
 "So I am not saying yes and I am not saying no," she said. "I am saying that I would like to know what is under it, and I have just worked out that there is no way in the world for anybody in this yard to know, because the district's form is about a fire and not about a root, and the branch under Weir Row has no local holder, and there is nobody else in this district whose trade is a line of wild root, and they are not going to come here and tell us, and if they do come here and tell us, then we have to be careful what we write down about it anyway."
 
@@ -82,13 +82,13 @@ Gael Senn was the one who found the actual problem, and she found it at about fi
 
 Marek made the call at six with the form in his coat and the light off the water.
 
-"I am not signing it," he said, "and I want the reason entered in the same minute so that nobody in this yard has to guess.
+"I am not signing it," he said, "and I want the reason entered in the same minute so that nobody in this yard has to guess."
 
-"Ms Quill licensed one work on this node on the twenty-first and twenty-second of last month with the return short, and she said on the twenty-seventh that she would not license a second one, and she has been asked to speak about this and she has said the same sentence again and somebody said it was the same sentence and she said yes, because it is the same sentence and she is the same woman and I would like that written down as arithmetic and not as caution.
+"Ms Quill licensed one work on this node on the twenty-first and twenty-second of last month with the return short, and she said on the twenty-seventh that she would not license a second one, and she has been asked to speak about this and she has said the same sentence again and somebody said it was the same sentence and she said yes, because it is the same sentence and she is the same woman and I would like that written down as arithmetic and not as caution."
 
-"So there is no licensed act here, which means there is nothing for me to sign a consent about, because a consent is a licensed person's act wearing a body's clothes, and the only licensed person in this district is standing eight feet from me and has already answered the question for the month.
+"So there is no licensed act here, which means there is nothing for me to sign a consent about, because a consent is a licensed person's act wearing a body's clothes, and the only licensed person in this district is standing eight feet from me and has already answered the question for the month."
 
-"The measure stands until the sixth day of this month and the district will choose a day. I am not entering a refusal, because a refusal is a document too, and a document is the only thing I have got and I have got four of them now and one of them is a schedule of damage and one of them is a circular. So the offer goes back unanswered on the sixth, and that is a decision, and it is the worst kind of one, because it costs the same as saying no and buys nothing.
+"The measure stands until the sixth day of this month and the district will choose a day. I am not entering a refusal, because a refusal is a document too, and a document is the only thing I have got and I have got four of them now and one of them is a schedule of damage and one of them is a circular. So the offer goes back unanswered on the sixth, and that is a decision, and it is the worst kind of one, because it costs the same as saying no and buys nothing."
 
 "What I am going to do instead is go and find out what is under the toe of that windbreak, and the only place the answer is likely to be is nine days out in the old forest, in somebody's kitchen, and they are not going to want to tell us and I would not blame them."
 

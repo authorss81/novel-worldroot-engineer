@@ -108,7 +108,7 @@ Then she signed it.
 
 Then she turned it round, put it on the rail against the housing, and put the pen in the space under her own name, and held it out to him handle first.
 
-"Under me," she said. "Read it before you sign it and if you do not understand a word of it, do not sign it and I will explain the word. That is not a formality. A man who signs a thing he has not read has turned a document into a rumour, and I have been on the wrong end of that once and I do not get a vote in it."
+"Under me," she said. "Read it before you sign it and if you do not understand a word of it, do not sign it and I will explain the word. That is not a formality. A man who signs a thing he has not read has turned a document into a rumor, and I have been on the wrong end of that once and I do not get a vote in it."
 
 He read it twice. He had read it twice, and he understood it, and he signed his own name under hers, and the order of the two names on that page was the single most expensive thing he did all day.
 

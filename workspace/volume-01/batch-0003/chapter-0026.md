@@ -78,15 +78,15 @@ Sera Quill got the branch's bed open in one place with a flat spade and about te
 
 The bed was dry.
 
-The branch under a foot of mud and eight feet of gravel had been a live trunk for longer than the charter and it was not live, and its wood was grey and hard and had a mineral bloom on it the way the Weir Row faces had, and there was no wet line on it anywhere, and there was no iron coming out of it either.
+The branch under a foot of mud and eight feet of gravel had been a live trunk for longer than the charter and it was not live, and its wood was gray and hard and had a mineral bloom on it the way the Weir Row faces had, and there was no wet line on it anywhere, and there was no iron coming out of it either.
 
 "It is not leaking," Sera Quill said, kneeling. "That is what I want him to understand. It is not leaking and it is not cut here and it has not been cut here in five years and there is nothing on this bed that anybody has done. This is a branch that was killed from the top."
 
 "From the top," said Marek.
 
-"From above. Twice, with a die, and the second time sixteen days ago, and then opened three feet with a bar and a pair of shears, and every one of those is two hundred yards from here and nine miles the other way, and the reason nothing comes up this bed is that there is nothing coming up it, because the whole column above it is open air now." She sat back on her heels. "I am not going to say what killed it, because I have got no document and no instrument and I am a woman standing in a wet ditch in a town I have not been in for eleven years.
+"From above. Twice, with a die, and the second time sixteen days ago, and then opened three feet with a bar and a pair of shears, and every one of those is two hundred yards from here and nine miles the other way, and the reason nothing comes up this bed is that there is nothing coming up it, because the whole column above it is open air now." She sat back on her heels. "I am not going to say what killed it, because I have got no document and no instrument and I am a woman standing in a wet ditch in a town I have not been in for eleven years."
 
-"I will say this. That bed is the outlet for the gravel under forty-one houses, and while it was taking, it turned that gravel over four times a day and the iron came off the fen mud and washed through and out. And it has not turned that gravel over as it did since the spring before last, which is a thing every man in that quarter could tell you and not one of them can say so. What has happened to Mr Slee's well in the last four days is not iron coming off my fen. It is iron that was already in that gravel, standing still, and it comes up when the head goes, and the head has gone because your head is taking more out of this node than it was taking a fortnight ago, and this bed is where the taking stops.""
+"I will say this. That bed is the outlet for the gravel under forty-one houses, and while it was taking, it turned that gravel over four times a day and the iron came off the fen mud and washed through and out. And it has not turned that gravel over as it did since the spring before last, which is a thing every man in that quarter could tell you and not one of them can say so. What has happened to Mr Slee's well in the last four days is not iron coming off my fen. It is iron that was already in that gravel, standing still, and it comes up when the head goes, and the head has gone because your head is taking more out of this node than it was taking a fortnight ago, and this bed is where the taking stops."""
 
 "There is no licensed draw on that branch," said Jonas Byre, from the top of the bank, in the flat voice a man uses when he is reading something off an instrument or is about to have to read it in a room. "Not since the eighteenth. Mine lapsed on the eighteenth and Mr Rusk's has never been above three hundred and I have seen it and I have said so in this yard before you people came."
 
@@ -126,9 +126,9 @@ So the one document in the world that would prove the branch was somebody else's
 
 Gael Senn said it, because she had been carrying the log for three miles and had been thinking.
 
-"Mr Vale," she said. "We can say the water is iron. We can say it got worse on the twenty-first. I can time a pail and you can time a pail and Jonas can time a pail and that is a fact with four witnesses and a number on it and none of us is licensed and none of us is a witness the district has to believe.
+"Mr Vale," she said. "We can say the water is iron. We can say it got worse on the twenty-first. I can time a pail and you can time a pail and Jonas can time a pail and that is a fact with four witnesses and a number on it and none of us is licensed and none of us is a witness the district has to believe."
 
-"And if you put the Weir Row branch in that book, then the only thing in this fen that says this is not our fault is a piece of paper Mr Rusk is not going to hand you, and a renewal application that says we knew of nothing, and a box in your clerk's office that is a confession in his own hand.
+"And if you put the Weir Row branch in that book, then the only thing in this fen that says this is not our fault is a piece of paper Mr Rusk is not going to hand you, and a renewal application that says we knew of nothing, and a box in your clerk's office that is a confession in his own hand."
 
 "So what is the document."
 

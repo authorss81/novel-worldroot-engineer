@@ -18,15 +18,15 @@ He lifted it. The wet place at the six o'clock corner had stopped being a place 
 
 "Get me the other rule," said Sera Quill.
 
-He got the other rule, and she measured twice, and it was half an inch and a sixteenth, and the pump was on and had been on for nineteen hours, and the water in the pit was iron-coloured and about four feet down and had not risen a quarter of an inch in nineteen hours, which was the thing she looked at longest.
+He got the other rule, and she measured twice, and it was half an inch and a sixteenth, and the pump was on and had been on for nineteen hours, and the water in the pit was iron-colored and about four feet down and had not risen a quarter of an inch in nineteen hours, which was the thing she looked at longest.
 
 "It is not a weep any more," she said.
 
 "Ms Quill—"
 
-"I have called that corner a weep for nine weeks and I have measured it twice with two rules on three occasions and I have entered the figure in your own book every time, and I have said in this pit and in a book and on a certificate that it is not a leak at the load stated. All of that is still true and none of it is what is in front of me now.
+"I have called that corner a weep for nine weeks and I have measured it twice with two rules on three occasions and I have entered the figure in your own book every time, and I have said in this pit and in a book and on a certificate that it is not a leak at the load stated. All of that is still true and none of it is what is in front of me now."
 
-"A weep is water coming out. That is water going in. And the reason the pit has not risen is the second law, which is a law about a seal and not a law about water, and which I have said out loud four times in this building and only two people in it have ever written it down, and I am going to say it a fifth time to a man on a ladder at seven in the morning with the light still on the water, because somebody in this fen has to say it out loud.
+"A weep is water coming out. That is water going in. And the reason the pit has not risen is the second law, which is a law about a seal and not a law about water, and which I have said out loud four times in this building and only two people in it have ever written it down, and I am going to say it a fifth time to a man on a ladder at seven in the morning with the light still on the water, because somebody in this fen has to say it out loud."
 
 "A leak under sacking at full draw goes into the housing and not into the pit. That is what the housing is for. That is the only job the housing has ever had. And it is doing that job, at this moment, on the load, and the pit has four feet of iron water in it and it is not up a quarter of an inch, because the casting is holding, and the casting is the only thing between this node and four feet of iron water, and I cannot see inside it, and there is no licensed person in this district who can, and nobody in this office has ever kept a record of when it was cast."
 
@@ -42,15 +42,15 @@ The second was a load. He had wanted to put the full draw on that seal since the
 
 So the two things that would have helped were the two things he could not do, and the thing he could do was in the windbreak, and Sera Quill had it out of him at about eleven o'clock at night, on the boards, with the lamp between them and the water moving underneath.
 
-"Mr Vale. There are two pieces of ground on this holding and I have walked both of them in the last two hours and I am going to describe them, and then I am going to go to bed, because I have been awake for two nights and I am not sentimental at two in the morning and neither are you.
+"Mr Vale. There are two pieces of ground on this holding and I have walked both of them in the last two hours and I am going to describe them, and then I am going to go to bed, because I have been awake for two nights and I am not sentimental at two in the morning and neither are you."
 
-"The nineteen acres below the ditch head are the shared field. They are the only cropping ground this body has got, and they are standing with white heads that nothing in this fen can eat, and there are no sheep and there will be no cart, and in three months that field is either a harvest for sixteen households or it is a field of sticks.
+"The nineteen acres below the ditch head are the shared field. They are the only cropping ground this body has got, and they are standing with white heads that nothing in this fen can eat, and there are no sheep and there will be no cart, and in three months that field is either a harvest for sixteen households or it is a field of sticks."
 
-"Your three acres at the top end are the best ground on the place and the only ground on the place with thirty inches of gravel over flints, and they are dead. They have been dead since the twenty-ninth of last month, and they are the colour of a wet road, and there is a crack across them where a ditch of mine stopped being a ditch and became a crack in the ground.
+"Your three acres at the top end are the best ground on the place and the only ground on the place with thirty inches of gravel over flints, and they are dead. They have been dead since the twenty-ninth of last month, and they are the color of a wet road, and there is a crack across them where a ditch of mine stopped being a ditch and became a crack in the ground."
 
-"And between those two pieces of ground there is a low corner of a south embankment that Ilsa Kern has been standing in twice a day since the twelfth of this month, and the water is coming up at it, and there are only two things that happen at a low corner when the fen is full.
+"And between those two pieces of ground there is a low corner of a south embankment that Ilsa Kern has been standing in twice a day since the twelfth of this month, and the water is coming up at it, and there are only two things that happen at a low corner when the fen is full."
 
-"Either you hold it, and the water goes over into the nineteen acres, and the field of sticks is a field of mud. Or you open it, on purpose, tonight, with your own hands, and the water takes the top of the field and your three acres and the gravel, and it goes into the gravel and comes out at the crack and finds the old channel and goes to Weir Row and off this holding.
+"Either you hold it, and the water goes over into the nineteen acres, and the field of sticks is a field of mud. Or you open it, on purpose, tonight, with your own hands, and the water takes the top of the field and your three acres and the gravel, and it goes into the gravel and comes out at the crack and finds the old channel and goes to Weir Row and off this holding."
 
 "And then there is a pump on that bed or there is not, and the pump is what is holding the housing, and the housing is the only thing between this node and the pit, and if the pump comes off then the leak becomes a hole, and the hole is under the pit, and there is no licensed person in four counties who is going to put a hand into that in this weather."
 
@@ -70,7 +70,7 @@ It came in the middle of the Monday afternoon on foot, in the rain, and it was C
 
 "Which part is that," said Marek.
 
-"The part where it is not moving," said Corvin Slee. "A rise that is going somewhere goes. Forty-one houses and a rise that has stopped going somewhere means the fen is full up to the lip of the low quarter, and I have been in six cellars since six in the morning and in four of them the water is on the flagstones and in two of them it is up to the second course, and in all six of them it is the same water and it is not moving and it has the smell of a thing that has come up through a pipe and gone still.
+"The part where it is not moving," said Corvin Slee. "A rise that is going somewhere goes. Forty-one houses and a rise that has stopped going somewhere means the fen is full up to the lip of the low quarter, and I have been in six cellars since six in the morning and in four of them the water is on the flagstones and in two of them it is up to the second course, and in all six of them it is the same water and it is not moving and it has the smell of a thing that has come up through a pipe and gone still."
 
 "Mr Slee, I am sorry to ask you this and I have to ask it. Which pipe."
 
@@ -80,7 +80,7 @@ Anneke Roos wrote the figure and the hour and read it back and wrote nothing und
 
 Then Marek did the arithmetic on the seed house table with a pencil in his wet hand, and it took four minutes, and there were six people watching him do it.
 
-"Nineteen inches of standing water in the low quarter on the second night of three days' rain on the main drain," he said, "and the district's own caution gave that as the expectation and gave the day. The caution is on the well house door and has been since the tenth of the month, addressed to a body that holds no charter, and it was correct, and there is nobody in the district who has an instrument that will measure the low quarter.
+"Nineteen inches of standing water in the low quarter on the second night of three days' rain on the main drain," he said, "and the district's own caution gave that as the expectation and gave the day. The caution is on the well house door and has been since the tenth of the month, addressed to a body that holds no charter, and it was correct, and there is nobody in the district who has an instrument that will measure the low quarter."
 
 "And this holding is on high ground at the low corner of the south embankment and dead low in the middle, and the water came up off the fen this morning and it is here, and it is going to be here on Wednesday, and the whole of the four hundred and ten yards of ditch I dug by hand across three autumns is full and not draining and the run at the head of the field is full and not draining and there is nowhere on this holding for it to go."
 
@@ -104,7 +104,7 @@ And at twenty past one in the morning, in a wet coat, in a seed house, Gael Senn
 
 She read it back to a room of four people at half past one in the morning and then went down off the seat, and did not sign it until the morning, because it was two in the morning and she had said in a well house on the tenth of the month that she was not going to fill that book in advance with what she hoped to find on the day, and a signature is not a thing to be done at two in the morning by a woman of twenty-three.
 
-"Twenty-one hundredweight and a quarter," said Sera Quill, from the door, with her coat on. "That is a twentieth of one month's specification, on a bed, and a hundredweight on the twenty-first of last month is worth about half a degree on that bed, and Ms Reed has it twice over and can have it in figures.
+"Twenty-one hundredweight and a quarter," said Sera Quill, from the door, with her coat on. "That is a twentieth of one month's specification, on a bed, and a hundredweight on the twenty-first of last month is worth about half a degree on that bed, and Ms Reed has it twice over and can have it in figures."
 
 "So twenty-one hundredweight and a quarter is worth about a tenth of a degree, and the bed is at three and a half and it wants four, and I have taught this trade for thirty years and I am telling you that a tenth of a degree is not a save. It is a fortnight. It is not nothing. It is also not nothing, and both of those sentences are true at once and the whole of this season has been made out of that."
 

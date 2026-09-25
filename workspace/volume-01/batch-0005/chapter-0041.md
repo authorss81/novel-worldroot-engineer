@@ -46,9 +46,9 @@ She read the sentence back before she let him sign it, which she does.
 
 The trouble with a first figure is that everybody in a yard wants it to be a beginning, and it is not one, and Marek said so out loud at the well house bench with the log open and the page turned round so that a stranger could read it, which is what he does with everything.
 
-"Here is what we have," he said. "Three-sixteenths of an inch on a reed that cost four shillings, at a ditch, at the fourth hour, with the pump on the idle, on the eleventh of a month. That is the whole of it.
+"Here is what we have," he said. "Three-sixteenths of an inch on a reed that cost four shillings, at a ditch, at the fourth hour, with the pump on the idle, on the eleventh of a month. That is the whole of it."
 
-"And it is not a measurement of anything, because to be a measurement it wants two things and it has got one of them. It wants a figure from before, and there is none, and the one entry that exists about that morning says in its own words that the reading cannot be supplied. And it wants a load, and there is not one on it, and the reason is written on the same page, and the reason is not that a licensed woman is eleven miles away, because there is one in this yard as of two o'clock this afternoon. The reason is that the load test was the twentieth day's act, on a certificate, with three names on it, and there is no charter to hang a second one on.
+"And it is not a measurement of anything, because to be a measurement it wants two things and it has got one of them. It wants a figure from before, and there is none, and the one entry that exists about that morning says in its own words that the reading cannot be supplied. And it wants a load, and there is not one on it, and the reason is written on the same page, and the reason is not that a licensed woman is eleven miles away, because there is one in this yard as of two o'clock this afternoon. The reason is that the load test was the twentieth day's act, on a certificate, with three names on it, and there is no charter to hang a second one on."
 
 "So I am not going to stand in a yard tomorrow morning and say the node is taking what the log says it takes, because I have got a reed and no baseline, and I have told this body that a number without a method is a thing somebody will use against me in a year, and that was the miller talking and he was right."
 
@@ -74,7 +74,7 @@ Sera Quill came up the fen road at about two in the afternoon on the eleventh of
 
 ---
 
-And in the middle of the afternoon, while the glass was still holding and the west was a colour that had no business being there in the middle of a day, Ivo Tarrant came up the lane with four men behind him and a barrow of tools, and did not come to the gate.
+And in the middle of the afternoon, while the glass was still holding and the west was a color that had no business being there in the middle of a day, Ivo Tarrant came up the lane with four men behind him and a barrow of tools, and did not come to the gate.
 
 He came to the gate. He stopped at it. He said four sentences, and then he turned the four men round and went back down the lane with them, and nobody in that yard said anything for about a minute afterwards.
 
@@ -86,11 +86,11 @@ Lissa Vale said, "Nobody in this yard has signed anything and nobody has refused
 
 "I know what you are here about."
 
-"Then you know I am not going to ask again," he said, "and you know why, and it is not pride. It is that four men who were refused on five correct grounds on the sixth of this month cannot turn up on the eleventh of this month and dig it, because the day we did it would be the day somebody wrote down that a cooperative which could not afford a bypass took free labour off a peat road in a flood, and that sentence would be true, and it would be in a district file in about six weeks, and it would be the last true thing anybody could say about you."
+"Then you know I am not going to ask again," he said, "and you know why, and it is not pride. It is that four men who were refused on five correct grounds on the sixth of this month cannot turn up on the eleventh of this month and dig it, because the day we did it would be the day somebody wrote down that a cooperative which could not afford a bypass took free labor off a peat road in a flood, and that sentence would be true, and it would be in a district file in about six weeks, and it would be the last true thing anybody could say about you."
 
 He looked at the yard, at the seed house, at the well house, at nineteen acres of white-headed standing rye with no sheep on it, and at the ditch at the head of the field with four willow sets in it, holding their lashings, green, on the eleventh of a month in a year when nothing had gone to the seed house since the middle of October.
 
-"You have got a licence woman," he said, "and I have never in my life known what a licence woman is for, and I have found out in one afternoon standing at a gate, and I am not going to be the reason there is not one."
+"You have got a license woman," he said, "and I have never in my life known what a license woman is for, and I have found out in one afternoon standing at a gate, and I am not going to be the reason there is not one."
 
 "Mr Tarrant," said Marek.
 
@@ -118,6 +118,6 @@ Gael Senn came up out of the pit with the lamp still in her hand and the rule in
 
 Marek wrote the count down and did not improve it, and Lissa Vale entered the page and the hour, and nobody asked her to.
 
-At the gate, in the last of the light, the west had gone the colour of a wet slate and the barometer had gone down another tenth, and Marek stood at the low corner of the south embankment and looked at nine hundred yards of willow and grey elder with a hundred and six feet missing out of the middle of it because Ilsa Kern had cut it for withy in a month in October and entered it in a book with the hour on it.
+At the gate, in the last of the light, the west had gone the color of a wet slate and the barometer had gone down another tenth, and Marek stood at the low corner of the south embankment and looked at nine hundred yards of willow and gray elder with a hundred and six feet missing out of the middle of it because Ilsa Kern had cut it for withy in a month in October and entered it in a book with the hour on it.
 
 Tomorrow the rain was due, three days of it, on the main drain, and the district had no instrument that would measure the low quarter nine miles down the fen and did not pretend to one, and the four men were walking down a peat road with a barrow of tools and would not be back, and the drain at the head of the field was already standing in its own water, and there was a number in a book for the first time in twenty days and no number at all to compare it with.

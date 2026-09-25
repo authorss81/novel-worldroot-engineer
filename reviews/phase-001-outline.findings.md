@@ -35,7 +35,7 @@ These are controller files. The operating rules for this agent forbid editing th
 ! agent "novel-reviewer" is a subagent, not a primary agent. Falling back to default agent
 ```
 
-The check still happened — the findings in this file are real and found the defects above — but the gate does not do what AGENTS.md's quality gate claims. Either drop `mode: subagent` from the agent file or invoke it through the subagent path. Note that this review was produced by the fallback agent and did not edit files, which is the behaviour the gate wanted.
+The check still happened — the findings in this file are real and found the defects above — but the gate does not do what AGENTS.md's quality gate claims. Either drop `mode: subagent` from the agent file or invoke it through the subagent path. Note that this review was produced by the fallback agent and did not edit files, which is the behavior the gate wanted.
 
 **B. `state/phase-ledger.json` is stale and unowned (reviewer Low #10).**
 It still reads `currentPhase: "phase-000-bootstrap"`, `status: "planned"`, `attempts: 0` after bootstrap completed and the outline landed. It is referenced by no script or workflow, only by `PHASE_SYSTEM.md`, `OUTLINE_GUIDE.md`, `.opencode/agent/novel-writer.md`, and logs.

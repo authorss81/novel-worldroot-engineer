@@ -58,13 +58,13 @@ The afternoon was at the well head, and it was the first real teaching Marek had
 
 He had thought the subject was measuring. It was not. The gauge was easy; he had a brass one in a case and two hands and a boy to hold the lamp. What nobody in this yard could do was write down a thing so that a stranger in Fennmere could check it without asking them anything, and Marek found that the harder half of engineering was the half that made no improvement to anything at all.
 
-"Four things," he said, to four people standing round a pump pit in the cold. "Every entry. Four things, every time, and if one of them is not there the entry is not a record, it is a thing somebody remembered.
+"Four things," he said, to four people standing round a pump pit in the cold. "Every entry. Four things, every time, and if one of them is not there the entry is not a record, it is a thing somebody remembered."
 
-"What was done, in the order it was done, and nothing in it that was not done. That last half is the half that will be argued about and I want it written the plain way.
+"What was done, in the order it was done, and nothing in it that was not done. That last half is the half that will be argued about and I want it written the plain way."
 
-"Who did it. A name against every hand. Not *the crew*. The crew is how you write a thing when you do not want to be asked which of you it was.
+"Who did it. A name against every hand. Not *the crew*. The crew is how you write a thing when you do not want to be asked which of you it was."
 
-"When. The hour and the day and the day is the day it happened, not the day you had time to write it down. A reading with no hour on it is not a reading. It is a feeling.
+"When. The hour and the day and the day is the day it happened, not the day you had time to write it down. A reading with no hour on it is not a reading. It is a feeling."
 
 "And what somebody else could check without asking you. If you cannot date it, you write *cannot be dated* in those words and you do not guess and you do not put a range on it. I will not have a guess in this book with a date on it."
 

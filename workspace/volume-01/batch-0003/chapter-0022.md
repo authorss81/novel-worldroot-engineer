@@ -16,7 +16,7 @@ Marek said that out loud at the top of the ladder before anybody was in the ditc
 
 The ditch was the north ditch of the outer field, the one that had been cut forty years ago by a man whose name was on a sluice and which had silted to a foot and a half and gone to a dense mat of fen weed from the eleventh yard onward. It ran from the embankment foot down and across to the head of the field, and at the head of the field it opened into a scour the old drainage had made where the field's own root line came up out of the ground and went along the bottom of the ditch for about nine yards before it went back under.
 
-That scour was the whole of it. The field's root line lay in a ditch bottom and it had been lying in a dry ditch bottom for three seasons, and the plant had gone over sideways along the row because a plant lying along a row is a plant that has stopped standing up and started travelling, and a crop travels toward whatever is under it, and what was under it was nothing.
+That scour was the whole of it. The field's root line lay in a ditch bottom and it had been lying in a dry ditch bottom for three seasons, and the plant had gone over sideways along the row because a plant lying along a row is a plant that has stopped standing up and started traveling, and a crop travels toward whatever is under it, and what was under it was nothing.
 
 "If we get water into that scour," Marek said, from the boards, "the root line will be in water again in a day and a half. I am not going to promise you the field. I am going to promise you the ditch."
 

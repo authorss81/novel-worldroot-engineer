@@ -94,7 +94,7 @@ Marek thought about the six years, and about the eleven pages in his coat, and a
 
 “Yes,” he said.
 
-“Three. My own veto on any use of the seed vault for a test. Any test. Not a sample and not a tray. If I put a condition in, you will honour it, and if you break it I will say so in writing to the trust and to the Directorate and to whoever else will hold it in.”
+“Three. My own veto on any use of the seed vault for a test. Any test. Not a sample and not a tray. If I put a condition in, you will honor it, and if you break it I will say so in writing to the trust and to the Directorate and to whoever else will hold it in.”
 
 Marek’s mouth had gone dry. “That is — yes. Yes, if you put it in writing we will hold to it.”
 

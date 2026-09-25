@@ -20,7 +20,7 @@ It had not come up evenly. It had come up from the ditch and stopped.
 
 He went down to the edge. The plants below it were two feet tall and green from the ground to the last leaf, and the stems were stiff, and he put his hand into a row and pushed and the row moved about an inch and came back, and the soil under it was not dust. It was dark and it was damp to the depth of his knuckles.
 
-Above the edge the crop was still lying along the row where it had lain since the first week of the season, and the heads were still white, and where he knelt down and looked at the ground it was grey and it had a crust on it the way a crust forms on a field that has been drinking nothing for a month.
+Above the edge the crop was still lying along the row where it had lain since the first week of the season, and the heads were still white, and where he knelt down and looked at the ground it was gray and it had a crust on it the way a crust forms on a field that has been drinking nothing for a month.
 
 "Twenty-nine," Ilsa Kern said, behind him. "Not twenty-two."
 
@@ -52,7 +52,7 @@ Marek put his hand on the rail and could not feel anything at all, and neither c
 
 He wrote it on the spot, on the standing pressure log, at the hour, and read it back, and Gael Senn signed it and the licensed person present column said *none* and nobody wrote anything under that, because there was nobody to write anything.
 
-It was back by noon. It was back at the rail by noon and by the afternoon it was in the frame again on the twenty-second and the twenty-third hour, and the pump laboured, and Marek wrote the hours down and the words *present again at the rail, twelfth and second hour* and did not write anything else.
+It was back by noon. It was back at the rail by noon and by the afternoon it was in the frame again on the twenty-second and the twenty-third hour, and the pump labored, and Marek wrote the hours down and the words *present again at the rail, twelfth and second hour* and did not write anything else.
 
 ---
 

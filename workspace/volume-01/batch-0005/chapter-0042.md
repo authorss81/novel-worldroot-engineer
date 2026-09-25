@@ -2,7 +2,7 @@
 
 ## What Fell Due On The Forty-Second
 
-The rain came in at about four in the morning on the twelfth of the month and it came the way the caution said it would, without ceremony, out of the west and across the fen in a long grey sheet that you could watch arrive across nine miles of flat ground from the top of the south embankment.
+The rain came in at about four in the morning on the twelfth of the month and it came the way the caution said it would, without ceremony, out of the west and across the fen in a long gray sheet that you could watch arrive across nine miles of flat ground from the top of the south embankment.
 
 Jonas Byre came out of the mill-keeper's shed at five with his coat on and looked at the race, which was the first thing anybody in that yard looked at, because the race is the one piece of water in Tarrow Fen that tells you what the sky is doing before the sky has finished.
 
@@ -20,7 +20,7 @@ She read the nine words at the top of the page.
 
 *The cooperative does not dispute the amount.*
 
-"Right," she said again. "That is Mr Vale's hand and not mine, and I have seen this form with an amount disputed in it eleven times this year and I have never once seen a body strike the box out. I am going to say the thing that strikes out, because nobody in this room has said it and somebody is going to have to say it on the twenty-first.
+"Right," she said again. "That is Mr Vale's hand and not mine, and I have seen this form with an amount disputed in it eleven times this year and I have never once seen a body strike the box out. I am going to say the thing that strikes out, because nobody in this room has said it and somebody is going to have to say it on the twenty-first."
 
 "Struck out, there is nowhere on this form to say the amount has not been paid. There is a box for the amount, and a box for whether the amount is disputed, and a column for the hour the cause was entered, and there is no box in the whole of the water-supply bylaw's sixth part for a body that agrees the amount and has not got it. I have got a margin. I am going to write in the margin, and I am going to read it back, and it is going in the register and it is going to be read on the twenty-first, and I would like the cooperative to understand that they have made a clerk write in a margin on the day they did it and not the day they thought about it."
 
@@ -34,7 +34,7 @@ She wrote it and read it back.
 
 "And what happens to it."
 
-"Nothing happens to it, Mr Fitch, and that is the part I am obliged to tell you and would rather somebody had told you a month ago." She put the pen down. "A schedule of damage under the sixth part is a debt. A debt is a thing somebody owes. And a debt is enforceable against a body, and a body is a thing with a charter, and this body has not had a charter since the eighteenth of a month, and there is nobody in the world you can serve sixty pounds ten shillings on.
+"Nothing happens to it, Mr Fitch, and that is the part I am obliged to tell you and would rather somebody had told you a month ago." She put the pen down. "A schedule of damage under the sixth part is a debt. A debt is a thing somebody owes. And a debt is enforceable against a body, and a body is a thing with a charter, and this body has not had a charter since the eighteenth of a month, and there is nobody in the world you can serve sixty pounds ten shillings on."
 
 "So the sum is not owed to anybody. It is entered. And what the district can do about a sum that is entered and not owed is the only thing the district can do about anything, which is the emergency clause, on a report, at a time of its choosing, and I have written that on the margin too because somebody will otherwise tell a hearing officer that the money was paid."
 
@@ -42,7 +42,7 @@ She wrote it and read it back.
 
 The statement went in at the fourth hour of the afternoon, entire, eleven hundred words, with the hour on it and the three signatures in the right order, and Perrin Osse counted the pages twice and wrote a number in the register.
 
-"Your engineer of record's own document," she said, "in which he says that the whole account this body holds of the cause of the damage in the low quarter is a rumour with a witness in it. That is still your document?"
+"Your engineer of record's own document," she said, "in which he says that the whole account this body holds of the cause of the damage in the low quarter is a rumor with a witness in it. That is still your document?"
 
 "It is."
 
@@ -80,7 +80,7 @@ Then, at nine o'clock, with the rain still going and the lamp in, Lissa Vale put
 
 She had come in out of the rain an hour ago and had not changed her coat, and she had the four crates standing open behind her in the annex at three and a half degrees, and she was holding a sheet of the trust's own paper.
 
-"Fourteen pounds ten," she said. "Mr Vane's price. Fourteen pounds ten for a reading, a finding, and an attested copy that a hearing officer may hold, and it is not moved in four years, and he is sixty-one, and he has taken no paid work since his wife died, and he is a better reader than Ms Quill.
+"Fourteen pounds ten," she said. "Mr Vane's price. Fourteen pounds ten for a reading, a finding, and an attested copy that a hearing officer may hold, and it is not moved in four years, and he is sixty-one, and he has taken no paid work since his wife died, and he is a better reader than Ms Quill."
 
 "And the box has four pounds five in it, and there is a rain warning on the Fennmere road and a sitting on the twenty-first, and the earliest day a reading is possible is the eighteenth, and if that money is not in a man's hand on the seventeenth then the reading is not taken, and if the reading is not taken then the one cure that this body has ever been offered by a professional goes out of the season, and I have watched you walk eleven miles to serve a notice on a man and I am not going to be the one who says the money was never found."
 
@@ -90,7 +90,7 @@ She had come in out of the rain an hour ago and had not changed her coat, and sh
 
 She put the sheet on the table flat.
 
-"Before anybody says anything, the trust is not paying for the fen's evidence. The trust is buying a document, out of the March's line money, and it goes in the annex against the trust and not against you, and it is not a loan, because a loan is enforceable and you cannot be sued and there is no office to sue, and a thing that cannot be enforced and is called a loan is a gift with a receipt on it, and I do not give gifts with receipts.
+"Before anybody says anything, the trust is not paying for the fen's evidence. The trust is buying a document, out of the March's line money, and it goes in the annex against the trust and not against you, and it is not a loan, because a loan is enforceable and you cannot be sued and there is no office to sue, and a thing that cannot be enforced and is called a loan is a gift with a receipt on it, and I do not give gifts with receipts."
 
 "What the trust buys is this. The reading goes to the district first and to you second. Not the other way round. And the March gets a copy and the annex carries a sum against it, and in four years the first row of the March's own line is thinner than it would have been by fourteen pounds ten, and I am going to write that down now, in my own hand, on the annex, where nine thousand people on a road who are not in this room can find it."
 
@@ -106,9 +106,9 @@ Marek went second and he had it written on the back of a seed order before he sa
 
 Tova Reed read both of them to the end without moving and then answered them in the order she had been given them and not in the order that suited her, which is her own habit and which Marek has never once got used to.
 
-"The first thing you are both right about is that a creditor in a document is a bad thing and I have spent four years making sure this trust is never a creditor of anybody who cannot pay it," she said, "and you are right that the annex names us as a party to the seed arrangements and not to the water, and I am not going to argue that word with you, because it is my word and you have read it correctly.
+"The first thing you are both right about is that a creditor in a document is a bad thing and I have spent four years making sure this trust is never a creditor of anybody who cannot pay it," she said, "and you are right that the annex names us as a party to the seed arrangements and not to the water, and I am not going to argue that word with you, because it is my word and you have read it correctly."
 
-"The second thing is wrong, and it is wrong in a way I would like written down, because it is the exact mistake I came here to stop. You are treating fourteen pounds ten as a sum of money competing with another sum of money, and it is not, and the fact that it is not is the entire reason the March exists. A hundredweight of compost is a return into a pipe. Fourteen pounds ten is the only thing this season has ever been produced that a stranger can check without believing anybody, and there are nine thousand people on a road who are going to spend four years comparing a fen line against a dry line, and the comparison is worth nothing to them if there is one licensed reading of this node in the world.
+"The second thing is wrong, and it is wrong in a way I would like written down, because it is the exact mistake I came here to stop. You are treating fourteen pounds ten as a sum of money competing with another sum of money, and it is not, and the fact that it is not is the entire reason the March exists. A hundredweight of compost is a return into a pipe. Fourteen pounds ten is the only thing this season has ever been produced that a stranger can check without believing anybody, and there are nine thousand people on a road who are going to spend four years comparing a fen line against a dry line, and the comparison is worth nothing to them if there is one licensed reading of this node in the world."
 
 "So it is not your shortfall against my shortfall. It is a return against a hole, and I know which of the two is worth more, and I have the arithmetic for it too, and my arithmetic says this."
 

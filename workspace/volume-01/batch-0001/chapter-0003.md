@@ -92,7 +92,7 @@ He started the pump.
 
 He got two fingers on the handle and pushed, and the pump took on his weight and went over, and Ilsa Kern said “Marek—” in a voice that had a great deal in it, and he got the hose into the coupling and gave the gland a quarter turn with his spanner and the collar took hold and stopped weeping at the gland, and then the first stroke of water came up out of the return main and up the line and out through the bed into the north annex of the seed house with a sound like somebody pulling a boot off in a river.
 
-It was cold. He had known it would be cold. He had not known that it would be that cold, and he had not known it would come up grey-brown, and he had not known that it would smell of iron so hard in a closed room that Nia Vale, who was counting trays on the far side of the annex, stopped counting.
+It was cold. He had known it would be cold. He had not known that it would be that cold, and he had not known it would come up gray-brown, and he had not known that it would smell of iron so hard in a closed room that Nia Vale, who was counting trays on the far side of the annex, stopped counting.
 
 He watched the dial come up off its rest. Sixty. Eighty. A hundred and ten. A hundred and thirty, and holding, and the hand shaking a little. Behind the dial there was a tally stick, and the tally was the number and the dial was only the pressure, because a stroke is a measured quantity and a hand on a needle is an opinion, and he had spent his working life finding out which of the two people in a room believed the needle. He wrote both on his forearm, because he had the notebook in his back pocket and both hands were on the handle.
 
@@ -102,7 +102,7 @@ She did not answer. She had gone past him and into the annex.
 
 He pumped four more strokes. On the last of them the water that came up was a different color.
 
-It was not grey-brown. It was the pale, translucent, yellow-white of a thing that has lost its air, and it came up into the bed and lay there on the rootwood instead of running off, because the bed was full, and the bed was full of the March’s last dry-land rye in eleven trays, and the first thing the water touched was the crown of the leaves nearest the inlet.
+It was not gray-brown. It was the pale, translucent, yellow-white of a thing that has lost its air, and it came up into the bed and lay there on the rootwood instead of running off, because the bed was full, and the bed was full of the March’s last dry-land rye in eleven trays, and the first thing the water touched was the crown of the leaves nearest the inlet.
 
 “Stop it,” Tova Reed said.
 
@@ -132,7 +132,7 @@ That was not what she had said. That was not a request to shut something off. Th
 
 Something in him let go, and what it let go into was relief, and he took the relief and turned it over and did not want it. She was not absolving him. He was being relieved of the job, which was not the same, and the difference between the two was three trays of rye raised a thousand miles in wet sand by people who could not afford another failure.
 
-That was the part he was going to have to carry. Not that he had been wrong about the return. He had been exactly right about the return and she had put it in a book. He had been right about a number and reckless about what the number would cost, and both were true at once and neither cancelled the other, and there is no version of an afternoon in which a man with a defensible reason does not pay for having had it.
+That was the part he was going to have to carry. Not that he had been wrong about the return. He had been exactly right about the return and she had put it in a book. He had been right about a number and reckless about what the number would cost, and both were true at once and neither canceled the other, and there is no version of an afternoon in which a man with a defensible reason does not pay for having had it.
 
 And the other half, which he had no name for: she had said no, in writing, before he started, and he had heard her, and hearing her had not stopped him. Respecting a refusal was not the same as agreeing with it, and he had known that for eleven seconds and had gone on anyway, and that difference was going to be the whole of what he had to learn.
 
@@ -162,7 +162,7 @@ She did not say it might be all right. Marek waited for it. She went along the t
 
 “I am sorry.”
 
-“I know,” Tova Reed said, “and it does not matter, and you should not stand there apologising to a woman holding a clipboard, it is a waste of both our time.” She turned round. “Now go and stand somewhere else, because I have to decide what to do with a piece of wet sand, and I would rather do it without a man who is looking at me with his whole chest.”
+“I know,” Tova Reed said, “and it does not matter, and you should not stand there apologizing to a woman holding a clipboard, it is a waste of both our time.” She turned round. “Now go and stand somewhere else, because I have to decide what to do with a piece of wet sand, and I would rather do it without a man who is looking at me with his whole chest.”
 
 He went out into the yard and stood by the well head in the dark, where two of Kellan’s men were still working.
 

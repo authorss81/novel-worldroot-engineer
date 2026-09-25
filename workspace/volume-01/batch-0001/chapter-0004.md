@@ -4,7 +4,7 @@
 
 The seed house smelled of wet sand and iron and forty people breathing in one room.
 
-Marek came in last and sat down at the far end of the long table with his coat still on, because taking it off would have meant committing to staying. The table was made out of two doors laid end to end and it had never once been polished. Nia had put a lamp at each end and a third in the middle where the plan was, and the plan was the same plan it always was: the whole holding in one flat piece of grey seed paper with the ditches in ink and the embankment in a heavier line, and the well head marked with a ring of salt.
+Marek came in last and sat down at the far end of the long table with his coat still on, because taking it off would have meant committing to staying. The table was made out of two doors laid end to end and it had never once been polished. Nia had put a lamp at each end and a third in the middle where the plan was, and the plan was the same plan it always was: the whole holding in one flat piece of gray seed paper with the ditches in ink and the embankment in a heavier line, and the well head marked with a ring of salt.
 
 Somebody had put a chair under the north door to keep the draught off the annex, and every so often somebody got up and moved it two inches and everybody watched them do it.
 
@@ -80,7 +80,7 @@ The clerk counted them herself, because Dunmar would not. Nine for, twenty-two a
 
 He unfolded it.
 
-“A new gasket for the well pump, cut and fitted, this week. A proper seal on the wound over the compound, dug out to the scarwood and dressed in new, not dressed over. Both at no charge to the cooperative, at no charge for the next season, and no charge for labour. In exchange, the maintenance contract runs exclusive for two years at the present rate, and the renewal of the charter carries the same term, and the cooperative’s acceptance column is confirmed for the six years already logged.”
+“A new gasket for the well pump, cut and fitted, this week. A proper seal on the wound over the compound, dug out to the scarwood and dressed in new, not dressed over. Both at no charge to the cooperative, at no charge for the next season, and no charge for labor. In exchange, the maintenance contract runs exclusive for two years at the present rate, and the renewal of the charter carries the same term, and the cooperative’s acceptance column is confirmed for the six years already logged.”
 
 The room made a noise that was not a word.
 

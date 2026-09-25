@@ -32,7 +32,7 @@ Then she wrote the sentence underneath it that the certificate required, and she
 
 The beat came up while she was in there.
 
-It came up through the boards and through the soles of everybody standing on them, one about every four seconds, out of the sump and below the sump, and it did not stop while the pump was on the idle and it did not stop while the pump was off, and Gael Senn counted it with her thumb on the edge of the rule, because she was the one holding the rule.
+It came up under the boards and through the soles of everybody standing on them, one about every four seconds, out of the sump and below the sump, and it did not stop while the pump was on the idle and it did not stop while the pump was off, and Gael Senn counted it with her thumb on the edge of the rule, because she was the one holding the rule.
 
 "Eleven in the quarter hour," she said, coming up. "Seven and eight, and then three and then a run of nine while the pump was coming up to the idle, and it is not the pump, because it did it in the night as well and I was here at two when it went."
 
@@ -62,11 +62,11 @@ Lissa Vale came out with the barrow and looked at it and did not help push it, w
 
 Marek got the boards down onto the well house bench at ten and laid out eleven pages and did the thing he had been doing in his head for four days, out loud, in a yard, with a lamp in it.
 
-"Here is the fault and here is the size of it. The return main under this head is twenty-two rods of eight inch. The work book in my mother's book says forty-one rods of twelve. There is a stone at the eleventh rod that has been there longer than the charter and I have known about it since the third day because a woman put her boot in it in Cray in the spring and told a woman in this yard about it.
+"Here is the fault and here is the size of it. The return main under this head is twenty-two rods of eight inch. The work book in my mother's book says forty-one rods of twelve. There is a stone at the eleventh rod that has been there longer than the charter and I have known about it since the third day because a woman put her boot in it in Cray in the spring and told a woman in this yard about it."
 
-"That main will not pass what the log says this node gives. It will not pass it by a long way. The cooperative's own ground takes seven hundred and twenty turns a day in a hot week and the log says this node gives eleven hundred, and three hundred and eighty of that is going somewhere on somebody else's ground every day of the year, and I have been able to prove that number since the third of last month and have not been allowed to file it.
+"That main will not pass what the log says this node gives. It will not pass it by a long way. The cooperative's own ground takes seven hundred and twenty turns a day in a hot week and the log says this node gives eleven hundred, and three hundred and eighty of that is going somewhere on somebody else's ground every day of the year, and I have been able to prove that number since the third of last month and have not been allowed to file it."
 
-"So the water comes up this head, and it goes into twenty-two rods of eight inch, and it comes out the other end, and the ground that is supposed to have it is not the ground that is standing next to this head. It is the field two hundred yards out that goes over sideways in a hot week, and it has been going over sideways for three seasons, and there are twenty-two acres of it, and the three acres at the top end of it are mine and I have been working them separately since the third season back because the cooperative would not have them.
+"So the water comes up this head, and it goes into twenty-two rods of eight inch, and it comes out the other end, and the ground that is supposed to have it is not the ground that is standing next to this head. It is the field two hundred yards out that goes over sideways in a hot week, and it has been going over sideways for three seasons, and there are twenty-two acres of it, and the three acres at the top end of it are mine and I have been working them separately since the third season back because the cooperative would not have them."
 
 "The repair is not more water. I have got more water; it is in the pit. The repair is a new return. Cut the main at the eleventh rod — past the stone, which is the only reason to cut it there — and bring a run along the ditch line to the head of that field, thirty-one yards, and let it in to the field's own root line at the ditch head. Then the field is fed off the return instead of off a draw, and the draw does not go up, and three hundred and eighty turns a day stops belonging to somebody else."
 
@@ -78,13 +78,13 @@ Nobody said anything for about a minute. The pump came up to the idle and the be
 
 Sera Quill put her case on the bench and opened it and did not take anything out of it.
 
-"Three questions," she said. "You have made a plan and a plan is not a thing I license. I am going to ask you the three, in this order, and you are going to answer them in front of these five people, and if you cannot answer one of them I am going to tell you the answer and you are going to decide what to do about it.
+"Three questions," she said. "You have made a plan and a plan is not a thing I license. I am going to ask you the three, in this order, and you are going to answer them in front of these five people, and if you cannot answer one of them I am going to tell you the answer and you are going to decide what to do about it."
 
 "Anchorage. What is holding this?"
 
 Marek had an answer for it and it was the only part of the plan he was proud of.
 
-"The field's own root line at the ditch head," he said. "It is not dead. It is lying down. Anything standing up in it this week is standing because there is water in the ground under it and not because of anything we did. And the two ends. The ferrule in the housing where the return enters, which is nine years old and has never been looked at, and the ditch head, and those two are the two ends and they are both alive and both already carrying the node's water.
+"The field's own root line at the ditch head," he said. "It is not dead. It is lying down. Anything standing up in it this week is standing because there is water in the ground under it and not because of anything we did. And the two ends. The ferrule in the housing where the return enters, which is nine years old and has never been looked at, and the ditch head, and those two are the two ends and they are both alive and both already carrying the node's water."
 
 "Path. What is making the connection."
 
@@ -96,7 +96,7 @@ Sera Quill wrote that down. She wrote down *cut with the root plate on* and *if 
 
 And that was the one, and Marek had known it was going to be the one since the seventh day of last month when a licensed woman had brought two hundredweight of compost into a yard out of her own fee money.
 
-"Labour," he said. "Recorded. Two names twice a day on the mill floor, and a monthly examination, and a name on the first of every month. That is the return that exists."
+"labor," he said. "Recorded. Two names twice a day on the mill floor, and a monthly examination, and a name on the first of every month. That is the return that exists."
 
 "That is the return that exists," Sera Quill agreed. "Now say the other one, because you have not said it, and I have asked you three questions and you have answered two of them and the third one is a question about a number and you have had four days."
 
@@ -108,11 +108,11 @@ He said it to the boards, and then he stopped, and then he said the rest of it, 
 
 Sera Quill capped her ink.
 
-"Then I will license it," she said, "and I am going to license it with the shortfall written into it, in my own hand, and I am going to give you the sheet, and I am going to tell you what that sheet is, and then I am going to go and stand somewhere else for a while.
+"Then I will license it," she said, "and I am going to license it with the shortfall written into it, in my own hand, and I am going to give you the sheet, and I am going to tell you what that sheet is, and then I am going to go and stand somewhere else for a while."
 
-"Under this trade a graft needs a living anchor, a compatible path, and a return. That is not a rule, it is a description of how water works, and a licensed engineer who signs a graft without a return is not a careful engineer. She is an engineer who has written a word she has not done.
+"Under this trade a graft needs a living anchor, a compatible path, and a return. That is not a rule, it is a description of how water works, and a licensed engineer who signs a graft without a return is not a careful engineer. She is an engineer who has written a word she has not done."
 
-"I am going to write the return line on that sheet with the arithmetic in it, and the arithmetic is three hundred and ninety-nine hundredweight short every month, and I am going to sign underneath the arithmetic, and my name goes first, and it will be the second document in ten days that has my name at the top of it and a hole in it that I put there myself.
+"I am going to write the return line on that sheet with the arithmetic in it, and the arithmetic is three hundred and ninety-nine hundredweight short every month, and I am going to sign underneath the arithmetic, and my name goes first, and it will be the second document in ten days that has my name at the top of it and a hole in it that I put there myself."
 
 "Here is what that will cost me and I want it said where the four of you can hear it, because you are the four who will be holding the thing. If a licensed engineer licenses a graft on a node with no return path sufficient to it, and that graft takes its balance out of somebody else's ground, then the first question in a room is not what happened to the branch. It is which licensed engineer put the two documents side by side. And there is one licensed engineer and she is standing in your yard."
 
@@ -122,9 +122,9 @@ She squared the sheet against the edge of the bench.
 
 She picked the case up off the bench.
 
-"Now the last thing and then I am going to bed, because I have been awake since four and I am fifty-six.
+"Now the last thing and then I am going to bed, because I have been awake since four and I am fifty-six."
 
-"Mr Vale is not making this. Not one joint of it, and not the run, and not the willow. There is a licensed engineer in this yard and there are four unlicensed people in it, and the licence is mine, and the work is theirs, and the engineer of record holds the boards and says the numbers and does not put his hands in the ditch.
+"Mr Vale is not making this. Not one joint of it, and not the run, and not the willow. There is a licensed engineer in this yard and there are four unlicensed people in it, and the license is mine, and the work is theirs, and the engineer of record holds the boards and says the numbers and does not put his hands in the ditch."
 
 "You have been told that once. I am telling you a second time in front of witnesses because the second time is the one that gets written down, and because in a bad month in February somebody is going to want to know whether the man who wrote the number was the man who cut the wood, and the answer is going to be no, and it is going to be in four hands and not five."
 

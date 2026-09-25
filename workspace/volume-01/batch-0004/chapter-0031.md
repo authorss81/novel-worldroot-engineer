@@ -74,7 +74,7 @@ Rowan Teale's boy came up the fen road at the ninth hour with a number and no bu
 
 Dunmar Fitch entered the whole of it in the cooperative book with the hour and the miller's name and the method, and read it back, and then said, without being asked, that this was the fifth figure from a miller to go into that book and that a miller's figures were not records of a charter holder's node and never would be, and that he had entered all five as a thing reported.
 
-"Two hundred and fifty-four is a flow and one hundred and eighty-one is a man turning a wheel with his own arm because there is no water," he said. "Those are two different things on one page and a hearing officer is entitled to be told which is which, and it will be me that has to tell him, and I have never in nineteen years entered a figure with a method attached to it and I do not know that anybody ever has.
+"Two hundred and fifty-four is a flow and one hundred and eighty-one is a man turning a wheel with his own arm because there is no water," he said. "Those are two different things on one page and a hearing officer is entitled to be told which is which, and it will be me that has to tell him, and I have never in nineteen years entered a figure with a method attached to it and I do not know that anybody ever has."
 
 "And in eleven days he is entitled to ask us why the only numbers in this file are ours."
 
@@ -82,7 +82,7 @@ Dunmar Fitch entered the whole of it in the cooperative book with the hour and t
 
 They spent the middle of the day on the arithmetic, because that was what there was to do with it. Marek put it on the well house bench with the log open and did it the way he did everything, out loud, with the page turned round so a stranger could read it.
 
-"Eleven working days from the twenty-eighth," he said. "That is the form, in or about the forty-second, and I will not put a day on it because a clerk does not work to a Sunday and neither do I. The sixty pounds ten is payable in fourteen days from the same serving, and that is the same week. So in about a fortnight the whole of what we have said for six weeks comes due, and there is no sitting appointed and no hearing officer in this district yet and no second reader, and there is a bill, and a file with a report on it, and a renewal application that has been recalled into a tray in Fennmere, which is the worst place a document can be.
+"Eleven working days from the twenty-eighth," he said. "That is the form, in or about the forty-second, and I will not put a day on it because a clerk does not work to a Sunday and neither do I. The sixty pounds ten is payable in fourteen days from the same serving, and that is the same week. So in about a fortnight the whole of what we have said for six weeks comes due, and there is no sitting appointed and no hearing officer in this district yet and no second reader, and there is a bill, and a file with a report on it, and a renewal application that has been recalled into a tray in Fennmere, which is the worst place a document can be."
 
 "And in eleven days a man in that room is entitled to ask this body four questions. Why did the return go short. Who put three hundred and eighty turns a day on somebody else's ground. What was done on the night of the tenth of last month at Weir Row. And whether this body can produce a copy of its own book that leaves this yard."
 
@@ -92,11 +92,11 @@ He put the pencil down.
 
 Nobody said anything useful for about a minute.
 
-"There is a man eleven miles from the Fennmere counter," Marek said. "Idris Vane. Sixty-one, on the Assembly's roll for this district with Ms Quill, and the roll has two names on it and one of them is her. He has had no paid work since his wife died, and he reads better than she does, and on the thirtieth she said he would come in three days if we asked him, and that a reading taken inside the notice period is not a reading, it is a second opinion with the temperature still on it.
+"There is a man eleven miles from the Fennmere counter," Marek said. "Idris Vane. Sixty-one, on the Assembly's roll for this district with Ms Quill, and the roll has two names on it and one of them is her. He has had no paid work since his wife died, and he reads better than she does, and on the thirtieth she said he would come in three days if we asked him, and that a reading taken inside the notice period is not a reading, it is a second opinion with the temperature still on it."
 
-"So the month does not have him in it, and the reason is the notice and not the money, and I have just worked out that the reason it does not have him in it is that nobody has ever gone and given him the notice. It does not get given because he is eleven miles off the fen road. It does not get given by post either, because a notice served by post on a man at his own table is a notice he can argue with, and if he argues with it then in six weeks a hearing officer asks whether independent notice was given, and Mr Vane says either *I asked them three times and they came to my face on the Friday*, or he says *no*, and both of those are in his own mouth and I cannot put one of them there.
+"So the month does not have him in it, and the reason is the notice and not the money, and I have just worked out that the reason it does not have him in it is that nobody has ever gone and given him the notice. It does not get given because he is eleven miles off the fen road. It does not get given by post either, because a notice served by post on a man at his own table is a notice he can argue with, and if he argues with it then in six weeks a hearing officer asks whether independent notice was given, and Mr Vane says either *I asked them three times and they came to my face on the Friday*, or he says *no*, and both of those are in his own mouth and I cannot put one of them there."
 
-"I am going to walk there on the Friday," he said. "Eleven miles out and eleven back in a day, and I am going to take the notice written out, and I am going to hear him say no out loud if it is a no, standing in his own kitchen, where it is a fact and not a rumour with a witness in it."
+"I am going to walk there on the Friday," he said. "Eleven miles out and eleven back in a day, and I am going to take the notice written out, and I am going to hear him say no out loud if it is a no, standing in his own kitchen, where it is a fact and not a rumor with a witness in it."
 
 "That is two days of work," said Anneke Roos. "It is the right two days. Say what it is in the book and say the hour, because a man who walks eleven miles to ask a question is a man who wants the answer, and that goes in."
 
@@ -108,7 +108,7 @@ The ditch at the head of it was wet the whole thirty-one yards, in the dark, wit
 
 Nineteen acres below the ditch head were standing. The heads were still white, and there was nothing in Tarrow Fen to eat them, and no sheep, and no cart, and a winter coming.
 
-The three acres at the top end were the colour of a wet road. The crust that had come up in one sheet where he put his boot into it on the Sunday had gone grey and had not moved, and the banks that had been in the ground for three years were lying in lumps in their own bed, and the four hundred and ten yards of ditch he had dug by hand across three autumns were a place a beast would put a leg in.
+The three acres at the top end were the color of a wet road. The crust that had come up in one sheet where he put his boot into it on the Sunday had gone gray and had not moved, and the banks that had been in the ground for three years were lying in lumps in their own bed, and the four hundred and ten yards of ditch he had dug by hand across three autumns were a place a beast would put a leg in.
 
 He stood at the four-o'clock corner of a ditch he had made and worked out what he had, out loud, in the dark, to nobody, because it was the only auditor he had left.
 

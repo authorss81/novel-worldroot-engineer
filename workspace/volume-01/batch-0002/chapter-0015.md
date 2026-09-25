@@ -42,7 +42,7 @@ The sub-office clerk, Perrin Osse, came in at ten with the register, and the fou
 
 Gael Senn said, "That is everything," from about a foot down the ladder.
 
-"That is everything," Marek agreed. "And it is not a favour and nobody thinks it is, and I am not going to insult Mr Oskell by pretending it is. What it is, is the whole of the district's money and the whole of the district's licensed hands, in exchange for the thing this cooperative owns."
+"That is everything," Marek agreed. "And it is not a favor and nobody thinks it is, and I am not going to insult Mr Oskell by pretending it is. What it is, is the whole of the district's money and the whole of the district's licensed hands, in exchange for the thing this cooperative owns."
 
 He got a stub of pencil and did it on the face of the page, in the margin, in his own hand, where it could not be mistaken for a clerk's entry. He struck out the words *exclusive access to the head, the housing, and the node for the term*. He wrote under it: *Refused. The cooperative will not grant exclusive access to a node it is asking to be shown it maintains, and a monitored repair under exclusive access cannot be shown to be maintained by the people who live on it, because the people who live on it are not allowed to touch it.*
 
@@ -114,7 +114,7 @@ Then she said, "One more, and it is not about the number, and it is the only thi
 
 She got up off the gate post and shouldered the crutch.
 
-"You do not ask for the table," she said. "You fill in the renewal. And when they send you the renewal back they send you the schedule with it, because they have to, because the first box on that form says *works already scheduled on this node* and a man in an office who sent you a renewal with an empty box would be sending you a form he has not read. They send you the extract so that you do not duplicate work somebody else is already doing. That is the whole of the reason. It is not a favour and it is not a leak. It is a clerk saving himself a letter, and clerks will save themselves a letter every day of their lives."
+"You do not ask for the table," she said. "You fill in the renewal. And when they send you the renewal back they send you the schedule with it, because they have to, because the first box on that form says *works already scheduled on this node* and a man in an office who sent you a renewal with an empty box would be sending you a form he has not read. They send you the extract so that you do not duplicate work somebody else is already doing. That is the whole of the reason. It is not a favor and it is not a leak. It is a clerk saving himself a letter, and clerks will save themselves a letter every day of their lives."
 
 Marek looked at the housing, and at the open collar, and at the four unused sockets in the wire cradle.
 

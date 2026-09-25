@@ -2,6 +2,8 @@
 
 This file is the vocabulary authority for Veyra. Use these terms consistently in outlines, chapter cards, summaries, and prose. Regional characters may use local words in dialogue, but the underlying concept should remain identifiable.
 
+**Spelling.** The bible, the outlines, and the prose use **US spelling** (labor, color, defense, honor, neighbor, program, rumor, license as both noun and verb, gray). This was decided once at the Volume 01 close and applied as a single mechanical pass over Chapters 1–49; do not reintroduce British forms into the prose. The two forms that remain acceptable in US English, *toward* and *towards*, are not treated as variants.
+
 ## Core ecological and magical terms
 
 ### Rootway

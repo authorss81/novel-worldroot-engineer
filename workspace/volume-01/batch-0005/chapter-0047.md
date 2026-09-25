@@ -2,7 +2,7 @@
 
 ## A Docket Off A Nail
 
-The water went down off the three acres over about a day and a night, and what it left was not the crust that had come up in one sheet on the Sunday of a month ago, because that crust was somewhere under a foot of grey silt, and Marek did not go looking for it and told nobody he was not going to.
+The water went down off the three acres over about a day and a night, and what it left was not the crust that had come up in one sheet on the Sunday of a month ago, because that crust was somewhere under a foot of gray silt, and Marek did not go looking for it and told nobody he was not going to.
 
 The holding drained the way gravel does, from the top, fast, and then it did not drain at all for five days, and on the morning of the nineteenth he walked out into the top of the field and put a bar in the crack where his ditch had stopped being a ditch and the bar went in eleven inches and the water in the hole was still and brown and had not moved since the day before, and that was the whole of the three seasons, in a bar's length of brown water.
 
@@ -70,9 +70,9 @@ The letter came back on the nineteenth, and it did not come back by cart.
 
 Anneke Roos put it on the seed house table herself, face down, and it was sealed, and it was addressed to K. Rusk, Fennmere pump house, and it was the letter that had gone out of this building on the twentieth day of last month on the twenty-second line of a list, in a column headed *who is standing there when it goes*, with a clerk's and a seed house's name in the two columns beside it and neither of them knowing that the woman who wrote the list was the one who had carried it.
 
-"It came back this morning," she said. "It came back into this yard by hand and the person who brought it has gone on up the road and did not stop, and she is not in this building and I am not going to ask anybody to go after her.
+"It came back this morning," she said. "It came back into this yard by hand and the person who brought it has gone on up the road and did not stop, and she is not in this building and I am not going to ask anybody to go after her."
 
-"And here is what goes in the book, in my hand, and Marek can stop me and he is not going to stop me, because a cooperative that wrote to its contractor and did not send the letter is a fact about this cooperative and it is going to be in a room on the twenty-first whether it is in a book or not. The letter was written on the twentieth day of last month. The list was made out. The letter was not delivered, and it has come back unopened, and the reason it was not delivered is hers and not mine and she has not given it to me and I am not writing down a thing I was not told.
+"And here is what goes in the book, in my hand, and Marek can stop me and he is not going to stop me, because a cooperative that wrote to its contractor and did not send the letter is a fact about this cooperative and it is going to be in a room on the twenty-first whether it is in a book or not. The letter was written on the twentieth day of last month. The list was made out. The letter was not delivered, and it has come back unopened, and the reason it was not delivered is hers and not mine and she has not given it to me and I am not writing down a thing I was not told."
 
 "And the part that is ours goes in. This body built a list, and put a line on it, and put a name against the line, and sent a woman out with a sealed letter in her coat, and did not ask her afterwards whether she had done it, because the answer was easier not to have. That is a fact about this yard and it is a fact about me, because I countersigned it, and I would like it in the book in my own hand on the nineteenth of this month rather than on a wall in Fennmere on the twenty-first, where a stranger would be able to say it in a nicer voice than I have said it in."
 

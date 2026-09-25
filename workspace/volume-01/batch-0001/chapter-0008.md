@@ -98,7 +98,7 @@ Bray did not turn round. “Because notification is not in the schedule as draft
 
 “Yes, Inspector.”
 
-“That is the whole of what I have,” Bray said. “It moves the question and does not answer it. At nine in the morning I have a cooperative with an open book, an over-stated number in a district filing the cooperative signed for six years, a trespass, a pad that is not a seal, and no licensed hand that has signed anything. I will write all of it. I am not going to pretend I have found a wound upstream that belongs to somebody else’s schedule and call the morning a good one, because a schedule nobody local can see is not a defence, it is an absence.”
+“That is the whole of what I have,” Bray said. “It moves the question and does not answer it. At nine in the morning I have a cooperative with an open book, an over-stated number in a district filing the cooperative signed for six years, a trespass, a pad that is not a seal, and no licensed hand that has signed anything. I will write all of it. I am not going to pretend I have found a wound upstream that belongs to somebody else’s schedule and call the morning a good one, because a schedule nobody local can see is not a defense, it is an absence.”
 
 “I want to put something on the table,” Marek said.
 
