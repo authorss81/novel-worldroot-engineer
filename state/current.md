@@ -1,27 +1,27 @@
 # Current State
 
-Current phase: Volume 01, Batch 0001 **written, reviewed, and repaired**. Chapters 1–10 exist in `workspace/volume-01/batch-0001/`. A full review found ten blocking continuity breaks, eleven missing card beats, six state-file errors and a batch-wide pause-formula tic; all were fixed in place without restarting the batch or changing the plot. The numbered fix list, and the locks it created, are in `state/continuity.md`.
+Current phase: Volume 01, Batch 0002 **written**. Chapters 11–20 exist in `workspace/volume-01/batch-0002/`. No review pass has been run on this batch yet; the first thing a reviewer should do is read `state/continuity.md` § *New locks from the drafted Batch 0002* and check every number in it against the chapters.
 
 Current volume: 1
 
-Current batch: 1 — complete. `chapter-0001.md` through `chapter-0010.md`, days 1–11.
+Current batch: 2 — complete. `chapter-0011.md` through `chapter-0020.md`, days 12–20.
 
-Last completed chapter: 10 — *Seven Days*
+Last completed chapter: 20 — *The Last Line Of The List*
 
-Last batch summary: `state/chapter-summaries.md` carries one compact entry per chapter for Batch 0001, plus the per-chapter locks that Movement 2 must not break.
+Last batch summary: `state/chapter-summaries.md` carries one compact entry per chapter for Batch 0001 and for Batch 0002.
 
-Next phase: `workspace/volume-01/batch-0002/PROMPT.md` — the only queued prompt, writing Chapters 11–20 (Movement 2, *Somebody Else's Hand*, days 12–20). Do not recreate a second prompt.
+Next phase: `workspace/volume-01/batch-0003/PROMPT.md` — the only queued prompt, writing Chapters 21–30 (Movement 3, *The Repair That Bites*). Do not recreate a second prompt.
 
-**Phase ledger note.** The phase prompt for this batch asked for state updates and did not ask for `state/phase-ledger.json`, while the operating rules forbid editing it. There is also a standing conflict recorded in `reviews/phase-001-outline.findings.md` item B: phase prompts have historically told the writer to update the ledger and the writer's rules forbid it. It was not touched here. `state/current.md` remains the de facto status file until a human picks an owner.
+**Phase ledger note.** This phase prompt asked for state updates and did not ask for `state/phase-ledger.json`, while the operating rules forbid editing it. There is also a standing conflict recorded in `reviews/phase-001-outline.findings.md` item B: phase prompts have historically told the writer to update the ledger and the writer's rules forbid it. It was not touched here. `state/current.md` remains the de facto status file until a human picks an owner.
 
-Active threats: Lantern Reach's failing well and expiring charter; Kellan's falsified acceptance column and a deliberately under-built return branch; a Crown maintenance schedule that runs on a three-year cycle above a cooperative nobody told; a waterlogged compound pad over a wound held by nothing; Crown inspectors with an emergency-seizure clause; and seven days.
+Active threats: **no charter** — the cooperative holds nothing, the pump runs because nobody has sealed it, and any report from anybody reopens the emergency clause; a hand-built holding seal with a weep at its low corner; £80 a month of compost that does not exist; **a Crown crew due at Weir Row on the twenty-seventh** that the cooperative cannot stop and was never told about; a district filing containing a true cause and a false box; and a seed vault cooling by degrees.
 
-Active promises: build a real seal by hand in seven days with people who have never built one; make the shared draw's return visible and paid; get Sera Quill a repair attempt she can certify; put Tova's annex and the trust's name in the cooperative's book; and keep the fieldbook out of the district's hands without losing the only instrument that has ever told Marek the truth.
+Active promises: keep the monthly examination honest on the first of every month; keep the certificate, which is one day of evidence and no more; find out whether a cooperative with no charter can still keep a public record; pay back the £1 14 Marek put in; and decide what to do about a cut the schedule owes and the fen pays for.
 
-Added by the review: **the cooperative voted the truth out of its own book in Ch 4** and then opened the book instead, so Movement 2 inherits a membership that has chosen not to file a correction. **Sera has now broken six years of silence in public** and asked for her refusals recorded, so she is visible to the district in a way she was not at the start of the batch. **The pulse has a custodian** — Bray timed it, declined to write it, and put that on the record.
+Added by this batch: **a crew that is not a queue** — Ilsa Kern, Gael Senn, Jonas Byre, Anneke Roos — trained in four rules and one refusal; **a rule that beat them**, written into their own log on the fourteenth and broken on the seventeenth by the man who wrote it down; **Kellan Rusk's compound book, refused, correctly**; **a district works schedule of ninety rows**, handed over as a courtesy and handed back unread; and **Sera Quill's name ahead of his on every page of it.**
 
-Forbidden in Volume 01: the Crown Engine, the Continuity Office, False Season, Iona Vey, the Quiet Break, and any history lecture. The Crown here is a serial number, a stamp, a table, a schedule, and a clause.
+Forbidden in Volume 01: the Crown Engine, the Continuity Office, False Season, Iona Vey, the Quiet Break, and any history lecture. The Crown here is a serial number, a stamp, a table, a schedule, a form, and a clause. The twenty-seventh is a work order, not a conspiracy.
 
-Current relationship pressure: Marek and Tova are professionals with a written disagreement and a shared plan, and nothing else; Lissa holds the fieldbook under a use log and has not forgiven him; Nia has a cart booked for the twentieth; Sera has put her license behind a plan that says *as it stands tonight* on the front of it; Kellan is exposed, not defeated, and his crew has left the fen.
+Current relationship pressure: Marek and Tova are professionals with a written disagreement, a shared annex, and a condition she named out loud in a yard; **Lissa holds the fieldbook, said no twice before she said yes, and signed the witness column on her daughter's last line without a word**; **Nia is on a cart that left at ten past five and the volume does not get her back**; **Gael Senn is the monthly examiner and has her name second on a certificate**; Anneke Roos is a tenant who has said no to him twice and been right both times; Sera has put her license and her reputation on it; Kellan has refused him once, in writing, and has not apologized.
 
-Current power state: **Stage 0.** Two contacts behind him — one supervised (Ch 6), one deliberate and unlicensed with no return (Ch 9) — and Sera Quill's own statement that he cannot safely repeat either. **Both contacts lasted four seconds; the second cost more, not longer.** No rootmark, no anchor work, no bridge above local conduit, no seedheart, no caretaker link. Stage 1 is not sustained until the end of Volume 01; the first skin rootmark is Volume 02.
+Current power state: **Stage 0.** Two contacts behind him — one supervised (Ch 6), one deliberate and unlicensed with no return (Ch 9) — **and no third.** Sera Quill refused him the pit in Chapter 11 and the Chapter 20 reading was taken by a licensed reader with Marek on the boards outside the housing. No rootmark, no anchor work, no bridge above local conduit, no seedheart, no caretaker link. Stage 1 is not sustained until the end of Volume 01; the first skin rootmark is Volume 02.

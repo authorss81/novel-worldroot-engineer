@@ -127,6 +127,10 @@ The romance is a partnership of two competent people with different duties. It d
 - **Relationship:** She trained Marek's father, recognizes Marek's habits because he inherited them from Aldren, and becomes a difficult substitute parent rather than a perfect mentor.
 - **Historical position:** She was not present at the 121-year-old Quiet Break. Her witness is through the surviving records, colleagues, and the later Brinewake relay she helped conceal.
 - **Revelation:** Nineteen years ago she designed a Crown safety relay that could have isolated a pruning pulse before the **Brinewake Collapse** in the Salt March. The pulse killed 4,200 people in its first winter and displaced 9,000 more. She removed the relay's red-line warning, changed the log to routine recalibration, and signed a report blaming salt creep and weather. She did not operate the Engine or cause the collapse alone, but her falsification removed the warning that might have slowed it. Her testimony later concerns records and decisions she made, not an eyewitness memory of the Quiet Break.
+- **The two findings that are hers (Ch 11):** she goes down the pit and finds a **callus across the top third of a two-hand wound** that four seasons of Kellar's tar kept alive, and she says the honest, painful thing: the log is a lie and the dressing worked, and she does not know how to write both in one line of a page. She is a technician before she is a moral, and Volume 01 catches her in that order.
+- **The liability (Ch 11, priced out loud):** she is a freelancer with no employer, no district behind her, and no office that would stand in front of her at a hearing. *A licensed engineer's name on a node is a promise that the node is somebody's to answer for, and the somebody is me.* Her name goes on the certificate first and Marek's under it, and the order of the two names is a thing she insists on.
+- **The refusals (three of them, all the same two names):** she has seen the shape of a district works schedule before, and where, and what it is, and she will not say any of it. On the seventeenth she gives ground she did not plan to give — *I have worked with district schedule forms* — in front of a district clerk, because she is going to be in a certificate two days later and cannot have the schedule sitting in a drawer with no word of it in her own report. **She has not been asked about Brinewake and has not offered it, and Movement 3 must not ask.**
+- **The Ch 20 reading is hers, not Marek's:** she is the licensed reader, the fieldbook is in her hands at the seam, and Marek is on the boards outside the housing. What she gets is not a shaft and not a father and not a message: four actions, **cut, wait, cut**, in the same order as the Weir Row wood. She calls it a procedure stored in living wood and refuses a third time. It is one step short of the answer she gives in Chapter 46 and must stay one step short.
 - **Arc:** She publicly testifies, surrenders her professional authority, and helps distribute the archives. She survives the final conflict and lives with the fact that survival is not absolution.
 
 ### Soren Rill — Thornwild guide and political bridge
@@ -153,6 +157,9 @@ Aldren is not a hidden superpowered ally. He is a missing engineer whose final d
 - **Method:** Falsified pressure logs, deliberate underreporting, and selective repair
 - **Belief:** Private control is ugly but functional; public control will become another famine
 - **Function:** Forces Marek to learn that a bad number can be a political act. Kellan is exposed, testifies about Crown practices, and survives under a restrictive charter rather than being killed.
+- **The compound book (Ch 15):** Marek asks for it — batch weights, pot temperatures, four seasons of dressing dates, the *base coat* column and its four rows. **Kellan refuses, in his own hand, and the refusal is correct:** the book is the only record in the district that the pad was built as a surface hold and not as a seal, and handing it over would let a district officer read a cooperative's withy-and-sacking holding repair as a Crown specification. *A man who has dressed a wound once a year for four years for nothing is not a man anybody should be able to turn into a witness for a coat.* He does not apologize for the district filing, and he does not soften the refusal. **He is right, and Marek says so out loud in front of four people.**
+- **The letter (Ch 18):** Nia Vale is carrying a sealed, undelivered letter to his pump house in Fennmere. Marek will not ask him to reduce his draw, will not ask for a return, will not speak about a log he has never measured, and will not say publicly that the acceptance column was a lie, because Kellan did not lie about the pad — he called it the wrong word. **This letter is how Kellan becomes a willing rather than a coerced witness in Chapters 44–46**, and whether it is ever handed over is not settled at the end of the batch.
+- **On the eighteenth he comes to the inspection because he is charter holder of record**, stands at the back for two hours, says two sentences that nobody asked him for, and warns the yard — to nobody in particular — that Bray will not read the rule the way they want him to read it, and that the page will still be there in three years saying the same thing. He never apologizes and nobody makes him.
 
 ### Warden Halden Pike — professional antagonist
 
@@ -205,10 +212,10 @@ These are drafted and load-bearing. They are not atmosphere.
 
 ### Gael Senn — lamp-keeper, Lantern Reach
 
-- **Age:** 23. **Want:** To be a rootwright, and to be a person who can be trusted in a pit, and to stop being the youngest one in every room.
+- **Age:** 23. Want: To be a rootwright, and to be a person who can be trusted in a pit, and to stop being the youngest one in every room.
 - **Strength:** Slow, careful, reads twice, and says *I have not seen the cause and I am not asked to.*
 - **Flaw:** She wants the work to be real more than she wants to be important, and that is rarer than it sounds and less protection than she thinks.
-- **Function:** The batch's witness and the person at risk. She signs the Weir Row page, and she is the one who ends up on the maintenance plank at Weir Row in the storm. She is named as a witness in Sera Quill's scope, which is the first legal weight she has ever carried.
+- **Function:** The batch's witness and the person at risk. She signs the Weir Row page, and she is the one who ends up on the maintenance plank at Weir Row in the storm. She is named as a witness in Sera Quill's scope, which is the first legal weight she has ever carried. **In Batch 0002 she is given the first holding-maintenance entry in the history of the cooperative:** the certificate names Sera Quill first, then Gael Senn, and the certificate's return clause requires her to open that wound and look at it on the first of every month and enter what she finds in the standing pressure log. **She insists on the wording before she signs: *nothing found* and not *all well*, because *nothing found* is a thing you check and *all well* is a thing you did not.** She is the seed of the volume climax, and she is not to be rescued from it.
 
 ### Ansel Bray — Well Directorate inspector, Tarrow Fen
 
@@ -225,7 +232,7 @@ These are drafted and load-bearing. They are not atmosphere.
 - **Want:** To keep the pad dressed and to not be the man who decides anything.
 - **Strength:** He is competent and honest inside the limits of his job, and he will say a true thing to Marek's face: *you cannot close a thing with tar.*
 - **Flaw:** He loads the cart and goes when a girl is in the water. One flat line — *I have got the load* — and it is never explained and never softened.
-- **Function:** The Volume 01 bridge to Kellan. He is in the yard on the hearing day and knows which kit went out when, which is why he is standing in the flood in Chapters 44–46. He is potentially a later witness and is not redeemed by being decent under pressure.
+- **Function:** The Volume 01 bridge to Kellan. He is in the yard on the hearing day and knows which kit went out when, which is why he is standing in the flood in Chapters 44–46. He is potentially a later witness and is not redeemed by being decent under pressure. **He does not appear in Chapters 11–20 and his refusal is not referred to, softened, or undone anywhere in that batch, and nobody makes anybody apologize for it.**
 
 ### Perrin Osse — clerk, Fennmere sub-office
 
@@ -236,7 +243,32 @@ These are drafted and load-bearing. They are not atmosphere.
 ### Bram Oskell — papers, Kellan's pump house, Fennmere
 
 - **Role:** Kellan Rusk's contract clerk. Delivers offers and notices in person because he does not trust birds.
-- **Function:** He brings the first offer in Chapter 4 with the conditions attached, mentions Sera Quill on the fen road in passing, and asks the question nobody wants answered: *what is the cooperative going to seal the wound with?*
+- **Function:** He brings the first offer in Chapter 4 with the conditions attached, mentions Sera Quill on the fen road in passing, and asks the question nobody wants answered: *what is the cooperative going to seal the wound with?* In Batch 0002 he rides eleven miles to serve the district's monitored-repair offer and rides twenty-two miles in a day to bring back an answer, and he tells Marek that Kellan has written to the sub-office disclaiming his own crew's involvement in the offer, which Oskell says is the first time in nineteen years a charter holder has written that sentence to him.
+
+### Anneke Roos — tenant, north row, the low acre
+
+- **Age:** Forty-one. Farms the low acre, the ground that goes under first. No children; a brother in Fennmere who does not write; **fifty-one in the spring.**
+- **Want:** To be one of the people who does the work rather than one of the people who arranges it.
+- **Strength:** She reads an entry for what it is trying to become. On the fourteenth day she refuses to sign a drafted log line that says *wound inspected* when the pad was on and nobody had touched it, and rewrites it at nineteen lines because four unlicensed people had been within reach of a living conduit and the page did not say so. **Her refusal is correct, and the rewritten entry is the first document in six years that Sera Quill would put in front of a hearing officer unaltered.**
+- **Function:** She is the voice of the rule that the volume turns on. On the eleventh she says the real objection to the crew work — not that it is dangerous, but that the four hands will be the four names in a document about a thing that went wrong, while the two who arranged it are not in it. On the sixteenth she makes the refusal of Crown money cost something specific: *if it goes in February it goes because we said no to the only person in this district who could have stopped it going.* On the nineteenth she names Gael Senn as the monthly examiner and gives the reason. On the twentieth she tells Marek he is not going to be the one in the pit in January.
+- **Signature habit:** She reads every entry aloud before it goes in, and she initials rather than signs when she is recording an opinion rather than doing the work.
+- **Her line on the district file:** *A cooperative's whole survival in this district rests on one inspector happening to be interested in the wrong thing* is not hers; hers is the refusal to sign, and the sentence she forces onto the levy paper — *it is a woman's fee, and the woman is putting her own name on top of his, and we are raising it out of sixteen houses to pay her.*
+
+### Jonas Byre — tenant, north row, the low ground
+
+- **Age:** Forty-eight. The man with the cough, from the north row, who seconded Marek's refusal motion in Chapter 4 and abstained on the claim in the log and would not say why.
+- **Want:** Not to be surprised. He is tired of being a man who finds out late.
+- **Strength:** Thirty-one years of counting the mill wheel in the voice of a man reciting a habit, which is why the load test depends on him from the boards and not from the pit.
+- **Cost:** On the fifteenth, going down four feet on a ladder in the cold to take a bar off Marek, he cannot get his leg, and has to be hauled out on his hands and knees. He will not go down four feet again. **The crew is four from then on, and the seal and the load test are a four-person job.** He asks for it to be written up as a man in a pit who should not have been in a pit, and not as a thing about his chest.
+- **Function:** He is the cooperative's standing suspicion, and the reason the fourth hour of the fourteenth day is the hour that convicts Marek on the eighteenth: Byre reads the dial from above the pit, out of thirty years of habit, and the load test is trustworthy because of him.
+
+### Marda Vole — mender of implements, the peat roads
+
+- **Age:** Somewhere near fifty. Not from the fen; nobody from the fen stands at a gate and asks permission.
+- **Trade:** Locks, hinges, chains, cradle-hooks, well-covers, cart-tips — anything with an eye in it. She goes the old peat roads because that is where the people who need mending are.
+- **Function:** The volume's only Undercommons courier. She comes to the gate on the sixteenth to mend the mill sluice and the four unused sockets in a wire cradle, and she says the number unprompted: **N-2214 is die-struck into branches on four holdings in three other provinces, the same die, three of them from men who had never met.** She refuses to say whose branches and will not report on a thing she has not been on. **What she actually gives is procedure, not rescue:** nobody gives a cooperative the table, but every renewal comes back with the district's works-schedule extract attached, because the form's first box asks what is already scheduled and a clerk will not send ninety forms with an empty box.
+- **Her rule for the book:** *If a form ever comes to you with a number in a box that is not a number, you fill it in as the number says and not as you would like it to say, because that box is the only part of that form anybody in your position will ever be believed about. Everything else on it is your opinion.*
+- **Constraint:** She is paid in bread. She is not mysterious, she is tired, and she has not been in this fen since the sixteenth. One courier, one warning, and never a second.
 
 ## Relationship and conflict map
 

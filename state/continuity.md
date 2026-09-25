@@ -6,13 +6,13 @@ The world, power rules, protagonist, relationships, terminology, antagonist ladd
 
 `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md` are **approved and now drafted**. Chapters 1–10 exist in `workspace/volume-01/batch-0001/`. Where this file and a drafted chapter disagree, the chapter governs the prose and this file is corrected.
 
-**Volume 01, Chapters 1–10 are written.** The next prose phase is Batch 0002, Chapters 11–20, and it is the only one queued; there is exactly one unexecuted batch prompt in `workspace/`.
+**Volume 01, Chapters 1–20 are written.** Chapters 11–20 are in `workspace/volume-01/batch-0002/` and were drafted against the state files, so the numbered fix list under *Fixes applied to the drafted Batch 0001 on review* was read first and is honored throughout. The next prose phase is Batch 0003, Chapters 21–30, and it is the only one queued.
 
 ## Opening state (as established by Chapters 1–10)
 
-Marek Vale is twenty-nine, an agricultural engineer and irrigation surveyor at the Lantern Reach Work Cooperative in Tarrow Fen. The third consecutive White Harvest has failed. The charter expires on the eighteenth and the annual inspection is on the same day. After Chapter 10 he has no contractor, a wrecked coupling, a waterlogged pad, seven days, a fieldbook he no longer holds, and an instrument on a Directorate record.
+Marek Vale is twenty-nine, an agricultural engineer and irrigation surveyor at the Lantern Reach Work Cooperative in Tarrow Fen. The third consecutive White Harvest has failed. The charter expired at midnight on the eighteenth day and the annual inspection fell on the same day. After Chapter 20 he has no contractor, no charter, a wrecked coupling, a hand-built holding seal that is standing and wet at one corner, a month of compost he cannot buy, a branch at Weir Row that bleeds and is due to be cut again on the twenty-seventh, seven days, an instrument he no longer may open, and a sister on a cart.
 
-Marek is **still Stage 0** at the end of the batch, with two contacts behind him — one supervised (Chapter 6) and one deliberate and unsupervised with no return (Chapter 9) — neither of which he can repeat. There is no rootmark. Stage 1 is not sustained until the end of Volume 01.
+Marek is **still Stage 0** at the end of Batch 0002, with two contacts behind him — one supervised (Chapter 6) and one deliberate and unsupervised with no return (Chapter 9) — neither of which he can repeat, and **no third**. Sera Quill refuses him the pit in Chapter 11 and gives the reason. The Chapter 20 reading is **Sera's, taken by a licensed reader with the copper clip at the seam, and Marek is on the boards outside the housing and does not touch the instrument.** There is no rootmark. Stage 1 is not sustained until the end of Volume 01.
 
 ## Rules locked for later prose
 
@@ -52,8 +52,44 @@ A later writer must not change these without recording the change.
 | The pressure pulse at the head | about one beat in four seconds; on day 8 it came in four events of two, three, four and five beats | Ch 1, Ch 6 |
 | The mill hand tally, highest figure on the board | 261 turns, in the spring of the year Aldren went | Ch 2 |
 | The breeding flock | 130 head (90 ewes, 36 lambs, 4 rams) | Ch 9 |
-| Compound on the pad at the flood | one base coat four seasons old plus four dressings, one of them laid on day 3 | Ch 1, Ch 3, Ch 9 |
+| Compound on the pad at the flood | **one base coat four seasons old plus three dressings** — four coats in all, the last of them laid on day 3. **Corrected on review of Batch 0002**: Ch 9 read "the base coat and the four dressings" against Ch 1's "three more coats" and Ch 1's own notebook line. Four governs and Ch 9 is fixed to match | Ch 1, Ch 3, Ch 9 |
 | Nia's cart | day 20, out of Fennmere toward the Salt March and Cray | Ch 10 |
+| Season month | **November**; the storm night is the third or fourth | Ch 14, Ch 17, Ch 18, Ch 20 |
+
+## Numbers and records established in Chapters 11–20
+
+A later writer must not change these without recording the change.
+
+| Fact | Value | Established |
+|---|---|---|
+| Sera's second visit | £14, asked for on the fifteenth, collected in advance on the sixteenth, for the twentieth | Ch 11, Ch 14, Ch 15, Ch 18 |
+| The levy | £12 6 from sixteen households, fourteen signatures, nine contributors, one shilling entered separately; **£1 14 made up by Marek personally** | Ch 18 |
+| Sera's scope overrun | six days past a fourteen-pound two-day scope, charged nothing, three stated reasons | Ch 18 |
+| The wound on the twelfth | two hands long; a callus across **the top third** of the face, clean, pale, with a wet line at its lower edge | Ch 11, Ch 14 |
+| The pad | came off in **four separate layers**; the base coat came off whole with a bowl in it the shape of the callus | Ch 14 |
+| The seal | four green withies driven into **the four unused sockets in the wire cradle**, woven and tied, seed-house sacking laced over, **nothing tarred**; a flat willow date-stake at the four o'clock corner carrying the date and **the five names that worked it, and the fifth name is not Marek's, and nothing on the stake about what comes next, because on the sixteenth nobody had written down yet what comes next**; about four pounds | Ch 14, Ch 17, Ch 19 |
+| Seal material | **four baskets of chopped fiber recovered from the stripped pad**, with clay and a sieve for the hollow | Ch 14 |
+| Work done | laid on the **sixteenth**, one working day, four unlicensed hands under a named licensed engineer | Ch 15, Ch 17 |
+| The load test | the **twentieth**, in three stages, **from half past ten until one**. 720 from half past ten · 900 · **1,100 from about twenty past eleven, held to one.** Nobody stops the pump, and the load is entered in the log *before* the reading, which is why the rest of the page can be trusted | Ch 19 |
+| Seal condition after the test | **a dark place one quarter inch in width at the six o'clock corner — not a leak, a weep, the pack going in where it always went in.** Measured with a rule, twice, written down before the rest of the sentence. **Half an inch is where Sera stops calling it a weep.** At ten that night, load off, it had not moved | Ch 19 |
+| The monthly maintenance clause | **the first of every month: an examination and something put into the return main, entered in the standing pressure log, signed by Gael Senn**, worded *nothing found* and not *all well* | Ch 19 |
+| The renewal application | filed the seventeenth, endorsed **four days late** and referred; cause entered as *return branch as built falls short of the specification; cause of the shortfall not established* | Ch 16 |
+| Dunmar's first box | *works already scheduled on this node*, answered **none known**, written the seventeenth at seven in the morning and false by noon the same day; entered in the margin as a confession | Ch 16 |
+| The schedule extract | district works schedule, **six columns and no headings, ninety rows**; it exists because the form's first box asks what is already scheduled and a clerk will not send ninety forms with an empty box | Ch 16 |
+| Row forty-one | **N-2214/K**, and then **five more figures across**: four dates and a fifth figure that is also marked and is a hold. The two behind today are the two stamped cut faces; the next is **the twenty-seventh, a Friday** | Ch 16 |
+| The columns' meanings | 1 item · 2 **order** date · 3, 4 and 6 executions · **5 is a hold, suspended until released, printed in the same hand and the same column as a date.** The fifth figure in row forty-one is marked and dated and is a hold, and nobody in the room can tell which of the five is which, and that is the point | Ch 16 |
+| Sera's third refusal | she names it unprompted, in a district clerk's presence: *I have worked with district schedule forms* | Ch 16 |
+| Sera's reading on the twentieth | **a working sequence with no well in it: cut, wait, cut** — the order the Weir Row wood is in, and the wood has had it done to it twice. A procedure stored in living wood, not a message. She refuses a third time by the same two names, all three refusals are entered, and Dunmar enters a fourth line in her words: *a licensed reader at the same seam, on the same node, under full draw, did not obtain the sequence obtained on the eighth. Both are logged. The difference is unaccounted for.* | Ch 19 |
+| The three refusals of Crown work | day 3 (Kellan's free gasket and seal against six years' confirmation), day 11 (his second letter: coupling, re-dress, two hands for four days), day 16 (**the district's** monitored repair for exclusive access). **Never merge them** | Ch 4, Ch 10, Ch 15 |
+| The monitored-repair offer | material, a two-person crew for six days, a district-retained licensed engineer, monthly inspection for twelve months, **for exclusive access to the head, the housing, and the node for the term** | Ch 15 |
+| Kellan's compound book | batch weights, pot temperatures, four seasons of dressing dates, a *base coat* column and four rows. **Refused, and the refusal is correct** | Ch 15 |
+| The Undercommons courier | **Marda Vole**, mender of implements on the peat roads. N-2214 die-struck on four holdings in **three other provinces**, the same die, three of them from men who had never met. She gives no rescue and no material — she gives **procedure**: nobody gives a cooperative the table, but every renewal comes back with the extract attached | Ch 15 |
+| The technicality | charter schedule, **fourth part, second clause**: a record of work shall be made **at the hour at which the work was done**; a record made after the hour of the work is a recollection and is not a record of it | Ch 17 |
+| The breach | work finished at four on the sixteenth; the completion entry made at **nine on the morning of the seventeenth**, alone, unwitnessed, and not disclosing the delay. Marek's reason: *I wanted to know whether it held before I wrote down that it was done* | Ch 17 |
+| The result on the eighteenth | renewal **not granted**; node **not shown to be maintained**; **charter lapses at midnight**. Head **not** sealed, seed stock **not** taken, charter **not** referred for relocation | Ch 17 |
+| The certificate | **three names, in this order: Sera Quill, Gael Senn, Marek Vale.** Worth one day's evidence about one wound, and **cannot be entered as a charter condition** because there is no charter. Lissa Vale enters the hour at the foot | Ch 19 |
+| Nia's list | 22 lines, columns *item, crate, quantity, condition, destination, who is standing there, witness*. **The last line is Nia Vale and the witness is Lissa Vale** | Ch 20 |
+| The monthly root-change report | due the first; **written out by Nia Vale on the twentieth**, 240 words, submitted in Marek's name with her name under the figures | Ch 20 |
 
 **Mill wheel and water turns are the same measure.** The Fennmere mill wheel is turned by the cooperative's return race, so wheel turns measure the water coming back. This is why the tally board corroborates the loading test, and it is the record the volume climax needs. Stated once, in Chapter 2, and it must not be contradicted.
 
@@ -155,9 +191,74 @@ Nothing in Batch 0001 required a change to `bible/`. Two small additions were ma
 1. **Bought compost at 4 shillings a hundredweight**, and the seed vault's return of 400 cwt/month. This is a price, not a power rule, and it is what makes the lost flock irreversible in Ch 20–30 and Ch 49.
 2. **Ker(n) family on the fen**: Hansa Kern, 1802, and the short road to the weir. Local detail only.
 
-### Supporting cast drafted in Batch 0001
+Batch 0002 added two more of the same kind, recorded the same way:
 
+3. **The charter's fourth part.** The schedule has a fourth part, first clause (emergency repair by unlicensed hands, from Ch 12) and **second clause (records made at the hour of the work)**, which is the rule the whole batch turns on. It is a charter provision, not a Crown Engine mechanism, and it is never to be confused with anything from later volumes.
+4. **The district works schedule.** A district-level, six-column, ninety-row printed extract with no headings, issued automatically with every renewal application. It is *not* a Crown-wide table. **It shows one district, and the courier's three other provinces are not in it.** Nobody has seen a whole table and nobody in this volume will.
+
+### New locks from the drafted Batch 0002
+
+- **The cooperative holds nothing after midnight on the eighteenth.** It has no right to draw from the head, to work on it, or to enter anything about it in a district book. The pump still runs because nobody has sealed it, and that is the only reason the seed house has water. **Any report from anybody, including a neighbor who tastes the water and finds iron, reopens the emergency clause.** This is the siege and it must remain the background condition of Movements 3 and 4.
+- **The load test choice is spent.** Marek tested at 1,100 and not at 720, on the record, and it is not a decision to be re-litigated. The seal has now been proven at the full logged draw and the finding is `not a leak`.
+- **The seal's weakness is placed.** The six o'clock corner, the same place the pad always wept from, is where it weeps. It is a weep now. A finger's width is a leak, and **a leak under sacking at full draw goes into the housing and not into the pit.** Do not resolve this before Ch 41.
+- **The seal is a holding repair, not a Crown seal, and Sera says so in a district file.** A Crown pad cannot be cut out and looked at; withies can. This is adverse to a Crown practice and is the first document of its kind in the file. It is Movement 4 and climax material, not something to spend early.
+- **Kellan's letter (Ch 18) is undelivered and in a cart.** Marek will not ask him to reduce his draw, will not ask for a return, will not speak about an unmeasured log in public, and will not say the acceptance column was a lie. Nia Vale is carrying it to Fennmere by hand on the twentieth. **She may hand it over or she may not; if it is delivered, it is the first cooperative document Kellan has ever been sent, and it is how he becomes a willing witness in Ch 44–46.**
+- **The twenty-seventh is a live clock.** N-2214/K is scheduled to be executed on the twenty-seventh, a Friday, seven days after Nia leaves. The cooperative is the local holder of the node, is not the holder of the branch, cannot object, and was not notified. Movement 3 must decide what the cooperative does about a cut it owes and did not order.
+- **Dunmar's *none known*.** The charter clerk has put a statement into a district filing that was true when he wrote it and false by noon the same day, and has entered the fact in the margin. It is a live second technicality and Bray has so far not asked about it. It may be used once and only once, and it belongs to a later chapter than the eighteenth.
+- **The bypass note and the schedule note are both section-nine margin notes**, unnumbered, unfunded, dated, and signed by nobody but Marek, and they sit on consecutive pages. The third one, if there is a third, is the same instrument. Do not invent a new mechanism for a plan nobody can fund.
+- **Anneke Roos's rule is cooperative policy, and it is the rule that beat them.** *An entry is made at the hour it describes. If it is made late, the lateness is part of the entry.* It is written on the inside cover of the standing pressure log, attributed to her, and it was written on the fourteenth and broken on the seventeenth. The record of the standing log's inside cover must stay consistent wherever the log is read again.
+- **Marek has been refused the pit and has accepted it.** Sera's Ch 11 speech is the batch's argument against him and it is not to be softened or repeated. If a later writer needs him near a living thing, the licensed reader is in the room and he is outside the housing.
+- **Gael Senn is the monthly examiner** and her name is the second on the certificate. This is the seed of the climax; do not reassign it, and do not let her be rescued from it — she is the one who has to write *nothing found* honestly in a bad month.
+- **Sera's liability is now public in two documents**: the certificate (her name first) and her Ch 17 statement putting a Crown seal specification into a district file as a thing to be compared against, at her own professional risk. She has not been asked about Brinewake and has not offered it. Her third refusal on the twentieth is the same two refusals. **Do not spend her confession here.**
+- **Nia is gone and does not return within the volume.** What she leaves behind is the first monthly root-change report, which is written in her hand with her name under the figures, and it goes to Cray and to the sub-office. Her absence has to work against Marek through Movements 3–5.
+- **The compost arithmetic is unchanged and unpaid.** 4 s/cwt, 400 cwt/month, £80/month against £5 11, and the levy took £12 6 of the households' money that was not compost money. The bed is losing heat; the trays go to the mill floor twice a day under sacking. This is the mechanism of the Ch 23–25 reversal and it must not be spent anywhere else.
+- **Marda Vole is a person, not a network.** She mends chain, she was paid in bread, she will not be asked about anything, and she has not been in this fen since the sixteenth. The Undercommons in this volume is one courier, one warning and one piece of procedure. Never a rescue, never a second one, and never a name above the office that does not exist.
+
+### Batch 0002 day clock (confirmed against the drafted chapters)
+
+Ch 11 day 12 (Thu) · Ch 12 day 13 (Fri) · Ch 13 day 14 (Sat) · Ch 14 day 15 (Sun) · Ch 15 day 16 (Mon) · Ch 16 day 17 (Tue) · Ch 17 day 18 (Wed, a Wednesday, as locked) · Ch 18 day 19 (Thu) · Ch 19 day 20 (Fri) · Ch 20 day 20, dusk.
+
+Because **day 3 is a Tuesday**, the working days fall as: day 14 is a Saturday, day 15 a Sunday, day 16 a Monday. **The seal was laid on the sixteenth, a Monday, in one working day**, and **the twenty-seventh is a Friday.** Day 3 remains the only fixed weekday anchor for the whole volume; the eighteenth being a Wednesday is locked and correct.
+
+Within-batch counts: Ch 11 ends on six days, Ch 12 on five, Ch 13 on four, Ch 14 on three, Ch 15 on two, Ch 16 on the eve of the eighteenth. Ch 20 ends seven days before the twenty-seventh.
+
+### Stage and contact accounting after Batch 0002
+
+- **Two contacts behind him, unchanged.** No third, no rootmark, no anchor work, no bridge above local conduit, no seedheart, no caretaker link. The Chapter 20 reading is Sera Quill's, and the panel belongs to the instrument in her hands.
+- Sera has checked his arm three times — the eighth, the twelfth and the twentieth — and it is still nothing. She has now said the *look at it twice a week* instruction three times and has promised not to say it a fourth.
+- **One Fieldbook panel in the batch**, in Ch 19, three plain lines, at the moment of the load choice, in the book, in a licensed reader's hands.
+- The Chapter 20 procedure in the book is **cut, wait, cut**. Sera says it is a procedure and refuses to say whose. This is the first time the fieldbook's content has been correctly identified in the prose, and it is still short of the Ch 46 answer, which is *a work order written in advance*. Do not collapse the two.
+- **The pulse has now been logged four times** — the Ch 1 note, the Ch 6 finding, the Ch 12 first-page entry, and the Ch 19 count of seven and eight beats continuing after the pump stopped — always with the phrase **cause not established** and never with a name. Nobody in Volume 01 may name it or explain it.
+
+### Fixes applied to the drafted Batch 0002 on review, and the locks they created
+
+A full review ran on Chapters 11–20. Twelve findings were blocking or continuity-level and were fixed in place. The prose governed wherever it was right; the state files were corrected wherever the prose was right and the file was wrong.
+
+1. **The compound pad is four coats, not five.** Ch 1's prose (*"three more coats"*) and Ch 1's own notebook line agree on a base coat plus three dressings. Ch 9 read *"the base coat and the four dressings"* and this file carried the same figure. **Ch 9 is corrected to three dressings** and the table above is corrected. Four governs. Ch 14's four-layer strip depends on it.
+2. **Row forty-one holds four dates and a marked hold, not five dates.** Sera's column schema (item; order date; three execution columns; and a hold in the fifth) leaves four date slots, and the row is dated to match. **The fifth figure is a hold that is also marked, and nobody in the room can tell which figure is which.** This is better than the original and must not be re-simplified.
+3. **Ch 12's closing count is five days, not six.** Day 13 to the eighteenth is five. Ch 11 is six. The chain is now six, five, four, three, two, eve.
+4. **The twenty-seventh is ten days from the seventeenth and nine from the eighteenth.** Ch 16 says ten; Ch 17 and Ch 20 say nine and seven. **Day 27 is a Friday.**
+5. **Two meta intrusions are gone**: the phrase *the Ch 4 formula* in the narration, and *the only document in this volume* in Ch 18. The Ch 18 letter is presented as sealed, written, and read by one person who was not asked, and it is **undelivered**.
+6. **The levy is tallied one way.** Sixteen households, **fourteen signatures, nine contributors**, two of the five non-contributors who signed having put nothing in, one of them putting in a shilling with *and I am sorry*, **two of the sixteen never signing and their names not recorded**. £12 6 plus the shilling, entered separately; **£1 14 short, made up by Marek**. The fourthpence in Ch 15 is the mill boy's and is entered separately too.
+7. **Ch 14's unspent promise is gone.** The narrator no longer promises an objection three days later that never happens. In its place: the working-notes entry for the fifteenth, with the licensed person named, and Sera coming down the ladder to help haul Byre up.
+8. **The Ch 20 reading is reconciled with Finding 3.** The eighth gave valve, hand, wait, valve, lamp, valve; the twentieth gave cut, wait, cut. **Sera states the difference herself, in front of witnesses, before anybody else can**, and the explanation she offers is that a fieldbook reads what a node has recently had done to it. **Finding 3's wording and Ch 6's *four things* are untouched.** A fourth line goes into the cooperative's book: *a licensed reader at the same seam did not obtain the sequence obtained on the eighth; both are logged; the difference is unaccounted for.*
+9. **The date-stake no longer knows the future.** Five names, no sixth line, and the prose says explicitly that nothing on it says what comes next.
+10. **The certificate has three names and Marek signs it**, witnessed, with Lissa entering the hour.
+11. **The weep is a quarter of an inch**, measured with a rule before the sentence is spoken, and **half an inch is where Sera stops calling it a weep.** The thumb-width/finger-width inversion is gone. The ten o'clock check finds the same quarter inch with the load off.
+12. **The day clock is clean throughout.** Day 12 Thursday, 13 Friday, 14 Saturday, 15 Sunday, 16 Monday, 17 Tuesday, 18 Wednesday, 19 Thursday, 20 Friday, 27 Friday. Ch 13's hours were rebuilt around a ten o'clock start with the bailing running eight to a quarter past ten, and the refused entry is the **second hour, eleventh of the clock**. **No month is named anywhere in the batch** — Ch 1's *Michaelmas* governs and the calendar is never dated, so no three-way conflict can form.
+13. **The mill tally board is untouched.** The standing pressure log lives on the well-house bench, the levy paper goes on the well-house door, and Nia writes the monthly report on the back of a seed order on the seed-house table. **The tally board across the race is still the mill's, and is one of the four records at the climax.**
+14. **Sockets and hasps are different things.** The four withies go into sockets; Marda Vole mends the mill sluice chain and the well-house hasp, and explicitly refuses the four eyes in the frame because she would not know what to tell anybody to hang there.
+15. **The works extract.** Perrin Osse's prohibition is now *you may not keep it, and any line you write is yours and a clerk can find it* — and **Dunmar says so out loud, and then carries the number anyway**, which is the beat the earlier draft was missing.
+16. **A finding the review raised in error and which is therefore *not* a fix:** 200 cwt at 4 s/cwt is 800 shillings, which is **£40**, not £8. Ch 6's compost arithmetic and the £40 it puts against three fees are correct, as is 400 cwt at 4 s/cwt = £80 a month.
+
+### Supporting cast drafted in Batch 0001
 All five are now drafted and have been promoted into `bible/characters.md` as secondary characters: Ilsa Kern, Dunmar Fitch, Gael Senn, Ansel Bray, Renn Tallow. Perrin Osse (Fennmere sub-office clerk) and Bram Oskell (Kellan Rusk's papers) also read as drafted and were promoted. Fennmere remains a place, not a character.
+
+### Supporting cast drafted in Batch 0002
+
+Three new people read as drafted and are promoted into `bible/characters.md`: **Anneke Roos**, **Jonas Byre**, and **Marda Vole**. Two of the batch's existing minor characters have been given standing detail and are not new: **Lissa Vale's** rule of the fourteenth, and **Kellan Rusk's** compound book and Ch 18 letter.
+
+**Renn Tallow does not appear in Batch 0002.** His refusal at the weir is not referred to, softened, or undone anywhere in the batch, and nobody makes anybody apologize for it.
 
 ## Ending lock
 

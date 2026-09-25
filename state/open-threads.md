@@ -2,10 +2,11 @@
 
 ## Immediate volume promises
 
-- Can the Lantern Reach well be repaired before the charter inspection, and can Kellan's falsified gauge be exposed without destroying the field the crew came to repair?
-- Why does Aldren's fieldbook carry a pattern the sky has not produced, and why does the damaged branch answer a fieldbook no ordinary gauge can verify?
-- Why is a rootwoken pathhound following the failed branch, and can the cooperative distinguish a territorial community from a monster nest?
-- Can Tova's Salt March seed trust and Lantern Reach agree on a temporary relay when both sides need the other's records?
+- With no charter and no contractor, can the Lantern Reach node be brought back into somebody's maintenance before the flood, and can Kellan's falsified gauge be exposed without destroying the field the crew came to repair?
+- Why does Aldren's fieldbook carry a procedure in living wood, and why does the bead carry a date later than the disappearance?
+- Who wrote the works order, who reads it, and why is a branch on no local map still somebody's job?
+- Can Tova's Dryfoot Trust and Lantern Reach keep a line alive when the holding holding it has no charter and no return?
+- What happens on the twenty-seventh, and does the cooperative cut its own branch because a table says it is due?
 
 ## State after Batch 0001 (Chapters 1–10, days 1–11)
 
@@ -37,19 +38,52 @@ These are live, dated, and owed. Seven days to the eighteenth.
 - **Can a cooperative with no contractor and £5 11 build a real seal in seven days, and who pays for a shared draw's return?**
 - **Whose handprint is on the weir stones?** Marek's, and he does not remember putting it there. Do not resolve this casually.
 
+## State after Batch 0002 (Chapters 11–20, days 12–20)
+
+The cooperative has **no charter**. The pump still runs. A hand-built holding seal is standing over a wound with a weep at its low corner, and nobody is watching the head except a rotating list of four people.
+
+### Clocks Movement 3 must pay
+
+| Clock | Established | Due |
+|---|---|---|
+| **The twenty-seventh** — N-2214/K is due to be executed at Weir Row on a Friday, seven days after Nia leaves, and the cooperative cannot object and was not notified | Ch 16, Ch 20 | Movement 3, and it is a live problem before the flood |
+| The weep at the six o'clock corner. Not a leak. A finger's width is a leak, and a leak under sacking goes into the housing, not the pit | Ch 19 | Do not resolve before Ch 41; the flood is decided by it |
+| The monthly examination on the first of every month, signed by Gael Senn, worded *nothing found* and not *all well* | Ch 19 | Movement 3's first instance; climax use |
+| The certificate, which cannot be entered as a charter condition and is worth one day of evidence | Ch 19 | Ch 47's conditional charter, and the volume's proof |
+| The emergency clause, alive and reopening on any report, and a file that does not travel with Bray | Ch 17 | Background condition of Movements 3 and 4 |
+| Kellan's letter, sealed, in a cart, to be delivered by hand in Fennmere | Ch 18 | Kellan as a willing witness in Ch 44–46 |
+| Dunmar's *none known* in the first box of a district filing — a second live technicality, asked about once only | Ch 16 | A later chapter, not the eighteenth |
+| Nia is gone, and the first monthly root-change report is in her hand with her name under the figures | Ch 20 | Movements 3–5; her absence has to work against Marek |
+| The compost return, £80 a month against £5 11, the flock gone, the bed cooling | Ch 9, Ch 10, Ch 15, Ch 18 | The Ch 23–25 reversal. Not to be spent anywhere else |
+| The bypass nobody can fund, carried as a section-nine note beside a second one | Ch 10, Ch 16 | Argued in Movement 3, unbuilt at Ch 41, improvised Ch 43–45 |
+| The pressure pulse, one beat in about four seconds, from below the sump, logged four times as *cause not established* | Ch 1, 6, 12, 19 | Undiagnosed. Nobody in Volume 01 may name it |
+| The marked, bleeding branch at Weir Row, and the pathhound that went to look for the water | Ch 9 | The branch's bleed is what breaks the graft's return arithmetic in Ch 22–25; the animal holds the Fennmere dead flow in Ch 23–25 |
+| The fieldbook on a Directorate record, not required on the eighteenth, still to be produced if asked | Ch 8, Ch 10, Ch 19 | Ch 36–38, when Lissa refuses Bray |
+| The graft | — | Ch 21–25, crew work under Sera's license. Marek's first independent graft and first skin rootmark are Volume 02 |
+
+### Open questions carried forward
+
+- **Who scheduled the cut at Weir Row, and why does no local map show the branch?** Now a **printed district works schedule of ninety rows** that the cooperative was given as a courtesy and has handed back unread. Sera has admitted to a district clerk that she has worked with schedule forms and has refused three times by name. The two marked-done dates in row forty-one are the two stamped cut faces, and the **order date is older than Marek's oldest cut**, so the schedule is on time and not slipping. Nobody has seen a table bigger than a district's.
+- **Why does the fieldbook's bead carry a work sequence, and why is the date later than the disappearance?** On the twentieth Sera read the same node and got **cut, wait, cut** — the order the Weir Row wood is in — and called it a procedure stored in living wood and not a message. That is one step short of the Ch 46 answer and must stay one step short. Marek's protection, *probably a copying error, to be treated as one*, is untouched.
+- **What is Aldren doing at Weir Row eight years ago, and who put his name in an old schedule log?** Not answerable from Lantern Reach. The twenty-seventh may put a Crown crew in front of it.
+- **What is Kellan's side draw actually supplying, and whose drinking water is it?** It is now the *only licensed draw on the node*, since the cooperative's lapsed on the eighteenth. The Ch 4 paper on the shape of free offers still carries no number, no date and no place and must not acquire one.
+- **What is living on the Fennmere dead flow?** The second, adult pathhound holds it in Ch 23–25. Nothing in Batch 0002 restages the weir night and no animal appears in the batch.
+- **Whose handprint is on the weir stones?** Unresolved and not to be resolved casually. Sera checks Marek's arm on the eighth, the twelfth and the twentieth and it is still nothing.
+- **Whose return keeps the seal open?** Nobody's, yet. The certificate's monthly clause is a return made of examination. The compost is £80 a month and there is none, and the graft in Ch 21–25 is going to want one.
+
 ### Volume 01 plan locks
 
-Set in `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md`, now drafted. See `state/continuity.md` for the numbers, records, and stage accounting.
+Set in `outline/volume-01.md` and the drafted chapters. See `state/continuity.md` for the numbers, records, and stage accounting.
 
-- **The eighteenth day is one deadline, not two.** The charter expiry and the annual **inspection** are the same date, so no extension is ever won by a deferral. The deciding hearing comes later, in Chapters 46–48, and is not on the eighteenth.
-- **The fieldbook is a fragment:** front board, living root bead, and a handful of pages. The back board and most of Aldren's survey pages are gone, which is why every reading is fragmentary and why the Aldren thread cannot be resolved from Lantern Reach.
-- **Volume 01 delivers the target-pattern answer and no more:** what Marek read is a work order written in advance, not a memory of a season that has not happened. Nobody in this volume names the Engine, the office, False Season, or Iona Vey.
-- **Two different pathhounds.** The weir animal in Chapter 9 was redirected by changing the dead flow, not commanded, and it left on its own. The Fennmere-area animal in Chapters 23–25 settles on the dead flow and holds it, and is not a repetition of the first.
-- **The lost compost return is the mechanism of the midpoint reversal.** The flock lost in Chapter 9 is why the Chapter 21–25 graft can succeed and fail at the same time. Do not spend that connection anywhere else.
-- **The bypass is planted in Chapter 10 as a note and refused in Chapters 24–27, and is still unbuilt when the flood arrives.** It must not be quietly funded or built early.
-- **The public pressure log and monthly report are voted by the cooperative in Chapter 10 and adopted by the Crown as charter conditions in Chapter 47.** The Crown does not invent them, which is also how they stay revisable.
+- **The eighteenth day was one deadline, not two, and the cooperative lost it.** The charter expiry and the annual inspection were the same date, the renewal was not granted, and the charter lapsed at midnight. The deciding hearing comes later, in Chapters 46–48.
+- **The loss is on a technicality, and it is the cooperative's own doing.** The seal is real, correctly logged by four named hands under a licensed engineer, and is not contested by the district as workmanship. The record of its completion was written at nine the next morning instead of four the previous afternoon, by the person responsible, alone, because he wanted to know whether it held first. Anneke Roos wrote the rule that forbids it on the fourteenth. It is in the batch's own log, in the cooperative's own hand.
+- **Volume 01 delivers the target-pattern answer and no more:** what is in the wood is a work order, not a memory of a season that has not happened. Nobody in this volume names the Engine, the office, False Season, or Iona Vey.
+- **Two different pathhounds.** The weir animal in Chapter 9 was redirected by changing the dead flow, not commanded, and it left on its own. The Fennmere-area animal in Chapters 23–25 settles on the dead flow and holds it.
+- **The lost compost return is the mechanism of the midpoint reversal.** The flock lost in Chapter 9 is why the Chapter 21–25 graft can succeed and fail at the same time.
+- **The bypass is a note in the margin (Ch 10) and a second note beside it (Ch 16), and is still unbuilt when the flood arrives.** It must not be quietly funded or built early.
+- **The public pressure log and monthly report were voted by the cooperative in Chapter 10, maintained by it in Chapters 12–20, and adopted by the Crown as charter conditions in Chapter 47.**
 - **Nia leaves in Chapter 20 and does not return within the volume.**
-- **Marek is Stage 0 at the end of Batch 0001, with two contacts behind him and no rootmark.** Stage 1 arrives at the end of Volume 01, unreliable and dependent on a licensed witness. The first skin rootmark belongs to Volume 02.
+- **Marek is Stage 0 at the end of Batch 0002, with two contacts behind him, no third, and no rootmark.** Stage 1 arrives at the end of Volume 01, unreliable and dependent on a licensed witness. The first skin rootmark belongs to Volume 02.
 
 ## Historical and political threads
 
@@ -76,8 +110,9 @@ Set in `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md`, now
 
 ## Phase handoff
 
-- Chapters 1–10 are drafted in `workspace/volume-01/batch-0001/` and summarized in `state/chapter-summaries.md`. A full continuity, card-beat and pacing review was applied in place. **The review found three things wrong in the state files that the prose was right about, and three wrong in the prose that the state files had already recorded as delivered** — the serials, Sera's Ch 8 beat, and the contact length. All fourteen numbered fixes are listed in `state/continuity.md` under *Fixes applied to the drafted Batch 0001 on review*. Read that list before drafting.
-- Next phase is prose: `workspace/volume-01/batch-0002/PROMPT.md` writes Chapters 11–20, days 12–20, Movement 2.
-- **Known deviation from the outline:** every chapter except Ch 5 now runs 3,300–5,300 words against the outline's 2,200–3,200 target for ordinary chapters. Ch 8, Ch 9 and Ch 10 are the batch's political climax, its action climax and its aftermath, and each one has to land a hearing, a storm night, or a vote. They were trimmed hard during the review pass and are still long. **A later writer should not lengthen them further and should trim rather than pad if they are revisited.**
-- **The cooperative chose the charter over the record.** The claim in the log was moved and lost 9–22 in Ch 4, and the open book is a standing act of the meeting rather than a filing. So the cooperative's own books contain *Kellan's* filed number and *Marek's* loading test side by side, and nothing in between. Movement 2 must not quietly turn the open book into a correction the district has accepted.
+- Chapters 1–10 are drafted in `workspace/volume-01/batch-0001/` and summarized in `state/chapter-summaries.md`. A full continuity, card-beat and pacing review was applied in place. **The review found three things wrong in the state files that the prose was right about, and three wrong in the prose that the state files had already recorded as delivered** — the serials, Sera's Ch 8 beat, and the contact length. All fourteen numbered fixes are listed in `state/continuity.md` under *Fixes applied to the drafted Batch 0001 on review*.
+- Chapters 11–20 are drafted in `workspace/volume-01/batch-0002/` and summarized in `state/chapter-summaries.md`, with the batch's new numbers and locks in `state/continuity.md` under *Numbers and records established in Chapters 11–20* and *New locks from the drafted Batch 0002*.
+- Next phase is prose: `workspace/volume-01/batch-0003/PROMPT.md` writes Chapters 21–30, Movement 3, *The Repair That Bites*.
+- **Length — known and accepted, and much improved.** Batch 0001 ran 2,700–5,300 words per chapter against the outline's 2,200–3,200. **Batch 0002 runs 2,500–4,200, ten chapters and about 34,100 words total**, against a 28,000 target: a residual overrun of about 22%, concentrated in Ch 15 (five scenes in one working day), Ch 19 (four complete scenes in the batch's technical climax), Ch 16 and Ch 17. The hard warning in the phase prompt was not to open five chapters at 4,500 and the longest is 4,200. A review pass trimmed roughly 900 words out of the four longest chapters. **A later writer should trim rather than pad, and should not lengthen Ch 15, 16, 17 or 19.**
+- **The cooperative chose the charter over the record (Ch 4) and then had the record taken off it (Ch 17).** The claim in the log was moved and lost 9–22 in Ch 4, so the open book was a standing act of the meeting rather than a filing; then Dunmar finally filed a true cause on the seventeenth and the renewal was refused on the eighteenth for a different reason entirely. So the district has still never been given a corrected draw figure, only a cause. Movement 3 must not quietly convert the open book into an accepted correction.
 - `state/phase-ledger.json` was not touched, per the operating rules. See the note in `state/current.md`.

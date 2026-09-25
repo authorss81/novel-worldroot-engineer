@@ -248,7 +248,7 @@ Marek was not there. He was in a doorway with his back on a wall and a blanket r
 
 At dawn Ilsa Kern went down the well pit with a lamp.
 
-The pad had gone under. Four inches of water came up through the compound and stood on it, the compound had let go of the cradle on the low side, and the whole thing had sunk half an inch into the wound it had never once been sealing. The scarwood under it was open to the water and the water was iron. The base coat and the four dressings laid on it since had all let go at once, the tar had gone into the water and made a slick that went out across the pit, and there was no compound left in the cooperative of Lantern Reach to put over anything at all.
+The pad had gone under. Four inches of water came up through the compound and stood on it, the compound had let go of the cradle on the low side, and the whole thing had sunk half an inch into the wound it had never once been sealing. The scarwood under it was open to the water and the water was iron. The base coat and the three dressings laid on it since had all let go at once, the tar had gone into the water and made a slick that went out across the pit, and there was no compound left in the cooperative of Lantern Reach to put over anything at all.
 
 “Four sacks of fiber and fortyweight of compound went up that road at eleven o’clock last night,” Ilsa Kern said, to nobody, down in the cold. “And I let it go up. I stood in the yard and I let it go up, because I was sandbagging a pit and because the girl was in the water. And that is the arithmetic, and we are all going to live inside it.”
 
