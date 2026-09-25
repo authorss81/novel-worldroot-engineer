@@ -182,6 +182,62 @@ Aldren is not a hidden superpowered ally. He is a missing engineer whose final d
 - **Moral limitation:** She refuses to let local communities make the same mistakes she made and therefore becomes the final version of the mistake the First Continuity made.
 - **Function:** She is a mirror for Marek: both understand that systems need responsibility. Marek's final arc is not that Iona is wrong about fragility but that she is wrong about who must carry the burden.
 
+## Secondary characters
+
+These are drafted and load-bearing. They are not atmosphere.
+
+### Ilsa Kern — embankment foreman, Lantern Reach
+
+- **Age:** 44. **Household:** Kern, one of the fen families; her grandmother Hansa took the short road to the weir in 1802 and did not come back by the long one, and the slab stands ninety yards from the cut branch.
+- **Want:** The embankments to hold and the cooperative to be somebody who pays attention. She is the person who has to say yes to a thing at two in the morning.
+- **Strength:** Forty years of ground, and no patience for a man who has a theory and no bar.
+- **Flaw:** She treats being careful as the same as being right, and says so: *careful is the word we use when we got away with it.*
+- **Relationship to Marek:** Trusts his hands, distrusts his instruments and all rootwork. Refuses a load she does not understand and says she is doing it anyway. In Volume 01 she sets the standard for his public record: he must say her name to the inspector not because it helps him.
+- **Function:** One of the four hand-built crew in Movement 2. Her ground, her grandmother's road, and her refusal are the cooperative's claim to have been a party to this.
+
+### Dunmar Fitch — charter clerk, Lantern Reach
+
+- **Age:** 58.
+- **Want:** For the cooperative's book to be defensible in a cold room in Fennmere, and for it never to contain anything he would have to unsay.
+- **Strength:** He knows what a hearing officer will accept and what he will laugh at, and the difference is usually about forty words.
+- **Flaw:** He will not file a true cause that a hearing will reject, which means he will sometimes refuse to file the truth. He is not a coward doing it; he has read the schedule.
+- **Function:** The book's mechanism. In Chapter 10 he rules, under section nine of the charter schedule, that an officer's dated note is evidence of what the cooperative intended and not of what it did — which is the only reason the unfunded bypass enters the record at all. In Chapters 46–48 he is the man who has to be believed.
+
+### Gael Senn — lamp-keeper, Lantern Reach
+
+- **Age:** 23. **Want:** To be a rootwright, and to be a person who can be trusted in a pit, and to stop being the youngest one in every room.
+- **Strength:** Slow, careful, reads twice, and says *I have not seen the cause and I am not asked to.*
+- **Flaw:** She wants the work to be real more than she wants to be important, and that is rarer than it sounds and less protection than she thinks.
+- **Function:** The batch's witness and the person at risk. She signs the Weir Row page, and she is the one who ends up on the maintenance plank at Weir Row in the storm. She is named as a witness in Sera Quill's scope, which is the first legal weight she has ever carried.
+
+### Ansel Bray — Well Directorate inspector, Tarrow Fen
+
+- **Age:** 50s. **Role:** District inspector. Sincere, procedural, and armed with a real clause.
+- **Want:** A predictable, taxable, measurable flow, because he has been the last office in the chain with a person in it and he knows what happens when there is not.
+- **Method:** The emergency-seizure clause: seal the head, take the seed stock, or refer the charter for relocation. He states all three, in that order, at the front, every time.
+- **Belief:** Expertise without a licence is negligence waiting for weather. He is largely right about the danger and wrong about who decides.
+- **Function:** He moves the decision to the eighteenth, which solves nothing, and he tells the room that the emergency clause is neither spent nor extinguished. He is the Crown's good argument in the first volume. He does not become friendly and is never outsmarted; he is *moved by a document*, and he says so when it happens.
+- **Constraint:** He reports and gives evidence. He does not chair the Fennmere hearing, and the cooperative cannot appeal it.
+
+### Renn Tallow — pump engineer, Kellan Rusk's crew
+
+- **Age:** Younger than Kellan, near thirty.
+- **Want:** To keep the pad dressed and to not be the man who decides anything.
+- **Strength:** He is competent and honest inside the limits of his job, and he will say a true thing to Marek's face: *you cannot close a thing with tar.*
+- **Flaw:** He loads the cart and goes when a girl is in the water. One flat line — *I have got the load* — and it is never explained and never softened.
+- **Function:** The Volume 01 bridge to Kellan. He is in the yard on the hearing day and knows which kit went out when, which is why he is standing in the flood in Chapters 44–46. He is potentially a later witness and is not redeemed by being decent under pressure.
+
+### Perrin Osse — clerk, Fennmere sub-office
+
+- **Age:** 45. **Role:** Civil servant. She has taken the Lantern Reach charter-condition walk-through four years running and will take it a fifth.
+- **Want:** A predictable, honest filing, and to be able to tell the truth in a small square hand.
+- **Function:** She is the batch's institutional memory. She records the fieldbook as *closed, not examined by the district*, notes that the cooperative's figures are open, and asks that the second refusal of Kellan Rusk's free work be recorded as having been made in the presence of the district's own clerk. She never gives an opinion. She is the reason refusal, offered correctly, becomes a record.
+
+### Bram Oskell — papers, Kellan's pump house, Fennmere
+
+- **Role:** Kellan Rusk's contract clerk. Delivers offers and notices in person because he does not trust birds.
+- **Function:** He brings the first offer in Chapter 4 with the conditions attached, mentions Sera Quill on the fen road in passing, and asks the question nobody wants answered: *what is the cooperative going to seal the wound with?*
+
 ## Relationship and conflict map
 
 - **Marek / Tova:** competence-based attraction, consent-based intimacy, shared work, no rescue fantasy.

@@ -1,21 +1,25 @@
 # Current State
 
-Current phase: volume-01 outline complete and review-fixed (Volume 01 arc and Batch 0001 chapter cards approved); no chapter prose drafted
+Current phase: Volume 01, Batch 0001 **written and reviewed**. Chapters 1–10 exist in `workspace/volume-01/batch-0001/`.
 
 Current volume: 1
 
-Current batch: 0 — Batch 0001 cards written in `outline/batches/volume-01-batch-0001.md`, prose not started
+Current batch: 1 — complete. `chapter-0001.md` through `chapter-0010.md`, days 1–11.
 
-Last completed chapter: none
+Last completed chapter: 10 — *Seven Days*
 
-Last batch summary: none; the outline phase produced `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md`, not chapter prose
+Last batch summary: `state/chapter-summaries.md` carries one compact entry per chapter for Batch 0001, plus the per-chapter locks that Movement 2 must not break.
 
-Next phase: `workspace/volume-01/batch-0001/PROMPT.md` — the only queued prompt, writing Chapters 1–10. The duplicate `workspace/phase-002-batch-plan/PROMPT.md` was retired during review; see `workspace/phase-002-batch-plan/RETIRED.md`. Do not recreate a second Chapter 1–10 prompt.
+Next phase: `workspace/volume-01/batch-0002/PROMPT.md` — the only queued prompt, writing Chapters 11–20 (Movement 2, *Somebody Else's Hand*, days 12–20). Do not recreate a second prompt.
 
-Active threats: Lantern Reach's failing well and expiring charter during the third White Harvest; Kellan's falsified pressure logs; an unrepaired root fault drawing a rootwoken pathhound; Crown inspectors who may seize the cooperative's seed stock.
+**Phase ledger note.** The phase prompt for this batch asked for state updates and did not ask for `state/phase-ledger.json`, while the operating rules forbid editing it. There is also a standing conflict recorded in `reviews/phase-001-outline.findings.md` item B: phase prompts have historically told the writer to update the ledger and the writer's rules forbid it. It was not touched here. `state/current.md` remains the de facto status file until a human picks an owner.
 
-Active promises: restore the cooperative well and protect its charter; prove Kellan's log false with records a hearing will accept; understand what the fieldbook's maintenance pattern is and why its date cannot be trusted; work with Tova Reed without bypassing the seed trust's consent. The Quiet Break and False Season are **not** Volume 01 promises — they are series threads that must not be named in this volume. See `outline/volume-01.md` guardrails.
+Active threats: Lantern Reach's failing well and expiring charter; Kellan's falsified acceptance column and a deliberately under-built return branch; a Crown maintenance schedule that runs on a three-year cycle above a cooperative nobody told; a waterlogged compound pad over a wound held by nothing; Crown inspectors with an emergency-seizure clause; and seven days.
 
-Current relationship pressure: Marek and Tova begin in forced professional disagreement, with Tova sent from the Salt March to audit Lantern Reach's water use; Lissa Vale has not forgiven Marek for leaving after Aldren's disappearance; Sera Quill's historical responsibility is still concealed; Nia wants a route out of the fen.
+Active promises: build a real seal by hand in seven days with people who have never built one; make the shared draw's return visible and paid; get Sera Quill a repair attempt she can certify; put Tova's annex and the trust's name in the cooperative's book; and keep the fieldbook out of the district's hands without losing the only instrument that has ever told Marek the truth.
 
-Current power state: Stage 0, rootblind engineer. Marek has ordinary irrigation, soil, pump, and survey training; he cannot safely use a Fieldbook and has not yet performed a deliberate rootwork operation. His first exposure will be a costed, unreliable event. Per the approved Volume 01 plan he ends the volume at Stage 1 (Touchroot), unreliable and dependent on a licensed witness; Stage 2 and the first skin rootmark belong to Volume 02.
+Forbidden in Volume 01: the Crown Engine, the Continuity Office, False Season, Iona Vey, the Quiet Break, and any history lecture. The Crown here is a serial number, a stamp, a table, a schedule, and a clause.
+
+Current relationship pressure: Marek and Tova are professionals with a written disagreement and a shared plan, and nothing else; Lissa holds the fieldbook under a use log and has not forgiven him; Nia has a cart booked for the twentieth; Sera has put her license behind a plan that says *as it stands tonight* on the front of it; Kellan is exposed, not defeated, and his crew has left the fen.
+
+Current power state: **Stage 0.** Two contacts behind him — one supervised (Ch 6), one deliberate and unlicensed with no return (Ch 9) — and Sera Quill's own statement that he cannot safely repeat either. No rootmark, no anchor work, no bridge above local conduit, no seedheart, no caretaker link. Stage 1 is not sustained until the end of Volume 01; the first skin rootmark is Volume 02.
