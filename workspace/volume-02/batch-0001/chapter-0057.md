@@ -106,7 +106,7 @@ Renner looked at it for about two minutes and said it was a rootmark, and that i
 
 And the four lines are in the cooperative's book in the clerk's hand with the licensed man's words in it, and the record is that it happened and the hour and who was standing there, and there is nothing in it about what a man has become, and that is not an oversight. It is the fourth rule this yard has made and it is the only one nobody has ever argued with.
 
-"Do not tell anybody I am pleased," said Coll Renner, at the gate, in the dark. "I am not pleased. I have had one since I was thirty-one and I know what it is for. I have just made one of a man who has no license and no holding and three acres of sour ground, and I have written it down, and it is going to be in a book in a seed house on this road for longer than I am going to be in this district. That is not a favour. That is the bill."
+"Do not tell anybody I am pleased," said Coll Renner, at the gate, in the dark. "I am not pleased. I have had one since I was thirty-one and I know what it is for. I have just made one of a man who has no license and no holding and three acres of sour ground, and I have written it down, and it is going to be in a book in a seed house on this road for longer than I am going to be in this district. That is not a favor. That is the bill."
 
 ---
 
