@@ -2,7 +2,7 @@
 
 ## The Sixteenth
 
-The fourth hour of the morning of the sixteenth of the ninth month, which was a Wednesday, on a shelf four hundred miles off, in the yard of the fourth house at Cauldron Reach, a woman of fifty-four read her own well with her own nail and her own string and wrote it on the wall in her own hand, and this is the fourth of the month and the fourth month of a run and it is the only thing anybody on that shelf did that was measured.
+The fourth hour of the morning of the sixteenth of the ninth month, which was a Wednesday, on a shelf four hundred miles off, in the yard of the fourth house at Cauldron Reach, a woman of fifty-four read her own well with her own nail and her own string and wrote it on the wall in her own hand, and it is the ninth month of a run of months and it is the only thing anybody on that shelf did that was measured.
 
 **Five feet and one inch.**
 
@@ -12,7 +12,7 @@ She said the whole thing in about a minute and a half to the three other people 
 
 "**Five feet and one inch. That is what the nail says and that is what the string says and I have read it the same way since the flood.**"
 
-"**Now the other half, because I write both halves and I have written both halves on that wall since the first month I came up here, and the first half is the reading and the second half is what it is a reading of.** The sixteenth of a month four months back was nine feet. The sixteenth of the month after that was five feet and five inches. The fourteenth of this month two months back was five feet and a half, and the twentieth of it was five feet and four inches, and the thirtieth of that same month was five feet and two inches. The sixteenth of last month was five feet and three inches. **And this morning it is five feet and one inch.**"
+"**Now the other half, because I write both halves and I have written both halves on that wall since the first month I came up here, and the first half is the reading and the second half is what it is a reading of.** I will give them to you in the order they are on the wall, which is the order the days came. The sixteenth of a month four months back was nine feet. The fourteenth of the month after was five feet and a half, and the sixteenth of that same month was five feet five inches, and the twentieth of it was five feet four inches, and the thirtieth of that same month was five feet and two inches. The sixteenth of a month two months back was five feet three inches. The sixteenth of last month was five feet and two inches. **And this morning it is five feet and one inch.**"
 
 "**Nine feet less five feet and one inch is three feet and eleven inches, and that is what a person writes on the wall and nothing else, and I have not written on that wall what the three feet and eleven inches is made of, because I do not know and because the last woman who told me she knew was telling me a thing she had heard.**"
 
