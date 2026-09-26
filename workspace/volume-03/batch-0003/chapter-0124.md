@@ -6,13 +6,13 @@ There is one thing left in that woman's keeping that this fen has asked about, a
 
 The asking came from the man of about fifty and he said the reason before he asked it, and the reason was the steward's question and not his own, and the fen entered that.
 
-"Who loses," said the man of about fifty. "That is the question this body asks about everything and I am going to ask it about this before anybody else gets a hand on it. In the nine days since this woman walked in through that gate, is there a person anywhere in this holding who has lost anything because of what she said, and if there is, who is it."
+"Who loses," said the man of about fifty. "That is the question this body asks about everything and I am going to ask it about this before anybody else gets a hand on it. In the ten days since this woman walked in through that gate, is there a person anywhere in this holding who has lost anything because of what she said, and if there is, who is it."
 
 "There is not," said Lissa Vale. "I have been through it twice. Nobody has lost anything. Four houses on a shelf lost three and a half feet of a bucket on the thirteenth of last month and that is a man and not her. **And if you are about to ask me the other question, which is whether anybody has gained anything, then the answer is that nine miles of district has gained nothing and this yard has gained a piece of metal and a great deal of trouble, and both of those are hers to give and not ours to want.**"
 
 "Then I am going to ask what is left of it," said the man of about fifty, "because there is one thing she has not put on this bench and I can see that it is not on the bench."
 
-"Ask me the right one," she said, standing at the wall side of the gate with her hands behind her back. "Ask me what it is and I will tell you. Ask me what is in it and I will not tell you, and I am not going to be asked twice, and I am not going to be asked by a man who has been told the answer by somebody else and wants it in a yard. **So: it is a compensation record. It is sealed. It is held by the office named at the head of the district's index of relay designs, and I am not going to say that name out loud in a yard, and I have not said it out loud since the eighteenth.**
+"Ask me the right one," she said, standing at the wall side of the gate with her hands behind her back. "Ask me what it is and I will tell you. Ask me what is in it and I will not tell you, and I am not going to be asked twice, and I am not going to be asked by a man who has been told the answer by somebody else and wants it in a yard. **So: it is a compensation record. It is sealed. It is held by the office named at the head of the district's index of relay designs, and I am not going to say that name out loud in a yard, and I have not said it out loud since the eighteenth.**"
 
 "There are people in it by name. **Their names are not on this page and they are not going to be on this page, and the reason their names are not on this page is not that they are private. It is that this fen has no standing over any of them and neither have I.** It is not this body's record. It is not mine. It has never been anybody's who was in that room, and one of the names in it is a name I put in a bed nine days after the pulse and I am not going to say it here and I am not going to say it in a barn either."
 
@@ -24,9 +24,9 @@ The asking came from the man of about fifty and he said the reason before he ask
 
 And then the new thing, and it came out of a sentence the man of about fifty said standing at the gate about ten minutes later, and nobody asked for it, and nobody was refused.
 
-"Stop there for a minute," he said, "and let me say a thing out loud that I have not asked anybody the answer to, and then somebody can tell me I am wrong if I am wrong.
+"Stop there for a minute," he said, "and let me say a thing out loud that I have not asked anybody the answer to, and then somebody can tell me I am wrong if I am wrong."
 
-"**She is the only living person who knows what is in that record.** Not the only one in this yard. The only one. Nineteen years and the office that holds it is an office of the kind that keeps what it is given and does not go and ask the people who gave it, and the people who were in that room with her are dead or are not somebody she has spoken to in nineteen years, and she has not spoken to any of them, and she said that on the seventeenth.
+"**She is the only living person who knows what is in that record.** Not the only one in this yard. The only one. Nineteen years and the office that holds it is an office of the kind that keeps what it is given and does not go and ask the people who gave it, and the people who were in that room with her are dead or are not somebody she has spoken to in nineteen years, and she has not spoken to any of them, and she said that on the seventeenth."
 
 "I am not asking her to confirm it. **I am going to say it out loud in a yard and let it stand there and let the page be wrong if it is wrong, and that is the first time this body has entered a thing on a man's word and not on anybody's, and I would like the clerk to write that down before I move.**"
 
@@ -60,9 +60,9 @@ And then the thing nobody in that yard asked, and the fen entered it whole, with
 
 And then the reader of this body did the thing he is the reader of this body for, at about the eleventh hour on the twenty-first, and it is in the book and it is a wall and not a fault.
 
-"I want to say the thing I want out loud," he said, standing at the gate, "and I want the clerk to write it before I say it, which he has not done, and I am going to say it anyway and let him write it after.
+"I want to say the thing I want out loud," he said, standing at the gate, "and I want the clerk to write it before I say it, which he has not done, and I am going to say it anyway and let him write it after."
 
-"**A body that cannot produce a record cannot use it.** Not to stand a statement up. Not to break a statement down. That is what I have been trying to do for two days with the only tool this holding owns, and I cannot do it, and I have got to say it in a yard.
+"**A body that cannot produce a record cannot use it.** Not to stand a statement up. Not to break a statement down. That is what I have been trying to do for two days with the only tool this holding owns, and I cannot do it, and I have got to say it in a yard."
 
 "A record nobody can produce cannot corroborate one word of what she said on the seventeenth, and it cannot be used to attack one word of it either. **That is a wall on both sides and it is the same wall as the part three condition, and it is the same wall as the shape the schedule has no part for, and I have now watched this body build three of them in three weeks, and every one of them is correct, and I want the count entered and I want the man of about seventy to hear it.**"
 
@@ -76,7 +76,7 @@ And the fen entered that he noticed it and did not enter what it was, and the ma
 
 And on the twenty-second, which is a Friday, Gael Senn did the thing she is the standing for, and it took nine minutes, and she did it in a yard with about fourteen people in it, and she read out the whole of the account of what this fen is now holding, in the order the things came into it, and it is a list of four and none of them is a document.
 
-"Read it out," she said. "The order it came in. **One. A statement in a woman's own hand, nine lines, read out in a room on the seventeenth with the doors shut, two witnesses and a licensed man and a page held by a steward. Two. A piece of a collar, given into a hand on the nineteenth, read with a clip on the same day, four facts and no finding, not copied, not traced, not taken apart, not sent. Three. Four figures spoken in a yard on the twentieth, of which this body cannot say that any one of them is the figure it is. Four. A refusal, entered on the twenty-first, with a limit at the end of it, the terms not written down and held by nobody and not going to be asked for.**
+"Read it out," she said. "The order it came in. **One. A statement in a woman's own hand, nine lines, read out in a room on the seventeenth with the doors shut, two witnesses and a licensed man and a page held by a steward. Two. A piece of a collar, given into a hand on the nineteenth, read with a clip on the same day, four facts and no finding, not copied, not traced, not taken apart, not sent. Three. Four figures spoken in a yard on the twentieth, of which this body cannot say that any one of them is the figure it is. Four. A refusal, entered on the twenty-first, with a limit at the end of it, the terms not written down and held by nobody and not going to be asked for.**"
 
 "Now the other half, and this is why I wanted to read it out in a yard. **I am the person who keeps the books of this holding and I have a standing that I hear a document before it goes in, and that standing has never once been exercised, and it cannot be exercised on any of these four things, and I have been in this yard every hour of this fortnight and I know that and I would like it read back.**"
 

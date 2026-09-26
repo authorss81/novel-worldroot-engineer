@@ -34,7 +34,7 @@ The argument about whether that can be held is the whole of the ninth of next mo
 
 "Part one is a work and its result. Part two is a work and its reading. Part three is a work, its reading, and a direction given to another person, and a direction is a record in which somebody is told what to do by somebody who was not the one who did the work," said Tova Reed, standing at the bench, at about the fourth hour on the ninth, with the ledger open and about eleven people in the room.
 
-"**So take it part by part. It is a work and it is not a result, because a result is what the work came to and this is what was done and in what order. It is not a reading, because nobody read a tree in it; a date is not a reading and a date is in it. And it is not part three, because there is no direction in it.** Doing a thing is not telling a person what to do, and the sheet in the eighth is described and not reproduced, and the four lines that tell a clerk what to enter are not in it and are not going to be in it.
+"**So take it part by part. It is a work and it is not a result, because a result is what the work came to and this is what was done and in what order. It is not a reading, because nobody read a tree in it; a date is not a reading and a date is in it. And it is not part three, because there is no direction in it.** Doing a thing is not telling a person what to do, and the sheet in the eighth is described and not reproduced, and the four lines that tell a clerk what to enter are not in it and are not going to be in it."
 
 "And somebody will say the word *necessary* is a direction, and it is not. **A reason is a thing a man writes for himself at four in the morning and does not send to anybody.** There is no *you* in it. The man who did all of it is not the man who will read it, and the two are not connected by any telling, and the test is passed by not carrying the direction and not carrying the name."
 
@@ -46,9 +46,9 @@ And the man of about seventy said the fourth thing, and he was the fourth person
 
 And it was not settled there, and the man of about fifty spent the rest of the ninth and most of the tenth making the fen be honest about what it had just agreed to, and he is right, and it is in the book.
 
-"**We have left a record off a return.** That is the sentence and I have voted against this body three times and I am not going to discover a fourth thing in a comfortable way. We sent six lines to nine miles on the twenty-eighth of last month and there is a seventh thing in that building and it is not on the six, and a return of inventories is a document and a document is a statement.
+"**We have left a record off a return.** That is the sentence and I have voted against this body three times and I am not going to discover a fourth thing in a comfortable way. We sent six lines to nine miles on the twenty-eighth of last month and there is a seventh thing in that building and it is not on the six, and a return of inventories is a document and a document is a statement."
 
-"The reason is good, and it is the same reason as the refusal clause on the door in the spring and the form's own second line, and a shape the instrument has no part for is the only place a thing can live, and this is the second time we have used it.
+"The reason is good, and it is the same reason as the refusal clause on the door in the spring and the form's own second line, and a shape the instrument has no part for is the only place a thing can live, and this is the second time we have used it."
 
 "And it is the fourth time in three years that this body has kept a thing on a shape. **A body which gets a good answer out of a form by finding the form cannot hold it has not beaten the form. It has found a place the form cannot reach, and the shape is ours, and in four years somebody in nine miles is going to work out how to ask for a shape.** Write down, on the day we do it, that this is the second time, and that a person in four years may find both, and that we did not do it in a hurry and we did not do it in a yard with nobody in it."
 
@@ -56,7 +56,7 @@ And Lissa Vale entered that, and the clerk entered the hour, and the reader aske
 
 And then Tova Reed said the honest end of it, standing up, and she would not be pleased about it in front of those people and she was not.
 
-"**We have done this before and we know what it is, and I am not going to be pleased about it in front of these people.** A shape an instrument cannot reach. I have said the sentence about a free offer with a signature attached and did not say where I read it, and about a post on a fence, and about a man's coat. Four times in three years, and every time it was the right answer, and every time it was a room where a thing could not be got at.
+"**We have done this before and we know what it is, and I am not going to be pleased about it in front of these people.** A shape an instrument cannot reach. I have said the sentence about a free offer with a signature attached and did not say where I read it, and about a post on a fence, and about a man's coat. Four times in three years, and every time it was the right answer, and every time it was a room where a thing could not be got at."
 
 "And that is what it is, and it is not a victory, and I would like it written in the same book as the eleventh cut and the two that were not read. **Every one of the four is a place where something was put that an office could not reach. That is a good way to live and it is not a way to win, and the day comes when four places are not enough and the thing in them is worth more than the four places, and on that day this body is going to have to say so out loud to whoever it has been keeping it from.**"
 
@@ -74,7 +74,7 @@ And then the tenth, at about the fourth hour, in the seed house, with the bay do
 >
 > **The boards.** One hundred and twenty-four days, cut into both of them this morning, said out loud in a yard, and the number is still going up.
 >
-> **The well on the shelf.** Five feet and two inches on the thirtieth of last month, by the occupier, on her own rule and her own nail, three feet and ten inches against the sixteenth of a month three months back. Three and a half feet of that entered against the draw of the thirteenth of last month and the other half inch against the ground. Four houses on a day letter, one drawing each in turn, entered on the sixth of this month, **and no entry anywhere for that well coming back, and the fen has decided it will not be predicting one.**
+> **The well on the shelf.** Five feet and two inches on the thirtieth of last month, by the occupier, on her own rule and her own nail, three feet and ten inches against the sixteenth of a month two months back. Three and a half feet of that entered against the draw of the thirteenth of last month and the other half inch against the ground. Four houses on a day letter, one drawing each in turn, entered on the sixth of this month, **and no entry anywhere for that well coming back, and the fen has decided it will not be predicting one.**
 >
 > **The March's tin.** One hundred and seventy-one days, day minus nineteen, unmoved, on a bed at three and a half degrees, with both undertakings standing: the seed house's that it will not be moved, and the trust's that it will not be asked.
 >
@@ -90,7 +90,7 @@ And then the barn, at about the sixth hour of the tenth of next month, with the 
 
 Tova Reed asked it once, and she asked it plainly, and she said that she was asking it for herself and not for the body, and then she asked it.
 
-"A man cut eleven branches off one row of pears in one week in this season and dressed every one of them. A man cut rootwood out of a seam in a particular order for four years over about twenty-eight years and pressed it and put a graft in with the waste. A man wrote one word on a sheet and hid the sheet from the node.
+"A man cut eleven branches off one row of pears in one week in this season and dressed every one of them. A man cut rootwood out of a seam in a particular order for four years over about twenty-eight years and pressed it and put a graft in with the waste. A man wrote one word on a sheet and hid the sheet from the node."
 
 "**He made a list before he started, and the list is not on anything, and it is in eleven trees and in a heap of waste and in a sheet of paper in a locked room. And nobody knows whether it is still going on, or it is not.** Which is it."
 

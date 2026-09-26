@@ -46,9 +46,9 @@ And Merrid Ollvar said it in one sentence, and it is the sentence the whole of t
 
 Anneke Roos did the arithmetic in the open on the fen's own paper because that is what this yard does with a number, and she did it standing, and she read it out twice, and the second time was not for the fen.
 
-"A hundred and forty-one trees," she said. "Eleven acres, one hundred and forty-one trees, of which thirty-one are in the row she picked, and I am taking her thirty-one because thirty-one is what is in the crate and I am not going to do a whole orchard in a yard on a stranger's word.
+"A hundred and forty-one trees," she said. "Eleven acres, one hundred and forty-one trees, of which thirty-one are in the row she picked, and I am taking her thirty-one because thirty-one is what is in the crate and I am not going to do a whole orchard in a yard on a stranger's word."
 
-"Eleven weeks in a stone room, laid on boards, none spoiled, none bruised, no rot in thirty-one, which is a keeping figure and not a selling figure and I want that said before anybody hears a number. And she has two of them here and I have opened one and I have cut it and the flesh under the skin is sound and the core is sound and there is nothing in it that a man could call a fault from the outside of it.
+"Eleven weeks in a stone room, laid on boards, none spoiled, none bruised, no rot in thirty-one, which is a keeping figure and not a selling figure and I want that said before anybody hears a number. And she has two of them here and I have opened one and I have cut it and the flesh under the skin is sound and the core is sound and there is nothing in it that a man could call a fault from the outside of it."
 
 "Now the money. She has told me the price is four seasons the same and she has not told me the price, and I am not going to guess a price in a yard, and if she tells me the price this afternoon I will do the sum in front of her and I will do it now, at the fourth hour, with a clerk writing it, and I will not be tidy about it."
 
@@ -58,9 +58,9 @@ So she told them the price. And Anneke Roos did the sum twice on the fen's own p
 
 And then the sum, and it is the third time this building has done a sum in a room and it got worse each time, and Anneke Roos read it out with the pen in her hand.
 
-"Thirty-one pears at that price is a figure I am not going to say out loud in a yard with a stranger standing in it, because it is her money and not ours and it is not my place to make a woman of fifty-four hear her own figure said in front of six people.
+"Thirty-one pears at that price is a figure I am not going to say out loud in a yard with a stranger standing in it, because it is her money and not ours and it is not my place to make a woman of fifty-four hear her own figure said in front of six people."
 
-"Here is what I will say. The whole of it, at the figure she gave me, is more than this holding has taken in since the charter was made. Not more than the repair cost. More than everything. I have the fen's own book here and I have gone back four years in it this morning and it is not a close thing and I am not going to be asked to defend the arithmetic twice this afternoon, and I am going to say one more sentence and then I am going to stop talking about money in this yard, which is my fortnight's standing and I am spending it on a stranger, and I would like that entered.
+"Here is what I will say. The whole of it, at the figure she gave me, is more than this holding has taken in since the charter was made. Not more than the repair cost. More than everything. I have the fen's own book here and I have gone back four years in it this morning and it is not a close thing and I am not going to be asked to defend the arithmetic twice this afternoon, and I am going to say one more sentence and then I am going to stop talking about money in this yard, which is my fortnight's standing and I am spending it on a stranger, and I would like that entered."
 
 "It is more than the repair cost, and the repair is standing, and the two things are four hundred miles apart and they are not in the same account and anybody who puts them in the same account is doing it on purpose."
 

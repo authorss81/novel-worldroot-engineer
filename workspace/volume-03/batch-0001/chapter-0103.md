@@ -30,7 +30,7 @@ It is pressed rootwood in bales, rotted to a gray pulp, stacked higher than a ma
 
 "It is a stack of old wood," said the man at the second house, who had come out to look at them and had not come out to be pleasant.
 
-"It is both," said Lissa Vale, "and I am not going to touch it, and I am going to say one thing about it and then I am going to leave it alone, because I have been in a building with a book in a press that a licensed man had to be asked about before anybody opened it and I am not going to do to a stranger's stack what this fen did to its own book for a season.
+"It is both," said Lissa Vale, "and I am not going to touch it, and I am going to say one thing about it and then I am going to leave it alone, because I have been in a building with a book in a press that a licensed man had to be asked about before anybody opened it and I am not going to do to a stranger's stack what this fen did to its own book for a season."
 
 "A stack of pressed rootwood against a north wall, rotted, and nobody knows when, is a thing somebody cut on purpose and put out of the weather and then forgot about. And the people who forgot about it were not the people who made it, because it is rotted, and it has been rotted for a great many years, and nobody who could have told you has ever been asked."
 
@@ -60,7 +60,7 @@ Marek Vale did not touch the trees. He asked permission of a woman who did not h
 
 He said the method out loud before he used it, which is his standing and which Lissa Vale entered in the ledger on the ninth with the hour on it, and it is the whole of the science there is to offer and it is not magic.
 
-"A tree makes wood in a ring in a year while it is alive," he said, "and the ring is a year, and the years stack, one outside the other, and if you cut across the stack you can count the years because they are in order and there is no way to get them out of order. That is a fact about wood and it is how a miller dates a plank and it is how I dated a stake in your low quarter in the spring and got it wrong, and I am telling you I got it wrong so you know the size of the tool.
+"A tree makes wood in a ring in a year while it is alive," he said, "and the ring is a year, and the years stack, one outside the other, and if you cut across the stack you can count the years because they are in order and there is no way to get them out of order. That is a fact about wood and it is how a miller dates a plank and it is how I dated a stake in your low quarter in the spring and got it wrong, and I am telling you I got it wrong so you know the size of the tool."
 
 "So I am going to count the healed growth over a dressed cut on your pear, and I am going to divide it by what this ground puts on in a year, and I will get your year by cutting a twig off this season's extension and measuring it, and it will not be a round number and I do not want a round number, I want the number that is actually there."
 
@@ -88,7 +88,7 @@ And Tova Reed said, out loud, in front of four houses and a stranger and a licen
 
 And Marek Vale said the only sentence he says in that barn, and it is not an argument.
 
-"I am not going to say which one it is," he said, "and I am not going to say it in a yard to a woman whose eleven weeks are in a crate on my bench, and I will tell you both the reason. If I say bad, then we have found a wound and we have a method and we can go home. **If I say good, then this row is the first thing anybody has ever found that a dead man wrote down on purpose, and I will not know what to do with my afternoon.**
+"I am not going to say which one it is," he said, "and I am not going to say it in a yard to a woman whose eleven weeks are in a crate on my bench, and I will tell you both the reason. If I say bad, then we have found a wound and we have a method and we can go home. **If I say good, then this row is the first thing anybody has ever found that a dead man wrote down on purpose, and I will not know what to do with my afternoon.**"
 
 "So I am going to read the face, and the face will say which of the two it is, and I would like the reader to be Mrs Ollvar, because she has been on this shelf thirty-one years and she is the only person in this yard whose thirty-one years are about this ground."
 

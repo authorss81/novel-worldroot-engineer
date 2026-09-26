@@ -20,7 +20,7 @@ And the sheet came on the ordinary post on the same morning, from the sub-office
 
 And the man of about fifty read it out twice and then stopped in the middle of a yard with about twenty-five people in it and said the sentence that the rest of the day was made of.
 
-"**Two.** It is two. And nobody in this fen knows which two, and that is not a figure of danger, that is a figure of a hole. **The class reaches four things this holding has and the sheet names none of them, and a body that cannot tell which two of its own records are gone is a body that has lost two things and does not know what it is looking for.**
+"**Two.** It is two. And nobody in this fen knows which two, and that is not a figure of danger, that is a figure of a hole. **The class reaches four things this holding has and the sheet names none of them, and a body that cannot tell which two of its own records are gone is a body that has lost two things and does not know what it is looking for.**"
 
 "So somebody in this yard has to say which two they would hand over if they were asked, and I am going to say it, and I am going to say it in front of twenty-five people, and I would like the clerk to enter it before I do and I would like my initial to be put against it and not against nothing for once."
 
@@ -52,7 +52,7 @@ And then the well, on the fourth hour of the sixteenth of this month, four hundr
 >
 > The same well at the fourth hour of the sixteenth of last month: five feet and three inches. The same well at the fourth hour of the thirtieth of a month three months back: five feet and two inches. The same well at the fourth hour of the sixteenth of a month four months back: nine feet.
 >
-> **The shortfall is three feet and ten inches.** Three and a half feet of that is the draw of the thirteenth of last month and is entered against a man. **Four inches of that is the ground's and is entered against nobody.** On the sixteenth of last month the ground's share was half an inch. **The half inch was never the engineer's and the four inches are not the engineer's either, and a body cannot move a figure about a stranger's ground by wanting it.**
+> **The shortfall is three feet and ten inches.** Three and a half feet of that is the draw of the thirteenth of a month three months back and is entered against a man. **Four inches of that is the ground's and is entered against nobody.** On the sixteenth of last month the ground's share was half an inch. **The half inch was never the engineer's and the four inches are not the engineer's either, and a body cannot move a figure about a stranger's ground by wanting it.**
 >
 > **There is no entry anywhere for that well coming back and this body will not be predicting one.**
 
@@ -64,11 +64,11 @@ And with him went a sheet with the count on it, which is the count the fen canno
 
 And then the man of about seventy, on the afternoon of the seventeenth of this month, and it was the ninth time in a season this body has brought him out to a thing, and he was told the sheet and the two names and the coat and the count and the well, in that order, and he asked for the two names to be repeated and then he sat against the wall with the blanket over his knees for about a minute.
 
-"Four," he said. "**That is four in three weeks and every one of them was correct, and I have been the fourth person in this yard in eleven years to say that a thing nobody wanted in a book has to go in a book anyway, and I have not been right about as much as I have been right about, and this is one of the times.**
+"Four," he said. "**That is four in three weeks and every one of them was correct, and I have been the fourth person in this yard in eleven years to say that a thing nobody wanted in a book has to go in a book anyway, and I have not been right about as much as I have been right about, and this is one of the times.**"
 
-"And I want somebody to notice what has happened, and nobody is going to notice it, so I am going to say it out loud and then nobody is going to answer me, and both of those are in the book.
+"And I want somebody to notice what has happened, and nobody is going to notice it, so I am going to say it out loud and then nobody is going to answer me, and both of those are in the book."
 
-"**Every one of these four has come from the other side of that gate.** A part three condition from a schedule. A shape from a form that has no part for shapes. A sealed record from an office nineteen years back. And this morning, a class, from a sheet, with two records in it and neither of them named. **Not one of the four came from us. A wall we built ourselves we can take down. Those four we cannot take down at all and we cannot see the top of and we are not going to be told by anybody.**
+"**Every one of these four has come from the other side of that gate.** A part three condition from a schedule. A shape from a form that has no part for shapes. A sealed record from an office nineteen years back. And this morning, a class, from a sheet, with two records in it and neither of them named. **Not one of the four came from us. A wall we built ourselves we can take down. Those four we cannot take down at all and we cannot see the top of and we are not going to be told by anybody.**"
 
 "And I would like it entered that I said that in a yard on the sixteenth of a month, and that nobody answered me, **because I am seventy-one and I have learned what that means.**"
 

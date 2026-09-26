@@ -31,11 +31,11 @@ And she said nothing about it, and the fen entered that she said nothing about i
 
 And then the three things, and the order they came in is her standing and is not a courtesy, and she said the first of them before anybody in that room had asked her a question.
 
-"First. I have come without a fee and I am not going to take one, and I am going to tell you what a fee was for, because otherwise all of you will sit there for a week wondering whether I want something out of this.
+"First. I have come without a fee and I am not going to take one, and I am going to tell you what a fee was for, because otherwise all of you will sit there for a week wondering whether I want something out of this."
 
-"**A paid witness is a witness somebody bought.** That is not a way of talking and it is not something a district invented. A man who is paid is a man somebody has already decided what he is for, and he is paid the same whether he is right or wrong, and the only way anybody can tell the difference afterwards is by asking him questions until one of them hurts. I would rather be the other kind. I would rather be argued with, and I would rather be argued with in public and by name, and I would rather have somebody in this yard put a hand flat on that table and say *that is not true* while I am still standing in the room than be handed a fee and thanked at the end of it.
+"**A paid witness is a witness somebody bought.** That is not a way of talking and it is not something a district invented. A man who is paid is a man somebody has already decided what he is for, and he is paid the same whether he is right or wrong, and the only way anybody can tell the difference afterwards is by asking him questions until one of them hurts. I would rather be the other kind. I would rather be argued with, and I would rather be argued with in public and by name, and I would rather have somebody in this yard put a hand flat on that table and say *that is not true* while I am still standing in the room than be handed a fee and thanked at the end of it."
 
-"Second. I am not a member of this body and I am not asking to be one and I am not going to vote on anything. I have not been inside one since I was thirty-one. If anybody wants me in a room I will come to the room.
+"Second. I am not a member of this body and I am not asking to be one and I am not going to vote on anything. I have not been inside one since I was thirty-one. If anybody wants me in a room I will come to the room."
 
 "Third. I want a room. I do not want a hearing. There is a difference between those two things and the difference is the whole of what I am asking for, and I would like the clerk to write it down in those words and not in any others."
 
@@ -64,7 +64,7 @@ Lissa Vale does it the steward's way and the steward's way is that she refuses a
 
 "No," said Sera Quill.
 
-"Then I am not going to offer you one either, because you have not asked, and I am not going to put a figure on a table in front of a woman who has told me in nine words that a paid witness is somebody's purchase. I will say the other half. This body has a sum that is six months short and four pounds five in a tin, and a fortnight of your keep is going into that sum, and if you find out in a week that I paid it you will find out from a page and not from me, and that is deliberate and I would like it entered.
+"Then I am not going to offer you one either, because you have not asked, and I am not going to put a figure on a table in front of a woman who has told me in nine words that a paid witness is somebody's purchase. I will say the other half. This body has a sum that is six months short and four pounds five in a tin, and a fortnight of your keep is going into that sum, and if you find out in a week that I paid it you will find out from a page and not from me, and that is deliberate and I would like it entered."
 
 "And here is the third thing and it is the last thing I am going to say about money. On the third of last month I said no to a licensed man's figure in this yard and paid it inside four minutes and read the payment back with the hour, and I did not say one word to anybody about having done it before. **A body that does a thing twice and says nothing about it is a body that has not changed and only has not noticed.** Enter that with the hour, and put my name against it, and let the man of about fifty read it back."
 
@@ -80,19 +80,19 @@ She paid it inside four minutes and she read the payment back with the hour, and
 
 And the sum, and it is Anneke Roos's standing, and she is the last word on money in this yard, and she was asked to put in a line she has never had a line like.
 
-"Three shillings and eightpence," she said, standing at the bench with the ledger open and the pen in her hand and not writing yet. "That is my figure for one woman on her own feet for a fortnight. It is two summers old and I have not moved it, and it is not a wage and I am not offering anybody a wage, and I would like that entered first, because a line in a compost line that looks like a wage is a line somebody in four years is going to read as a wage and then either pay it or stop it, and I do not want either.
+"Three shillings and eightpence," she said, standing at the bench with the ledger open and the pen in her hand and not writing yet. "That is my figure for one woman on her own feet for a fortnight. It is two summers old and I have not moved it, and it is not a wage and I am not offering anybody a wage, and I would like that entered first, because a line in a compost line that looks like a wage is a line somebody in four years is going to read as a wage and then either pay it or stop it, and I do not want either."
 
-"So. Three shillings and eightpence for the fortnight. And eleven shillings for the licensed man, who will be here three days and who will give me his own figure and will not reduce it, and who I am not going to ask to reduce, because the last time I tried to reduce a licensed man's figure he came back four days later and it was in the compost line anyway and in a different hand.
+"So. Three shillings and eightpence for the fortnight. And eleven shillings for the licensed man, who will be here three days and who will give me his own figure and will not reduce it, and who I am not going to ask to reduce, because the last time I tried to reduce a licensed man's figure he came back four days later and it was in the compost line anyway and in a different hand."
 
-"**Fourteen shillings and tenpence.** There are four pounds five in the tin, and that is about a tenth of what is in the tin. And the shortfall in that line has run six months and has not been discharged in six. And there is no line in that book for a woman reading this body's own record in a room at the back of a seed house, and I have entered the first half of the fortnight and I will enter the second half on the twenty-fourth, and the second half is three shillings and eightpence and a second blanket at twopence which I am putting in this week and not at the end of it."
+"**Fourteen shillings and tenpence.** There are four pounds five in the tin, and that is about a tenth of what is in the tin. And the shortfall in that line has run six months and has not been discharged in six. And there is no line in that book for a woman reading this body's own record in a room at the back of a seed house, and I have entered the first half of the fortnight and I will enter the second half on the twenty-fifth, and the second half is three shillings and eightpence and a second blanket at twopence which I am putting in this week and not at the end of it."
 
 And she initialled the line as an opinion in four words, which is her standing, and the four words have never been explained to anybody in eleven years and are not going to be.
 
 And then she said the other thing, and it is the reason this day is hard, and she said it to the yard and not to the ledger.
 
-"You will all get to the end of this and one of you is going to say that a woman walked in here for nothing. So let me have it said now while the clerk is standing here with his book open.
+"You will all get to the end of this and one of you is going to say that a woman walked in here for nothing. So let me have it said now while the clerk is standing here with his book open."
 
-"On the fifteenth of last month this holding refused a free offer in writing, in one line, in front of a records officer of a district who came up a road to be refused properly. And it is now paying a stranger eighteen shillings and sixpence to come and tell it something.
+"On the fifteenth of last month this holding refused a free offer in writing, in one line, in front of a records officer of a district who came up a road to be refused properly. And it is now paying a stranger eighteen shillings and sixpence to come and tell it something."
 
 "**Both halves of that are in the same book and I am the one who writes the money into it, and the fen does not get to be only one of them.**"
 
@@ -103,9 +103,9 @@ And a confession was scheduled, in a room, and nothing had been admitted.
 
 It was put to her at about the fourth hour of the twelfth and she named the day herself, and the fen entered that the day was named by the person who is going to speak in it and was not named by this body.
 
-"The seventeenth," she said. "A Sunday, and I have said that on purpose. On a Sunday this yard is emptier than it is on a working day and there is one fewer person in that room who will want to be fair to me than there is on a Monday, and I want a working room and not a generous one.
+"The seventeenth," she said. "A Sunday, and I have said that on purpose. On a Sunday this yard is emptier than it is on a working day and there is one fewer person in that room who will want to be fair to me than there is on a Monday, and I want a working room and not a generous one."
 
-"Read out what I write, in the room, in the order I wrote it, and read the figures back as figures. If a reader stumbles on a figure then somebody in that room has to stop me and make me say it again, and I will say it again, and I will say it three times if you want it three times.
+"Read out what I write, in the room, in the order I wrote it, and read the figures back as figures. If a reader stumbles on a figure then somebody in that room has to stop me and make me say it again, and I will say it again, and I will say it three times if you want it three times."
 
 "**What I will not do is be asked what I felt, and I will not be asked whether it was right.** Those are two questions a body asks because it wants an answer it can put in a column, and there is no column in this world for either of them and I have looked, and the looking took nineteen years and it was not short work."
 

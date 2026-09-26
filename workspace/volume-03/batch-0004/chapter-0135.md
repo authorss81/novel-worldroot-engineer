@@ -8,7 +8,7 @@ In the yard: **a licensed man with a lamp, a steward with a page, the reader of 
 
 And he said the method out loud before he used it, which is his standing, and he said it to the yard and not to the two licensed men.
 
-"I am going to say what I am about to do and then I will do it. **Water, heat and rootlight together, over about four feet, for about four hours, through a living path, and returned.** That is the whole of it. There is no second thing this afternoon and nothing else anybody in this yard will be asked to do.
+"I am going to say what I am about to do and then I will do it. **Water, heat and rootlight together, over about four feet, for about four hours, through a living path, and returned.** That is the whole of it. There is no second thing this afternoon and nothing else anybody in this yard will be asked to do."
 
 "And I am going to say the other half, because I say both halves or I say nothing. **I have two links and both of them are on a shelf four hundred miles off in a woman's hand, and there is no link of my own in this yard, and the path I am going to use is this fen's.** That is the whole of the difference between this afternoon and the one on a plateau, and the whole of the cost, and nobody in this yard is going to improve on it afterwards, including me."
 
@@ -35,7 +35,7 @@ And the man of about fifty read them back out loud in a yard with nine people in
 
 And Coll Renner was in that yard the whole of the four hours with his own book open on the wall side of the hard standing, and he did not answer for it, and he said why before anybody asked him, which is his practice and has been all season.
 
-"I wrote *not answering for a draw* in this book on the twentieth of a month two months back and I wrote it before he did the thing, and I have not taken it back. **A man in a room with other people in it will tell you what he can do. A man with a licensed man's book in front of him will tell you what he will answer for. Those two answers are in this yard at the same time and they are going to be about a foot apart and they are both true and it is not my job to make them agree, and I have been licensed twenty-two years and I have never once made two men agree with me in a room.**"
+"I wrote *not answering for a draw* in this book on the twentieth of a month three months back and I wrote it before he did the thing, and I have not taken it back. **A man in a room with other people in it will tell you what he can do. A man with a licensed man's book in front of him will tell you what he will answer for. Those two answers are in this yard at the same time and they are going to be about a foot apart and they are both true and it is not my job to make them agree, and I have been licensed twenty-two years and I have never once made two men agree with me in a room.**"
 
 And the page, in his own hand, in his own book.
 
@@ -63,7 +63,7 @@ And then the head, in the book in two places. That is the cost, and it is not th
 
 And then the woman who does the sums, in a yard, on the morning of the thirteenth, with about twenty people in it, because a thing that takes a head down four inches is not a thing anybody is going to hear about secondhand.
 
-"Right," said Anneke Roos. "**I have got a hard number and a soft one and I am saying the hard one first.**
+"Right," said Anneke Roos. "**I have got a hard number and a soft one and I am saying the hard one first.**"
 
 "The head this holding draws off carries sixteen households and this body, and four inches off it is four inches off every one of them. A household of four in a dry week is about **twenty-eight pails.** Sixteen households is **four hundred and forty-eight pails.** Water brought in this district is **a shilling a pail**, a carting man's figure from a yard in the low acre two years ago, unchanged, and I have not gone and checked it this week and I am saying that on the page."
 

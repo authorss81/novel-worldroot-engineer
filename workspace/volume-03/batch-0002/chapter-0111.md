@@ -6,9 +6,9 @@ The sound wood was dated on the twenty-fifth and the twenty-sixth, in the lee of
 
 Marek Vale said the method out loud before he used it, which is his standing, and Lissa Vale entered it in the seed-route ledger in her own hand with the hour on it, and it is the same method and it is the whole of the science there is to offer.
 
-"A rootwood seam is not a tree," he said. "It does not make a ring in a year the way a trunk does. It makes a layer while it is alive, and a layer is laid down in a season, and while a seam is standing out of the ground and working it lays one every year, and if you cut its face clean you can count the layers with a lens and a lamp and a good light, and you can count them from the outside in, because they are in order and there is no way to get them out of order.
+"A rootwood seam is not a tree," he said. "It does not make a ring in a year the way a trunk does. It makes a layer while it is alive, and a layer is laid down in a season, and while a seam is standing out of the ground and working it lays one every year, and if you cut its face clean you can count the layers with a lens and a lamp and a good light, and you can count them from the outside in, because they are in order and there is no way to get them out of order."
 
-"And the size of a layer on this shelf, which I measured on a stump in the lee of the stone wall yesterday and measured twice, **is about a twentieth of an inch in a year, which is an eighth of what a pear limb puts on here**, and I do not know why and I am not going to pretend to.
+"And the size of a layer on this shelf, which I measured on a stump in the lee of the stone wall yesterday and measured twice, **is about a twentieth of an inch in a year, which is an eighth of what a pear limb puts on here**, and I do not know why and I am not going to pretend to."
 
 "So I count the layers and not the thickness. One layer, one year. And if a man has cut a length of rootwood and stood it up in the weather for thirty years and it has laid down thirty layers, that is thirty years, and there is no room in that for a story about a man a long way off."
 
@@ -22,7 +22,7 @@ And the middle of the pile was dated separately with the same method, and it too
 
 And the number was stated in the open, in a yard, with a woman standing in it.
 
-"Twenty-eight," said Marek Vale. "Twenty-eight years, and four times in them, and the last of the four about six years back, and the gap is seven years, seven years, and six years, and I have given you the gaps because a man who comes back on a rotation of seven years is a different thing from a man who comes back when he can, and I have not got the least idea which of those he was and I am not going to stand in your yard and pretend that the difference is nothing.
+"Twenty-eight," said Marek Vale. "Twenty-eight years, and four times in them, and the last of the four about six years back, and the gap is seven years, seven years, and six years, and I have given you the gaps because a man who comes back on a rotation of seven years is a different thing from a man who comes back when he can, and I have not got the least idea which of those he was and I am not going to stand in your yard and pretend that the difference is nothing."
 
 "**Twenty-eight years is inside your father's time and possibly inside your own. This was not cut by somebody from nine miles down the road. It was cut by somebody in this yard or within walking distance of it, and he was alive, and this shelf is his ground.** And I said at the gate on the first of this month that I would not guess in a yard, and I am not guessing, I am telling you what the layers say, and the layers are the only witness I have and I would like you to understand that I have gone past every other thing I could have said."
 
@@ -56,7 +56,7 @@ They are grafts. Cut, fitted, and bound, by hand, with a strip of wet sacking an
 
 Coll Renner went down into the pit on his knees and was in it a long time and did not say anything at all, which is not his usual way, and then he came up and sat on the wall with his hands on his knees and said the sentence that is the whole of what that yard found.
 
-"Yes, it is a graft," he said. "I will say it in the plainest words I have got and then I will say the other thing and the other thing is the one I would like entered first.
+"Yes, it is a graft," he said. "I will say it in the plainest words I have got and then I will say the other thing and the other thing is the one I would like entered first."
 
 "**Somebody made this on purpose, they made it to keep, and they put it in with the waste.** And that is not how a man keeps a thing he means to use. A man who means to use a graft takes it out of the waste and sets it in the ground, because a graft in a press is a graft in the dark and it grows at a fortieth of what it wants and the join at the heel takes water from nobody and it is dead in four years. It is a graft that was never finished and it was not lost by accident, because a thing that is lost by accident does not get bound in bast. **That is how a man hides it.**"
 
@@ -68,7 +68,7 @@ And nobody answered her, and the reason nobody answered her was in the ledger, a
 
 And Coll Renner said the thing that keeps the door open, and he said it because he is a licensed man and a man who has been licensed for twenty-two years is the only person in that yard who is paid to be careful, and it is the sentence of the day and it is not a speech.
 
-"I will tell you the one thing I can defend and the one thing I cannot, and both of them go in the book in my own hand," he said. "I can defend this: **a graft in a press is nobody's hobby.** A man who grafts for pleasure grafts a fruit tree and grafts it over a fence and shows it, because that is the whole of the pleasure and there is no other half of it. This is a rootwood graft, fitted by hand, at a place with no nursery in it, and it went into the waste and not into the ground.
+"I will tell you the one thing I can defend and the one thing I cannot, and both of them go in the book in my own hand," he said. "I can defend this: **a graft in a press is nobody's hobby.** A man who grafts for pleasure grafts a fruit tree and grafts it over a fence and shows it, because that is the whole of the pleasure and there is no other half of it. This is a rootwood graft, fitted by hand, at a place with no nursery in it, and it went into the waste and not into the ground."
 
 "And I cannot defend this: **I cannot read intent in wood.** I have been licensed twenty-two years and I cannot tell you whether a man who puts a graft in with the waste is hiding it or keeping it, because the two are the same action and only the man knows and he is not here. So I am not going to say he was hiding it, and I am not going to say he was keeping it, and I would like the book to hold both of those as unread, and the man of about fifty to read them out, and the fen to go on being a body that does not know."
 

@@ -20,7 +20,7 @@ Merrid Ollvar took it off the cart in the yard in front of nine people and did n
 
 Nobody in that yard said anything for a moment and then the man of about fifty's reading of it, in a yard four hundred miles off, the next morning, at about the ninth hour, was the sentence that is the whole of what this instrument is.
 
-"They have not asked for a copy," he said. "They have asked for a list, and they have told us in writing that a list is not a copy, and they have been careful about that on purpose, because they know what this body does with a copy. And then they have told us that if we cannot say which part a thing is, then saying we cannot say is the answer, and the answer is that the thing does not exist.
+"They have not asked for a copy," he said. "They have asked for a list, and they have told us in writing that a list is not a copy, and they have been careful about that on purpose, because they know what this body does with a copy. And then they have told us that if we cannot say which part a thing is, then saying we cannot say is the answer, and the answer is that the thing does not exist."
 
 "**That is a form that takes a record away by making a list of it.** A body cannot cite what is in part three and a body cannot even say that part three is empty, because a list of part three is part three. And we cannot fill it in, because filling it in means classifying, and classifying is the trap, and the way out of the trap is written on the fourth point in nine miles and the way out of the trap is the trap."
 
@@ -34,9 +34,9 @@ And then she said the thing that makes her the shape of the thing in front of th
 
 "I am going to tell you three things and then I am going to ask your steward the question, and none of the three is an opinion and none of the three is a threat, and I would like all of that written down in the order I say it, because I have been told by two people in four years that I speak in the wrong order and I have thought about it since and I think they are right."
 
-"One. The fourth part of this schedule has been in force since it was set and I did not set it and I have never had the power to change it and there is no officer of this district who could change it, including the officer who signs this office's letters, and I have looked, twice, on purpose, because I expected to find that I could and I want you to know that I looked.
+"One. The fourth part of this schedule has been in force since it was set and I did not set it and I have never had the power to change it and there is no officer of this district who could change it, including the officer who signs this office's letters, and I have looked, twice, on purpose, because I expected to find that I could and I want you to know that I looked."
 
-"Two. I have no power to declare anything unfit. The condition is in the schedule. It was set when the schedule was set. It applies to part three and part three is defined on the second point of that sheet in front of you, and a record that carries a direction given to another person is a part three record, and I have had a great many people tell me that a graft is not a direction given to another person, and I have to tell them that the schedule does not use the word graft.
+"Two. I have no power to declare anything unfit. The condition is in the schedule. It was set when the schedule was set. It applies to part three and part three is defined on the second point of that sheet in front of you, and a record that carries a direction given to another person is a part three record, and I have had a great many people tell me that a graft is not a direction given to another person, and I have to tell them that the schedule does not use the word graft."
 
 "Three. **I am not here to make a record disappear. I am here because a return of inventories is a return, and if six items are not returned this quarter then the office writes a line saying six items were not returned, and a line saying that is a fact about a holder and not about a record, and I have seen what a fact about a holder does to a holder's water.** I would like six items. I have never wanted a part three record, because a part three record is not evidence and it is not worth the paper, and I am telling you that so that you can decide whether to believe the rest of it, and I have earned the right to be believed about that one thing by saying it first."
 
@@ -44,7 +44,7 @@ Tova Reed read all three back, including the reason for the reading, which she h
 
 "Point four," she said. "A holder who cannot classify a record states so, and the statement is itself a classification. **Is there any way out of that on this form.**"
 
-"There is no way out of that on this form," said Sabin Roell, "and I am not going to invent one for you, and I will tell you why I am not, and it is the fourth thing and I said three.
+"There is no way out of that on this form," said Sabin Roell, "and I am not going to invent one for you, and I will tell you why I am not, and it is the fourth thing and I said three."
 
 "Because the way out of it is not on the form. The way out of it is that a record is not part three if there is no direction in it, and I can tell you what is a direction in a record because I have read four hundred of them, and **a direction given to another person is a record in which somebody is told what to do by somebody who was not the one who did the work.** It is not a reading. It is not a result. It is an order, and an order in a rootwork record is a thing with a person in it, and if there is a person in it and the person is not you then it is part three, and if the person is you then it is part two, and I have never in four years seen that office argue the second of those and I have never seen it argued here either."
 
@@ -82,7 +82,7 @@ And then Anneke Roos asked the question, from four hundred miles off, and it is 
 
 And Lissa Vale answered it standing in the yard at about the sixth hour of the fifteenth with a wind on the plateau and a form on the bench and a well on a slope, and it is the whole of what a free offer is, and it is nine lines and it is in the fen's own book.
 
-"**A copy held at the district's storage is a copy the district can declare part three.** And a part three record is a record that exists and does not count, and a body that has put its whole record somewhere else and kept nothing has no way of saying so in any proceeding, in any letter, or in any dispute with one holder and another, because the thing it would have to produce is a thing the office holds and will not produce and no officer may be asked for.
+"**A copy held at the district's storage is a copy the district can declare part three.** And a part three record is a record that exists and does not count, and a body that has put its whole record somewhere else and kept nothing has no way of saying so in any proceeding, in any letter, or in any dispute with one holder and another, because the thing it would have to produce is a thing the office holds and will not produce and no officer may be asked for."
 
 "And a body that says no to free storage is saying it would rather keep its own record in its own yard where four families can see it and where a man with a spade can walk out of the yard and know where it is. **That is not a good reason. It is a plain one, and I have learned this season that a plain reason on a page beats a good reason in a head, and I would like the plain one entered and I would like the good one left out.**"
 
@@ -90,7 +90,7 @@ And the offer was declined in writing, in one line, and the one line is the fen'
 
 And she said, at the gate, on the fifteenth, at about the sixth hour, the last of what she had come up the road to say, and it is a fact and it is not a threat, and it is the reason the fen is going to have to be quick.
 
-"Then the answer to the return is a list of six things and a declaration about each one," she said, "and the declaration on a part three record is the same declaration whether you send it or not, and the office will write a line either way, and the line says *held* and the line says *not returned*, and neither of those is a classification.
+"Then the answer to the return is a list of six things and a declaration about each one," she said, "and the declaration on a part three record is the same declaration whether you send it or not, and the office will write a line either way, and the line says *held* and the line says *not returned*, and neither of those is a classification."
 
 "So I would say this to you as a person doing a job and not as a person who has been in your yard two days. **The only thing that protects a record is a second copy in a place the office does not hold, and the only thing that protects a second copy is a third one, and the only thing that protects a third one is somebody else carrying it up a road with their name on the wrapper.** You are a body of eight with a book. I am an office with a schedule. Do the arithmetic and do it this month."
 

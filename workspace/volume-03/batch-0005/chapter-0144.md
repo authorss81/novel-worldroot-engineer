@@ -14,7 +14,7 @@ The eighth month's compost line fell on the first of the ninth month at about th
 >
 > And against the same line, separately, in the same hand, and entered as four separate things and not as part of the shortfall, because they are not a shortfall of compost and they are the cost of doing the work and **a book that puts the two in one column is a book that cannot be read in four years:**
 >
-> **One. A man hired on the fourth of this month whose balance of twenty-four shillings is not discharged. His pay-off day was never entered against him, and the fen has entered that it was not and is not going to invent one.**
+> **One. A man hired on the fourth of this month whose balance of twenty-eight shillings is not discharged. His pay-off day was never entered against him, and the fen has entered that it was not and is not going to invent one.**
 > **Two. Two men hired in this month and paid off inside it, the ninth on the seventeenth and the twelfth on the twentieth, four shillings on the day each was hired and the balance on the day he was paid off.**
 > **Three. Six days of a woman's keep over a fortnight, at one shilling and sevenpence for the six days.** **Four. A second blanket at twopence.** Both entered against the seventh month's line on the thirtieth and the eleventh of that month and entered here again, **because the person who keeps the money will not have a figure about a woman go out of a book by being a month old.**
 

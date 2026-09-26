@@ -22,9 +22,9 @@ And she did not add to it. He waited about four seconds, in case she was going t
 
 And then what she has, which is nothing, and it took about an hour to establish and it is the whole of the resistance of the day, because a body that cannot produce a document cannot enter a finding, and the whole of the machinery this body has built in two volumes is a machinery of paper.
 
-"I have kept nothing," she said. "I want that said in the plainest words there is and I want it said by me and not asked out of me. **No copy. No extract. No log of my own. No note. No private ledger and no day book and nothing with a date on it. No letter to anybody about it, and I have not written to anybody about it, and there is nobody in the world I have told.**
+"I have kept nothing," she said. "I want that said in the plainest words there is and I want it said by me and not asked out of me. **No copy. No extract. No log of my own. No note. No private ledger and no day book and nothing with a date on it. No letter to anybody about it, and I have not written to anybody about it, and there is nobody in the world I have told.**"
 
-"And I will tell you why, because you are going to find out the shape of it on your own in about a week and I would rather you had it now. **A woman who keeps a copy keeps a reason for keeping it, and the reason is never the reason she gives.** The reason she gives is that she may be asked. The reason is that she was not sure at the time, or that she wanted to be able to be sure afterwards, or that she was afraid. Every one of those is a thing I was, and I did not want a page in the world that said so, and that is not a principle. It is a woman of fifty-six doing the arithmetic about what a piece of paper does to a person who owns it, and doing it in nineteen seconds, the first time somebody handed me a form.
+"And I will tell you why, because you are going to find out the shape of it on your own in about a week and I would rather you had it now. **A woman who keeps a copy keeps a reason for keeping it, and the reason is never the reason she gives.** The reason she gives is that she may be asked. The reason is that she was not sure at the time, or that she wanted to be able to be sure afterwards, or that she was afraid. Every one of those is a thing I was, and I did not want a page in the world that said so, and that is not a principle. It is a woman of fifty-six doing the arithmetic about what a piece of paper does to a person who owns it, and doing it in nineteen seconds, the first time somebody handed me a form."
 
 "And here is the part that is the part. In nineteen years there has never been a moment where the having of it would have helped anybody. Not once. I have gone over it. I did the whole of it again in my own head about a week ago on a road, on purpose, and I got the same answer twice."
 
@@ -58,7 +58,7 @@ And then the terms, and they are the card, and Lissa Vale wrote them out in her 
 
 And the man of about fifty asked one question in the yard on the fourteenth, at about the fourth hour, and it was the wrong question and he knew it was the wrong question before he had finished it, and he asked it anyway, and it is in the book because he asked it in front of people.
 
-"I am going to ask a question and I am going to say why first, because this yard cannot be trusted with a bare question and I have seen it try.
+"I am going to ask a question and I am going to say why first, because this yard cannot be trusted with a bare question and I have seen it try."
 
 "**Who told you to do it.**"
 
@@ -77,9 +77,9 @@ And the yard did what a yard does, which is nothing, for about two seconds, and 
 ---
 
 And the man of about fifty made the batch's first finding, standing, in the same yard, about ten minutes later, and it is the best thing he has said in a season and he would not be thanked for it.
-"We have spent a season learning to publish everything," he said. "Every figure this holding has got has been read out in a yard with a person in front of it, and the man of about seventy has stood at a gate and made me read an entry out that I did not want read, and the steward has carried four hundred miles of arithmetic to a stranger's barn and read it out, and a body that does that is a body that has decided the only safe thing about a record is that everybody has heard it.
+"We have spent a season learning to publish everything," he said. "Every figure this holding has got has been read out in a yard with a person in front of it, and the man of about seventy has stood at a gate and made me read an entry out that I did not want read, and the steward has carried four hundred miles of arithmetic to a stranger's barn and read it out, and a body that does that is a body that has decided the only safe thing about a record is that everybody has heard it."
 
-"And the one person who is going to tell us the largest thing we are going to be told has brought nothing to publish. **And that is not a defect in her.** It is the first thing anybody in three volumes has brought into this yard that could not be copied, and I do not know what to do with it and I am not going to stand in a yard and pretend that I do, because the alternative is that this body goes on publishing what is easy and calls it a practice.
+"And the one person who is going to tell us the largest thing we are going to be told has brought nothing to publish. **And that is not a defect in her.** It is the first thing anybody in three volumes has brought into this yard that could not be copied, and I do not know what to do with it and I am not going to stand in a yard and pretend that I do, because the alternative is that this body goes on publishing what is easy and calls it a practice."
 
 "And I will say the other half, because this is the hour for it and because I voted against this body three times. **The half is that she is right, and being right is the worst of it.** A thing a woman says in a room cannot be checked by anybody. Not by an office in nine miles, because there is no paper. Not by a licensed man with a clip, because a reading is not a witness. And not by her, which is the part I have not been able to put down since the seventh hour this morning: **she cannot check it either.** She has put the only account of this in the world into a yard in a fen on somebody else's ground and she cannot take it back and nobody can hold her to any part of it, and if she has left one thing out then it is gone out of the world and the going of it is not on anybody's page, including hers."
 
@@ -103,7 +103,7 @@ And the man of about seventy was fetched at about the fifth hour, and he was fet
 
 He was told what had been asked and what had been refused and what had been agreed and what had not, in that order, and he asked for the fourth one to be repeated, which was the piece of a thing that is not a document, and then he sat against the wall with the blanket over his knees for about a minute before he said anything at all.
 
-"A body that has spent a year reading its own figures out loud in a yard has got no practice at holding a thing it cannot check," he said. "I have had that practice. I had it for about thirty years with a man who is not alive and I did it badly, and I am telling you so that you do not go and get it from him, because he cannot come.
+"A body that has spent a year reading its own figures out loud in a yard has got no practice at holding a thing it cannot check," he said. "I have had that practice. I had it for about thirty years with a man who is not alive and I did it badly, and I am telling you so that you do not go and get it from him, because he cannot come."
 
 "**You are going to get it from her, and she has had it nineteen years and has not done it well either, and neither of those is a reason to stop, and the two of them together are a very good reason to write down every hour of it.** Read that back and put my initial against nothing, which is my standing, and do not thank me, because I have been thanked twice in eleven years and both times it was a mistake."
 

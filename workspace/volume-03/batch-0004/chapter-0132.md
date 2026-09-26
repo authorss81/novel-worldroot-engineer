@@ -14,7 +14,7 @@ Lissa Vale read it out whole. Dunmar Fitch read it back out of the book with the
 
 And then the man of about fifty stood up and said what it is, and the fen entered his words, and they are the whole of it.
 
-"**So the way to keep a record out of that class is to declare it experimental. And the way to declare a record experimental is to make a statement. And a statement is entered against the record. And the way to make no statement at all is to have it put in by somebody else.**
+"**So the way to keep a record out of that class is to declare it experimental. And the way to declare a record experimental is to make a statement. And a statement is entered against the record. And the way to make no statement at all is to have it put in by somebody else.**"
 
 "We built a door. The door was built by an office that is right. **And the door is a trapdoor and it was built by an office that is right, and the rightness is not going to be argued with by us in a yard.**" He put his hand on the sheet without touching it. "There is not one word on that paper I would take out if I could put it back, and I have looked at it for two hours with the man of about seventy sitting on the other side of me and he has not said one word about it, and I am going to record that as the only endorsement of it anybody in this holding has ever given anybody."
 
@@ -50,7 +50,7 @@ And then the clerk entered an observation of his own, which is his standing, and
 
 And then Coll Renner said the thing he came into the room with, and he said it standing at the back with his own book under his arm, and he said the first part of it before anybody asked him anything, which is his practice and has been all season.
 
-"I have not been asked to say anything and I am going to say something, and I would like the clerk to enter that I said it and that nobody thanked me for it, because I have noticed that this body has got a habit of thanking people for saying things and I am not one of the people in this yard that is going to be thanked.
+"I have not been asked to say anything and I am going to say something, and I would like the clerk to enter that I said it and that nobody thanked me for it, because I have noticed that this body has got a habit of thanking people for saying things and I am not one of the people in this yard that is going to be thanked."
 
 "**That sheet does not reach me.** A record of an experimental character is held against the record and not against the holder. That is its own second line. **So a class of record that is experimental does not reach a person's coat.** And the copy in my coat is the only one of the four that no office on this sheet can list, and it is the one I have had on this fen road since the eighteenth of a month three months back."
 

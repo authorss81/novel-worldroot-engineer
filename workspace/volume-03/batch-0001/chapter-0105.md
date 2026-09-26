@@ -56,13 +56,13 @@ And the party was then two links down on a plateau with one licensed man, a hire
 
 And Marek Vale did the arithmetic out loud, on the twelfth, at about the sixth hour, standing in the barn with the wind shaking the door, and it is in the ledger and it is the whole of why the thirteenth of this month is what it is.
 
-"The scion is three-tenths a day and it is a third of what it should be and it is all the extension this limb has," he said. "**The face under it is going to close.** Not today. In eight or nine days, at that rate, and the buyer is in twenty-five days, and the buyer does not care, and the face is the only reason this trip cost nine days of road and thirteen weeks of a compost line.
+"The scion is three-tenths a day and it is a third of what it should be and it is all the extension this limb has," he said. "**The face under it is going to close.** Not today. In eight or nine days, at that rate, and the buyer is in twenty-five days, and the buyer does not care, and the face is the only reason this trip cost nine days of road and thirteen weeks of a compost line."
 
 "And I have one thing I have not done and I know how to do it and I have never done it and there is no person in this barn who has watched me do it and one person in this barn has told me twice tonight not to do it."
 
 Coll Renner said the honest thing, standing in the barn door with the case under his arm, and he said it the way he says everything, which is that he says it and then he goes home and you may do it or not do it and it will not be his name on it.
 
-"**A man who has never done it should not do it on a tree four houses drink from.**" He said it flatly and without any performance. "And I will say the rest of it because I have been licensed for twenty-two years and I have watched two men learn this in a barn with somebody else holding the other end, and both of them were in a room with a third person in it who had done it, and one of them is carrying the mark and one of them is carrying something worse than the mark, and neither of them learned it in a barn on a plateau with four houses and a well.
+"**A man who has never done it should not do it on a tree four houses drink from.**" He said it flatly and without any performance. "And I will say the rest of it because I have been licensed for twenty-two years and I have watched two men learn this in a barn with somebody else holding the other end, and both of them were in a room with a third person in it who had done it, and one of them is carrying the mark and one of them is carrying something worse than the mark, and neither of them learned it in a barn on a plateau with four houses and a well."
 
 "And I will say the thing that is the actual objection and not the caution. **A draw takes it out of somewhere.** That is the whole of what it is and you know it as well as I do. You are proposing to hold a limb open for a day with something that is not the weather, and there is no such thing in this world, and whatever is holding that limb open at the fourth hour of the fourteenth is coming out of the ground under this yard, and this yard has no water in it and never has, and there is a well two hundred yards down this slope with four families' names on the bucket."
 
@@ -72,7 +72,7 @@ Marek Vale heard all of it, and did not argue with any of it, and the fen entere
 
 And then he said the thing that is the decision, and he said it standing, in a barn, at about the sixth hour of the twelfth, in front of a licensed man, a steward, a woman of fifty-four, a man with a spade, and eleven other people who had come in.
 
-"I am going to try to hold it," he said. "**And I want it written in three places that I have been told no by a man who knows more about it than I do, and that I am doing it on his objection and not over it, and that the objection is a better argument than anything I have got and I have not got one.**
+"I am going to try to hold it," he said. "**And I want it written in three places that I have been told no by a man who knows more about it than I do, and that I am doing it on his objection and not over it, and that the objection is a better argument than anything I have got and I have not got one.**"
 
 "And I want one more thing written, and Lissa Vale is to write it and I am to say it slowly. **If the well two hundred yards down this slope is shallower on the fourteenth than it was on the sixteenth of last month, then it is entered as my cost and not as the weather's, and it is entered in the seed-route ledger and not in a book anybody can lose, and it is read out loud to this household and to the three others within a fortnight, whatever I say at the time and whatever I am like at the time.**"
 

@@ -4,9 +4,9 @@
 
 She said it on the twenty-third of this month, which is a Saturday, at about the fourth hour of the afternoon, in the yard, standing up, with about sixteen people in it, and it is thirteen sentences and none of them is an argument and the fen entered that she had not been asked for them and had not been asked for anything.
 
-"I am going to say a thing and I am going to say it in the flat voice I use for reading a table, and I am not asking any of you to believe it, and I am not arguing that it was right.
+"I am going to say a thing and I am going to say it in the flat voice I use for reading a table, and I am not asking any of you to believe it, and I am not arguing that it was right."
 
-"**The pruning on the western salt corridor was not a mistake that went wrong. It was a decision that went right.** The ground that was pruned hardest is the ground that came back. The ground that was left alone is the ground that did not come back. I have said that twice and I am saying it a third time because I said it once in nineteen years and I would like it said three times in a yard where it is written down.
+"**The pruning on the western salt corridor was not a mistake that went wrong. It was a decision that went right.** The ground that was pruned hardest is the ground that came back. The ground that was left alone is the ground that did not come back. I have said that twice and I am saying it a third time because I said it once in nineteen years and I would like it said three times in a yard where it is written down."
 
 "That is all of it. That is the whole of what I am going to give you about the corridor, and it is not a confession and it is not a defense, and I am not asking anybody to hold it up next to the four thousand two hundred and make one thing of the two. **The two things are both true and they do not go together and nobody in this world has ever made them go together.**"
 
@@ -28,9 +28,9 @@ And then Marek Vale did the thing he does, which is put a mechanism beside a cla
 
 "A graft carries the thing that was put in and it loses the thing that was there," he said. "That is not a finding, that is what the word means. A tree that has been grafted goes on being a tree and the wood says what the scion does, in the scion's order. And a tree does the work it was told to do in the order it was told to do it. I said that on the fifth of last month in this yard and a licensed man said the same thing about a collar, and neither of us was talking about a pear and both of us were."
 
-"Now look at a row. One row. One week. This season. **Eleven cuts, nine of them read with a rule and a lens and two of them not read and not guessed at. Taken, dressed, closed, left alone long enough to close, taken again. In an order. Dressed eleven times by a man who came back on the sixth day.** And the reading on the fifth of last month says that row went on being a tree, which is what Coll Renner said out loud that morning and what the page says in the two words *a graft and not a reading*, and I have never been able to make those two words mean what I wanted them to mean.
+"Now look at a row. One row. One week. This season. **Eleven cuts, nine of them read with a rule and a lens and two of them not read and not guessed at. Taken, dressed, closed, left alone long enough to close, taken again. In an order. Dressed eleven times by a man who came back on the sixth day.** And the reading on the fifth of last month says that row went on being a tree, which is what Coll Renner said out loud that morning and what the page says in the two words *a graft and not a reading*, and I have never been able to make those two words mean what I wanted them to mean."
 
-"So. The row is not damaged. **A row that has eleven dressed cuts on it, all closed, all healed, in a season, and that is still a row, is not a scar and is not a wound and is not a mystery.** It is a thing that was done to a row in an order, and the order held, and the row came back.
+"So. The row is not damaged. **A row that has eleven dressed cuts on it, all closed, all healed, in a season, and that is still a row, is not a scar and is not a wound and is not a mystery.** It is a thing that was done to a row in an order, and the order held, and the row came back."
 
 "And if that is true of a row, then the question this fen has been carrying since the third of this month changes. It was *is the telling still going on*. It is not that any more and I want it struck out of my own mouth in front of witnesses. **The question is whose order it is.**"
 
@@ -44,9 +44,9 @@ And Dunmar Fitch entered all of it with the hour, and the man of about fifty rea
 
 And Tova Reed stood up at about the sixth hour and made the argument she made on the fifth of last month, and it is the same argument and it is the third time she has made it, and she said that before she made it.
 
-"I am going to say a thing I have said twice in this season and I am going to say that I am saying it for the third time, and then I am going to say the part that is new.
+"I am going to say a thing I have said twice in this season and I am going to say that I am saying it for the third time, and then I am going to say the part that is new."
 
-"**A mechanism is not a verification.** On the fifth of last month I stood in this yard and I would not let anybody use the word *memory* about a pear tree, and every one of you thought I was being careful. I was not being careful. I was stopping a word doing a job it cannot do. And Marek has just put a mechanism beside a woman's account of a table in a district four hundred miles off, and the mechanism is sound, and **the mechanism is sound in exactly the same way for every order in this book, and soundness is not a hand.** A mechanism does not have a name in it. A graft carries what was put in. A tree does what it was told. That is true of a row and it is true of a corridor and it will be true of whatever comes out of the ground in a year, and it is true whether the person who set the order is a fool or the best man in the country.
+"**A mechanism is not a verification.** On the fifth of last month I stood in this yard and I would not let anybody use the word *memory* about a pear tree, and every one of you thought I was being careful. I was not being careful. I was stopping a word doing a job it cannot do. And Marek has just put a mechanism beside a woman's account of a table in a district four hundred miles off, and the mechanism is sound, and **the mechanism is sound in exactly the same way for every order in this book, and soundness is not a hand.** A mechanism does not have a name in it. A graft carries what was put in. A tree does what it was told. That is true of a row and it is true of a corridor and it will be true of whatever comes out of the ground in a year, and it is true whether the person who set the order is a fool or the best man in the country."
 
 "**I am going to say what the evidence is and I am going to stop there, and I am not going to say whose order it is, and Marek has not said it either, and neither of us is going to.** The evidence is: a decision that took the ground hardest came back; and a row that was taken eleven times in a week came back. The order is the thing. **That is as far as the evidence goes and the distance between that and a hand is the whole of this volume and nobody in this yard can close it.**"
 
@@ -56,9 +56,9 @@ And then she said the other half, quietly, and it is in the book and nobody than
 
 And then the reader of this body stood up on the wall side of the gate at about the seventh hour and put the alternative in front of the yard, and he read both wordings out loud, and the clerk wrote both, and the yard chose.
 
-"I have been the reader of this body for four years and I have read a great many findings out of this gate and I am not going to read this one, and here is the wording I am offering instead and I would like the man of about seventy to hear both of them.
+"I have been the reader of this body for four years and I have read a great many findings out of this gate and I am not going to read this one, and here is the wording I am offering instead and I would like the man of about seventy to hear both of them."
 
-"**Not this one:** that the pruning on the western salt corridor was a decision that went right, and that the eleven cuts in one row on the third of this month were the same thing done again.
+"**Not this one:** that the pruning on the western salt corridor was a decision that went right, and that the eleven cuts in one row on the third of this month were the same thing done again."
 
 "**This one:** that on the twenty-third of this month a person of fifty-six said, in this yard, on the word of her own memory and with no document behind any part of it, that ground pruned hardest came back and ground left alone did not; that an engineer of this body said out loud that a row taken eleven times in one week is not a scar and is not a mystery; that the question in this body's book is no longer whether a telling is still going on; and that **the new question is worse and this body knows it and has written it down anyway.**"
 
@@ -74,13 +74,13 @@ And then the twenty-fourth, which is a Sunday, and the fen entered the day after
 
 The man of about seventy was brought out at about the ninth hour, which is the sixth time in a season, and he was told the two wordings and the question that had changed, and he listened to all of it with the blanket over his knees and did not say one word for about a minute.
 
-"Ask me the question I would ask," he said at last, "which is the man of about seventy's question, and which nobody else in this yard has standing to ask and which I have been saving since Wednesday.
+"Ask me the question I would ask," he said at last, "which is the man of about seventy's question, and which nobody else in this yard has standing to ask and which I have been saving since Wednesday."
 
-"**What has this body lost.** Not what it has got. What it has lost. Because everything that has happened in this yard since Monday has been a way of taking something out of the book, and a body that only counts what it has added is a body that is not keeping an account.
+"**What has this body lost.** Not what it has got. What it has lost. Because everything that has happened in this yard since Monday has been a way of taking something out of the book, and a body that only counts what it has added is a body that is not keeping an account."
 
-"So. It has lost the right to say it does not know. It knew on Wednesday that a man cut eleven branches off one row in a week and it did not know why, and it was able to say so out loud in a yard, and it was able to print that. **As of Saturday it cannot say that any more, and it did not lose the right by anybody taking it. It lost the right by a woman standing in a gate telling it that the hardest pruning came back, and it is not going to get the right back by being careful.**
+"So. It has lost the right to say it does not know. It knew on Wednesday that a man cut eleven branches off one row in a week and it did not know why, and it was able to say so out loud in a yard, and it was able to print that. **As of Saturday it cannot say that any more, and it did not lose the right by anybody taking it. It lost the right by a woman standing in a gate telling it that the hardest pruning came back, and it is not going to get the right back by being careful.**"
 
-"And it has lost the other thing, which is worse and which none of the four of you have said out loud, and I am going to say it and then I am going to stop. **It has lost the right to think the man was a fool.** For four months this body has had a better answer to a row of eleven cuts than anybody else in the country, and the better answer was *a man in a hurry, dressed eleven times, came back on the sixth day, and I would rather it was the hurry*, and the reason that was better is that it was **flattering**, and everybody in this yard knows it was flattering and everybody in this yard is now going to have to do without it.
+"And it has lost the other thing, which is worse and which none of the four of you have said out loud, and I am going to say it and then I am going to stop. **It has lost the right to think the man was a fool.** For four months this body has had a better answer to a row of eleven cuts than anybody else in the country, and the better answer was *a man in a hurry, dressed eleven times, came back on the sixth day, and I would rather it was the hurry*, and the reason that was better is that it was **flattering**, and everybody in this yard knows it was flattering and everybody in this yard is now going to have to do without it."
 
 "Read that back. Put my initial against nothing. And do not thank me, and do not look at that man, because I have been in this yard for a season watching everybody look at everybody else and there is a woman standing twenty feet from your gate who has not been looked at once in six days and she is the reason the two of you are all talking."
 

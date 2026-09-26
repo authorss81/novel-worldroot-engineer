@@ -40,9 +40,9 @@ Marek Vale read it and said what he can defend and what he cannot, in that order
 
 "**And what I cannot defend.** I cannot tell, from a page, with four lines and a figure on it, whether what came up through that row is a thing somebody told the row to do or a thing the row did because nobody did anything to it."
 
-"And I have said that sentence before. **I said it in a barn four hundred miles off about eleven cuts, in a month now three months back, to about nine people, and nobody in that barn answered it, and it is the same sentence and I have not improved on it since and I am not going to try to this evening.** The clerk is to enter that I said it twice. Twice is the count and the count is the point."
+"And I have said that sentence before. **I said it in a barn four hundred miles off about eleven cuts, in a month three months back, to about nine people, and nobody in that barn answered it, and it is the same sentence and I have not improved on it since.** The clerk is to enter that I said it twice. Twice is the count and the count is the point."
 
-> Entered at the seventh hour of the evening of the twentieth of this month, in the yard, by the clerk, at the request of the engineer of record: **the sentence was said twice, in a month three months back and in this month, in two rooms, to about nine people in the first and about twenty in the second, and neither time was it answered.** On the fifteenth of last month he gave this body four entries in a yard and did not accept them and did not refuse them. **He did not say that sentence then and has not been asked to.**
+> Entered at the seventh hour of the evening of the twentieth of this month, in the yard, by the clerk, at the request of the engineer of record: **the sentence was said twice, in a month three months back and in this month, in two rooms, and neither time was it answered.** On the fifteenth of last month he gave this body four entries in a yard and did not accept them and did not refuse them. **He did not say that sentence then and has not been asked to.**
 
 ---
 
@@ -70,7 +70,7 @@ And then the figures of the month, read out in the ordinary way in the same yard
 >
 > **The leak.** Five-eighths of an inch, read at the seventh hour of the thirteenth of this month, twice, two rules, the second of them the one that reads smaller on that corner, pump on, water into the housing and not into the pit, the pit not up. Read in a yard of about twenty. **It has not been measured since. It has no due date and none is to be invented, and nobody has looked for a cause and none is entered, and this body will not say whether the figure of the thirteenth is the figure of the first of this month or is not.**
 >
-> **The beat.** The fifteenth, at the seventh hour of the twenty-first of last month, nine in the quarter hour with one run of three, at the rail. Cause not established. Licensed person present, none. Nothing written underneath it. **It has not been logged since and the column is open, and this fen has not opened it now with about twenty people standing in a yard.**
+> **The beat.** The fifteenth, at the seventh hour of the twenty-first of a month three months back, nine in the quarter hour with one run of three, at the rail. Cause not established. Licensed person present, none. Nothing written underneath it. **It has not been logged since and the column is open, and this fen has not opened it now with about twenty people standing in a yard.**
 >
 > **The boards.** **One hundred and sixty-four days**, cut into both of them this morning by the same person who has cut them for eleven years, said out loud in a yard, day minus sixty-six, and the number is still going up and nobody can make it go down.
 >

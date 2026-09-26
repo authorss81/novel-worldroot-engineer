@@ -8,7 +8,7 @@ The seventh month's compost line fell on the first of the eighth month, and it f
 >
 > **The run of it is seven months and it has not been discharged in seven.**
 >
-> And against the same line, separately, in the same hand, and entered as a separate thing and not as part of the shortfall: **the hire of a man who went up the plateau road on the twelfth of the seventh month, thirty-two shillings, being four shillings a day for eight days of a road that is four days. Entered four shillings on the twelfth and twenty-four shillings on the sixteenth.** Four shillings the hundredweight and four shillings the day are two different figures and this body has put them in one book and has entered that they are two figures.
+> And against the same line, separately, in the same hand, and entered as a separate thing and not as part of the shortfall: **the hire of a man who went up the plateau road on the twelfth of the seventh month, thirty-two shillings, being four shillings a day for eight days of a road that is four days. Entered four shillings on the twelfth and twenty-eight shillings on the sixteenth.** Four shillings the hundredweight and four shillings the day are two different figures and this body has put them in one book and has entered that they are two figures.
 >
 > And on a line of its own, entered as a figure and not as a sentence:
 >
@@ -82,7 +82,7 @@ And the man of the fen was not there. **Nobody from Lantern Reach was at that we
 >
 > **The choice was the compost line over the shelf, and the choice was not made in a yard.** It was made in a book on the thirtieth of last month, in the ordinary course, by a woman who had a line to close and did not have a road, and the reason is entered and it is in the fen's own words and it is not a defense: **a body cannot be in two places on the first of a month and the seventh month of a run does not wait for a road.**
 >
-> The fen entered that it had four hundred miles of road in front of it on the thirty-first of last month and a figure to enter on the first and did not write to a household, and did not send a man, and did not ask. **The reason it did not write is entered and it is the reason above.** It is not entered as correct and it is not entered as a fault. It is entered as what this body did with a day it only had one of.
+> The fen entered that it had four hundred miles of road in front of it on the thirtieth of last month and a figure to enter on the first and did not write to a household, and did not send a man, and did not ask. **The reason it did not write is entered and it is the reason above.** It is not entered as correct and it is not entered as a fault. It is entered as what this body did with a day it only had one of.
 
 And then nothing else happened on the first of this month, and about twenty people went home, and the yard was empty by the second hour, and the man of about fifty said one thing at the gate to nobody in particular and the clerk entered it because it was said in a yard and it was about a thing.
 
