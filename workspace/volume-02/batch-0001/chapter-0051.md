@@ -94,7 +94,7 @@ Tova Reed read it at the seed-house table from about the sixth hour and by the e
 
 She put her hand flat on it, which she does, and she was quiet for long enough that the lamp came on.
 
-"I am going to say a thing and I want it written down in my own name and not in the trust's name, and I want it read back, and I do not want Mr Vale to say anything clever afterwards." She waited until Dunmar Fitch had the pen. "On the first of every month the trust is to be told what this bed is doing. That is condition five of the annex and it goes to Cray and it is in a public ledger and anybody may copy it. I put that clause in myself, in my own hand, against the trust's interest, because I do not want to be asked again."
+"I am going to say a thing and I want it written down in my own name and not in the trust's name, and I want it read back, and I do not want Mr Vale to say anything clever afterwards." She waited until Dunmar Fitch had the pen. "On the first of every month the trust is to be told what this bed is doing. That is the fourth term of the annex and it goes to Cray and it is in a public ledger and anybody may copy it. I put that term in myself, in my own hand, against the trust's interest, because I do not want to be asked again."
 
 "And the map is the other half of that clause," Marek said.
 
@@ -114,7 +114,7 @@ Marek did not see the map again for two days.
 
 He was out on the twenty-sixth at the seventh hour with a rule and a second rule because the number had moved since the fourteenth, and the number that had moved was the one thing in the yard that nobody was allowed to enjoy, and the man who had been the loudest about the pulse in the twelfth week of the season was the man who could not be shown a trend.
 
-The corner had gone to five-eighths over a two rules and eleven days. The sacking under his hand was wet through and cold and there was a small run coming out of the corner into the housing at a rate you could see if you put a finger in it and did not need a rule for.
+The corner had gone to five-eighths over a two rules and twelve days. The sacking under his hand was wet through and cold and there was a small run coming out of the corner into the housing at a rate you could see if you put a finger in it and did not need a rule for.
 
 "Put your finger there again," said Jonas Byre.
 

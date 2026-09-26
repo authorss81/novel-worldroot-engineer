@@ -78,7 +78,7 @@ The man of about seventy put his hand flat on the well house door afterward, and
 
 It went in the book at the fourth hour with the hour on it, and the man of about seventy initialled it because he said he wanted his initial on that sentence in case anybody in a room in a year asked him what he had been told.
 
-"I am the only person who is allowed to answer it," said Gael Senn. "My name is second on the certificate of the twentieth and it is in the fifth sheet and I have been the examiner of this node since the twenty-first of this month and before that since the twenty-first two months back, ten days early, because somebody had to be second and I was the only person in this yard who would do it, and I have been second ever since and I have not once wanted it to be somebody else."
+"I am the only person who is allowed to answer it," said Gael Senn. "My name is second on the certificate of the twentieth and it is in the fifth sheet and I have been the examiner of this node since the twenty-first of last month, which is the day the charter was made, and I was named second ten days before anybody expected a certificate, because somebody had to be second and I was the only person in this yard who would do it, and I have been second ever since and I have not once wanted it to be somebody else."
 
 "Then it is yours and it is today," said Marek.
 
@@ -94,9 +94,9 @@ And underneath, in her own hand, on the form, and then on the same day in the bo
 
 *Mr Vale asked me not to do it. His reason, in his own words at this table at the first hour, and which I am entering as his reason and not as mine, is as follows.*
 
-*He says: the standing pressure log is a condition of this charter from the twenty-first of a month, and an applied full-draw figure entered in it on the first examination morning will be in the district's hands for the whole of a season, and the district has reserved the right to reopen this file on any new report, and this is a charter that ends in twelve days.*
+*He says: the standing pressure log is a condition of this charter from the twenty-first of a month, and an applied full-draw figure entered in it on the first examination morning will be in the district's hands for the whole of a season, and the district has reserved the right to reopen this file on any new report, and this is a charter that ends in fifty-eight days.*
 
-*He says: he would rather have the figure and not have it, and that a man who was in the yard at the eleventh hour this morning is not an engineer in the yard and a man who can be had for four miles is not an engineer in the yard unless somebody goes and gets him, and he is not going to send a form to a licensed man in order to make a number that he has decided the district should not have this season.*
+*He says: he would rather have the figure and not have it, and that a man who was in the yard at the eleventh hour this morning is not an engineer in the yard and a man who can be had for nine miles is not an engineer in the yard unless somebody goes and gets him, and he is not going to send a form to a licensed man in order to make a number that he has decided the district should not have this season.*
 
 *He says: he wrote the book against himself, and he wrote it so that it could be used, and he has spent a season being beaten with it, and he is not going to be the man who hands the district the one number that would help him because he has learned that a number travels and does not come back.*
 
@@ -110,7 +110,7 @@ The compost is the other thing that happened on the first of a month and it took
 
 Nothing went into the return main. There was nothing available to put in it. The specification is four hundred hundredweight a month and what this holding put in on the fourteenth of a month was twenty-one hundredweight and a quarter, out of a sum of four pounds five raised from sixteen households, at four shillings a hundredweight; a hundredweight is worth about half a degree on a bed; a soil iron cannot read a tenth of a degree; and Tova Reed entered the hundredweight and not the degree, for the fourth time, and has said she would rather have a number she can stand behind than a number she cannot.
 
-The bed is at three and a half degrees. It stood at three and a half degrees on the first, on the fourteenth and on the twentieth, and it is at three and a half degrees this morning. The March's tin has been in the press under the ledger since the nineteenth and it is forty-two days at risk on the first of this month, and the seed house has undertaken nothing about it and the trust has not asked.
+The bed is at three and a half degrees. It stood at three and a half degrees on the fourteenth and on the twentieth of last month and it is at three and a half degrees this morning. The March's tin has been in the press under the ledger since the nineteenth and it is forty-two days at risk on the first of this month, and the seed house has undertaken nothing about it and the trust has not asked.
 
 Ilsa Kern came out to the north annex at about the fifth hour and counted the Longneck for the fourth time this month, and then went up to the top of the field and stood over the four willow sets, which are alive, which are the only thing in this holding that has cost nothing, and which are the anchor of a licensed act whose return line is three hundred and ninety-nine hundredweight short and has been short since the day it was written down in a licensed engineer's own hand.
 
@@ -118,9 +118,9 @@ Ilsa Kern came out to the north annex at about the fifth hour and counted the Lo
 
 "Yes," said Marek.
 
-"I have said that to you twice and you have written it down twice and I am not going to say it a third time." She wiped her hands down her coat. "What I am going to say is that I cut that ditch in October on a Sunday for four sets of willow out of our own windbreak, and I told you at the time it would not be a windbreak there in a year, and I was right about the windbreak and I was right about the sets, and I have been right about both of those for seven months and I have not got anything else in me. Ask somebody else."
+"I have said that to you twice and you have written it down twice and I am not going to say it a third time." She wiped her hands down her coat. "What I am going to say is that I cut that ditch on a Sunday two months back for four sets of willow out of our own windbreak, and I told you at the time it would not be a windbreak there in a year, and I was right about the windbreak and I was right about the sets, and I have been right about both of those for two months and I have not got anything else in me. Ask somebody else."
 
-She went in. Marek wrote the figure in the book — four sets, alive, and the shortfall — and initialled it, and did not put the nine words under it, for the first time in eight notes, and the omission is on the page with his name against it and the reason is his and he gave it out loud: *The eighth note is a record and not an argument.*
+She went in. Marek wrote the figure in the book — four sets, alive, and the shortfall — and initialled it, and did not put the seven words under it, for the first time in eight notes, and the omission is on the page with his name against it and the reason is his and he gave it out loud: *The eighth note is a record and not an argument.*
 
 ---
 

@@ -24,11 +24,11 @@ Nobody argued with her, and the reason nobody argued with her was that Lissa Val
 
 ---
 
-The thing she was talking about happened at about the eighth hour and it was Marek's fault and he brought it up himself, and it is the second sentence in the entry he made at the sixth hour on the twenty-second of a month, which is a section-nine note of which he is the only author, and it reads: *A charter condition is a thing somebody has to do and this is it.*
+The thing she was talking about happened in a room on the fourth of a month and it was Marek's fault and he brought it up himself, and it is the second sentence in the entry he made at about the seventh hour on the twenty-third, which is a section-nine note of which he is the only author, and it reads: *A charter condition is a thing somebody has to do and this is it.*
 
 On the fourth of a month this body voted, thirty-five hands in a room of forty, to open its own book to any member, any stranger and any clerk without notice. The vote was carried and it was a private act of the meeting and it was deliberately not a filing, because the motion to enter the claim in the log had been lost nine to twenty-two with four abstentions the day before, and a room that had just refused to write a number down did not then hand the number to a district by another route.
 
-Twenty-one days later a hearing officer adopted it as a condition of a charter, at the applicant body's own request, and put it on a fifth sheet of a district document.
+Seventeen days later a hearing officer adopted it as a condition of a charter, at the applicant body's own request, and put it on a fifth sheet of a district document.
 
 "So it is a filing," said Ilsa Kern.
 
@@ -66,7 +66,7 @@ The fen had not frozen and had not dried. It had gone from brown to a gray that 
 
 He stood in the middle of it and did the sum he had been not doing for nine days.
 
-The return main is twenty-two rods of eight inch. The specification is forty-one of twelve. That is a deficit of a little under two thirds, and it is the reason the wheel at Fennmere went to a hundred and eighty-one on a morning when there was no water in the race, and the reason the cooperative could not get a figure for its own draw into a district hand.
+The return main is twenty-two rods of eight inch. The specification is forty-one of twelve. That is a little over half the length and, by the size of it, a quarter, and Marek had never once written the second figure down because the first one is the one a man can check with a rule and he did not trust a number he could not put a rule to. It is the reason the wheel at Fennmere went to a hundred and eighty-one on a morning when there was no water in the race, and the reason the cooperative could not get a figure for its own draw into a district hand.
 
 To make it to specification is not a hole in a field. It is nineteen more rods of twelve inch dug in ground that has thirty inches of gravel over flints, with a new cutting, a new head wall, a new outfall, and a licensed man to sign it, and the district's own clause three leaves the date to somebody else and does not say which somebody.
 
@@ -84,19 +84,19 @@ And the leak at the six o'clock corner cannot be mended. That is the part he had
 
 "Then write that down," said Ilsa Kern. "Not the arithmetic. The other thing. I have read a book in this yard this season that said *the pit is not rising* and meant that it was the good news, and the man who wrote it had four feet of iron water in it."
 
-Marek went back in and wrote it down, and it is the seventh of the six notes under section nine of the charter schedule, in the same book on the same pages, unnumbered, unfunded, dated, signed by nobody but Marek, and it closes with the same sentence that the other six close with.
+Marek went back in and wrote it down, and it is the seventh note under section nine of the charter schedule, in the same book on the same pages, unnumbered, unfunded, dated, signed by nobody but Marek, and it closes with the same sentence that the other six close with.
 
 *This is worth nothing against a cut.*
 
-It is the second of the seven that is not about a cut, because the sixth was the compost. It is the first of the seven that is a measurement, and a reader in four years is going to want to know why the other six are about a cut, and I would like the answer to be on the page before somebody has to ask me for it in a room.
+It is the second of the seven that is not about a cut, because the sixth was the compost. It is the first of the seven that is a measurement, and five of the other six are about a cut, and a reader in four years is going to want to know why, and the reason is on the page: a cut is a thing that can be refused, and a measurement is a thing that can only be answered with money, and this one closes with a sentence about cuts because there is nothing in the vocabulary of a charter schedule for the other kind of sentence.
 
 Underneath it, in the same hand, four lines:
 
-*Twenty-second day, seventh hour, to the tenth hour. Return main as built, twenty-two rods of eight inch. Specification, forty-one rods of twelve inch. Making up the difference is nineteen rods of new cutting with a new head wall and a new outfall and a licensed signature, on ground of thirty inches of gravel over flints, and clause three of the charter leaves the date to somebody else and does not say which somebody.*
+*Twenty-third day, seventh hour, to the tenth hour. Return main as built, twenty-two rods of eight inch. Specification, forty-one rods of twelve inch. Making up the difference is nineteen rods of new cutting with a new head wall and a new outfall and a licensed signature, on ground of thirty inches of gravel over flints, and clause three of the charter leaves the date to somebody else and does not say which somebody.*
 
 *Seepage at the six o'clock corner, five-eighths of an inch, twice measured, two rules, at the seventh hour. Pump on. It is a leak. It was a leak on the fourteenth of a month and it has not been mended and it cannot be mended under sacking at load, because the only way to take the load off is to stop the pump, and stopping the pump stops the bed at three and a half degrees with a row of eleven trays in it.*
 
-*Entered by M. Vale, engineer of record, against the interest of the application. A chapter condition is a thing somebody has to do and this is it.*
+*Entered by M. Vale, engineer of record, against the interest of the application. A charter condition is a thing somebody has to do and this is it.*
 
 ---
 

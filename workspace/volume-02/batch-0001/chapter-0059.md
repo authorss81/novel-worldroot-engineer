@@ -26,13 +26,13 @@ Nobody asked her any of the three.
 
 ---
 
-She read the sixth column of the certified page for about eleven minutes and nobody in the room said a word.
+She read the seventh column of the certified page for about eleven minutes and nobody in the room said a word.
 
 "It is a clerk's hand," she said at last. "I said that on Thursday in a yard before I had looked at it, and I was wrong, and I am a slow woman with bad eyesight and I am not going to pretend to be anything else in a house I have been asked into."
 
 "So Gael Senn was right," said Marek.
 
-"The girl was right about the two rows and wrong about the column, and she was right about the column in this," said Osvalde Bream, and she turned the sheet a quarter turn and set her thumbnail on the top of the fifth entry in the sixth column. "A clerk's hand is even. It is even because a clerk's hand has to be even, because the next clerk has to read it. This is even in nine entries out of ten. Look at the fifth."
+"The girl was right about the two rows and wrong about the column, and she was right about the column in this," said Osvalde Bream, and she turned the sheet a quarter turn and set her thumbnail on the top of the fifth entry in the seventh column. "A clerk's hand is even. It is even because a clerk's hand has to be even, because the next clerk has to read it. This is even in nine entries out of ten. Look at the fifth."
 
 Marek looked at the fifth. The fifth was in a different slope and the second half of the word *schedule* was leaning about four degrees to the left of the first half, and the tail of the *c* was doubled back on itself as though the nib had been dragged.
 
@@ -40,7 +40,11 @@ Marek looked at the fifth. The fifth was in a different slope and the second hal
 
 She looked at it for a while longer.
 
-"It is his hand," she said. "It is Aldren Vale's hand, and I will put my name to that, and I have not seen it for eight years and I have not seen it in a book for eight years and I have not seen it since the week before the shaft. It is his hand at the bottom of a page of seed orders, written at about the speed a man writes when the lamp is going and he is thinking about a wire. It is his hand on the third of November, the year before, on a sheet of order paper for a hundred and forty rods of twelve inch, and he made the W in *wire* the way he made the W in *weir*, and I have never in thirty-one years seen another hand make a W that way."
+"It is his hand," she said. "It is Aldren Vale's hand, and I will put my name to that, and I have not seen it for eight years and I have not seen it in a book for eight years and I have not seen it since the week before the shaft. It is his hand at the bottom of a page of seed orders, written at about the speed a man writes when the lamp is going and he is thinking about a wire. It is his hand on a day in the eleventh month of a year, on a sheet of order paper for a hundred and forty rods of twelve inch, and he made the W in *wire* the way he made the W in *weir*, and I have never in thirty-one years seen another hand make a W that way."
+
+"There is no month on that page," said Dunmar Fitch. "There are two boxes under the head and there are two numbers in them and there is no word over either, and I have had that sheet in front of me for four days and I have been calling the date the first of a month, because there is nothing else to call it."
+
+"Then you will have to learn to count," said Osvalde Bream. "Nine is the order on the row. Eleven is a day I have not forgotten. I have said both of them as plain numbers for thirty-one years, because a district form does not give you anything else to say, and every office I have ever kept a book for has done the same and not one of them ever noticed it was doing it."
 
 The room was very quiet.
 
@@ -48,17 +52,45 @@ The room was very quiet.
 
 "He had seed orders from me for three seasons," said Osvalde Bream. "I did not have seed orders from a root engineer. I had them from the man who came to my back door and wrote down what I said he should grow, in his own hand, at about the speed of a man writing while he is thinking about a wire, and I have not had one since the week before the shaft, and I came here expecting a bad page of a district's handwriting, and you have had me a day's cart for a man I buried."
 
-The date on the row was the first of September of the year he went.
+The date on the row was one and nine, in the year before he went in.
 
-"Order date," said Dunmar Fitch, reading it from the certified page with the pen in his hand and not writing. "The first of September. Seven months before the shaft."
+"Order date," said Dunmar Fitch, reading it from the certified page with the pen in his hand and not writing. "One and nine. Seven months before the shaft, and no month on the page to tell me which, and it makes no difference, because seven months is seven months whichever month it was."
 
-"Two dates," said Marek. "One is the first of September, and that is seven months before he went in. The other one is on the last page of a fieldbook in a press on the inside wall of this building, and it is a year and eight months after he went in, and I wrote *probably a copying error, to be treated as one* into my own finding about it, and I asked for that wording myself, and nobody has tested it and it is still the only protection I have."
+"Two dates," said Marek. "One is the first of a month in the year before he went in, and that is seven months before the shaft. The other one is on the last page of a fieldbook in a press on the inside wall of this building, and it is a year and eight months after he went in, and I wrote *probably a copying error, to be treated as one* into my own finding about it, and I asked for that wording myself, and nobody has tested it and it is still the only protection I have."
 
 "And the two dates are twenty-seven months apart," said Tova Reed, who is the only person at that table whose work is a calendar. "And both of them are in his hand. And the one that is later is in wood, and wood does not have a hand, it has a *setting*, and the setting is a shape, and the shape is what licensed readers have been reading out of cut faces for a season and calling a target pattern and a work order, and a work order is a thing a person writes in advance."
 
-"Which he did," said Marek. "Seven months before he went in. There is a column for his hand in a district register, in an item ordered on the first of September, and there is a *hold* in the same column and the same hand as a date, released on a Monday, and the Monday is nine days before he went into the shaft."
+"Which he did," said Marek. "Seven months before he went in. There is a column for his hand in a district register, in an item ordered on the first of a month in the year before he went in, and there is a *hold* in the same column and the same hand as a date, released on a Monday, and the Monday is nine days before he went into the shaft."
 
 Nobody wrote that down for about a minute and then Dunmar Fitch wrote it down.
+
+---
+
+What got her, in the end, was not the page. It was on the third, in the middle of the afternoon, and she had not asked about it in twenty-four hours, and she asked it the way a woman asks a thing she has decided to have answered.
+
+"What is that on your arm," said Osvalde Bream.
+
+"It is a record," said Marek. "A licensed man in this district put it there on Wednesday with a clip of his own and a witness and a use-log line written before he started, and it says what I connected and not what it was worth, and it does not come off."
+
+"And does it know things."
+
+"It knows where a seed was grown. It is right about that and it is wrong about the same seed, and both of those are the same instrument, and the man who made it said so in a yard on Wednesday in front of six of us and would not say it again."
+
+Osvalde Bream looked at the four inches of it for a while.
+
+"Then somebody in this room has been carrying a thing that answers questions," she said, "and has not once put it near a page."
+
+Nobody answered her, and the reason nobody answered her was that the three lines the instrument had said at the copper seam on Wednesday morning were in six people's heads in this building and in no book in it, on purpose, under a rule made on the fourteenth in front of six people.
+
+The three lines were about a bead and what a bead holds and what a man is going to keep. They were not about a hand. They had never been about a hand. A bead goes against a wetted lot and says where the lot was grown, in four seconds, and it cannot be laid against a sheet of paper at all.
+
+And the question in that room had been a hand on a page for four days, and there is no instrument in this district that will read a page, and there is not going to be one, and anybody who goes to Cray and buys one for that counting house will get a device that reports a bean.
+
+"It is not for this," said Marek.
+
+"I did not say it was," said Osvalde Bream. "I said that somebody has been carrying a thing that answers questions. I have been in eleven holdings in thirty-one years and every one of them had a thing that answered questions, and not one of them ever once laid it on the paper."
+
+Dunmar Fitch wrote nothing down, and the reason he gave Lissa Vale afterwards was short: the three lines are about a bead, and a book that puts a bead's rules in beside a page about a hand has told a district clerk the wrong thing about both of them, and it will be quoted for years.
 
 ---
 
@@ -68,7 +100,7 @@ Lissa Vale asked the only question anybody in that yard wanted to ask, and she a
 
 "Mrs Vale—" said Marek.
 
-"You are not going to be asked," said Lissa Vale, "by anybody in this building, and if a district officer asks you in a room in a year you will say the same thing and I will have said it first and in my own name and not in yours. A name in a book costs this building. It cost us the clean record on the second of a month, and it cost us three acres on the sixteenth, and it cost a woman her day rate in a market she is not in. It is going to cost us one more thing and I would like it entered that I do not know what that thing is yet and I have decided to be the one who says so before the yard works it out."
+"You are not going to be asked," said Lissa Vale, "by anybody in this building, and if a district officer asks you in a room in a year you will say the same thing and I will have said it first and in my own name and not in yours. A name in a book costs this building. It cost us the clean record on the eighth of last month, and it cost us three acres on the sixteenth, and it cost a woman her day rate in a market she is not in. It is going to cost us one more thing and I would like it entered that I do not know what that thing is yet and I have decided to be the one who says so before the yard works it out."
 
 And then she sat down, and put her hands in her lap, and did not say anything else for the rest of the afternoon, and it was not the same silence as Sera Quill's silence on a bench in the mud, and it is not the fourth thing she has refused in six weeks, and it is not numbered, and nobody in that yard ever asked her about it.
 
@@ -94,7 +126,7 @@ She put her hand on the ledger.
 
 "I am not saying they are wrong. I have no way of saying they are wrong and neither has the trust and neither has the index and neither has this fen. I am saying that if you wanted to buy a line out of that book you could not tell, and that is not a matter of a shilling a line. It is a matter of a book."
 
-Lissa Vale took a sheet of seed-house paper and wrote the three names on it in her own hand, and under them she wrote *read out by O. Bream, seed steward, of the Ashcombe, on the fourth of this month, from the seed house's own ledger, and entered here against the ledger and not in it*, and then she read it back twice, and then she put the sheet on the middle of the table beside the fieldbook and the use log where anybody may look at it, which is where things go in that building now, and neither of them asked the other for anything.
+Lissa Vale took a sheet of seed-house paper and wrote the three names on it in her own hand, and under them she wrote *read out by O. Bream, seed steward, of no district and not licensed, on the fourth of this month, from the seed house's own ledger, and entered here against the ledger and not in it*, and then she read it back twice, and then she put the sheet on the middle of the table beside the fieldbook and the use log where anybody may look at it, which is where things go in that building now, and neither of them asked the other for anything.
 
 Tova Reed did not go to her case.
 

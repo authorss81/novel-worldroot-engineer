@@ -8,7 +8,7 @@ The first was the Crown's. Form S/4, nine years old, a seed-route map of the Tar
 
 The second was about three feet by two, on a single sheet of lining paper, and it had been made by four men of the low quarter on the nineteenth and twentieth of a month with a stick and a bucket of lime and a knotted cord, at their own hand and at their own cost, and it had been carried nine miles up the fen road by a boy on a slate on the crest night, and it was pinned in a house in the low quarter and it is in a piece of paper in Fennmere, and it is the only survey of that ground anybody has ever had.
 
-Marek asked for it and it came up the fen road inside a day and a half, and nobody charged for it, and the man who brought it said the low quarter wanted it noted that they had asked for it and it had been sent.
+Marek asked for it on the twenty-seventh, going out with the Sunday post, and it came up the fen road inside a day and a half, and nobody charged for it, and the man who brought it said the low quarter wanted it noted that they had asked for it and it had been sent.
 
 Anneke Roos said they should not have sent it. Then she read the sentence Tova Reed had written on the Crown map, *no line here*, in a strange hand with a pencil mark beside it, and changed her mind about about a third of what she had been about to say, and said so.
 
@@ -20,7 +20,7 @@ On the low quarter's own sheet the Weir Row branch comes out of the embankment f
 
 On the Crown's sheet there is nothing at the place where the branch is. There is a printed line in the same weight as the other lines, and it is a boundary, and it is the boundary of a holding, and the holding is Crown-held.
 
-And in the legend, in the box at the bottom, between the mark for *watercourse reported* and the mark for *drain out of order, reported*, there is a ninth mark and a label under it, and the label is four words long.
+And in the legend, in the box at the bottom, between the mark for *watercourse reported* and the mark for *drain out of order, reported*, there is a ninth mark and a label under it, and the label is six words long.
 
 **unmapped root line, maintained in schedule**
 
@@ -40,7 +40,7 @@ The mark is a small open circle with a bar through it. Marek counted the marks o
 
 Nobody wrote the word into the book and Marek did not say it out loud, and both of those were decisions and one of them was a rule they made on the morning, out loud, at the table, in public, which is how this yard makes rules.
 
-"Concealment is a word about a person," said Dunmar Fitch, with the pen in his hand and not writing. "It says somebody knew and did not tell. I have not got anybody who knew. I have got a form, with a form number, and a legend with a name in it, and a practice, and a practice can be old and can be reasonable and can still be the reason a thing is hard to see. I will write *the practice* and I will write *the mark* and I will write the nine words off the legend, and I will not write a word in that book that says anybody lied, because the only person in this building who could be charged with lying about it is a printer in Auberron who was not in this fen and is not going to be asked."
+"Concealment is a word about a person," said Dunmar Fitch, with the pen in his hand and not writing. "It says somebody knew and did not tell. I have not got anybody who knew. I have got a form, with a form number, and a legend with a name in it, and a practice, and a practice can be old and can be reasonable and can still be the reason a thing is hard to see. I will write *the practice* and I will write *the mark* and I will write the six words off the legend, and I will not write a word in that book that says anybody lied, because the only person in this building who could be charged with lying about it is a printer in Auberron who was not in this fen and is not going to be asked."
 
 "Entered," said Marek. "And put the sentence in that says we are not writing it, and put my name against it and not his, because I am the one who wanted to write it."
 
@@ -50,7 +50,7 @@ Nobody wrote the word into the book and Marek did not say it out loud, and both 
 
 *Two: the low quarter's own survey of the line of the standing iron, made on the nineteenth and twentieth of a month by four men of that quarter, with a stick and lime and a knotted cord, at their own hand and at their own cost, sent up the fen road on request, uncharged.*
 
-*The branch is on the second and not on the first, and the reason is printed on the first. The legend of the first carries, as its ninth mark, four words: unmapped root line, maintained in schedule. That mark is used four times on the sheet. One of the four is the Weir Row branch. The branch is item N-2214/K on the district's own works schedule, with three recorded executions, a hold marked in the same column and the same hand as a date, and the hold released on a Monday by schedule clerk, fen drains.*
+*The branch is on the second and not on the first, and the reason is printed on the first. The legend of the first carries, as its ninth mark, six words: unmapped root line, maintained in schedule. That mark is used four times on the sheet. One of the four is the Weir Row branch. The branch is item N-2214/K on the district's own works schedule, with three recorded executions, a hold marked in the same column and the same hand as a date, and the hold released on a Monday by schedule clerk, fen drains.*
 
 *Therefore: a line of root may be worked, maintained, scheduled, ordered, held, and cut three times, and may not be on the public map, because it has no local holder; and a district may print that fact on a map in a legend and sell the map to seed buyers, and both of those are the same practice and the same fact.*
 
@@ -64,9 +64,9 @@ Lissa Vale read it back, and paused at the bottom, and did not read the last lin
 
 Marek went out to the gate afterward and stood there for about ten minutes with the sheet in his hand, and what he was looking at was not the branch.
 
-He has written six notes under section nine of the charter schedule in one book on the same pages, all of them unsigned by anybody but himself, and five of the six are about a cut, and every one of the six closes with the same nine words, and the nine words are *this is worth nothing against a cut.*
+He has written seven notes under section nine of the charter schedule in one book on the same pages, all of them unsigned by anybody but himself, and five of the seven are about a cut, and every one of the seven closes with the same seven words, and the seven words are *this is worth nothing against a cut.*
 
-A legend on a Crown-printed map, in a box at the bottom, in nine years' type, says four words, and the four words are *unmapped root line, maintained in schedule.*
+A legend on a Crown-printed map, in a box at the bottom, in nine years' type, says six words, and the six words are *unmapped root line, maintained in schedule.*
 
 He said it out loud at the gate to a yard that was not listening, and it is in the book because Ilsa Kern heard it and made him repeat it.
 
@@ -76,7 +76,7 @@ He said it out loud at the gate to a yard that was not listening, and it is in t
 
 "That does not make it fair."
 
-"It does not make it fair. It makes it *precedent*," said Marek. "I have spent a season being the only man in this district writing down things that cost me, and there has been a Crown map in a drawer in a seed house for nine years that says the same thing about nine miles of channel, and neither of us knew the other one existed, and I want that written down too, because in four years somebody is going to find one of them in a bundle of paper and think it is the discovery, and it is not, and I am the engineer of record of a holding whose whole argument is that a book anybody may read is worth something, and my own book is worth nothing against a cut, and I have said so in my own hand six times, and the district has said it in a legend and got it printed."
+"It does not make it fair. It makes it *precedent*," said Marek. "I have spent a season being the only man in this district writing down things that cost me, and there has been a Crown map in a drawer in a seed house for nine years that says the same thing about nine miles of channel, and neither of us knew the other one existed, and I want that written down too, because in four years somebody is going to find one of them in a bundle of paper and think it is the discovery, and it is not, and I am the engineer of record of a holding whose whole argument is that a book anybody may read is worth something, and my own book is worth nothing against a cut, and I have said so in my own hand seven times, and the district has said it in a legend and got it printed."
 
 ---
 
@@ -100,7 +100,7 @@ She read it back before she let Marek sign it, which she does, and then she squa
 
 ---
 
-It was Ilsa Kern who asked the question that made it a tool instead of a fact, at about the ninth hour, standing at the table with her coat on because she had a mile and a half of road in front of her and no time for a lamp.
+It was Ilsa Kern who asked the question that made it a tool instead of a fact, at about the ninth hour, standing at the table with her coat on because she had a cart waiting at the gate and no time for a lamp.
 
 "Then what is the mark *for*," she said. "You have all been treating that thing like a piece of news. News is what it is. What is the mark for. Who is it for. What is a man supposed to do with a mark that says a line is unmapped and maintained in schedule."
 

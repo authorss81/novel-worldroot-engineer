@@ -4,7 +4,7 @@
 
 He came to the gate at about the eleventh hour on the thirtieth with two men and a box of tools and a license card, and he asked whether Coll Renner of Fennmere might look at a pump house, and Marek said the pump house is anybody's, and he came in and stayed until dark.
 
-Forty-one. Licensed on the Rootwright Assembly's roll for the Tarrow district, which has two names on it and the other one is eleven miles up a cart track. Nine men in a yard at Fennmere and four of them would do a holding for a season. He had read everything the fen had published, which is the standing pressure log, the use log, the copy going to Cray, and the three hundred and eleven words of a statement that says its own account of a thing is a rumor with a witness in it, and he said the last one was the reason he was in the yard at all.
+Forty-one. Licensed on the Rootwright Assembly's roll for the Tarrow district, which has three names on it, and he is the newest of the three, and one of the other two is sixty-one, lives eleven miles up a cart track, and has taken no paid work since his wife died, and is a better reader than anybody in this yard. Nine men in a yard at Fennmere and four of them would do a holding for a season. He had read everything the fen had published, which is the standing pressure log, the use log, the copy going to Cray, and the eleven hundred words of a statement that says its own account of a thing is a rumor with a witness in it, and he said the last one was the reason he was in the yard at all.
 
 "A cooperative that has written down that it cannot prove what it knows," he said, "is the only holding in this district I have ever wanted to work for. I have read that page about nine times and I have read it to two of my own men and one of them has stopped me asking him to sign things without reading them, which I count as a return."
 
@@ -14,7 +14,7 @@ Not the secret. He said that first, before anybody had accused him of anything. 
 
 "And what do you offer," said Marek.
 
-"Two hundred a year, and the day work, and a yard, and a copper clip that is not a piece of tin and a nail, and the method in writing under my name and my license, which means that if a man uses it and gets it wrong it is my license and not yours, which is the entire commercial value of it to me." Renner put his hand flat on the table. "I do not want your name on it. If I wanted your name I would offer more money and you would know what I was buying."
+"Two hundred a year, and the day work, and a yard, and a copper clip that is not a piece of tin and a nail, and the method in writing under my name and my license, which means that if a man uses it and gets it wrong it is my license and not yours, which is the entire commercial value of it to me." Renner set the collar down beside his hand. "I do not want your name on it. If I wanted your name I would offer more money and you would know what I was buying."
 
 Marek did not answer that, and what he thought about for the next half hour was that the man had removed the one objection Marek had ready, and that a man who removes your objection before you have said it is either very good at this or is doing it on purpose, and that Coll Renner of Fennmere has nine men and a yard and has been in this district for eleven years and put up a rain break over a pump house nobody was living in.
 
@@ -76,9 +76,9 @@ They read the instrument at about the third hour of the afternoon, on the trestl
 >
 > Put your name on which of the two you are keeping.
 
-That is what it said, and it is the instrument's and not a person's, and there is no more of it, and no state file may record it as anybody's finding.
+That is what it said, and it is the instrument's and not a person's, and there is no more of it, and it is not a reason and it is not an authority, and it has not gone into a book in this yard in anybody's hand and it is not going to.
 
-Renner did not ask to copy it and Marek did not offer it and neither of them mentioned it again that week, and nobody in that yard quoted it in a document, because the rule about that had been made on the fourteenth in front of six people and it was the best rule anybody in Tarrow Fen had ever made.
+Renner did not ask to copy it and Marek did not offer it and neither of them mentioned it again that week, and nobody in that yard put it into a document, because the rule about that had been made on the fourteenth in front of six people and it was the best rule anybody in Tarrow Fen had ever made.
 
 ---
 
@@ -104,7 +104,7 @@ Lissa Vale saw it first, at about the seventh hour, when she came out with the l
 
 Renner looked at it for about two minutes and said it was a rootmark, and that it was a record of what he had connected and not of what it was worth, and that it was permanent, and that it would not wash off, and that he could not stop it and would not have stopped it and was glad of it, and then he took out the book he had been carrying since the gate and wrote four lines and the hour and handed the book to Dunmar Fitch, and Dunmar Fitch read it back before he initialled it, which he does.
 
-And the four lines are in the cooperative's book in the clerk's hand with the licensed man's words in it, and the record is that it happened and the hour and who was standing there, and nobody in that yard wrote the word *became*.
+And the four lines are in the cooperative's book in the clerk's hand with the licensed man's words in it, and the record is that it happened and the hour and who was standing there, and there is nothing in it about what a man has become, and that is not an oversight. It is the fourth rule this yard has made and it is the only one nobody has ever argued with.
 
 "Do not tell anybody I am pleased," said Coll Renner, at the gate, in the dark. "I am not pleased. I have had one since I was thirty-one and I know what it is for. I have just made one of a man who has no license and no holding and three acres of sour ground, and I have written it down, and it is going to be in a book in a seed house on this road for longer than I am going to be in this district. That is not a favour. That is the bill."
 
@@ -122,7 +122,7 @@ Then Renner said: "The books."
 
 Renner laughed, which he had not been expecting to do.
 
-"Plainly, then. I want a book that says what a crew does, in what order, on a holding they have never seen, with a foreman who does not want to be told he is doing it wrong. Not a book of readings. Not a book of figures. A book of *the order of the work*. Every one of you has been keeping the second kind for six weeks and the first kind is the only thing that is worth anything to me and it is worth nothing at all to you, and I have spent a day trying to assemble it out of your chapter headings."
+"Plainly, then. I want a book that says what a crew does, in what order, on a holding they have never seen, with a foreman who does not want to be told he is doing it wrong. Not a book of readings. Not a book of figures. A book of *the order of the work*. Every one of you has been keeping the second kind for six weeks and the first kind is the only thing that is worth anything to me and it is worth nothing at all to you, and I have spent a day trying to assemble it out of the order your own pages are in."
 
 "You could have asked at the gate."
 
@@ -138,7 +138,7 @@ Marek looked at him for a moment.
 
 "Go on."
 
-"A book of the order of the work is a list of things that have been done," said Marek, "and this holding is a book of things that have been done by sixteen households who can raise four pounds five in a fortnight twice, on ground that goes sour, on a node with a leak in it that I cannot mend and a return that is a twentieth of what the work needs, in a season in which the charter expires on the twenty-ninth of next month. If I write down the order of the work, then the order of the work is a thing you can do. And there are eleven fen holdings in this district that cannot afford a cooperative, and I have been in two of them in the last year, and in both of them the reason nothing was done is not that nobody knew the order of the work. It is that nobody could pay for the compost."
+"A book of the order of the work is a list of things that have been done," said Marek, "and this holding is a book of things that have been done by sixteen households who can raise four pounds five on a levy, three times, on ground that goes sour, on a node with a leak in it that I cannot mend and a return that is a quarter of what the work needs, in a season in which the charter expires on the twenty-ninth of the month after next. If I write down the order of the work, then the order of the work is a thing you can do. And there are eleven fen holdings in this district that cannot afford a cooperative, and I have been in two of them in the last year, and in both of them the reason nothing was done is not that nobody knew the order of the work. It is that nobody could pay for the compost."
 
 Renner stood in the gateway in the dark and did not say anything at all for long enough that a dog two fields off stopped.
 

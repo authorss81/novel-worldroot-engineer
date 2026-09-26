@@ -32,6 +32,14 @@ Nobody at the table said anything for about half a minute.
 
 She took the folder and did not open it, and she pushed it back across the table.
 
+"What happens to one of the four," said Vesta Lund. "Not to the trust. To the line itself. If it is in your book and it is in an appendix in a printer's file in four counties, and somebody strikes it out of your book, is the line still anywhere?"
+
+"It is in a printer's file in four counties," said Tova Reed, "and on a glass plate in a dry room in Cray that has not been looked at in six years. It is also in the ground, or it is not, and the ground is the only one of those places that can be got wrong in a wet winter. So the honest answer to your question is that the line is in a printed appendix and in one man's field, and that when that man dies there is nothing left of it that anybody can put a name to. That is what happened to the other three, and I have known it for six years."
+
+"And how many have you lost in eleven years."
+
+"I have lost none," said Tova Reed. "I have four that I have never indexed and never told anybody about, including you, and the reason I have lost none is that I have never let anything be indexed, and the reason I have never let anything be indexed is a conversation I had in a room with the windows open when I was twenty years old."
+
 "The March has been indexed twice," she said. "Once eleven years ago, in my first year, and once six years ago. Both times it was done as a service and both times somebody in Auberron said the words *long-term preservation of regional varietal knowledge* in a room with a window. The first time we got a set of glass plates, a shelf in a dry room in Cray, and our own lines written on them in our own hand, and the shelf is still there. The second time we got a guarantee."
 
 "Which was not a guarantee," said Vesta Lund.
@@ -96,7 +104,7 @@ It is not on the map.
 
 Not faint, not omitted by a printer's error, not under a smudge. There is a place on that sheet, between the embankment and the old common, where the district has drawn a line, and it is the same weight of line as the other lines, and there is no watercourse on it.
 
-Tova Reed took a pencil — she asked for it, she did not take it — and put the point about two inches to the left of where the branch is, and wrote four words on the face of the map in her own hand, and no longer than that.
+Tova Reed took a pencil — she asked for it, she did not take it — and put the point about two inches to the left of where the branch is, and wrote three words on the face of the map in her own hand, and no longer than that.
 
 *no line here*
 
@@ -106,4 +114,4 @@ Lund came to the door for her hood at the fifth hour and looked at the map on th
 
 "I did not know that branch was there," she said. "I have been in this fen eleven times in twenty-two years and I have never known it was there. I have been reading maps like that one since I was twenty-one and I have never once looked at what is not on one."
 
-She got up on the box and the cart went off up the March road and did not stop anywhere on the way down, and Lissa Vale came out of the seed house and looked at the four words in a strange hand on a Crown-printed sheet, and said, to nobody in particular, that a woman had come two hundred miles to buy a shilling's worth of paper and had left a thing on her table that was worth more than everything the broker had put on it, and then went back in and shut the door.
+She got up on the box and the cart went off up the March road and did not stop anywhere on the way down, and Lissa Vale came out of the seed house and looked at the three words in a strange hand on a Crown-printed sheet, and said, to nobody in particular, that a woman had come two hundred miles to buy a shilling's worth of paper and had left a thing on her table that was worth more than everything the broker had put on it, and then went back in and shut the door.
