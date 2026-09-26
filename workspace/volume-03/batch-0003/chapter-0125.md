@@ -2,7 +2,7 @@
 
 ## A Decision That Went Right
 
-She said it on the twenty-third of this month, which is a Saturday, at about the fourth hour of the afternoon, in the yard, standing up, with about sixteen people in it, and it is eleven sentences and none of them is an argument and the fen entered that she had been asked for them and had not been asked for anything.
+She said it on the twenty-third of this month, which is a Saturday, at about the fourth hour of the afternoon, in the yard, standing up, with about sixteen people in it, and it is thirteen sentences and none of them is an argument and the fen entered that she had not been asked for them and had not been asked for anything.
 
 "I am going to say a thing and I am going to say it in the flat voice I use for reading a table, and I am not asking any of you to believe it, and I am not arguing that it was right.
 
@@ -10,7 +10,7 @@ She said it on the twenty-third of this month, which is a Saturday, at about the
 
 "That is all of it. That is the whole of what I am going to give you about the corridor, and it is not a confession and it is not a defense, and I am not asking anybody to hold it up next to the four thousand two hundred and make one thing of the two. **The two things are both true and they do not go together and nobody in this world has ever made them go together.**"
 
-And then she said the two sentences that are the rest of it, and they are about a row of pear trees four hundred miles off that nobody in that yard had ever seen.
+And then she came to the last four of them, and they are about a row of pear trees four hundred miles off that nobody in that yard had ever seen.
 
 "The people who did that had a reason, and the reason worked, and the reason is not on anything that survives. **And a man who cut eleven branches off one row of pear trees in one week in this season is not a mystery.** He was not a fool. I am not going to stand in your yard and tell you what he was, because I do not know, and I have not got a document, and I would not take the second of those two from a woman I have never met."
 
@@ -72,7 +72,7 @@ And Coll Renner said one thing from the back, standing, with his own book shut, 
 
 And then the twenty-fourth, which is a Sunday, and the fen entered the day after the day.
 
-The man of about seventy was brought out at about the ninth hour, which is the fifth time in a season, and he was told the two wordings and the question that had changed, and he listened to all of it with the blanket over his knees and did not say one word for about a minute.
+The man of about seventy was brought out at about the ninth hour, which is the sixth time in a season, and he was told the two wordings and the question that had changed, and he listened to all of it with the blanket over his knees and did not say one word for about a minute.
 
 "Ask me the question I would ask," he said at last, "which is the man of about seventy's question, and which nobody else in this yard has standing to ask and which I have been saving since Wednesday.
 

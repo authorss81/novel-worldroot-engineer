@@ -22,7 +22,7 @@ And Lissa Vale wrote the four lines out again on the morning of the twenty-fifth
 
 "Sera Quill. There are four lines on that paper and the office's name is at the head of it and the year is the year of a shaft. That is all it is. I am not asking you what it is. I am not asking you whose it is. **It is on the table and you can read it or not read it and both of those are the same to this body and I have said so before you pick it up.**"
 
-The room was quiet. There were about nine people in it. There was a steward at the bench and a clerk at the gate end of the room and a reader and a licensed man with his own book and a man of about fifty and the man of about seventy against the wall and a woman of about fifty-four's fruit in four crates in a corner of a yard four hundred miles off, and none of those people said anything.
+The room was quiet. There were about nine people in it. There was a steward at the bench and a clerk at the gate end of the room and a reader and a licensed man with his own book and a man of about fifty and the man of about seventy against the wall and the engineer of record at the near end of the table and the seedwright by the door, and none of those people said anything.
 
 Sera Quill read it. She read it twice, and the second time she put her finger on the middle of the third line and stayed there for about two seconds, and she did not say the word out loud and she did not touch the ink.
 
@@ -78,7 +78,7 @@ And then Marek Vale said the thing that is the position of this volume and he sa
 
 "And I am not going to be told what it means. I want that in the book too, in my own hand, because the man of about seventy said a thing to me in this room a month ago that I did not answer and I am answering it now in a different room about a different man and the sentence is the same one.
 
-"That is not him. Let it be entered that that is not him and that I am not asking anybody to tell me that it is. **A body that cannot tell a father from a piece of paper will be told what it wants by the first man who comes up a road with a bag. That man came down that road four days ago. He came with nothing in a bag. And the sentence still stands and it stands harder than it did a month ago and I am not going to have it softened by anybody in this room including the man of about fifty, who is not to be thanked, and including me.**"
+"That is not him. Let it be entered that that is not him and that I am not asking anybody to tell me that it is. **A body that cannot tell a father from a piece of paper will be told what it wants by the first man who comes up a road with a bag. That man came down that road ten days ago. He came with nothing in a bag. And the sentence still stands and it stands harder than it did a month ago and I am not going to have it softened by anybody in this room including the man of about fifty, who is not to be thanked, and including me.**"
 
 ---
 

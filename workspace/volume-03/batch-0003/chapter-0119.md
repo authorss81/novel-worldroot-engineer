@@ -84,7 +84,7 @@ And the sum, and it is Anneke Roos's standing, and she is the last word on money
 
 "So. Three shillings and eightpence for the fortnight. And eleven shillings for the licensed man, who will be here three days and who will give me his own figure and will not reduce it, and who I am not going to ask to reduce, because the last time I tried to reduce a licensed man's figure he came back four days later and it was in the compost line anyway and in a different hand.
 
-"**Fifteen shillings and eightpence.** There are four pounds five in the tin, and that is about a tenth of what is in the tin. And the shortfall in that line has run six months and has not been discharged in six. And there is no line in that book for a woman reading this body's own record in a room at the back of a seed house, and I have entered the first half of the fortnight and I will enter the second half on the twenty-fourth, and the second half is three shillings and eightpence and a second blanket at twopence which I am putting in this week and not at the end of it."
+"**Fourteen shillings and tenpence.** There are four pounds five in the tin, and that is about a tenth of what is in the tin. And the shortfall in that line has run six months and has not been discharged in six. And there is no line in that book for a woman reading this body's own record in a room at the back of a seed house, and I have entered the first half of the fortnight and I will enter the second half on the twenty-fourth, and the second half is three shillings and eightpence and a second blanket at twopence which I am putting in this week and not at the end of it."
 
 And she initialled the line as an opinion in four words, which is her standing, and the four words have never been explained to anybody in eleven years and are not going to be.
 
@@ -92,7 +92,7 @@ And then she said the other thing, and it is the reason this day is hard, and sh
 
 "You will all get to the end of this and one of you is going to say that a woman walked in here for nothing. So let me have it said now while the clerk is standing here with his book open.
 
-"On the fifteenth of last month this holding refused a free offer in writing, in one line, in front of a records officer of a district who came up a road to be refused properly. And it is now paying a stranger seventeen shillings and eightpence to come and tell it something.
+"On the fifteenth of last month this holding refused a free offer in writing, in one line, in front of a records officer of a district who came up a road to be refused properly. And it is now paying a stranger eighteen shillings and sixpence to come and tell it something.
 
 "**Both halves of that are in the same book and I am the one who writes the money into it, and the fen does not get to be only one of them.**"
 

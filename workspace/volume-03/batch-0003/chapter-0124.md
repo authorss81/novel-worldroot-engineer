@@ -66,7 +66,7 @@ And then the reader of this body did the thing he is the reader of this body for
 
 "A record nobody can produce cannot corroborate one word of what she said on the seventeenth, and it cannot be used to attack one word of it either. **That is a wall on both sides and it is the same wall as the part three condition, and it is the same wall as the shape the schedule has no part for, and I have now watched this body build three of them in three weeks, and every one of them is correct, and I want the count entered and I want the man of about seventy to hear it.**"
 
-And the man of about seventy was brought out at about the fourth hour on the twenty-first for the third time in a fortnight, and he was told all of it, and he asked for the count of the walls to be read back, and it was read back, and he asked for his initial to be put against nothing, and he said one thing.
+And the man of about seventy was brought out at about the fourth hour on the twenty-first for the second time in a fortnight, and he was told all of it, and he asked for the count of the walls to be read back, and it was read back, and he asked for his initial to be put against nothing, and he said one thing.
 
 "A wall that is put up and held is a wall," he said. "**A wall that grows is a debt with no date on it, and I have had one of those and so have you.** There is a difference and it is the whole of what this fortnight has been for. Every one of the three of them can be written down and every one of them is a thing a person can point at in four years, and there is a fourth one coming, and it has no name and no number and no day, and I would like somebody in this yard to notice that I have noticed it and to write down that I noticed it and not what it is."
 
