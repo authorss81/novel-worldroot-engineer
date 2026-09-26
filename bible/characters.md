@@ -448,6 +448,50 @@ Not a character but a fact with a name nobody in the fen may write down. **About
 - **Tova / Nia:** seed custodians who disagree about whether a seed line is property, inheritance, or a relationship.
 - **Tova / Soren:** practical collaborators who refuse to let the Root Commons flatten wild and managed rootways into one category.
 
+## Volume 02 supporting cast
+
+Four people drafted in Volume 02 Batch 0001. All are outsiders, all are correct about the danger they name, and none of them is a villain. **Each of them is dated, and a later chapter may not convert a date into a threat or soften a man into a friend.**
+
+### Ruben Ashe — charter broker, of Fennmere
+
+- **Age:** 48. On foot, with a satchel and a good coat, and no cart, because he does not hold charters and repair wells.
+- **Trade:** he buys conditional charters off holders who have been holding them for a season and sells the conditions on to whoever will pay for the compliance. **He does not hold a charter, does not hold a license, and has never been down four feet in the dark.**
+- **His economics, and it is not a lie:** **thirty-one in nine years. Eleven holdings went to nobody in that time and he bought four of them and does not say he saved any of them.** The water stopping is not on him; it is on the end of the season, and the end of the season was in the document before the body signed it.
+- **His offer at Lantern Reach:** **sixty pounds for the charter, forty pounds a year for the compost quarterly and in advance and without a receipt, and the schedule of damage.** He says up front that it is the best four pounds in the transaction. He reads a holding's books with his thumb on the line he is on, and he is the first man outside the building who has read all of them and used them correctly, and **that is a consequence of the charter and not a character flaw.**
+- **His line at the gate:** *Have you had the schedule extract yet.* And when told it is a courtesy: **it is not, not any more, not to you** — and he does not finish it.
+- **Constraint:** **he is named in the cooperative's own open book as returning at the end of the season**, because Dunmar Fitch entered that on his own initiative, and the end of the season is the charter's own expiry. **A later chapter may not make him a liar, a villain, or a rescue, and may not have him fail to come back.**
+
+### Vesta Lund — the Ashcombe index
+
+- **Age:** 44. Runs a printed list of landraces, their prices, and their ground. Printed every two years. **Nine hundred smallholders buy it because they cannot afford to find out anything else.**
+- **Her offer:** **a shilling a line for every line of a seed house's ledger that names a variety**, plus carriage north at her cost. **She does not want the seed and says so in the first minute**, and the reason is a shilling a line is more than anybody else in four counties pays.
+- **Her argument, and it is correct:** a landrace in one book in one fen is one flood from gone. She has been in a village in the west where a bean became a price and then stopped being one, and she did not cause it and did not notice for two years, and she has never told anybody that sentence until Ch 55.
+- **The two categories the index does not print:** a line held by one person in one garden with no name anybody would print, because a printed name is a claim and a claim can be sued on; and a line held by nobody anybody knows of, because printing that tells nine hundred people it can be had. **She carries both for twenty-two years and says she has had *long-term preservation* said to her by a Crown seed office already.**
+- **Her gift to the fen is a Crown seed-route map, form S/4, nine years old, and it does not show the Weir Row branch, and she did not know, and the map is not hers, and she has been reading maps like it since she was twenty-one and has never once looked at what is not on one.**
+- **Constraint:** she is a market, not a villain, and the volume's argument about her is Tova Reed's, not the narrator's.
+
+### Coll Renner — licensed contractor, of Fennmere
+
+- **Age:** 41. On the Rootwright Assembly's roll for the Tarrow district, which has two names on it. Nine men in a yard, four of whom will do a holding for a season. **Has been in the district eleven years and put up a rain break over a pump house nobody was living in.**
+- **What he wants:** not the secret, but **the order of the work** — a book that says what a crew does, in what order, on a holding they have never seen, with a foreman who does not want to be told he is doing it wrong. He says there is no money in that for Marek and the only money in it for him is the liability.
+- **His offer:** two hundred a year, the day work, a yard, a copper clip, **and the method in writing under his own license** — so that a man who uses it and gets it wrong is Renner's problem and not Marek's. **He does not want Marek's name on it and says so before anybody has accused him of anything.**
+- **The provenance bead is his demonstration and he is its only defender:** a copper-collared living bead cut from a grafted seed, which laid against a wetted seed lot makes the lot report where it was grown **in four seconds, without a ledger and without a clerk.** It is technically perfect and it is wrong, and he says both, in that order, and he is the one who says what a graft is: **it keeps the thing you put in and loses the thing that was there, and the losing is not a fault, it is what the word means.**
+- **He made Marek's first rootmark and he wrote the record of it himself**, in his own book, in his own hand, with the hour and the witnesses, and handed it to the clerk, **and nobody in that yard wrote the word *became*.** At the gate, in the dark: *I am not pleased. I have had one since I was thirty-one and I know what it is for. That is not a favour. That is the bill.*
+- **He is refused the book and given the refusal, and he reads it standing in the dark and calls it a bad book and the first honest one anybody in this district has put in front of him, and he promises a form in a month that nobody in the district has seen and says in advance that he will not say what is on it.**
+- **Constraint:** he is the first professional in the volume who is not a Crown officer, and he must not become one.
+
+### Osvalde Bream — seed steward, of the Ashcombe
+
+- **Age:** 71. Thirty-one years of the crop histories of eleven holdings in three districts, out of a bookshop in a town with a market cross and a good bakehouse. **Never licensed for anything and says so in the first minute.**
+- **How she is got here:** the charter permits the holder to require the assistance of a person in the district water record, **at the holder's cost, and the holder may not name the person.** She came two hundred miles for a day's cart and took no fee and did not bring the books, and the books are upstairs and are not in Cray and are not going to be.
+- **Her two conditions, both kept:** **she reads hands and not names — a hand is not a man and a name is not a decision — and she will say who wrote it, and will not say why, and will not say whether anybody made him do it, and if a room asks her any of those three she will get up and go back down the road.**
+- **What she is actually good at:** a clerk's hand is even because the next clerk has to read it. She is wrong on a Sunday and right on a Thursday and honest about both, and she says she is a slow woman with bad eyesight and will not pretend otherwise.
+- **The identification, and its rule:** the sixth column is a clerk's hand **except in the fifth entry**, where the second half of the word *schedule* leans four degrees to the left of the first half and the tail of the *c* is doubled back — a man writing fast, or in a hurry, or writing a thing he is putting into a book he does not want to have written. **It is Aldren Vale's hand, on order paper for a hundred and forty rods of twelve inch, on the third of a month the year before, and he made the W in *wire* the way he made the W in *weir*, and she has never in thirty-one years seen another hand make a W that way.** She had seed orders from him for three seasons and has not had one since the week before the shaft.
+- **What she costs the volume, in the right currency:** she asks for the seed house's **variety ledger** — which is a Crown form's demand, from a district office, made to a third party — and finds **three names she has never seen in any book anywhere and that are not in the printed index either, and can say that nothing about them is wrong**, and says that **if anybody wanted to buy a line out of that book they could not tell.** She will not say whether the March's four struck lines are the same four.
+- **Constraint:** **she is not a reader of rootwood and must never become one**, and she is a hundred yards from Lissa Vale in a book sense and forty-one years older, and neither of them learned it from the other.
+
+---
+
 ## Voice and behavior rules
 
 - Marek explains with objects, measurements, and steps before he explains with feelings.
