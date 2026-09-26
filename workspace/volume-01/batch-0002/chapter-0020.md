@@ -56,7 +56,7 @@ Somebody at the back started clapping and she told them, without heat, to stop, 
 
 Then she said: "One more thing and it is the only one I am actually leaving behind, and it is for my brother and he does not need to hear me say it."
 
-"Put my name in the monthly report. The report of root changes, the one that goes to the sub-office. I am the one who will be asked for it in Cray, because I will be the one standing in somebody else's counting house with a copy of it, and I am not coming back to be asked twice about a thing I have already written out once. So the first monthly report, which is due on the first and is about the first of the month, is written out by me tonight on a seed order, and it goes in Marek's name and it carries Nia Vale under the figures, and if anybody ever wants to know who made a number in this cooperative's book they will be able to find out, which is the only inheritance I have any intention of leaving anybody."
+"Put my name in the monthly report. The report of root changes, the one that goes to the sub-office. I am the one who will be asked for it in Cray, because I will be the one standing in somebody else's counting house with a copy of it, and I am not coming back to be asked twice about a thing I have already written out once. So the first monthly report, which is due on the first and is about the first of next month, is written out by me tonight on a seed order, and it goes in Marek's name and it carries Nia Vale under the figures, and if anybody ever wants to know who made a number in this cooperative's book they will be able to find out, which is the only inheritance I have any intention of leaving anybody."
 
 "Written out by you tonight," Marek said.
 

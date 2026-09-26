@@ -54,7 +54,7 @@ Four of them were dates and they had a small mark against them at the side of th
 
 The fifth was also a date, and it was also marked, and Marek had to stand there and look at it twice before he understood that a row could hold a date that had not happened and still be marked, and that the only way to tell the difference between the two was the shape of the thing in front of it, and there was nothing in the shape of a figure to tell you which was which.
 
-"That is the old cut," he said. "That is the one that healed. And that is the second one, from this season, and that is the one that was done on the night of the tenth with a girl on a plank."
+"That is the old cut," he said. "That is the one that healed. And that is the second one, from this season, and that is the one that was done on the night of the tenth with a woman on a plank."
 
 "Then what is the fifth," said Tova Reed.
 

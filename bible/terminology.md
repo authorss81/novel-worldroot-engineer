@@ -4,6 +4,8 @@ This file is the vocabulary authority for Veyra. Use these terms consistently in
 
 **Spelling.** The bible, the outlines, and the prose use **US spelling** (labor, color, defense, honor, neighbor, program, rumor, license as both noun and verb, gray). This was decided once at the Volume 01 close and applied as a single mechanical pass over Chapters 1–49; do not reintroduce British forms into the prose. The two forms that remain acceptable in US English, *toward* and *towards*, are not treated as variants.
 
+**Quotation marks and apostrophes.** **Straight marks throughout: `"` for speech and `'` for apostrophes and for a phrase quoted inside speech.** This was decided at the Volume 01 close, in the same class of decision as the spelling, and written here so the bible and the prose cannot drift apart. Chapters 11–49 already used straight marks and Chapters 1–10 used curly ones; **all forty-nine chapters now use straight marks, and no curly mark remains in the manuscript.** Do not reintroduce curly quotation marks or curly apostrophes. **A paragraph must not end while a speech is still open, and a closing mark must have an opening mark to close** — that is the rule, and it is the defect the close pass repaired in 221 places, almost all of them a single-paragraph speech that had no closing mark. A speech that genuinely runs over two or more paragraphs is opened with a mark in every paragraph and closed in the last.
+
 ## Core ecological and magical terms
 
 ### Rootway

@@ -20,7 +20,7 @@ Then he put the satchel on the counter and squared it to the edge, and did not o
 
 ---
 
-Bray took out one sheet, and it was the certificate of copy Perrin Osse had written on Monday afternoon, and the six words at the foot of it, and *so far as it goes*, and he put his thumb on that.
+Bray took out one sheet, and it was the certificate of copy Perrin Osse had written on Monday afternoon, and the five words at the foot of it, and *so far as it goes*, and he put his thumb on that.
 
 "Mr Vale. On Monday this office was given a copy of your standing pressure log, entire, on the certificate of the clerk of this sub-office, which cannot be recalled by anybody who is not an officer of this office. It was not a district document on Sunday and it is one now, and you put it there. I say that first because otherwise this morning looks as though I did something on Monday and today I am coming for it."
 

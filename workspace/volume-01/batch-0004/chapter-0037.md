@@ -102,7 +102,7 @@ At four o'clock Perrin Osse certified it, and the certification is a page and a 
 
 "Which sounds like a small thing and is not," she said. "It means that book of yours can no longer be completed without a district officer in the room. That is the price of the copy and there is no other way to price it, and I have thought about a cheaper one and there is not one."
 
-Lissa Vale copied the six words out into the cooperative's own book in her own hand, and entered the hour, and signed the line, and then she had to stand there for a second with the pen capped and the ink drying, in a public part of a district office, and Marek did not help her and she did not want him to.
+Lissa Vale copied the five words out into the cooperative's own book in her own hand, and entered the hour, and signed the line, and then she had to stand there for a second with the pen capped and the ink drying, in a public part of a district office, and Marek did not help her and she did not want him to.
 
 The copy went into a satchel at four o'clock and the satchel went into the back room and the back room door shut, and Perrin Osse came out and took off her spectacles.
 

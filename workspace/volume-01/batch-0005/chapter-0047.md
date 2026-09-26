@@ -38,7 +38,7 @@ Nobody asked her, and nobody went out to it, and it went back up the fen road at
 
 ---
 
-Perrin Osse came up the fen road on the twentieth of the month with a clerk's satchel and did the thing her six words had cost the cooperative a page a week, and it took four hours.
+Perrin Osse came up the fen road on the twentieth of the month with a clerk's satchel and did the thing her five words had cost the cooperative a page a week, and it took four hours.
 
 The rule was hers and not the cooperative's. If a page has gone into the original after the certificate, the difference has to be reconciled in the copy, and only the clerk of the district may do it, and only from the original, and only with the custodian standing there.
 
@@ -72,7 +72,7 @@ Anneke Roos put it on the seed house table herself, face down, and it was sealed
 
 "It came back this morning," she said. "It came back into this yard by hand and the person who brought it has gone on up the road and did not stop, and she is not in this building and I am not going to ask anybody to go after her."
 
-"And here is what goes in the book, in my hand, and Marek can stop me and he is not going to stop me, because a cooperative that wrote to its contractor and did not send the letter is a fact about this cooperative and it is going to be in a room on the twenty-first whether it is in a book or not. The letter was written on the twentieth day of last month. The list was made out. The letter was not delivered, and it has come back unopened, and the reason it was not delivered is hers and not mine and she has not given it to me and I am not writing down a thing I was not told."
+"And here is what goes in the book, in my hand, and Marek can stop me and he is not going to stop me, because a cooperative that wrote to its contractor and did not send the letter is a fact about this cooperative and it is going to be in a room on the twenty-first whether it is in a book or not. The letter was written on the nineteenth day of last month and it went out with the consignment on the twentieth. The list was made out. The letter was not delivered, and it has come back unopened, and the reason it was not delivered is hers and not mine and she has not given it to me and I am not writing down a thing I was not told."
 
 "And the part that is ours goes in. This body built a list, and put a line on it, and put a name against the line, and sent a woman out with a sealed letter in her coat, and did not ask her afterwards whether she had done it, because the answer was easier not to have. That is a fact about this yard and it is a fact about me, because I countersigned it, and I would like it in the book in my own hand on the nineteenth of this month rather than on a wall in Fennmere on the twenty-first, where a stranger would be able to say it in a nicer voice than I have said it in."
 

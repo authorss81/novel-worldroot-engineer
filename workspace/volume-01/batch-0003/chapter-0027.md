@@ -72,7 +72,7 @@ The man with the board did not stop reading. The other one looked at the branch 
 
 "You are welcome to see the job sheet."
 
-"I am not on the list," Marek said again, and the man with the mallet said, "No, sir," and that was the entire exchange between the Lantern Reach Work Cooperative and the district works schedule on the morning of the twenty-seventh of the month, and it took about four minutes.
+"I am not on the list," Marek said again, and the man with the mallet said, "No, sir," and that was the entire exchange between the Lantern Reach Work Cooperative and the district works schedule on the morning of the twenty-seventh, and it took about four minutes.
 
 Then the saw went in.
 

@@ -8,7 +8,7 @@ Seven of them, and it took until half past four. Sera Quill had her case and did
 
 ---
 
-"Twenty-fourth of the month, tenth hour and forty minutes, licensed reader, four witnesses. A fieldbook at the copper seam returned three lines." She read them. "That is a reading. It is a licensed reading, on the twenty-fourth, by me, with four witnesses, at the hour, and it is the only licensed reading that has ever been taken on this node, and Mr Vale has never taken one, because he is not licensed to take one and has never said that he was. It is in your own book, in a form your own rule made, and it is dated."
+"Twenty-fourth, tenth hour and forty minutes, licensed reader, four witnesses. A fieldbook at the copper seam returned three lines." She read them. "That is a reading. It is a licensed reading, on the twenty-fourth, by me, with four witnesses, at the hour, and it is the only licensed reading that has ever been taken on this node, and Mr Vale has never taken one, because he is not licensed to take one and has never said that he was. It is in your own book, in a form your own rule made, and it is dated."
 
 "Now I am going to tell you what it is worth, and I have taught this for thirty years and I have watched four hundred people not learn it."
 
@@ -16,7 +16,7 @@ Seven of them, and it took until half past four. Sera Quill had her case and did
 
 "An unlicensed reading is a rumor with a witness in it. That is the phrase and I did not invent it and I have never improved on it. Your fieldbook reading from the eighth of last month is a rumor with a witness in it. Your fieldbook reading from the twentieth of last month is a rumor with a witness in it. Mr Vale's four seconds in a flooded pit on the tenth is a rumor with a witness in it, and I was the witness, and I have said in three books that I would not stand up and say what he got, and I will not."
 
-"And the twenty-fourth of the month is not a rumor with a witness in it. It is a licensed reading with four witnesses and an hour on it, and it is the only thing in this building worth a hearing officer's afternoon, and it is worth it to the district and not to you, because it says *below* and *not yours*, and the district has already read it out loud at a counter in front of a clerk, twice, and carried it away in a satchel."
+"And the twenty-fourth is not a rumor with a witness in it. It is a licensed reading with four witnesses and an hour on it, and it is the only thing in this building worth a hearing officer's afternoon, and it is worth it to the district and not to you, because it says *below* and *not yours*, and the district has already read it out loud at a counter in front of a clerk, twice, and carried it away in a satchel."
 
 Nobody spoke for a while.
 

@@ -26,7 +26,7 @@ Gael Senn got the lamp onto the mark and held it there while Jonas Byre crouched
 
 They wrote it at the fifth hour in the seed house, and the writing is where the whole of the last month comes to a head, because there were two books on that table and only one of them could take a page.
 
-The standing pressure log could not. It had been certified on the seventh at the fourth hour of the afternoon, in a clerk's square hand, *so far as it goes*, and a book that a district clerk has certified can never have a page put into it again by anybody but a district officer in the room. Perrin Osse had said so at a counter and had not softened it, and the words had been read back into this cooperative's own book in Lissa Vale's hand on the seventh, and Lissa Vale had written the six words out in her own book and signed the line and stood there while the ink dried.
+The standing pressure log could not. It had been certified on the seventh at the fourth hour of the afternoon, in a clerk's square hand, *so far as it goes*, and a book that a district clerk has certified can never have a page put into it again by anybody but a district officer in the room. Perrin Osse had said so at a counter and had not softened it, and the words had been read back into this cooperative's own book in Lissa Vale's hand on the seventh, and Lissa Vale had written the five words out in her own book and signed the line and stood there while the ink dried.
 
 So the standing log has nothing in it after the seventh of the month. Not because the log closed. Because it cannot be added to.
 

@@ -60,7 +60,7 @@ Nia Vale had the book and the columns, because Nia Vale had been the only person
 
 *Item. Crate. Quantity. Condition. Where it is going. Who is standing there when it goes. Witness.*
 
-Eight lines, and then the ninth, which was the trust's own material — a sealed tin of the March's last two hundredweight of the same line, which was a fifth of what the March had, and which Tova was taking back, and which Lissa Vale said was not a fifth of anything and put her hand flat on the tin.
+Eight lines, and then the ninth, which was the trust's own material — a sealed tin of the March's last two hundred hundredweight of the same line, which was a fifth of what the March had, and which Tova was taking back, and which Lissa Vale said was not a fifth of anything and put her hand flat on the tin.
 
 "That tin came in on the first day of this season on a wagon with a broken axle," Lissa said. "It has been in my north annex since the second, under three dead trays, and if it goes down the road to Cray on a hired cart on Friday it goes in a basket with a strap over it, and I will not put it on a hired cart, and I do not care what the trust's paper says about carriage."
 

@@ -2,7 +2,7 @@
 
 ## A Bucket And A Slip Of Paper
 
-Two things came up the fen road on the twenty-fifth of the month and they came within two hours of each other, and the one that arrived first was a man with a bucket.
+Two things came up the fen road on the twenty-fifth and they came within two hours of each other, and the one that arrived first was a man with a bucket.
 
 He was about sixty and thin and he had walked four miles, and he was standing at the gate at nine in the morning with a wooden pail in his hand and he would not come in past the gate posts, and he said his name when Marek got to it and he said it flatly, as though the name were a thing he had to get over with before he could get to the rest.
 
@@ -60,7 +60,7 @@ Bram Oskell was at the gate at eleven with the saddlebag and the bad coat and a 
 
 He read it off the paper.
 
-*Well Directorate, Tarrow district, Fennmere sub-office. Record of a received report. Report received the twenty-fourth day of the month from Corvin Slee, of the low quarter, Fennmere, that the water in four wells on that ground has been unfit since about the twenty-first. The file on the node at Lantern Reach is reopened. The application for renewal on that file, endorsed and referred on the seventeenth, is recalled to the sub-office. The applicant of record is notified.*
+*Well Directorate, Tarrow district, Fennmere sub-office. Record of a received report. Report received the twenty-fourth day from Corvin Slee, of the low quarter, Fennmere, that the water in four wells on that ground has been unfit since about the twenty-first. The file on the node at Lantern Reach is reopened. The application for renewal on that file, endorsed and referred on the seventeenth, is recalled to the sub-office. The applicant of record is notified.*
 
 "Four figures and a date," said Oskell, folding it up, "and the fourth figure is the one you want. The application comes back off the referred list. It has been sitting in a tray in Fennmere for eight days waiting for somebody to decide what to do about it, and somebody in Fennmere has read your file, and your file has a maintenance record completed at the wrong hour in it, and now your file has a report on it, and there is no inspector in this district who can leave a report on a file and go home."
 
@@ -102,7 +102,7 @@ She looked at the notice on the table for a while.
 
 Marek wrote it in the standing pressure log at the fourth hour with the hour and the tenant's name and nothing else, and Anneke Roos read it back and initialled it, and then she said, on the step, on her way up the row, "Tell him to bring his own water up if he wants anybody to believe him," and went home.
 
-Marek stood in the yard after that with four people and a licensed engineer and eleven miles of fen road in front of him, and worked out that the four could not all go and that the pit could not be left, and that Gael Senn had the first of the month coming round again in six days and a certificate with her name second on it, and that if he asked her to walk four miles into a town where there was an animal in it that she did not know the rules of, and where the branch was four feet down and full of iron water, and where a licensed engineer would be standing —
+Marek stood in the yard after that with four people and a licensed engineer and eleven miles of fen road in front of him, and worked out that the four could not all go and that the pit could not be left, and that Gael Senn had the first of next month coming round again in six days and a certificate with her name second on it, and that if he asked her to walk four miles into a town where there was an animal in it that she did not know the rules of, and where the branch was four feet down and full of iron water, and where a licensed engineer would be standing —
 
 "Right," he said. "We go at first light. All five of us, and the pit is shut and the seal is covered and the pump is on the idle and Ilsa's boy sits on the boards from six until we are back, and if anybody from the district comes up that road in the meantime he is welcome to the well house and he is welcome to the open book and he is welcome to be told there is nothing here to inspect, and I am not saying that as a joke and I would like it written in the working notes that I did not say it as a joke."
 
