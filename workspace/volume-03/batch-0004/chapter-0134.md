@@ -1,0 +1,67 @@
+# Chapter 134
+
+## The Rows Are Let Go
+
+On the tenth of this month, at about the fourth hour of the afternoon, in daylight, in the yard at the first house on a shelf four hundred miles off, four households stopped working their rows, and the fen was not there and was not asked and did not know, and a man with a sheet in a satchel was a day into a four-day road and had not got there yet.
+
+There were about nineteen people in that yard. The rows are eleven acres and they stand on a south-facing shelf above a stone wall, and a hundred and forty-one of them are in bearing, and one row of them was cut in eleven places in one week in this season and dressed eleven times by a man who came back on the sixth day. There is a stone barn against the north wall of the first house with sixty-one bales of pressed rootwood in it that a woman of fifty-four opened herself and dated and has not opened since, and the yard the decision was taken in is the same yard those bales were counted in, and nobody in it said anything about that at the time.
+
+What the four houses decided, in daylight, standing, in about twenty minutes, was this: **no feeding, no pruning, no selling, and a hundred and forty-one trees of bearing left standing.** The grass under them would be cut twice a year by one of the four, because the grass under them is what holds the slope, and that is all that would be done to that ground until somebody in four houses says otherwise.
+
+And the reason is hers, and it is about nine sentences, and it is not a virtue, and she gave it before anything was signed and then she wrote it on the back of the reading, which is what she has done for thirty-one years.
+
+"A household of four that has been told a record of it can be read has to decide what it wants read. **The orchard is the largest thing four houses have and it is the only thing any of us can point at and say that is where our living came from.** The man who bought the last of it is gone and he told us in a yard that he is not coming back, and I have believed him and I am not going to spend a year finding out. So the fruit that comes next season has no market in it that anybody knows of, and there is a buyer in this country nine days off who has never heard of us and there is not one in this district. **And the four houses would rather lose the rows than be the reason a piece of paper was declared anything.**"
+
+She put the pen down and looked at the four of them and then she said the part that is not a virtue and did not dress it.
+
+"And I am not going to stand in this yard and call that clean, because it is not clean, it is expensive. We are four households and one of us is sixty-one and I am the oldest of the four and there was forty-nine pounds and one shilling in a stone room in the seventh month and a fifth of that went into four drawers in this yard before anything went out of that room. **We are spending money we have not got, on ground we cannot sell, to stay out of a list in a place nine miles off that has never heard of us and has not asked to.** If you want to call that a decision then you may. I will not."
+
+> Written on the back of the reading, in the occupier's own hand, at the fourth house, on the tenth of this month, before anything was signed and before the household's own sheet was copied: **the rows are let go.** No feeding, no pruning, no selling. A hundred and forty-one trees of bearing left standing and the grass under them cut twice a year. The reason is the reason above. **The reason was given first and the sheet was written after it, which is a practice of thirty-one years and not a practice of this week.**
+
+And the second half of it, given by the one of the four who owns a spade and has used it on that shelf for twenty-six years, was not a reason at all, and it is in the book because he said it in a yard in daylight.
+
+"It is not a virtue and it is not a sorrow," he said. "**If we go on working them we are looking after a thing we have decided we are not going to sell, and looking after a thing you are not going to sell is a thing you do for four years and then do not.** I have fed those rows in a wet spring for twenty-six years and I would do it again. There is nobody in this yard who thinks I am a good man about it. There is one of you who thinks I have given up something and she is right and I would like it written down that she is right and that I have not been asked to justify it.
+
+"And the other half, and it is the half that decided it, and it is not about the paper. **We have cut eleven branches out of one row in one week this season and dressed every one of them, and the row is carrying, and nobody in this yard can tell me why, and neither can the four hundred miles.** So there is a row on this shelf that has had something done to it that we cannot name and cannot get at and cannot ask about, and the same four houses have a piece of paper that says we cannot be got at. **I would rather have the trees.** That is all of it and I am finished."
+
+And there was one more thing said in that yard and it was said by the woman of fifty-four and it took her a moment and it went in the book after the rest.
+
+"And the buyer told us every figure before he weighed anything, in front of fourteen people, on a bench, and he had four seasons of a price on a paper and three weeks of not knowing and he gave us both. **Nobody in this district has ever done that for us and one of them is not going to come back. So there is a man in the world who was decent to us and he is not going to be decent to us again, and if we go on working these rows it will be for a market that does not have him in it.**"
+
+> Entered in the fen's own book on the fourteenth of this month from the sheet that came down the four-day road, four lines, in the occupier's hand, copied out in the steward's hand and read back by the reader of this body: **the rows are let go. No feeding, no pruning, no selling. A hundred and forty-one trees of bearing left standing and the grass under them cut twice a year.** The reason was given in a yard before anything was signed and was written on the back of the reading before the sheet was copied, **and the fen entered that the reason was written down first and that this is a practice of thirty-one years and not a practice of this week, and that the fen has no standing to comment on it and did not.**
+
+---
+
+And the word for what they had done was available in that yard all day. It was on the tip of about four people's tongues by the sixth hour, and it is a short word and it is not an ugly word and it is in common use in a country where things are given up.
+
+**No person in that yard used it. The household's own sheet does not use it. The sheet says *the rows are let go* and it says the day and it says the four houses and it says the ground, and it was copied twice and both copies say the same four things and neither copy has a fifth thing on it.**
+
+> Entered at the second hour of the afternoon of the eleventh of this month, in the seed house, by the clerk, on the standing of a thing this body has not done: **this body did not use the word for what four households did with their own trees.** The word was available in that yard all day and was used by nobody in it and is not on their sheet. **A body four hundred miles off does not get to name a thing four houses did with their own ground.** The fen entered that it declined to and did not write to them about it, and entered the reason, and did not improve on the reason.
+>
+> And entered with it, on the same line: **on the eleventh of this month this body did not know that four households had done anything.** The sheet that went up on the ninth was a day into a four-day road and was not at a windlass and would not be at one for three more days. **The fen did not ask, and the fen has entered that it did not ask, and the reason is that a question about another household's ground that has to travel four days each way is not a question, it is a thing sent to arrive after the answer, and the fen has entered that it knows that and entered that it sent it anyway.**
+
+---
+
+And then the objection, and it is the best argument anybody in this fen has made against this fen since the flood, and it was made on the eleventh of this month at about the fourth hour in a room with about nine people in it, by a seedwright standing at a bench, and she said the first part of it before the second part and the order is the order she says things in.
+
+"I want the worst of this in the book in my own name and not have it put there by somebody else in a year," said Tova Reed. "**A row of trees that nobody works is not a record and it is not a sacrifice until something happens in it.**"
+
+"I am not going to soften the rest of it. Four households have been told that a record of them can be read and they have to decide what they want read, and there is a hundred and forty-one trees on a shelf that is the largest thing four houses have, and this body has put a line in a schedule that says a record nobody classifies gets classified for them, and every one of those four things is correct. **And if nothing happens in those rows this season, then nothing has been sacrificed by anybody and four households have lost a year of fruit, and the only thing that will have happened is that this fen sent a question up a four-day road in an envelope and the road took four days each way and nobody in this yard has the standing to do a single thing about any part of it.**"
+
+"And I am not taking it back. **A readable thing survives in more places than one and that is still true and I would say it again in front of a district officer tomorrow.** I am saying that a rule can be right and be the thing that does the damage, and I cannot tell those two apart from inside a rule, and I have never been able to, and that is the whole of what a seedwright knows and it is not nothing."
+
+And then Marek Vale answered it, and he did not defend himself, and the fen entered that he did not defend himself and entered that nobody asked him to.
+
+"I did not," he said. "They had a buyer who is gone and a paper they cannot be got at. I wrote nine lines they did not ask for and nine days too late and I said so in a yard four hundred miles off. **If this was my doing it was done before I knew their fruit existed.**"
+
+"And here is the whole of what I have got and I am putting it down in one line because I have not got a second thing." He put his hand flat on the bench. "**A sheet went up on the ninth with one question on it and no advice, and it will come down on the fourteenth, and in the four days between those two dates this body has no power to know one thing that happens in that yard and will not be told one thing by anybody who is not already there.** I could have sent a man. I did not send a man. There is nobody to send and I have known that for a season and I have said it out loud at a gate in front of twenty people and nobody thanked me for it.
+
+"So: four days. **And if the answer that comes down on the fourteenth is that they have done nothing, then I have sent a question four hundred miles for nothing, and if the answer is that they have stopped working the rows, then this body put that in front of four people who could not answer me in the time it takes to be wrong, and I would rather have that in the book in those words on the eleventh, before I know which one it is, than have it turn up on the fifteenth dressed as a fact.**"
+
+> Entered at the fifth hour of the afternoon of the eleventh of this month, in the seed house, by the clerk, on the standing of a thing this body is not going to soften in a month: **neither of the two things said in this room on this day is a finding.** The seedwright said that a row of trees that nobody works is not a sacrifice until something happens in it, and that a rule can be right and be the thing that does the damage. The engineer of record said he did not put anything in four households' heads, on the ground of the order of the days, being a question sent on the ninth and a road of four days. **The fen entered that neither is a finding, that both are in the book, that the engineer of record did not defend himself, and that neither of them was thanked and that the fen entered that neither was thanked.**
+
+---
+
+And the cost of the road, entered in the ordinary words on the morning of the tenth when he was hired at the change of horses, at four shillings a day, and the whole of a hire is thirty-two shillings for eight days of a road that is four days.
+
+> Entered at the seventh hour of the morning of the tenth of this month, at the bench, by the person who keeps the money: **a man hired at the change of horses for the plateau road. Four shillings on the day he was hired. Twenty-eight shillings when he is paid off. The whole of the hire is thirty-two.** The line it falls in is the line of this month, **and the line of this month is not written until the first of next month, and the first of next month is outside this book.** This holding did not have thirty-two shillings and took them out of the compost line anyway, and the fen has entered that it did, and the fen has entered that it has now taken a hired man out of a compost line in two consecutive months and that it is not going to be able to do it a third time and that the first of next month is going to be a day with no figure on it in this yard at all.
