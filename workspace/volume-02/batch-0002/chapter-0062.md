@@ -4,7 +4,7 @@
 
 Corvin Slee came to the gate on the tenth and would not come past the posts.
 
-It was a Saturday and the yard was doing the Saturday work, and he had walked four miles to stand in the same place he had stood on the twenty-fifth, two months back. Marek went out to him because Slee would not come in, and Gael Senn came with him because she had timed his pail four times once and did not trust a number one man had timed.
+It was a Saturday and the yard was doing the Saturday work, and he had walked four miles to stand in the same place he had stood on the twenty-fifth of last month. Marek went out to him because Slee would not come in, and Gael Senn came with him because she had timed his pail four times once and did not trust a number one man had timed.
 
 "The district has written to us," said Slee. He had a folded paper in his hand and he did not open it. "For the survey. The line of the standing iron. Four men of ours chalked it on every gatepost and doorstep on the nineteenth and the twentieth, at our own hand and at our own cost. It is on paper in Fennmere now. In nobody's hands."
 
@@ -16,7 +16,7 @@ Behind Slee, on the fen road, stood a district man with a satchel. He was not an
 
 "Mr Vale," he said. "The district would be glad of a walk. The line as your holding finds it. To set beside theirs."
 
-Marek looked at Slee. Slee looked at the road. The report of the collie, made on the nineteenth two months back, was in three places, the open book, the certified copy in a Fennmere file and the copy going to the March road, and Gael Senn had decided on the nineteenth to write nothing about the animal, with her name on the decision and not the animal's, and nothing had been written underneath the report since. Nobody in that yard was going to interpret it. That was settled and it was not going to be unsetted by a district clerk with a satchel on a Saturday.
+Marek looked at Slee. Slee looked at the road. The report of the collie, made on the nineteenth of last month, was in three places, the open book, the certified copy in a Fennmere file and the copy going to the March road, and Gael Senn had decided on the nineteenth to write nothing about the animal, with her name on the decision and not the animal's, and nothing had been written underneath the report since. Nobody in that yard was going to interpret it. That was settled and it was not going to be unsetted by a district clerk with a satchel on a Saturday.
 
 "I am asked to walk it," said Marek. It was not a question.
 
@@ -48,7 +48,7 @@ The clerk waited until Slee was out of earshot and then took out his own book, a
 
 Then the clerk asked, because clerks ask, whether the holding would put anything in writing, and Marek said that it would put a refusal in writing and nothing else, and the clerk said that a refusal in writing was still a refusal in writing and could be read against the holding later by a man in an office who had never stood at a gatepost, and Marek said that was correct and that he wanted it entered anyway.
 
-The rest of the tenth was spent in work that refused to wait for a decision, and in an argument that had been waiting three days. Ilsa Kern took two levy men to the south embankment to cut willow for winter binding, a hundred and six feet the year before and less this year, entered in the working notes with the hour. Jonas Byre mended the wire cradle at the well house with old eye-hooks from the tool chest, though no mender had been in the fen since the sixteenth, two months back, and none was expected. Gael Senn took the evening line at the rail, the leak steady, the pulse quiet, and wrote cause not established where cause was not established, and nothing under it, with her name on the decision.
+The rest of the tenth was spent in work that refused to wait for a decision, and in an argument that had been waiting three days. Ilsa Kern took two levy men to the south embankment to cut willow for winter binding, a hundred and six feet the year before and less this year, entered in the working notes with the hour. Jonas Byre mended the wire cradle at the well house with old eye-hooks from the tool chest, though no mender had been in the fen since the fifth of last month, and none was expected. Gael Senn took the evening line at the rail and wrote the leak where it stood, five-eighths, twice measured, pump on, and read the morning's pulse entry back over her own shoulder without adding a line to it, because a tenth logging is the tenth and there is no eleventh, cause not established where cause was not established, and nothing under it, with her name on the decision and not on the thing.
 
 The argument was in the seed house at midday, and it was the woman with the shilling who started it, and she started it well.
 

@@ -8,7 +8,7 @@ He put the sheet on the middle of the seed-house table, beside the fieldbook and
 
 "I did not write it," he said. "I will say that first because it is the only thing in this room that is about me. I did not write it and I did not send it and I did not know it was coming, and I have been up since the fourth and I have not been able to find out who did."
 
-Marek unfolded it. It was two pages, stitched at the top, with the mark of the professional body on the front, and under the mark a line that named the district and the year, and under that a title that said nothing about a fen. The body was the same body Pike's circular had gone out in, the same body whose roll carried Renner's own license and nine other men's in this district, and its quarterly went to every address on that roll and to a list of others, and the list of others was four hundred doors.
+Marek unfolded it. It was two pages, stitched at the top, with the mark of the professional body on the front, and under the mark a line that named the district and the year, and under that a title that said nothing about a fen. The body was the same body Pike's circular had gone out in, the same body whose register carried Renner's own license and nine other men's in this district, and its quarterly went to every address on that register and to a list of others, and the list of others was four hundred doors.
 
 Inside, under a plain heading, was a description of a result.
 
@@ -26,7 +26,7 @@ Renner nodded. He had taken his hat off and he held it in both hands, which was 
 
 "Nine men at your yard," said Marek.
 
-"Nine men and four of them could do a holding for a season," said Renner, "and I have told my foreman about this article and he has read it over my shoulder, because I would have found out on Thursday at the latest and I would rather he heard it from me. That is what I have done about it. That is the whole of what I have done about it."
+"Nine men," said Renner, "and four of them could put a holding right for a season between them, and the article is what tells them how. I have told my foreman about this article and he has read it over my shoulder, because I would have found out on Thursday at the latest and I would rather he heard it from me. That is what I have done about it. That is the whole of what I have done about it."
 
 Dunmar Fitch read it a third time, with a rule on the page, and then he set the rule down.
 
@@ -56,13 +56,13 @@ Renner had said the last four words the way a man reads out a clause, and Marek 
 
 Then he folded the journal shut and entered it as received, with the hour, a trade article describing a bead result, with figures for a lot of one variety, no name and no license number, description accurate, read at this table. Anneke Roos initialled the entry as an opinion. Lissa Vale moved the journal to the end of the table, away from the fieldbook and the use log and the index, so that nobody coming in afterward would think the four belonged together.
 
-The afternoon of the eighth was spent the way afternoons in that yard were always spent, in work that did not stop because a paper had arrived. Marek went with Jonas Byre to the return main at the eleventh rod to check the cheap reed gauge clamped there on the twenty-first, two months back, three-sixteenths above the mark at the last reading, pump on the idle. The reed stood steady. Jonas read it and Marek read it after him, and neither wrote a number that was not there, because a number with no baseline and no load was not evidence and not a claim, and both of them had learned that lesson in a flood.
+The afternoon of the eighth was spent the way afternoons in that yard were always spent, in work that did not stop because a paper had arrived. Marek went with Jonas Byre to the return main at the eleventh rod to check the cheap reed gauge clamped there on the twenty-first of last month, three-sixteenths above the mark at the last reading, pump on the idle. The reed stood steady. Jonas read it and Marek read it after him, and neither wrote a number that was not there, because a number with no baseline and no load was not evidence and not a claim, and both of them had learned that lesson in a flood.
 
 "What does the article change," said Jonas, wiping his hands on his coat.
 
 "Nothing in the ground," said Marek. "Everything on paper. A truth can be an attack and still be true. That is what we have to carry."
 
-They walked back along the ditch where the thirty-one yards of new run lay under its fiber bed, with the four willow sets green at the head. The water moved steadily, eleven minutes from the main to the scour, the way it had since the twenty-second, two months back. The graft held. The return line stood three hundred and ninety-nine short in a licensed hand. Both were true at once, and the yard had learned to hold both without dropping either.
+They walked back along the ditch where the thirty-one yards of new run lay under its fiber bed, with the four willow sets green at the head. The water moved steadily, eleven minutes from the main to the scour, the way it had since the twenty-second of last month. The graft held. The return line stood three hundred and ninety-nine short in a licensed hand. Both were true at once, and the yard had learned to hold both without dropping either.
 
 At supper Tova Reed spread the journal on the table again and went through the figures line by line with Gael Senn, weight against water against time, checking each against the bead demonstrations of the thirtieth of last month. The figures held. That was the worst of it. A false article could be answered. A true one could only be lived with. Dunmar Fitch sat with them and entered the checking itself, with the hour, figures checked against the yard's own trials of the thirtieth of last month, no fault found, which is itself a finding. Anneke Roos initialled it as an opinion. Lissa Vale kept the press open and the tin where it was and said nothing whatever about the journal, which was her way of saying what she thought of printers.
 
@@ -90,7 +90,7 @@ On the way back they passed the post cart going the other way with the Thursday 
 
 She read it aloud, once, without softening it.
 
-"He has read the article," she said. "He wants to know whether the Ashcombe black oat is the one in the index. He has asked the trust, because the trust is the only body he has heard of that stands behind a name, and he has asked in the ordinary way, and he has paid a shilling for the winter issue like everybody else."
+"She has read the article," she said. "She wants to know whether the Ashcombe black oat is the one in the index. She has asked the trust, because the trust is the only body she has heard of that stands behind a name, and she has asked in the ordinary way, and she has paid a shilling for the winter issue like everybody else."
 
 The room sat with that for a while. Marek thought about the tin with no label that had come on a cart eleven years ago through a man who wanted to be helpful, and the eleven years of arguing that had followed, and the four seconds on the thirtieth that had given a better answer and a lie in the same breath. He thought about the four hundred doors the circular had gone to, and the hundred and forty sheets the index went to, and the one quarterly that went wherever quarterlies went, and how the three numbers together made a room eleven miles long that no body could hold.
 

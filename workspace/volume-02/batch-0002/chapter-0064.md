@@ -46,7 +46,7 @@ It was the first material anybody had put on that table in a season. Nobody said
 
 "Read it aloud," said Tova Reed.
 
-Renner read it. Every figure, every farm, every week. The figures were fair. They were lower than any Crown figure anybody had seen. They were worked out honestly, with the compost priced at four shillings and the shortfall shown and not hidden, and he had left the return to be found by the holder in his own writing because he had learned that sentence from a man at the gate on the thirtieth. They were still more than sixteen households could raise in a year. A crew of four for a season at eighteen pounds was the whole of this holding's levy four times over. Four hundred hundredweight a month at four shillings was eighty pounds a month, and there was no version of that figure that came down by being written out carefully. When he had finished his voice was hoarse.
+Renner read it. Every figure, every farm, every week. The figures were fair. They were lower than any Crown figure anybody had seen. They were worked out honestly, with the compost priced at four shillings and the shortfall shown and not hidden, and he had left the return to be found by the holder in his own writing because he had learned that sentence from a man at the gate on the thirtieth. They were still more than this holding's sixteen households could raise between them in four levies. A crew of four for a season at eighteen pounds was the whole of this holding's levy four times over. Four hundred hundredweight a month at four shillings was eighty pounds a month, and there was no version of that figure that came down by being written out carefully. When he had finished his voice was hoarse.
 
 When he had finished Tova Reed refused it.
 
@@ -62,7 +62,7 @@ Afterward Lissa Vale brought out bread and cheese, because it was past midday an
 
 "You are not beaten," said Marek quietly, after the entry was initialled. "A contractor who is refused a method and leaves a route on the table is not a man who was beaten. Refusing an offer is not the same as having none. We have none. That is the truth of it."
 
-On the sixteenth Renner walked the yard with Marek and looked at the graft and at the pump and at the six o'clock corner where the leak passed into the housing, and he asked three professional questions about the head and Marek answered all three and Renner wrote none of the answers down, which was the first thing all week that Marek had watched a man not do. At the north annex he put a hand flat on the earth over the graft and left it there longer than a man who is being polite leaves it, and said nothing at all about it, and Marek let him.
+On the sixteenth Renner walked the yard with Marek and looked at the graft and at the pump and at the six o'clock corner where the leak passed into the housing, and he asked three professional questions about the head and Marek answered all three and Renner wrote none of the answers down, which was the first thing all week that Marek had watched a man not do. At the north annex he put a hand down on the earth over the graft and left it there longer than a man who is being polite leaves it, and said nothing at all about it, and Marek let him.
 
 At the gate, in the afternoon, with the light going flat over the drains and the mist coming up off them the way it came up on the fourteenth when a man said the true thing about a book, Renner said the last of it.
 

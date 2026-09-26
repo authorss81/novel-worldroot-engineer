@@ -158,7 +158,7 @@ Aldren is not a hidden superpowered ally. He is a missing engineer whose final d
 ### Kellan Rusk — first personal antagonist
 
 - **Age:** 43
-- **Role:** Well contractor and charter holder in the Tarrow Fen
+- **Role:** Well contractor and charter holder in the Tarrow Fen. **Licensed, but on the water record and not on the rootwright roll: he holds a monitored license on the Tarrow water record, which is a different roll from the three-name rootwright roll that carries Coll Renner's license, and the two must never be blurred together in a later chapter.** He is employed and testifying, his gauge below the split may be read by any party, his log is open, and he makes a monthly return to the district that is a document under his charter — **which is why giving a figure to a third party without that return is a breach of a condition of his own charter, disclosed by him in Chapter 68**
 - **Want:** Keep his crew fed and retain a private claim on a profitable node
 - **Method:** Falsified pressure logs, deliberate underreporting, and selective repair
 - **Belief:** Private control is ugly but functional; public control will become another famine
@@ -301,9 +301,9 @@ These are drafted and load-bearing. They are not atmosphere.
 
 - **Age:** Somewhere near fifty. Not from the fen; nobody from the fen stands at a gate and asks permission.
 - **Trade:** Locks, hinges, chains, cradle-hooks, well-covers, cart-tips — anything with an eye in it. She goes the old peat roads because that is where the people who need mending are.
-- **Function:** The volume's only Undercommons courier. She comes to the gate on the sixteenth to mend the mill sluice and the four unused sockets in a wire cradle, and she says the number unprompted: **N-2214 is die-struck into branches on four holdings in three other provinces, the same die, three of them from men who had never met.** She refuses to say whose branches and will not report on a thing she has not been on. **What she actually gives is procedure, not rescue:** nobody gives a cooperative the table, but every renewal comes back with the district's works-schedule extract attached, because the form's first box asks what is already scheduled and a clerk will not send ninety forms with an empty box.
+- **Function:** The volume's only Undercommons courier. **She comes to the gate on the fifth of the month, at half past four in the afternoon — day 35, Volume 01 Chapter 35 — and the canon said the sixteenth in two places until the Volume 02 Batch 0002 review corrected both; a later writer may not put her back on the sixteenth.** She comes to mend the mill sluice and the four unused sockets in a wire cradle, and she says the number unprompted: **N-2214 is die-struck into branches on four holdings in three other provinces, the same die, three of them from men who had never met.** She refuses to say whose branches and will not report on a thing she has not been on. **What she actually gives is procedure, not rescue:** nobody gives a cooperative the table, but every renewal comes back with the district's works-schedule extract attached, because the form's first box asks what is already scheduled and a clerk will not send ninety forms with an empty box.
 - **Her rule for the book:** *If a form ever comes to you with a number in a box that is not a number, you fill it in as the number says and not as you would like it to say, because that box is the only part of that form anybody in your position will ever be believed about. Everything else on it is your opinion.*
-- **Constraint:** She is paid in bread. She is not mysterious, she is tired, and she has not been in this fen since the sixteenth. One courier, one warning, and never a second.
+- **Constraint:** She is paid in bread. She is not mysterious, she is tired, and she has not been in this fen since the fifth, which is the only time she was ever here. One courier, one warning, and never a second.
 
 ## Characters introduced in Movement 4
 
