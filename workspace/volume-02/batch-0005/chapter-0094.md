@@ -22,9 +22,9 @@ And then the yard went at the second sheet.
 
 "Write down why," said Tova Reed, "and write it as a sentence and not as a feeling, because you have been wrong twice this week and I would like to know which wrong this is."
 
-"Because of the third part," he said, and then stopped, and started again, and the clerk entered that he stopped once and that the second attempt was the one that was entered. "The condition is that the operator keeps the declared capacity in the ordinary course. The declared capacity is thirty crates a month. The measured capacity is six. So on the figures this holding published on a door with its own hand on it, in the same ink, under the larger one, this holding is already not keeping the declared capacity. It has been since the twenty-sixth of a month two months back. It is out of compliance with a condition of a class of use right now, this month, and it does not know it and cannot be told, because a form that is not filled in is not a condition broken, and a person who tells the district that it is not keeping a declared capacity has filled in a form.
+"Because of the third part," he said, and then stopped, and started again, and the clerk entered that he stopped once and that the second attempt was the one that was entered. "The condition is that the operator keeps the declared capacity in the ordinary course. The declared capacity is thirty crates a month. The measured capacity is six. So on the figures this holding published on a door with its own hand on it, in the same ink, under the larger one, this holding is already not keeping the declared capacity. It has been since the twenty-sixth of last month. It is out of compliance with a condition of a class of use right now, this month, and it does not know it and cannot be told, because a form that is not filled in is not a condition broken, and a person who tells the district that it is not keeping a declared capacity has filled in a form.
 
-"So if this holding refuses a paying use of its own route, there is no difference whatever, to anybody in nine miles, between this holding protecting eleven households on the low dry from a licensed contractor's carts and this holding not keeping the declared capacity in the ordinary course. They are the same act. And I have wanted to be an operator since the ninth of a month two months back and I have got it, and it has cost us the only thing we own, which is the right to say no."
+"So if this holding refuses a paying use of its own route, there is no difference whatever, to anybody in nine miles, between this holding protecting eleven households on the low dry from a licensed contractor's carts and this holding not keeping the declared capacity in the ordinary course. They are the same act. And I have wanted to be an operator since the ninth of last month and I have got it, and it has cost us the only thing we own, which is the right to say no."
 
 Nobody in that yard had an answer to it and the afternoon went on being that.
 
@@ -48,7 +48,7 @@ Renner looked at him for a while and then said: "Then I would rather be refused 
 
 And then Jonas Byre asked the question that nobody had asked, and he asked it standing at the door with his hand on the schedule.
 
-"We wrote a clause," he said. "Four days ago. On that sheet, under those columns. It says a person in occupation at either end may refuse a use of the route in the ordinary way."
+"We wrote a clause," he said. "Three days ago. On that sheet, under those columns. It says a person in occupation at either end may refuse a use of the route in the ordinary way."
 
 "Yes," said Marek Vale.
 
@@ -64,7 +64,7 @@ Nobody read it out. They did not have to.
 
 He put his hand on the door, on the fen's own seven words, and not on the schedule.
 
-"So the clause is good, and it is ours, and it is in the district's book in nobody's, and it cannot be used on the one question it was written for, and the reason is that we wrote a clause about a person and the Crown wrote a class about a place and the person happens to be standing in the place." He took his hand off. "I would like that entered as the reason the refusal clause did not work on the morning it was written and had to wait four days to find out, and I would like it entered by the man who drafted it, and I would like nobody to make anything else of it."
+"So the clause is good, and it is ours, and it is in the district's book in nobody's, and it cannot be used on the one question it was written for, and the reason is that we wrote a clause about a person and the Crown wrote a class about a place and the person happens to be standing in the place." He took his hand off. "I would like that entered as the reason the refusal clause did not work on the morning it was written and had to wait three days to find out, and I would like it entered by the man who drafted it, and I would like nobody to make anything else of it."
 
 So the fen wrote it down, in the ledger, with the hour, and Tova Reed wrote one more line under it, which is the line that made the twentieth of this month the day the volume's real problem arrived, and it is in her own hand.
 
@@ -74,7 +74,7 @@ And then the second question, which was the real one, and Anneke Roos asked it f
 
 "Who says no, then," she said. "Not this holding, because you have just told me it cannot. Not the district, because the district is not a party to Mr Renner's two sheets and never will be and has no standing to say yes either. So the whole of the arrangement is standing on this fence with a hole in it, and I want to know who is left, and I have worked it out and I do not like the answer and I am going to say it anyway."
 
-"There is a settlement of eleven households on the low dry with no charter, no holding number, no document and no standing," said Tova Reed, "which this holding made a party to nothing on purpose, on the twenty-second of a month two months back, in a yard, in daylight, and I struck the clause that would have made her a party and I would do it again tomorrow, and that was the right decision and it is the reason there is nobody at the far end who can be asked, and there is nobody at the far end who can be examined, and there is nobody at the far end who can be compelled, and there is nobody at the far end who has ever signed anything, and she has told us both of those things to our faces and been right about both of them.
+"There is a settlement of eleven households on the low dry with no charter, no holding number, no document and no standing," said Tova Reed, "which this holding made a party to nothing on purpose, on the twenty-second of last month, in a yard, in daylight, and I struck the clause that would have made her a party and I would do it again tomorrow, and that was the right decision and it is the reason there is nobody at the far end who can be asked, and there is nobody at the far end who can be examined, and there is nobody at the far end who can be compelled, and there is nobody at the far end who has ever signed anything, and she has told us both of those things to our faces and been right about both of them.
 
 "And the one body in this whole arrangement that has any right to refuse anything at all is the one that wrote nothing enforceable at the far end, and that is what she is, and that is the whole of what we have got, and it took us a season to work out that the absence of a floor is the only thing standing between a poor woman at a fence and a licensed contractor with eleven pounds and a good price for a quarter mile of sand."
 

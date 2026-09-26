@@ -561,10 +561,12 @@ All eight Volume 01 threads stand unchanged. **The pressure pulse is logged twel
 
 ### Carried forward unchanged
 
-Eight Volume 01 threads as after Batch 0004 plus Volume 02 shape: pulse undiagnosed; third exchange missing with gone test; schedule/layer unproduced not entitled; unnameable settlement + seat absent + long line untouched; collie uninterrupted map unopened envelope sealed Nia cart twice unstopped unasked Sera fourth unnumbered; leak unmended 399 undischarged bypass unbuilt; class/refusal/arrangement/toll/sixty/letters now closed facts a later chapter may not undo.
+Eight Volume 01 threads as after Batch 0004 plus Volume 02 shape: pulse undiagnosed; third exchange missing with gone test; schedule/layer unproduced not entitled; unnameable settlement + seat absent + long line untouched; collie uninterrupted map unopened envelope sealed Nia cart twice unstopped unasked Sera fourth unnumbered; leak unmended 399 undischarged bypass unbuilt; class/refusal/arrangement/toll/sixty/letters now closed facts a later chapter may not undo; **levy base sixteen households and steward tenure eleven years.**
 
 ### Phase handoff, Batch 0005 → Volume 02 close
 
 - Chapters 89–98 in `workspace/volume-02/batch-0005/`, summaries in `state/chapter-summaries.md`, day clock numbers forms refusal arrangement stage panel notes locks in `state/continuity.md` under *VOLUME 02 — BATCH 0005*.
-- Length 28,755 range 2,619–3,063 inside bands; Ch 96 trimmed 108 words; no panel spent; notes eighteen–twenty-one counted sentence off twentieth only.
+- Length 28,788 range 2,619–3,108 inside bands; Ch 96 trimmed 108 words on adoption; **eighteen date and figure sites repaired on a verification pass, itemised in `state/continuity.md` and summarised in `state/chapter-summaries.md`; no panel spent; notes eighteen–twenty-one counted sentence off twentieth only.**
+- **Four things a Volume 03 writer must not inherit from the batch prompt, which is wrong and the manuscript is right:** day 119 is the **twenty-ninth** of last month and not the tenth; day 4 and day 28 are **four months** back and not three; day 52 is **three months** back and not two. **And one deviation, stated with its reason: the dry-end refusal was spoken on day 142 and reached the fen on day 143, so no later chapter may date the giving to the twenty-third or the knowing before it.**
+- **Two facts corrected in this batch that Volume 03 inherits right:** the levy is on **sixteen** households of this holding and not forty, and Tova Reed has been a steward **eleven years** and not eleven months.
 - Next phase is **Volume 02 close, not prose.** Prompt at `workspace/volume-02/volume-close/PROMPT.md`. No chapters beyond 98.

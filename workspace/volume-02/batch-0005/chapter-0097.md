@@ -34,7 +34,7 @@ Tova Reed said it at the north gate at the sixth hour with five people there, an
 
 And she put her name to it, and that is the sixth time, and the clerk entered the count and the hour and the standing that she has stopped counting, which she said on the twenty-ninth of last month and repeated on the twenty-sixth of this month in one sentence and would not be thanked for either.
 
-Then they argued the post for a day and a half, and nobody could agree, and on the twenty-seventh at about the fourth hour they went down to the pit together with a book, because Marek Vale had said that nothing was to be said in that yard about a post that was not entered, and the fen's whole practice in eleven months had been that everything is entered and a thing that is not entered has not happened, and he was not going to have a letter in a drawer that decided the shape of the next three years.
+Then they argued the post for a day, and nobody could agree, and on the twenty-seventh at about the fourth hour they went down to the pit together with a book, because Marek Vale had said that nothing was to be said in that yard about a post that was not entered, and the fen's whole practice in eleven months had been that everything is entered and a thing that is not entered has not happened, and he was not going to have a letter in a drawer that decided the shape of the next three years.
 
 They stood at the edge of it with the pump on and the frame humming from about ten hundred and forty and the dial where it had been since the first of last month, and Dunmar Fitch read out what the letter said and what it cost, and Marek Vale answered it in about a minute and did not soften it.
 

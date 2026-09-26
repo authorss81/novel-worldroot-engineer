@@ -38,7 +38,7 @@ The yard looked at her.
 
 "Then the fact that we paid it goes where," said the man of about fifty.
 
-"In the book, in the ledger, and on the step," said Anneke Roos. "Where everything else we have ever paid goes. And I will tell you what the difference is between a receipt on a door and a receipt in a book, and I have thought about it for about ten seconds. A receipt on a door is for anybody who comes. A receipt in a book is for anybody who asks. And we decided in a yard on the fourteenth of a month two months back that the reader is a person and a person is anybody who comes, and that is a stronger promise than the one a piece of paper on a door makes, because on the door a man has to be able to read, and in this yard he does not."
+"In the book, in the ledger, and on the step," said Anneke Roos. "Where everything else we have ever paid goes. And I will tell you what the difference is between a receipt on a door and a receipt in a book, and I have thought about it for about ten seconds. A receipt on a door is for anybody who comes. A receipt in a book is for anybody who asks. And we decided in a yard on the twentieth of a month two months back that the reader is a person and a person is anybody who comes, and that is a stronger promise than the one a piece of paper on a door makes, because on the door a man has to be able to read, and in this yard he does not."
 
 Marlow said, "That is the first time anybody has given me a reason for anything in nine years and it is not a bad one," and the clerk entered that a person appointed to collect a rate in this district said a thing about this holding's book and that the clerk entered the words and not the opinion, which is the clerk's whole trade.
 

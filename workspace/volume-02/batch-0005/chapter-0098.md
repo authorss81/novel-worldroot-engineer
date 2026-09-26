@@ -2,7 +2,7 @@
 
 ## The Ledger
 
-On the twenty-eighth, which was a Sunday, the three books were put out on the seed house table together, which had not been done since the twentieth of a month two months back, and it was done because the copy goes to Cray on Thursday and the copy is everything, and if everything is in three books then the copy is three books and not one.
+On the twenty-eighth, which was a Sunday, the three books were put out on the seed house table together, and it was the first time those three had ever been out together, and it had not been done in that form since the twenty-eighth of a month two months back, when a fieldbook was put on a chair and a floor was read out of the middle of a room, and it was done because the copy goes to Cray on Thursday and the copy is everything, and if everything is in three books then the copy is three books and not one.
 
 The fieldbook, which is the old man's, and which nobody in this holding has opened this year.
 
@@ -16,7 +16,7 @@ Lissa Vale read all three out at the tenth hour in the yard, in the ordinary way
 
 One person came. He was a young man of about twenty with a dog and no cart, and he had come for the ledger because the printer at Fennmere had told him it existed and had told him it had no number on it, and he stood at the gate and said that he was not going to buy one because he had not got a shilling, and Lissa Vale read him the four clauses of the arrangement, all five of them, twice, and then read him the refusal clause, and the young man of twenty said the thing that went in the book and that the fen is proudest of and that nobody in this yard will ever know what to do with.
 
-"They have not signed it," he said. "Anybody. I have been in this district thirty years and I have never seen that."
+"They have not signed it," he said. "Anybody. I have been coming into this district since I could walk and I have never seen that."
 
 "No," said Lissa Vale. "And it cannot be signed, because the clause says it does not name anybody and nobody is required to sign it, and if we got a signature we would have made a party of the only person on this road who cannot be made a party of anything, and she was asked for one twice in the spring and said no twice and was right twice."
 
@@ -56,7 +56,7 @@ Nobody in that yard made a sound.
 
 "I have been let off this for four months and I am not going to be let off it again, and I am going to say it out loud at a door on the last day I have got this month, and then this holding is going to stop and do its work.
 
-"Somebody drew a mark on a sheet nine years ago that says a line on the low dry is maintained, and the line has no local holder on that sheet at all, and the mark has a meaning printed under it, and it was printed four hundred times and sold to a hundred and forty seed houses in this and three other counties, and every one of those seed houses has been reading since. And then eleven days after that, this holding told a district office in writing that it is the holder of a line on ground the district maintains, and the answer came back inside four days, and the answer was not a no. The answer was a class of use.
+"Somebody drew a mark on a sheet nine years ago that says a line on the low dry is maintained, and the line has no local holder on that sheet at all, and the mark has a meaning printed under it, and it went out to a hundred and forty seed houses in a winter, and every one of those seed houses has been reading since. And then on the fourteenth of last month this holding told a district office in writing that it is the holder of a line on ground the district maintains, and the answer came on the ninth of last month, and the answer was not a no. The answer was a class of use, and it came on the tenth of this month with a rate on it.
 
 "I have written to them. I did it in a yard, in daylight, in front of eight people, and I entered it against the Dryfoot Trust's own interest, and I would do it again in a morning, and I have never once been able to find out whether the man who drew the mark would have entered it. And that is the question, and it has a second half and the second half is money: who was paid for the alteration, and by whom, and out of what, and how long ago.
 

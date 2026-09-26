@@ -1606,7 +1606,7 @@ day 130 = 111 · 139 = 120 · 149 = **130**. Unmoved in press under ledger, bed 
 | **Class of use 4** | carriage of seed in crates over district-schedule ground between keeper and keeper from node in district book; four parts; head number four digits, foot six, box for holding number | Ch 89 |
 | **Rate** | fourpence the crate on declared capacity; declared thirty = 120d = ten shillings = **one shilling a month**; measured six = 24d = two shillings; **difference eightpence entered not claimed not to be asked for** | Ch 89, 90, 93 |
 | **133 years** | shilling buys quarter hundredweight at four shillings; 399 gap closes in 133 years at that rate, read twice | Ch 89, 90 |
-| **Rate/bill/debt** | rate not bill, bill not debt, difference is who can ask the question; rate on top of levy; paid out of tin nine to eight | Ch 90, 93 |
+| **Rate/bill/debt** | rate not bill, bill not debt, difference is who can ask the question; rate on top of the levy; paid out of tin nine to eight; **the levy is on this holding's sixteen houses, not forty** | Ch 90, 93 |
 | **Seed-route ledger** | second book begun thirteenth, rule anybody may ask reader anybody who comes; nineteen pages by twenty-eighth; first entry entire; only book outsider ever asked to buy | Ch 90, 98 |
 | **Conditional-use clause (Crown)** | operator keeps declared capacity ordinary course, produces record of route on request; operator = occupier of first-end node | Ch 91 |
 | **Record of route (fen)** | schedule on door + ledger on table produced any person any hour; own book is record of body not produced; one line inside seed-house door sixteenth | Ch 91 |
@@ -1643,6 +1643,51 @@ Marek **Stage 2 Grafthand unchanged.** One rootmark four inches branching twice 
 
 Ch 96 was **3,171 words, 51 over 3,120 ceiling.** Trimmed 108 words by cutting restatement not scene/vote/refusal/broker: hands-behind-him line, beat monthly speech tail, fourth-month hope tail. Now **3,063**. Batch **28,755 words, range 2,619–3,063**, every chapter inside 2,550–3,120, inside 27,000–30,000 band. No other prose changed.
 
+## A verification pass over the drafted Batch 0005, and the eighteen sites it repaired
+
+**The batch was audited line by line against the day numbers before anything else, and the single class of error it found is the same class Volume 01 found twenty-four times: a distance that was off. Every relative-date expression in Chapters 89–98 was extracted and checked against the governing rule — inside a scene on days 121–149, days 121–150 are *this month*, 91–120 are *last month*, 61–90 are *a month two months back*, 31–60 are *three months back*, 1–30 are *four months back*. Eighteen sites were wrong and all eighteen are fixed. No scene was moved, no beat cut, no figure altered, no quotation touched.**
+
+| Ch | Line | Was | Now | What it dated |
+|---|---|---|---|---|
+| 90 | 27 | *two days ago* | *three days ago* | the road before the district's ninth named the class, so **day 129 and not day 130** |
+| 90 | 33 | *four shillings a hundredweight on forty households and a levy at eighteen pounds on the same forty households* | *four shillings a hundredweight and a levy at eighteen pounds on this holding's sixteen houses* | **the levy is on sixteen households** (Chs 51, 57, 58, 64, 73) and the forty of Ch 80 are not the levy |
+| 90 | 43 | *the levy is on forty households* | *the levy is on sixteen houses* | as above |
+| 92 | 33 | *the twenty-second of a month two months back* | *the twenty-second of last month* | the strike of clause two, Ch 80, **day 112** |
+| 93 | 41 | *the fourteenth of a month two months back* | *the twentieth of a month two months back* | **the reading rule is day 80, the twentieth**; a fourteenth exists in no book |
+| 94 | 25 | *the twenty-sixth of a month two months back* | *the twenty-sixth of last month* | the measured capacity of six, **day 116** |
+| 94 | 27 | *the ninth of a month two months back* | *the ninth of last month* | the local-holder entry, **day 129** |
+| 94 | 51 | *Four days ago* | *Three days ago* | the clause on the door, **day 137**, read on day 140 |
+| 94 | 67 | *had to wait four days to find out* | *three days* | as above |
+| 94 | 77 | *the twenty-second of a month two months back* | *the twenty-second of last month* | the strike, **day 112** |
+| 95 | 17 | *the sixth of last month … it has been three weeks* | *the sixth of this month … it has been sixteen days since* | the loaded cart over the first break, **day 126**; day 142 minus 126 is sixteen |
+| 95 | 63 | *the rule of the twenty-second of a month two months back* | *the rule of the twentieth of a month two months back* | **the rule is day 80** |
+| 95 | 77 | *the seventh of last month … and that was a Sunday* | *the seventh of this month* | **day 127 is a Sunday** and is the chalk-cart reading of Ch 88 |
+| 96 | 21 | *since the ninth of this month* | *since the ninth of last month* | the district's four points, **day 129** |
+| 97 | 37 | *argued the post for a day and a half* | *for a day* | letters at the fourth hour of the twenty-sixth, pit at the fourth hour of the twenty-seventh |
+| 98 | 5 | *which had not been done since the twentieth of a month two months back* | *the first time those three had ever been out together, and it had not been done in that form since the twenty-eighth of a month two months back, when a fieldbook was put on a chair* | **the seed-route ledger did not exist before day 133, so no earlier putting-together of that set of three was possible**; the last floor reading of a like kind is Ch 70, **day 88** |
+| 98 | 19 | *I have been in this district thirty years* (a young man of about twenty) | *I have been coming into this district since I could walk* | — |
+| 98 | 59 | *printed four hundred times and sold to a hundred and forty seed houses in this and three other counties* / *eleven days after that* / *the answer came back inside four days* | *it went out to a hundred and forty seed houses in a winter* / *then on the fourteenth of last month this holding told a district office in writing* / *the answer came on the ninth of last month* / *The answer was a class of use, and it came on the tenth of this month with a rate on it* | **the map's run is a hundred and forty (Ch 55, 56); the four hundred copies belong to the Ashcombe table in Auberron (Ch 55); the fen's letter is day 104 and the district's answer day 129 (Ch 88); the four days belongs to the FEN answering the district's request for the map (Ch 76), not the other way round** |
+
+**Two further corrections are not distances and are recorded here because they are facts.**
+
+- **Tova Reed's tenure.** Ch 90 read *I have had it eleven months* of the stewardship. She has held it **eleven years**, and four other statements in this volume say so (Ch 72, Ch 91, Ch 96, Ch 97). *Eleven months* is an established house idiom for the length of this season and stands at Ch 88, 91, 92, 94 and 97; **it may not be used of a tenure.**
+- **The levy.** The levy is on **sixteen households of this holding**, at four pounds five a quarter, three times, since Ch 18. Ch 90 twice said forty. The forty of Ch 80 is a hundredweight of compost coming off forty households and is left standing; **a later chapter may not put the eighteen pounds on forty households.**
+
+**Also checked and found sound, and recorded so a later writer does not re-open them:** the tin at *day minus nineteen* unbroken (111 / 120 / 130); the bay boards at *day minus sixty-six* unbroken (71 on 137, 77 on 143, 79 on 145, 83 on 149); the seventh-column count 18 / 19 / 20 against the eleventh, the fifteenth and the twenty-third; the Longneck on the twenty-second of a month three months back, which is **day 52** and is correct where the batch prompt mislabels it; the reading rule of **day 80**; the Directorate reservation on **day 84**, the twenty-fourth of a month two months back, which is correct; the seed house's sixteen households and the tin at nine then eight; no month named anywhere; *seat* absent; none of the six forbidden names; no Fieldbook panel; no draw and no return by rootlight; straight quotation marks throughout and every multi-paragraph speech opening a mark in each paragraph and closing in the last; no duplicated paragraph in the batch.
+
+**The batch is now 28,788 words by `wc -w` over the chapter files including their headings, range 2,619–3,108**, inside 27,000–30,000 and inside 2,550–3,120 at every chapter. Ch 98 is twelve words under the ceiling and **may not be lengthened.**
+
+## Four places where the batch prompt itself is wrong, and the manuscript is right
+
+**Recorded so that Volume 03 does not inherit them. None of the four was applied to the prose; in every case the prose already had it right.**
+
+1. The prompt's day table row reading *the tenth of last month (119) → the tenth (130) = eleven days* mislabels day 119. Day 119 is **the twenty-ninth of last month**; the interval of eleven days is correct. The manuscript uses the right label throughout.
+2. The prompt's locked day numbers label **day 4** *the fourth of a month three months back*. Day 4 is in days 1–30, which is **four months back** by day 130. Ch 89 says *four months back* and is right.
+3. The same list labels **day 28** *the twenty-eighth of a month three months back*. Day 28 is also in days 1–30 and is **four months back**. No chapter in this batch dates day 28, so nothing was affected.
+4. The same list labels **day 52** *the twenty-second of a month two months back*. Day 52 is in days 31–60 and is **three months back** by day 130. Ch 98 uses *three months back* and is right.
+
+**And one stated deviation, with its reason, so it is not discovered later as an error.** The prompt lists three weekday statements a reviewer may check the chain against, and the third is *the far end refuses on a Tuesday, day 143*. **In the manuscript the refusal is spoken at the thorn fence on day 142, the twenty-second, a Monday, and it reaches this holding on day 143, the twenty-third, a Tuesday, when Coll Renner comes up the fen road and reports it.** The chapter's day table is exactly the prompt's (142–143, Monday–Tuesday) and every internal interval is checkable, but the refusal itself falls a day before the prompt's line. **It was left where it is** because the only way to move the fence scene to the twenty-third is to move Renner's report to the twenty-fourth, and the twenty-fourth is the morning Chapter 96 drafts the arrangement; the cascade would have cost the resolution chapter its day. **A later chapter may not say the refusal was given on the twenty-third, and may not say the fen knew of it before the twenty-third.**
+
 ## New locks from Batch 0005 (volume-closing)
 
 - Toll paid entered in two books as toll; operator standing fact in two books; last unserveable thing lost.
@@ -1656,6 +1701,11 @@ Ch 96 was **3,171 words, 51 over 3,120 ceiling.** Trimmed 108 words by cutting r
 - Sera not asked Brinewake not in batch fourth refusal unnumbered; first licensed witness Renner still not Sera.
 - Pulse thirteenth logged cause not established nothing under; leak five-eighths seventh hour unmended unmystery; 399 fourth month not discharged; schedule never produced layer not entitled; Thornwild unnamed long line untouched seat absent; bypass unbuilt men not back; collie uninterrupted weir not returned low map unopened; Lissa unforgiven unthanked reader anybody who comes; Wenna thirty-nine cannot read never signed name off everything only refuser; readable position not virtue; intervals checkable or not said eleven weeks only day 52.
 - Ending untouched no new final enemy.
+- **The levy is on sixteen households of this holding and not on forty.** Corrected in Ch 90 on the verification pass; the forty households of Ch 80 are a hundredweight of compost and stand.
+- **Tova Reed has been a steward eleven years, not eleven months.** Corrected in Ch 90; *eleven months* is the season and may never be used of a tenure.
+- **The reading rule is the twentieth of a month two months back, day 80.** Two references said the fourteenth and one said the twenty-second; all three now say the twentieth.
+- **The fen's letter claiming to be a holder of a line is day 104, the fourteenth of last month; the district's four points are day 129, the ninth of last month; the terms are day 130, the tenth.** Chapter 98's closing speech now carries all three and the map's run of a hundred and forty.
+- **The refusal was spoken on day 142 and reached the fen on day 143.** A later chapter may not date the giving to the twenty-third or the knowing before it.
 
 ## Proposed canon changes — Batch 0005
 

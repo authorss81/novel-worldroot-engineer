@@ -18,7 +18,7 @@ Five. The term. To the last day of the sowing, which is the thirtieth of this mo
 
 Anneke Roos read all five aloud on the afternoon of the twenty-fourth at the well house door and said that she had looked for a fault in all five for the better part of an hour and had found one, and it was in the heading.
 
-"It says nothing in it can be enforced by anybody," she said, "and I have been trying since the ninth of this month to work out whether that is true, and it is not quite. Clause three can be enforced by the eleven households. Not by a district and not by a man in a yard, but by a person with a hoe, and that is a person, and so the sentence at the head of this sheet is a small lie, and it is the smallest lie in this building and I have found it myself and I would like it kept with my reason.
+"It says nothing in it can be enforced by anybody," she said, "and I have been trying since the ninth of last month to work out whether that is true, and it is not quite. Clause three can be enforced by the eleven households. Not by a district and not by a man in a yard, but by a person with a hoe, and that is a person, and so the sentence at the head of this sheet is a small lie, and it is the smallest lie in this building and I have found it myself and I would like it kept with my reason.
 
 "The reason is that a document nobody can enforce is a piece of paper, and a piece of paper does not stop a cart. So this sheet is unforceable by anybody with a box at a post and enforceable by eleven people who have never signed a paper, and I would rather have that than a sheet nobody can do anything with, and I am not taking the word out of the heading, because a body that has to be accurate in a heading is a body that will be accurate in nothing else."
 
