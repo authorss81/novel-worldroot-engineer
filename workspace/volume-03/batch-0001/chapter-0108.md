@@ -110,7 +110,7 @@ And on the twentieth the number cut into the two boards over the bay at Lantern 
 
 ---
 
-And the fruit is in a stone room on that shelf in crates, and a buyer is on the seventeenth of next month, and nobody on that shelf has been told which of two things came up that road. One is a row of eleven cuts in a week dressed by a man who did not come back. The other is a piece of paper with a word on it. And the plain reason on the door of the third house is that a thing nobody can enforce is the only kind of thing that can be refused, and a record nobody else holds is the only kind of record that can be read.
+And the fruit is in a stone room on that shelf in crates, and a buyer is on the seventh of next month, and nobody on that shelf has been told which of two things came up that road. One is a row of eleven cuts in a week dressed by a man who did not come back. The other is a piece of paper with a word on it. And the plain reason on the door of the third house is that a thing nobody can enforce is the only kind of thing that can be refused, and a record nobody else holds is the only kind of record that can be read.
 
 Underneath the day's work, dated the twentieth, signed by nobody but Marek, and read back before it was initialled, is the twenty-sixth note under section nine of the charter schedule, and there is no charter, and the note says so on its face.
 

@@ -96,4 +96,4 @@ And the reader was Merrid Ollvar, and she read the figure back, and she read it 
 
 ---
 
-The buyer comes on the seventeenth of next month, and it is four weeks off, and the fruit is in a stone room on that shelf in crates, and nobody on that shelf has decided whether it is a harvest or a fault, and nobody on that shelf has been told which of the two readings this fen has come down the road to make, because a woman of fifty-four has not yet been told either and is not going to be told tonight.
+The buyer comes on the seventh of next month, and it is four weeks off, and the fruit is in a stone room on that shelf in crates, and nobody on that shelf has decided whether it is a harvest or a fault, and nobody on that shelf has been told which of the two readings this fen has come down the road to make, because a woman of fifty-four has not yet been told either and is not going to be told tonight.

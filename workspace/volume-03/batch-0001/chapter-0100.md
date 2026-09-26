@@ -36,7 +36,7 @@ Nobody in that yard said anything clever for a while. The pump ran. Somebody's c
 
 And Merrid Ollvar said it in one sentence, and it is the sentence the whole of this is standing next to, and she said it without any performance at all, because she had said it to herself every day for eleven weeks.
 
-"I want somebody to tell me whether it is a harvest or a fault," she said, "and the reason I want to know is that I have a buyer who has offered me a price the hundredweight for four seasons running and has never once asked me why the fruit is odd, and he is going to be on this shelf on the seventeenth of next month, and he will buy every pear on it at that price whether they are a fault or not, and that is eleven weeks of my life and every pear on this shelf and it is the only money these four houses will see this year."
+"I want somebody to tell me whether it is a harvest or a fault," she said, "and the reason I want to know is that I have a buyer who has offered me a price the hundredweight for four seasons running and has never once asked me why the fruit is odd, and he is going to be on this shelf on the seventh of next month, and he will buy every pear on it at that price whether they are a fault or not, and that is eleven weeks of my life and every pear on this shelf and it is the only money these four houses will see this year."
 
 "And you have not sold them."
 
@@ -84,7 +84,7 @@ The second was a trick by the buyer. That one died on its own, in about a minute
 
 "Four seasons back. The first spring I was on my own with the place after my father died."
 
-"Then he has offered the same price four seasons and you have had an odd harvest in this one of them and not in the others, and he does not know about the odd one, because he has never seen it, because it did not exist four seasons ago and you have not told him." She put her hands flat on the crate. "A man who is paying a flat price for four seasons is a man who has priced a bad year as though it were an ordinary one. He has not tricked you. **He is about to be tricked by you, and you did not mean to do it, and that is a different thing and it is worse, because you will have to decide what to do about it before the seventeenth of next month, and you will have to decide it in a yard with a buyer in it.**"
+"Then he has offered the same price four seasons and you have had an odd harvest in this one of them and not in the others, and he does not know about the odd one, because he has never seen it, because it did not exist four seasons ago and you have not told him." She put her hands flat on the crate. "A man who is paying a flat price for four seasons is a man who has priced a bad year as though it were an ordinary one. He has not tricked you. **He is about to be tricked by you, and you did not mean to do it, and that is a different thing and it is worse, because you will have to decide what to do about it before the seventh of next month, and you will have to decide it in a yard with a buyer in it.**"
 
 Nobody in that yard had thought of it that way and the yard went quiet again, and the man of about fifty said, out loud, that that was the first time anybody had said anything in two days that made him feel less certain and not more, and that he was the man who had voted against the book in the spring and that this was a different complaint.
 
@@ -104,7 +104,7 @@ And Coll Renner said a figure, and Lissa Vale said no to it, and paid it, and re
 
 ---
 
-And the last thing that happened on the third of this month happened at about the sixth hour, when Merrid Ollvar was asked how far Cauldron Reach was, and said nine days up and four down with one change of horses at a place with no name that she has written down in her own ledger and not in anybody else's, and that there was a buyer on her shelf on the seventeenth of next month, and that the wind on that shelf comes off the ice from about the second hour and that instruments do not work in it after the second hour, and that the first of the four houses has a stone barn with a long bench in it that a man can stand a trestle on.
+And the last thing that happened on the third of this month happened at about the sixth hour, when Merrid Ollvar was asked how far Cauldron Reach was, and said nine days up and four down with one change of horses at a place with no name that she has written down in her own ledger and not in anybody else's, and that there was a buyer on her shelf on the seventh of next month, and that the wind on that shelf comes off the ice from about the second hour and that instruments do not work in it after the second hour, and that the first of the four houses has a stone barn with a long bench in it that a man can stand a trestle on.
 
 And then she said the thing that made the going a decision and not an offer, and she said it to Marek Vale and not to the yard, and she said it in a low voice because she had been in yards before.
 

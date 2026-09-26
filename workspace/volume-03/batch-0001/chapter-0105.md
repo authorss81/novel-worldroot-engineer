@@ -8,7 +8,7 @@ That is the whole of the twelfth of this month and it took about twenty minutes 
 
 "If we lose the root under that face this week," said Marek Vale, at about the ninth hour, in the lee of the wall with the rule in his hand and the wind not yet up, "then the face closes over and we have a dead tree and a mark on it, and there is no way on this earth to get a healed face under a dead tree. **You cannot read a thing you cannot reach.** And the reading is why we came up nine days of road and it is eight days after I said I did not know what I would do with my afternoon."
 
-"And if the root goes this week," said the man at the second house, who had come over and had a spade in his hand and had not been asked for it, "then I have a dead pear in a row of a hundred and forty and a hole in the ground, and the buyer's day is the seventeenth of next month and he does not care about a row of one, and I would like somebody to be careful."
+"And if the root goes this week," said the man at the second house, who had come over and had a spade in his hand and had not been asked for it, "then I have a dead pear in a row of a hundred and forty and a hole in the ground, and the buyer's day is the seventh of next month and he does not care about a row of one, and I would like somebody to be careful."
 
 "I will be careful," said Marek Vale. "I will be as careful as this can be done, and I am going to do it in daylight in front of you and a licensed man and a witness, and I am going to write it down before I do it, and I am going to read it back after."
 
