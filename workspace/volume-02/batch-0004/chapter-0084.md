@@ -60,7 +60,7 @@ And under it, in the engineer's own hand, the line that has carried a rule since
 
 ---
 
-Ruben Ashe came up the fen road on the twenty-ninth at about the third hour of the afternoon, on the date this holding's own book named eleven weeks ago, alone, with a case and not a cart, and he gave Marek Vale the sheet at the gate before he came in, which is what Coll Renner does, and Marek understood that it was not imitation.
+Ruben Ashe came up the fen road on the twenty-ninth at about the third hour of the afternoon, on the date the book named on the twenty-fifth of a month two months back, alone, with a case and not a cart, and he gave Marek Vale the sheet at the gate before he came in, which is what Coll Renner does, and Marek understood that it was not imitation.
 
 The sheet was half a page. Sixty pounds, in cash, on the day, for eleven items, and every one of them was a thing this holding had been doing for a season, and not one of them was a thing it had a charter to do. The eleven years of books. The printed record, and the copy that went to Cray and the copy that went to four counties. The open book, the standing pressure log, the use log, the schedule on the door. And an undertaking, on his letterhead, in one paragraph, that the body will thereafter keep no book, will hold no examination, will send no report, will print nothing further, will answer no officer, and will not thereafter describe the ground, the node, the branch, or any route from it.
 
@@ -74,7 +74,7 @@ He shut the case.
 
 Nobody said anything, and the pump ran, and the lamp above the seed house door was burning on its living bulb.
 
-"Well," said the man of about fifty, to nobody in particular, and Dunmar Fitch did not enter it, and it was not in the book that night or any night. "We are not on anything now. There is nowhere that says what we are, and there is nothing over there that says what they are, and so we can be with them without it being a thing that is on a form anywhere. And I have wanted that for eleven weeks and I did not know till this afternoon that it was a thing I wanted."
+"Well," said the man of about fifty, to nobody in particular, and Dunmar Fitch did not enter it, and it was not in the book that night or any night. "We are not on anything now. There is nowhere that says what we are, and there is nothing over there that says what they are, and so we can be with them without it being a thing that is on a form anywhere. And I have wanted that since the fourth, and did not know till this afternoon that it was a thing I wanted."
 
 And then Tova Reed said the professional version of it, standing, with her case shut and her key on her belt, and she did not know that she had said the sentence of the whole road between two places, and she said it in about fourteen seconds.
 

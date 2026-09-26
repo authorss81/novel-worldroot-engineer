@@ -68,7 +68,7 @@ Then Marek said the reading and the reading was six, and Lissa Vale wrote it in,
 
 Somebody in the yard laughed, and it was not a good laugh and it was not at anybody, and Ilsa Kern said the thing that made the yard stop.
 
-"They put the small figure under the big one on the door," she said, "and they read it out. In this district. In eleven weeks, at this door, a schedule of damage of sixty pounds ten went up with a fourteen-day limit on it, and a form with a box in it went to the low quarter, and every single thing this district has ever put on a door has been a thing that was correct and not a thing that was honest. And that one is on the door, and it says out loud that it is a fifth of what it promised, and anybody can walk up to it and count the crates themselves."
+"They put the small figure under the big one on the door," she said, "and they read it out. In this district. Eighty-eight days ago, at this door, a schedule of damage of sixty pounds ten went up with a fourteen-day limit on it, and a form with a box in it went to the low quarter, and every single thing this district has ever put on a door has been a thing that was correct and not a thing that was honest. And that one is on the door, and it says out loud that it is a fifth of what it promised, and anybody can walk up to it and count the crates themselves."
 
 And Jonas Byre stood at the back and said nothing for a quarter of an hour, and the fen waited, because he had objected on the fifteenth and again on the twenty-fourth and there was a thing coming, and it came at last and it was the thing nobody expected from him.
 

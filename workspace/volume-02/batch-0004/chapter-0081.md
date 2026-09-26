@@ -32,7 +32,7 @@ They took the carts out on the Monday, the twenty-fourth, and hiring them was th
 
 Two carts out of Fennmere, five shillings the day each, the carters' own man with each of them at two shillings a day, which is fourteen shillings a day, and the carters wanted the day's money on the morning, which is the practice and is not dishonesty.
 
-Lissa Vale counted the seed house tin out on the step in front of two people before the money left it. Thirteen shillings and a shilling that came in on the fourteenth of this month from the one copy of the printing sold in the yard. Fourteen shillings. A day's carts. And the man of about fifty read the fourteen shillings out and initialled it and said, afterward, that he had been the loudest man in this yard about money for eleven weeks and had been right about this once, and that it would not become a habit.
+Lissa Vale counted the seed house tin out on the step in front of two people before the money left it. Thirteen shillings and a shilling that came in on the fourteenth of this month from the one copy of the printing sold in the yard. Fourteen shillings. A day's carts. And the man of about fifty read the fourteen shillings out and initialled it and said, afterward, that he had been the loudest man in this yard about money since the twelfth of a month two months back and had been right about this once, and that it would not become a habit.
 
 The levy went round the same morning, at four times what it was.
 

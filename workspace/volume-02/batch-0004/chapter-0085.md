@@ -52,7 +52,7 @@ The notice came up the fen road on the second, a Tuesday, on the office's paper,
 
 *Water-supply bylaw, second part. To the holder of a node, or to any person in occupation of the ground. The node at Lantern Reach is not shown to be maintained. The district may at any time make arrangements for its maintenance, and may do so without notice to any person not in occupation of the ground.*
 
-That is the language of the eighteenth of a month four months back, again, and fifteen weeks on, and it is the same language and not one word of it has changed, and nobody in the yard was a villain about it, and nobody said anything for about a minute, and then the man of about seventy said the thing that made the rest of it ordinary.
+That is the language of the eighteenth of a month four months back, again, and a hundred and four days on, and it is the same language and not one word of it has changed, and nobody in the yard was a villain about it, and nobody said anything for about a minute, and then the man of about seventy said the thing that made the rest of it ordinary.
 
 "Put it on the door," he said. "And put it on the same nails as the schedule, and put it on the left, because that is where a notice goes, and if it is going on that door at all then it is going on the left where a man can find it without reading past the schedule."
 
@@ -64,13 +64,13 @@ Nobody in the yard said the district had done it wrong. The node was not shown t
 
 "They can," said Tova Reed. "There is a form for it somewhere in that office and it is a good form and the man who brings it will be polite. And if they bring it, then the seed house has no water and the bed is at three and a half degrees and the tin under the ledger is a hundred and two days at risk, and that is what four lines of correct paper does to a body with no charter, and nobody in that office will enjoy it and it will not be their fault and they will be able to say so in writing." She squared the notice to the edge of the step with her own hand, which she does to paper and not to posts. "So write down that we have worked out what the four lines are for, and that we are not going to pretend we have not, and that the answer to it is compost and money and neither of which we have, and that is all the answer there is and I would rather it was on the page now than be a surprise at the first hard frost."
 
-The pump kept running. Nothing was sealed. The head stayed as it had been for eleven weeks. And the leak went on being measured at the seventh hour, twice, with two rules, by a woman who has no appointment to do it, and the fen did not use the expiry to stop measuring it, and the entry says why.
+The pump kept running. Nothing was sealed. The head stayed as it had been since the first of last month. And the leak went on being measured at the seventh hour, twice, with two rules, by a woman who has no appointment to do it, and the fen did not use the expiry to stop measuring it, and the entry says why.
 
-And then, at about the eleventh hour, two men with a cart stopped on the road, and this is the whole of the second, and it is the first time in eleven weeks that anybody has stopped on that road for a reason that was not a question about a bill.
+And then, at about the eleventh hour, two men with a cart stopped on the road, and this is the whole of the second, and it is the first time anybody has stood at that gate and asked this holding a question about one of its own columns.
 
 They were a chalk cart out of Fennmere, and the carter had been past the gate four times in a season and had never once seen anybody stand still at it, and he said so, and then he said the other thing.
 
-"There is a sheet of paper nailed up over that door," he said, "and I have been going past it for a month and there was never anybody reading out loud, and this morning there was a woman reading out loud and she was reading a column that is empty."
+"There is a sheet of paper nailed up over that door," he said, "and I have been going past it for a fortnight and there was never anybody reading out loud, and this morning there was a woman reading out loud and she was reading a column that is empty."
 
 "It is not empty, sir," said Lissa Vale, from the step. "It is empty and it has been read sixteen times and the number is written under the form. Would you like the number?"
 

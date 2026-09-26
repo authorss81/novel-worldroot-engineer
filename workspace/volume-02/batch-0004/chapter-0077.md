@@ -4,7 +4,7 @@
 
 Coll Renner came up the fen road on the fifteenth, a Saturday, at about the fourth hour in the afternoon, on the date he had given them in a yard on the eighth of last month, and he had nothing, and the nothing was the whole of his errand and he said so at the gate before anybody had asked him for it.
 
-"That is the report," he said. "I said the fifteenth and I have come on the fifteenth. I would have come on the fifteenth anyway. A carter came into my yard on the Wednesday with a load of chalk and told me a boy had gone down this road on the fourteenth with a book and a letter and a shilling in his hand, and he asked me about a road I have never been on, and I told him I did not know it, and he said he did not either, and that is the whole conversation. I have been turning it over since Wednesday and I did not like it."
+"That is the report," he said. "I said the fifteenth and I have come on the fifteenth. I would have come on the fifteenth anyway. A carter came into my yard on Friday with a load of chalk and told me a boy had gone down this road on the fourteenth with a book and a letter and a shilling in his hand, and he asked me about a road I have never been on, and I told him I did not know it, and he said he did not either, and that is the whole conversation. I have been turning it over since Friday and I did not like it."
 
 "About the walking," said Marek.
 

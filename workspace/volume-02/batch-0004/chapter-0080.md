@@ -24,7 +24,7 @@ Clause six: the term. A season, and at the end of the season the route goes on b
 
 Anneke Roos read all six clauses twice at the seed house table on the evening of the twenty-first and said that she had found nothing to object to in five of them, and that she wanted it entered that she had said that in a room with the engineer of record sitting at it, and that she had been looking for a fault in all six and had not found one, and that she was suspicious of a document that cannot be faulted and would rather say so at the time than afterwards.
 
-Then she said, from the doorway, that clause five was the best sentence anybody had written in this building in eleven weeks, and that she wanted that entered too, with her name against it, and that she was not going to be thanked for it by either of them and that she would be annoyed if she were.
+Then she said, from the doorway, that clause five was the best sentence anybody had written in this building since the charter went up on that door, and that she wanted that entered too, with her name against it, and that she was not going to be thanked for it by either of them and that she would be annoyed if she were.
 
 ---
 
@@ -64,7 +64,7 @@ Marek Vale did not argue for a while, and when he did he argued the engineer's a
 
 He stopped, and then he said the part that is the whole of the twenty-second.
 
-"Neither of us can answer that for the other. You have got standing and I have got the load and they are two different things and I have watched you be right about standing for eleven weeks and I have watched me be right about the load in a pit on a Saturday, and there is no form in this district that takes both. So it goes in the book as it is, with both our names on the page and neither of us softening anything, and I am not going to move an inch on the risk and I am not asking you to move an inch on the standing, and if somebody reads this page in four years I would like it to say that two competent people looked at the same clause and each of them was right and neither of them was enough."
+"Neither of us can answer that for the other. You have got standing and I have got the load and they are two different things and I have watched you be right about standing since the charter went up on the seed house door and I have watched me be right about the load in a pit on a Saturday, and there is no form in this district that takes both. So it goes in the book as it is, with both our names on the page and neither of us softening anything, and I am not going to move an inch on the risk and I am not asking you to move an inch on the standing, and if somebody reads this page in four years I would like it to say that two competent people looked at the same clause and each of them was right and neither of them was enough."
 
 "Before it is entered. There is a second thing and I have been sitting on it for an hour and I am going to put it down because if I do not put it down this afternoon somebody will find it in a year and it will look as though I had hidden it. Clause two is the clause you have struck. Clause four is the one you have not struck, and clause four says one book, not kept in two places, and either end may ask to have any entry read aloud."
 
