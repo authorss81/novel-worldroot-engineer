@@ -20,7 +20,7 @@ The going cost money and the going also cost feeding, and the fen put both in th
 
 "Eleven shillings a day of horse and a man at the change of horses and board at both ends and the hire of a bench for a man to stand a trestle on, and the fare down again at the end whether we are still going or not," said Anneke Roos, with the pen, in the ordinary words. "Which is a figure I am not going to repeat, and it is more than the holding has, and it is a quarter of what a good harvest on that shelf would bring if the fruit is a fault and we have to pay for the fault out of the same tin that the fault is in.
 
-"And now the other half and I am not going to let it be a separate line. Nine days of horse. Nine days of four. What a horse eats off ground that is being brought back up to nothing is a hundredweight a week of something, and a hundredweight of what is four shillings, and thirteen weeks at four shillings is a hundred and four shillings, and I have put it in the compost line and I have not taken it out, and the shortfall is not three hundred and ninety-nine hundredweight this month and it is not going to be three hundred and ninety-nine hundredweight next month, and nobody in this yard is to read a number in that line and think the eleventh of a month two months back bought anything.
+"And now the other half and I am not going to let it be a separate line. Nine days of horse. Nine days of four. What a horse eats off ground that is being brought back up to nothing is a hundredweight a week of something, and a hundredweight of what is four shillings, and thirteen weeks at four shillings is a hundred and four shillings, and I have put it in the compost line and I have not taken it out, and the shortfall is not three hundred and ninety-nine hundredweight this month and it is not going to be three hundred and ninety-nine hundredweight next month, and nobody in this yard is to read a number in that line and think the seventeenth of next month bought anything.
 
 "I have written it in the ordinary words and I have not made it a fault. **Going to look at a thing is not a fault. It is a cost. The fault in this line was put there in a month four months back by a well and it is still there and we are adding to it with a road, and I would like somebody to write the two together in a year and see which of them a person could have done without.**"
 
@@ -50,7 +50,7 @@ Anneke Roos said it first and she said it in the steward's way, which is that sh
 
 And Dunmar Fitch entered both halves in the order they were said in and read them back, and Lissa Vale read the entry back after him, and the yard did not tidy it.
 
-And then Marek Vale said the thing that is the reason the whole of this batch is on the road, and it is nine words, and it is the reason this chapter has a cost in it at all.
+And then Marek Vale said the thing that puts four hundred miles of road in front of the whole of them, and it is nine words, and it is the reason the going has a cost in it at all.
 
 "I am not going to ask you for it."
 

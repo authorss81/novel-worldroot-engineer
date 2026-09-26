@@ -8,7 +8,7 @@ That is the whole of the twelfth of this month and it took about twenty minutes 
 
 "If we lose the root under that face this week," said Marek Vale, at about the ninth hour, in the lee of the wall with the rule in his hand and the wind not yet up, "then the face closes over and we have a dead tree and a mark on it, and there is no way on this earth to get a healed face under a dead tree. **You cannot read a thing you cannot reach.** And the reading is why we came up nine days of road and it is eight days after I said I did not know what I would do with my afternoon."
 
-"And if the root goes this week," said the man at the second house, who had come over and had a spade in his hand and had not been asked for it, "then I have a dead pear in a row of a hundred and forty and a hole in the ground, and the buyer is in nine days and he does not care about a row of one, and I would like somebody to be careful."
+"And if the root goes this week," said the man at the second house, who had come over and had a spade in his hand and had not been asked for it, "then I have a dead pear in a row of a hundred and forty and a hole in the ground, and the buyer's day is the seventeenth of next month and he does not care about a row of one, and I would like somebody to be careful."
 
 "I will be careful," said Marek Vale. "I will be as careful as this can be done, and I am going to do it in daylight in front of you and a licensed man and a witness, and I am going to write it down before I do it, and I am going to read it back after."
 
@@ -18,7 +18,7 @@ What he did was a graft. A small one, a scion of the same pear taken from the se
 
 The rules of the thing, in the fen's own book, in his own words, and the reader for it was Tova Reed, and the witness was Coll Renner and he wrote four lines and the hour in his own book and handed it to the clerk, who is four hundred miles off, so he read it into the seed-route ledger in Lissa Vale's hand and she signed it and he read it back and did not soften it.
 
-> One. Two active links exist, one at the collar of the second tree in the row, read on the fifth, and one in the pot at Lantern Reach with a graft from the spring that is dead and is not a link and is not counted. Of links a man can keep without help, three, and a fourth fails and is known to fail and is not attempted.
+> One. Of links a man can keep without help, three, and a fourth fails and is known to fail and is not attempted. **One was made in the spring and died in the spring and it is not a link and it is not counted. Two is counted, and it is the collar of the second tree in the row, which is the tree in the pot in this yard, and it was read on the fifth.** And the dead one is entered here in its number because a thing that is dead in a pot is still a thing somebody will ask about in ten years.
 >
 > Two. A third link is attempted at about the ninth hour of the twelfth, a scion of the second tree set into the limb of the third a foot below the face, and the face is not to be cut into for any reason, and the scion is not to be read with an instrument in this season.
 >
@@ -38,7 +38,7 @@ And Tova Reed asked one question about it at the seventh hour, which is her stan
 
 "It is out of the second tree," she said, "and the second tree is the one that fruited eleven weeks out of season, and if the second tree has put something into the third that the third has never had, then in four years this row will not be one row of pears. It will be one row of pears and a question with a scion in it, and nobody in this country will be able to tell which is which from the ground. **I am not saying take it out. I am saying write down that it is in there, because the whole of this body's argument is a readable thing, and a thing nobody wrote down is a thing nobody can check, including us.**"
 
-And that went in on the twelfth with the hour on it, in her hand, in the seed-route ledger, and Dunmar Fitch read it back four hundred miles off on the fourteenth at about the ninth hour and the reader after him was the man of about fifty, and it is the first entry in this volume that anybody made in advance of the thing happening, and the fen entered that fact about itself in the same breath.
+And that went in on the twelfth with the hour on it, in her hand, in the seed-route ledger, and Dunmar Fitch read it back four hundred miles off on the fourteenth at about the ninth hour and the reader after him was the man of about fifty, and it is the first entry this body has ever made in advance of the thing happening, and the fen entered that fact about itself in the same breath.
 
 It took.
 
@@ -52,11 +52,11 @@ Coll Renner read that back and did not soften it, and Lissa Vale entered it, and
 
 ---
 
-And the party was then two links down on a plateau with one licensed man, a hired bench, a trestle in a stone barn, and a woman whose buyer's day was in eight days and closing.
+And the party was then two links down on a plateau with one licensed man, a hired bench, a trestle in a stone barn, and a woman whose buyer's day was in twenty-five days and closing.
 
 And Marek Vale did the arithmetic out loud, on the twelfth, at about the sixth hour, standing in the barn with the wind shaking the door, and it is in the ledger and it is the whole of why the thirteenth of this month is what it is.
 
-"The scion is three-tenths a day and it is a third of what it should be and it is all the extension this limb has," he said. "**The face under it is going to close.** Not today. In eight or nine days, at that rate, and the buyer is in eight days, and the buyer does not care, and the face is the only reason this trip cost nine days of road and thirteen weeks of a compost line.
+"The scion is three-tenths a day and it is a third of what it should be and it is all the extension this limb has," he said. "**The face under it is going to close.** Not today. In eight or nine days, at that rate, and the buyer is in twenty-five days, and the buyer does not care, and the face is the only reason this trip cost nine days of road and thirteen weeks of a compost line.
 
 "And I have one thing I have not done and I know how to do it and I have never done it and there is no person in this barn who has watched me do it and one person in this barn has told me twice tonight not to do it."
 
@@ -80,6 +80,6 @@ And Tova Reed said the one thing in that whole evening that was not a procedure.
 
 "You have just given away a well," she said. "Not the fruit, which is hers, and not the road, which is yours. **A well.** In daylight, on the record, before you have done it, and not afterwards, and that is the first time anybody in this yard has given away the thing before doing it instead of after, and I am going to write it in the ledger in the seed-route and not in the fen's own book, because the fen's book is a record of what this body intended and **that was an intention, and this is a cost, and a cost goes in the other one.**"
 
-And it went in the seed-route ledger on the twelfth, in her hand, in the ordinary words, with the hour, and Dunmar Fitch read it back four hundred miles away on the fourteenth at about the ninth hour with nine other people in a yard, and Lissa Vale read it back after him, and the count of the readings of the seventh column did not change, because the sixteenth is the middle and the middle is the middle.
+And it went in the seed-route ledger on the twelfth, in her hand, in the ordinary words, with the hour, and Dunmar Fitch read it back four hundred miles away on the fourteenth at about the ninth hour with nine other people in a yard, and Lissa Vale read it back after him, and the count of the readings of the seventh column did not change, because the rule is the first and the middle and the last, and the first was read on the first and the middle is the sixteenth and has not come.
 
-And that is the whole of the twelfth of this month, and there is no note under section nine for it, because there is nothing in it that anybody can check, and the fen entered that as a fact about the fourteenth of the next month and not as a virtue.
+And that is the whole of the twelfth of this month, and there is no note under section nine for it, because there is nothing in it that anybody can check, and the fen entered that as a fact about the fourteenth and not as a virtue.

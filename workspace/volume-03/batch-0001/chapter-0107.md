@@ -2,7 +2,7 @@
 
 ## The Inventory
 
-It came up the plateau road on the fourteenth in the afternoon, on a cart with a man walking beside it, and it was three sheets folded and a covering letter, and the covering letter had a seal on it and the seal is a thing this holding has seen on one other document in two volumes and that document is still in a drawer in a seed house with the levy papers and the rent book and a letter nobody has opened.
+It came up the plateau road on the fourteenth in the afternoon, on a cart with a man walking beside it, and it was three sheets folded and a covering letter, and the covering letter had a seal on it and the seal is a thing this holding has seen on one other document in eleven years and that document is still in a drawer in a seed house with the levy papers and the rent book and a letter nobody has opened.
 
 Merrid Ollvar took it off the cart in the yard in front of nine people and did not open it and gave it to Lissa Vale, and Lissa Vale read the whole of it standing up in the ordinary way, and then she read the three sheets, and the yard listened to all four pieces of it and has them now in the fen's own book in her hand with the hour on it.
 
@@ -18,7 +18,7 @@ Merrid Ollvar took it off the cart in the yard in front of nine people and did n
 >
 > Entered at the foot: fourth part, return of inventories, six items, with a number at the head of four digits and a number at the foot of six, and a box headed for the district holding number.
 
-Nobody in that yard said anything for a moment and then the man of about fifty's reading of it, in a yard four hundred miles off, four days later, at about the ninth hour, was the sentence that is the whole of what this instrument is.
+Nobody in that yard said anything for a moment and then the man of about fifty's reading of it, in a yard four hundred miles off, the next morning, at about the ninth hour, was the sentence that is the whole of what this instrument is.
 
 "They have not asked for a copy," he said. "They have asked for a list, and they have told us in writing that a list is not a copy, and they have been careful about that on purpose, because they know what this body does with a copy. And then they have told us that if we cannot say which part a thing is, then saying we cannot say is the answer, and the answer is that the thing does not exist.
 
@@ -26,11 +26,11 @@ Nobody in that yard said anything for a moment and then the man of about fifty's
 
 ---
 
-The woman who came up with the cart came up with it on the fifteenth, at about the ninth hour, and gave her name at the gate once and it was entered by the clerk in his own hand with the hour, and she is not a member of the cooperative and no new named member of the cooperative was created in this batch.
+The woman who came up with the cart came up with it on the fifteenth, at about the ninth hour, and gave her name at the gate once and it was entered by the clerk in his own hand with the hour, and she is not a member of the cooperative and has not been asked to be one.
 
 "**Sabin Roell.** Records officer, this office. Thirty-four. I came up myself because the fourth part is the part people do not return and I would rather have a conversation than a file."
 
-And then she said the thing that makes her the volume's structural antagonist and not a villain, and it is in the fen's own book whole because it is the reason nothing in this chapter is a fight.
+And then she said the thing that makes her the shape of the thing in front of this fen and not an enemy of it, and it is in the fen's own book whole because it is the reason nothing in that yard is a fight.
 
 "I am going to tell you three things and then I am going to ask your steward the question, and none of the three is an opinion and none of the three is a threat, and I would like all of that written down in the order I say it, because I have been told by two people in four years that I speak in the wrong order and I have thought about it since and I think they are right."
 
@@ -50,13 +50,13 @@ Tova Reed read all three back, including the reason for the reading, which she h
 
 Nobody in that yard said anything for about half a minute.
 
-Then Tova Reed said the sentence that turns the chapter, and it is nine words, and it is the reason the whole of Volume 03 has a spine.
+Then Tova Reed said the sentence that turns everything after it, and it is nine words, and it is the reason the rest of this is a fight about paper and not about her.
 
 "Then it is the order that matters," she said, "and not the work."
 
-And the reader of the fen read that back at the gate on the fourteenth, four hundred miles off, and the man of about fifty said the other half of it out loud before anybody else could, which is the thing this yard has been doing for two volumes and will go on doing long after it is unusual.
+And the reader of the fen read that back at the gate four hundred miles off, the next morning, and the man of about fifty said the other half of it out loud before anybody else could, which is the thing this yard has been doing for eleven years and will go on doing long after it is unusual.
 
-"Which means somebody wrote down what to do," the man of about fifty said, "and somebody else was told, and neither of them is in a room four hundred miles away holding a ledger, and we have spent two volumes learning that a readable thing gets indexed and taxed and we did not once think to ask whether it gets obeyed."
+"Which means somebody wrote down what to do," the man of about fifty said, "and somebody else was told, and neither of them is in a room four hundred miles away holding a ledger, and we have spent eleven years learning that a readable thing gets indexed and taxed and we did not once think to ask whether it gets obeyed."
 
 ---
 
@@ -64,17 +64,17 @@ And then the offer, which is the real thing, and it is free, and it is on the co
 
 > The district will hold copies of any records a holder of this district wishes to place with it, at the office at the foot of the plateau, on the district's storage, in perpetuity, at no charge, for safekeeping only. Safekeeping is not a classification and does not place any record in any part. A copy so held may be produced by the holder at any time on application, and the office will not produce it, and no officer of this office may be asked for it, and the holder keeps the whole of the right to use what it has placed.
 
-It went up to about the sixth hour of the fifteenth and it was the reason the man of about fifty's vote of four days before had been worth taking.
+It was read and argued until about the sixth hour of the fifteenth, and it was the reason the man of about fifty's vote of a fortnight before had been worth taking.
 
-And Tova Reed read it twice and put it down on the bench and stood looking at it for a while, and then she said the whole of it in one sentence, and it is the sentence, and it is eleven words and it is the payoff of a piece of paper that has been in this book since the fourth chapter of the first volume and that has never been dated and never been numbered and has never been located in the prose and is not located now.
+And Tova Reed read it twice and put it down on the bench and stood looking at it for a while, and then she said the whole of it in one sentence, and it is the sentence, and it is eleven words and it is the payoff of a piece of paper this holding has had for years and has never been able to place, and has never been dated and never been numbered.
 
 "**I have read the shape of a free offer with a signature attached before, and I am not going to take it, and I am not going to say where I read it.**"
 
-The yard went quiet in a way it had not gone quiet for anything in two volumes.
+The yard went quiet in a way it had not gone quiet for anything in eleven years.
 
 Nobody asked her. That is the entry that matters, and it is entered whole.
 
-> She said the shape of it. **Nobody asked her where.** The fen asked her nothing. Jonas Byre is not in this yard. The reader of this body did not ask. The clerk, four hundred miles away, at about the ninth hour of the fourteenth, read the entry back in the seed-route ledger with the word *shape* in it and the hour on it, and the reader after him was the man of about fifty, and he did not ask either, and the fen entered that the question was available in that yard to anybody and was taken by nobody, and that it is available again tomorrow, and that the fen has entered that it will not be taken.
+> She said the shape of it. **Nobody asked her where.** The fen asked her nothing. Jonas Byre is not in this yard. The reader of this body did not ask. The clerk, four hundred miles away, at about the ninth hour of the next morning, read the entry back in the seed-route ledger with the word *shape* in it and the hour on it, and the reader after him was the man of about fifty, and he did not ask either, and the fen entered that the question was available in that yard to anybody and was taken by nobody, and that it is available again tomorrow, and that the fen has entered that it will not be taken.
 
 And then Anneke Roos asked the question, from four hundred miles off, and it is her question and it is the same question she has asked four times this season.
 
@@ -86,9 +86,9 @@ And Lissa Vale answered it standing in the yard at about the sixth hour of the f
 
 "And a body that says no to free storage is saying it would rather keep its own record in its own yard where four families can see it and where a man with a spade can walk out of the yard and know where it is. **That is not a good reason. It is a plain one, and I have learned this season that a plain reason on a page beats a good reason in a head, and I would like the plain one entered and I would like the good one left out.**"
 
-And the offer was declined in writing, in one line, and the one line is the fen's own and it names nobody and requires no signature and the reader for it was the man of about fifty, and Sabin Roell read it back before she took it away and said that it was the fourth such refusal she had received in four years and that she had expected six, and that the other two had been in a longer sentence and had been worse reasons, and that this one is on a line of its own and that is not a small thing to hand back to a person who has to write *not returned* in a book.
+And the offer was declined in writing, in one line, and the one line is the fen's own and it names nobody and requires no signature and the reader for it was the man of about fifty, and Sabin Roell read it back before she took it away and said that it was the fourth such refusal she had received in four years and that she had expected six, and that two of the other three had been in a longer sentence and had been worse reasons, and that this one is on a line of its own and that is not a small thing to hand back to a person who has to write *not returned* in a book.
 
-And she said, at the gate, on the fifteenth, at about the sixth hour, the thing that is the last of the antagonist of this chapter and it is a fact and it is not a threat and it is the reason the next four chapters of this volume are going to be about speed.
+And she said, at the gate, on the fifteenth, at about the sixth hour, the last of what she had come up the road to say, and it is a fact and it is not a threat, and it is the reason the fen is going to have to be quick.
 
 "Then the answer to the return is a list of six things and a declaration about each one," she said, "and the declaration on a part three record is the same declaration whether you send it or not, and the office will write a line either way, and the line says *held* and the line says *not returned*, and neither of those is a classification.
 
@@ -98,6 +98,6 @@ And she went down the road at about the sixth hour and the cart went with her an
 
 Underneath the day's work, dated the fifteenth, signed by nobody but Marek, and read back before it was initialled, is the twenty-fifth note under section nine of the charter schedule, and there is no charter, and the note says so on its face.
 
-*A schedule of records held, fourth part, three sheets and a covering letter with a seal, read whole in a yard in daylight and entered whole. A list that is not a copy. A part three that exists and does not count and cannot be removed by any officer including the one who signs. A form whose way out is the trap. A records officer of thirty-four who came up with the cart and gave her name once and said three things in the order she said them, and looked twice on purpose for a power she expected to find and did not find, and said so first, in a yard, to nine people, before anybody had accused her of anything. And a question that a shape on a rider of nine miles was asked in a yard and answered in one sentence, and the shape of an offer read out in the open and not its origin, and nobody asked. And a free offer of storage, in perpetuity, at no charge, for a copy of everything, declined in writing in one line, and the plain reason entered and the good reason left out, and a second thing done in the same afternoon by the same office and recorded as *held* and not as part three. And a man four hundred miles off who said, out loud and first, that somebody wrote down what to do and somebody else was told, and that this body had spent two volumes learning that a readable thing gets indexed and taxed and had not once thought to ask whether it gets obeyed.*
+*A schedule of records held, fourth part, three sheets and a covering letter with a seal, read whole in a yard in daylight and entered whole. A list that is not a copy. A part three that exists and does not count and cannot be removed by any officer including the one who signs. A form whose way out is the trap. A records officer of thirty-four who came up with the cart and gave her name once and said three things in the order she said them, and looked twice on purpose for a power she expected to find and did not find, and said so first, in a yard, to nine people, before anybody had accused her of anything. And a question about a shape on a rider nine miles from a form, asked in a yard and answered in one sentence, and the shape of an offer read out in the open and not its origin, and nobody asked. And a free offer of storage, in perpetuity, at no charge, for a copy of everything, declined in writing in one line, and the plain reason entered and the good reason left out, and a second thing done in the same afternoon by the same office and recorded as *held* and not as part three. And a man four hundred miles off who said, out loud and first, that somebody wrote down what to do and somebody else was told, and that this body had spent eleven years learning that a readable thing gets indexed and taxed and had not once thought to ask whether it gets obeyed.*
 
 *This is a record and not an argument, and the sentence is off this note for that reason, and the reason is written here so that the chain cannot be seen to have dropped one.*

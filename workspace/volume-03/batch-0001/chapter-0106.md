@@ -2,13 +2,13 @@
 
 ## The Draw
 
-It was done on the thirteenth, from about the second hour of the afternoon until about the sixth, in the lee of the north wall, with a lamp, and there are nine people in that barn and four of them at four houses and two of them in this book by name who are not going to be all right.
+It was done on the thirteenth, from about the second hour of the afternoon until about the sixth, in the lee of the north wall, with a lamp, and there are nine people in that barn and four of them at four houses and two of them are the man who did it and the woman who watched him do it, and neither of them is going to be all right.
 
 Here is what moved. Water, heat, and rootlight, and the three of them go together and you cannot have one without the other two for long, and it went down a living path — the scion's own extension, three-tenths of an inch a day and a quarter of what it should be, which was the only soft thing in that row — and it came back the way it came, and the whole of it took four hours and it was not a spell and it was not a light and it was not a voice and there was nothing in it anybody could afterwards describe except a pressure, and the pressure is the wrong word, and the man who did it entered the wrong word in his own book and then struck it out and entered the right one.
 
-The right one is flow. He moved flow, and it is the plainest thing in this book and the one that costs the most, and the only part of this chapter anybody will remember in four years is not any of the rest of it.
+The right one is flow. He moved flow, and it is the plainest thing anybody has ever done in that yard and the one that costs the most, and it is the only part of the thirteenth that anybody in this holding will remember in four years.
 
-He could not stop it by wanting to stop it. That is the first thing and it is the one he wrote first. He wanted it to stop at the fourth hour and it did not stop at the fourth hour and he was not able to make it stop by wanting, and he was in the middle of a pear tree in a walled yard four hundred miles from any water with a licensed man holding a lamp and a steward holding a page and both of them telling him in words to come off it, and he came off it at the sixth hour because he ran out of arm.
+He could not stop it by wanting to stop it. That is the first thing and it is the one he wrote first. He wanted it to stop at the fourth hour and it did not stop at the fourth hour and he was not able to make it stop by wanting, and he was in the middle of a pear tree in a walled yard four hundred miles from home with a licensed man holding a lamp and a steward holding a page and both of them telling him in words to come off it, and he came off it at the sixth hour because he ran out of arm.
 
 What it cost, in the order it happened, and this is entered from the licensed man's own book and not from the engineer's, because the licensed man's book is the one that goes in.
 
@@ -36,11 +36,11 @@ And then the last of the afternoon, which goes in the book as an hour and not as
 
 > That is in the book. It is in the book because it is the fact about the hour that is not about the arm, and it is the fact the reader of this body read out in a yard four hundred miles off on the fourteenth at about the ninth hour, and the man of about seventy said one thing about it, which is that it is the first recorded instance in this body's history of a man deciding to stop and being told to by somebody else, and that the somebody else was a licensed man holding a lamp, and that the fen entered the order of those two facts on purpose.
 
-And the downstream of it, entered in the ordinary words, on the fourteenth, at the fourth hour, by Lissa Vale, into the seed-route ledger, which is a book anybody may ask to have any line of read aloud, and which is the only book in this volume that anybody outside this household has ever asked to buy.
+And the downstream of it, entered in the ordinary words, on the fourteenth, at the fourth hour, by Lissa Vale, into the seed-route ledger, which is a book anybody may ask to have any line of read aloud, and which is the only book this holding owns that anybody outside this household has ever asked to buy.
 
-Merrid Ollvar keeps the well. It is a well two hundred yards down the slope, cut in pale rootwood with a stone windlass and a bucket on a rope, and she has kept it thirty-one years and she has a rule for it, and the rule is that she puts a stone on the windlass and marks the rope with a nail and reads the mark at the fourth hour of the fourteenth of every month, and the nail has been replaced twice and the number of the nail is in her own bad ledger.
+Merrid Ollvar keeps the well. It is a well two hundred yards down the slope, cut in pale rootwood with a stone windlass and a bucket on a rope, and she has kept it thirty-one years and she has a rule for it, and the rule is that she puts a stone on the windlass and marks the rope with a nail and reads the mark at the fourth hour on the sixteenth of every month, and she read it on the fourteenth as well because a man asked her to in front of witnesses and she said yes, and the nail has been replaced twice and the number of the nail is in her own bad ledger.
 
-> Well, Cauldron Reach, read at the fourth hour of the fourteenth of this month, by the occupier, by her own rule and her own nail, in the presence of the engineer of record and the licensed man and a member of this body: **five feet and a half.**
+> Well, Cauldron Reach, read at the fourth hour of the fourteenth of this month, by the occupier, by her own hand and her own nail and one day off her own rule, because a man asked her to in front of witnesses: **five feet and a half.**
 >
 > The same well, read at the fourth hour of the sixteenth of last month, by the same rule and the same nail: **nine feet.**
 >
@@ -54,27 +54,27 @@ Nobody argued about the figure. The man at the second house got the bucket and p
 
 "It is not a performance," said Lissa Vale. "It is a line in a book. There is no performance in it and there is nothing to watch. **You are going to be angry with him in about nine days and not today, and the reason is that today he cannot help you and there is nothing in him for you to have.**"
 
-And the two later readings of it are entered on the sixteenth and on the twentieth, in the seed-route ledger, in the ordinary words, and they are entered in the part of this volume that happens after this chapter is finished, and the fen has entered that it did not move them up here and did not leave them out.
+And the two later readings of it are entered on the sixteenth and on the twentieth, in the seed-route ledger, in the ordinary words, on the days they were taken, and the fen has entered that it did not move them up here and did not leave them out.
 
 ---
 
-The rest of the fourteenth was the recovery, and the recovery is not in the same chapter as the cost, and the fen entered that as a decision.
+The rest of the fourteenth was the recovery, and the recovery was not in the same day as the cost, and the fen entered that as a decision.
 
 He was worse at the sixth hour on the thirteenth than he was at the second. That is on the record, from Renner's book and from his own, and Lissa Vale read it back, and it is the sentence that the reader of this body read out in a yard four hundred miles off on the fourteenth at about the ninth hour with nine people standing there, and the man of about seventy said one thing about it and it is the only thing anybody said about the draw for a fortnight.
 
 "You will not be able to do it again for some time," the man of about seventy said, "and the time is not a figure and it is not a week, and I have watched two men and it was a season for one and the other one is a shelf of rootwood in the ground at this hour. So I would like the book to stop saying *can*, and start saying *when*, and I would like the when to be a number of days and not a word."
 
-And Tova Reed wrote the rule into the seed-route ledger on the fourteenth, in the ordinary words, and it is the standing of this body and it is the first rule this body has ever written about the engineer of record instead of about the ground, and it is four lines long and it is the reason nothing in this volume after the fourteenth can be done in a hurry.
+And Tova Reed wrote the rule into the seed-route ledger on the fourteenth, in the ordinary words, and it is the standing of this body and it is the first rule this body has ever written about the engineer of record instead of about the ground, and it is four lines long and it is the reason nothing this body does after the fourteenth can be done in a hurry.
 
 > Nothing is to be attempted again by the engineer of record until a person has asked him in a room, on a day, what is the matter with his arm, and he has said so in a room, on a day, and a licensed man has written it down.
 >
 > A number of days is not entered. A number of days would be a promise and a promise is the thing this fen has learned to write only against itself.
 
-And the twenty-fourth note of this volume is not the twenty-fifth and there is no note for the thirteenth, and the fen entered the reason, which is that a note under section nine is evidence of what this body intended and a man lying in a barn in a fever at the fourth hour intended nothing that anybody may act on.
+And the next note under section nine is not the twenty-fifth, and there is no note for the thirteenth, and the fen entered the reason, which is that a note under section nine is evidence of what this body intended and a man lying in a barn in a fever at the fourth hour intended nothing that anybody may act on.
 
 ---
 
-And the stage, entered plainly, because a later writer must not be allowed to find it in a summary and enlarge it.
+And the stage, entered plainly, because the fen does not want it enlarged by whoever reads the book after them.
 
 > **Stage three. First use. The thirteenth of this month, from about the second hour until about the sixth, in the lee of a north wall at Cauldron Reach, on a living path through a scion three-tenths of an inch a day, with a licensed man present with a lamp and a steward present with a page.**
 >

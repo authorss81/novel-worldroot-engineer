@@ -48,6 +48,8 @@ Months run thirty days. **Days 151–180 are the sixth month and days 171–180 
 
 **Day 180 is the thirtieth and is the last reading day of the month under the fen's own rule — the first, the middle and the last. Ch 113 crosses that boundary and it is the batch's spine.**
 
+**Two dates were settled by the Batch 0001 fix pass and are now fixed, not open. First, the day on the buying paper is the seventeenth of next month, day 187, which is the first day of Ch 117** — the batch's first draft said the eleventh in eight places and the day-counts around it were mutually contradictory, and the seventeenth is the only date that agrees with this card. **Second, Merrid Ollvar's rule for the well is a nail mark read at the fourth hour on the sixteenth of every month**; the fourteenth of last month was an extra reading asked for by Marek Vale in front of witnesses, and the nine-foot figure is the sixteenth of last month, day 136. Neither may be re-dated in this batch, and Ch 117's buyer arrives on the day on his paper.
+
 **How a past day is named inside a scene on days 171–190:** days 1–30 are *a month five months back*; 31–60 *four months back*; 61–90 *three months back*; 91–120 *two months back* or *last month*; 121–150 *last month*; 151–170 *last month* or *of last month*; 171–190 *of this month*, *the first*, *the second*, or the bare ordinal. **October is the first month and is named nowhere.**
 
 **Three weekday statements a reviewer may check against:** the compost line entered on the first of next month (Tuesday); the four days down the plateau road, which the party begins on the seventh and which end on the eleventh (Monday to Friday); the last reading of the well house door on the thirtieth (Wednesday).
@@ -97,7 +99,7 @@ Months run thirty days. **Days 151–180 are the sixth month and days 171–180 
 
 **Goal:** the month's first business, done in a yard with three people in it, and the finding that the fen has been running a rule it cannot keep.
 
-**Must happen.** **The first of next month, at the eleventh hour, in the fen, with three people in the yard** — because the party came down the plateau road on the eleventh of last month and this is the first of a month and the examination is due and the compost line is due and **both are due on a day when the fen is whole for the first time since the sixth of last month.** Gael Senn keeps the examination. Nobody was in the yard for the middle reading and the count went to twenty-two anyway, and that is entered again because it is the standing.
+**Must happen.** **The first of next month, at the eleventh hour, in the fen, with three people in the yard** — because the party came down the plateau road on the eleventh and this is the first of a month and the examination is due and the compost line is due and **both are due on a day when the fen is whole for the first time since the sixth of last month.** Gael Senn keeps the examination. Nobody was in the yard for the middle reading and the count went to twenty-two anyway, and that is entered again because it is the standing.
 
 **The leak, first.** The fourteenth of last month came and went and it was not measured. Write whichever of the two entries above this batch uses, with the hour and her name on it, and **let it cost her standing** — she is the person who measures it and nobody asked her to keep measuring it and she did anyway, and this month she did not, and the fen has to hold both halves of that.
 
