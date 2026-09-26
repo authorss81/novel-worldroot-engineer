@@ -86,6 +86,6 @@ The copies went up the fen road on the seventh and one of them was nailed to the
 
 Six crates are in eleven plots. Six crates are in a barn on this fen, under four inches of green in soil, in six trays, in a bed at three and a half degrees, and the sowing closed on the twenty-ninth of last month and the ground is not going to be turned again until spring, and the difference between the six that travelled and the six that did not is a date on a piece of paper, and everybody in this yard knows it, and one of them has entered the knowing, and the knowing is not in capitals.
 
-The entry about the two sheets and the stone was read aloud in the yard on the seventh, twice, and a person read it back after Lissa Vale, and the person was the man of about fifty, who had voted against the book four days ago and who read it in a slow careful voice and then said one sentence, which Dunmar Fitch entered and which is the last thing that man said in this batch.
+The entry about the two sheets and the stone was read aloud in the yard on the seventh, twice, and a person read it back after Lissa Vale, and the person was the man of about fifty, who had voted against the book eight days ago and who read it in a slow careful voice and then said one sentence, which Dunmar Fitch entered and which is the last thing that man said in this batch.
 
 "She has got a stone on a piece of paper she cannot read," he said, "and that is worth more than the six crates, and I am not going to pretend I know what it is worth, and I would like the fen to be careful about how pleased it is."

@@ -10,7 +10,7 @@ On the Sunday, Lissa Vale read the schedule out in the yard at the tenth hour, w
 
 "This is not one of those days," said Dunmar Fitch.
 
-"No," said Lissa Vale. "It is not, and I am doing it, and I am entering that I did it and why, and the why is that a man with a chalk cart stood at this gate four days ago and asked me a question about a column, and there is no reason on this earth for that to be the last time anybody in this district asks me a question about a column, and I would rather be the woman who reads it out on a Sunday for nobody than the woman who was asked twice."
+"No," said Lissa Vale. "It is not, and I am doing it, and I am entering that I did it and why, and the why is that a man with a chalk cart stood at this gate five days ago and asked me a question about a column, and there is no reason on this earth for that to be the last time anybody in this district asks me a question about a column, and I would rather be the woman who reads it out on a Sunday for nobody than the woman who was asked twice."
 
 She read the whole of it. The title, the seven columns, the declared figure, and then the measured figure, which is under the declared figure, in her own hand, and the reason, which is in her own hand, and the route line, which says that the road holds at the first break and does not hold at the second. And the seventh column, which has a line in it, and the line is a sowing, and there is no name at the far end of the seventh column and there never will be.
 
@@ -36,9 +36,9 @@ On the Monday the closing entry was made, and it is the last entry of this seaso
 
 *And the notice of the second is on the well house door, on the left of the schedule, in four lines, correct.*
 
-The Crown's answer came on the Tuesday, on the office's paper, and it was correct, and it took four days over four months, and it is four paragraphs and a signature by a clerk whose name was entered in the book with the hour.
+The Crown's answer came on the Tuesday, on the office's paper, and it was correct, and it took four days over four weeks, and it is four paragraphs and a signature by a clerk whose name was entered in the book with the hour.
 
-*Water-supply bylaw, second part. Schedule check of a route. To the holder of a node at Lantern Reach, or to any body having correspondence with that holder. In answer to a return of the fourteenth of a month two months back, to a form of the nineteenth of that month, and to a schedule received on the twenty-fifth of that month. Four points.*
+*Water-supply bylaw, second part. Schedule check of a route. To the holder of a node at Lantern Reach, or to any body having correspondence with that holder. In answer to a return of the fourteenth of last month, to a form of the twenty-first of last month, and to a schedule received on the twenty-fifth of last month. Four points.*
 
 *One. The seed-route sheet of this district is compiled for the use of seed holders and traders, states on its own face that it is not a survey, and is not amended on the statement of a holder. It is revised on a cycle. This office does not fix the cycle and cannot say what it is.*
 
@@ -54,7 +54,7 @@ Nobody in that yard was pleased with it and nobody in that yard was angry with i
 
 "Point three," said Anneke Roos, from the doorway. "Point three is the whole of what is coming and it is coming in about a month, and there is no form in this district for the class of thing it is going to describe, and when the terms come they will name a rate, and a rate is a number, and this holding owes seventy-nine pounds sixteen a month for compost and will be asked for a number on a road as well." She came further into the yard than she usually does. "I want the whole of this entered and I want the first paragraph of it read back twice, and then I want somebody to say out loud what point three is, because everybody in this yard has read it and nobody has said it."
 
-"Point three," said Tova Reed, "is the answer to a question I asked on the sixth of last month without knowing that I was asking it. I told a district office in writing that this holding is a holder of a line on ground the district maintains. I have been afraid for eleven weeks that the answer would be a form. It is not a form. It is a class of use, and a class of use is a thing that can be taxed and refused and appealed, and it is a thing that exists, and it exists because I put a holder on a piece of paper and went up a road, and I would like it entered that I have said that in this yard, and that I am not going to be told I could not have known, because I could have known and I sent it anyway."
+"Point three," said Tova Reed, "is the answer to a question I asked on the fourteenth of last month without knowing that I was asking it. I told a district office in writing that this holding is a holder of a line on ground the district maintains. I have been afraid for eleven weeks that the answer would be a form. It is not a form. It is a class of use, and a class of use is a thing that can be taxed and refused and appealed, and it is a thing that exists, and it exists because I put a holder on a piece of paper and went up a road, and I would like it entered that I have said that in this yard, and that I am not going to be told I could not have known, because I could have known and I sent it anyway."
 
 The clerk entered the four points entire, and the signature, and the hour, and the sentence about a class of use, and Lissa Vale read the whole of it back twice and did not put a single line of it into any other book, and Anneke Roos initialled it as an opinion.
 

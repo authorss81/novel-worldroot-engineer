@@ -4,6 +4,8 @@
 
 **This prompt was written in the phase that drafted Batch 0004 and is stored inside the Batch 0004 phase directory because that phase was instructed to create no directory for Batch 0005. Move it to `workspace/volume-02/batch-0005/PROMPT.md` when the phase that runs it creates that directory, and do not draft it twice.**
 
+**A verification pass ran over Batch 0004 after it was drafted and repaired four concrete defects in place: Chapter 84's vote contradicted its own tally, Chapter 87's distance back to that vote was short by four days, and Chapter 88's Crown letter cited a return on the wrong day and carried three intervals that reconciled with nothing. All four are itemised in `state/continuity.md` under *Repairs made to the drafted Volume 02 Batch 0004 on a verification pass*, and the charter's expiry is dated throughout as the twenty-ninth of last month. The batch is 33,104 words across twelve chapters, range 2,598–3,116.**
+
 ---
 
 ## Read first, in this order
@@ -70,7 +72,7 @@ A cart is stopped, or a cart is not stopped, and the toll is collected in the on
 
 ### 96 — The Arrangement That Is Not A Charter
 **Days 144–145, the twenty-fourth and twenty-fifth, Wed–Thu.** *The concrete resolution, and it is not a win.*
-**The conditional charter lapsed on the twenty-ninth of a month two months back and a different arrangement is put in its place that is not a Crown charter, with a date, a condition, and a right to leave** — and the writer must make clear that this is a local arrangement between a body with no standing and a settlement with no standing, and that **nothing about it is enforceable by anybody and that is its only merit and its whole point.** The exchange survives. The ledgers are public. A copy may be taken. **The sixty pounds ten stands, not paid, not remitted, not reduced, and the file stays open and the Directorate's reservation stands.** Change: **the fen has an arrangement and not a charter, and every party to it can walk away on a day's notice without a reason, and the volume's resolution is that a thing nobody can enforce is the only kind of thing that can be refused.**
+**The conditional charter lapsed at midnight on the twenty-ninth of last month and a different arrangement is put in its place that is not a Crown charter, with a date, a condition, and a right to leave** — and the writer must make clear that this is a local arrangement between a body with no standing and a settlement with no standing, and that **nothing about it is enforceable by anybody and that is its only merit and its whole point.** The exchange survives. The ledgers are public. A copy may be taken. **The sixty pounds ten stands, not paid, not remitted, not reduced, and the file stays open and the Directorate's reservation stands.** Change: **the fen has an arrangement and not a charter, and every party to it can walk away on a day's notice without a reason, and the volume's resolution is that a thing nobody can enforce is the only kind of thing that can be refused.**
 *Ends on:* **the arithmetic of the graft, entered in a hand somebody in four years will be able to check, and the fact that it is about to be starved and the starving is still not visible from the top of the field.**
 
 ### 97 — A Useful Engineer

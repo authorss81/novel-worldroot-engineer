@@ -42,7 +42,7 @@ Marek Vale was one of them, and he put his own name against his own vote, the se
 
 "So the only reason left is that we have got used to it. And I would rather be found out in a year than have it found out in five, and I am putting my name against this and I would like Lissa to read it back, because she is the reader."
 
-Lissa Vale read it back, and she did not soften a word of it either, and she voted against, and there it was: the reader of the book, against keeping the book.
+Lissa Vale read it back without softening a word, and then voted to keep it, and there it was: the reader of the book, reading a man's vote against it aloud in a yard and putting her own hand up.
 
 Jonas Byre was the second, and his objection was not about the book, it was about the sixth item, and it was the best objection in the yard, and it was against the trust, and Tova Reed heard it and did not answer it.
 
