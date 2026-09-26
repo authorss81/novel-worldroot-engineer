@@ -1580,3 +1580,83 @@ Batch 0004 added eleven things by drafting. All are local detail, mechanisms, fo
 11. **Two new people in the seed house's own orbit who are not members: Wenna Roke and Wil Tam.** Recorded here and not in the crew list, and the crew is unchanged at eight names of which two are held by function.
 
 **None of the eleven changes a world rule, a power rule, a relationship lock, or the ending.** The ending is untouched: Chancellor Iona Vey remains the final antagonist, the Rootway is not a mind, the rootmark is one and permanent and no second appears, and the volume's question — **who altered the maps and the seed records enough to make a bridge between this fen and the dry Salt March legal, and who was paid for the alteration** — is still unanswered. **What this batch added to the shape and not to the content is a name, a count of eleven, a keeper who cannot read a form, a form with a six-digit box that cannot be filled in, a class of use, a cutting sheet, and a seed-route bridge that is a fifth of what it announced. A name and a class of use are not a map, a printer and a reason.**
+
+# VOLUME 02 — BATCH 0005, CHAPTERS 89–98, MOVEMENT 5
+
+**Volume 02, *The Graft Market*. Ten chapters, Movement 5, *The Tax On A Bridge*. The volume's outline is `outline/volume-02.md`. Its governing prompt is `workspace/volume-02/batch-0005/PROMPT.md`, carried from Batch 0004 without redraft. Volume 01 is closed. Volume 02 Batches 0001–0004 are closed. Nothing below reopens any of them. Chapters 89–98 were found drafted on disk with the prompt and are adopted after verification; one length repair to Ch 96 and no plot change.**
+
+## Volume 02 Batch 0005 day clock, confirmed against the drafted chapters
+
+Ch 89 days 130–131 (**Wed the tenth, Thu the eleventh**) · Ch 90 days 132–133 (Fri the twelfth, Sat the thirteenth) · Ch 91 days 134–135 (Sun the fourteenth, Mon the fifteenth) · Ch 92 days 136–137 (Tue the sixteenth, Wed the seventeenth) · Ch 93 days 138–139 (Thu the eighteenth, Fri the nineteenth) · Ch 94 days 140–141 (Sat the twentieth, Sun the twenty-first) · Ch 95 days 142–143 (Mon the twenty-second, Tue the twenty-third) · Ch 96 days 144–145 (Wed the twenty-fourth, Thu the twenty-fifth) · Ch 97 days 146–147 (Fri the twenty-sixth, Sat the twenty-seventh) · Ch 98 days 148–149 (**Sun the twenty-eighth, Mon the twenty-ninth**).
+
+**The batch runs days 130–149 with no gap and no overlap. Day 129 was the ninth, a Tuesday, Batch 0004's last. Day 150 is the thirtieth and the closing of the sowing and falls after the batch. Every weekday follows from day 121 = the first = a Monday, locked in Batch 0004. The three checkable statements are the terms arriving Wednesday day 130, the first toll Friday day 139, and the far-end refusal Tuesday day 143.**
+
+**No month is named anywhere in Chapters 89–98 and no document carries one.** October is five months back by day 130 and is named nowhere. Days are dated by ordinal, *of this month*, or bare number where fixed.
+
+**Distances checked:** ninth (129) to tenth (130) one; twenty-ninth last month (119) to tenth (130) eleven — charter expired eleven days before terms; fourteenth last month (104) to tenth (130) twenty-six; eighteenth (138) to twenty-eighth (148) ten; ninth (129) to twenty-second (142) thirteen; ninth (129) to twenty-ninth (149) twenty. **The prompt's own error — *tenth of last month (119)* — is used as *twenty-ninth of last month* throughout.**
+
+### The March's tin is *day minus nineteen*, unbroken
+
+day 130 = 111 · 139 = 120 · 149 = **130**. Unmoved in press under ledger, bed three and a half degrees, both undertakings standing. **At 130 days it is entered as fact.** Dry line four inches in six trays on fen, sown before sowing closed on twenty-ninth last month, seed off it to Cray weighed signed at two ends — only return seventh column ever held.
+
+## Numbers and records established in Chapters 89–98
+
+| Fact | Value | Established |
+|---|---|---|
+| **Class of use 4** | carriage of seed in crates over district-schedule ground between keeper and keeper from node in district book; four parts; head number four digits, foot six, box for holding number | Ch 89 |
+| **Rate** | fourpence the crate on declared capacity; declared thirty = 120d = ten shillings = **one shilling a month**; measured six = 24d = two shillings; **difference eightpence entered not claimed not to be asked for** | Ch 89, 90, 93 |
+| **133 years** | shilling buys quarter hundredweight at four shillings; 399 gap closes in 133 years at that rate, read twice | Ch 89, 90 |
+| **Rate/bill/debt** | rate not bill, bill not debt, difference is who can ask the question; rate on top of levy; paid out of tin nine to eight | Ch 90, 93 |
+| **Seed-route ledger** | second book begun thirteenth, rule anybody may ask reader anybody who comes; nineteen pages by twenty-eighth; first entry entire; only book outsider ever asked to buy | Ch 90, 98 |
+| **Conditional-use clause (Crown)** | operator keeps declared capacity ordinary course, produces record of route on request; operator = occupier of first-end node | Ch 91 |
+| **Record of route (fen)** | schedule on door + ledger on table produced any person any hour; own book is record of body not produced; one line inside seed-house door sixteenth | Ch 91 |
+| **Refusal clause (fen)** | person in occupation at either end may refuse a use ordinary way by saying so to carrier; asked twice say again; no reason none entered; holds from hour said; no appeal no office can say otherwise; names nobody no signature; readable aloud copyable including blank; on same sheet under seven columns same four nails holes showing | Ch 92 |
+| **Draft struck** | first sentence defining use struck by steward; clause with no object untestable binds writer cannot be waived taxed defeated; price any of eleven households/plots/child can stop route forever | Ch 92 |
+| **First toll** | Hedd Marlow appointed at gate eighteenth; one shilling month not per crossing; counted on step before two people read aloud; receipt with use number in holding box; not on door; in ledger + own book as toll | Ch 93 |
+| **Five of him** | if route carried 500 five collectors ordinary course, offered unasked entered as fact not threat | Ch 93 |
+| **Renner's use** | eleven loads lime/stone to low quarter, second break made good eleven pounds, eleven out eleven back crate by crate, fourpence hundredweight, day's notice stop, not keeper but cart, leaves return column alone | Ch 94 |
+| **Why fen cannot refuse** | declared thirty vs measured six already non-compliance; fen refusing = operator not operating = failure of Crown condition; district not party; only far end with nothing enforceable can refuse | Ch 94, 95 |
+| **Dry-end refusal** | twenty-second at thorn fence by occupier against eleven carts; fact not terms third of season first used; terms held by nobody — not by Renner at own request, not by two at ninety feet under rule; route smaller by one use, break not made good, low quarter four wells off, no person says wrong | Ch 95 |
+| **Two documents** | four numbered sheets say use rateable; one fen paragraph says hoe can stop; Crown defines use not refuser, fen defines refuser not use | Ch 95 |
+| **Arrangement** | five clauses + heading: route to low dry not beyond, honors Crown shilling schedule+ledger produced; measured under declared same hand every month; either end stops day's notice; copy takable this end no third sent — no fifth sheet; term to thirtieth then new writing or stop not failing; nothing enforceable heading with Anneke's kept lie; rate applies to route arrangement not use unless office says in writing then fen pays on own document | Ch 96 |
+| **Graft arithmetic** | designed 400, short 399 seventy-nine sixteen fourth month; nineteen acres green Longneck leaning eleven degrees; fed twentieth true none; starving not visible from top; sixty pounds ten not paid not remitted not reduced file open reservation stands | Ch 96, 98 |
+| **Two letters 26th** | district post engineer seed routes three pounds month box seal counter-signature deliver annex + eleven years — refused one line Thursday same as door; printer second printing/ledger pamphlet three men asked number not truth price on next in body favor is chain | Ch 97 |
+| **Readable position** | sixth Tova entry against interest stopped counting; readable position not virtue nobody thanked cannot be | Ch 97 |
+| **Ownership answer** | claim on thing you cannot make again, method takable watching four times, nothing owned bean/March/flowerpot only line in book; you own seed I own root cannot same hand; in four years printer decides who checks book; entered not answered neither thanked third time | Ch 97 |
+| **Cart twice** | past gate twice season twentieth + twenty-seventh loaded lashed Nia's way not stopped count entered reason not not asked not written | Ch 94, 97, 98 |
+| **Final ledger** | three books out twenty-eighth for Cray copy; drawer shut levy rent sealed letter since nineteenth three seasons back unopened undiscussed; bay eighty-three days not full; fence no gate eleven plots six crates wrong bean two stones two sheets; two ends no charter book unsigned middle shilling on five-times true under | Ch 98 |
+| **Volume question** | who changed maps + who paid — shape seven things class/kept-off name/cutting sheet/sixth road/hole form/fourpence toll/recognized hand/printer; none is map printer reason; tomorrow sowing closes we do not know | Ch 98 |
+
+## Section-nine notes: eighteenth to twenty-first
+
+Thirteen at Batch 0003 → fourteen–seventeen Batch 0004 → **eighteenth** Ch 90 (twelfth) → **nineteenth** Ch 92 (seventeenth) → **twentieth** Ch 96 (twenty-fifth) → **twenty-first** Ch 98 (twenty-ninth). 18 argument carries sentence; 19 argument carries sentence; 20 **record sentence off with reason**; 21 argument carries sentence. **Stands on seventeen of twenty-one, off sixth eighth sixteenth twentieth — all four records with reason underneath.**
+
+## Fieldbook panel: unspent for Batch 0005
+
+**No panel spent.** Reason entered: prompt's obvious place Ch 92 at refusal clause is a trap — fen clause must be checkable, panel says uncheckable in three lines no man can check; tax rate toll letters Wrenlow table argument none needed it. Volume 02 allowance one per batch: Batches 0001 0002 0003 0004 spent (Ch 57, 63, 73, 82), **Batch 0005 unspent and volume allowance now closed.** No character quotes any panel as authority. Use log stays twelve lines, contacts never readings. No fieldbook log ever and none supplied. Fieldbook unopened this year.
+
+## Stage and contact accounting after Batch 0005
+
+Marek **Stage 2 Grafthand unchanged.** One rootmark four inches branching twice permanent (Ch 57). Two–three links fourth fails. Cannot draw no bead no anchor no bridge above local conduit no seedheart no caretaker no deep archive touchroot unreliable. No collar contact this batch. **Series contract Stage 3 at Ch 99.** No draw no return by rootlight anywhere Volume 02.
+
+## Repairs on adoption
+
+Ch 96 was **3,171 words, 51 over 3,120 ceiling.** Trimmed 108 words by cutting restatement not scene/vote/refusal/broker: hands-behind-him line, beat monthly speech tail, fourth-month hope tail. Now **3,063**. Batch **28,755 words, range 2,619–3,063**, every chapter inside 2,550–3,120, inside 27,000–30,000 band. No other prose changed.
+
+## New locks from Batch 0005 (volume-closing)
+
+- Toll paid entered in two books as toll; operator standing fact in two books; last unserveable thing lost.
+- Refusal clause fen's own on own door Crown cannot amend waive tax; proved by one use not argument; Crown terms contain no refusal and none defeats.
+- Arrangement not charter date condition right to leave; every party walks day's notice; unenforceable except hoe; survives as commons public ledgers copyable refusal used once.
+- Sixty pounds ten stands not paid not remitted not reduced file open reservation stands.
+- Third condition still unnamed unguessed unwritten-for; test date gone.
+- Seed-route bridge and nothing above; no regional caretaker anchor seedheart archive draw rootlight.
+- No romance nothing tender; ownership not settled neither concedes.
+- Nia cart twice not stopped nobody asks nobody writes why; letter sealed drawer unopened undiscussed six batches ~hundred days.
+- Sera not asked Brinewake not in batch fourth refusal unnumbered; first licensed witness Renner still not Sera.
+- Pulse thirteenth logged cause not established nothing under; leak five-eighths seventh hour unmended unmystery; 399 fourth month not discharged; schedule never produced layer not entitled; Thornwild unnamed long line untouched seat absent; bypass unbuilt men not back; collie uninterrupted weir not returned low map unopened; Lissa unforgiven unthanked reader anybody who comes; Wenna thirty-nine cannot read never signed name off everything only refuser; readable position not virtue; intervals checkable or not said eleven weeks only day 52.
+- Ending untouched no new final enemy.
+
+## Proposed canon changes — Batch 0005
+
+Two required by prompt, both local instruments not world rules: (1) **local arrangement between bodies with no standing** — date condition exit unenforceable except hoe; (2) **refusal clause with no object** — untestable binds writer copyable. Neither changes power relationship ending. Recorded not silently applied.

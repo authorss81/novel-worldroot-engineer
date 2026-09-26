@@ -540,3 +540,31 @@ All eight Volume 01 threads stand unchanged. **The pressure pulse is logged twel
 - **Length: 33,202 words across twelve chapters by `wc -w` over the chapter files including their chapter headings, and 2,626–3,119 per chapter.** *(33,104 and 2,598–3,116 were the figures after the first verification pass and are superseded by the review pass; see `reviews/volume-02-batch-0004.findings.md`.)* That is inside the 31,000–34,000 band this batch's prompt sets, and every chapter is inside the 2,550–3,120 band. **Ch 84 is the one chapter within one word of a ceiling at 3,119 and a later writer must not lengthen it; Ch 86 is next at 2,916 and Ch 78 at 2,788, and the other nine are between 2,626 and 2,771.** **Chapter 84 was over 3,600 in the first draft and was cut by about five hundred words before the batch was finished, by cutting restatement the chapter had already made — the four pro-votes, the broker's speech and the reading of the nine items — and not by cutting a scene, a vote, a refusal or a broker.**
 - **Staging was moved three times on purpose, and the seed-house table is not the batch's home.** **Chapter 79 is at the Fennmere counter and its whole second half happens in a yard nine miles off this fen's ground. Chapter 81 is on a road, out past the eleventh mile, and its second half is at a break in the ground. Chapter 83 is at Wrenlow and is the first scene in Volume 02 off this fen's ground.** Chapter 85's examination is at the well house and its report goes up on a cart. **The well house door is used as a physical place five times — the schedule goes up on it, the objections are read at it, the capacity is measured at it, the notice is nailed beside it, and the seventh column is read at it.** Six of the twelve chapters sit at the seed-house table, which is the same proportion as Batch 0003 and two fewer than Batch 0002's eight of nine.
 - **The review of this batch is done, its findings are at `reviews/volume-02-batch-0004.findings.md`, and they have been applied. The next phase writes Chapters 89–98, Movement 5, *The Tax On A Bridge*, ten chapters, **and the prompt for it is `workspace/volume-02/batch-0004/NEXT-PROMPT.md`, because Batch 0004 was instructed to create no directory for Batch 0005 — it must be moved to `workspace/volume-02/batch-0005/PROMPT.md` when the Batch 0005 phase creates that directory, and it must not be drafted a second time.** It opens on day 130, the tenth, one day after this batch's last and eleven days after the charter expired, and it opens on a class of use.**
+
+## State after Volume 02 Batch 0005 (Chapters 89–98, days 130–149) — VOLUME 02 COMPLETE PENDING CLOSE
+
+**Movement 5 taxed the bridge and made its use conditional without a villain.** Terms class 4 fourpence on thirty one shilling paid at gate to appointed man entered as toll in two books; measured six under declared entered not claimed; conditional operator keeps declared produces schedule+ledger not book; fen refusal clause anybody at either end no reason no appeal copyable on same sheet used once by far end against eleven lime carts; arrangement five clauses to thirtieth unenforceable except hoe; post three pounds refused one line; printer second ledger asked number not truth; ownership claim vs method not settled; ledger three books for Cray; volume question named plainly with seven-shape answer left standing.
+
+### Clocks the close must carry to Volume 03
+
+| Clock | Stands | Owes |
+|---|---|---|
+| **Arrangement term** | to thirtieth (150), then new writing or stop not failing | Volume 03 opens after sowing closes; route either renewed or stopped without reason |
+| **Rate** | shilling a month ongoing, eightpence not claimed | Payable monthly; measured under declared must stay |
+| **Ledger/copy to Cray** | three books Thursday copy | First complete route copy out of fen |
+| **Tin 130 days** | unmoved bed 3.5 both undertakings | Dry line return to Cray autumn |
+| **399 fourth month** | carried not discharged | Entered first next month same/different words |
+| **Leak five-eighths / beat thirteenth** | measured seventh hour / logged rail none under | Standing engineering + undiagnosed, neither mystery |
+| **Sixty pounds ten / file / reservation** | not paid not remitted not reduced / open | Unchanged into Volume 03 |
+| **Third condition** | untested unowned unnamed test gone, fen will not write | Described at examination to whoever holds node |
+| **Volume question** | who altered maps + who paid, shape seven content nowhere | Volume 03's investigation, not answered here |
+
+### Carried forward unchanged
+
+Eight Volume 01 threads as after Batch 0004 plus Volume 02 shape: pulse undiagnosed; third exchange missing with gone test; schedule/layer unproduced not entitled; unnameable settlement + seat absent + long line untouched; collie uninterrupted map unopened envelope sealed Nia cart twice unstopped unasked Sera fourth unnumbered; leak unmended 399 undischarged bypass unbuilt; class/refusal/arrangement/toll/sixty/letters now closed facts a later chapter may not undo.
+
+### Phase handoff, Batch 0005 → Volume 02 close
+
+- Chapters 89–98 in `workspace/volume-02/batch-0005/`, summaries in `state/chapter-summaries.md`, day clock numbers forms refusal arrangement stage panel notes locks in `state/continuity.md` under *VOLUME 02 — BATCH 0005*.
+- Length 28,755 range 2,619–3,063 inside bands; Ch 96 trimmed 108 words; no panel spent; notes eighteen–twenty-one counted sentence off twentieth only.
+- Next phase is **Volume 02 close, not prose.** Prompt at `workspace/volume-02/volume-close/PROMPT.md`. No chapters beyond 98.
