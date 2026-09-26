@@ -531,7 +531,7 @@ The Ashcombe winter issue arrives at the fen as the Fennmere post's own copy, le
 
 # VOLUME 03 — THE CLOSE, CHAPTERS 99–147
 
-**Forty chapters were touched by the volume audit and nine were not. Nothing below is a change of scene, speech, beat, name, date of a scene, or figure's referent: twenty-three word-level repairs in seventeen chapters, a closing quotation mark at the end of 174 paragraphs in thirty-five chapters, and twenty-four words taken out of Chapter 138 to pay for two of them. The nine untouched chapters are 106, 108, 136, 139, 140, 141, 142, 145 and 147, and their entries above stand exactly as written. The full record, the reasons, the two defects this close was handed and the nineteen findings it deliberately did not repair are in `state/continuity.md` under *VOLUME 03 — THE CLOSE*, and the close-up is `reviews/volume-03.findings.md`. Volume 03 after the pass: 142,952 words, range 2,620–3,119, every chapter inside 2,550–3,120, the longest chapter at 3,119 reached twice, by Ch 123 and Ch 136, and the shortest Ch 106 at 2,620.**
+**Forty chapters were touched by the volume audit and nine were not. Nothing below is a change of scene, speech, beat, name, date of a scene, or figure's referent: twenty-three word-level repairs in seventeen chapters, a closing quotation mark at the end of 174 paragraphs in thirty-five chapters, and twenty-four words taken out of Chapter 138 to pay for two of them. The nine untouched chapters are 106, 108, 136, 139, 140, 141, 142, 145 and 147, and their entries above stand exactly as written. The full record, the reasons, the two defects this close was handed and the nineteen findings it deliberately did not repair are in `state/continuity.md` under *VOLUME 03 — THE CLOSE*, and the close-up is `reviews/volume-03.findings.md`. Volume 03 after the pass: 142,952 words, range 2,620–3,119, every chapter inside 2,550–3,120, the longest chapter at 3,119 reached four times, by Chs 108, 118, 123 and 136, and the shortest Ch 106 at 2,620.** *(The close first wrote *reached twice, by Ch 123 and Ch 136*. Corrected at the review of the close.)*
 
 ### Chapters repaired in wording, and one figure or one frame each
 
@@ -581,4 +581,16 @@ The Ashcombe winter issue arrives at the fen as the Fennmere post's own copy, le
 - **132** — two marks.
 - **134** — two marks.
 
-**Thirty-five chapters, 174 marks, all in Batches 0001 to 0004, none in Batch 0005. Quotation marks are now even in all forty-nine files and no paragraph in any of the forty-nine ends with a speech open, which is the first time in the manuscript that a volume has closed with that property in every batch.**
+**Thirty-five chapters, 174 marks, all in Batches 0001 to 0004, none in Batch 0005. No paragraph in any of the forty-nine ends with a speech open, which is the first time in the manuscript that a volume has closed with that property in every batch.** *(The close also wrote *quotation marks even in all forty-nine files*. That is not a property this volume has and the even/odd count is not a test of this manuscript's convention: the closing paragraph of a speech over paragraphs carries the close without opening, so a chapter built on one can hold an odd number of marks. Corrected at the review of the close.)*
+
+## Volume 03 — the review of the close, and the four chapters it touched
+
+**Four chapters, one character removed from the end of one line each, and nothing else. No scene, speech, beat, name, date of a scene, or figure's referent is altered anywhere.**
+
+- **123** — `:77`, the closing paragraph of a speech carried over paragraphs, ended `.**""`. The close's quotation pass had appended a second mark to a paragraph that already carried its close. **One `"` removed; the line ends `.**"` as it did before the pass.**
+- **126** — `:89`, the same defect, the same one character.
+- **127** — `:55`, the same defect, the same one character.
+- **128** — `:67`, the same defect, the same one character.
+
+**Ch 118 was named by the review and not touched.** Its *the sixteenth of a month two months back* is correct: the referent is day 136, and 9 feet less 5 feet 2 inches is the 3 feet 10 inches that sentence states, where day 166 read 5 feet 5 inches. **The volume is unchanged at 142,952 words across forty-nine chapters and 450,792 across the manuscript, the range 2,620–3,119, and the ceiling of 3,119 is reached four times, by Chs 108, 118, 123 and 136.** The full record, including the three corrected figures and the declined finding, is in `state/continuity.md` under *VOLUME 03 — THE REVIEW OF THE CLOSE* and in `reviews/volume-03.findings.md` § 9.
+

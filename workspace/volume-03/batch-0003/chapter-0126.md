@@ -86,7 +86,7 @@ And then the second week of the keep, which Anneke Roos entered on the morning o
 
 "Second week," she said, at the bench, with the pen. "Same figure. Not voted on. Nobody asked for it and nobody refused it, and I am entering that there was no vote and that nobody proposed one, and that the reason there was no vote is that there is nothing to vote about. It is a bed and a room and a stove at the end of a corridor and there is no argument in any of it."
 
-And I am going to say the thing I have said twice this fortnight and I am not going to say it a third time, and the reader can read it back or not read it back: **that woman asked for no fee and this body is paying her anyway, and both halves of that are in the same book, and the fen does not get to be only one of them.**""
+And I am going to say the thing I have said twice this fortnight and I am not going to say it a third time, and the reader can read it back or not read it back: **that woman asked for no fee and this body is paying her anyway, and both halves of that are in the same book, and the fen does not get to be only one of them.**"
 
 ---
 
