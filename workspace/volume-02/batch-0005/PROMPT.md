@@ -2,7 +2,9 @@
 
 **Phase: write a prose batch. Chapters 89–98, ten chapters, Volume 02 Movement 5, *The Tax On A Bridge*. This is the last prose batch of Volume 02, and Chapters 93–96 are the volume's climax and Chapters 96–98 its concrete resolution. Chapters 99 onward are Volume 03 and are not this phase's business.**
 
-**This prompt was written in the phase that drafted Batch 0004 and is stored inside the Batch 0004 phase directory because that phase was instructed to create no directory for Batch 0005. Move it to `workspace/volume-02/batch-0005/PROMPT.md` when the phase that runs it creates that directory, and do not draft it twice.**
+**This prompt was written in the phase that drafted Batch 0004 and was carried inside the Batch 0004 phase directory because that phase was instructed to create no directory for Batch 0005. It now lives here, at `workspace/volume-02/batch-0005/PROMPT.md`, and it was not drafted a second time. It remains the governing prompt for the batch below and its cards are unchanged.**
+
+**One error in its own day table is recorded here so the writer does not repeat it: the row reading *the tenth of last month (119) → the tenth (130) = eleven days* has the wrong label. Day 119 is the twenty-ninth of last month, not the tenth. The interval of eleven days is correct and the charter expired eleven days before the terms arrived. Use the label *the twenty-ninth of last month*.**
 
 **A verification pass ran over Batch 0004 after it was drafted and repaired four concrete defects in place: Chapter 84's vote contradicted its own tally, Chapter 87's distance back to that vote was short by four days, and Chapter 88's Crown letter cited a return on the wrong day and carried three intervals that reconciled with nothing. All four are itemised in `state/continuity.md` under *Repairs made to the drafted Volume 02 Batch 0004 on a verification pass*, and the charter's expiry is dated throughout as the twenty-ninth of last month. The batch is 33,104 words across twelve chapters, range 2,598–3,116.**
 
