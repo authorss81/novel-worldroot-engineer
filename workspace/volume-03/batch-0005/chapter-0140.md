@@ -4,7 +4,7 @@
 
 Nine hundred miles from the fen road there is a counting house, and the counting house has a room with a long table in it, and on the twenty-third of this month, at about the fourth hour of the afternoon, there were about nine people in the room and one question on the table.
 
-The counting house is Cray. **Four sets of this body's records are in that building and have been for years, and a hand goes into it, and nobody at a bench in a fen nine hundred miles off has ever been told whose hand it is. There is a fifth set in that room that a person put there, and this body has not asked who, and the name is not in this book's, and it is not going to be, and a person who is not named is not a place and cannot be put on a return.**
+The counting house is Cray. **Four sets of this body's records are in that building and have been for years, and a hand goes into it, and nobody at a bench in a fen nine hundred miles from that building has ever been told whose hand it is. There is a fifth set in that room that a person put there, and this body has not asked who, and the name is not in this book's, and it is not going to be, and a person who is not named is not a place and cannot be put on a return.**
 
 And the question was not asked by a holder. It was asked by a party, and the difference is the whole of the chapter.
 
@@ -14,7 +14,7 @@ And the question was not asked by a holder. It was asked by a party, and the dif
 >
 > The trust is a party to the seed arrangements at Lantern Reach. **This holding is not a party to anything.** The trust has asked the question in its own name and not in the name of any other person, and the trust has not asked anybody else to put it, and no holder was asked to put it and no holder has been told that it was going to be asked, and the trust entered both of those in the room and would not have the question stand without them.
 
-Tova Reed is the steward of that trust and has been for eleven years, and she has been the steward of a seed house in a fen for the same eleven years, and she gave the figure before anybody asked for it, which is the thing she does, and the clerk of a fen nine hundred miles off did not have that to hand and entered it after the fact from a copy of a sheet.
+Tova Reed is the steward of that trust and has been for eleven years, **and she is not of this holding and does not keep a seed house in a fen and has never kept one, and a person in this yard who says otherwise has heard it from a form.** She gave the figure before anybody asked for it, which is the thing she does, and the clerk of that counting house did not have it to hand and entered it after the fact from a copy of a sheet.
 
 And the reason it was asked by her and not by this body is a difference this fen entered on the second of this month in a yard, in two lines, and has not stopped thinking about since, and neither has the reader of this body and the man of about seventy and anybody else in that yard.
 

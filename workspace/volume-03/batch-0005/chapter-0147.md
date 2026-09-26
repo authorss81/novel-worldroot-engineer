@@ -13,7 +13,7 @@ And on the ninth of the ninth month, in the seed house, at about the second hour
 > **What this body does not know.**
 > **What this body is looking after and cannot reach.**
 
-The first three have been there since the first year and have been read out in a yard on the first, the sixteenth and the thirtieth of every month since before anybody in this room was born. The fourth is about a walled yard at the first house on a shelf four hundred miles off, and it names no person and no thing in it and no number of things in it, and it is a line and not a sentence, and the clerk entered that it is a line and not a sentence and read it back that way.
+The first three have been there since the first year and have been read out in a yard on the reading days of every month since before anybody in this room was born, **and the reading days are not the same days in every month and this body has never entered them as a standing rule, because a rule that has to be looked up is not a rule.** The fourth is about a walled yard at the first house on a shelf four hundred miles off, and it names no person and no thing in it and no number of things in it, and it is a line and not a sentence, and the clerk entered that it is a line and not a sentence and read it back that way.
 
 And the man of about fifty said the difference, and he said it in about ten words and he would not give it any longer than that, and about eleven people were in that room.
 

@@ -22,7 +22,7 @@ Nobody read it either. **Nobody weighed it, nobody counted it, nobody took a pie
 
 > Written on the back of a stake at the eleventh tree, in the occupier's hand, on the twenty-fifth of this month, and not sent to anybody: **the green along the first row was cut off the collars with a sickle on the twenty-fifth and the cuttings were left on the ground. Four houses. Nine faces read, two not read and not guessed at. The row was lifted, the grass was cut, the stone went back into the west wall.**
 >
-> **This sheet was not sent down the road and this holding was not asked for it and does not have it.**
+> **This sheet was not sent down the road by the four of them. This holding was not asked for it, and on the day it was written this holding did not have it and did not know that it was going to arrive.**
 
 And the reason was given out loud, in a yard, before the sickle came out, and it is about six sentences and it is not a virtue, and it is the reason and not a story about a reason.
 
