@@ -12,7 +12,7 @@ And he did not answer it either, and the fen entered that he did not answer it a
 
 And Coll Renner was not on the stand on the fourteenth of this month and was not at any of the three kerbs that evening, and the fen entered that he was at his own head under a form and a rate four miles west, and entered the reason, which is that a licensed man who has written a page in his own book about a rule doing something at a stone kerb does not also stand in a stand of trees on the third day afterwards, and that the reason for that is not humility and is that he has nothing to add to a page of his own and a man who is standing in a wood looking at leaves is adding to it.
 
-The thirteenth of this month was a Wednesday, and the reader of this body read the west sill at about the fourth hour of the evening and it was one foot ten inches, and that was the third time in thirteen days and it was the same figure, and he did not go to bed.
+The thirteenth of this month was a Wednesday, and the reader of this body read the west sill at about the fourth hour of the evening and it was one foot ten inches, and that was the third time in forty-two days and it was the same figure, and he did not go to bed.
 
 The fourteenth of this month was a Thursday and at about the eighth hour of the morning the reader of this body, the man of about fifty, the man of the north row with the cough and Harlan Vetch went out onto the eleven acres and stood in the west stand of willow for about two hours, and the reader of this body did not take a rule and did not take a tape and did not measure anything, and the man of about fifty did not write anything down, and both of those are entered because both of them were unusual and neither of them was explained at the time.
 
@@ -56,7 +56,7 @@ And the three of those were not figures that anybody could act on and the reader
 
 "**The one that fell is the one with a hundred and forty-one trees standing on the same ground, and the one that did not fall is the one with about ninety on a different part of it, and the one that did not fall is carrying nothing at all because a village cut it four days ago and nobody in this yard had anything to do with it.**"
 
-"**The falling stopped. It is one foot ten inches and it has been one foot ten inches for thirteen days and the fall was over inside those thirteen days and it is not a wound, because a wound does not stop, and I have been calling it a thing going down since the sixth of this month and I would like that word struck out of my own book.**"
+"**The falling stopped. It is one foot ten inches and it has been one foot ten inches for eight days and the fall was over inside those eight days and it is not a wound, because a wound does not stop, and I have been calling it a thing going down since the sixth of this month and I would like that word struck out of my own book.**"
 
 And then the man of the north row with the cough said the other half of it, and the fen entered that he had known it was coming and had not said it himself and entered that he is not going to.
 
