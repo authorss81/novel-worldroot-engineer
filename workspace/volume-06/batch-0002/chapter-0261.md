@@ -6,7 +6,7 @@ The seventeenth of this month was a Thursday and the first line of the rota came
 
 **Six hundred and two hundredweight.**
 
-That is the seventeenth figure in a series that has not repeated one figure since the first, and the fen entered it and entered that the count of the series is seventeen and that the aggregate of the four launders has not moved in fifteen days, and entered that he has written that sentence in his own book on fifteen of the seventeen days and did not write it on the two days of the ninth and the tenth of this month because he was in a room with a bag in it.
+That is the seventeenth figure in a series that has not repeated one figure since the first, and the fen entered it and entered that the count of the series is seventeen and that the aggregate of the four bodies of households has not moved in fifteen days, and entered that he has written that sentence in his own book on fifteen of the seventeen days and did not write it on the two days of the ninth and the tenth of this month because he was in a room with a bag in it.
 
 Nobody said anything and the fen entered that nobody said anything, and entered that nobody thanked anybody.
 
@@ -38,7 +38,7 @@ And what the read gave is this, and it gave it in about four seconds and then ga
 
 Nobody said anything and the fen entered that nobody said anything, and entered that the seedwright of a trust said one word after it stopped, and that the word was *enough*, and that the count of that in this holding's history is one, and that she did not say it to him and she did not improve it afterwards and he did not ask her whether she meant enough for what.
 
-And then he wrote it in his own hand and read it back, and then she came and read what he had written and put four words to the end of it in her own hand, and the four words are hers and the fen has not improved them and is not going to.
+And then he wrote it in his own hand and read it back, and then she came and read what he had written and put seven words to the end of it in her own hand, and the seven words are hers and the fen has not improved them and is not going to.
 
 > **IN HIS OWN HAND, AT ABOUT THE THIRD HOUR OF THE AFTERNOON OF THE SEVENTEENTH OF THIS MONTH, IN THE CART SHED AT THE NODE, IN ABOUT FOUR PEOPLE, AND THEN IN HERS, TWENTY MINUTES LATER, IN THE SAME ROOM, WITH THE DOOR STILL SHUT: THE BEAD WENT AGAINST HIS OWN LEFT FOREARM, ON THE FLAT OF IT, ABOUT FOUR INCHES ALONG THE INSIDE, IN THE PLACE A MARK RUNS IN A PERSON WHO HAS BEEN HOLDING, AND THE SKIN OF IT WAS WET, AND IT TOOK. THE READ WAS NINETEEN MINUTES AND NOT A MINUTE OVER, AND THE WATCH WENT ON THE TABLE FACE UP AND THE MAN OF ABOUT THIRTY-ONE OF SILLING SAID THE NUMBER OUT LOUD AT NINETEEN.**
 >
@@ -48,7 +48,7 @@ And then he wrote it in his own hand and read it back, and then she came and rea
 >
 > **AND THE COST. FOR ABOUT NINE MINUTES HE DID NOT KNOW THE SECOND WORD OF THE FIFTH LINE OF A COVENANT HE COPIED OUT IN HIS OWN HAND IN THE THIRD MONTH, WHICH IS A MONTH THREE MONTHS BACK, AND THE WORD IS TWENTY-TWO, AND IT CAME BACK, AND THE NINE MINUTES ARE ENTERED AND THE FACT OF THE NINE MINUTES IS ENTERED, AND THE FACT THAT SOMEBODY IN THAT ROOM SAW HIS FACE IS ENTERED, AND NOBODY READ HIS FACE OUT LOUD.**
 >
-> **AND HER FOUR WORDS, IN HER OWN HAND, AT THE END OF IT: I DID NOT STOP IT. HE DID.**
+> **AND HER SEVEN WORDS, IN HER OWN HAND, AT THE END OF IT: I DID NOT STOP IT. HE DID.**
 
 And then, at about the fourth hour of the afternoon, in about nine people in the yard at the node, the reader of this body said the thing that is his, and he gave the reason first, and the count of that in this holding's history is sixty-nine, and he said it once and did not say it twice.
 

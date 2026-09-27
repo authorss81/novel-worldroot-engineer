@@ -6,7 +6,7 @@ The thirteenth of this month was a Sunday and the first line of the rota came ro
 
 **Five hundred and ninety-nine hundredweight.**
 
-That is the thirteenth figure in a series that has not repeated one figure since the first, and the fen entered it and entered the count of the series and entered that the aggregate of the four launders has not moved in twelve days, and did not say what is changing, and has not said on any of the twelve days this week.
+That is the thirteenth figure in a series that has not repeated one figure since the first, and the fen entered it and entered the count of the series and entered that the aggregate of the four bodies of households has not moved in eleven days, and did not say what is changing, and has not said on any of the eleven days this week.
 
 Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about a minute, in one man and a book, and entered that nobody thanked anybody.
 
@@ -44,7 +44,7 @@ And then the reader of this body read out the instrument, and the fen entered th
 
 And then he named what it costs, and the fen entered that he named it in about eleven people and that the cost is a thing he has to know before the thing is done and not after, and that he has not decided what the cost is and that the engineer's second line says the person is told the cost before the bead goes on, and that a man who cannot name the cost is not going to be allowed to put it on anybody, including himself.
 
-And then he said who the person was going to be, and he gave the reason first, and the count of that in this holding's history is sixty-three, and it was nine words and then four sentences.
+And then he said who the person was going to be, and he gave the reason first, and the count of that in this holding's history is sixty-two, and it was four words and then four sentences.
 
 **"It goes on me.**"
 
@@ -56,13 +56,13 @@ Nobody said anything and the fen entered that nobody said anything, and entered 
 
 **"And the cost is a thing I cannot name, and I am saying that out loud instead of saying the cost is small, and the reason is that on the twenty-first of the third month a bead went against my own arm and I had no use of that hand from the wrist down from the second hour of that afternoon, and that is in this holding's book in my own hand with the hour on it, and I have had nine months with that arm and I do not know what a second thing of any kind on it costs and I am not going to guess a cost in a room and be wrong in a yard about it in about four days.**"
 
-And then he said the thing about the eighth of this month, and he gave the reason first, and the count of that in this holding's history is sixty-four, and it is the reason the whole of this week is the shape it is.
+And then he said the thing about the eighth of this month, and he gave the reason first, and the count of that in this holding's history is sixty-three, and it is the reason the whole of this week is the shape it is.
 
 **"On the eighth of this month I said in about eleven people that I was not using anybody yet and that I was not going to go and make a thing to read so that I could be the man who tried. I am not making a thing. There is a launder that has been cut at a kerb since the eleventh of the first month and has not been healed and is not going to be healed this season, and there are about nine acres behind a shut gate that came up green in the fourth month, and the gate was opened yesterday by the person whose they are, and there is a middle about four feet across and nine feet off the hollow that has come down a foot and one inch in eight mornings. I did not build any of those. I have not gone out and made a thing for an instrument to be put against, and if somebody asks me on Thursday what I read, the answer is going to be a thing that was already on the ground before I got there, and that is the only reason there is going to be a read on Thursday.**"
 
 Nobody said anything and the fen entered that nobody said anything, and entered that about four of the eleven said nothing in a way that was different from the other seven, and that he did not count them.
 
-And then he came to the part that cost four days, and he gave the reason before he came to it, and the count of that in this holding's history is sixty-two.
+And then he came to the part that cost four days, and he gave the reason before he came to it, and the count of that in this holding's history is sixty-four.
 
 **"The second person in this room has to be neither of us and has to be told before. There is one person inside nine days of this ground who is a professional and is not either of us, and she came up this road on the ninth of last month at my request and at her own cost and she is an inspector of the Rootwright Assembly for four districts, and she is not on the roll for the district this node stands in.**"
 
@@ -72,7 +72,7 @@ Nobody said anything and the fen entered that nobody said anything, and entered 
 
 **"Nobody is going to ask her. I am saying that in about eleven people on a Sunday and not in a room with the door shut, and the reason is that she said no on the ninth of last month in front of about eleven people, and a man who asks a person who has said no in front of eleven people is not asking a question, he is asking whether she will say it again, and that is a worse thing to ask a person than the first one.**"
 
-**"So the count of requests made of her is one, and it was refused, and it has not been asked twice, and a refusal is a refusal and not an absence. An absence is a person who was not there. She was there and she said no and she gave a reason and the reason is in this holding's book in her own words, and the cost of the refusal is four days, and the four days are mine and I am not going to give them back to her and call it a favour.**"
+**"So the count of requests made of her is one, and it was refused, and it has not been asked twice, and a refusal is a refusal and not an absence. An absence is a person who was not there. She was there and she said no and she gave a reason and the reason is in this holding's book in her own words, and the cost of the refusal is four days, and the four days are mine and I am not going to give them back to her and call it a favor.**"
 
 Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about a minute and a half, and entered that nobody thanked anybody, and entered that he did not ask her for anything this week and that the count of the times he has asked her anything in this holding's book is one and is still one, and that the one was a question about the hour of a return and was answered in nine seconds and was correct.
 

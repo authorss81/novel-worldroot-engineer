@@ -6,7 +6,7 @@ The nineteenth of this month was a Saturday and the third line of the rota came 
 
 **Six hundred and six hundredweight.**
 
-That is the nineteenth figure in a series that has not repeated one figure since the first, and the fen entered it and entered the count of the series and entered that the aggregate of the four launders has not moved in seventeen days, and entered that a man who has written the sentence *the aggregate has not moved* on seventeen of nineteen mornings has stopped noticing that it has not moved and that is the first week of this year he has stopped noticing a number and he entered the day of the week it happened on and it was a Thursday.
+That is the nineteenth figure in a series that has not repeated one figure since the first, and the fen entered it and entered the count of the series and entered that the aggregate of the four bodies of households has not moved in seventeen days, and entered that a man who has written the sentence *the aggregate has not moved* on seventeen of nineteen mornings has stopped noticing that it has not moved and that is the first week of this year he has stopped noticing a number and he entered the day of the week it happened on and it was a Saturday.
 
 Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about a minute, in one man in a room, and entered that nobody thanked anybody.
 
