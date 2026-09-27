@@ -30,7 +30,7 @@ The wall is on the north side of the yard under the eaves, and it is a wall of c
 
 > Copied from a wall at Cauldron Reach on the sixteenth of this month by the occupier, at her own hand, in the order it is on the wall, which is the order the days came. The middle of it is written the way that yard has always written it and the way that yard's hand has always written it, and the words *the month after* and *of that month* are the occupier's and not this book's:
 >
-> **Sixteenth of a month four months back. Nine feet.**
+> **Sixteenth of a month five months back. Nine feet.**
 > **Fourteenth of the month after. Five feet and a half.**
 > **Sixteenth of the month after. Five feet five inches.**
 > **Twentieth of that month. Five feet four inches.**
@@ -62,7 +62,7 @@ And there is a fourth line of that yard's account, and it is new this month, and
 
 > Written on the sixteenth of this month at the fourth house, at the fourth hour, by the occupier, in her own hand, in four lines, and taken down that road at the ordinary cost of that road, which is the cost of a house with four people in it and is not anybody else's:
 >
-> **One. The reading is five feet and the shortfall against the ninth of a month four months back is four feet, and I have not written what the difference is made of and I am not going to.**
+> **One. The reading is five feet and the shortfall against the sixteenth of a month five months back is four feet, and I have not written what the difference is made of and I am not going to.**
 >
 > **Two. The day letter is on the stone and the eight days from the eighth to the seventeenth of last month are not on it and are not going on it, and I am telling you that they are not and I am not going to tell you why not.**
 >
@@ -76,7 +76,7 @@ Nobody on that shelf was thanked for any of it and nobody asked to be, and a hou
 
 ---
 
-And then at about the eleventh hour of the same day, at the north gate, in about nine people, the reader of this body said the handoff out loud, and it is four sentences and it is the only time in this batch that a thing four hundred miles off is named in a yard by a person who is not on that shelf, and the clerk entered the two dates and entered no figure against either of them.
+And then at about the eleventh hour of the same day, at the north gate, in about nine people, the reader of this body said the handoff out loud, and it is four sentences, and the clerk entered the two dates and entered no figure against either of them.
 
 "**The fourth hour on the sixteenth of this month, four hundred miles off, a nail and a string and a woman of fifty-four's own hand, in her own yard, on her own wall. That was a reading and the reading is in a book four hundred miles off and it is not in this one, and this holding has no standing on it, has never had, did not write and ask about the last one and is not going to write and ask about this one.**"
 
@@ -86,6 +86,6 @@ And then at about the eleventh hour of the same day, at the north gate, in about
 
 Nobody answered him. About nine people were in that yard and nobody was asked to answer him and the fen entered that nobody was asked, and the man of about fifty asked for his initial to be put against nothing and it went in, and the count of that request is twenty-nine this season, and the fen entered the count and entered that the count is not a complaint.
 
-> Entered at the twelfth hour of the noon of the sixteenth of this month, at the north gate, by the clerk, on the standing of a clock: **the ordinary reading of a well on a shelf four hundred miles off is taken by the occupier at the fourth hour on the sixteenth of every month and is not in this book. The reading of the sixteenth of this month is five feet. The shortfall against the ninth of a month four months back is four feet, and is not decomposed, and the half inch of the sixteenth of last month is on the wall and is not carried forward as a figure.** The next date this holding has entered for that shelf is the first of next month, which is a Saturday, **which is not this book's day, and the fen entered the day and not the figure, and there is no entry anywhere for that well coming back and none is to be.**
+> Entered at the twelfth hour of the noon of the sixteenth of this month, at the north gate, by the clerk, on the standing of a clock: **the ordinary reading of a well on a shelf four hundred miles off is taken by the occupier at the fourth hour on the sixteenth of every month and is not in this book. The reading of the sixteenth of this month is five feet. The shortfall against the sixteenth of a month five months back is four feet, and is not decomposed, and the half inch of the sixteenth of last month is on the wall and is not carried forward as a figure.** The next date this holding has entered for that shelf is the first of next month, which is a Saturday, **which is not this book's day, and the fen entered the day and not the figure, and there is no entry anywhere for that well coming back and none is to be.**
 
 And so the sixteenth of this month went the way the four hundred miles off let it go, at the fourth hour, with a nail and a string and a round number and a wall, **and there is no entry anywhere in this book for that well coming back, and there is a woman four hundred miles off who has told three people in a yard that she read it and wrote it down and does not know what it is for, and this holding is four days from finding out the rest of it, and it is not going to write and ask, and the fen entered that it is not going to and did not improve on it.**

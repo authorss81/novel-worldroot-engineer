@@ -62,13 +62,7 @@ And then the licensed man said what he could defend and what he could not, in th
 
 And then at about the seventh hour of the evening of the same Tuesday, the ordinary post brought four lines down a four-day road in a leather bag, and they came from a shelf four hundred miles off, and the fen had entered on the sixteenth that it was four days from finding out the rest of it and had not written and asked.
 
-> Written on the sixteenth of this month at the fourth house, at the fourth hour, by the occupier, in her own hand, in four lines, and taken down that road at the ordinary cost of that road:
->
-> **One. The reading is five feet and the shortfall against the ninth of a month four months back is four feet, and I have not written what the difference is made of and I am not going to.**
->
-> **Two. The day letter is on the stone and the eight days from the eighth to the seventeenth of last month are not on it and are not going on it, and I am telling you that they are not and I am not going to tell you why not.**
->
-> **Three. There is green in the older row. We have not dug at it and we have not weighed it and nothing has come off that shelf in a vessel, and nobody here has said what it is.**
+> Written on the sixteenth of this month at the fourth house, at the fourth hour, by the occupier, in her own hand, in four lines, and taken down that road at the ordinary cost of that road. **The first three of them are the reading, the day letter and the green in the older row, and this holding had all three of them before that bag came off the road, and the fen entered that it had them and entered that it has not written and asked and is not going to. The fourth is the only one of the four that is news, and it is entered entire:**
 >
 > **Four. Between the eighth and the fifteenth of this month the well came up half an inch, and in the night before this morning it went down half an inch, and I have written the reading on the wall and I am not going to write what the two numbers are. And the man with the spade has not spoken to the other three since the seventeenth of last month and we have not asked him, and I am telling you because you are the only party we have that writes things down.**
 

@@ -38,7 +38,7 @@ And then the reader of this body said the thing that is the whole engine of that
 
 "**And I am not going to say what that is and I am not going to say what it means. I have got a book with four lines in it, and one of those lines says what this body is looking after and cannot reach, and a thing it cannot reach and cannot name and cannot put a date at the end of is on that line already and has been on it for a month, and the reason it is on that line and is not written into it is that a line is a standing and a standing is a thing this holding has to keep.**"
 
-And then she gave the check, and the check is the chapter, and it is in a household's own hand and at a household's own cost, and the fen entered that this holding did not pay for it and did not know that it had been paid and did not ask the price, **and entered that this is the fifth time in a season that this body has been beaten home by a household's own expense, and entered that the count is five and is not going to stop being entered.**
+And then she gave the check, and the check is the whole of what the day was for, and it is in a household's own hand and at a household's own cost, and the fen entered that this holding did not pay for it and did not know that it had been paid and did not ask the price, **and entered that this is the fifth time in a season that this body has been beaten home by a household's own expense, and entered that the count is five and is not going to stop being entered.**
 
 > Written on the back of a miller's tally at the fourth house in the low quarter, on the twenty-second of this month, in the hand of the woman who came up the fen road, four questions and four answers, and brought up that road at that household's cost and nobody else's:
 >

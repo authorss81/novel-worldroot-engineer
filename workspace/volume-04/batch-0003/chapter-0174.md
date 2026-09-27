@@ -72,7 +72,7 @@ She said yes, and she gave one condition, and the condition was not a favour, an
 
 Nobody answered that either. The man of about fifty put his hand flat on the top of a bench he had got up off four days ago, and the fen entered that nobody saw him do it.
 
-And then the fen entered the thing the chapter is about, and it entered it on purpose, and it entered the person who wrote the rule first and the person being asked second, because the other order is the order that makes it look like a coincidence.
+And then the fen entered the thing the day is about, and it entered it on purpose, and it entered the person who wrote the rule first and the person being asked second, because the other order is the order that makes it look like a coincidence.
 
 > Entered at the seventh hour of the evening of the twenty-sixth of this month, in the seed house, by the clerk, on the standing of a rule: **the standing rule about the engineer of record is four lines and every one of the four is about a stop. It was written into the seed-route ledger on the fourteenth of a month four months back by the seedwright of the trust, in the ordinary words, and it is the first rule this body has ever written about the engineer of record instead of about the ground. The person who wrote it is the person who was asked today whether she would be the one a bottleneck comes to.**
 >

@@ -64,7 +64,7 @@ And on the twenty-ninth, which was a Thursday, at about the fourth hour of the a
 >
 > **And entered on the same line: nobody in that yard said a word about it. Not one of the about nine. The fen entered that nobody said a word about it, and entered that the man who asked had not been asked to ask by anybody, and that he had been in this yard about four years, and that he had worked the count out for himself, and that he said it out loud anyway, and the fen entered that it is not going to thank him for it and did not.**
 
-The man of about fifty asked for his initial to be put against nothing and it went in, and the count of that request is thirty-six this season, and the fen entered the count and entered that the count is not a complaint.
+The man of about fifty asked for his initial to be put against nothing and it went in, **and the count of that request is thirty-six this season, which is entered, and the count is not a complaint.**
 
 And then, at about the eighth hour of that evening at the north gate, in about nine people, the reader of this body said out loud how many days were left in the month, and he said eight, and about four of the nine looked at the gate and none of them said anything, and the fen entered that nobody corrected him for about a minute.
 

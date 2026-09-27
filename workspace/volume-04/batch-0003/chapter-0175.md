@@ -38,7 +38,7 @@ And the man gave a figure, in his own words, and he gave it in about five senten
 
 "**You can check it. You cannot check it now. Those are two different sentences and I have watched a body like yours go wrong on one of them about twice in my life, and both times it was the second one it went wrong on.**"
 
-Nobody answered him and nobody thanked him, and the man of about fifty asked for his initial to be put against nothing and it went in, and the count of that request is thirty-five this season, and the fen entered the count and entered that the count is not a complaint.
+Nobody answered him and nobody thanked him. The man of about fifty asked for his initial to be put against nothing and it went in, **and the count of that request is thirty-five this season, and it is entered and it is not a complaint.**
 
 > Entered at the fifth hour of the afternoon of the twenty-seventh of this month, in the yard, by the clerk, on the standing of a refusal: **a man came up the fen road from the low quarter on foot and did not stop at the gate. The person who keeps the seed house said in the yard, before he spoke, that he is not of this body and is not a representative of anything. He said in his first four words: I speak for it and for nobody here. The clerk entered the four words and entered that he said them before anybody had put anything to him. He was not thanked and did not ask to be.**
 >

@@ -58,7 +58,7 @@ And then the cost, and it went into the book in a man's own hand in a line of it
 
 > Entered on the same line, in the reader of this body's words, read back: **the temper happened in a room and was not about anybody in the room. This is the third cost of that kind in three volumes and the first one this holding has had a name for, and the name is in the engineer's own hand and not in mine, and I have not improved on it and am not going to.**
 
-And then, at about the ninth hour of the evening, in a yard of about nine, the question was asked, and it is the question this movement turns on, and nobody in that yard could answer it except one man, and the man who answered it had known the answer since the second hour and had worked for two hours anyway.
+And then, at about the ninth hour of the evening, in a yard of about nine, the question was asked, and it is the question the month turns on, and nobody in that yard could answer it except one man, and the man who answered it had known the answer since the second hour and had worked for two hours anyway.
 
 Somebody asked it. It was asked by the man of about fifty, in a yard of about nine, in the ordinary voice, and it is one sentence, and the fen entered that he asked it and entered that he had not written it down first and entered the reason he gave for that, which is that a question he has written down is a question he has decided to ask and he had not decided to ask it.
 
@@ -70,7 +70,7 @@ Somebody asked it. It was asked by the man of about fifty, in a yard of about ni
 
 "**I am not going to put that in a book tonight. I am going to put it in a book on the twenty-sixth, in a yard, with the reader of this body standing in it, and you are all going to be in it, and I am telling you the day now so that none of you can have it later.**"
 
-Nobody thanked him and nobody was thanked, and the man of about fifty asked for his initial to be put against nothing and it went in, and the count of that request is thirty-three this season, and the fen entered the count and entered that the count is not a complaint.
+Nobody thanked him and nobody was thanked, and the man of about fifty asked for his initial to be put against nothing and it went in, and the count of that request is thirty-three this season, and the fen entered the number and entered that a count of this kind is not a complaint.
 
 > Entered at the tenth hour of the evening of the twenty-fourth of this month, in the yard, by the clerk, on the standing of a stage: **the engineer of record of this holding held a pattern for four other people for about two hours this morning, and it is the first time he has done that, and the question of who else on this head can do it was asked in a yard of about nine and was answered in one word.** The fen entered the answer and entered that the man who gave it had known it since the second hour of the morning and worked for two hours anyway, and entered that he asked for the order to be put in as the second hour and not the sixth and that the request was granted.
 >
