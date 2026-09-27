@@ -4,9 +4,9 @@
 
 The twenty-third of this month was a Saturday and the third line of that sheet came round at the second hour of the morning, and the man of it is seventy-one and he is not in this book and his name is nobody's, and he was on the ground at the west end of the kerb with one man and a barrow.
 
-And the reader of this body had the word in his own book by then, written on the page over the day before, and he had not said it in a yard since.
+And the reader of this body had the word in his own book by then, and he had not said it in a yard since.
 
-He said it at the kerb at about the second hour of the morning, to the man of seventy-one and to the one man with him, and the man of seventy-one said it back to him once to be sure of it, and the turn was taken, and the fen entered the hour and did not enter why he had waited two days to say it, and then entered the why in his own book that night and it is nine words long and says that a word in one man's book is a word that dies with the book. And a seed-route party went by on the cart road at about the third hour of the morning of the same Saturday, going the other way, eleven of them and two carts and about four hundredweight of boards in the second one, and Tova Reed was in the second cart and got down into the road to get at a wheel that had picked up a stone, and she did not come into the yard and she was not asked into the yard.
+He said it at the kerb at about the second hour of the morning, to the man of seventy-one and to the one man with him, and the man of seventy-one said it back to him once to be sure of it, and the turn was taken, and the fen entered the hour and did not enter why he had waited two days to say it, and entered the why in his own book that night and it is fourteen words long and says that a word in one man's book is a word that dies with the book. And a seed-route party went by on the cart road at about the third hour of the morning of the same Saturday, going the other way, eleven of them and two carts and about four hundredweight of boards in the second one, and Tova Reed was in the second cart and got down into the road to get at a wheel that had picked up a stone, and she did not come into the yard and she was not asked into the yard.
 
 The reader of this body went out to the road and she said the first thing and it was about the boards.
 
@@ -52,7 +52,7 @@ And then he gave the terms, and he gave them in the order he intended them and h
 
 "**And then the man in the fen will be the only one in this holding who has spent a season of a working man's year on a question that is not his, and he is not the one who will have to live in four villages afterwards. That is the cost. I have named it and I am not going to improve on it and I am not going to be thanked for it, and if anybody in this yard thanks me it will be a mistake and I will correct it.**"
 
-Nobody said anything and the fen entered that nobody said anything, and entered the length of it, and entered that he had not said thank you and was not going to and entered the reason, which is that a man who is thanked for refusing you in a gate has been paid and the payment is that the next refusal costs more.
+Nobody said anything and the fen entered that nobody said anything, and entered that he had not said thank you and was not going to and entered the reason, which is that a man who is thanked for refusing you in a gate has been paid and the payment is that the next refusal costs more.
 
 Then the reader of this body said the one thing he had gone into the fen road to have said, and he gave the reason for asking before he asked it, and the count of that in this holding's history is thirty.
 
@@ -80,7 +80,7 @@ And the man of about thirty-one said the thing about the seventh line, and he sa
 
 And then the fen entered what he was not going to do, and he entered it in his own book that night, and it is the first night he has written nothing in for about four years.
 
-*Two mornings. Friday the turn did not begin because I gave a word to one man at a gate instead of a man of seventy-one on a kerb and six men on a hill. Sunday the fourth line was not taken and the body it belongs to stopped it themselves under the ninth line and told nobody why, and they were right to, and I am not going to write down a reason for it. There is no reason on that page from me. There is a day and an hour and a body of households exercising a line that a man of sixty-eight wrote in my cart shed in about four minutes, and it is the best thing that has happened to that sheet and I was not in the room.*
+*Two mornings. Friday the turn did not begin because I gave a word to one man at a gate instead of a man of seventy-one on a kerb and six men on a hill. Sunday the fourth line was not taken and the body it belongs to stopped it themselves under the ninth line and told nobody why, and they were right to, and I am not going to write down a reason for it. There is no reason on that page from me. There is a day and an hour and a body of households exercising a line a man of sixty-eight wrote in my cart shed in about four minutes, and it is the best thing that has happened to that sheet and I was not in the room.*
 
 And before he went, the man of about thirty-one of Silling asked for a sheet, and the man of about fifty gave him one, and the reader of this body did not ask to read it before the man of about thirty-one had read it out himself, and entered that he did not ask.
 

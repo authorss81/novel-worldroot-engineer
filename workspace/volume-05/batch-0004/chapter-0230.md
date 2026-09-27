@@ -64,7 +64,7 @@ And a man came up the road out of the west at about the seventh hour of the even
 
 And the reader of this body read that on the road at about the ninth hour of the evening of the twenty-seventh of this month, by the light of a lamp on a gatepost, and entered that the count of the sheet is three lines taken out of four in three mornings, and entered that the fourth line is the one with nobody in it, and entered that he read that paper on a road and not in a yard and did not ask the man with the cart one question.
 
-And he wrote four lines in his own book that night in a barn at about the eleventh mile, and the first three are the turn of the day and the day-minus figures, and the fourth is nine words long and is this, and he read it back to nobody because there was nobody there.
+And he wrote four lines in his own book that night in a barn at about the eleventh mile, and the first three are the turn of the day and the day-minus figures, and the fourth is fifteen words long and is this, and he read it back to nobody because there was nobody there.
 
 *She said the honest one is always the hardest and the ditch still gets dug. Eleven people. Four years. Not one of them decided.*
 

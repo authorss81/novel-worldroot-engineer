@@ -6,7 +6,7 @@ The twenty-eighth of this month was a Thursday and the fourth line of that sheet
 
 About nineteen people were in that yard at about the fourth hour of the afternoon, which is the hour the seven decide, and it is not the hour the gate is counted at, and the gate is counted on the first and the fifteenth at about the tenth hour, and both of those are the woman's own hours and neither of them is this one.
 
-She is about thirty-eight and she is not one of the seven that decide and she has never once wanted to be, and she told the reader of this body that in a road on the eighteenth of last month and it is in this holding's book.
+She is about thirty-eight and she is not one of the seven that decide and she has never once wanted to be, and she told the reader of this body that in a road on the eighteenth of this month and it is in this holding's book.
 
 She had a sheet of her own on the flat place at the foot of the bank, on the stone the size of a bread oven with the mason's mark on the back of it, and the man of about fifty of this party was not there and the reader of this body was not there and the licensed man was not there, and the fen entered that all three of those and entered that the man of about fifty was not there because he is at the node and this is a village, and the reader of this body was not there because he is on the cart road with a bag and a rule and nothing else in it.
 
@@ -62,7 +62,7 @@ And then the man of about thirty-one of Silling came down off the track into tha
 
 "**And I am going to say the half of it that is mine and not his, and then I am going to go back up that hill. He is talking about a crew of five on a ditch. I am talking about a village of about three hundred people that has had nine mornings in eleven years out of about nine hundred and ninety, and I am not going to say the nine hundred and ninety again because I have said it once this afternoon and I have not got a second one.**"
 
-And the woman of about thirty-eight of Marden said the only thing she said in that yard after the count was read out, and it was about six words, and the fen entered that it was about six words and that he wrote them down in his own book that night and did not write down the face she said them with.
+And the woman of about thirty-eight of Marden said the only thing she said in that yard after the count was read out, and it was about five words, and the fen entered that it was about five words and that he wrote them down in his own book that night and did not write down the face she said them with.
 
 "**Then write nine on it.**"
 
