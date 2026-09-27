@@ -4088,3 +4088,118 @@ The second pass changed *the pail in at the top of the second place* to *at thre
 
 - **The ten sites of the PLURAL *volumes* in Volume 04 (Ch 152:55, Ch 152:71, Ch 156:71, Ch 157:59, Ch 158:25, **Ch 162:95**, Ch 173:49, Ch 173:55, Ch 173:59, **Ch 178:5**) are NOT swept.** *Two volumes* and *three volumes* are durations across books, and the book's own frames for a duration are *this season* (roughly four months) and *eleven years* (the whole book). **Neither is equal to two volumes, and there is no frame in this world that is.** Replacing them would require inventing one, and inventing a duration frame is a bigger act than leaving ten words. **They are recorded as open, with their count, and a writer must choose a frame deliberately or leave them.** An earlier statement of this said nine and printed eight, and dropped Ch 162:95 and Ch 178:5, which is the pair a volume close is most likely to skip because Ch 178:5 is the fifth line of a chapter and reads as a frame rather than as a duration. `reviews/volume-04.findings.md` had the count of ten and the list of ten right, and this file is now brought into line with it.
 - **Volumes 01, 02 and 03 are CLOSED and are NOT edited from this phase.** Their residue is measured and recorded: **twelve instances of *this batch* (0 in Volume 01, 11 in Volume 02, 1 in Volume 03), five bare *batch* that are not part of *this batch*, six *this chapter*, sixteen bare *chapter* in body prose, and thirty-two *this volume*.** Those volumes had three closes each and none of them caught this, which is not evidence that the class is small; it is evidence that a volume close does not look for it. **The residue is an open item against those volumes and is NOT a Volume 05 inheritance.**
+
+---
+
+# VOLUME 05 — BATCH 0001 — Chapters 197–206, Movement 1, *Four Bodies And One Node*
+
+Days **351–370**. Ten chapters, days 351, 352, 353, 356, 357, 358, 359, 360 and 361, 362 and 363, and 367 to 370. **Batch total 28,688 words by `wc -w` over the chapter files including their chapter headings; mean 2,869; range 2,620–3,120. Every one of the ten is inside the outline's 2,600–3,120 per-chapter target and the batch is inside the outline's 27,000–30,000. The band was NOT widened and no chapter is declared outside it.** The ten figures are **2,797 + 2,784 + 2,620 + 2,992 + 2,851 + 2,783 + 2,777 + 3,112 + 2,852 + 3,120.**
+
+**VOLUME 05 IS 28,688 WORDS AND TEN CHAPTERS. THE MANUSCRIPT IS 621,207 WORDS ACROSS 206 CHAPTERS**, being 592,519 across 196 at the Volume 04 close, and the four volumes remain 166,022 + 141,818 + 142,952 + 141,727 = 592,519, which reconciles exactly. Outline `outline/volume-05.md`; batch prompt `workspace/volume-05/batch-0001/PROMPT.md`.
+
+## THE DAY CLOCK, AND IT IS THE FIRST FINDING OF THIS VOLUME
+
+**DAY 350, THE TWENTIETH OF THE TWELFTH MONTH, IS A SATURDAY** (Ch 196, on the page), and day 331 is a Monday, so day 361 is a Monday plus thirty days, and thirty days is two weekdays forward, so **day 361 IS A WEDNESDAY** — which is what Ch 196's own handoff says the first of next month is, out loud, in front of a yard. **The chain was checked before a word of this batch was drafted and it holds: this batch did not have to invent a clock and did not.**
+
+**Months run thirty days. The twelfth month is days 331–360. The first month of the new year is 361–390. The second month is 391–420. The third month is 421–450. Volume 05 therefore crosses THREE month frames and needs FOUR naming tables across the five batches.**
+
+| day | ordinal | weekday | | day | ordinal | weekday |
+|---|---|---|---|---|---|---|
+| 351 | 21st, 12th | Sunday | | 361 | **1st, 1st month** | **Wednesday** |
+| 352 | 22nd | Monday | | 362 | 2nd | Thursday |
+| 353 | 23rd | Tuesday | | 363 | 3rd | Friday |
+| 354 | 24th | Wednesday | | 364 | 4th | Saturday |
+| 355 | 25th | Thursday | | 365 | 5th | Sunday |
+| 356 | 26th | Friday | | 366 | 6th | Monday |
+| 357 | 27th | Saturday | | 367 | 7th | Tuesday |
+| 358 | 28th | Sunday | | 368 | 8th | Wednesday |
+| 359 | 29th | Monday | | 369 | 9th | Thursday |
+| 360 | **30th, 12th** | **Tuesday** | | 370 | 10th | Friday |
+
+**Chapter spans: 197 = 351; 198 = 352; 199 = 353; 200 = 356; 201 = 357; 202 = 358; 203 = 359; 204 = 360 and 361; 205 = 362 and 363; 206 = 367 to 370. Days 354, 355, 362 is narrated, 364, 365, 366 and 368 are NOT narrated and the batch does not pretend otherwise.** The next batch is days 371–390 and it contains the twelfth reading of the well on the shelf, on **day 376, the sixteenth of the first month, a Thursday, at the fourth hour.**
+
+## THE TWO NAMING TABLES THIS BATCH NEEDS, AND IT NEEDS TWO BECAUSE IT CROSSES THE TURN
+
+**TABLE A — the twelfth-month frame, for Chapters 197 to 203 and for the thirtieth in 204:** 331–360 = *of this month*; 301–330 = *last month*; 271–300 = *a month two months back*; 241–270 = *a month three months back*; 211–240 = *a month four months back*; 181–210 = *a month five months back*; 151–180 = *a month six months back*; 121–150 = *a month seven months back*; 91–120 = *a month eight months back*.
+
+**TABLE B — the first-month frame, for the first of 204 and for Chapters 205 and 206:** 361–390 = *of this month*; 331–360 = *last month*; 301–330 = *a month two months back*; 271–300 = *a month three months back*; 241–270 = *a month four months back*; 211–240 = *a month five months back*; 181–210 = *a month six months back*; 151–180 = *a month seven months back*; 121–150 = *a month eight months back*.
+
+**This is a continuation of the Volume 04 tables and NOT a re-basing. What a chapter may never do is carry a name across the turn. THE MONTH NAMES DO NOT EXIST.** *March* is not a month; the only capitalised *March* may be *the March's tin*, and it is four times in this batch, all of them that.
+
+## THE INHERITED DATES AND WHERE EACH ONE LANDS
+
+| Thing | day | Table A | Table B |
+|---|---|---|---|
+| the well on the shelf, nine feet | 136 | the sixteenth of a month seven months back | **a month eight months back** |
+| the well, five feet two inches | 226 | a month four months back | **a month five months back** |
+| the well, five feet one inch | 256 | a month three months back | **a month four months back** |
+| the well, five feet, the ninth figure | 286 | a month two months back | **a month three months back** |
+| the well, the eleventh figure | 346 | the sixteenth of last month | **last month** |
+| the half inch, the ground's share | 196 | a month five months back | **a month six months back** |
+| the leak, three-quarters of an inch | 261 | the twenty-first of a month three months back | **a month four months back** |
+| the growth in the older row | 226 | a month four months back | **a month five months back** |
+| the day letter | 248 | the eighth to the seventeenth of a month three months back | **a month four months back** |
+| the draw, first use of the rule last season | 262 | the twenty-second of a month three months back | **a month four months back** |
+| the second use of the rule last season | 313 | the thirteenth of last month | **a month two months back** |
+| the hold and its cost | 294 | the twenty-fourthat of last month | **a month two months back** |
+| the refusal, and the second body named | 345 | the fifteenth of this month | **the fifteenth of last month** |
+| the corridor opened | 331 | of this month, a Monday | **last month, a Monday** |
+| the vault went under | 339 | the ninth of this month | **the ninth of last month** |
+| the agreement and its refusal clause | 341 | the eleventh of this month, a Thursday | **the eleventh of last month, a Thursday** |
+| the standing figures, and the year turning | 350 | the twentieth of this month, a Saturday | **the twentieth of last month, a Saturday** |
+| the standing rule satisfied last season | 153 | the third of a month six months back | **a month seven months back** |
+
+**THE DAY OF THE BEAT IS DAY 171, THE TWENTY-FIRST OF THE SIXTH MONTH, AND IT IS NOT RESTATED IN THIS BATCH IN PROSE OR IN ANY DOCUMENT.** Its frame would be *a month six months back* in Table A and *a month seven months back* in Table B. The standing entry says only *cause not established, nothing underneath it, column open*, and the column was not opened in front of twenty-five people and **the not opening is a decision and not an oversight.**
+
+## THE FIGURES, EVERY ONE LOCKED, EVERY ONE DERIVED ON THE PAGE, EVERY ONE RE-CHECKED
+
+- **The heartroot at the Four Elbows delivers about 1,500 hundredweight a day into four bodies of households. The four bodies' own count of what they need is about 2,100. The difference is 600 hundredweight a day.**
+- **600 hundredweight a day at fourpence the hundredweight is 2,400 pence, which is ten pounds a day. Thirty days of it is 18,000 hundredweight at 4 pence = 72,000 pence = £300.** A pound is 240 pence. **2,400 pence over about 1,500 people is one and three-fifths of a penny a head a day, and the second derivation is £300 over 1,500 people = 48 pence a head a month = one and three-fifths of a penny a day.** Both derivations are in the prompt; the page uses the figure in Ch 206's note.
+- **The four columns of the turn sheet, with no heading row: 144, 96, 48, 210. The total of the four is 498 and a total of four different things is not a total.** Havergate 144 = dwellings with a fire and a door. Low Wether 96 = hearths. Marden 48 = households that took seed in the year before last. Silling 210 = persons counted at a gate, a month two months back.
+- **The weighted rota, worked on the only two of the four that are households, being 144 + 96 = 240: 144/240 = three fifths = NINE HUNDRED hundredweight a day; 96/240 = two fifths = SIX HUNDRED; 900 + 600 = 1,500 EXACTLY. Marden and Silling are owed NOTHING, and their share is not a small share.** Derived twice in Ch 200 and derived again in the prompt and the two agree.
+- **The equal-turn rota is 375 hundredweight a day each and 375 × 4 = 1,500 exactly, and the fen enters that the arithmetic being exact is the problem.**
+- **Havergate's own mill book overstates the draw by forty and Low Wether's own book by ten. Havergate's true figure is nine hundred and Low Wether's is six hundred, and 900 + 600 = 1,500, and Marden's and Silling's lines have been BLANK for eleven years, and FIFTY HUNDREDWEIGHT A DAY is the whole of what they have been living with.** This is Ch 205's whole chapter and it is the batch's checkable victory.
+- **The rota is eleven lines: four turn lines and seven stop lines.** The seventh stop line is *what happens when the holder is asleep and cannot be woken*, and it came from nine years of the man of the north row with the cough keeping an unwritten turn for a man who died.
+- **The seventh column: 37 on day 350, 38 on day 360, 39 on day 361.** It moves only on a day the door was read, the door is read on the first and the thirtieth, and day 360 and day 361 are a day apart. **THE OTHER SIX COLUMNS ON THAT DOOR EXIST, HAVE NO HEADINGS, AND HAVE BEEN BLANK SINCE THE DOOR WAS MADE FOUR YEARS AGO. THE CLOSE OF VOLUME 04 NEVER MENTIONED THEM AND THIS IS A CANON ADDITION, FLAGGED BELOW.**
+- **The day-minus figures: boards day − 66, the March's tin day − 19.** Day 360 = 294 and 341. Day 361 = 295 and 342. Day 350 = 284 and 331, which agrees with the close.
+- **The compost line for the twelfth month falls on day 361: 400 hundredweight at 4s = 1,600s = EIGHTY POUNDS, fourth consecutive month, run at TWELVE months not discharged in twelve, derived twice with the two agreeing (once forward in shillings, once as 48 pence the hundredweight = 19,200 pence = 240 pence eighty times over).** The word before the figure is **EMPTIER** and the three before it were **CROWDED**, and the word and the figure have come apart for the first time in four years.
+- **Two hundred and thirty-one standing willow at the Four Elbows, of which a hundred and forty-one are on the west side and about ninety on the north.** Given by two people who counted them, checked by the fen, and true.
+- **The fifth party's holds: every ninth day, on the ninth day, since day 298, the twenty-eighth of a month three months back. Days 298, 307, 316, 325, 334, 343, 352, 361, 370. That is NINE holds, and the ninth is day 370, at about the second hour of the morning, while the party is on the ground.** This is the arithmetic that makes the batch's climax checkable.
+- **The count of requests that a man's initial be put against nothing: forty-nine on day 360, fifty on day 361, fifty-one on day 370.** The count of section-nine notes: **the fiftieth on day 361 and the fifty-first on day 370.**
+- **The man of about seventy was fetched for the SEVENTEENTH time and said nothing at all, and this is the fourth time in this book's history he has asked for a number to be repeated, and he has never once asked which number.**
+- **The use log stands at FIFTEEN and DID NOT MOVE ALL BATCH.** No contact occurred. The reason is entered: a document is not a contact, a reading is not a contact, a clause is not a contact, a bead laid against somebody else's seed is not a contact, and a gate is not a contact.
+- **The count of people who can hold a pattern for four is TWO at the first of this batch and TWO at the last, and it did not move.** The reason it did not move is a refusal, in a yard, on the twenty-eighth, and **it is entered as a refusal and not as an absence.**
+- **The count of bodies at the node is FOUR until about the fourth hour of the morning of day 370 and FIVE after it.**
+- **The standing count of questions available to a room in this holding and not taken goes from SEVEN to EIGHT, and the volume's own question is asked ONCE and available and not taken TWICE, and the three counts are three counts and none is added to another.**
+- **The count of asks made in a yard with the reason given first is FIVE, and the fifth was answered with a no, and it is the first of the five that was answered.** The count of times the reader of this body has caught himself and not said a thing is **eleven, a month count.** The count of reasons given before a conclusion in a yard is **two.** The count of not-askings about the man with a spade is **two, a season count.**
+
+## THE CANON ADDITIONS, ALL NEW, ALL FLAGGED
+
+- **Brenna Oake**, of about forty-four, one of eleven who decide for **Havergate**, north side of the Four Elbows, about six hundred persons and a hundred and forty-four doors with a fire in them. Walked four days. **Not of this holding, not a member of anything.**
+- **Sennik Vaul**, of about thirty-one, one of seven who decide for **Silling**, west side, about two hundred and ten persons counted at a gate. **Not of this holding, not a member of anything.**
+- **Hesta Lyle**, of about fifty-one, **who keeps the four books for the four bodies of households at the Four Elbows and is the only person who does, and has kept them for nineteen years.** She is not the fen's clerk and her entries are hers. **This is a new named person and she is deliberately not called a clerk, because the manuscript already has a clerk in it and two of them would be a mistake.**
+- **Harlan Vetch**, of about fifty-eight, **holder of the fifth share of the Four Elbows for eleven years and eight days**, who took it in a schedule in a lawyer's town from a man who was dying, who has held the node on the ninth day of every ninth day for eleven years, who has never taken a drop of the four villages' water and has put water back in every ninth day at the second hour of the morning, who has never been paid and has never been asked, and who is not a body of households and does not use the word. **HE IS NOT A VILLAIN AND NOT A RUNG, AND HE IS NOT A NEW FINAL ENEMY. He is a smallholder, a schedule and a man who has been doing work alone.**
+- **The Four Elbows at Errow Reach**, five days east of the fen gate by the cart road: eleven acres, a hundred and forty-one willow on the west side and about ninety on the north, a heartroot, a **kerb in four parts with a different mason's mark in each and the third part not the same stone as the other three**, and a painted board four feet by three on two posts.
+- **The heading Hesta Lyle writes over the column on that board, in Ch 206:** *RETURNS BY THE FIFTH SHARE. NINTH DAY OF EVERY NINTH DAY. HELD BY ONE PERSON. NOT ONE OF THE FOUR BODIES OF HOUSEHOLDS.*
+- **THE SIX BLANK COLUMNS ON THE WELL HOUSE DOOR.** A canon addition. The Volume 04 record and the close speak only of a seventh column. **The prose in Ch 200 and Ch 204 states there are seven columns, that only the seventh carries a heading, that the other six have been blank since the door was made four years ago, and that this holding is not writing them in. No existing figure changes and no existing reading changes. A later pass may either accept this or strike it, and may not treat it as an error to be silently repaired in a closed volume — it is Volume 05's own addition and it is on the page four times.**
+- **The woman of about twenty-nine of the west** and **a man of about fifty-three**, who came up the fen road with Soren Rill in the rain on the twenty-ninth of last month and counted the willow. Neither is named. Not of this holding.
+- **The seedwright's route: eleven days out of every season of twenty.** New and load-bearing; it is the whole of her refusal in Ch 202 and it may not be shortened.
+
+## THE DEVIATIONS FROM THE BATCH'S OWN CARDS, ALL DELIBERATE, ALL CHECKABLE
+
+1. **The card for Ch 200 was titled *Fifty-Two* and is on disk as *Four Columns And No Headings*.** The figure it was named for was changed from 52 to 48 in the drafting, and the card was corrected to match. **The page is canonical.**
+2. **The card for Ch 200 said the counting paper "comes back on the second"; the page has it come up the cart road with the return on the twenty-sixth.** Same day, and the answer to the eleven words does not arrive until Ch 205.
+3. **The card for Ch 205 said the eleven corrections were nine headings and two arithmetic.** The page has the nine as four headings plus seven blank return lines, of which two are arithmetic, and all eleven are on the sheet. The count of eleven is unchanged and checkable.
+4. **The card for Ch 206 said the fifth party had been at it for eleven weeks. The page says nine holds since day 298.** 370 − 298 = 72 days = eight intervals of nine, which is **nine** holds, and nine is checkable and eleven weeks is not. **The page is canonical and the card's "eleven weeks" is wrong.**
+5. **The card for Ch 206 said the count of requests against nothing was fifty. The page says fifty-one**, because day 361 took it to fifty. **The page is canonical.**
+6. **The card for Ch 202 and the page both have a refusal from the seedwright; the page adds a second count, the count of asks in a yard with the reason given first being five.** Additive and consistent.
+7. **The prompt's card for Ch 197 called for one clerk's block and the chapter carries two**, the second being the standing figures of an ordinary day. The limit is three and neither chapter that carries a batch beat exceeds it. **The limit is honoured; the card's count was an estimate and the page is the fact.**
+
+## THE MECHANICAL CHECK ON THE DRAFTED BATCH
+
+- **`Entered ... by the clerk` block counts: 197 = 2, 198 = 1, 199 = 1, 200 = 1, 201 = 1, 202 = 2, 203 = 1, 204 = 2, 205 = 1, 206 = 0. Chapter 206 carries this batch's climax and takes NONE, and the arrival and the fifth share are entered by the fen's own hand and by Hesta Lyle's own hand, precisely so that the limit holds on the batch's last chapter.** No chapter is at four.
+- **Every speech paragraph opens and closes its own quotation. No paragraph ends with speech open. No narration sits inside an open speech. Zero non-ASCII glyphs in all ten files. Every file ends in a newline.**
+- **No month is named in narration or in any document.** The only capitalised *March* is *the March's tin*, four times. Every other hit on a month name is the modal verb *may*.
+- **The meta-language sweep holds: zero `this batch`, zero bare *batch*, zero `this chapter`, zero `this volume`, zero `this book` used as a frame, and zero bare *chapter* in body prose.** The single hit on *Chapter* in each of the ten files is the `# Chapter N` heading, which the Volume 04 close's own method excludes from the count. **SIX sites were rewritten in drafting to remove the word and the prose is better for it:** Ch 197 (the whole of that yard), Ch 198 (two, including a narration opening that had begun "None of that is in this chapter"), Ch 200 (three, including "the reason this chapter is the shape it is"), and Ch 206 (one, "the only question in the chapter"). **The word is not a target for Volume 05 and the count is zero.**
+- **The word *seat* is absent from the batch**, in the body and in the documents. The word *chair* is used once, in a clerk's block, for a body's absence from a rota. **The word *nest* is absent.** *Brinewake* is absent. The Fieldbook is unspent and was not opened and nobody asked for it. The standing rule was **not** used. No romance, nothing tender, nobody thanked. The day-minus rules were read out loud by the clerk and not asked for. No office in this batch lies, obstructs or delays, and Warden Halden Pike is not in person and is not named.
+- **One deliberate repeated sentence, disclosed rather than cut:** *Nobody said anything and the fen entered that nobody said anything* appears three times, in Chs 197, 201 and 205. It is the manuscript's own refrain and it is a statement of method, not an accidental echo. No other sentence of nine words or more appears twice.
