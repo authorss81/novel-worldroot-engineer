@@ -6,7 +6,7 @@ The twenty-third of this month was a Thursday, and the small branch on the north
 
 The node is under a board and the four villages take their water out of four branches, one to each, and the branches are cut to the kerb and the kerb is in four parts and every part of it is a different mason's mark. Under the north shoulder of that ground, about three hundred yards off, there is a fifth cut in the stone and a launder head above it and no water coming out of it, and the silt in it is about two feet deep and packed hard, and there is no name for it on any of the four bodies' papers and there is a name for it on the schedule in a press four miles off, in a rule headed BY.
 
-The reason for the day is arithmetic and the reader of this body gave it out loud at the gate before anybody picked up a barrow, and the count of that is eleven in this month's history.
+The reason for the day is arithmetic and the reader of this body gave it out loud at the gate before anybody picked up a barrow, and the count of that is twelve in this month's history.
 
 "**The node delivers about one thousand five hundred hundredweight a day and four launders take it and the fourth launder is running about a fifth over what its village was counted at and the silt in that cut has not moved in nineteen years. I have not got a figure for what is under that silt and I am not going to make one up before lunch. What I have got is that four launders do not take everything this ground has, and that is a figure of mine and not anybody's and it is the only figure of mine on this ground that I have said out loud in a yard, and I said it in a yard in the fen on the tenth of this month, at about the ninth hour, standing next to a board.**"
 
@@ -16,7 +16,7 @@ Then he said what he was going to do, and how, and the man of about fifty wrote 
 
 "**And when the water comes back into that cut it will not stay in it. A branch that has been shut for nineteen years comes back in about a quarter of an hour and then it is a fifth launder, and a fifth launder on a node that four villages hold is a fifth body, and I have spent nine days in a yard learning what happens when a node has a fifth body and I am not going to pretend today is a different thing.**"
 
-Then he said the part that is the whole of the twenty-third of this month, and he said it to the two men standing on either side of him with a barrow each, and the fen entered that he gave the reason first and that the count is twelve in this month's history.
+Then he said the part that is the whole of the twenty-third of this month, and he said it to the two men standing on either side of him with a barrow each, and the fen entered that he gave the reason first and that the count is thirteen in this month's history.
 
 "**Here is what I am going to try and here is why I am going to try it in front of you instead of at midnight on my own. That cut is three hundred yards off the main branch and you cannot hold a pattern in two places at once, and a pattern is held by one person at a time, and I have been the only one in this fen for two years and I know what that sentence costs to say out loud.**"
 
@@ -42,7 +42,7 @@ Then the figure, and it was taken twice by two methods and the two did not agree
 
 > **THE VOLUME THAT CAME DOWN THE FIFTH CUT, entered at about the second hour of the afternoon of the twenty-third of this month with the hour, and neither figure improved: FORTY-ONE HUNDREDWEIGHT, by the board across the launder head and the head over the sill and a stopwatch. THIRTY-NINE HUNDREDWEIGHT, by the same head over the same sill and the same stopwatch and the section of the launder measured at three places. The reader of this body wrote FORTY HUNDREDWEIGHT, OR THEREABOUTS, and did not average the two, and gave the reason out loud, which is that a launder is not a measuring instrument and that the average of two figures taken off a board is a third figure about the board.**
 
-And the reader of this body said the thing that the whole of that day is for, out loud, to about nine people, and gave the reason first, and the count of that is thirteen in this month's history.
+And the reader of this body said the thing that the whole of that day is for, out loud, to about nine people, and gave the reason first, and the count of that is fourteen in this month's history.
 
 "**I want to say the number first because the number is small and the number is what everybody will remember. About forty hundredweight. That is the fifth launder. That is one ninth of what Marden and Silling have been living without for eleven years, on about forty days a year, and it is the first water out of that cut in nineteen years and it is a good morning's work and it is not a solution and I am not going to stand here and let anybody call it one.**"
 
@@ -72,7 +72,7 @@ Then the licensed man said the only thing he said on that ground all day, and he
 
 Nobody said anything and the fen entered that nobody said anything, and did not answer it, and entered that he was not going to answer it, and entered the reason, which is that a man who is the only one has spent two years finding out that he cannot be sent for anybody and does not know how to be sent for himself.
 
-Then the reader of this body said the counts, and both of them, and he gave the reason before the numbers, and the count of that is fourteen in this month's history.
+Then the reader of this body said the counts, and both of them, and he gave the reason before the numbers, and the count of that is fifteen in this month's history.
 
 "**Two counts and I am going to say both of them and I am going to say out loud that one of them is mine and that the other one is not, and that I do not know which.**"
 
