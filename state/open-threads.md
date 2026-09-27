@@ -1254,3 +1254,54 @@ Found while recomputing word counts for the repair pass, and **not fixed, becaus
 ### 4. The Batch 0005 prompt does not exist — BLOCKING, and already corrected in the plan locks above
 
 Recorded in the plan locks at the head of this section and in full at the end of `state/continuity.md`. **`workspace/volume-04/batch-0005/` is not on disk and never has been, and this file previously certified a card at that path that was not there.** Everything Batch 0005 inherits is correct and is listed in those two places; what is missing is the prompt itself, and it must be written before that phase drafts and must be the only next phase created.
+
+---
+
+# State after Volume 04 Batch 0005 — the volume's last batch, and the volume's draft is COMPLETE
+
+**Chapters 188–196, days 321–350, are drafted. Volume 04 is now 196 chapters and 143,211 words and the whole of it exists on disk. NOTHING FURTHER IS DRAFTED UNTIL THE CLOSE PHASE RUNS.** The next phase is **Volume 04 close**, its prompt is owed at `workspace/volume-04/volume-close/PROMPT.md`, and **the Volume 05 prompt does not exist and this batch did not write one and must not.**
+
+## The two things this batch found and fixed, and neither may be re-broken
+
+1. **The weekday was wrong, and the wrongness is now a fact in the book.** Day 331 is a **Monday**, not a Saturday; day 330 is a **Sunday**, not a Friday. `state/current.md`, Ch 178 and Ch 187 all had it two days out. **Ch 178 and Ch 187 are closed prose and were not edited.** The error is on the page instead, as an entry by Gael Senn in a yard before the fourth hour on day 321, both figures entered, neither improved on, and the count of the two days this book has got wrong in its own hand is two and does not come down.
+2. **The reading day was wrong, and a reading had been silently skipped.** The standing rule is the fourth hour on the **sixteenth** of every month. The state files had named **day 331, the first of a month**, which is a compost-line day and has never been a reading day. The tenth reading is on day 316 and the eleventh is on **day 346, the sixteenth of the twelfth month, a Tuesday**, and both happened. **The figure is five feet, the same figure as the tenth, on the same line, and nobody has improved on it, and there is still no entry anywhere for that well coming back and no chapter may make one.** **The count of day-and-not-the-figure entries stands at THREE and does not come down**, and the fen has entered that one of the three was aimed at a day that was not a reading day.
+
+The corrected day clock, the two naming tables, the inherited-reading table with both columns, and the corrected month distances are all in `state/continuity.md` under *VOLUME 04 — BATCH 0005*. **A later phase may rely on those tables. The Batch 0005 prompt's own tables were corrected to match and are no longer authority against them.**
+
+## Open threads Volume 05 inherits, with their counts as they stand at day 350
+
+| Thread | State at the end of Volume 04 |
+|---|---|
+| **The well on the shelf** | Ten readable figures, then the tenth and the eleventh both **five feet**, on the occupier's own wall, with her own nail, in her own yard. **Four feet one inch of shortfall against the nine feet of day 136 and it is not decomposed.** There is **no entry anywhere for that well coming back.** |
+| **The compost line** | The eleventh month's line is **closed on the page at £80, derived twice, the third consecutive month, and the run is eleven months not discharged in eleven.** The twelfth month's line falls on the first of the next month, is **not entered, and the reason is entered.** **Whether the word *crowded* or the figure is telling the truth is still open and the woman who does the sums has said on the page that she intends to find out before she is able to.** |
+| **The leak** | Three-quarters of an inch, read twice, two rules. **Deliberately not measured in this volume's last month, on a new reason: a measurement now would measure a load this holding caused.** No cause, no due date, no verdict. |
+| **The beat** | Not logged since the twenty-first of a month six months back. Cause not established, nothing underneath it, column open. **It is named in documents and never in prose, and that separation must survive into Volume 05.** |
+| **The seventh column** | **36 on day 330, 37 on day 331, a day apart, the rule unchanged and not going to be.** |
+| **The day letter** | Off its stone since the eighth to the seventeenth of a month three months back, and the eight missing days have not been written on and are not going to be. |
+| **The man with the spade** | Has not spoken to the other three since the seventeenth of last month. Carried, unresolved, into the next volume. |
+| **The day-minus rules** | Boards at day minus sixty-six and the March's tin at day minus nineteen, read out loud by the clerk before either number on eleven reading days running, and **not asked for on any of the eleven.** |
+| **The form on the bench** | Answered in the **second** box and not the first, returned, original never returned and never torn up. **The licensed draw at the Pans well was reduced by a fifth in the ordinary course as a consequence, it is correct, and it was not appealed.** |
+| **Whose order it is** | Asked three times, answered never. **The count of times it has been available to a room in this holding and not taken stands at SIX and is not reduced by anything in this batch.** |
+| **The question in the book** | **Entered, and unanswered. Available and not taken TWICE, asked ONCE.** |
+| **The vault** | A seed vault of forty households, four hundred yards off the north edge of the pan, on ground the district calls Crown-held and has never held, **went under at about the seventh hour of day 339 and is not recovered.** Roald Trench and Sena Wick are named out of a woman's hand. **A thing in a woman's hand about the north side is not in this holding's book and this holding did not ask for it.** |
+| **The corridor** | Open since the fourth, and open is not a road. Three measurements, 300 / 540 / 486 yards, **and the reason is not established.** A foot and a half of water on a salt pan with a crust on it is not a road and the length of it is not known. |
+| **The classification** | **Migration, fourpence the hundredweight, this holding's own hand, on a Tuesday, before a man with a schedule.** A figure of **four hundred and forty-one** in a quarter's own book. **The office's answer to the goods-carried question is *not known*, and the fen has entered that *not known* is a complete answer and the only one available.** |
+| **Garrow Nye** | Correct in every particular, has corrected this holding twice against himself, both corrections entered and **not to be improved on by anybody who was not in that yard.** **He is not named in this batch and is not written into the sequence of anything in it.** **The sequence stays open: a licensed man declined to say the flow is larger because a holder put his own well back together, and declined to say it is not, and said neither out loud, and no chapter may close that.** |
+| **The standing rule** | Four lines, every one about a stop, satisfied on the third of a month six months back. **Used twice in the volume, both uses in Batch 0004, and the count of the uses is TWO and is not going to be three.** Read out in full in Ch 191 and Ch 196. **The third line does not say *in a yard* and this body read it as though it did for two years, and the notice does not say it.** |
+| **The bottleneck sentence** | Said in a yard twice, on purpose, and the second time out loud about being said again. **Nobody thanked anybody.** |
+| **The pattern hold** | **The count of people who can hold a pattern for four is TWO.** The fen cannot do the second thing, does not know who can, and says on the page that neither of them knows it is a count of people and not of skill. Stage 4 remains entered as a defect. |
+| **The man of about seventy** | Fetched for the **sixteenth** time in a season. **Said nothing at all.** Not thanked, not explained. |
+| **The seedwright's condition** | **Paid, exactly, on the seventeenth of this month.** Nobody thanked, nothing forgiven, the two holds of this month are not a fifth and not a sixth account of the arm, and the fen does not reconcile the four accounts and is not going to. |
+| **Blanks that may not be filled** | **Brinewake is spent, uncorroborated, and may not appear again; the blank in Ch 167's four-line entry may not be filled, may not be described, and may not be noticed by anybody.** |
+| **The use log** | **FIFTEEN.** A gate is not a contact, a draw gets no line, a hold gets no line, and a corridor is not a licensed act. |
+
+## The things a Volume 05 writer must not mistake for open
+
+**Do not open a second road and call it a solution. Do not make the corridor a road. Do not let the vault be recovered. Do not answer whose order it is. Do not close the licensed man's refusal in the sequence. Do not reconcile the four accounts of the arm. Do not reduce the count of the use log, the count of day-and-not-the-figure, or the count of the rule's uses. Do not name a month. Do not spend the Fieldbook panel without spending it on a person and not on a page. Do not thank anybody.**
+
+## The four items of Batch 0004 review craft debt, still owed, and NOT this batch's work
+
+1. **The manuscript-wide meta-language sweep.** *This batch* appears 28 times in Volume 01, 72 in Volume 02, 127 in Volume 03 and 98 in Volume 04. *This volume* is genuinely arguable and was left standing. ***This book* is diegetic and is not a target. *Batch* and *chapter* have no diegetic referent and are.** A sweep of that size rewrites prose in every volume and invalidates every recorded count in every state file. **This is a controller-level decision and not a writer's edit, and it is still not taken.**
+2. **`chapter-0156.md` does not end in a newline**, so a `cat`-based count merges its last word into the next file's first. The manuscript total has been recomputed by a file-safe method and reconciles, but the missing newline is still there and should be fixed at the close.
+3. **Ch 157 at 3,193 and Ch 196 at 3,758 are the volume's two declared per-chapter exceptions**, 73 and 638 over the ceiling. The band was not widened for either. Ch 196 may not be lengthened and may not be cut without taking volume-resolution material with it.
+4. **`AGENTS.md` says to update the phase ledger and the phase instructions forbid editing `state/phase-ledger.json`**, which still reads `phase-000-bootstrap` / `planned`. Open, and not this phase's to settle.

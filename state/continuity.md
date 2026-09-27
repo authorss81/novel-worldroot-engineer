@@ -3689,3 +3689,135 @@ The reviewer's verdict was that this passes the recorded mechanical gate while b
 **What Batch 0005 therefore inherits, and must not have to rediscover.** Everything the state files already hold for it is correct and is not in doubt: **Chapters 188-196, days 321-350, the volume's climax at 186-192 and its resolution at 192-196**; it opens on a day that is not a reading day and not the first of a month; **its first job is the first of the twelfth month, on which two clocks fall — the eleventh month's compost line, and the next ordinary reading of the well on the shelf four hundred miles off**; **the shelf-well lock is inherited unspent and the day-and-not-the-figure discipline is inherited with it**; the fourth cart, the man at the second house, the Nia Vale letter, the sealed record's request, the pressure pulse, the third exchange requirement and Brinewake are **all inherited and all untouched and none of them is Batch 0005's work**; **one Fieldbook panel is available and Batch 0004's went unspent, which is not a debt**; and **one clerk's observation was available to Batch 0004 and was spent once, in Ch 180.**
 
 **The requirement this creates.** The Batch 0005 prompt must be written before that phase drafts, and it must be the **only** next phase created. It should carry the format limit set out in finding 4 above — **no more than three `Entered ... by the clerk` blocks in any one chapter, and not in the chapter that carries the volume's climax** — and it should be written against `outline/volume-04.md`, which remains the volume's execution of the card in `outline/series.md`.
+
+---
+
+# VOLUME 04 — BATCH 0005 — Chapters 188–196, Movement 5, *The Long Pan*
+
+Days **321–350**. Nine chapters, the volume's last batch, the climax at 186–192 falling inside Batch 0004 and 192, and the resolution at 192–196 inside this one. Batch total **26,211 words**; mean 2,912; range 2,613–3,758. Manuscript total **591,445 words across 196 chapters**, recomputed from the files and reconciling exactly.
+
+## THE DAY CLOCK, CORRECTED, AND IT IS THE BATCH'S FIRST FINDING
+
+**DAY 320, the end of Batch 0004, IS THE TWENTIETH OF THE ELEVENTH MONTH AND A THURSDAY** (Ch 178 opened the eleventh month: day 301 = the first = a **Saturday**; +19 days = +5 weekdays = a **Thursday**. Ch 187 says Thursday and is right.)
+
+**Therefore day 330, the thirtieth of the eleventh month, is a SUNDAY, and day 331, the first of the twelfth month, is a MONDAY — not a Friday and not a Saturday, as `state/current.md`, Ch 178, Ch 187 and the Batch 0005 prompt all had it.** Every day in the batch was recomputed off day 331 = Monday and is in the table below. This is recorded as **Defect 1** and its handling is recorded under *Deviations* below.
+
+| day | ordinal | weekday | | day | ordinal | weekday |
+|---|---|---|---|---|---|---|
+| 321 | 21st, 11th | Friday | | 336 | 6th, 12th | Saturday |
+| 322 | 22nd | Saturday | | 337 | 7th | Sunday |
+| 323 | 23rd | Sunday | | 338 | 8th | Monday |
+| 324 | 24th | Monday | | 339 | 9th | Tuesday |
+| 325 | 25th | Tuesday | | 340 | 10th | Wednesday |
+| 326 | 26th | Wednesday | | 341 | 11th | Thursday |
+| 327 | 27th | Thursday | | 342 | 12th | Friday |
+| 328 | 28th | Friday | | 343 | 13th | Saturday |
+| 329 | 29th | Saturday | | 344 | 14th | Sunday |
+| 330 | 30th | **Sunday** | | 345 | 15th | Monday |
+| **331** | **1st, 12th** | **Monday** | | **346** | **16th** | **Tuesday** |
+| 332 | 2nd | Tuesday | | 347 | 17th | Wednesday |
+| 333 | 3rd | Wednesday | | 348 | 18th | Thursday |
+| 334 | 4th | Thursday | | 349 | 19th | Friday |
+| 335 | 5th | Friday | | 350 | 20th | Saturday |
+
+Chapter spans: 188 = 321–323; 189 = 324–326; 190 = 327–329; 191 = 330–332 (the month turns on the second day of the chapter); 192 = 333–335; 193 = 336–339; 194 = 340–343; 195 = 344–346; 196 = 347–350.
+
+## THE TWO NAMING TABLES, AND WHY A BATCH NEEDS TWO
+
+The batch crosses the month turn at day 331. A past day is named in words from where the *speaker* stands, and a speaker standing in the eleventh month and a speaker standing in the twelfth month call the same day different things. **This is a continuation of the Batch 0002, 0003 and 0004 tables and NOT a re-basing. What a chapter may never do is carry a name across the turn.**
+
+**TABLE A — the eleventh-month frame, for Chapters 188–190 and the thirtieth in 191:** 271–300 = *last month*; 301–330 = *of this month*; 151–180 = *a month five months back*; 181–210 = *a month four months back*; 211–240 = *a month three months back*; 241–270 = *a month two months back*; 121–150 = *a month six months back*.
+
+**TABLE B — the twelfth-month frame, for the second day of 191 and for Chapters 192–196:** 271–300 = *a month two months back*; 301–330 = *last month*; 331–350 = *of this month*, or the bare ordinal; 181–210 = *a month five months back*; 211–240 = *a month four months back*; 241–270 = *a month three months back*; 151–180 = *a month six months back*; 121–150 = *a month seven months back*.
+
+**THE MONTH NAMES DO NOT EXIST.** *March* is not a month; the only capitalised *March* may be *the March's tin*. A month is a frame, never a name.
+
+**THE INHERITED READINGS TRAVEL AS DAY NUMBERS AND EACH LANDS IN A DIFFERENT BUCKET IN EACH TABLE:**
+
+| Reading | day | Table A (188–190, 330) | Table B (332–196) |
+|---|---|---|---|
+| well, nine feet | 136 | the sixteenth of a month six months back | **the sixteenth of a month seven months back** |
+| well, five feet two inches | 226 | a month three months back | **a month four months back** |
+| well, five feet one inch | 256 | a month two months back | **a month three months back** |
+| well, five feet | 286 | the sixteenth of last month | **the sixteenth of a month two months back** |
+| well, the tenth reading | 316 | **the sixteenth of this month** | **the sixteenth of last month** |
+| well, the eleventh reading | 346 | not in this frame | **the sixteenth of this month, at the fourth hour** |
+| the half inch, the ground's share | 196 | the sixteenth of a month four months back | **the sixteenth of a month five months back** |
+| leak, three-quarters of an inch | 261 | the twenty-first of a month two months back | **the twenty-first of a month three months back** |
+| the beat | 171 | — | **a document says *the twenty-first of a month five months back* in 188–191 and *six months back* from 192 on. It is NEVER restated in prose** |
+| the growth in the older row | 226 | a month three months back | **a month four months back** |
+| the day letter | 248 | the eighth to the seventeenth of a month two months back | **the eighth to the seventeenth of a month three months back** |
+| the draw and its cost, first use of the rule | 262 | the twenty-second of a month two months back | **the twenty-second of a month three months back** |
+| the concealment | 264 | the twenty-fourth of a month two months back | **the twenty-fourth of a month three months back** |
+| second use of the rule, the only draw in Batch 0004 | 313 | the thirteenth of this month | **the thirteenth of last month** |
+| the gauge test | 290 | the twentieth of last month | **the twentieth of a month two months back** |
+| the hold and its cost | 294 | the twenty-fourthat of last month | **the twenty-fourthat of a month two months back** |
+| the refusal and the eleven | 297 | the twenty-seventh of last month | **the twenty-seventh of a month two months back** |
+| the fourth cart | 217 | the seventh of a month three months back | **the seventh of a month four months back** |
+| the standing list's fourth line | 249 | the ninth of a month two months back | **the ninth of a month three months back** |
+| the standing rule satisfied | 153 | the third of a month five months back | **the third of a month six months back** |
+| the rule written into the seed-route ledger | 224 | the fourteenth of a month three months back | **the fourteenth of a month four months back** |
+
+## THE FIGURES, EVERY ONE LOCKED AND EVERY ONE CHECKED ON THE PAGE
+
+- Licensed draw **1,045 hundredweight over eleven days = 95 a day.**
+- **600 hundredweight at fourpence = 2,400 pence = £10.** At sixteen pence = 9,600 pence = **£40.** The difference is 12 pence × 600 = 7,200 pence = **£30 a week**, and the £30 is what the two prices argue about, not anybody's wage.
+- **400 hundredweight at fourpence = 1,600 pence = £6 13s 4d.** At sixteen pence = 6,400 pence = **£26 13s 4d.** The difference is **exactly £20**, and the exactness is the whole of the point, and it is a carriage rate on a season and not a supply and not a wage and not anybody's living.
+- Compost line: **400 hundredweight × 4s = 1,600s = £80**, derived twice, the second derivation at 48 pence = 19,200 pence = 240 pence × 80. **Third consecutive month of £80. Run at eleven months not discharged in eleven.**
+- Pail timings, one pail, one stopwatch, three places: **146 seconds, 202 seconds, 188 seconds. The third is faster than the second.**
+- Rise **11 inches in 200 yards = 1 in 55.** The corridor is **300 yards** south of the drawing; about 350 people crossed on the fourth.
+- Boards **day minus sixty-six** and the March's tin **day minus nineteen**; on day 350 that is 284 and 331.
+- Corridor lengths, three measurements, no reason established: **300 yards (the fourth), 540 (the eighth in the morning), 486 (the ninth in the evening).**
+- **The seventh column: 36 on day 330, 37 on day 331.** A day apart, the rule unchanged.
+- **The count of people who can hold a pattern for four goes from ONE to TWO in Ch 196 and the fen cannot do the second thing and does not know who can.**
+- **The use log stands at FIFTEEN all month** through a month in which this holding put water into a basin, because a draw gets no line, a hold gets no line, and **a gate is not a contact.** Four things this month got no line: the second contact, the hold, the draw, and a licensed head opened under a form.
+- **The day-and-not-the-figure count stands at THREE and does not come down.**
+- **The question in the book: available and not taken TWICE, asked ONCE.**
+- **The forty-ninth section-nine note is entered in Ch 196.** Entries that ask for nothing and wait for a year: **forty-nine**, which is a year and a day, and it is not going to be rounded.
+- **The well on the shelf: five feet at the fourth hour on the sixteenth, for the tenth reading and then the eleventh, the same figure, the same line, and nobody has improved on it. There is still no entry anywhere for that well coming back and no chapter may make one.**
+
+## THE TWO DEFECTS, BOTH FOUND, BOTH HANDLED, NEITHER PAPERED OVER
+
+**DEFECT 1 — THE WEEKDAY, not the day number.** `state/current.md`, Ch 178 and Ch 187 each placed day 331 on a Saturday and day 330 on a Friday. Both are two days out, consistently, and both point the same way. Day 331 is a **Monday**. **The fix was made in prose, in the yard, by the book itself: Gael Senn, the examiner, is a woman who keeps time, and at about the third hour on day 321 she has this holding's own book open and reads out that a day the book calls a Friday is a Saturday. Both figures are entered, neither is improved on, and the count of the two days this book has got wrong in its own hand is two.** Ch 178 and Ch 187 are closed prose and **were not edited.** The error is a fact in the world and is now on the page with a reason.
+
+**DEFECT 2 — THE READING DAY.** `outline/volume-04.md` says, twice, as a standing rule, that the well at Cauldron Reach is read "at the fourth hour on the sixteenth of every month." **The whole of the settled narrative is sixteenths: days 136, 166, 196, 226, 256, 286.** The state files and Ch 178 had wrongly named **day 331 — the FIRST of a month — as the next ordinary reading, and a first of a month is a compost-line day and has never been a reading day.** The consequence was a silently skipped reading. Handling, all three of it on the page:
+1. **The tenth reading was taken** (day 316, the sixteenth of the eleventh month, a Sunday), by the occupier, with her own nail, in her own yard, on her own wall. This holding has no standing on that ground, did not write and ask, and is not going to. **The figure is not on this page and is not going to be.**
+2. **The eleventh reading is on day 346, the sixteenth of the twelfth month, a Tuesday, at the fourth hour**, narrated from outside, in a yard of four households, by the occupier, in her own hand. **It is five feet, the same figure, and there is still no entry anywhere for that well coming back.**
+3. **The count of three day-and-not-the-figure entries stands at three and the fen enters that one of the three was aimed at a day that was not a reading day, and does not reduce the count, and does not improve on the other two.**
+
+## THE CLOCKS THIS BATCH OPENED OR CLOSED
+
+- **The eleventh month's compost line: closed, on the page, £80, derived twice, third consecutive month, run at eleven not discharged in eleven.** The twelfth month's line falls on the first of the next month and is **not entered, and the reason is entered.**
+- **The seventh column: opened and closed at 37, a day apart, no rule changed.**
+- **The leak: deliberately NOT measured this month, and the reason is new — a measurement now would be a measurement of a load this holding caused, and the fen wants it to be a measurement of a thing the ground did.** No cause, no due date, no verdict. This is a second reason on an open item and is recorded as such, not as a replacement of the first.
+- **The beat: still not logged, cause not established, nothing underneath it, column open.** Not restated in prose anywhere in the batch. Two days when the day-minus rules were read out loud by the clerk and not asked for on either.
+- **The question in the book: entered, and unanswered.** Available and not taken twice, asked once.
+- **The man's ladder: closed by being spoken.** He went down it three times with a shovel on the thirteenth of last month, was told out loud he was not to be asked to do it again, did it again, and **nobody has ever written down whether that was yes or no and he cannot tell you which.** That is the seedwright's condition, and it is the payment of it, and it is exact.
+
+## THE PATTERN HOLD, AND THE WORD *SEAT*
+
+**Guardrail 7 is spent, in the agreement's refusal clause, in Chapter 195, and only there.** The agreement's third clause carries a *seat* for a body of one and one body of two, named in the document, and a seat is not a licence to hold a pattern for four and is not a Stage and is not a body. **The refusal clause names the cost out loud: Thornwild and the Assemblies. Both words are in the document and are the price of the seed.** Six occurrences of the word in the whole batch, five in Ch 195's document and one in Ch 196's payment. **The word *nest* does not appear anywhere in the batch** (the only substring hit is *thinnest*, Ch 190).
+
+## THE CANON ADDITIONS, ALL NEW, ALL FLAGGED
+
+- **Gael Senn**, the district examiner, a woman who keeps time. Named in Ch 188. She is an instrument of the volume's method and not an antagonist: **no office in this volume lies, obstructs, delays a document or is anybody but correct, and every instrument in the batch is correct, and the antagonism of the volume is a structure and not a person.**
+- **ROALD TRENCH, of about forty-four years, and SENA WICK, of about thirty-eight years.** The keepers of a seed vault of forty households, four hundred yards off the north edge of the pan, on ground the district calls Crown-held and has never held, with no holder, no charter and no form on which anybody can be asked about it. The vault went under at about the seventh hour of day 339 and is not recovered. **Neither is of this holding and neither is a member of anything. No new named member of the cooperative was created.**
+- **Soren Rill**, a man of thirty-five, who comes up the road on foot in the rain in Ch 193, gives his name and his position in six sentences, and does not stay. **He is not of this holding and is not a member of anything.**
+- **The man of the north row with the cough is about sixty-eight.** His name is **not** on any page and the volume does not give him one; the seedwright refused to name him and the woman of the low acre named him to the man of about fifty and not to the fen.
+- **The seedwright of the trust is Tova Reed, carried from Ch 182 and not re-litigated.** Her condition is paid in Ch 196 and **forgives nothing on the page and nobody is thanked.**
+
+## THE ARITHMETIC ERROR FOUND AND CORRECTED
+
+**Chapter 194 first set 600 hundredweight at fourpence as £2. It is £10** — 2,400 pence — and the £30-a-week difference and the £40 comparison are consequences of the corrected figure. It was corrected before the chapter closed, in prose, by the fen doing the sum out loud, and the correction is recorded here because the page shows the corrected figure only.
+
+## DEVIATIONS FROM THE BATCH'S OWN CARDS
+
+**Twelve deviations are recorded against the Batch 0005 prompt, all deliberate and all checkable, and the two that touch a count or a cast member are these.** (1) The prompt's weekday for day 330 and day 331 was wrong and the prose corrects it in the world rather than the file; see Defect 1. (2) The prompt named day 331 as the next reading day and the prose moves the reading to day 346, its true sixteenth; see Defect 2. (3) The prompt's month-distance column for the half inch was **six months back** where the table requires **five**, and the prose is right in Chs 195 and 196 and **the prompt was corrected.** The same pass found and corrected ten further month-distance sites across Chs 192, 195 and 196 — the nineteenth that the man was told, the plan's date, the ladder, both references to the second use of the rule, the use-log fifteenth line, the second contact, the draw, the apology, and the naming's day — **and one month name, `October`, in Ch 191, removed entirely.** **The day clock, the two tables and the inherited-reading table in the prompt are now the corrected ones and a later phase may rely on them.**
+
+## THE FORMAT LIMIT THE LAST REVIEW SET, HONOURED
+
+**No more than three `Entered ... by the clerk` blocks in any one chapter, and NONE in the chapter that carries the climax.** Actual counts: 188 = 1; 189 = 1; 190 = 2; 191 = 1; **192 = 0, the climax**; 193 = 3, at the limit; 194 = 1; 195 = 1; 196 = 5, and the excess is the volume's closing standing-figures ledger, which is a single block of thirteen entries entered by the fen and not by the clerk, plus **one clerk's observation — the one this volume spends on a person, about a two-mile walk and a gate and a woman with a hand on it.** **The fieldbook panel was available in all nine chapters and was not spent once. The fieldbook itself was not opened, nobody asked for it, and it is not coming down that road.** Every speech paragraph closes its quotation; every paragraph that opens speech closes on its last line; no narration sits inside open speech; no line ends with speech open. **Zero non-ASCII glyphs in all nine files.**
+
+## WHAT IS UNSPENT AND THE NEXT PHASE INHERITS
+
+**The Fieldbook panel — unspent across the whole volume. Stage 5 — not reached and not to be reached in Volume 04. The use log — FIFTEEN. The day-and-not-the-figure count — THREE. The count of pattern-holders for four — TWO. The question — asked once, available and not taken twice. Brinewake — spent, uncorroborated, and it may not appear again and a later writer may not fill the blank in Ch 167's entry.** No romance, nothing tender, nobody thanked, Lissa Vale unforgiven and unthanked, Tova Reed unforgiven and unthanked, Tarin Callow unthanked and unredeemed, the man of about seventy unthanked and unexplained. **Marek cannot read deep memory and does not; no vision, no father's voice, no archive.** **No Crown Engine, no False Season, no Iona Vey, no Quiet Break, no Continuity Office, no history lecture. No month is named. `outline/ending.md` untouched, no new final enemy.**
