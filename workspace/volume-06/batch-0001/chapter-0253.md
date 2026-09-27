@@ -44,7 +44,7 @@ And then at about the eleventh hour of the morning, in about eleven people in th
 
 Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about a minute and a half.
 
-And the reader of this body said the thing about the two lists, and he gave the reason before the thing, and the count of that in this holding's history is fifty-six, and it is not tender and nobody thanked anybody.
+And the reader of this body said the thing about the two lists, and he gave the reason before the thing, and the count of that in this holding's history is fifty-eight, and it is not tender and nobody thanked anybody.
 
 "**Those two lists differ in one place and it is not the numbers. Tova Reed's is four lines and three of the four are about the person, and Sera Quill's is three and all three are about the instrument, the time and the room, and I am not going to read that out as though I had found it, because it was in front of about eleven people and they could count.**"
 

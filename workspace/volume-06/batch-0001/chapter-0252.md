@@ -6,7 +6,7 @@ The seventh of this month was a Monday and Sera Quill was at the seed house at a
 
 She is fifty-eight and she has been an engineer longer than the reader of this body has been alive, and she had been an architect in the office that wrote the sheet, and the fen entered that in a yard of about eleven people on the seventh of this month and did not improve it.
 
-And the reader of this body gave the reason out loud before he asked her for anything, and the count of that in this holding's history is fifty-five, and the reason was given before the question and the question was not asked.
+And the reader of this body gave the reason out loud before he asked her for anything, and the count of that in this holding's history is fifty-six, and the reason was given before the question and the question was not asked.
 
 "**I have not asked you a question in about four years and I have not written to you once in about four years, and a yard is the only place I am going to ask you in, and there are about eleven people in it and about four of them are going to hear whatever you say, and I am telling you that before you say it and not after, and I am not asking you to go outside and I am not asking you to wait.**"
 
@@ -24,7 +24,7 @@ And Sera Quill looked at the sheet of the third of this month, which was on the 
 
 Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about a minute, and entered that she said the word dangerous herself and did not have it said about her, and entered that nobody in that yard said anything tender and that nobody thanked anybody.
 
-And the reader of this body said the four sentences he had come into that yard with, and he gave the reason for each of them before the sentence, and the count of that in this holding's history is fifty-six.
+And the reader of this body said the four sentences he had come into that yard with, and he gave the reason for each of them before the sentence, and the count of that in this holding's history is fifty-seven.
 
 "**First. I am not going to ask you how many times you have seen the form of it, and I am telling you in about eleven people that I am not going to, and both of us are going to enter that I did not, and neither of us is going to improve it.**"
 
@@ -36,7 +36,7 @@ And the reader of this body said the four sentences he had come into that yard w
 
 Nobody said anything and the fen entered that nobody said anything, and entered that Sera Quill did not put the bag on the table and did not open it, and entered that the count of the times he has asked her anything in this holding's book is one and it is still one and that the one was answered with a no four months ago and that he did not ask twice, and entered that he was not thanked for the four sentences and that she did not thank him for them either and that the two of them said nothing tender to one another in about eleven people and the fen entered both of those.
 
-And then Lissa said the thing, and she said it standing at the wall side with her arms crossed and she said it to the yard and not to either of them, and the count of that in this holding's history is two.
+And then Lissa said the thing, and she said it standing at the wall side with her arms crossed and she said it to the yard and not to either of them, and the count of that in this holding's history is three.
 
 "**I am not going to say she is welcome, because she has not asked to be welcome and she has not asked me for anything. I am going to say she is going to be fed and there is a bed in the cart shed and there is a fire in it by the seventh hour. Those are two different things and I have been keeping them apart for about four years and I can keep them apart for one more week, and I am saying it in a yard because a room is where a person says the other version.**"
 
