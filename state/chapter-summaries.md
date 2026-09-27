@@ -1124,3 +1124,37 @@ The second line of the rota came round on the twenty-fourth at the second hour a
 ### THE SIX THINGS THE CLOSE ADDED TO THE OPEN THREADS, NUMBERED 88 TO 93
 
 **The two namings of the fifth and sixth not knowns. The Monday morning of day 478. The compost-line rate that does not reconcile across the Volume 05 boundary, which a Volume 06 close may not repair. The refrain family at 372 and the bare sentence at ten. The three byte-identical connective paragraphs. And the figure of one hundred and twenty-seven, recorded so that no later writer repairs it without reading the reason.**
+
+---
+
+# VOLUME 06 — THE CLOSE, SECOND PASS — CHAPTERS THE CLOSE ACTUALLY CHANGED
+
+**NONE. THE SECOND CLOSE PASS REPAIRED NO PROSE IN ANY CHAPTER OF VOLUME 06, AND THIS SECTION EXISTS BECAUSE A CLOSE THAT CHANGED NOTHING MUST SAY SO ON THE PAGE AND NOT BY SILENCE, AND BECAUSE THE SIX DEFECTS IT FOUND ARE DECLINED AND A DECLINE THAT IS NOT WRITTEN DOWN IS A FINDING THAT COMES BACK. THE FIRST CLOSE'S REPAIRE FOOTPRINT ACROSS TWENTY-EIGHT CHAPTERS STANDS ABOVE AND IS NOT REPEATED HERE. THE ONLY CHAPTERS THIS PASS TOUCHED ARE THE SEVEN WHOSE FIGURES WERE STALE IN THE STATE LAYER, AND IT TOUCHED NO CHAPTER FILE AT ALL.**
+
+**`chapter-0287.md` — CHANGED BY NOBODY. The same ninth-day return is printed at one hundred and ninety-five at `:27` and in the clerk's block and at one hundred and fifty-five at `:63`, and `:33` derives one hundred and ninety-five twice. The correct value is one hundred and ninety-five. NOT REPAIRED, BECAUSE IT IS A FIGURE. The repair is one word and costs zero words and is the first thing the next prose phase should do.**
+
+**`chapter-0249.md` — CHANGED BY NOBODY. Line 57 gives the man of about fifty fourteen in this holding's history and `chapter-0251.md:19` gives him fourteen again two days later on a morning he spoke in about eleven people. The series is monotone from fifteen at Ch 256 to thirty-nine at Ch 294 only if the fourth is thirteen. NOT REPAIRED, BECAUSE IT IS A COUNT, AND THE ALTERNATIVE REPAIR MOVES TWENTY-EIGHT NUMBERS ACROSS TWENTY-FIVE CHAPTERS.**
+
+**`chapter-0251.md` — CHANGED BY NOBODY. Line 19 is the second of the two fours above and is the site that establishes the duplicate.**
+
+**`chapter-0257.md` — CHANGED BY NOBODY. Lines 67, 69 and 73 say the ninth of last month for Sabra Ollerton's visit and should say the ninth of this month; Ch 253:63 puts her in a room on the ninth of the fourth month. NOT REPAIRED, BECAUSE EACH IS A DAY.**
+
+**`chapter-0258.md` — CHANGED BY NOBODY. Line 65 says the sixth of last month for the letter to the Assembly and should say the sixth of this month; Ch 253:15 puts the letter on the sixth of the fourth month. NOT REPAIRED, BECAUSE IT IS A DAY.**
+
+**`chapter-0259.md` — CHANGED BY NOBODY. The clerk's block says the first thing on the ordinary post in four years was a letter on the sixth of last month and should say this month. NOT REPAIRED, BECAUSE IT IS A DAY.**
+
+**`chapter-0260.md` — CHANGED BY NOBODY. Line 63 gives the twelfth sleepless night as the ninth of last month and should give the ninth of this month; Ch 254:59 puts it on the ninth of the fourth month. NOT REPAIRED, BECAUSE IT IS A DAY.**
+
+**`chapter-0262.md` — CHANGED BY NOBODY. Line 23 and the clerk's block say the first letter went up on the sixth of last month and should say this month. NOT REPAIRED, BECAUSE EACH IS A DAY.**
+
+**`chapter-0279.md` — CHANGED BY NOBODY. Harlan Vetch says he asked his three questions in a yard on the nineteenth of a month two months back and that a question with nothing under it for two months is a habit; Ch 263:41 and Ch 271:33 put the asking on the nineteenth of the fourth month and the interval is eighteen days. NOT REPAIRED, BECAUSE EACH IS A DAY.**
+
+**`chapter-0283.md` — CHANGED BY NOBODY. The entry dates the one question the reader of this body has asked Sera Quill to the seventh of last month, and Ch 252:37 dates it to four months before this month and Ch 252:9 states that on the seventh of the fourth month the question was not asked. NOT REPAIRED, BECAUSE IT IS A DAY.**
+
+**`chapter-0285.md` — CHANGED BY NOBODY, AND THE DECLINE AT LINE 37 IS RE-AFFIRMED WITH ITS REASON CORRECTED. One hundred and twenty-seven is printed as the third launder's figure for the twenty-eighth of last month and is in no series, and four hundred and ninety-four is printed as the distance between it and six hundred and twenty-one; the third launder read six hundred and fourteen on that day at `chapter-0271.md:5` and in that chapter's clerk's block, and the distance is seven. The first close declined on the ground that the figure is deliberately uncheckable; that ground is unsound, because the sentence names an instrument and a day and the count of two uncheckable numbers is a count of figures handed out and is untouched by either value. DECLINED, BECAUSE IT IS A FIGURE.**
+
+**`chapter-0294.md` — CHANGED BY NOBODY. Line 13 gives the count of mornings on which the day-minus rules were read out loud in the fifth month as four, and the rules are read out loud in that month at eight printed sites, in this chapter, Ch 274, Ch 278, Ch 285 twice, Ch 287, Ch 289 and Ch 291. NOT REPAIRED, BECAUSE IT IS A COUNT.**
+
+**`chapter-0288.md`, `chapter-0289.md`, `chapter-0290.md`, `chapter-0291.md`, `chapter-0292.md`, `chapter-0293.md` — CHANGED BY NOBODY BY THIS PASS, AND THEIR WORD COUNTS ARE THE ONLY FIGURES THIS PASS CORRECTED, IN THE STATE LAYER AND NOT IN THE CHAPTERS: 2,789, 3,120, 3,112, 3,113, 2,825 and 2,907, against 2,783, 3,118, 3,114, 3,117, 2,808 and 2,908 as the first close measured them. Ch 289 IS NOW EXACTLY AT THE 3,120 CEILING AND MAY NOT BE LENGTHENED BY ONE WORD WITHOUT A RE-MEASUREMENT.**
+
+**THE THREE LONG SERIES RECONCILE EXACTLY AND NO CHAPTER NEEDS REPAIR FOR THEM: the fifty-five third-launder figures are all distinct and the count is day minus four hundred and fifty; the seven ninth-day returns run 87, 140, 151, 162, 173, 184, 195 and are each eleven apart on a nine-day cycle; the aggregate sentence's three figures are exact at all eleven of its sites; the thirteen day-minus pairs are all forty-seven apart and all resolve by day minus sixty-six and day minus nineteen; the rota is exact at all thirteen sites; and the north row man's two counts run eighteen to twenty-seven yards and four to ten silences and are never added.**
