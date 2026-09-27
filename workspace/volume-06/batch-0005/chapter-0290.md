@@ -35,7 +35,7 @@ And then the plate was read out, in the dark, by the reader of this body and rep
 > **IT OPENS THE VALVE IT IS MADE FOR AND NOTHING ELSE.**
 > **ROOTWOOD. LIVING. SIX LINES AND NO DATE AND NO DISTRICT.**
 
-Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about a minute, and entered that the word on the fifth line is *it*, and that a maker who writes *it* in a sentence about a sequence has decided there is one of them, and that a man in the dark who does not know what a sequence is read a word in a shop six weeks ago, and that he had no way of knowing that on Sunday and had one on Tuesday.
+Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about a minute, and entered that the word on the fifth line is *it*, and that a maker who writes *it* in a sentence about a sequence has decided there is one of them, and that a man who has never had a word for a sequence read one in a shop six weeks ago, and that he had no way of knowing that on Sunday and had one ten minutes ago.
 
 And then the reader of this body put his left hand flat on the cradle, at about the fourth inch along the inside of his own forearm, where a mark runs in a person who has been holding, and he took the thing out of the water with his right hand, and the fen entered the whole of the hand and did not improve it.
 
