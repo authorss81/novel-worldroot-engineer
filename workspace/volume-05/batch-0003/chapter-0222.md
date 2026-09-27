@@ -46,7 +46,7 @@ The north sill, the third of the four parts, which is the one that is not the sa
 
 The north sill takes Havergate's launder and there are about ninety trees on the north side of that ground and they were in bud and not in leaf, and the fen entered that he looked at them and entered the reason he looked, which is that if ninety trees in bud and a hundred and forty-one in leaf produce a difference of nine inches in a trunk then the north side is the test and the north side is the control, and that a figure with a control in it is a figure a village can act on, and that he had a control in front of him at about the fourth hour of the evening of the fourteenth of this month and had not used it until the following week, and that this is the second time in six days that he has had something in his hand that would have answered the thing he had published, and that the count of that is two and he is entering both of them in one line.
 
-The east sill, the first of the four parts, which had been cut in the stone four days ago, was **two feet four inches**, and it was carrying nothing at all, and a dry sill is a number about a stone and not a number about a ground.
+The east sill, the first of the four parts, which had been cut in the stone three days ago, was **two feet four inches**, and it was carrying nothing at all, and a dry sill is a number about a stone and not a number about a ground.
 
 And the three of those were not figures that anybody could act on and the reader of this body said so out loud, at about the fifth hour of the evening, to about nine people at a wall, and the man of about fifty wrote it down and read it back, and the fen entered the count of asks in a yard with the reason given first and it is twenty-four in this month's history and he gave the reason before the number.
 
@@ -54,7 +54,7 @@ And the three of those were not figures that anybody could act on and the reader
 
 "**And I am going to say the three things that are true about them, and none of them is a number.**"
 
-"**The one that fell is the one with a hundred and forty-one trees standing on the same ground, and the one that did not fall is the one with about ninety on a different part of it, and the one that did not fall is carrying nothing at all because a village cut it four days ago and nobody in this yard had anything to do with it.**"
+"**The one that fell is the one with a hundred and forty-one trees standing on the same ground, and the one that did not fall is the one with about ninety on a different part of it, and the one that did not fall is carrying nothing at all because a village cut it three days ago and nobody in this yard had anything to do with it.**"
 
 "**The falling stopped. It is one foot ten inches and it has been one foot ten inches for eight days and the fall was over inside those eight days and it is not a wound, because a wound does not stop, and I have been calling it a thing going down since the sixth of this month and I would like that word struck out of my own book.**"
 

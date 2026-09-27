@@ -12,7 +12,7 @@ He stood at the gate from about the second hour of the afternoon until about the
 
 The licensed man was not there and the fen entered that he had not been asked and had not come, and entered the reason, which is that there is no form in this district for what happened at a stone kerb on the eleventh of this month and a man who is on the roll is not going to be the eleventh person in a village yard that has not asked him.
 
-They priced it on the stone, and they priced it in their own arithmetic and not in his, and the man of about fifty wrote it all down and did not say one word of it, and the woman of about thirty-eight read it out twice at the end, and it went up the hill with a woman on a cart and arrived at the gate of this holding four days later and the reader of this body read it standing in the road.
+They priced it on the stone, and they priced it in their own arithmetic and not in his, and the man of about fifty wrote it all down and did not say one word of it, and the woman of about thirty-eight read it out twice at the end, and it went up the hill with a woman on a cart and came to Errow Reach the next morning, and the reader of this body read it standing in the road.
 
 The arithmetic took about forty minutes and it went wrong once, and the man of about fifty counted wrong in the middle of it, and Hesta Lyle said so from about nine feet off the stone in the middle of a yard of about nineteen people and did not raise her voice, and the woman of about thirty-eight did not take it back and did not argue, and said what the wrong figure was and said how she had got it and said that she had got it because she had used the figure off the counting paper, which is a figure of wanting, and that anybody who has been in this yard for four years knows that the third column is a count of wanting and is not going to be corrected today.
 
@@ -32,7 +32,7 @@ And he sat down on the flat place at the foot of the bank with his stick across 
 >
 > **AND FOR THE SAKES OF THE OTHER VILLAGES, BECAUSE SOMEBODY WILL WORK IT OUT WITH THE WRONG NUMBER: THE WHOLE SHORTFALL AT THAT NODE IS SIX HUNDRED HUNDREDWEIGHT A DAY AND FORTY-EIGHT PENCE A HEAD A MONTH ACROSS ABOUT FIFTEEN HUNDRED PEOPLE, AND WHAT WE HAVE LOST IS TWENTY-FIVE HUNDREDWEIGHT A DAY AND TEN PENCE A HEAD A MONTH ACROSS ABOUT THREE HUNDRED PEOPLE, AND THOSE ARE NOT THE SAME FIGURE AND ANYBODY WHO PUTS THEM IN ONE COLUMN IS GOING TO MAKE ONE OF THEM LOOK LIKE THE OTHER ONE.**
 >
-> **THE GROUND ABOVE THAT VILLAGE IS TURNED ON THE FIRST OF THE THIRD MONTH, WHICH IS IN THIRTEEN DAYS, AND A TURN TAKES A FORTNIGHT WITH WATER IN THE DITCH AND A MONTH WITHOUT. THE DITCH IS NINETY FEET AND IT HAS BEEN DRY AT BOTH ENDS SINCE THE TWELFTH OF THIS MONTH. WE ARE GOING TO TURN IT WITHOUT.**
+> **THE GROUND ABOVE THAT VILLAGE IS TURNED ON THE FIRST OF THE THIRD MONTH, WHICH IS IN THREE DAYS, AND A TURN TAKES A FORTNIGHT WITH WATER IN THE DITCH AND A MONTH WITHOUT. THE DITCH IS NINETY FEET AND IT HAS BEEN DRY AT BOTH ENDS SINCE THE TWELFTH OF THIS MONTH. WE ARE GOING TO TURN IT WITHOUT.**
 >
 > **WE ARE NOT SENDING THIS TO YOUR FEN TO BE PUT IN A BOOK. WE ARE SENDING IT BECAUSE A MAN WROTE A SHEET WITH HIS NAME AT THE TOP OF IT AND GAVE IT TO US AND WE ARE NOT GOING TO USE IT AND HIDE IT.**
 

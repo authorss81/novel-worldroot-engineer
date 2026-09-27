@@ -18,11 +18,11 @@ There are seven that decide at Marden and about two of the seven were on that st
 
 The woman of about thirty-eight of Marden, who keeps the gate count and is not one of the seven that decide, said the thing that the yard had agreed to say first, and she said it standing on the stone.
 
-"**Before anybody says yes or no I am going to ask the man who held the book. You were in the room when he read that sill on Saturday evening and I want one answer from you in front of us and not from him, because he is at the gate and he is not going to be asked anything and I have watched men at gates not be asked things for four years.**"
+"**Before anybody says yes or no I am going to ask the man who held the book. You were in the room when he read that sill on Wednesday evening and I want one answer from you in front of us and not from him, because he is at the gate and he is not going to be asked anything and I have watched men at gates not be asked things for four years.**"
 
 And the man of about fifty said it, in about eleven people, on a stone, in Marden's own yard, and the fen entered that it is the first time in thirty days that anybody has said a word about that sheet in somebody else's yard and that he was not in that yard for it.
 
-"**Once. He read it once on Saturday evening and he wrote it down once, and the figure he is comparing it against he took at the same place at the same hour thirty-five days ago and that is in his book with the day on it, and that is two figures and one reading, and I was in the room for both of the other things and I am not going to stand on this stone and tell you that is three.**"
+"**Once. He read it once on Wednesday evening and he wrote it down once, and the figure he is comparing it against he took at the same place at the same hour thirty-five days ago and that is in his book with the day on it, and that is two figures and one reading, and I was in the room for both of the other things and I am not going to stand on this stone and tell you that is three.**"
 
 And about nine of the nineteen said the same sentence, and the fen entered the count of nine and entered that it is the same count as the nine who refused the withdrawal on the twenty-first of last month and that the fen did not enter that and entered only the count.
 

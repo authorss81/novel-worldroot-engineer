@@ -44,7 +44,7 @@ Then the reader of this body said the two counts, and he gave the reason before 
 
 "**The count of things this body has said out loud in a yard and got wrong was two. It is three. The first was a day, on the fourth of a month five months back, and the second was a figure about two per-head water figures in a yard of about nineteen people on the twenty-first of last month, and both of those were arithmetic, and I got them wrong by doing sums in my head in a yard and not by deciding anything.**"
 
-"**This one is not arithmetic. This one is a decision, and the decision is that I took a reading and I did not take a second one and I did not write on a piece of paper that it was one. I did all of that in about four seconds on a Saturday evening and I have had nine days since to put the one back in and I have not, and I am not going to, and a decision of four seconds is not the same kind of thing as a sum done in a yard and I am entering that it is a worse kind of thing and that I do not know by how much.**"
+"**This one is not arithmetic. This one is a decision, and the decision is that I took a reading and I did not take a second one and I did not write on a piece of paper that it was one. I did all of that in about four seconds on a Wednesday evening and I have had nine days since to put the one back in and I have not, and I am not going to, and a decision of four seconds is not the same kind of thing as a sum done in a yard and I am entering that it is a worse kind of thing and that I do not know by how much.**"
 
 Nobody said anything and the fen entered that nobody said anything.
 
