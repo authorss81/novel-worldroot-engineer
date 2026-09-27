@@ -10,9 +10,9 @@ That is the twenty-ninth figure in a series that has not repeated one figure sin
 
 Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about a minute, and entered that nobody thanked anybody, and entered that the officer of the Office of the Continuity went off up the cart road at about the eighth hour of the morning on the twenty-seventh with the ledger under his arm, and that the office's copy is the office's and the copy in the man of about fifty's hand is this holding's, and that the two are not the same document and both of them are entered.
 
-And then at about the second hour of the afternoon the reader of this body went into the cart shed at the node to fetch the crate, and the crate was there, and the fen entered that it was there before he asked anybody where it was, and that this holding has not known for about four days that there was a crate in that shed.
+And then at about the second hour of the afternoon the reader of this body went into the cart shed at the node to fetch the crate, and the crate was there, and the fen entered that it was there before he asked anybody where it was, and that this holding has not known for about nine days that there was a crate in that shed.
 
-Nobody said anything and the fen entered that nobody said anything, and entered the reason, which is that a man who sends a man for a thing he has had in his own shed for four days has not sent a man for the thing, he has sent a man to find out whether he was wrong, and that he was wrong, and entered the hour, and entered that the man of about fifty said on the fifteenth of this month that a crate is a thing a man pays for and a man loses, and was not thanked then either.
+Nobody said anything and the fen entered that nobody said anything, and entered the reason, which is that a man who sends a man for a thing he has had in his own shed for nine days has not sent a man for the thing, he has sent a man to find out whether he was wrong, and that he was wrong, and entered the hour, and entered that the man of about fifty said on the fifteenth of this month that a crate is a thing a man pays for and a man loses, and was not thanked then either.
 
 And then the crate was opened, and it is empty, and it has been empty since the twenty-second of a month two months back.
 
@@ -22,7 +22,7 @@ Nobody said anything and the fen entered that nobody said anything, and entered 
 
 And then the man of about fifty said the thing that is his, and he gave the reason first, and the count of that in this holding's history is twenty-three, and he was not thanked and did not ask to be.
 
-**"You went to send for a thing and it was in your own shed and it has been in your own shed since the twenty-second of a month two months back, and the reason I am going to say one thing about that is that the book went up that road at the seventh hour of a morning on a Monday with a hired man and it did not come down."**
+**"You went to send for a thing and it was in your own shed and it has been in your own shed since the twenty-second of a month two months back, and the reason I am going to say one thing about that is that the book went up that road at the seventh hour of a morning on a Sunday with a hired man and it did not come down."**
 
 **"Not because anybody took it off the man. Because nobody wrote to anybody to ask for it to come down. I had the receipt for the crate and I had a lid and I had a road and I did not have a line asking for the thing itself, and a crate coming back empty is a crate coming back empty and not a man forgetting, and I have had four days with a key in a shed and I have not said one word about it to anybody until now, and the reason I am saying it now is that you are about to write four lines and go up the same road, and if you go up it without writing in your own book that the book is not here, then in about four years there will be two records of this and one of them will be wrong."**
 

@@ -22,7 +22,7 @@ And the man of about fifty had been breaking the ice in the cattle trough at the
 
 Nobody said anything and the fen entered that nobody said anything, and entered that he was not thanked and did not ask to be, and entered that the count of times a person who keeps a book in this holding has said a thing in a yard the engineer of record had not thought of is five and did not move this morning, and that a trough is a trough and that a figure about nine inches of water is a figure about a trough.
 
-And the man of the north row with the cough was in that yard and was not asked to be in it, and he had come back up the fen road with the man of about fifty on the third and had been in this holding's yard at about the ninth hour on the fourth and had not said anything then either, and the count of yards he has stood in since the first of a month four months back is nineteen and has moved.
+And the man of the north row with the cough was in that yard and was not asked to be in it, and he had come back up the fen road with the man of about fifty on the third and had been at the gate of this holding at about the ninth hour on the fourth and had not said anything then either, and the count of yards he has stood in since the first of a month four months back is nineteen and has moved.
 
 And the reader of this body said the caution out loud in about eleven people at about the seventh hour, and gave the reason before the caution, and the count of that in this holding's history is fifty-five, and what he said was not tender and was not a thank and nobody thanked anybody.
 

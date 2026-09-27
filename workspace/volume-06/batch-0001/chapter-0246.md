@@ -68,7 +68,7 @@ And the four launders were read out that afternoon and the four bodies of househ
 
 **Nine hundred. Six hundred. Five hundred and seventy-five. Twenty-five.**
 
-Nine hundred and six hundred is fifteen hundred. Fifteen hundred and five hundred and seventy-five is twenty-one hundred. Twenty-one hundred and twenty-five is two thousand a hundred and twenty-five, and the twenty-five is inside somebody's about.
+Nine hundred and six hundred is fifteen hundred. Fifteen hundred and five hundred and seventy-five is twenty hundreds and seventy-five. Twenty hundreds and seventy-five and twenty-five is twenty-one hundred, and the twenty-five is inside somebody's about.
 
 The node's own delivered figure is about twenty-one hundred hundredweight a day. The figure the four bodies of households count that they need is about twenty-one hundred.
 

@@ -8,7 +8,7 @@ And the figure for the second went into the book that keeps the third launder at
 
 **Six hundred and eighteen hundredweight.**
 
-That is the thirty-second figure in a series that has not repeated one figure since the first, and it has fallen, and the eleven figures of the eleven days since the twenty-third of last month have fallen five times and risen six times, and the fen entered both and did not improve them, and entered that nobody thanked anybody and that nothing tender was said in any yard of this holding or at that node on that day.
+That is the thirty-second figure in a series that has not repeated one figure since the first, and it has fallen, and the ten figures of the ten days since the twenty-third of last month have fallen five times and risen five times, and the fen entered both and did not improve them, and entered that nobody thanked anybody and that nothing tender was said in any yard of this holding or at that node on that day.
 
 And then at about the fourth hour of the afternoon the reader of this body went up the cart road past the ford and off it and out onto the shoulder above the local lead line, and two other people went with him, and the fen entered the three and entered the reason, which is that the man of about fifty had the book and the man of about thirty-one of Silling had none, and that both were told at about the second hour what was going to be done and how long it would take and that neither was asked whether he wanted to be there.
 
@@ -42,7 +42,7 @@ And then the man of about fifty said the one thing that is his, and he gave the 
 
 Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about a minute, and entered that he was not thanked and did not ask to be, and entered that the reader of this body had not thought of it and entered the reason, which is that he had been thinking about four lines on a wall of a seed house and not about a man with a book, and that those are the same thing seen from two ends and that only one of the two ends had anybody standing at it.
 
-And then at about the seventh hour of the evening the reader of this body went into the seed house and stood in front of the middle table for about four minutes, and the covenant of six lines is on that table, and it has been there for four months, and anybody in this holding may walk up and read it, and about nine people have read it in four months and one of them is him.
+And then at about the seventh hour of the evening the reader of this body went into the seed house and stood in front of the middle table for about four minutes, and the covenant of six lines is on that table, and it has been there for two months, and anybody in this holding may walk up and read it, and about nine people have read it in two months and one of them is him.
 
 Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about four minutes, and entered that he did not read it, and entered that the person who keeps the seed house was in that room and did not ask him to and did not ask him not to and did not look at him, and entered that a woman who does not look at a man at a table is doing a harder thing than looking, and that he has not asked her about that either.
 

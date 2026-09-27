@@ -50,7 +50,7 @@ Nobody said anything and the fen entered that nobody said anything, and entered 
 
 And then the reader of this body said the one thing of the afternoon and he gave the reason before he said it, and the count of that in this holding's history is seventy-eight, and he said it in about twenty-five people, and it is on the page with a word on it, which is where the count of the things he has said out loud in a yard and got wrong is kept.
 
-**"Nobody in this holding knows whether that fruit is fit to eat. I am going to say that out loud in about twenty-five people and I am going to say it in the plain voice, and the reason is that the decision of the twenty-first of this month was that nobody eats one until somebody who knows has said so, and a decision that says *until somebody who knows* is not a decision, it is a way of carrying a thing we cannot do, and it has been carried four days and it is costing somebody."**
+**"Nobody in this holding knows whether that fruit is fit to eat. I am going to say that out loud in about twenty-five people and I am going to say it in the plain voice, and the reason is that the decision of the twenty-first of this month was that nobody eats one until somebody who knows has said so, and a decision that says *until somebody who knows* is not a decision, it is a way of carrying a thing we cannot do, and it has been carried five days and it is costing somebody."**
 
 **"There is nobody here who knows. Not me, not a seedwright, not the man who counted them into two books. I have a figure of two hundred and forty and a resemblance to something two hundred and forty miles off and a book with four pages in it, and a resemblance is not a kind and a book is not a visit, and the count of things I have said out loud in a yard and got wrong is four and it has been four for about twenty days and this afternoon it was available to me again and I have taken it and this is not it."**
 
@@ -58,11 +58,11 @@ And then the reader of this body said the one thing of the afternoon and he gave
 
 Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about a minute and a half, and entered that nobody thanked anybody and that nothing tender was said at a gate in about twenty-five people on a Saturday afternoon, and entered that the count of things he has said out loud in a yard and got wrong is four and did not move this afternoon, and that the fen has entered the distinction between a claim about the ground and a statement about this holding and has not put it in a column of its own and is not going to.
 
-And then the cost of her decision was named, and it was named by her, and it was eleven words, and nobody said it for her and nobody improved it.
+And then the cost of her decision was named, and it was named by her, and it was nineteen words, and nobody said it for her and nobody improved it.
 
 **"I am the one in this yard who has had nothing green in her hand in about four days."**
 
-Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about eleven seconds, and entered that about nine acres of green was going to be cut off a woman's own ground and carted away and that the woman saying it was the only person at that gate who had wanted it, and entered that nobody thanked her and that she had said on the twenty-first of this month that anybody who thanked her could be told to stop and that nobody had thanked her since and had not tried to and that the count of that is two days and is not a count of anything.
+Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about eleven seconds, and entered that about nine acres of green was going to be cut off a woman's own ground and carted away and that the woman saying it was the only person at that gate who had wanted it, and entered that nobody thanked her and that she had said on the twenty-first of this month that anybody who thanked her could be told to stop and that nobody had thanked her since and had not tried to and that the count of that is five days and is not a count of anything.
 
 And what she decided is not entered as a figure and is entered as a decision, and the entry is a decision and not a number, and this is the only decision in this holding's book in four years that has been entered as a decision.
 

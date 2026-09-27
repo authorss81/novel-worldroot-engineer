@@ -42,7 +42,7 @@ And the reader of this body did not improve it and did not add to it, and he sai
 
 **"The standing rule about the engineer of record is on the wall of that seed house and it has been used twice in the season before last and once in the season last, and the one was a draw that was not begun, and I have said the word about that rule three times in about nine days and used it not at all, and I am saying it now for the last time and I am not using it, and I want the clerk to enter that I said I was not using it, so that nobody in this yard in about four years can say that I reached for it and did not get it.**"
 
-Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about a minute, and entered that the standing rule was not used and that the count of its uses in the last two seasons is two and one and that neither of them was this, and that the three namings are three namings and are not a use and have never been a use, and that a rule that is named three times and not used is not a rule anybody is working and is a sentence a man is holding over himself.
+Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about a minute, and entered that the standing rule was not used and that the count of its uses in the last two seasons is two and one and that none of the three was this, and that the three namings are three namings and are not a use and have never been a use, and that a rule that is named three times and not used is not a rule anybody is working and is a sentence a man is holding over himself.
 
 And then the cost of the decision was named out loud, and it was named by the person paying it, and it was the same woman, and it was twenty words, and she named it before she began and nobody thanked her and she said that anybody who thanked her could be told to stop.
 
@@ -67,7 +67,7 @@ Nobody thanked him and he did not ask to be thanked, and the count of the times 
 
 And then the last two things of the day, and the fen entered both and did not improve either, and the first of them is a count and the second of them is not.
 
-**THE COUNT OF THINGS THIS BODY HAS SAID OUT LOUD IN A YARD AND GOT WRONG IS FOUR, AND IT IS FOUR, AND IT HAS BEEN FOUR FOR NINE DAYS, AND IT WAS AVAILABLE TO HIM FOUR TIMES IN THE AFTERNOON OF THE TWENTY-FIRST OF THIS MONTH AND HE DID NOT TAKE IT ANY OF THE FOUR TIMES, AND THE FOUR TIMES WERE ALL ABOUT A FRUIT.**
+**THE COUNT OF THINGS THIS BODY HAS SAID OUT LOUD IN A YARD AND GOT WRONG IS FOUR, AND IT IS FOUR, AND IT HAS BEEN FOUR FOR NINETEEN DAYS, AND IT WAS AVAILABLE TO HIM FOUR TIMES IN THE AFTERNOON OF THE TWENTY-FIRST OF THIS MONTH AND HE DID NOT TAKE IT ANY OF THE FOUR TIMES, AND THE FOUR TIMES WERE ALL ABOUT A FRUIT.**
 
 And the second of them is this, and it is a Monday and a Tuesday in about twenty-five people and in a shed, and it is what he wrote in his own book on the twenty-first of this month at about the ninth hour of the evening, and the sentence is eleven days old and he has read it back once a day since and has not taken it back.
 
@@ -77,6 +77,6 @@ And between the two of them, on the evening of the twenty-first and the morning 
 
 **THAT THE COUNT OF FIGURES IN THE BOOK THAT KEEPS THE THIRD LAUNDER IS TWENTY-TWO AND THAT NOBODY HAS SAID THE WORD PATTERN ABOUT IT, AND THAT THE MAN OF ABOUT FIFTY WROTE THE NUMBER DOWN HIMSELF AND DID NOT ASK THE READER OF THIS BODY WHETHER IT WAS ONE.**
 
-**AND THAT ON THE TWENTY-SECOND OF THIS MONTH A FRUIT CAME UP IN THE WRONG MONTH INSIDE ELEVEN ACRES OF STANDING WILLOW AND A CROP CAME UP IN THE WRONG MONTH BEHIND A GATE THAT WAS OPENED BY ITS OWNER ON THE TWELFTH, AND THAT NEITHER OF THE TWO HAS A PERSON WHO KNOWS EITHER, AND THAT THIS HOLDING IS NOT GOING TO BECOME THE PLACE THAT HAS ONE.**
+**AND THAT ON THE TWELFTH OF THIS MONTH A FRUIT CAME UP IN THE WRONG MONTH INSIDE ELEVEN ACRES OF STANDING WILLOW AND A CROP CAME UP IN THE WRONG MONTH BEHIND A GATE THAT WAS OPENED BY ITS OWNER ON THE TWELFTH, AND THAT NEITHER OF THE TWO HAS A PERSON WHO KNOWS EITHER, AND THAT THIS HOLDING IS NOT GOING TO BECOME THE PLACE THAT HAS ONE.**
 
 **IN ABOUT FOUR DAYS THERE IS A YARD, AND IN THAT YARD THERE ARE TWO THINGS THAT CAME UP IN THE WRONG MONTH, WHICH ARE A CROP OF ABOUT NINE ACRES BEHIND A GATE AND A FRUIT ON DEAD WOOD, AND BOTH OF THEM BELONG TO ONE WOMAN AND SHE IS THE ONLY PERSON WHO CAN SAY WHAT HAPPENS TO EITHER OF THEM, AND I HAVE SAID FOUR THINGS OUT LOUD IN A YARD AND GOT WRONG, AND I DO NOT KNOW WHAT THE FIFTH IS GOING TO BE, AND A MAN WHO HAS ELEVEN LINES IN A SHED AND A FRUIT IN A YARD IN FRONT OF HIM IS A MAN WHO IS GOING TO BE THE ONE WHO SAYS WHAT HAPPENS, AND WHAT HAPPENS IS A THING THAT HAS TO BE SAID BY THE PERSON IT HAPPENS TO. I HAVE GOT THAT SENTENCE IN THIS BOOK ALREADY AND IT IS ELEVEN DAYS OLD AND I DID NOT WRITE IT FOR THIS AND I AM NOT GOING TO WRITE IT AGAIN.**

@@ -24,9 +24,9 @@ Nobody said anything and the fen entered that nobody said anything, and entered 
 
 And then the woman of about thirty-eight of Marden said one thing about the form, and she gave the reason first, and the count of that in this holding's history is nine, and nobody improved it.
 
-**"I am going to say one thing about that form and I am going to say it before the second of the three blank lines gets filled by somebody guessing, and the reason is that I wrote eleven words on Monday about a gap and there are four lines in front of me about a length, and those are not the same question and I have watched this room treat them as one for five days."**
+**"I am going to say one thing about that form and I am going to say it before the second of the three blank lines gets filled by somebody guessing, and the reason is that I wrote fifteen words on Monday about a gap and there are four lines in front of me about a length, and those are not the same question and I have watched this room treat them as one for five days."**
 
-**"So I am not going to put a figure on any of those lines. I have walked the ditch for about eleven weeks and I know how long it is and I have never once measured it and I am not going to be asked for a length by a form that has a length on it. You can have the eleven words. I have given you those and I gave them before anybody asked me for them and I am not going to be asked twice for the same ground."**
+**"So I am not going to put a figure on any of those lines. I have walked the ditch for about eleven weeks and I know how long it is and I have never once measured it and I am not going to be asked for a length by a form that has a length on it. You can have the fifteen words. I have given you those and I gave them before anybody asked me for them and I am not going to be asked twice for the same ground."**
 
 Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about a minute, and that she was not thanked, and that the count of the questions the reader of this body has asked her is nil and did not move this afternoon, and that the count of the times she has asked this holding for anything is nil and did not move either, and that two nils in one afternoon is a woman who has stopped counting, which is her own affair.
 

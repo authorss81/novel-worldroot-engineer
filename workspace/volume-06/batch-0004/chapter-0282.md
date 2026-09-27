@@ -16,7 +16,7 @@ And then at about the fifth hour of the afternoon eleven people were in the seed
 
 And then the man of about fifty said the difference, and he gave the reason first, and the count of that in this holding's history is thirty-two, and he was not thanked and did not ask to be.
 
-**"There are two kinds of empty on that table and I am going to say which is which before either of them happens again, and the reason is that I have kept four books for eleven years and I have made that mistake twice and both times I found out a week afterwards from a person who was not angry and was right."**
+**"There are two kinds of empty on that table and I am going to say which is which before either of them happens again, and the reason is that I have kept four books for four years and I have made that mistake twice and both times I found out a week afterwards from a person who was not angry and was right."**
 
 **"A blank line is a question that was not answered. A blank space is a question that was not asked. Those are two different objects and I have written them down in the same hand all year and about nine people have read them and nobody has ever once said which was which. Yesterday one of those was a figure being refused. The other one is two bodies of households that were never asked for a figure at all, and if those two things are on the same table and nobody has said which is which, then this holding is about to spend a week arguing about the wrong one."**
 
@@ -54,7 +54,7 @@ And then the reader of this body said the thing that is his, and he gave the rea
 
 **"There are two holes in this room this afternoon and I am not going to put my thumb in either of them, and the reason is that a man with a thumb in a hole is a man who has stopped the room and started filling it, and I have been the man who filled a room once and it was in a yard in about four minutes and nineteen people have been carrying the sentence ever since."**
 
-**"One of the holes is a figure that a body of households will not build on. The other is a person that is not in the building. They are not the same hole. A figure can be replaced in about four minutes by anybody who has got one. A person cannot be put in a room in about four minutes, because a person has to be asked, and he is four miles off and he is not been asked, and nobody in this room has got a figure that would stand in for asking him."**
+**"One of the holes is a figure that a body of households will not build on. The other is a person that is not in the building. They are not the same hole. A figure can be replaced in about four minutes by anybody who has got one. A person cannot be put in a room in about four minutes, because a person has to be asked, and he is four miles off and he has not been asked, and nobody in this room has got a figure that would stand in for asking him."**
 
 Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about a minute, and that nobody thanked anybody and that nothing tender was said in that room on the tenth of this month, and entered that neither refusal was a quarrel and that neither was a quarrel with him, and the reason is that a man is only quarreled with where he is the thing being quarrelled about, and that the figure was his and the person was not.
 
