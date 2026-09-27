@@ -4,7 +4,7 @@
 
 The twenty-fourth of this month was a Monday, and at about the third hour of the morning the engineer of record and the man of about fifty walked out of the cart shed with a sheet of paper in a leather folder, and they were on the dry road by the fourth hour and did not stop at the gate of the sub-office because the gate of a sub-office is not a gate you stand at.
 
-He had the form copied at the counter. It was four pence a sheet and the copy is a copy and it carries the counter's mark and the hour and the name of the clerk who made it and none of that is on the original, and the original is on the bench in the seed house in this building and it was not returned and it was not torn up and it has been on that bench since the twenty-seventh of a month three months back.
+He had the form copied at the counter. It was four pence a sheet and the copy is a copy and it carries the counter's mark and the hour and the name of the clerk who made it and none of that is on the original, and the original is on the bench in the seed house in this building and it was not returned and it was not torn up and it has been on that bench since the twenty-seventh of last month.
 
 "**I want the word in front of me said before we say anything else, and it is not a second asking and nobody has asked me a second time and nobody is going to. A holder of record asked this body a thing in a room in the eleventh month and I have had the paper on my bench for three months and I did not answer it because I thought the paper was a question.**"
 
@@ -30,7 +30,7 @@ Then the engineer of record said the thing about a form and about boxes, standin
 
 "**I am not certifying a break. I am certifying a condition. I have got a head on this ground that I have measured with two rules on two days and a licensed man standing on the boards and a witness and I am going to write it in the second box with the day and the hour and the instrument and the witness, and every one of those four is a thing a person can go and check with a rule, and that is the whole of what this holding knows and it is narrow and it is true.**"
 
-"**And the reason I did not answer it for three months is not the reason I gave on the twenty-seventh of a month three months back and I am not going to use that reason again, because that reason was that I did not know what was under that quarter, and that is still true, and it is not the reason I did not answer a piece of paper.**"
+"**And the reason I did not answer it for three months is not the reason I gave on the twenty-seventh of last month and I am not going to use that reason again, because that reason was that I did not know what was under that quarter, and that is still true, and it is not the reason I did not answer a piece of paper.**"
 
 "**The reason is that a form is a set of boxes and I did not read it. That is a worse reason and it took me three months and four pence a sheet to find out, and four pence is the cheapest thing this holding has spent this month and I am not going to stand here and be glad about it.**"
 

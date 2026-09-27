@@ -6,7 +6,7 @@ The third of this month was a Wednesday and about four hundred and eleven people
 
 The fourth was a Thursday, and at about the fourth hour of the morning a licensed man opened the head of this holding's own ground under a form and at a rate and wrote the hour and the figure in his own book, and the fen was at the top of the slope and did not go down, and the reason was given out loud before anybody asked and it is the reason from the twenty-seventh of a month three months back and the count of times he has given it is three.
 
-"**A body that stands over a crew is a body the crew talks to. This holding has four people on a floor and no custom for it and I was told that on the nineteenth of a month four months back and I have not improved on it since and I am not going to start with a head.**"
+"**A body that stands over a crew is a body the crew talks to. This holding has four people on a floor and no custom for it and I was told that on the nineteenth of a month two months back and I have not improved on it since and I am not going to start with a head.**"
 
 The licensed man's name is Coll Renner and he is on the rootwright roll and he is not of this body and he is not a member of anything that meets, and he came out at about the third hour and had the case with him and did not open it, and the clerk was not on the slope at all and the hour went in the licensed man's own book and not in this holding's, and the man of about fifty read the hour back off the licensed man's book aloud on the slope so that the four people on the boards heard a number said.
 

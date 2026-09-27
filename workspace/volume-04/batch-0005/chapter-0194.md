@@ -18,7 +18,7 @@ They stopped at the gate posts of the seed house and they did not come past them
 
 Then the reader of this body put his hand on the third line and said the sentence that two months of arithmetic had earned him, out loud, in about eleven people, and gave the hour and the finding before the thing, the way he does.
 
-"**A man on this road on the fourth of last month stood at these gate posts for an hour and a half with two men wet through to the shirt and I entered that a licensed man in this fen had never had a reason to be glad that a road had soldiers on it and did not pretend to anybody in that yard that he had one now.**"
+"**A man on this road on the fourth of last month stood at these gate posts for an hour and a half with a man wet through to the shirt and I entered that a licensed man in this fen had never had a reason to be glad that a road had soldiers on it and did not pretend to anybody in that yard that he had one now.**"
 
 "**I have one now. I am not going to be able to do anything about the rate on the fourth line in about a fortnight, and these four men have held a road for two days so that somebody in a county can write down how many carts went across a piece of salt with water on it, and one of those things is a wrong and one of those things is a correct, and I have had both of them in one week and I wrote them both down.**"
 
@@ -48,9 +48,9 @@ She stopped there, in the rain, with about eleven people standing in it.
 
 "**A pound is twenty shillings and a shilling is twelve pence, so a pound is two hundred and forty pence, and two pounds is four hundred and eighty pence, and twenty-four hundred pence is not four hundred and eighty pence, it is five lots of four hundred and eighty, and five lots of four hundred and eighty is two thousand and four hundred, and that is ten pounds. I said two pounds a minute ago and that is wrong, and I am saying it is wrong in a yard in the rain rather than at a table on Thursday, and the officer of the district said ten pounds before I did and did not look at me when I got it wrong, and an office does not put a party right on a question the party has not asked it. The count of times this holding has got a sum wrong in public is two, and the first one was eight days in a month at a gate.**"
 
-"**Four pounds is nine hundred and sixty pence and five lots of four hundred and eighty is two thousand and four hundred, which is twenty-four hundred pence, which is ten pounds. The two agree and the first one did not and I have entered the first one.**"
+"**And the other way, so that the two of them can be put side by side. A pound is two hundred and forty pence and two thousand four hundred pence is two thousand four hundred over two hundred and forty, which is ten, and that is ten pounds the same as five lots of four hundred and eighty is, and the two agree and the first one did not and I have entered the first one.**"
 
-"**Now the other way, and then the first way again, and they are going to agree, because that is what this holding does.**"
+"**And now the licensed rate instead of the schedule rate, and then the schedule rate again, and they are going to agree, because that is what this holding does.**"
 
 "**Six hundred hundredweight at a shilling and fourpence, which is sixteen pence, is nine thousand six hundred pence, which is forty pounds, because forty pounds is nine thousand six hundred pence. Forty pounds less ten pounds is thirty pounds. And thirty pounds is six hundred hundredweight at twelve pence, which is seven thousand two hundred pence, which is thirty pounds, because thirty pounds is seven thousand two hundred pence. So the schedule rate costs ten pounds a week where the licensed rate would have cost forty, and the difference is thirty pounds a week, and the three of those agree.**"
 
@@ -78,4 +78,4 @@ The figure was not in. The office asked for it at the fourth hour on the day aft
 
 "**That is a complete answer and it cost nothing and it took a man about half an hour, and it is the first document this holding has ever returned that was true and did not answer the question, and I have spent four months being unable to fill in a box, and it turns out the box has a line in it for not knowing, and that line is in the fourth part of the form and the fourth part of the form is the only part of it written by a person who thought about not knowing.**"
 
-The reader of this body said that in a yard of about nine on the fifteenth and the man of about fifty asked for his initial to be put against nothing and it went in, and the count of that request is forty-eight this season, and the fen entered the count and entered that a body which has asked for an initial against nothing forty-eight times in a season is a body that has not found anything to put one against, and that is the whole of what the count means and it is not a complaint.
+The reader of this body said that in a yard of about nine on the thirteenth and the man of about fifty asked for his initial to be put against nothing and it went in, and the count of that request is forty-eight this season, and the fen entered the count and entered that a body which has asked for an initial against nothing forty-eight times in a season is a body that has not found anything to put one against, and that is the whole of what the count means and it is not a complaint.
