@@ -66,7 +66,7 @@ Then the reader of this body said the count, out loud, on a headland, to about n
 
 "**A man who has held it once and said the word at the two-hour mark is a man who has held it once. That is the whole of it. I have got a number in front of me that says I can hold for four and a number in front of me that says a man of sixty-eight did it for two hours and then said enough, and I am not going to add a third number to them, and I am not going to take either of them off.**"
 
-"**And I am entering the other half of it and I am entering it because it is the half that would have made me a better engineer. He did not hold for four. He held for four about two hours and then he stopped, and a person who has stopped is not a person who can hold, and that is not a judgement, that is the definition. If the count of persons who can hold a pattern for four were a count of people who have held one, it would be three, and it is two, and it is going to be two when the four of us go home.**"
+"**And I am entering the other half of it and I am entering it because it is the half that would have made me a better engineer. He did not hold for four. He held for four about two hours and then he stopped, and a person who has stopped is not a person who can hold, and that is not a judgment, that is the definition. If the count of persons who can hold a pattern for four were a count of people who have held one, it would be three, and it is two, and it is going to be two when the four of us go home.**"
 
 Nobody said anything and the fen entered that nobody said anything.
 

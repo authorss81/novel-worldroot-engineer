@@ -18,13 +18,13 @@ The fen entered that nobody said anything, and entered that the man of about fif
 
 Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about eleven seconds, and entered that the person who keeps the seed house was in that yard and was not asked to be in it and read the four lines over his shoulder and did not hold them, and entered that the four lines were copied into this holding's book afterward in a second hand, a woman's, and the second time on purpose.
 
-> **THE FOUR LINES, read out in a yard at this holding at about the fifth hour of the afternoon of the twentieth of this month, in about nine people, by the engineer of record, and read back by the man of about fifty, entered whole and not summarised. There is no name on them.**
+> **THE FOUR LINES, read out in a yard at this holding at about the fifth hour of the afternoon of the twentieth of this month, in about nine people, by the engineer of record, and read back by the man of about fifty, entered whole and not summarized. There is no name on them.**
 >
 > **ONE. THE SECOND LINE UNDER YOUR FIGURE. YOU HEADED IT NOTHING ELSE AND I LEFT IT BLANK AND I SAID I WOULD NOT SAY WHY. I AM SAYING WHY. I LEFT IT BLANK BECAUSE YOU DID NOT ASK ME ANYTHING, AND A LINE YOU DO NOT ASK A QUESTION INTO IS A LINE SOMEBODY FILLS IN FOR YOU. I HAVE HAD FOUR MONTHS AND THAT IS THE ANSWER AND IT IS NOT A GRATEFUL ANSWER AND YOU ARE NOT TO THANK ME FOR IT.**
 >
 > **TWO. THE ROOM IS OPENED. IT WAS NOT LOCKED. IT HAS A HASP AND A HASP IS NOT A LOCK, AND I HAVE HAD THE KEY ON MY RING ELEVEN YEARS AND HAVE NEVER HAD A REASON TO TAKE IT OFF IT, AND I HAVE TAKEN IT OFF IT AND IT IS IN THE CRATE. THE CRATE IS MINE AND I PAID FOR IT AND I AM NOT SENDING THE WAGE BACK.**
 >
-> **THREE. I AM NOT SENDING IT FOR YOU TO LOOK AT. IF YOU OPEN IT AND THE BOOK IS A PAGE OF A PAGE THEN YOU HAVE HAD FOUR DAYS OF A ROAD FOR NOTHING AND I WILL NOT APOLOGISE FOR THAT. THE BOOK IS NOT A GAUGE AND YOU SAID SO YOURSELF AND I HAVE READ THAT.**
+> **THREE. I AM NOT SENDING IT FOR YOU TO LOOK AT. IF YOU OPEN IT AND THE BOOK IS A PAGE OF A PAGE THEN YOU HAVE HAD FOUR DAYS OF A ROAD FOR NOTHING AND I WILL NOT APOLOGIZE FOR THAT. THE BOOK IS NOT A GAUGE AND YOU SAID SO YOURSELF AND I HAVE READ THAT.**
 >
 > **FOUR. PUT IT AGAINST WHOEVER IS GOING TO BE ON THE STONE. NOT AGAINST THE ONE WHO SENT FOR IT. MY NAIL AND MY STRING AND MY WALL ARE MINE AND I HAVE LET A MAN FOUR HUNDRED MILES OFF WRITE A LINE UNDER MY FIGURE AND I HAVE LEFT ONE BLANK, AND THE MAN WHO GETS THE BOOK IS NOT THE MAN WHO ASKED FOR IT. THE NAME IS NOT ON THIS ON PURPOSE.**
 

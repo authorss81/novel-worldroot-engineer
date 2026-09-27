@@ -8,7 +8,7 @@ And the twenty-seventh of this month was a Friday, and about nineteen people wer
 
 Nobody said anything and the fen entered that nobody said anything.
 
-> **THE COVENANT OF THE FOUR ELBOWS, six lines, read out standing up in a yard at Errow Reach at about the eleventh hour of the morning of the twenty-seventh of this month, in about nineteen people, by the woman who keeps the four books, in the hand it was written in, and read back, entered whole and not summarised:**
+> **THE COVENANT OF THE FOUR ELBOWS, six lines, read out standing up in a yard at Errow Reach at about the eleventh hour of the morning of the twenty-seventh of this month, in about nineteen people, by the woman who keeps the four books, in the hand it was written in, and read back, entered whole and not summarized:**
 >
 > **ONE. THE NODE IS WORKED, NOT PATTERNED. Four bodies of households take their own turn on their own morning, a turn is two hours at the second hour, one person holds and two or four work, and nobody is on the roll, and the third clause of the Assembly is not met and is not pretended to be met.**
 >

@@ -12,7 +12,7 @@ She had a sheet of her own on the flat place at the foot of the bank, on the sto
 
 She read it out herself and did not let anybody else read it, and the man of about seventy-four with the stick sat on the stone with his stick across his knees and did not say anything while she did it.
 
-> **THE BACK OF THE GATE COUNT, in the hand of the woman of about thirty-eight of Marden, who keeps that count, on the twenty-eighth of this month at about the fourth hour of the afternoon, in Marden's own yard, in about nineteen people, read out by her and read back, and entered whole and not summarised: A COUNT OF THE MORNINGS, kept eleven years, in this hand, at this gate, of the mornings on which anybody at all stood at the headland above this village at the second hour of the morning for this village's turn.**
+> **THE BACK OF THE GATE COUNT, in the hand of the woman of about thirty-eight of Marden, who keeps that count, on the twenty-eighth of this month at about the fourth hour of the afternoon, in Marden's own yard, in about nineteen people, read out by her and read back, and entered whole and not summarized: A COUNT OF THE MORNINGS, kept eleven years, in this hand, at this gate, of the mornings on which anybody at all stood at the headland above this village at the second hour of the morning for this village's turn.**
 >
 > **NINE.**
 >

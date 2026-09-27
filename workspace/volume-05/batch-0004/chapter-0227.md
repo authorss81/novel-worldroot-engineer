@@ -8,7 +8,7 @@ About eleven people were in the yard. The man of the north row with the cough wa
 
 Hesta Lyle read it. She read it off the sheet and not off a copy of the sheet, and the sheet is the back of a printed weekly schedule of a holding that has no charter, and the reader of this body did not touch it and did not hold it and was not thanked for not touching it because nobody thanked anybody.
 
-> **THE ELEVEN LINES, read out in a yard at Errow Reach at about the eleventh hour of the morning of the twenty-first of this month by the woman who keeps the four books, in the hand they were written in, and read back, and entered whole and not summarised.**
+> **THE ELEVEN LINES, read out in a yard at Errow Reach at about the eleventh hour of the morning of the twenty-first of this month by the woman who keeps the four books, in the hand they were written in, and read back, and entered whole and not summarized.**
 >
 > **THE FIRST LINE. HAVERGATE. SECOND HOUR. TWO HOURS. SIX WHO TAKE IT IN TURNS.**
 >

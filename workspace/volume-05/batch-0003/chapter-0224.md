@@ -34,7 +34,7 @@ And then, at about the fourth hour of the same morning, four hundred miles and f
 
 Then she let it down again and brought it up again and marked it again on the same wall, and then she wrote the thirteenth figure under the twelfth in her own hand, and the figure is **five feet**, and it is the fourth month running that the figure has been five feet, and the yard was cold and there was nobody else up, and one of the four households had a lamp in a window and did not come out, as on every other reading day in twelve years.
 
-The wall, in wall order, from the left where the sun comes in: one foot eleven inches. Two feet four. Two feet ten. Four feet. Four feet six. Four feet eight. Five feet. Five feet. Five feet. And then a place where there is nothing at all, the chalk has never touched it and the plaster under it is the same colour as the plaster round it, and it is the widest gap on that wall and it is a whole month. And then five feet. And then five feet. And then five feet.
+The wall, in wall order, from the left where the sun comes in: nine feet. Five feet and a half. Five feet five inches. Five feet four inches. Five feet and two inches. Five feet three inches. Five feet and two inches. Five feet and one inch. Five feet. And then a place where there is nothing at all, the chalk has never touched it and the plaster under it is the same color as the plaster round it, and it is the widest gap on that wall and it is a whole month. And then five feet. And then five feet. And then five feet.
 
 She went along the wall and put her thumb under the two marks she had just made, one under the other, and then wiped the thumb on her apron, and that is not a method and it is not a reading and it is not going in anything.
 

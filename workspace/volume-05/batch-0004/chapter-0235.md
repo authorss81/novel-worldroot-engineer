@@ -32,7 +32,7 @@ Nobody said anything and the fen entered that nobody said anything, and entered 
 
 Then she read the ten, and she read them in the order they were on the page, and the reader of this body did not write one word down and did not interrupt and entered all ten of those.
 
-"**TEN. That a heartroot is held in common by four bodies of households and no person on the roll holds it, and that it has been so for eleven years.**
+> **TEN. That a heartroot is held in common by four bodies of households and no person on the roll holds it, and that it has been so for eleven years.**
 >
 > **NINE. That the fourth line of a rota drawn by those four bodies has nobody in it, and that the question of whose name goes in it is in a book and has not been answered.**
 >
@@ -40,7 +40,7 @@ Then she read the ten, and she read them in the order they were on the page, and
 >
 > **AND SHE READ THE OTHER SIX IN BETWEEN, AND THEY ARE ENTERED WHOLE BELOW, AND THE READER OF THIS BODY DID NOT ASK FOR THE SHEET AND DID NOT ASK FOR ANY ONE OF THEM TWICE.**
 >
-> **ONE. That a single data set of one man's, taken at one place in one month, was given to four villages as a public figure and acted on by three of them, and that the man who gave it has said out loud in a yard that he gave it without a second reading and without saying that it was one reading.**"
+> **ONE. That a single data set of one man's, taken at one place in one month, was given to four villages as a public figure and acted on by three of them, and that the man who gave it has said out loud in a yard that he gave it without a second reading and without saying that it was one reading.**
 
 And then the reader of this body said the thing, and he said it to the yard and not to the examiner, and he gave the reason first, and the count of that in this holding's history is thirty-six, and it is the plainest thing he said all month.
 

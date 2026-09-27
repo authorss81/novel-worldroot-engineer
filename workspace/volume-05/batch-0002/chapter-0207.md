@@ -76,7 +76,7 @@ The well has a curb and a windlass and a wooden cover with a slot in it, and the
 
 Then she went along the wall inside her own yard with a stub of chalk and wrote the twelfth figure under the eleventh, in her own hand, and the figure is **five feet.**
 
-The wall, in wall order, from the left where the sun comes in: one foot eleven inches. Two feet four. Two feet ten. Four feet. Four feet six. Four feet eight. Five feet. Five feet. Five feet. And then a place where there is nothing at all, the chalk has never touched it and the plaster under it is the same colour as the plaster round it, and it is the widest gap on the wall and it is a whole month. And then five feet. And then, on the sixteenth of this month, five feet again.
+The wall, in wall order, from the left where the sun comes in: nine feet. Five feet and a half. Five feet five inches. Five feet four inches. Five feet and two inches. Five feet three inches. Five feet and two inches. Five feet and one inch. Five feet. And then a place where there is nothing at all, the chalk has never touched it and the plaster under it is the same color as the plaster round it, and it is the widest gap on the wall and it is a whole month. And then five feet. And then, on the sixteenth of this month, five feet again.
 
 She stood back about four paces and looked at it, and the yard was cold and there was nobody else up, and one of the four households had a lamp in a window and did not come out.
 

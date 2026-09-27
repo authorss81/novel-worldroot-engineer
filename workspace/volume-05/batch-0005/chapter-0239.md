@@ -24,7 +24,7 @@ And on the Sunday evening the man of the north row with the cough came down off 
 
 "**I did not know a hold was going to be like that and I have not got anything to say about it and I am not going to say the thing I have said four times.**"
 
-"**I have got one thing and it is not about the water. On the first morning the middle went down about four inches easy and this morning it went down about four inches and it took me most of an hour to get it there and I did not know that till this morning. I am sixty-eight. If it is four inches a day then in nine days it is going to be a foot and I am not going to be able to get it back up.**"
+"**I have got one thing and it is not about the water. On the first morning the middle went down about four inches easy and this morning it went down about four inches and it took me most of an hour to get it there and I did not know that till this morning. I am sixty-eight. If it is four inches a day then in three days it is going to be a foot and I am not going to be able to get it back up.**"
 
 Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about half a minute, and entered that the man of the north row with the cough has now said six things in twelve yards, and that this was the sixth, and that it was the first of the six that was a figure.
 
@@ -52,7 +52,7 @@ The fourteenth ordinary reading of the well at Cauldron Reach is taken at about 
 
 The four lines went up the four-day road on the twelfth of this month at about the seventh hour at this holding's own cost, and the crate was not bought when they went up and has not been bought, and it is four days, and this holding does not know tonight what is coming down that road. Nobody has ever offered anything for that road and the offer that was made once was not taken up, and the not taking it up was correct.
 
-What this holding's book has of that well is four figures. The ninth, the eleventh, the twelfth and the thirteenth, and all four of them are five feet. The tenth, which is a whole month between the ninth and the eleventh, is not in this holding's book, and the occupier refused it in her own hand, and the chalk has never touched that place on that wall, and the plaster under it is the same colour as the plaster round it, and it is the widest gap on a wall of thirteen marks and it is the only one.
+What this holding's book has of that well is four figures. The ninth, the eleventh, the twelfth and the thirteenth, and all four of them are five feet. The tenth, which is a whole month between the ninth and the eleventh, is not in this holding's book, and the occupier refused it in her own hand, and the chalk has never touched that place on that wall, and the plaster under it is the same color as the plaster round it, and it is the widest gap on a wall of thirteen marks and it is the only one.
 
 The reader of this body entered the day and not the figure, and he entered the day and not the figure for the fourth time in eleven weeks, and he entered that the count in this holding's book of an entry that carried a day and no figure stands at three and is not reduced, and that he is not going to change what it counts tonight, and that the number of times he has entered a day and not a figure is a different number from the count in the book and the two have never been added together and are not going to be.
 

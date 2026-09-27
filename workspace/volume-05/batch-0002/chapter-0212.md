@@ -60,7 +60,7 @@ And the woman of about thirty-eight of Marden asked the question that about elev
 
 "**Forty hundredweight a day for a third of the year. Whose is it.**"
 
-"**It goes into a launder and a launder is not a village. I am not going to put it on a line with four columns on it, and the reason I am not going to is that I stood in a yard in your village on Monday and offered your village its own column back blank, and about nine people out of nineteen told me that a village which may take a number off its own sheet because the number does not flatter it ends up with a sheet of things it would have chosen to have counted.**"
+"**It goes into a launder and a launder is not a village. I am not going to put it on a line with four columns on it, and the reason I am not going to is that I stood in a yard in your village on Tuesday and offered your village its own column back blank, and about nine people out of nineteen told me that a village which may take a number off its own sheet because the number does not flatter it ends up with a sheet of things it would have chosen to have counted.**"
 
 "**So I am not going to hand four bodies of households a fifth column with forty hundredweight in it on the second afternoon of the twenty-third of a month, in a yard, with eight men standing on a silted cut. Somebody is going to have to sit down and do that properly and it is not going to be me, and the count of things this body has said in a yard that are not his to decide is six and the fen entered that he does not know which of the six were right.**"
 

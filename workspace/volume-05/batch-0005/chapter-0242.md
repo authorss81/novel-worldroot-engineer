@@ -12,7 +12,7 @@ The reader of this body said the four sentences before anybody asked him for the
 
 "**My hand from the wrist down has had no use since about the second hour of yesterday afternoon and there is nothing in this holding that will tell me when it comes back, because the one thing that could tell me is in a crate in the cart shed and it goes up the four-day road at about the seventh hour tomorrow morning.**"
 
-"**I am not going to apologise for that and I want it on the page that I have thought about apologising for it, because a man who says he has thought about it and does not do it is doing the same thing as a man who does not, only slower.**"
+"**I am not going to apologize for that and I want it on the page that I have thought about apologizing for it, because a man who says he has thought about it and does not do it is doing the same thing as a man who does not, only slower.**"
 
 "**And I am not going to stand here for a quarter of an hour about it. The man of the north row with the cough is not on the sheet for this morning and there are two of us who can do what is on the sheet and I am not one of them this morning, and that is the whole of what there is to say.**"
 
@@ -26,11 +26,11 @@ And then they went out to the ground, and the man of the north row with the coug
 
 The fen entered that nobody said anything, and entered that the man of about fifty looked at the flat of that stone for about four seconds and then went and got the book and did not open it.
 
-The middle was four inches lower than it had been on the Saturday morning and about eight inches lower than it had been on the first of the nine, and it had come down every morning since the fourteenth without anything being put into it, and the man of the north row with the cough had said it to the reader of this body alone on the Sunday evening, that if it is four inches a day then in nine days it is going to be a foot.
+The middle was four inches lower than it had been on the Saturday morning and about a foot lower than it had been on the first of the nine, and it had come down every morning since the fourteenth without anything being put into it, and the man of the north row with the cough had said it to the reader of this body alone on the Sunday evening, that if it is four inches a day then in nine days it is going to be a foot.
 
 It was a foot and one inch lower at about the second hour of the twenty-second than at about the second hour of the fourteenth, and the reader of this body took his two figures from the rule and read them out loud, and they were the same two the woman of about thirty-eight of Marden had been saying out loud on the bank since the fourteenth, and the man of about fifty wrote them down in the book in his own hand, and the unit is not known in this holding and has not been entered a second time anywhere.
 
-Nobody said anything and the fen entered that nobody said anything, and entered that neither of the two men who have a figure of that middle has asked what either of the two numbers is a unit of, and that the man of about fifty had it put to him on the sixteenth and answered that he did not know.
+Nobody said anything and the fen entered that nobody said anything, and entered that neither of the two men he asked has asked what either of the two numbers is a unit of, and that the man of about fifty had it put to him on the sixteenth and answered that he did not know.
 
 The four working went to four places and the four places were the four launders, and the four launders measure nine hundred, six hundred, nothing and twenty-five hundredweight a day, and the one that measures nothing was cut at the kerb on the eleventh of the first month and is not healed, and Harlan Vetch, of about fifty-eight, said one sentence about it while he was standing in it.
 
@@ -74,7 +74,7 @@ The fen entered that nobody is blamed and entered the number, which is eight, an
 
 And then the reader of this body said the only thing he said in about nineteen hours, and he said it at about the third hour of the afternoon of the twenty-third to about four people at the lowest of the four cuts, and he gave the reason first, and the count of that in this holding's history is forty-five, and what he said was not tender and was not a thank.
 
-"**The sentence that a man who is the only person who can do a thing is a bottleneck and not a system went into a book and a note on the tenth of this month and it is not coming down and I am not going to say it, and I have said it five times in this season in five places, four of them yards and one a shed, and the last of the five was a man of sixty-eight telling me at about the ninth hour of the evening that he is not going to be the man in the middle, and I did not hear it and I was told and I am not going to pretend I was there.**"
+"**The sentence that a man who is the only person who can do a thing is a bottleneck and not a system went into a book and a note on the tenth of this month and it is not coming down and I am not going to say it, and I have said it five times in this season in five places, three of them yards and one a book and one a shed, and the last of the five was a man of sixty-eight telling me at about the ninth hour of the evening that he is not going to be the man in the middle, and I did not hear it and I was told and I am not going to pretend I was there.**"
 
 "**A party of five has held a heartroot for a day and a night and let about a foot of water off the middle of it and kept the two ends on, and one of the five took a mark doing it, and I stood about ninety yards off with a hand that had no use from the wrist down and I did not sit down once. That is the finding. I am not going to say anything else about it in a yard. The count of persons in this fen who can hold a pattern for four is two, it was two when I stood on that stone yesterday and it is two tonight, and one of the two has three inches on the inside of his right forearm that do not branch, and a mark is not a figure, and I am not going to put a mark on a count, and I am not going to stand in this cut and say what that count will be in a month.**"
 

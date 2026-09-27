@@ -24,7 +24,7 @@ Then the woman of about forty-four put her hand flat on the table in the yard, w
 
 The reader of this body did not answer that for about a minute. The fen entered the minute and entered that a man in a yard can be working and that this is what working looks like on a person.
 
-"**Tell me what the four of you do, and do not summarise it. I have got a piece of paper that says you may not do it and I have not got the thing itself, and I would like to have the thing itself before the second hour of the afternoon.**"
+"**Tell me what the four of you do, and do not summarize it. I have got a piece of paper that says you may not do it and I have not got the thing itself, and I would like to have the thing itself before the second hour of the afternoon.**"
 
 And they told him, in that order, and the fen entered all of it and none of it was softened.
 

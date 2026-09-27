@@ -20,7 +20,7 @@ Then he said the reason, and he said it to the yard and not to the reader of thi
 
 "**And the reason there is no form for it is not that anybody decided there should not be one. The reason is that nobody has ever had to write one. A hold is a thing a man does with his own body while other people work, and it moves no water, and it is not a graft and it is not a return and it is not a licence, and every one of those has a form in this district and a rate and a name against it, and a hold has none of them, because a hold cannot be given to anybody else afterwards, and a thing that cannot be given to anybody else afterwards cannot be entered, because an entry is a promise that it can be checked by somebody who was not there.**"
 
-"**So a hold is uninspectable, and a thing that is uninspectable is not a thing an office can send a man to look at. Clause three is not a judgement about four villages. Clause three is a sentence about the fact that nobody can be sent for, and it is the most correct thing I have read on the Assembly's paper in eleven years, and I have said so and I am not going to be argued out of it in a yard.**"
+"**So a hold is uninspectable, and a thing that is uninspectable is not a thing an office can send a man to look at. Clause three is not a judgment about four villages. Clause three is a sentence about the fact that nobody can be sent for, and it is the most correct thing I have read on the Assembly's paper in eleven years, and I have said so and I am not going to be argued out of it in a yard.**"
 
 Nobody said anything and the fen entered that nobody said anything.
 

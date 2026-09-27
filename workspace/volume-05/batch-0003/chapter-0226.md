@@ -14,7 +14,7 @@ Then Hesta Lyle said the standing before anybody spoke, and it is the seventh ti
 
 And she opened it and read the lines out as they were, and the man of about fifty wrote them down and read them back before the reader of this body said anything.
 
-> **THE FOUR LINES, read out in a yard at Errow Reach at about the ninth hour of the morning of the twentieth of this month by the woman who keeps the four books, in the hand they were written in, and read back, and entered whole and not summarised:**
+> **THE FOUR LINES, read out in a yard at Errow Reach at about the ninth hour of the morning of the twentieth of this month by the woman who keeps the four books, in the hand they were written in, and read back, and entered whole and not summarized:**
 >
 > **THE WELL AT CAULDRON REACH. SIXTEENTH OF THIS MONTH. FOURTH HOUR. FIVE FEET.**
 >
