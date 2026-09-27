@@ -40,7 +40,7 @@ He put the second book down on the trestle and kept his hand on it.
 
 The clerk entered it and read it back and did not improve it.
 
-"**The four lines went down the four-day road at that household's own cost, the way they went for the last one, and four days up and four days down is eight, and the reading was on the Sunday and it is the Wednesday, and they came in some time yesterday or the day before and there is nobody in this fen on that road to carry them, and a carrier on that road does not come here first, and this holding has no address on that road and did not write and ask and is not going to.**"
+"**The four lines went down the four-day road at that household's own cost, the way they went for the last one, and four days up and four days down is eight, and the reading was on the Sunday and it is the Friday, and they came in some time yesterday or the day before and there is nobody in this fen on that road to carry them, and a carrier on that road does not come here first, and this holding has no address on that road and did not write and ask and is not going to.**"
 
 The reader of this body stopped there and the fen entered the stopping.
 
@@ -82,7 +82,7 @@ The reader of this body did not take it off her and the fen entered that he did 
 
 Then the part that is his own hand and the part that is not, and the man of the north row with the cough was at the back of that yard with his back against the wall throughout and said one sentence at the end of it.
 
-"**I will tell you the part that is mine and you can leave it out of the book if you want. I did the arithmetic on that sheet at the ninth hour of the evening of the twenty-ninth of the month two months back, on this head, and the arithmetic said the ground does not take a cut, and I wrote the corridor on the sheet anyway, and I have carried it for a month, and I did not tell anybody that the arithmetic had already said no.**"
+"**I will tell you the part that is mine and you can leave it out of the book if you want. I did the arithmetic on that sheet on this head, and the arithmetic said the ground does not take a cut, and I did not say so, and he drew the corridor on the sheet anyway, and I have carried that for a month, and I have not told one person that the arithmetic had already said no.**"
 
 "**That is not a thing about a plan. That is a thing about a man with a sheet of paper, and this holding has spent a year writing down every time it did not know something and I have just gone a month with the one I did know in my pocket.**"
 

@@ -36,13 +36,17 @@ Then the sums, out loud, in the yard, twice, and the two agreeing, and the woman
 
 "**One thousand and forty-five hundredweight went through that licensed draw in eleven days. One thousand and forty-five over eleven is ninety-five a day, and eleven times ninety-five is one thousand and forty-five, and the two agree.**"
 
-"**Now. A corridor of about two inches over nine hundred yards and forty yards wide. I am not going to do that sum, and I am going to write down a number instead and I am going to say what the number is.**"
+"**Now. A corridor of about two inches over nine hundred yards and forty yards wide. I am going to write the number down and say the working, because a number nobody can check is a word, and a word is what this yard has been arguing about for a month.**"
 
 She wrote a figure on the back of the engineer's own sheet, which he allowed, and read it out.
 
-"**About one million hundredweight. And that figure is not a figure anybody in this yard can use, and it is not wrong, and I have written it down because a plan with a number on it is a plan somebody can disagree with, and a plan with no number on it is a story.**"
+"**Nine hundred yards by forty yards is thirty-six thousand square yards, and two inches is a yard in eighteen, and that is two thousand yards of water. A yard of water is twenty-seven feet at sixty-two and a half pounds to the foot, and that is a thousand six hundred and eighty-seven pounds and a half, and a hundredweight is a hundred and twelve pounds, and two thousand of them is about thirty thousand hundredweight.**"
 
-"**And I am not going to compare it with the ninety-five a day, because the ninety-five a day is a licensed draw in a holder's ground and the one million is this holding's own figure about a pan that belongs to nobody, and the two are not the same and adding them is the same as adding a supply to a want.**"
+"**And the other way, because I do sums both ways. Two thousand yards is fifty-four thousand feet, and that is three million three hundred and seventy-five thousand pounds, and at a hundred and twelve the hundredweight that is about thirty thousand hundredweight. The two agree.**"
+
+"**And that is not a figure anybody in this yard can use, and nobody is going to improve on it, and it is on the sheet because a plan with a number on it is a plan somebody can disagree with, and a plan with no number on it is a story.**"
+
+"**And I am not going to compare it with the ninety-five a day, because the ninety-five a day is a licensed draw in a holder's ground and the thirty thousand is this holding's own figure about a pan that belongs to nobody, and the two are not the same and adding them is the same as adding a supply to a want.**"
 
 Then the second thing, which is the one that decides the chapter, and the engineer of record said it standing up in a yard of about nine and the examiner was there and two of the crew were there and it is the first time in two months that he has said a whole sentence about the rule.
 
@@ -72,7 +76,7 @@ On the twenty-eighth, the Friday, they went out again with the rod and the line 
 
 "**A pail tells you where the water does not want to go. A rod tells you which way it is uphill. I had one of them on the twenty-ninth of a month two months back and I did not have either, and I drew a line anyway.**"
 
-They ran a line two hundred yards at the second place and the rise in it was eleven inches, twice, at two bearings, and the examiner wrote both numbers and the man of about fifty read them back, and a rise of eleven inches in two hundred yards is about one in fifty-five, and the engineer of record said that aloud and then said what it meant.
+They ran a line two hundred yards at the second place and the rise in it was eleven feet, twice, at two bearings, and the examiner wrote both numbers and the man of about fifty read them back, and a rise of eleven feet in two hundred yards is about one in fifty-five, and the engineer of record said that aloud and then said what it meant.
 
 "**One in fifty-five is not a difficulty. One in fifty-five is a slope. A man can walk one in fifty-five. What I could not walk is one in fifty-five for a mile and a half, and that is what I drew, and I drew it from a window.**"
 
@@ -94,6 +98,6 @@ The channel held about an inch of water for about an hour and a half and then th
 
 "**That is the first measurement of a channel on that ground and it is on this page with the hour on it. It is one inch for an hour and a half. If somebody writes that down as a result I will read it out again and I will say that it is a man with a mattock and a hand's depth of water and a floor that is not a floor, and that the number is the number and the sentence about the number is mine and not the ground's.**"
 
-> Entered at the seventh hour of the evening of the twenty-ninth of this month, in the yard, by the clerk, on the standing of a trial on ground with no holder: **a channel four feet long, a hand wide and a hand deep, was cut at the first place on the pan at the second hour of the afternoon of this day with a mattock and held about an inch of water for about an hour and a half, and the salt came up through the bottom of it. A line run two hundred yards at the second place on the twenty-eighth gave a rise of eleven inches twice at two bearings, being one in fifty-five. The engineer of record was at the top of the slope and did not go down and entered the reason before he was asked. Nobody said the trial was a failure and the fen entered that nobody said it and that the number is a number and the sentence about the number is his.**
+> Entered at the seventh hour of the evening of the twenty-ninth of this month, in the yard, by the clerk, on the standing of a trial on ground with no holder: **a channel four feet long, a hand wide and a hand deep, was cut at the first place on the pan at the second hour of the afternoon of this day with a mattock and held about an inch of water for about an hour and a half, and the salt came up through the bottom of it. A line run two hundred yards at the second place on the twenty-eighth gave a rise of eleven feet twice at two bearings, being one in fifty-five. The engineer of record was at the top of the slope and did not go down and entered the reason before he was asked. Nobody said the trial was a failure and the fen entered that nobody said it and that the number is a number and the sentence about the number is his.**
 
 And so the twenty-ninth of this month went down with a plan that is wrong in its second half mile, a rise of one in fifty-five, a channel that held an inch for an hour and a half, a sentence about a rule this holding was never going to use, and about four hundred people from the migration on the far side of nine hundred yards of dry salt who are not going to be on the near side of it tomorrow either, and nobody thanked anybody, and the sheet is still in the engineer's coat and the corridor on it is still in the wrong place, and it is a record of what a man thought at the ninth hour of the evening of the twenty-ninth of a month two months back, with the hour on it, and it is not torn up.

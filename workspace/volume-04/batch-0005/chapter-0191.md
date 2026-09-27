@@ -38,7 +38,7 @@ The month's costs went on four separate lines and were not folded into the short
 
 Then the standing rule was read out in full, four lines, in the same yard, before the figures were closed, and the clerk read it and the reader of this body did not read it because he has not read it in six weeks and says the reason out loud.
 
-> **The standing rule about the engineer of record. In force. Satisfied on the third of a month six months back, in a room, with a licensed man writing it down, entered and read back.**
+> **The standing rule about the engineer of record. In force. Satisfied on the third of a month five months back, in a room, with a licensed man writing it down, entered and read back.**
 >
 > **One.** The draw is not begun on ground whose return is not carrying.
 > **Two.** It is to be stopped at four feet.
@@ -49,17 +49,17 @@ Then the standing rule was read out in full, four lines, in the same yard, befor
 
 Nobody thanked anybody. The man of about fifty asked for his initial to be put against nothing and it went in and the count of that request is forty-six this season, and the fen entered the count and entered that the count is not a complaint and has never been a complaint.
 
-Then at about the seventh hour of the evening the same Sunday, the first of the twelfth month came, and the door was read again at the tenth hour in an empty yard, and the count of the readings of the seventh column went to thirty-seven, and the two readings were a day apart.
+Then at about the seventh hour of the evening the same Sunday, on the last night of the month, and the first of the twelfth month came in the morning, and the door was read again at the tenth hour of the morning in an empty yard, and the count of the readings of the seventh column went to thirty-seven, and the two readings were a day apart.
 
 "**Thirty-six yesterday morning. Thirty-seven this morning. Twenty-four hours.**"
 
 The reader of this body said that in a yard of about nine people and then said the rest of it and the clerk wrote it down.
 
-"**The door has been read on the first and on the thirtieth for four years. That is the standing and nobody wrote it down and everybody keeps it. And this month the first and the thirtieth came a day apart, because a month is thirty days and eleven of them have gone by since the first, and the count of readings is a count of events and it cannot stand still across a day on which a reading was made, and there have been two.**"
+"**The door has been read on the first and on the thirtieth for four years. That is the standing and nobody wrote it down and everybody keeps it. And this month the first and the thirtieth came a day apart, because a month is thirty days and twenty-nine of them have gone by since the first, and the count of readings is a count of events and it cannot stand still across a day on which a reading was made, and there have been two.**"
 
 "**I am not changing the rule. I want that entered in the words I said it in. A rule that gets changed because a month came out awkward is a rule that will get changed the next time a month comes out awkward, and in about four years there will be no rule on this door at all and there will be a habit, and a habit is a rule nobody wrote down, and I said that sentence in a yard in the ninth month about something else and I am not going to say it again this month.**"
 
-> Entered at the seventh hour of the evening of the thirtieth of this month, in the yard, by the clerk, on the standing of a rule: **the well house door was read at the tenth hour of the morning of this day in an empty yard by two members of this body, and the count of the readings of the seventh column went to thirty-six, and it was read again at the tenth hour of the morning of the next day, the first of the twelfth month, and the count went to thirty-seven. The two readings were a day apart. The standing of the door is the first and the thirtieth of a month and has been for four years. The reader of this body said out loud that he is not changing the rule and the clerk entered that he said so. Nobody was in the yard at either reading.**
+> Entered at the eighth hour of the evening of the first of this month, in the yard, by the clerk, on the standing of a rule: **the well house door was read at the tenth hour of the morning of the thirtieth, in an empty yard by two members of this body, and the count of the readings of the seventh column went to thirty-six, and it was read again at the tenth hour of the morning of the next day, the first of the twelfth month, and the count went to thirty-seven. The two readings were a day apart. The standing of the door is the first and the thirtieth of a month and has been for four years. The reader of this body said out loud that he is not changing the rule and the clerk entered that he said so. Nobody was in the yard at either reading.**
 
 And then the handoff, at about the ninth hour of the evening, at the north gate, in about nine people, and it is four sentences and the day it names is this book's.
 

@@ -1283,7 +1283,7 @@ The corrected day clock, the two naming tables, the inherited-reading table with
 | **The form on the bench** | Answered in the **second** box and not the first, returned, original never returned and never torn up. **The licensed draw at the Pans well was reduced by a fifth in the ordinary course as a consequence, it is correct, and it was not appealed.** |
 | **Whose order it is** | Asked three times, answered never. **The count of times it has been available to a room in this holding and not taken stands at SIX and is not reduced by anything in this batch.** |
 | **The question in the book** | **Entered, and unanswered. Available and not taken TWICE, asked ONCE.** |
-| **The vault** | A seed vault of forty households, four hundred yards off the north edge of the pan, on ground the district calls Crown-held and has never held, **went under at about the seventh hour of day 339 and is not recovered.** Roald Trench and Sena Wick are named out of a woman's hand. **A thing in a woman's hand about the north side is not in this holding's book and this holding did not ask for it.** |
+| **The vault** | A seed vault of forty households, four hundred yards off the north edge of the pan, on ground the district calls Crown-held and has never held, **went under at about the seventh hour of day 339, the door came off its hinges at about the tenth hour, and the two in it were taken out at the tenth hour and are dead, and it is not recovered.** Roald Trench and Sena Wick are named out of a woman's hand. **A thing in a woman's hand about the north side is not in this holding's book and this holding did not ask for it.** |
 | **The corridor** | Open since the fourth, and open is not a road. Three measurements, 300 / 540 / 486 yards, **and the reason is not established.** A foot and a half of water on a salt pan with a crust on it is not a road and the length of it is not known. |
 | **The classification** | **Migration, fourpence the hundredweight, this holding's own hand, on a Tuesday, before a man with a schedule.** A figure of **four hundred and forty-one** in a quarter's own book. **The office's answer to the goods-carried question is *not known*, and the fen has entered that *not known* is a complete answer and the only one available.** |
 | **Garrow Nye** | Correct in every particular, has corrected this holding twice against himself, both corrections entered and **not to be improved on by anybody who was not in that yard.** **He is not named in this batch and is not written into the sequence of anything in it.** **The sequence stays open: a licensed man declined to say the flow is larger because a holder put his own well back together, and declined to say it is not, and said neither out loud, and no chapter may close that.** |
@@ -1303,5 +1303,39 @@ The corrected day clock, the two naming tables, the inherited-reading table with
 
 1. **The manuscript-wide meta-language sweep.** *This batch* appears 28 times in Volume 01, 72 in Volume 02, 127 in Volume 03 and 98 in Volume 04. *This volume* is genuinely arguable and was left standing. ***This book* is diegetic and is not a target. *Batch* and *chapter* have no diegetic referent and are.** A sweep of that size rewrites prose in every volume and invalidates every recorded count in every state file. **This is a controller-level decision and not a writer's edit, and it is still not taken.**
 2. **`chapter-0156.md` does not end in a newline**, so a `cat`-based count merges its last word into the next file's first. The manuscript total has been recomputed by a file-safe method and reconciles, but the missing newline is still there and should be fixed at the close.
-3. **Ch 157 at 3,193 and Ch 196 at 3,758 are the volume's two declared per-chapter exceptions**, 73 and 638 over the ceiling. The band was not widened for either. Ch 196 may not be lengthened and may not be cut without taking volume-resolution material with it.
+3. **Ch 157 at 3,193 and Ch 196 at 3,760 are the volume's two declared per-chapter exceptions over the ceiling**, 73 and 640 over, and Ch 151 at 2,599 is one word under the floor. The band was not widened for any of them. The review fix pass brought Ch 190 back under the ceiling at 3,119 by tightening the corridor derivation it added, rather than declaring a fourth exception. Ch 196 may not be lengthened and may not be cut without taking volume-resolution material with it.
 4. **`AGENTS.md` says to update the phase ledger and the phase instructions forbid editing `state/phase-ledger.json`**, which still reads `phase-000-bootstrap` / `planned`. Open, and not this phase's to settle.
+
+---
+
+# State after the Volume 04 Batch 0005 review fix pass
+
+**A review ran on the drafted batch, returned thirteen findings, twelve were applied in prose, one was rejected, and three more were found while applying them. No plot moved, no lock was altered, no figure was re-derived except four that were wrong, no chapter was restarted, and no closed batch was touched. Full detail is in `state/continuity.md` under *THE REVIEW FIX PASS ON BATCH 0005, AND EVERY WORD OF IT*.**
+
+## The one thing a later phase must not do
+
+**DO NOT ACT ON THE REVIEW'S WEEKDAY FINDING FOR CHAPTERS 188–190.** The review reported that those three chapters run the ninth month four days off the canon weekday chain and listed eight weekday statements to be changed. **All eight are correct as they stand. This batch is days 321–350, the eleventh and twelfth months, and the review carried a month name forward from Ch 151 instead of reading the chapters' own day span.** Changing them would have contradicted the batch's own cards, the two naming tables, the seventh column, and the tenth reading of the shelf well. The rejection and its four pieces of evidence are in `state/continuity.md`. **The review log is `logs/next-0005.review.log` and the finding is still in it.**
+
+## The figures that were wrong and are now right
+
+| Figure | Was | Is | Where |
+|---|---|---|---|
+| the corridor's own volume | about one million hundredweight | **about thirty thousand hundredweight, derived twice, the two agreeing** | Ch 190; **the Batch 0005 card is wrong and the page is canonical** |
+| the rise on the pan | eleven inches in two hundred yards, called one in fifty-five | **eleven feet, which is one in fifty-five** | Ch 190, prose and entry |
+| the shelf well's shortfall | four feet one inch against nine feet | **four feet** | Ch 195, Ch 196, `state/current.md` |
+| the schedule rate's cost | twenty-four hundred pence called two pounds | **twenty-four hundred pence is ten pounds, and the two pounds is the woman of the sums' own slip, corrected in the open** | Ch 194; **the Batch 0005 card is wrong and the page is canonical** |
+
+**And the day:** Ch 194's eleventh of this month is **day 341, a Thursday**, not a Friday. **The Batch 0005 card is wrong twice about this and the page is canonical.** The Batch 0005 prompt file was **not** edited; the prose is the authority and this table says so.
+
+## New questions this pass raised and did not answer, for the close
+
+1. **The one-day gap in Ch 191 recurs every month and the chapter treats it as this month's news.** The door is read on the first and the thirtieth; with a thirty-day month those are always twenty-nine days apart, and the thirtieth and the next first are always a day apart. So the two readings a day apart are the standing, not an anomaly. **The Batch 0005 card plans the beat exactly this way, and it was not restructured, because restructuring it is a plot decision and not a writer's edit. The close should either rule that the standing is something other than *the first and the thirtieth*, or rule that the chapter's claim is a man reasoning wrongly and should stay his error.** The arithmetic in the sentence is now right either way.
+2. **The pail and the hundredweight are still conflated across batches.** Ch 190 counts 1,045 as hundredweight; Ch 169 counted it as pails. It predates this batch. **The close should rule on it.**
+3. **The two standing-sentence readings of *a month six months back* are not the same event.** Ch 196 is right — the standing rule was satisfied on day 153 — and Ch 191 was corrected from six to five. Recorded here so the close does not read Ch 191 and think there are two rules.
+4. **The meta-language sweep is unchanged and is still the close's.** The fix pass removed the only two *four volumes* in the batch, because a count of volumes has no diegetic referent in any reading. **The five surviving *this volume* instances were left standing on purpose, exactly as Batch 0004 left its nine.** The sweep is not half-done and must not be recorded as half-done.
+
+## Unchanged and still true after this pass
+
+**Fieldbook unspent across the whole volume. Stage 5 not reached. Use log FIFTEEN. Day-and-not-the-figure count THREE. Count of pattern-holders TWO. The question asked once, available and not taken twice. Whose order it is: asked three times, answered never. Brinewake spent, uncorroborated, and may not appear again; the blank in Ch 167 may not be filled, described, or noticed. No Crown Engine, no False Season, no Iona Vey, no Continuity Office, no month named, no romance, nobody thanked, Lissa Vale unforgiven and unthanked, Tova Reed unforgiven and her condition paid and forgiving nothing, Tarin Callow unthanked and unredeemed, the man of about seventy unthanked and unexplained. Marek cannot read deep memory and does not. The licensed man's refusal in the sequence stays open. `outline/ending.md` untouched, no new final enemy.**
+
+**Still owed and not this pass's work: the manuscript-wide meta-language sweep; `chapter-0156.md` still does not end in a newline; `state/phase-ledger.json` still reads `phase-000-bootstrap` / `planned` and is not this phase's to edit; and `workspace/volume-04/batch-0001/` still has no `PROMPT.md`, which the close should record rather than reconstruct.**
