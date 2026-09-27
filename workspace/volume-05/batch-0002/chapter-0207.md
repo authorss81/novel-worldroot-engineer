@@ -72,7 +72,7 @@ And then, four hundred miles off and four days up the road, on the sixteenth of 
 
 She went out at about half past three with a nail in her hand and a length of string with a bit of lead on the end of it, and the string is her own and has been her own longer than the twelve years of figures on her wall, and the nail is in the plinth of her own door and was driven in by her own hand in the first year.
 
-The well has a curb and a windlass and a wooden cover with a slot in it, and the water stands about a foot and a half down and has stood there since she came. She let the string down, brought it up wet to the nail, set it against the plinth, and marked it with the nail at the level of the water and not the level of the curb, and that is the whole of the method and it has not changed in twelve years.
+The well has a kerb and a windlass and a wooden cover with a slot in it, and the water stands about a foot and a half down and has stood there since she came. She let the string down, brought it up wet to the nail, set it against the plinth, and marked it with the nail at the level of the water and not the level of the kerb, and that is the whole of the method and it has not changed in twelve years.
 
 Then she went along the wall inside her own yard with a stub of chalk and wrote the twelfth figure under the eleventh, in her own hand, and the figure is **five feet.**
 

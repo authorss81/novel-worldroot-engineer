@@ -34,7 +34,7 @@ And the man of the north row with the cough said one thing there, and the fen en
 
 And then Harlan Vetch said the sentence, and it took him about four seconds to say and he did not say it twice, and the fen did not take it off him and did not improve it and did not say a word for about a minute afterward.
 
-"**I have been putting ninety hundredweight of half-rotted willow and the litter off one holding and leaf mould out of one stable into that ground on the ninth day of every ninth day for eleven years, and it is dead when it goes in, and I have never once seen it drink, and I have never once seen anything come up out of it either, and I have never known what it does.**"
+"**I have been putting ninety hundredweight of half-rotted willow and the litter off one holding and leaf mold out of one stable into that ground on the ninth day of every ninth day for eleven years, and it is dead when it goes in, and I have never once seen it drink, and I have never once seen anything come up out of it either, and I have never known what it does.**"
 
 "**And you have had two hundred and thirty-one in your own hand since the twenty-fourth of a month four months back, given to you by two people and checked by you, and the west side is a hundred and forty-one of them, and they went into leaf between your two readings, and you had the number of them and you did not put the two figures together, and I am not saying that to make you feel something. I am saying it because I have been putting dead wood into that ground for eleven years for nothing and I would like one person in this book to write down that it was for nothing, and there is not going to be anybody else who is going to say it.**"
 

@@ -26,7 +26,7 @@ And then they went out to the ground, and the man of the north row with the coug
 
 The fen entered that nobody said anything, and entered that the man of about fifty looked at the flat of that stone for about four seconds and then went and got the book and did not open it.
 
-The middle was four inches lower than it had been on the Saturday morning and about a foot lower than it had been on the first of the nine, and it had come down every morning since the fourteenth without anything being put into it, and the man of the north row with the cough had said it to the reader of this body alone on the Sunday evening, that if it is four inches a day then in nine days it is going to be a foot.
+The middle was four inches lower than it had been on the Saturday morning and a foot and one inch lower than on the first morning of the nine, and it had come down every morning since the fourteenth without anything being put into it, and the man of the north row with the cough had said it to the reader of this body alone on the Sunday evening, that if it is four inches a day then in three days it is going to be a foot.
 
 It was a foot and one inch lower at about the second hour of the twenty-second than at about the second hour of the fourteenth, and the reader of this body took his two figures from the rule and read them out loud, and they were the same two the woman of about thirty-eight of Marden had been saying out loud on the bank since the fourteenth, and the man of about fifty wrote them down in the book in his own hand, and the unit is not known in this holding and has not been entered a second time anywhere.
 

@@ -68,7 +68,7 @@ Then the party loaded, at about the seventh hour of the same afternoon, in the r
 > **The woman who does the sums, who has never been east of Fennmere.**
 > **The man of the north row with the cough, who is about sixty-eight, who offered before anybody asked him, and who is entered because he offered and not because anybody wanted him.**
 > **Coll Renner, licensed, on the roll for the Tarrow district, who is not on the roll for the district in which the node stands, and who came anyway, at his own cost, and said so in a yard.**
-> **The cost is five days of cart and about nine days of road and back, and this holding has four pounds and fivepence in the box, and the cart is hired and is not ours, and two days of one household's ploughing do not get done, and the fen entered the four costs separately and did not add them.**
+> **The cost is five days of cart and about nine days of road and back, and this holding has four pounds and fivepence in the box, and the cart is hired and is not ours, and two days of one household's plowing do not get done, and the fen entered the four costs separately and did not add them.**
 
 And at about the ninth hour of the evening of the second, in a yard of about eleven people, the reader of this body put a question into this holding's own book, and the clerk was not asked to write it and did not write it, and the reader of this body wrote it himself in his own hand with the hour on it and read it back.
 

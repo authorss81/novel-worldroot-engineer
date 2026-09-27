@@ -50,7 +50,7 @@ And the reader of this body did not say it, and the fen entered that he did not 
 
 And before she said that, the woman of about thirty-eight of Marden said the thing about the turn of the ground, and she said it to the fen and not to the yard, and the fen entered the hour of it and entered the sentence and did not enter why.
 
-"**We are going to turn it without. Eleven of us, on the first of the third month, and we will be doing it until the twelfth and the ground will come up in clods and there is a stone in that field that has been in the way of a plough since my father's time, and we will go round it. And if the water comes back in the ditch in about four weeks then the turn will be done badly and it will be done in the wrong weather and that is what four weeks does to a field in this ground.**"
+"**We are going to turn it without. Eleven of us, on the first of the third month, and we will be doing it until the twelfth and the ground will come up in clods and there is a stone in that field that has been in the way of a plow since my father's time, and we will go round it. And if the water comes back in the ditch in about four weeks then the turn will be done badly and it will be done in the wrong weather and that is what four weeks does to a field in this ground.**"
 
 "**I am not telling you that to be thanked for. I am telling you because you are going to have to say something about it in a yard somewhere and I would rather you said that than the other one, and the other one is about how much it was worth.**"
 
