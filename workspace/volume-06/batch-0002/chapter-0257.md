@@ -64,13 +64,13 @@ Nobody said anything and the fen entered that nobody said anything, and entered 
 
 And then he came to the part that cost four days, and he gave the reason before he came to it, and the count of that in this holding's history is sixty-four.
 
-**"The second person in this room has to be neither of us and has to be told before. There is one person inside nine days of this ground who is a professional and is not either of us, and she came up this road on the ninth of last month at my request and at her own cost and she is an inspector of the Rootwright Assembly for four districts, and she is not on the roll for the district this node stands in.**"
+**"The second person in this room has to be neither of us and has to be told before. There is one person inside nine days of this ground who is a professional and is not either of us, and she came up this road on the ninth of this month at my request and at her own cost and she is an inspector of the Rootwright Assembly for four districts, and she is not on the roll for the district this node stands in.**"
 
-**"And on the ninth of last month, in a room, to a room, she said that she checks returns and that anything else is a thing to ask her office for and pay her office for, and that if she is asked for it in a yard she will say no, and she gave the reason, and the reason is that she cannot stand in a yard of about twenty-five people and be an Assembly and a woman at once, and that it has happened to her once and it cost a village a season.**"
+**"And on the ninth of this month, in a room, to a room, she said that she checks returns and that anything else is a thing to ask her office for and pay her office for, and that if she is asked for it in a yard she will say no, and she gave the reason, and the reason is that she cannot stand in a yard of about twenty-five people and be an Assembly and a woman at once, and that it has happened to her once and it cost a village a season.**"
 
 Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about a minute.
 
-**"Nobody is going to ask her. I am saying that in about eleven people on a Sunday and not in a room with the door shut, and the reason is that she said no on the ninth of last month in front of about eleven people, and a man who asks a person who has said no in front of eleven people is not asking a question, he is asking whether she will say it again, and that is a worse thing to ask a person than the first one.**"
+**"Nobody is going to ask her. I am saying that in about eleven people on a Sunday and not in a room with the door shut, and the reason is that she said no on the ninth of this month in front of about eleven people, and a man who asks a person who has said no in front of eleven people is not asking a question, he is asking whether she will say it again, and that is a worse thing to ask a person than the first one.**"
 
 **"So the count of requests made of her is one, and it was refused, and it has not been asked twice, and a refusal is a refusal and not an absence. An absence is a person who was not there. She was there and she said no and she gave a reason and the reason is in this holding's book in her own words, and the cost of the refusal is four days, and the four days are mine and I am not going to give them back to her and call it a favor.**"
 

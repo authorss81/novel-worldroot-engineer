@@ -38,7 +38,7 @@ Nobody said anything and the fen entered that nobody said anything, and entered 
 
 And then he said the one thing, and he gave the reason before he said it, and the count of that in this holding's history is seven and it is a count of his own, and it was said in about nineteen people and not to one man.
 
-**"I am going to say one sentence about my three questions and then I am not going to say them again this season, and the reason is that I asked them in a yard on the nineteenth of a month two months back and nobody has written an answer to one of them down in a book, and a question with nothing under it for two months is a habit and not a demand, and I would rather it were a habit I had chosen than one that happened to me."**
+**"I am going to say one sentence about my three questions and then I am not going to say them again this season, and the reason is that I asked them in a yard on the nineteenth of last month and nobody has written an answer to one of them down in a book, and a question with nothing under it for about three weeks is a habit and not a demand, and I would rather it were a habit I had chosen than one that happened to me."**
 
 **"They are still mine. What it is for, who it is held with, and what a man does with a figure that went up by fifty in six days. I have not softened one of them and I am not going to. I am going to leave them where they are until somebody in this yard writes an answer under one of them in a book, and until then they are three questions and not a complaint, and I am not going to be the man who turns three questions into a complaint because it is convenient in a room."**
 

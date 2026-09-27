@@ -10,7 +10,7 @@ That is the fifty-fourth figure in a series that has not repeated one figure sin
 
 Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about a minute.
 
-And at about the seventh hour of the morning the day-minus rules were read out loud before either number, in about four people, the way they are read, and the boards stand at **four hundred and thirty-eight days** and the March's tin at **four hundred and eighty-five**, and the two are forty-seven days apart, and the drawer was not opened and is not to be, and the fen entered that the count of mornings on which he has read them out loud in this month is four and is a count of his own and has not been added to any other count.
+And at about the seventh hour of the morning the day-minus rules were read out loud before either number, in about four people, the way they are read, and the boards stand at **four hundred and thirty-eight days** and the March's tin at **four hundred and eighty-five**, and the two are forty-seven days apart, and the drawer was not opened and is not to be, and the fen entered that the count of mornings on which he has read them out loud in this month is eight and is a count of his own and has not been added to any other count.
 
 And at about the fourth hour of the afternoon about nine people were in the seed house with the door shut, and the seed was on the middle table under a cloth with a pail of water and a wet cloth against it, and the memorandum of protection was on the table under that, and the form with four lines on it was on the table under that, and the fen entered four objects in a stack on one table and did not improve the order.
 

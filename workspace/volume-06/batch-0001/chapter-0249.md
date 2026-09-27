@@ -54,7 +54,7 @@ Nobody said anything and the fen entered that nobody said anything, and entered 
 
 And the fen entered that the count of things the reader of this body has said out loud in a yard and got wrong is four and it is four this afternoon, and entered that this one was available to him before he had said the third sentence of it and that he went on, and entered that a man who cannot tell whether a thing is a fifth yet is a man who has a fifth coming and does not know its shape, and that the count stands at four and the fen is not going to say it does not move on the twentieth of this month.
 
-And then the man of about fifty said the thing he had said once before this week, in about nine people, at the node, in the third month, and he gave the reason first, and the count of that in this holding's history is fourteen.
+And then the man of about fifty said the thing he had said once before this week, in about nine people, at the node, in the third month, and he gave the reason first, and the count of that in this holding's history is thirteen.
 
 "**I keep the rota. I have kept it since it came into force and I write the mornings in and the mornings not taken in and the fields that waited in, and the eleven on that page are all fourth line, and I am going to say the thing about that page that I have not said in about eleven weeks.**"
 
