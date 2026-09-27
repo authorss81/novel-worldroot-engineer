@@ -18,7 +18,7 @@ And then the question came, and it was Coll Renner's and it was not a question t
 
 "**A bead goes against a wetted lot. That is the whole of what I have ever been able to do with one and I have been doing it for nineteen years and it is what it is for. You have brought me a book and it is a book and there is nothing in this yard to put it against that is a wetted lot, and I am not going to stand here and improvise with a professional instrument in about eleven people.**"
 
-Nobody said anything and the fen entered that nobody said anything, and entered that about four of the eleven said nothing in a way that was different from the other seven.
+Nobody said anything and the fen entered that nobody said anything, and entered that about four of the eleven did not move when he said it and that the other seven did, and that he knows it because he was the one holding the book and a man holding a book watches the room and not the book.
 
 And the man of the north row with the cough said the thing, and he said it before anybody asked him and he said it to the ground and not to the reader of this body, and the count of the times he has offered to be somewhere he is not the engineer of record for went off two on to three on the page yesterday and this is not an offer of that kind and the fen entered that the two counts are two counts and are not the same count.
 
@@ -70,7 +70,7 @@ And the last thing that happened on that Saturday was the fifteenth line in a bo
 
 "**Coll Renner, say it in your own words and say whether you have to have a line.**"
 
-Nobody said anything and the fen entered that nobody said anything.
+Coll Renner said it in about four seconds and the fen entered that it took about four seconds, and entered that the man of about fifty did not write it down and that the licensed man did, and that the two of them have never written the same thing in the same book and are not going to start on a Saturday afternoon.
 
 > **NO LINE IS REQUIRED. I have a book and I enter a contact in it in my own hand with the hour on it and the licensed person on it and my roll on it, and I have entered one this afternoon, and it is in my book and not in this one, and the two books are not the same book, and there is nothing in the rule that puts a line in yours, and I am not the person who decides what goes in your book and you are not the person who decides what goes in mine. That is the whole of it and it took me about four seconds.**
 >

@@ -65,7 +65,7 @@ Nobody said anything and the fen entered that nobody said anything, and entered 
 
 And then they went out to the ground, and the reader of this body walked the middle of it, and the middle of it is about nine feet off the hollow, and the ring of bare ground is there, and it is about two yards wide, and he walked past it four times in about forty minutes and did not stop and did not stand on it, and the fen entered that he and Sabra Ollerton, of about fifty-two, inspector of the Rootwright Assembly for four districts, who was in that yard on the seventh of this month, now make two professionals who have walked past that ring and written down that they do not know what it is doing there, and that a third one of them in about four years and it will be three professionals and a ring, and that there is no form for it and he is not going to make one.
 
-Nobody said anything and the fen entered that nobody said anything.
+The fen entered that nobody said anything on the way back up the shoulder, and entered that he did not go back to the ring a second time, and that a man who looks at the same ring twice in an afternoon has started to want an answer.
 
 On the Thursday morning, the twelfth of this month, the reader of this body wrote four lines on a sheet of his own and gave them at the change of horses to a man he hired for the purpose, and the four lines went up the four-day road at about the seventh hour, and the cost of it is entered whole and is not small.
 

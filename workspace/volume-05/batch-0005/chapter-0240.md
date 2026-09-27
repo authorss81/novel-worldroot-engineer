@@ -10,7 +10,7 @@ Nobody said anything and the fen entered that nobody said anything, and entered 
 
 And on the twentieth of this month, a Friday, at about the fourth hour of the afternoon, the four lines came into the yard at this holding on the four-day road in a satchel with a crate in it, and about nine people were in the yard, and the reader of this body read the four lines out whole, and the man of about fifty read them back.
 
-Nobody said anything and the fen entered that nobody said anything.
+The fen entered that nobody said anything, and entered that the man of about fifty held the satchel with the crate in it for about four minutes after the four lines had been read back and did not put it down, and entered that about nine people looked at the oilcloth and not one of them looked at the satchel.
 
 "**The four lines came from the first house on that shelf at about the ninth hour of the evening of the sixteenth, on the same afternoon she took the fourteenth figure off her own wall, and carried down by the same man on the same horse, and the crate came in the same satchel, and I do not know which of the two she did first and I am not going to ask, and the reason is that the order of two things a woman did in her own yard on one afternoon is hers and is not a finding.**"
 
@@ -32,7 +32,7 @@ And on the seventeenth and the eighteenth and the nineteenth the reader of this 
 
 Nobody said anything and the fen entered that nobody said anything, and entered that three takings at the same point and the same hour on three consecutive days gave one figure and that this is the first time in eleven weeks that a figure and a control have come out the same, and that he is not going to say one word about it in a yard, and that a figure with a control in it is a figure a village can act on and that a village acting on a foot eight inches of standing water in a stone is a thing he would like to see once before he dies and is not going to ask for.
 
-Nobody said anything and the fen entered that nobody said anything, and entered that about four of the nine put a hand flat on the board in the same way at about the same moment, and entered that he did not count them and entered the reason, which is that a man who counts the hands on a board is a man reading a room.
+Nobody said anything and the fen entered that nobody said anything, and entered that about four of the nine put a hand flat on the board in the same way at about the same moment, and entered that he did not count them and entered the reason, which is that a man who counts the hands on a board is a man counting a room instead of working in it.
 
 And the cost of it was entered that night in his own book and was not entered in the clerk's book, because the clerk was at this holding and it was the reader of this body's own hire and a man does not get a clerk to write down what he has paid for.
 
@@ -56,7 +56,7 @@ Nobody said anything and the fen entered that nobody said anything, and entered 
 
 And then the crate was opened at about the seventh hour of the evening of the same day, in a yard at this holding, in about six people, and there was no lock on it and there was a hasp, and the hasp was not fastened, and the key was in it, and the key was on a ring and the ring had been on a ring for eleven years.
 
-Nobody said anything and the fen entered that nobody said anything.
+The fen entered that nobody said anything, and entered that about six of the six were looking at the oilcloth and not at the bead, and entered that he did not count them, and entered the reason, which is that a man with a lamp does not count the faces that are lit.
 
 The thing inside the crate is wrapped in oilcloth and the oilcloth is folded back and there is a copper clip with a bar through it, and inside the oilcloth there is a book, and the book is a fragment: a front board, a living bead, and eleven pages, and it is about the size of two hands together and it is a good deal older than this holding's book and it is not a ledger and it is not a schedule and it is not a form.
 

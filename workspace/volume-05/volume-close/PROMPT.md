@@ -1,6 +1,6 @@
 # Volume 05 — The Close
 
-**Volume 05, *The Heartroot Rota*, Chapters 197–245, days 351–450. Forty-nine chapters across five batches, 144,381 words. This is the CLOSE. It is not a batch and it drafts no chapter.**
+**Volume 05, *The Heartroot Rota*, Chapters 197–245, days 351–450. Forty-nine chapters across five batches, 144,822 words. This is the CLOSE. It is not a batch and it drafts no chapter.**
 
 The volume outline is `outline/volume-05.md`. Read it, and read lines 5, 63–69 and 92–113 twice, because this close has to say whether the volume did what that outline told it to do. Then read `AGENTS.md`, `NOVEL_SPEC.md`, `bible/` (premise, world, power-system, terminology, themes, characters), `outline/series.md`, `outline/ending.md`, `state/current.md`, `state/continuity.md`, `state/open-threads.md`, `state/chapter-summaries.md`, and **the five section heads `VOLUME 05 — BATCH 0001` through `VOLUME 05 — BATCH 0005` in `state/continuity.md`, in order, before you read a single chapter file.**
 
@@ -9,7 +9,7 @@ The volume outline is `outline/volume-05.md`. Read it, and read lines 5, 63–69
 ## WHAT THIS CLOSE IS FOR, IN SEVEN JOBS, AND WHAT IT IS NOT
 
 1. **AUDIT ALL FORTY-NINE CHAPTERS MECHANICALLY, MACHINE-READ, RECOMPUTING EVERY FIGURE FROM THE FILES.** Word counts per file and per batch and per volume and for the manuscript. Weekday sites against the day clock. Month-frame sites against **Table E** and the three tables before it. The `Entered ...` block count per chapter against the cap of three and the zero in a chapter carrying a climax. Quotation and bold-marker balance paragraph by paragraph. Non-ASCII glyphs. Trailing whitespace, double blank lines, final newlines. Duplicated paragraphs. The meta-language sweep. The forbidden-word list.
-2. **AUDIT THE DAY CLOCK AND DERIVE IT INDEPENDENTLY** from day 361 being a Wednesday on the page in Ch 197, and check every weekday statement in all forty-nine chapters against the table that table produces, **including the twenty Batch 0005 sites, which have not yet had a second reader.**
+2. **AUDIT THE DAY CLOCK AND DERIVE IT INDEPENDENTLY** from day 361 being a Wednesday on the page in Ch 197, and check every weekday statement in all forty-nine chapters against the table that table produces. **Batch 0005's fifty-nine weekday mentions HAVE NOW HAD A SECOND READER AND NONE IS WRONG AGAINST TABLE E, and that is a result and not a certificate: check them again, and check the twenty-nine chapters in front of them, which have not.**
 3. **AUDIT EVERY FIGURE THE VOLUME PUBLISHED, ON EVERY PAGE, AND RE-DERIVE THE INHERITED ONES.** The shortfall, the compost line, the day-minus rules, the seventh column, the returns, the sill takings, the rotation, the counts of persons. **A figure that has been carried forward through five state files is not thereby right.**
 4. **CHECK THE VOLUME AGAINST ITS OWN OUTLINE AND ITS OWN GUARDRAILS, ITEM BY ITEM, AND SAY WHICH ONES HELD AND WHICH DID NOT.** There are thirteen guardrails and thirteen are on the page. **Say plainly which of them the volume broke, if it broke any.** A close that reports thirteen out of thirteen is not trusted until a reader has checked it.
 5. **WRITE `reviews/volume-05.findings.md`.** One file. Every finding, with the chapter and the line, the defect, the repair or the refusal to repair, and the reason. **A close that finds nothing has not looked, and the fourth close in this repository that found nothing would be the end of the practice.**
@@ -20,9 +20,9 @@ The volume outline is `outline/volume-05.md`. Read it, and read lines 5, 63–69
 
 ## THE FIGURES, ALL RECOMPUTED FROM THE FILES AND NOT CARRIED FORWARD FROM ANY PROMPT
 
-**Volume 01 166,022. Volume 02 141,818. Volume 03 142,952. Volume 04 141,727. Volume 05 144,381 across Chapters 197–245. Manuscript 736,900 across 245 chapters. Batches: 28,826 + 29,551 + 29,726 + 28,848 + 27,430 = 144,381, and 144,381 + 592,519 = 736,900, which reconciles exactly.**
+**Volume 01 166,022. Volume 02 141,818. Volume 03 142,952. Volume 04 141,727. Volume 05 144,822 across Chapters 197–245. Manuscript 737,341 across 245 chapters. Batches: 28,826 + 29,551 + 29,726 + 28,848 + 27,871 = 144,822, and 144,822 + 592,519 = 737,341, which reconciles exactly.**
 
-**THE PER-CHAPTER FIGURES OF BATCH 0005, AS MEASURED WHEN IT WAS DRAFTED: 3,076 / 3,121 / 3,099 / 2,954 / 3,005 / 3,111 / 3,063 / 3,080 / 2,921. RECOMPUTE THEM ALL. CH 238 IS 3,121 AND IS ONE WORD OUTSIDE THE BAND, WAS TRIMMED TWELVE TIMES AND WAS NOT DECLARED, AND MAY BE ONE WORD OVER BECAUSE OF THE COUNTING METHOD, WHICH IS `wc -w` INCLUDING THE HEADING.**
+**THE PER-CHAPTER FIGURES OF BATCH 0005, RE-MEASURED BY A REVIEW FIX PASS AFTER A PROSE REPAIR AND NOT BY THE DRAFTING PHASE: 3,113 / 3,098 / 3,105 / 3,070 / 3,082 / 3,099 / 3,112 / 3,099 / 3,093. RECOMPUTE THEM ALL ANYWAY. ALL NINE ARE INSIDE THE 2,600-3,120 BAND, THE LONGEST IS CH 237 AT 3,113 AND THE SHORTEST IS CH 240 AT 3,070, AND THE COUNTING METHOD IS `wc -w` INCLUDING THE CHAPTER HEADING. THE FIGURES THIS PROMPT CARRIED BEFORE THAT PASS, AND THE CLAIM THAT CH 238 WAS ONE WORD OUTSIDE THE BAND, WERE BOTH STALE AND ARE WITHDRAWN.**
 
 **DECLARED EXCEPTIONS IN VOLUME 05, BOTH STANDING: Ch 206 at 3,151 and Ch 216 at 3,465. NO BATCH 0005 CHAPTER IS DECLARED OUTSIDE THE BAND AND THE BAND WAS NOT WIDENED.**
 

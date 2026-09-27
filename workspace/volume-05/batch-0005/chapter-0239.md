@@ -46,7 +46,7 @@ And the woman of about thirty-eight of Marden did not give a number, and the fen
 
 And on the Monday morning, the sixteenth of the month, the reader of this body went out to the field and to the lowest of the four cuts and looked at the ditch above Marden from the top of the bank and it was dry at both ends for the thirty-fifth day.
 
-Nobody said anything and the fen entered that nobody said anything.
+The fen entered that nobody said anything on that bank, and entered that he stood on it about a minute by himself, and that the minute is not in this holding's book.
 
 The fourteenth ordinary reading of the well at Cauldron Reach is taken at about the fourth hour on the sixteenth of every month, and the sixteenth of this month was a Monday, and it was taken at about the fourth hour, and it is in her hand, and it is on her own wall, in her own yard, with her own nail and her own string with a bit of lead on it, at the level of the water and not the level of the curb, and that is the whole of the method and it has not changed in twelve years.
 
@@ -60,7 +60,7 @@ Nobody said anything and the fen entered that nobody said anything, and entered 
 
 And the third of the nine mornings came round at the second hour of the Monday and the reader of this body held it from the second hour to the fourth hour with the same four working, and the man of about fifty heard the word at about nine feet off again, and the middle was kept down about four inches and held, and at about the fourth hour the reader of this body said the word and sat down on the flat of the board for about a minute and got up again and did not say anything about having sat down.
 
-Nobody said anything and the fen entered that nobody said anything, and entered that he sat down for about a minute on the third morning and got up again, and that he did not enter it as a cost and did not enter it as a mark and did not enter it as a fifth anything, and that a man of thirty-one who sits down for a minute on the third morning of nine and gets up again has entered nothing at all and that nothing at all is a thing he has got very good at in eleven weeks and is not going to be praised for.
+Nobody said anything and the fen entered that nobody said anything, and entered that he sat down for about a minute on the third morning and got up again, and that he did not enter it as a cost and did not enter it as a mark and did not enter it as a fifth anything, and that a man of thirty-one who sits down and gets up again has entered nothing at all and that nothing at all is a thing he has got very good at in eleven weeks and is not going to be praised for.
 
 And on the Monday night, at about the eleventh hour, the reader of this body wrote in his own book that the sheet went up on the twelfth at about the seventh hour and that it is four days and that it would be on the shelf at about the seventh hour of this evening, and that he did not know whether it had been, and that he was not going to write a second line under it tonight, and that a man who writes a second line under a thing he is waiting for has started counting, and that he is not going to count.
 

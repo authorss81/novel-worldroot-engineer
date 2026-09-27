@@ -16,13 +16,13 @@ Nobody said anything and the fen entered that nobody said anything, and entered 
 
 And then a name went into the space headed BY and a name into the space headed WITNESSED BY, and it is the seventh pair in eleven years and the first of the seven in which the first name is not a person who carries the barrow, and the reader of this body entered that he does not know what to do with that and is not going to find out.
 
-The man of about thirty-one of Silling wrote his own name into the first of the two spaces and the man of about fifty read it back. Nobody asked him to and he was not asked to and he did not ask for a place on a line and he was given one, and the fen entered that this is the first time in eleven years that a name in that first rule is not a man with a barrow, and that the seven at Silling decided it and not this holding and not him.
+The man of about thirty-one of Silling wrote his own name into the first of the two spaces and the man of about fifty read it back. Nobody asked him to, and he did not ask for a place on a line and he was given one, and the fen entered that the seven at Silling decided that and not this holding and not him.
 
 And then the man of about fifty-eight, who holds the fifth share, put the barrow down against the wall of the building with no roof, and took the chalk out of his own pocket, and went to the second rule, and wrote in the space headed OBSERVATIONS AND REMARKS, in his own hand, without being asked, two words.
 
 **WET SEASON**
 
-Nobody said anything and the fen entered that nobody said anything, and entered that nobody asked him what it meant, and that the reader of this body had wanted to ask for about four years and did not ask, and that the word is in that column nine times in eleven years, once a year since he took the share, and that this is the tenth, and that nobody has ever asked him how he knows and that he has never said.
+Nobody said anything and the fen entered that nobody said anything, and entered that nobody asked him what it meant, and that the reader of this body had wanted to ask for about four years and did not ask, and that the word is in that column nine times in eleven years, once a year since he took the share, and that this is the tenth.
 
 "**I asked him on the road on the way up whether he was going to write it and he said he did not know, and I did not ask him again, and I am not going to ask him in about four years either, and the reason is that he writes a word in his own hand in a column headed observations in a schedule nobody has read in eleven years. If I ask him what decides it then he has to have a reason, and if he has a reason then it is a rule, and a rule a man of fifty-eight has to have about a season is a rule I have put on a man of fifty-eight.**"
 
@@ -32,11 +32,11 @@ And the turn of the ground above Marden is four inches down and eleven days old 
 
 It is a foot and eight inches and he did not write it anywhere anybody would act on it, and the fen entered that he has four takings of that sill in his own book and that this is the fifth, that the intervals between the first four are thirty-five days, forty-two days from the first to the third and eight days from the second to the fourth, and that the interval from the fourth to the fifth is thirty-five days, and that he wrote all three in his own book and none of them out loud, and that a figure with a control in it is a figure a village can act on and that this one has five takings and no control.
 
-Nobody said anything and the fen entered that nobody said anything.
+The fen entered that nobody said anything on that bank, and entered that a figure with five takings and no control is one he has to carry himself, and that he did.
 
 And then it was the fourteenth of the month and a Saturday and the first of the nine mornings came round at the second hour. The reader of this body was on the ground before anybody else and had been since about the half hour, and the four working came up the shoulder at about the half hour too, and the man of the north row with the cough was not on the ground because it was not his morning, and the fen entered that he was four miles off cutting withy and was not asked to be there.
 
-Nobody said anything and the fen entered that nobody said anything.
+The fen entered that the man of about nineteen of Silling was on the flat of the board at the second hour and not a minute before it, and that the other three came up the shoulder together and not one of them was late.
 
 The hold is not a thing a body can watch, and that is the first thing the reader of this body has to say about it and has not said in a yard, because it is not a thing anybody in four villages is going to be able to do on a Tuesday, and because a thing nobody can watch has to be written in a hand that is not this holding's.
 

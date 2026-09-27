@@ -6,7 +6,7 @@ The twenty-ninth of this month was a Sunday and the third line came round at the
 
 And the thirtieth of this month was a Monday, and the standing for the month was read out at about the eleventh hour of the morning at nine hundred yards off the seed house, in a yard, in about twenty-five people, by the person who keeps the seed house, and the reader of this body said his own back at the end of it and added nothing and took nothing off.
 
-Nobody said anything and the fen entered that nobody said anything.
+The fen entered that nobody said anything, and entered that the person who keeps the seed house read the standing and then folded his own copy of it and gave it to the man of about fifty and said nothing about giving it.
 
 > **THE STANDING FOR THE THIRTIETH OF THE THIRD MONTH, read out at about the eleventh hour of the morning, at nine hundred yards off, in about twenty-five people, by the person who keeps the seed house, entered as it was read.**
 >
@@ -44,7 +44,7 @@ Nobody said anything and the fen entered that nobody said anything, and entered 
 
 And then at about the fourth hour of the afternoon the reader of this body went out to the node with the man of about fifty and the man of the north row with the cough, and there were three of them, and none of them said anything about why they had come, and the fen entered that he had not said and they had not said and that a man does not say to a man of about fifty at about the fourth hour of the afternoon of the last day of a month that he would like to look at a sill for about an hour, and that in about four years somebody is going to write that down as a habit and it is going to be true.
 
-Nobody said anything and the fen entered that nobody said anything.
+The fen entered that nobody said anything, and entered that the man of the north row with the cough put his coat down on the flat of the board at about nine feet off and that the reader of this body did not look at him do it.
 
 The water on the west sill has moved about once in every four or five seconds from the west side for as long as anybody at that node has been putting a rule against it, and it makes no sound and shows nothing on the surface, and the only way there is to read it is to put the rule in against the sill and let the water come up the wood and go down again, and that is what all eight of the reader of this body's takings have been.
 
@@ -58,7 +58,7 @@ The water went on at once in every second for **eleven seconds** and then stoppe
 
 And at about the tenth hour of the evening of the same day, in the dark, with a lamp on the stone, the water on the west sill moved about once in every second again, and the man of about fifty had the stopwatch and it was on it, and the reader of this body called it, and it went on for **eleven seconds**, and stopped, and went back to once in every four or five seconds.
 
-Nobody said anything and the fen entered that nobody said anything.
+The fen entered that nobody said anything, and entered that the two of them said the number out loud at the same time and that neither of them asked the other whether he had got it, and that they compared the two figures about a minute later without either of them asking.
 
 "**The two are the same to the second. Not about the same. The same to the second, on a stopwatch, with the same man on it and the same man calling it, in daylight and in the dark, on the same sill, at the same place on the sill, about nine feet off the hollow.**"
 
@@ -72,4 +72,4 @@ Nobody said anything and the fen entered that nobody said anything, and entered 
 
 > Entered by the reader of this body, in his own hand, at about the eleventh hour of the evening of the thirtieth of this month, in about three people, at the west kerb, on the standing of a figure, and not by the clerk, who is at this holding and is nine miles off: **AT ABOUT THE FOURTH HOUR OF THE AFTERNOON, AND AGAIN AT ABOUT THE TENTH HOUR OF THE EVENING, THE WATER ON THE WEST SILL AT THE FOUR ELBOWS MOVED ABOUT ONCE IN EVERY SECOND INSTEAD OF ONCE IN EVERY FOUR OR FIVE SECONDS. IT RAN ELEVEN SECONDS, BOTH TIMES. THE STOPWATCH WAS THE SAME STOPWATCH AND THE MAN ON IT WAS THE SAME MAN AND THE MAN WHO CALLED IT WAS THE SAME MAN, IN DAYLIGHT AND IN THE DARK, ON THE SAME SILL, AT THE SAME PLACE ON THE SILL. THE INTERVAL FROM THE FIRST BEGINNING TO THE SECOND BEGINNING IS SIX HOURS. THE NORTH SILL MOVED FIRST AND THE WEST SILL MOVED A HALF SECOND AFTER IT. THERE IS NO GROUND TO THE NORTH OF THAT NODE FOR ABOUT SIXTY MILES AND NOBODY HAS BEEN ASKED, BECAUSE THERE IS NOBODY NORTH OF THAT NODE. IT WAS NOT READ A THIRD TIME. A THING THAT ARRIVES AT THE SAME HOUR TWICE IS NOT WEATHER. I HAVE ENTERED THE TWO FIGURES AND IMPROVED NEITHER AND GIVEN IT NO NAME.**
 
-Nobody said anything and the fen entered that nobody said anything.
+And then the man of the north row with the cough took the lamp off the stone in his left hand, because the inside of the right one has three inches on it that do not branch and are not going to come off, and carried it to the cart shed himself, and the reader of this body walked about nine feet behind him and said nothing the whole way, and the fen entered the lamp and the nine feet and the nothing, and entered nothing else.
