@@ -62,7 +62,7 @@ Then he did the sum, and he did it twice, and the woman who does the sums did it
 
 The woman of about forty-four said the thing that stopped him, and she said it standing up, and she was right.
 
-"**Then you have done to Marden this morning exactly what a piece of paper in a bag did to Havergate on Saturday. You have decided what our number is from outside our own gate, and you have decided it in a yard, and you have decided it in a way that makes Marden nothing, and I want you to hear how that sounds and I want you to hear it as a person and not as a sum.**"
+"**Then you have done to Marden this morning exactly what a piece of paper in a bag did to Havergate on Sunday. You have decided what our number is from outside our own gate, and you have decided it in a yard, and you have decided it in a way that makes Marden nothing, and I want you to hear how that sounds and I want you to hear it as a person and not as a sum.**"
 
 Nobody in that yard said a word and the fen entered that nobody said a word and entered the length of it.
 
@@ -74,7 +74,7 @@ He wrote to Marden that afternoon, on the fen's own paper, at about the fifth ho
 
 And then, at about the seventh hour, because he could not sit down, he took the lamp and the rule and walked the nine hundred yards to the well house door, and there were about nine people at the front of the seed house who watched him go and did not go with him, and the fen entered that they did not go with him and that he did not ask them to.
 
-The door is a plank door bolted to a frame in the ground, and it is nine hundred yards off, and it has been read on the first and the thirtieth of every month for four years, and it has a column on it that gets a figure put in it, and the man of about fifty has written thirty-seven figures on that door in four years and every one of them is the same figure, which is the number of readings, because that is what it is for.
+The door is a plank door bolted to a frame in the ground, and it is nine hundred yards off, and it has been read on the first and the thirtieth of every month for four years, and it has a column on it that gets a figure put in it, and every figure in that column is the same figure, which is the number of readings, because that is what it is for, and a number of readings is not a number of anything else.
 
 There are **seven columns** on that door.
 
@@ -102,7 +102,7 @@ The woman of about forty-four said one sentence into that and she was not thanke
 
 The man of about fifty asked for his initial to be put against nothing and it went in, and the count of that request is forty-eight this season, and the fen entered the count.
 
-And that night the reader of this body wrote under the day's work in his own hand, dated the twenty-sixth of this month, and it is the fiftieth note and the notes ask for nothing and wait for a year, and a year and a day went by in the twelfth month with nothing coming of any of them.
+And that night the reader of this body wrote under the day's work in his own hand, dated the twenty-sixth of this month, and it is the forty-ninth note and the notes ask for nothing and wait for a year, and a year and a day went by in the twelfth month with nothing coming of any of them.
 
 *Four bodies of households, one node, about six hundred persons, and a sheet with four columns and no heading row, and on that sheet two of the four numbers are households and two of the four are not, and the arithmetic on it gives a mill town of six hundred people nine hundred hundredweight a day, a village of about four hundred people six hundred hundredweight a day, and about five hundred people between them nothing at all, and the sum is exact and the exactness is the finding and not the answer. A share is a number. A number is a charter. Four villages have gone eleven years without one and have now got one on a sheet because one of them asked for a proportion, and the proportion was worked out by a man five days west of them who was asked for no paper and offered one.*
 

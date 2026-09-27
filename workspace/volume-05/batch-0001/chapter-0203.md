@@ -54,7 +54,7 @@ Then Soren Rill said the other thing, unasked, at about the seventh hour of the 
 
 "**And I will give you the one thing that is mine to give, which is that a fifth party at a node is not a fifth claim. It is usually a piece of paper that nobody has traced, and it is usually somebody doing the work because nobody else was going to, and it is usually right, and I am telling you that before you find it so that you do not have to pretend you did not know.**"
 
-The reader of this body asked him one question and it was about the water and not about the party, and he asked it in the yard and in the ordinary voice and he said the reason for asking first, which is the third time and the count is three.
+The reader of this body asked him one question and it was about the water and not about the party, and he asked it in the yard and in the ordinary voice and he said the reason for asking first, which is the fifth time and the count is five.
 
 "**I am not going to ask you who the fifth party is and I am not going to ask you again in a room and I am not going to write and ask anybody else. I am going to ask you one thing about water, because water is the only thing I have any standing to ask a stranger about, and it is five days east and it is a node with about one thousand five hundred hundredweight a day going into four villages and I have not seen it.**"
 
@@ -70,6 +70,6 @@ Soren Rill thought about it for long enough that the fen entered the length of i
 
 The three of them slept in the cart shed and the roof over about two feet of it had been tarred at about the fourth hour and held, and in the morning the woman of about twenty-nine and the man of about fifty-three went out at about the sixth hour and Soren Rill did not go with them, and he said one thing at the gate to the reader of this body alone and the fen entered the hour of it and did not enter the thing.
 
-"**You are going to walk into that on the ninth of next month with five people and a great deal of arithmetic and one licensed man, and there is going to be a man standing there in the dark who has been doing a thing nobody asked him to do for eleven weeks, and I want you to remember, on the day, in about four years, when somebody tells you that you should have known about him, that the fen asked one question and it was the right one.**"
+"**You are going to walk into that on the ninth of next month with five people and a great deal of arithmetic and one licensed man, and there is going to be a man standing there in the dark who has been doing a thing nobody asked him to do for longer than you have had that piece of paper, and by the day you get there it will have been nine times, and I want you to remember, on the day, in about four years, when somebody tells you that you should have known about him, that the fen asked one question and it was the right one.**"
 
-Nobody said anything to that and the fen entered that nobody said anything to that, and that the reader of this body did not ask him what the eleventh week was about, and that the count of not-askings is two and is a month count and is not going to be three before the ninth.
+Nobody said anything to that and the fen entered that nobody said anything to that, and that the reader of this body did not ask him when the first of the nine was, and that the count of not-askings is two and is a month count and is not going to be three before the ninth.

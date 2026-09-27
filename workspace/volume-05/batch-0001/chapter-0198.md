@@ -20,7 +20,7 @@ Then the woman of about forty-four put her hand flat on the table in the yard, w
 
 "**Five days east of here is a node that four bodies of households have been sharing for eleven years, and there is a sheet that came past this gate yesterday that says the four of us may not go on doing it unless one of us is on a roll, and none of us is on a roll, and we did not know that sheet existed until yesterday afternoon.**"
 
-"**I have not come here to ask this holding for anything. I have come because there are eleven of us at Havergate and seven at Silling and about a hundred and twenty between them at Low Wether and the number at Marden I could not tell you on the road, and four bodies, and none of us has anybody who can do the thing.**"
+"**I have not come here to ask this holding for anything. I have come because there are eleven of us at Havergate and seven at Silling and about four hundred between them at Low Wether and the number at Marden I could not tell you on the road, and four bodies, and none of us has anybody who can do the thing.**"
 
 The reader of this body did not answer that for about a minute. The fen entered the minute and entered that a man in a yard can be working and that this is what working looks like on a person.
 
@@ -32,7 +32,7 @@ Havergate, north side, on the high shoulder above the elbow. The node is under a
 
 Silling, west side, below the elbow, two hundred and ten people, no mill, eleven families who have run out of what they had and are not going to be sent back. The water comes down past them and they take their turn the way a queue works and their turn is a quarter of what Havergate takes and they have known that for eleven years and have never once asked for it to be different.
 
-Low Wether, south, on the flats, about a hundred and twenty people between them, ninety-six hearths, and they are the only village of the four that has kept a count of anything since the flood.
+Low Wether, south, on the flats, about four hundred people between them, ninety-six hearths, and they are the only village of the four that has kept a count of anything since the flood.
 
 Marden, east, on the high ground, about three hundred people, and the man from Marden is not in this yard and the fen entered that.
 
@@ -50,7 +50,7 @@ Then the reader of this body said the word out loud, and he said it in the ordin
 
 "**Say that again and say it to the book, because if I am going to spend a month of this holding on it I want it to have a word on it that means what it means and not a phrase somebody chose in a shed.**"
 
-"**Rota. Four households of bodies, four turns, and a stop in every line of it. That is the word and that is what you have been doing, and you have been doing it without a document, and a document is not a insult to you, it is the only thing in this yard that makes the thing safe, and I know that because I have spent four years writing down every time this holding did not know something and I have never once written down the time four villages were doing the one thing nobody was writing down.**"
+"**Rota. Four bodies of households, four turns, and a stop in every line of it. That is the word and that is what you have been doing, and you have been doing it without a document, and a document is not an insult to you, it is the only thing in this yard that makes the thing safe.**"
 
 The woman of about forty-four said one sentence into that without being asked and she was not thanked for it.
 
