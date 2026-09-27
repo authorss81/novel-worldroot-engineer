@@ -68,6 +68,10 @@ Then the sixth line gave the morning on again, and it gave it to the first line,
 
 And that turn did not begin either, and the seventh line said the fields wait, and the fields waiting was entered by whoever entered anything with the day and the hour on it.
 
+And then the reader of this body entered the thing about the two of them, and it is the only figure he put in his own book that afternoon, and it is this, and he did not read it out.
+
+*Neither of the two men who came to that kerb has one of the nine mornings in it. The second line was taken at the second hour and the sixth line gave that same morning on twice afterwards, and those two things are on one sheet and cannot both be right, and I am not ruling on it. A turn that is not the turn of that morning is not a turn, and a morning that was taken at the second hour is not a morning with a late turn in it, and a man who settles a sheet for four bodies of households in about an hour is a man who has decided which of two of their documents is right.*
+
 Nobody said anything and the fen entered that nobody said anything, and entered the length of it, and entered that about two hundred yards off the reader of this body was standing at a stone that is the size of a bread oven with a mason's mark on the back of it and did not go up, and entered the reason, which is that a man who goes up to a headland at the second hour of a morning when two bodies of households are standing about not knowing what to do is a supervisor, and the sixth line takes the turn and does not need one.
 
 And then the man of seventy-one asked for a thing to write in, and the man of about fifty gave him a sheet and a pencil and did not write one word of it for him, and the reader of this body did not write one word of it either and entered the reason, which is that a failure entered by the engineer of record is a failure the engineer of record has put in a book, and a failure entered by the person who failed is the only one of the two that anybody in about three hundred people can use.
