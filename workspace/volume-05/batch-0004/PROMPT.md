@@ -95,7 +95,7 @@ The volume outline is `outline/volume-05.md`. Read it. Then read `AGENTS.md`, `N
 
 ## THE FORMAT LIMITS, BOTH INHERITED AND BOTH BINDING
 
-- **No more than three `Entered ... by the clerk` blocks in any one chapter, and NONE in a chapter carrying a climax.** Batch 0003 ran 1, 1, 1, 1, 1, 0, 1, 1, 1, 1. **Do not let the count creep.**
+- **No more than three `Entered ...` blocks in any one chapter, and NONE in a chapter carrying a climax.** Batch 0003 ran 1, 1, 1, 1, 1, 0, 1, 1, 1, 1 on that count. **Do not let the count creep.** **THE COUNT IS ON BLOCKS AND NOT ON THE CLERK, and the label `Entered ... by the clerk` in the outline at `outline/volume-05.md` is the volume's shorthand for the block and the limit is the limit either way. On Batch 0003 the clerk is the entrant of ONE block, Ch 217's, and the other eight are the man of about fifty's five, Hesta Lyle's two and the engineer of record's one, each saying in terms that it is not the clerk's, the clerk being five days west by the cart road. Writing a block that another hand enters is not a breach of this limit; writing four blocks is.**
 - **Every speech paragraph opens and closes its own quotation. No paragraph ends with speech open. No narration sits inside an open speech.**
 - **ASCII and straight marks only. Zero non-ASCII glyphs in all ten files. US spelling.**
 - **2,600 to 3,120 words a chapter. 27,000 to 30,000 for the batch. Do not pad and do not widen the band.**
