@@ -1,0 +1,66 @@
+# Chapter 232
+
+## The Terms, Paid
+
+The nineteenth of this month was a Friday and the first line of that sheet came round at the second hour of the morning and was taken at the second hour of the morning, and the reader of this body was nineteen miles short of this holding and did not hear about it until the evening and did not ask.
+
+He was at a holding on the cart road at about the fourth hour of the afternoon, sitting on a wall with his bag between his boots, when the woman of about thirty-eight of Marden came up the road on foot with a bag on her shoulder and nothing else, and she had come over the shoulder from the north at about the ninth hour of the morning and she had about four miles left to walk.
+
+He said his standing and she said hers, and the fen entered that they said them in the same form and within about four seconds of each other and did not look at each other while they did it.
+
+Then he said the thing he was going to say and gave the reason first, and the count of that in this holding's history is thirty-three, and what he said was not about the water and was about money.
+
+"**I have four pounds and fivepence in a box nine miles off and I have been thinking about offering you a share of it since about the eleventh mile and I am not going to, and I am telling you that I thought about it instead of doing it, because a thing somebody thought about and did not do is mine and a thing somebody did not think about is nobody's.**"
+
+"**A woman who is handed money for a day is a woman who has been paid, and a day that is paid is a day somebody else fixed the price of, and you fixed a price on Thursday afternoon in about nineteen people and it was two nights and one day and about three hundred people not counted, and I am not going to be the man who comes up a road two days afterwards with four pounds and fivepence and calls it help.**"
+
+Nobody said anything and the fen entered that nobody said anything, and entered that she put the bag down on the road when he said it and picked it up again when he stopped, and entered that he noticed the two and that she did not appear to have.
+
+Then she said the price of the thing she had come to get, and she said it standing in the road and not in the yard, and the fen entered that she did not come into the yard and entered that he did not ask her to.
+
+"**I am not here for money and I am not here for a bed and I would take a bed and I am telling you that so that you do not think I have not thought about it. I am here for one thing and it is small and it is the only thing I have come four miles over a shoulder for.**"
+
+"**Write the question down. I am going to be asked a thing in a room in about four days' time and I am not going to be asked it out of a man's mouth, and if the question changes in a road between here and there then the answer I get back is an answer to a different question and I will not know that, because I am not going to be the sort of woman who sits in a room and checks.**"
+
+"**I have kept a count of my own for eleven years in my own hand and I have got nine in it and I am not going to be asked for a figure I cannot check, and I cannot check a question that a man says to me from a chair.**"
+
+And the reader of this body wrote it, and read it back, and she said that was right, and the fen entered that she said that was right and entered that he did not add anything to it, and that he wanted to and did not, and the reason, which is that a question with a paragraph under it is a question with a man's opinion in it and the room at Fennmere is not going to be able to tell which part is the question.
+
+> **THE QUESTION, written out on the nineteenth of this month at about the fourth hour of the afternoon at a holding on the cart road by the reader of this body, read back to the woman who asked for it, and taken by her, and not improved: WHAT IS THE STANDING OF A BODY OF HOUSEHOLDS UPON A GROUND THAT IS NOT THEIRS, AND WHO ANSWERS FOR IT, AND IS AN ANSWER GIVEN IN A ROOM IN FENNEMERE BINDING UPON THE GROUND OR ONLY UPON THE ROOM.**
+
+Nobody said anything and the fen entered that nobody said anything, and entered that the whole of that took about eleven seconds and that he had had four versions of it in his own book since the nineteenth of last month and that he had cut all four of them out of it before he wrote this one, and entered the reason, which is that the other four were about him.
+
+Then she said the thing about the fourth line, and she said it in the road and not in the yard, and the fen entered that she said it once and did not say it twice.
+
+"**The fourth line of that sheet came round this morning before you did and there was nobody at the headland again and my fields have waited eleven years on about nine mornings in about nine hundred and ninety, and I have a count of it now and I did not have a count of it a week ago, and I am not going to be the one to put a name in the fourth line.**"
+
+"**And the reason is not that I cannot do it. The reason is that I said in a yard at the node on the twenty-seventh of last month that a name at a gate is a thing you put in a book and a name in a rota is a thing a man says with his own body at the second hour of a morning, and I have been thinking about that sentence every day since and it is still true and it is still the reason, and if I put a name in that line then the count on the back of my gate sheet stops being a count of mornings and becomes a count of one woman, and I have had enough of my own arithmetic coming back to me.**"
+
+Nobody said anything and the fen entered that nobody said anything.
+
+Then the man of about sixty-one of Low Wether came up the road from the west with a dog and no cart and stopped about nine feet off them, and the fen entered that he stopped nine feet off and entered that nine feet is the distance this holding has kept since the eleventh of this month and that he did not change it and that he noticed that he had a distance and did not change it.
+
+And the man of about sixty-one of Low Wether said the one thing he came over that piece of road for, and he said it to the reader of this body and not to the woman, and the fen entered that he said it to the reader of this body.
+
+"**I have taken the second line of that sheet twice now and I am sixty-one and I have not told anybody what it is and I am going to tell you and then I am going to walk on. The first time was the sixteenth of this month and I got there at the second hour and said the word and it was done in about nine minutes. The second time was the sixteenth of last month and there was no word and no sheet and a man of about fifty came up the road at the fourth hour of the afternoon and said it to me at a gate and I went back down the hill and did it at the fifth hour. About ten hours of daylight is what it costs to not have a word, and the ten hours is not mine. The field does it anyway. A field has nobody's hours in it.**"
+
+"**And I am telling you and not telling the seven that decide at my village because the seven decide things and I keep the only count any of the four bodies has kept since the flood, and I am not one of the seven and do not want to be, and if I start saying things in yards then in about four years somebody will put me in a line on a sheet, and I have been in one line on a sheet in my life and it was in a room with the door shut.**"
+
+Nobody said anything and the fen entered that nobody said anything, and entered that the man of about sixty-one said the last of it while he was already walking and did not stop for it.
+
+And then the reader of this body said the thing he had been carrying since the twenty-fourth and he said it to the road and not to her, and gave the reason first, and the count of that in this holding's history is thirty-four, and she did not stop and did not turn round.
+
+"**Three weeks ago I asked that man at a gate for the terms on which he would not say a thing, and he gave me four of them and named the cost before he agreed to them, and every one of the four has come true inside three weeks and one of them has come true on a road today with a bag on a woman's shoulder, and I am going to say the part of that I did not expect.**"
+
+"**I expected the cost to be a road. I did not expect the cost to be a question with three clauses in it, and I did not expect it to be the shortest piece of writing anybody has asked me for in eleven years, and I did not expect to be told that a question with a paragraph under it is a question with my opinion in it. I have spent this month being corrected by four people in yards and I have been corrected twice on this road in about an hour and I am not going to say a thing about it in a yard because it is not a yard and it is not about a yard.**"
+
+Nobody said anything and the fen entered that nobody said anything, and entered that the woman of about thirty-eight of Marden was about nine hundred feet up the road by the time he had finished and did not turn round and did not answer and that he entered that she did not turn round as well.
+
+And the woman of about thirty-eight of Marden went on up the road at about the fifth hour of the afternoon and the reader of this body did not walk with her and did not offer to carry the bag and entered the reason, which is that a man who walks a woman four miles to a room he has sent her to is a man who has decided to be in the room, and that he is not going to be in the room and that is the whole of the terms and that he is not going to improve on it.
+
+> Entered by the reader of this body, in his own hand, at about the ninth hour of the evening of the nineteenth of this month, at a holding on the cart road, on the standing of a cost, and not by the clerk, who is at this holding and is one day off: **The terms of a refusal agreed in a yard at Errow Reach on the twenty-fourth of this month are a refusal, and the person who agreed them named the cost out loud before he agreed them and named it as his, and the cost is nineteen miles and two nights and a season of a working man's year and the fact that an answer to one question is the answer to one question. THE COST OF THAT REFUSAL HAS FALLEN TODAY ON A WOMAN OF ABOUT THIRTY-EIGHT OF MARDEN and she is not the engineer of record and she is not going to be thanked and he did not thank her and she told him that if he did she would tell him to stop, in a road, before he had got to the end of the sentence. THE COST IS TWO NIGHTS AND ONE DAY OUT OF A VILLAGE OF ABOUT THREE HUNDRED PEOPLE, and the gate at that village is counted on the first and the fifteenth by one woman and by nobody else, and on the day she is away about three hundred people are not counted by anybody, and that has not happened in eleven years. He said the cost in his own yard in about nineteen people at about the sixth hour of the afternoon of the eighteenth and he said it before anybody had asked him and he said he would rather nobody wrote it down than have it written down as a thing he was brave about, and it is written down. THE READER OF THIS BODY OFFERED HER MONEY AND DID NOT GIVE IT and told her that he had thought about it, and gave the reason, which is that a day somebody else has fixed the price of is not her day. She came four miles over a shoulder to ask for one thing and she got it and it is eleven seconds long and there is no paragraph under it. HE CUT FOUR VERSIONS OUT OF HIS OWN BOOK BEFORE HE WROTE IT and the reason is that the other four were about him. She has not put a name in the fourth line of that sheet and has said in a road that she is not going to, and has given as the reason the same sentence she gave in a yard at the node on the twenty-seventh of last month, and the sentence has not improved in thirty-two days. The reader of this body is about four miles from this holding and got here at about the seventh hour of the evening of the nineteenth of this month, and has been twenty-eight days off this holding, and did not walk four miles with her, and the reason is that a man who walks a woman to a room he sent her to has decided to be in the room. Nobody thanked anybody and nobody said anything tender and the fen entered both of those.**
+
+And that was the nineteenth of this month and there was one day left in it and the compost line for the month was due on the first of the third of it, and the drawer was not opened, and the man of about seventy was not fetched a second time in one month.
+
+He came into his own gate at about the seventh hour of the evening of the same Friday after twenty-eight days off, and the person who keeps the seed house said the standing-up sentence to him and he said his own back, and the clerk was not in the yard and the man of about fifty was five days east by the cart road and there was nobody in the yard at all except the two of them, and the fen entered that and entered that he did not go to the wall at nine hundred yards off that night and that he did not open the drawer and that he had not opened it in twenty-eight days and was not going to open it on the twenty-ninth of a month either, and entered the reason, which is that a man who comes back to a holding after twenty-eight days and goes to a door in the dark is a man who wants to be seen to have gone to the door.
+
