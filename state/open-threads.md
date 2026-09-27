@@ -1471,7 +1471,9 @@ A fen of sixteen households with no charter, a leak, a beat and a compost line w
 
 # State after Volume 05 Batch 0001 (Chapters 197–206, days 351–370) — MOVEMENT 1 IS DRAFTED AND VOLUME 05 IS OPEN
 
-**Chapters 197–206 are drafted in `workspace/volume-05/batch-0001/`. The volume outline is `outline/volume-05.md`, the batch prompt is `workspace/volume-05/batch-0001/PROMPT.md`, and the next phase is `workspace/volume-05/batch-0002/PROMPT.md`, which is Chapters 207–216, days 371–390. The batch is 28,688 words across ten chapters, range 2,620–3,120, every chapter inside the per-chapter band, and the manuscript is 621,207 words across 206 chapters.**
+**Chapters 197–206 are drafted in `workspace/volume-05/batch-0001/`. The volume outline is `outline/volume-05.md`, the batch prompt is `workspace/volume-05/batch-0001/PROMPT.md`, and the next phase is `workspace/volume-05/batch-0002/PROMPT.md`, which is Chapters 207–216, days 371–390. The batch is 28,826 words across ten chapters, range 2,675–3,151, nine of the ten inside the per-chapter band and Ch 206 declared outside it at 3,151 rather than the band widened, and the manuscript is 621,345 words across 206 chapters. NONE OF THE INHERITED COUNTS IN THE TABLE BELOW CHANGED, AND NO COUNT IN THAT TABLE WAS AFFECTED BY THE CORRECTION.**
+
+**A SECOND WRITER PHASE WAS DISPATCHED INTO THIS BATCH, FOUND THE WORK ALREADY ON DISK AND COMMITTED, AND WROTE NO PROSE. IT RE-MEASURED THE BATCH AND FOUND THE RECORDED FIGURES WRONG BY 138 WORDS, WHICH HID A REAL 31-WORD OVERAGE ON CH 206, AND IT CORRECTED THE FIGURES IN `state/current.md`, `state/continuity.md` AND `state/chapter-summaries.md` IN PLACE, NAMING THE OLD FIGURES AND WITHDRAWING THEM. THE OLD FIGURES 28,688 / 621,207 / RANGE 2,620-3,120 AND THE CLAIM THAT ALL TEN CHAPTERS SAT INSIDE THE BAND ARE WITHDRAWN. NOTHING IN THE TABLE BELOW IS AFFECTED AND NO CHAPTER FILE WAS EDITED. The whole of it is in `state/continuity.md` under *THE SECOND DISPATCH INTO VOLUME 05 BATCH 0001*.**
 
 **Volumes 01 through 04 are all CLOSED. Volume 05 is OPEN and owns days 351–450 and Chapters 197–245, and the last day in its outline is day 450, the thirtieth of the third month, a Monday.**
 
@@ -1479,9 +1481,9 @@ A fen of sixteen households with no charter, a leak, a beat and a compost line w
 
 | Count | Value after this batch | Where it stands |
 |---|---|---|
-| Volume 05 | **28,688** words, ten chapters | one batch, and four batches of ten and one of nine still to come |
-| Manuscript | **621,207** words, 206 chapters | 166,022 + 141,818 + 142,952 + 141,727 + 28,688, reconciling exactly |
-| Longest / shortest chapter in Volume 05 so far | **3,120** (Ch 206) / **2,620** (Ch 199) | band NOT widened, and no chapter declared outside it |
+| Volume 05 | **28,826** words, ten chapters | one batch, and four batches of ten and one of nine still to come. The 28,688 first recorded here is withdrawn; see the note above |
+| Manuscript | **621,345** words, 206 chapters | 166,022 + 141,818 + 142,952 + 141,727 + 28,826, reconciling exactly. The 621,207 first recorded here is withdrawn |
+| Longest / shortest chapter in Volume 05 so far | **3,151** (Ch 206) / **2,675** (Ch 199) | band NOT widened, and **Ch 206 is DECLARED OUTSIDE IT** on the Volume 04 precedent of Ch 190 at 3,126; it is not to be trimmed to reach the band. The 3,120 and 2,620 first recorded here are withdrawn |
 | Use log | **fifteen** | did not move all batch; a document, a reading, a clause, a bead on somebody else's seed and a gate all got no line |
 | People who can hold a pattern for four | **two**, and public | did not move, and the reason is entered as a refusal and not as an absence |
 | Standing count of questions available to a room in this holding and not taken | **eight** | off seven on to eight, Ch 205 and Ch 206; it goes up when a question is put and not when a figure is put on a table |
