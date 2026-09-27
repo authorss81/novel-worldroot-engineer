@@ -26,7 +26,7 @@ The second thing was about a household in this fen, and it is smaller, and he ga
 
 What a line of it looks like, and the fen entered that description and did not improve on it, is this. **A date at the left, a number at the right, and nothing in between, and the numbers are all three figures or all two, and the hand does not change in nine years except once, in the fourth year, where a five has been made into a three and the three has been made over the five, and there is no note, and the woman said on the morning of the fourteenth that the fifth one is the one she is not sure of and that she is leaving it as it is.**
 
-Then the sums, in the seed house with the bay doors shut on the Friday night, and they are the batch's second sum and they were not asked for and the woman who does the sums put them on the table herself and said the word before the figure.
+Then the sums, in the seed house with the bay doors shut on the Friday night, and they are the second sum of the month and they were not asked for and the woman who does the sums put them on the table herself and said the word before the figure.
 
 "**I am going to do a sum I did not want to do, and I have never in my life not wanted a sum, so I am going to say that out loud first, and I am going to do it because a sum is for doing and not for wanting.**"
 

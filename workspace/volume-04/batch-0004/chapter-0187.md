@@ -8,10 +8,11 @@ The twentieth of this month was a Thursday, and it is the last working day this 
 >
 > **The compost line for the eleventh month.** Not entered, and the reason entered. The figure falls on the first of next month, which is a Saturday, and this holding does not know what it is. **The eleventh month of a run of eleven not discharged in eleven, once that figure is in.** The word said before the tenth month's figure was crowded, and it does not agree with the figure.
 >
-> **The leak.** Three-quarters of an inch, read at the seventh hour of the twenty-first of a month two months back, twice, two rules, pump on, water into the housing and not into the pit. **This body will not say whether the difference from the reading of the thirteenth of a month three months back is a movement or a season.** No cause, no due date, not measured since, and not to be measured again this month.>
+> **The leak.** Three-quarters of an inch, read at the seventh hour of the twenty-first of a month two months back, twice, two rules, pump on, water into the housing and not into the pit. **This body will not say whether the difference from the reading of the thirteenth of a month three months back is a movement or a season.** No cause, no due date, not measured since, and not to be measured again this month.
+>
 > **The beat.** Not logged since. Cause not established. Nothing underneath it. **Column open.** The rule's third line does not say in a yard, this body read it as though it did for two years, and the rule was used outside one of its own four lines on the twenty-second of a month two months back, and that is entered, **and the column was not opened today in front of nine people and will not be, and the fen entered that the not opening is a decision and not an oversight.** The fen entered that the day of that beat is not restated in this book and is not going to be.
 >
-> **The count of the readings of the seventh column is thirty-five.** The last reading day of this month is the thirtieth, which is not this batch's, **and the count has stood at thirty-five since the first, and a count of readings is a count of events and cannot stand still across a day on which a reading was made, and there has not been one.**
+> **The count of the readings of the seventh column is thirty-five.** The last reading day of this month is the thirtieth, which is not the day in hand, **and the count has stood at thirty-five since the first, and a count of readings is a count of events and cannot stand still across a day on which a reading was made, and there has not been one.**
 >
 > **The boards, two hundred and fifty-four days, day minus sixty-six,** cut into both this morning by the same person who has cut them for eleven years. **The March's tin, three hundred and one days. Day minus nineteen,** unmoved, on a bed at three and a half degrees, both undertakings standing, **the drawer was not opened this month and is not to be.** **Day minus sixty-six. Day minus nineteen. Read out loud by the clerk before either number, which he has now done on nine reading days running and which nobody has asked for on any of the nine.**
 >
@@ -25,7 +26,9 @@ The twentieth of this month was a Thursday, and it is the last working day this 
 >
 > **And the well on the shelf.** Five feet at the fourth hour of the sixteenth of last month, by the occupier, by her own nail, in her own yard, on her own wall, four feet against the sixteenth of a month six months back, **and this body will not decompose that figure and there is no entry anywhere for that well coming back.** A day letter off its stone from the eighth to the seventeenth of a month two months back with the eight days not written on it. A man with a spade who has not spoken to the other three since the seventeenth of last month and has not been asked. Four lines down a four-day road at that household's own cost, and two numbers in the fourth of them that this body did not add up. **And a row, and a wall, and a yard four hundred miles off, with no entry anywhere for any of the three either.**
 
-And then, in the same yard, before the figures were closed, the standing rule was read out in full again, four lines, by the clerk, because a rule read only when it is used is a habit and this one is not a habit.> **The standing rule about the engineer of record. In force. Satisfied on the third of a month five months back, in a room, with a licensed man writing it down, entered and read back.**
+And then, in the same yard, before the figures were closed, the standing rule was read out in full again, four lines, by the clerk, because a rule read only when it is used is a habit and this one is not a habit.
+
+> **The standing rule about the engineer of record. In force. Satisfied on the third of a month five months back, in a room, with a licensed man writing it down, entered and read back.**
 >
 > **One.** The draw is not begun on ground whose return is not carrying.
 > **Two.** It is to be stopped at four feet.
@@ -36,7 +39,7 @@ And then, in the same yard, before the figures were closed, the standing rule wa
 
 Nobody thanked anybody. The man of about fifty asked for his initial to be put against nothing and it went in, **and the count of that request is forty-four this season, and the fen entered the count and entered that the count is not a complaint and is not going to be a complaint at the eleventh hour on a Thursday.**
 
-Then the change, and it is the batch's and not the volume's, and the reader of this body read it out in the same yard because a month of standing is not closed by a column.
+Then the change, and it is the holding's and not the season's, and the reader of this body read it out in the same yard because a month of standing is not closed by a column.
 
 "**The seed side is on a road. The water is on a form. A man eleven miles off is a supply and not a thief and I have said that in this yard four times and I am not going to say it a fifth. A man of about thirty-five will not say a name and has refused four times in nineteen years. A thing under a low quarter will not be drawn from, and eleven came up a road and said so in a yard and gave a figure that is not a number of anybody.**"
 
