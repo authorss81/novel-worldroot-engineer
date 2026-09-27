@@ -36,7 +36,7 @@ And Harlan Vetch, of about fifty-eight, who holds the fifth share and has held i
 
 Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about nine seconds, and entered that this holding does not know what was in that rule on the seventeenth and is not going to ask, and that a man whose rule has gone quiet six times running has not stopped having a rule and has stopped having anything to write in it, and that those are two different things.
 
-And then he said the one thing, and he gave the reason before he said it, and the count of that in this holding's history is seven, and it was said in about nineteen people and not to one man.
+And then he said the one thing, and he gave the reason before he said it, and the count of that in this holding's history is seven and it is a count of his own, and it was said in about nineteen people and not to one man.
 
 **"I am going to say one sentence about my three questions and then I am not going to say them again this season, and the reason is that I asked them in a yard on the nineteenth of a month two months back and nobody has written an answer to one of them down in a book, and a question with nothing under it for two months is a habit and not a demand, and I would rather it were a habit I had chosen than one that happened to me."**
 

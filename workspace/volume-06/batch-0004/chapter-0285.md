@@ -14,25 +14,25 @@ And then at about the seventh hour of the morning the day-minus rules were read 
 
 Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about a minute, and that the count of things he has said out loud in a yard and got wrong is four and did not move this morning and is not five, and that it has been four for about a month and a half now and that a count that sits still that long is either a man being careful or a man who has run out, and that he entered the same sentence about those two things on the second of this month and is not going to improve it.
 
-And then at about the fourth hour of the afternoon nine people were in the seed house with the door shut for the fifth time in eight days, and the form was on the middle table, and the man of about fifty read the form out in the state it was in and read back the two lines under it that were not lines on the form, and nothing in it was improved and nothing in it was explained.
+And then at about the fourth hour of the afternoon nine people were in the seed house with the door shut for the fifth time in eight days, and the form was on the middle table, and the man of about fifty read it out as it stands, one line filled and three blank, and read back the two things under it that were spoken and are not on the sheet, and then his own line under those, and nothing in it was improved and nothing in it was explained.
 
-> **THE FORM, as it stands on the middle table of the seed house on the thirteenth of this month, entered whole, in two hands on the face of it and neither of them the reader of this body's, and the reader of this body's hand is on the back of the same sheet:**
+> **THE FORM, on the middle table of the seed house on the thirteenth of this month, in two hands on the face of it and neither of them the reader of this body's, whose hand is on the back of the same sheet, where the figure the first refusal named is, and it is not a line of this form:**
 >
-> **LINE ONE. SIX HUNDRED AND TWENTY-ONE HUNDREDWEIGHT, THE FIGURE THE READER OF THIS BODY PUT ON THAT TABLE ON THE FOURTH OF THIS MONTH AND THE FIGURE THE FIRST REFUSAL NAMED. IT IS NOT ON THE FORM. IT IS ON THE BACK OF THE SHEET IN HIS OWN HAND WITH THE DAY AND THE HOUR ON IT, AND IT HAS NOT BEEN DELETED, AND A FIGURE THAT IS CROSSED OUT IS STILL IN A ROOM.**
+> **LINE ONE. ONE HUNDRED AND EIGHTY-FOUR HUNDREDWEIGHT, IN THE HAND OF THE MAN OF ABOUT THIRTY-ONE OF SILLING, WHO SPOKE FOR ONE BODY OF HOUSEHOLDS AND WAS NOT ASKED WHY. IT WENT IN ON THE NINTH AND WAS READ BACK AND NOT IMPROVED. IT IS THE ONLY FIGURE WRITTEN ON THIS FORM.**
 >
-> **LINE TWO. ONE HUNDRED AND EIGHTY-FOUR HUNDREDWEIGHT, IN THE HAND OF THE MAN OF ABOUT THIRTY-ONE OF SILLING, WHO SPOKE FOR ONE BODY OF HOUSEHOLDS AND WAS NOT ASKED WHY. IT IS THE ONLY FIGURE WRITTEN ON THIS FORM.**
+> **LINE TWO. BLANK. THE BODY OF HOUSEHOLDS THAT LINE TWO BELONGS TO WAS NEVER ASKED FOR A FIGURE, AND THAT IS IN ANOTHER MAN'S BOOK, AND HE READ IT OUT.**
 >
-> **LINE THREE. BLANK. THE BODY OF HOUSEHOLDS THAT LINE THREE BELONGS TO WAS NEVER ASKED FOR A FIGURE, AND THAT IS IN ANOTHER MAN'S BOOK, AND HE READ IT OUT.**
+> **LINE THREE. BLANK. THE SAME IS TRUE OF THE THIRD LINE AND THE REASON IS THE SAME.**
 >
-> **LINE FOUR. BLANK. THE SAME IS TRUE OF THE FOURTH LINE AND THE REASON IS THE SAME.**
+> **LINE FOUR. BLANK. AND THE FOURTH IS BLANK FOR THE SAME REASON. THE COUNT OF BLANK LINES HERE IS THREE AND IS A COUNT OF ITS OWN AND HAS NOT BEEN ADDED TO ANY OTHER COUNT.**
 >
-> **AND UNDER THE FOUR LINES, IN TWO HANDS, TWO THINGS THAT ARE NOT LINES ON THE FORM. THE FIGURE THE SECOND BODY OF HOUSEHOLDS SPOKE FOR WAS ELEVEN HUNDRED YARDS, AND IT WAS SAID IN A ROOM AND NOT WRITTEN ON THIS FORM. A NAME WAS ALSO SPOKEN IN THAT ROOM AND IT IS NOT ON THIS FORM EITHER. BOTH WERE SAID BEFORE ANYBODY ASKED AND NEITHER WAS ASKED FOR TWICE.**
+> **AND UNDER THE FOUR LINES, TWO THINGS IN TWO MOUTHS AND NEITHER ON THE SHEET. THE FIGURE THE SECOND BODY OF HOUSEHOLDS SPOKE FOR WAS ELEVEN HUNDRED YARDS, SAID IN A ROOM AND NOT WRITTEN DOWN HERE. A NAME WAS ALSO SPOKEN IN THAT ROOM AND IS NOT ON THIS SHEET EITHER. BOTH WERE SAID BEFORE ANYBODY ASKED AND NEITHER WAS ASKED TWICE.**
 >
-> **AND UNDER THOSE, ONE LINE, IN THE HAND OF THE MAN OF ABOUT FIFTY, WHICH HE READ OUT AND WHICH IS THE ONLY LINE ON THIS SHEET HE WROTE HIMSELF: A REFUSAL THAT NAMES A FIGURE IS A REFUSAL ABOUT A FIGURE. A REFUSAL THAT NAMES A PERSON IS A REFUSAL ABOUT A PERSON. A ROOM THAT HAS ONE OF EACH AND NO WORD ON WHICH IS WHICH HAS NOT MADE A DECISION.**
+> **AND UNDER THOSE, ONE LINE, IN THE HAND OF THE MAN OF ABOUT FIFTY, WHICH HE READ OUT AND WHICH IS THE ONLY LINE ON THIS SHEET HE WROTE HIMSELF, AND HE WROTE IT BECAUSE THE READER OF THIS BODY SAID THE SENTENCE OUT LOUD IN THAT ROOM ON THE NINTH AND DID NOT ASK HIM TO PUT IT DOWN: A REFUSAL THAT NAMES A FIGURE IS A REFUSAL ABOUT A FIGURE. A REFUSAL THAT NAMES A PERSON IS A REFUSAL ABOUT A PERSON. A ROOM THAT HAS ONE OF EACH AND NO WORD ON WHICH IS WHICH HAS NOT MADE A DECISION.**
 
 Nobody said anything and the fen entered that nobody said anything, and entered the length of it, which was about two hours, and entered that nobody thanked anybody and nothing tender was said, and that this is the fifth room in eight days and that he has not decided anything in any of them, and the reason is that a man who is in rooms too often is a man who is being useful, and that being useful is the most comfortable way of being the person who decides.
 
-And the back of the sheet was turned over in that room and read out, and the fen entered the whole of it, because a figure crossed out and left on a table is still in the room and a room that thinks otherwise is a room that has lost it.
+And the back of the sheet was turned over in that room and read out, and the fen entered the whole of it, because a figure not crossed out and left on a table is still in the room.
 
 **THE BACK OF THE SHEET, IN THE READER OF THIS BODY'S OWN HAND: SIX HUNDRED AND TWENTY-ONE HUNDREDWEIGHT, THE FIGURE HE PUT ON THAT TABLE ON THE FOURTH OF THIS MONTH AND THE FIGURE THE FIRST REFUSAL NAMED, NOT CROSSED OUT, AND UNDER IT THE NINTH OF THIS MONTH AND THE HOUR AND THE WORDS REFUSED BY A BODY OF HOUSEHOLDS, AND UNDER THAT THE WORDS I PUT IT THERE MYSELF AND NOBODY ASKED ME TO, AND HE READ ALL THREE LINES BACK OUT LOUD. THE FIGURE HE WROTE DOWN FOR THE THIRD LAUNDER ON THE TWENTY-EIGHTH OF LAST MONTH IS ALSO ON THAT SHEET, BEING ONE HUNDRED AND TWENTY-SEVEN, AND THE TWO FIGURES ON THE BACK OF ONE SHEET ARE FOUR HUNDRED AND NINETY-FOUR APART AND NEITHER OF THEM IS A FIGURE ABOUT THE CHANNEL.**
 
