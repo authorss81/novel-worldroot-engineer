@@ -32,7 +32,7 @@ The woman who does the sums said the word before the figure, the way she has sai
 
 Then she stopped, and about twenty-five people waited, and the examiner said out loud that she keeps time and does not round, which is not the same thing and which nobody has ever mistaken.
 
-"**Last month I said this word and I said that the word and the figure did not agree, and that I did not know which of the two was telling the truth, and that I intended to find out before I was able to. I have found out. I have been able, this month, and it took me a month and not a week, and the finding is this.**"
+"**Last month I said this word and I said that the word and the figure did not agree, and that I did not know which of the two was telling the truth, and that I intended to find out before I was able to. I have found out. I have been able this morning, and it is thirty days from the first of last month, and I am not going to stand in this yard and say that thirty days is quick, and the finding is this.**"
 
 She had the page in her hand and she did not read from it.
 
