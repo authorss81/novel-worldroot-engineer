@@ -1553,3 +1553,75 @@ A fen of sixteen households with no charter, a leak, a beat and a compost line w
 2. **Do not name a month anywhere, in narration or in a document, and do not carry a month name in a distance.**
 3. **Do not add a fourth `Entered ... by the clerk` block to any chapter, and none at all to a chapter that carries a climax.**
 4. **Do not let a character say the word *this book* about anything that is not a document, and do not let the word *chapter*, the word *batch* or the word *volume* appear in body prose.** Zero is the count and the test is whether the word has a referent inside the world. ***This book* is the holding's own book on the table in the seed house and it IS a referent and it is allowed.**
+
+---
+
+# State after Volume 05 Batch 0002 (Chapters 207–216, days 371–390) — MOVEMENT 2 IS DRAFTED
+
+**Chapters 207–216 are drafted in `workspace/volume-05/batch-0002/`. The volume outline is `outline/volume-05.md`, the batch prompt is `workspace/volume-05/batch-0002/PROMPT.md`, and the next phase is `workspace/volume-05/batch-0003/PROMPT.md`, which DOES NOT EXIST, which this phase did not write, and which Batch 0001's state file and Batch 0002's own prompt both forbid this phase to write. The batch is 29,177 words across ten chapters, range 2,622–3,102, ALL TEN inside the per-chapter band, and the manuscript is 650,522 words across 216 chapters. The full day clock, the one naming table, the inherited-date table, the figure list, the seven canon additions, the eleven recorded deviations and the mechanical check are in `state/continuity.md` under *VOLUME 05 — BATCH 0002*.**
+
+## Every inherited count, stated so that nothing below has to be re-derived
+
+| Count | Value after this batch | Where it stands |
+|---|---|---|
+| Volume 05 | **58,003** words, twenty chapters, two batches | 28,826 + 29,177. Three batches of ten and one of nine still to come |
+| Manuscript | **650,522** words, 216 chapters | 166,022 + 141,818 + 142,952 + 141,727 + 58,003, reconciling exactly |
+| Longest / shortest chapter in Volume 05 so far | **3,151** (Ch 206) / **2,622** (Ch 209) | band NOT widened, and Ch 206's declared exception from Batch 0001 stands |
+| Batch 0002 | **29,177** words, ten chapters | inside 27,000–30,000, and all ten inside 2,600–3,120 |
+| Use log | **fifteen** | did not move, and Ch 216 enters the six kinds of thing that got no line: a schedule, a reading, a form in a press, a barrow of leaf mould, a gate count, and a hold |
+| People who can hold a pattern for four | **two**, and public | did not move in twenty-nine days; the reasons are entered and they are two and they are not the same reason |
+| People who can hold a pattern for five | **one** | NEW COUNT, started on the twenty-third of this month at about the second hour of the afternoon, and entered in the same line as the count of two on purpose |
+| Standing count of questions available to a room in this holding and not taken | **nine** | off eight on to nine, Ch 215 |
+| Times the question in the book has been asked | **one** | Ch 215, and the fen says both counts in the same breath and says they are two counts |
+| Times it has been available to a room in this holding and not taken | **three** | off two on to three, Ch 215 |
+| Whose order it is | **asked four times, answered never** | and it was not asked a fifth time this month |
+| Standing rule's uses | **two last season, nought this season** | not used in this batch; the one use this season is owed in Movement 3 |
+| Seventh column | **forty** | 39 on day 361, 40 on day 390, the rule unchanged |
+| The other six columns on that door | **six, blank, no headings, four years** | still blank, and nobody in that yard asked |
+| Day-minus rules | boards 324, the March's tin 371, on day 390 | day minus 66 and day minus 19; the drawer was not opened and is not to be |
+| Compost line | **not entered for this month; the day is entered and the figure is not** | and the line has been **four hundred and fifty hundredweight short a month in fact for four years, being ninety pounds a month and not eighty**, which is NOT yet on the line and goes on on day 391 with the eighty underneath it and the ten beside it and the reason |
+| The leak | **three-quarters of an inch, not measured, three reasons, no cause, no due date** | and NO FOURTH REASON WAS INVENTED |
+| The beat | **not logged, cause not established, column open** | its day was not restated anywhere in this batch, in prose or in any document, and the column was not opened in front of twenty-five people and the not opening is a decision |
+| Accounts of the arm | **four** | nothing said about the arm in this batch is a fifth; the mark was hot on the twenty-third and the headache is not the mark and is not entered as the mark |
+| Day-and-not-the-figure | **three** | and it is a standing and not a tally, which is why three days entered without a figure do not make it four |
+| Requests against nothing | **fifty-three** | fifty-two on day 372, fifty-three on day 390 |
+| Section-nine notes | **fifty-two** | the fifty-second is in Ch 216 only, and none was written in the middle of twenty-nine days away |
+| Bodies at the node | **five** | and has not moved |
+| The man of about seventy | **not fetched this month** | the seventeenth stands, the eighteenth falls on **day 391**, and it is not to be given an explanation and is not to be thanked |
+| Count of things this body has said out loud in a yard and got wrong | **two** | one in Ch 188, one in Ch 210, and the second is on the page as an error corrected in a yard |
+| Yards the man of the north row with the cough has stood in since the first of this month | **three** | the nineteenth, the twenty-seventh and the thirtieth, and he was not asked to be in any of them |
+| The shelf well | **the ninth, the eleventh and the twelfth, all five feet; the tenth still not in this holding's book** | four feet against the nine feet of the sixteenth of a month eight months back, not decomposed, the half inch not carried forward, and **no entry anywhere for that well coming back** |
+
+## What Volume 05 has now put on the record, added to Batch 0001's ten
+
+11. **THE SCHEDULE, AND THE ERROR IN IT.** Four sheets, older than eleven years, bought in a lawyer's town from a dying man. Two rules: **RETURN MADE. BY. WITNESSED BY.** over **OBSERVATIONS AND REMARKS.** **The first rule was blank on every line for eleven years and every figure Harlan Vetch made in eleven years is in the second one, in three hands, one of them his and two of them not of the four bodies and not at the node.** He did not know the other rule wanted his name. The one word in the column is WET SEASON, once a year, nine times. **This is the volume's answer to what Harlan Vetch is wrong about, and it is a form he was given by a dying man in a lawyer's town, and nobody improved on him and nobody thanked him.** A name went into BY on day 379 and a name into WITNESSED BY on the same day, and a name went into both again on day 388, and that is the first time in eleven years either box has had a name in it.
+12. **THE WORD IS ENOUGH.** One word, the same word whichever body of households it is, said out loud so that somebody else hears it. Named in Ch 211 at the request of the man who was going to have to use it, and put in at about the fourth hour of the morning of day 382.
+13. **THE FORTY HUNDREDWEIGHT, AND WHY IT IS NOT A SOLUTION.** About forty hundredweight a day down a fifth launder that had been shut for nineteen years, measured twice at forty-one and thirty-nine and written as forty, or thereabouts, and not averaged. The fen refused to put it on a line with four columns on it and said why, and a licensed man said to his face that the reason it is not safe is not the hold, it is that the count of it is one.
+14. **THE MAN OF SIXTY-EIGHT'S QUESTION: WHOSE NAME GOES IN THE FOURTH LINE.** The fourth line says MARDEN, FOUR PEOPLE WORKING, NOT COUNTED; the count of wanting is not a count of living; and so the fourth line has nobody in it and everybody in it, and a fen is not a village and has never been asked for a place on a rota. It went into this holding's book on day 387, nobody took it, and the reader of this body could not answer it and entered the reason, which is that a man who can supply the answer to a question is the answer.
+15. **A NOT KNOWN, GIVEN BY AN ENGINEER, WITH NO RATE FOR IT.** A quarter of a mile of ground walked twice and measured not at all, I do not know said twice in four minutes, and a village that is going to put a ditch through it anyway because not known is a thing to decide with.
+16. **THE FEN'S OWN ARITHMETIC WAS WRONG IN A YARD AND WAS CORRECTED IN THE SAME YARD.** He said out loud that the two per-head water figures were the same figure and they are a factor of four apart, and the woman who does the sums did it again on a board on her knee, and he entered that he was wrong, and the count of things this body has said out loud in a yard and got wrong is two.
+
+## The things a Volume 05 Batch 0003 writer must not mistake for open, or re-spend, or answer
+
+**Do not answer whose order it is. Do not reduce the day-and-not-the-figure count of three. Do not move the use log off fifteen without a contact on the page. Do not move the count of pattern-holders for four off two except by a hold that is on the page and costed in the holder's own hand, and do not move the new count of five off one the same way. Do not add a fifth account of the arm, and do not enter the headache of the twenty-third as the mark. Do not use the standing rule before Movement 3 and not twice. Do not spend the Fieldbook panel before the climax. Do not name the Crown Engine, Iona Vey, a Deep Archive, a caretaker link or a seedheart. Do not name a pulse, and do not say a pulse came on a schedule; that is Batch 0005's beat. Do not close Garrow Nye's sequence, do not reconcile the four accounts of the arm, do not recover the vault, do not make the corridor a road. Do not thank anybody and do not write anything tender. Do not name a month. Do not resolve who speaks for the eleven acres of standing willow, and do not let Soren Rill be made to resolve it. Do not fill the six blank columns on the well house door. Do not write a decomposition of the four feet of shortfall. Do not write an entry for the well on the shelf coming back, and do not supply the tenth figure, and do not carry the half inch forward as a figure. Do not change the word ENOUGH. Do not re-enter the compost line before day 391, and when it is re-entered put NINETY POUNDS on it with the eighty underneath and the ten beside it and the reason. Do not let the forty hundredweight become a fifth share. Do not put a name in the fourth line of the rota, and do not let anybody answer the question of whose name goes in it. Do not let the not known become a measurement.**
+
+## Clocks Batch 0003 must pay, all of them live
+
+| Clock | Where it stands at day 390 | What it owes |
+|---|---|---|
+| **Day 391, the first of the second month, a Friday** | not reached | **the first month's compost line falls on it, at ninety pounds with the eighty underneath it and the ten beside it and the reason, and the reason is a woman and a barrow and a book nobody has ever seen.** It is a figure about a person and not a figure about a heap |
+| **The man of about seventy** | not fetched this month, the seventeenth stands | **the EIGHTEENTH fetching falls on day 391 and he is not to be given an explanation and is not to be thanked** |
+| **The ditch at Low Wether** | the village has decided to put it in | **the fen is to be at that field on the twenty-ninth of the first month at the second hour of the morning, not holding anything and not touching the ground, and if the water comes up wrong he writes the day and the hour and what it looked like and NOT A CAUSE.** The not known he gave them is in four books and is not neutral, and in about four years two men will argue about that field and both of them will be arguing about him |
+| **The fifth launder** | about forty hundredweight a day, nobody's | **it may not be put on a line with four columns on it, and the man of the north row with the cough says he has got about four turns left in him before he cannot stand at that kerb at the second hour of a morning** |
+| **The fourth line of the draft rota** | NOT COUNTED, and nobody in it | **whose name goes in it is in this holding's book, asked once and not taken, and the count of questions available to a room in this holding and not taken went to nine on it** |
+| **The standing rule** | two last season, nought this season | **NOT USED BEFORE MOVEMENT 3 AND NOT TWICE, and its one use this season is owed in Movement 3** |
+| **The Fieldbook panel** | unspent, available in all twenty chapters of this batch and spent in none | **to be spent once, on a person, at the volume climax in Chs 234–242, and not on a page** |
+| **A pulse repeated on a schedule** | not in this batch and not to be in the next | **it is this volume's LAST beat, in Batch 0005, and it gets a name that is only the name of what it looks like** |
+| **The count of persons who can hold a pattern for four** | two, and has been two for two volumes | **the sentence about a man who is the only person who can do a thing being a bottleneck and not a system has been said four times in this fen and is not coming down** |
+
+## The four things Batch 0003 must not do that this volume's outline forbids
+
+1. **Do not draft Batch 0004, Batch 0005 or the close, and do not create a prompt for any of them. The next phase is Batch 0003, and its prompt is owed and does not exist, and the controller or a later phase must write it.**
+2. **Do not name a month anywhere, in narration or in a document, and do not carry a month name in a distance. The batch crosses a month turn and therefore needs TWO naming tables and not one, and inventing the second is a fault and not a thoroughness.**
+3. **Do not add a fourth `Entered ... by the clerk` block to any chapter, and none at all to a chapter that carries a climax.**
+4. **Do not let a character say the word *this book* about anything that is not a document, and do not let the word *chapter*, the word *batch* or the word *volume* appear in body prose. Zero is the count and the test is whether the word has a referent inside the world. *This book* is the holding's own book and it IS a referent and it is allowed.**
