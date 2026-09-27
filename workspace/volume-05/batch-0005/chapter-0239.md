@@ -6,7 +6,7 @@ The fifteenth of the month was a Sunday and the man of the north row with the co
 
 The two numbers were said on the first morning by the woman of about thirty-eight of Marden and they were said to three people and not to the reader of this body, who was nine feet off holding, and he wrote both of them down after and entered that he did not know what either of them is a unit of and did not ask and is not going to ask.
 
-Nobody said anything and the fen entered that nobody said anything, and entered that the man of the north row with the cough said the word at the fourth hour and that it was heard by the man of about fifty at about nine feet off, and entered that it is the second of the nine and that the count of holds in this holding's book is nine and not nine people.
+Nobody said anything and the fen entered that nobody said anything, and entered that the man of the north row with the cough said the word at the fourth hour and that it was heard by the man of about fifty at about nine feet off, and entered that he is the second of the nine and that the count of holds in this holding's book is four and that four holds is not four people.
 
 And then the reader of this body said the thing on the bank at about the fifth hour, to the four working and to the man of about fifty and to nobody else, and he gave the reason first, and the count of that in this holding's history is forty.
 
@@ -14,7 +14,7 @@ And then the reader of this body said the thing on the bank at about the fifth h
 
 "**A hold is not the same on the two of you and it is not the same on the same person on two mornings, and the only instrument in this book that can tell anybody which is which is the man in the hold, and the man in the hold cannot read himself, and that is the whole of what the fieldbook is for and the fieldbook is four hundred miles off in a room with a lock.**"
 
-"**So there is an instrument that can read it, and it is the only one, and I am not going to get it in a yard, and I have asked for it in writing, and it went up the four-day road on Tuesday morning at about the seventh hour, and it is four days, and it will be on that shelf at about the seventh hour tonight.**"
+"**So there is an instrument that can read it, and it is the only one, and I am not going to get it in a yard, and I have asked for it in writing, and it went up the four-day road on Thursday morning at about the seventh hour, and it is four days, and it will be on that shelf at about the seventh hour tonight.**"
 
 Nobody said anything and the fen entered that nobody said anything, and entered that he had said in about nine people on a Sunday afternoon that he had asked for the fieldbook, and that this is the first time in five volumes that anybody in this holding has said out loud in a yard that he was going to get it, and that he had said it out loud on purpose in about nine people and had not said it out loud in about four hundred yards at the node, and that the reason is that a yard of nine people is a place a thing gets agreed to and four hundred yards of open ground is a place a thing gets done, and that he does not know which of those two he is doing and that the man of about fifty said nothing about it and that the not saying was not agreement and was not disagreement and was entered as neither.
 
@@ -44,13 +44,13 @@ Harlan Vetch, of about fifty-eight: the west side has gone down about nine inche
 
 And the woman of about thirty-eight of Marden did not give a number, and the fen entered that she gave four sentences and no figure, and entered the four sentences, and they are: that the gate at the bottom of that hill is counted on the first and the fifteenth and is counted by her, that she is on a bank four hundred yards off on four mornings out of nine, that a gate is not a thing anybody misses, and that she would like it noticed that the last two things she has said in this yard were both about a gate and neither of them was about the node.
 
-And on the Monday morning, the sixteenth of the month, the reader of this body went out to the field and to the lowest of the four cuts and looked at the ditch above Marden from the top of the bank and it was dry at both ends for the thirty-third day.
+And on the Monday morning, the sixteenth of the month, the reader of this body went out to the field and to the lowest of the four cuts and looked at the ditch above Marden from the top of the bank and it was dry at both ends for the thirty-fifth day.
 
 Nobody said anything and the fen entered that nobody said anything.
 
 The fourteenth ordinary reading of the well at Cauldron Reach is taken at about the fourth hour on the sixteenth of every month, and the sixteenth of this month was a Monday, and it was taken at about the fourth hour, and it is in her hand, and it is on her own wall, in her own yard, with her own nail and her own string with a bit of lead on it, at the level of the water and not the level of the curb, and that is the whole of the method and it has not changed in twelve years.
 
-The four lines came down the four-day road at that household's own cost and nobody has ever offered and the offer was made once and was not taken up, and they came into this holding's yard on the twentieth of this month at about the fourth hour of the afternoon with a man who had come off the change of horses and they were read out in a yard of about nine people and read back and copied into this holding's book in a second hand, a woman's, and the second time on purpose.
+The four lines went up the four-day road on the twelfth of this month at about the seventh hour at this holding's own cost, and the crate was not bought when they went up and has not been bought, and it is four days, and this holding does not know tonight what is coming down that road. Nobody has ever offered anything for that road and the offer that was made once was not taken up, and the not taking it up was correct.
 
 What this holding's book has of that well is four figures. The ninth, the eleventh, the twelfth and the thirteenth, and all four of them are five feet. The tenth, which is a whole month between the ninth and the eleventh, is not in this holding's book, and the occupier refused it in her own hand, and the chalk has never touched that place on that wall, and the plaster under it is the same colour as the plaster round it, and it is the widest gap on a wall of thirteen marks and it is the only one.
 
