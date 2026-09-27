@@ -46,7 +46,7 @@ Then the cloth came off the chest, and the woman carrying it said where they had
 
 And the reader of this body said the thing that had to be said, out loud, in front of nine people and about eleven of his own, and he said the reason for saying it before he said it.
 
-"**I am going to say the true thing about this yard now and I am going to say it to them and not to us, because they have four days of water and we have a tin.** This holding has four pounds and fivepence in it. We have a compost line of ninety-five pounds a month that has not been discharged in eight months. **We have thirty of our own households on this head and we have not carried a day of anybody's water in eleven years, and the reason we have not is not generosity. The reason is that we have never had any.**"
+"**I am going to say the true thing about this yard now and I am going to say it to them and not to us, because they have four days of water and we have a tin.** This holding has four pounds and fivepence in it. We have a compost line of ninety-five pounds a month that has not been discharged in eight months. **We have sixteen of our own households on this head and we have not carried a day of anybody's water in eleven years, and the reason we have not is not generosity. The reason is that we have never had any.**"
 
 "So: **nothing. There is nothing in this body for you and I am not going to pretend otherwise in front of nine people at a gate, and if any man in this yard offers you a bed tonight he is speaking for himself and not for this holding and I would like the clerk to enter the difference.**"
 

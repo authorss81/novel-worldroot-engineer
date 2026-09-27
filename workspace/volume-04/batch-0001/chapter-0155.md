@@ -14,7 +14,7 @@ And then, at about the fourth hour of the morning of the twenty-second, in the s
 
 Nobody said a word. The licensed man wrote the entry in his own hand and read it back and asked for nothing to be put against it, and the fen entered that the count of the times a rule of this body has been used outside one of its own lines is one, and that the count is one and it is not going to be improved on by anybody in this room.
 
-It went to four feet at about the fifth hour and forty minutes, and the stop was called out loud at that hour by a licensed man, and it was entered by the licensed man, in his own hand, with the hour on it, and nobody in that low ground argued about the figure because the figure was in the rule.
+It went to four feet at about the fourth hour and forty minutes, and the stop was called out loud at that hour by a licensed man, and it was entered by the licensed man, in his own hand, with the hour on it, and nobody in that low ground argued about the figure because the figure was in the rule.
 
 Then it took about four minutes to come back up to where it had been, and it did, and the level of the shaft before and after is in this book at a hand's width of difference and the fen entered that a hand's width is a figure about a pail and is not a figure about a shaft, and that it is entered because it was taken and not because it is worth knowing.
 
@@ -84,6 +84,6 @@ Then the man of about thirty-five, who had been at the wall side of the low grou
 
 "**But I am going to say one thing, and it is a thing about a floor and not about a man, and then I am going up the slope.**"
 
-"**You took four feet out of a place that was holding. I have read ground for nineteen years and a held ground does not empty in a morning and does not come back in an afternoon, and if a well nine miles off went off the same day you took four feet, then that well was not on the same ground, and you have got a floor under a shaft and a well nine miles off and a road eleven miles off and you have put them in one book and one of them is not yours.**"
+"**You took four feet out of a place that was holding. I have read ground for nine years and a held ground does not empty in a morning and does not come back in an afternoon, and if a well nine miles off went off the same day you took four feet, then that well was not on the same ground, and you have got a floor under a shaft and a well nine miles off and a road eleven miles off and you have put them in one book and one of them is not yours.**"
 
 And then he went up the slope, and the reader of this body did not call him back and did not ask him the next question, and the fen entered that he did not, and entered that the next question was the one about the flow, and that it was not asked, and that the count of questions available in that yard and not taken is now four, and the first was in a month two months back.

@@ -52,7 +52,7 @@ The reader of this body asked the question, and gave the reason first, which is 
 
 "**The bad one: this holding has a well four hundred yards below this gate that has been off for two months and a floor over it that this morning's instrument says is being held by somebody, and a man of about thirty-five told us on the fifteenth that he will not have a crew across it, and this body has no crew, no charter, no licensed man under a retainer, and no standing on the road where the water is. There is nothing this holding can legally do to a shaft it does not hold.**"
 
-"**And the other one, which is worse, and which I am saying because I would rather say it than not. This holding has a head nine hundred yards from this yard with a leak of five-eighths of an inch, a beat in it that has not been logged since, and a draw out of it on the twelfth of last month that this holding is still paying for in sixteen households' water, and it has thirty households on it, and there are four hundred and forty-one people nine miles off with four wells off, and a well on a dry road eleven miles off that stopped at the fourth hour yesterday morning.**"
+"**And the other one, which is worse, and which I am saying because I would rather say it than not. This holding has a head nine hundred yards from this yard with a leak of five-eighths of an inch, a beat in it that has not been logged since, and a draw out of it on the twelfth of last month that this holding is still paying for in sixteen households' water, and it has sixteen households on it, and there are four hundred and forty-one people nine miles off with four wells off, and a well on a dry road eleven miles off that stopped at the fourth hour yesterday morning.**"
 
 "**I am not going to say what any of those three is the beginning of. I am going to say that a body that has been a name for nine days has three facts in front of it today and that all three of them are about water, and that the ordinary thing a named body does with three facts about water is to go and get some, and I would like the clerk to enter that I said that before anybody else in this yard did.**"
 
@@ -74,14 +74,14 @@ And then the door was read out whole at the tenth hour in a full yard of about t
 
 And then the standing rule about the engineer of record was read out again, in full, four lines, in a yard of about twenty-five, because a rule read only when it is used is a habit and this one is not a habit.
 
-> **The standing rule about the engineer of record. In force. Satisfied on the third of a month two months back, in a room, with a licensed man writing it down, entered and read back.**
+> **The standing rule about the engineer of record. In force. Satisfied on the third of a month three months back, in a room, with a licensed man writing it down, entered and read back.**
 >
 > **One.** The draw is not begun on ground whose return is not carrying.
 > **Two.** It is to be stopped at four feet.
 > **Three.** The stop is to be called out loud by a licensed man and entered by whoever holds the book.
 > **Four.** The person who calls the stop is not the person doing the work.
 >
-> **Four lines. Every one of them is about a stop, or about calling a stop, or about who is standing there when it is called, and there is no fifth line and there never has been one.** The rule was used once, on the twelfth of a month two months back, and the rule permitted it, and the rule says nothing whatever about what comes after the stop. **It is proposed that it be used again on the morning of the twenty-second, on a shaft in this holding's own low ground, and the first line of it is the line that decides whether it may be used at all.**
+> **Four lines. Every one of them is about a stop, or about calling a stop, or about who is standing there when it is called, and there is no fifth line and there never has been one.** The rule was used once, on the fourteenth of last month, and the rule permitted it, and the rule says nothing whatever about what comes after the stop. **It is proposed that it be used again on the morning of the twenty-second, on a shaft in this holding's own low ground, and the first line of it is the line that decides whether it may be used at all.**
 
 And the reader of this body put his hand flat on the bench and said the last thing of that yard.
 

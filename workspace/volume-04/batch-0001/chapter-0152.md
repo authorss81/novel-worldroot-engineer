@@ -4,7 +4,7 @@
 
 The engineer of record, the man from the north row with the cough, and the examiner went out of the north gate at about the fourth hour of the morning of the seventeenth of this month with a pail between them and a rule and two watches and a sheet, and they were back at about the eighth hour of the evening, and they timed three places and the three numbers do not agree with each other and none of the three is a measurement.
 
-**The pail was the same pail for all three.** That is the first thing and it is the only thing in this chapter that makes the other two things mean anything, and the clerk entered it before the figures and not after them, at the request of the examiner, who said that a figure about a pail with no pail against it is a figure about a shape.
+**The pail was the same pail for all three.** That is the first thing and it is the only thing in this day's work that makes the other two things mean anything, and the clerk entered it before the figures and not after them, at the request of the examiner, who said that a figure about a pail with no pail against it is a figure about a shape.
 
 Gael Senn kept the time and she did not round and she has never rounded and she said out loud, in the low quarter, at about the sixth hour of the morning, in front of about nine people, that she was going to write the numbers as they came and that if anybody wanted them rounded they could come and do the rounding themselves.
 

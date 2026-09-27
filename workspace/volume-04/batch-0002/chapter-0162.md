@@ -26,7 +26,7 @@ And then she said the one word, out of her own mouth, once, in a room with about
 
 "**Brinewake.**"
 
-Nobody said anything. She did not say it again. The clerk wrote it once and did not write it twice, and the fen entered that he did not write it twice, and **the word is on this page once and it is on no other page of this book, and that is a fact about this volume and not an accident, and a person in four years can go and look and will find it here and nowhere.**
+Nobody said anything. She did not say it again. The clerk wrote it once and did not write it twice, and the fen entered that he did not write it twice, and **the word is on this page once and it is on no other page of this book, and that is a fact about this book's own page and not an accident, and a person in four years can go and look and will find it here and nowhere.**
 
 And then the reader of this body asked her one more question before he asked the one that was his to ask, and he said the reason for that order, and about eleven people were in that room and nobody else was going to ask it.
 

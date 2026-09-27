@@ -54,9 +54,9 @@ Then the standing figures of the day, at about the eleventh hour of the morning 
 >
 > **The leak.** Three-quarters of an inch, read at the seventh hour of the twenty-first of a month three months back, twice, two rules. **Not measured in this month, and the reason is new: a measurement now would be a measurement of a load this holding caused, and the fen wants it to be a measurement of a thing the ground did.** No cause, no due date, no verdict.
 >
-> **The beat.** Not logged since. Cause not established. Nothing underneath it. **Column open.** The day of it is not restated here and a document which must name it says *the twenty-first of a month six months back*.
+> **The beat.** Not logged since. Cause not established. Nothing underneath it. **Column open.** The day of it is not restated here and a document which must name it says *the twenty-first of a month five months back*.
 >
-> **The standing rule.** Four lines, every one about a stop, **used twice in this volume and not on any other day, and the count of the uses is two and is not going to be three.** The third line does not say in a yard and this body read it as though it did for two years, and the rule says nothing whatever about what comes after the stop, and nine people came up a slope on the thirteenth of last month and a road did not open, and about three hundred and fifty did open one on the fourth of this month, and **not one of the four lines is about either.**
+> **The standing rule.** Four lines, every one about a stop, **used twice this season and not on any other day, and the count of the uses is two and is not going to be three.** The third line does not say in a yard and this body read it as though it did for two years, and the rule says nothing whatever about what comes after the stop, and nine people came up a slope on the thirteenth of last month and a road did not open, and about three hundred and fifty did open one on the fourth of this month, and **not one of the four lines is about either.**
 >
 > **The seventh column is thirty-seven,** having gone to thirty-six on the thirtieth of last month, the two readings a day apart, and the rule not changed and not going to be. **The boards, two hundred and eighty-four days, day minus sixty-six. The March's tin, three hundred and thirty-one days. Day minus nineteen,** unmoved, on a bed at three and a half degrees, **the drawer not opened this month and not to be,** the day-minus rules read out loud by the clerk before either number on eleven reading days running and not asked for on any of the eleven. **The rootmark is four inches along the inside of the left forearm and branches twice, there is no second mark, the burn is not a mark, and four accounts of the same arm in this book none agreeing with any of the others, and the two holds of this month are not a fifth and not a sixth.**
 >
@@ -87,7 +87,7 @@ Then at about the fourth hour of the afternoon, the man of about seventy was fet
 
 > Entered at the fifth hour of the afternoon of the twentieth of this month, in the seed house, by the clerk, on the standing of a count: **the man of about seventy was fetched for the sixteenth time in a season, was given the figures and the counts in that order, asked for the last one to be repeated, and said nothing. Nobody answered him and nobody asked him what it was about, and the fen entered that this holding does not know what that was about and is not going to write and ask.**
 
-And then the standing sentence, in the same yard, at about the sixth hour of the evening, said out loud for the second time in this volume by the man who said it the first time, and he said the thing about saying it again before he said it, which is the thing this book does and which nobody has thanked anybody for.
+And then the standing sentence, in the same yard, at about the sixth hour of the evening, said out loud for the second time this season by the man who said it the first time, and he said the thing about saying it again before he said it, which is the thing this book does and which nobody has thanked anybody for.
 
 "**A man who is the only person who can do a thing is a bottleneck and not a system.**"
 

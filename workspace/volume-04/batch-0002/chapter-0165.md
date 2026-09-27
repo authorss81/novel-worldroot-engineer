@@ -34,7 +34,7 @@ And then the engineer of record said it, in about four sentences, and he did not
 
 "**And I would like the clerk to enter the word *yet* nowhere in this book, in this entry or in any other, because nobody in this room is going to promise me anything and I am not going to be able to use that word in four years if it is on a page in the meantime.**"
 
-And then the reader of this body said he was going in and went in, and about nine people were left in that yard, and one of them said the thing the chapter is for, and the fen entered that the reader of this body was not in the room when she said it and entered the reason he was not asked to stay.
+And then the reader of this body said he was going in and went in, and about nine people were left in that yard, and one of them said the thing the day is for, and the fen entered that the reader of this body was not in the room when she said it and entered the reason he was not asked to stay.
 
 Tova Reed said it in one go, in the ordinary voice, to nine people, and did not stop in the middle of it to see whether anybody was following.
 

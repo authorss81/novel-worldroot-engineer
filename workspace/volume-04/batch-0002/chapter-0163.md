@@ -18,7 +18,7 @@ Lissa Vale read it out whole in the seed house with the bay doors shut, and abou
 
 Nobody in that room said the word *gift* and the fen entered that nobody said it, and entered that the word is not in the return, and entered that this holding has entered it in its own book twice today for the sole purpose of not using it, **because a thing somebody gave you is a thing you can shake hands about and this is four lines on the ordinary post from an office nine miles off and there is nobody in it to shake hands with.**
 
-Then the woman who does the sums did the sum, or rather she did the two halves of it, and the second half is the whole of the chapter.
+Then the woman who does the sums did the sum, or rather she did the two halves of it, and the second half is the whole of the day.
 
 "**The low quarter had five wells off on the fourth day of this month. That is on this page and it is this holding's own count and it is not an official one and there is no form for it. From the second to the seventh that quarter has had the licensed supply at a shilling a pail, and for every one of those six days it has also had water at no price out of a source nobody has named, from a party that has named itself, and the number of pails in the second supply is not in anybody's book because there was no gate.**"
 

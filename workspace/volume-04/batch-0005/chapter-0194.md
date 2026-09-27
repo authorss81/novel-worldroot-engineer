@@ -28,7 +28,7 @@ Then the officer did the only thing an office does with a party that is a class,
 
 "**Fourpence the hundredweight. On about six hundred hundredweight a week going south over that corridor, that is twenty-four hundred pence, which is ten pounds, and the class is migration, and the class was assigned by this office in the eleventh month of last year and is not assigned by any party and will not be re-assigned because a party has become a party twice.**"
 
-And then the reader of this body said the sentence, and it is the second time in this volume that a figure of this holding's has come back on a piece of paper, and the first time was in the third of last month.
+And then the reader of this body said the sentence, and it is the second time this season that a figure of this holding's has come back on a piece of paper, and the first time was in the third of last month.
 
 "**Fourpence the hundredweight. I derived that figure out of my own two numbers in a yard about six weeks before this office said it.**"
 

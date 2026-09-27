@@ -48,7 +48,7 @@ She wrote a figure on the back of the engineer's own sheet, which he allowed, an
 
 "**And I am not going to compare it with the ninety-five a day, because the ninety-five a day is a licensed draw in a holder's ground and the thirty thousand is this holding's own figure about a pan that belongs to nobody, and the two are not the same and adding them is the same as adding a supply to a want.**"
 
-Then the second thing, which is the one that decides the chapter, and the engineer of record said it standing up in a yard of about nine and the examiner was there and two of the crew were there and it is the first time in two months that he has said a whole sentence about the rule.
+Then the second thing, which is the one that decides the day, and the engineer of record said it standing up in a yard of about nine and the examiner was there and two of the crew were there and it is the first time in two months that he has said a whole sentence about the rule.
 
 "**Where the water comes from. Not the Pans well. It cannot be the Pans well, and I am not going to say that man's name in this yard today, and the reason I am not going to is a thing I said four times in a yard and I am not going to say a fifth.**"
 

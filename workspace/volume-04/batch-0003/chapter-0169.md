@@ -22,7 +22,7 @@ Then the person who keeps the seed house stood up and said what the sheet was, b
 
 "**And the thing that is on the face of it and that everybody in this yard can read without me saying a word is the last line. He has not asked us for anything. In a month, that is the first sheet that has come into this building that has not wanted something.**"
 
-And then he said the thing the volume's frame needs said once more, in a yard of about eleven, standing up, and he gave the reason first.
+And then he said the thing this holding's frame needs said once more, in a yard of about eleven, standing up, and he gave the reason first.
 
 "**A charter holder is a supply and is not a thief, and I have said that in this yard three times in a month and I am going to say it a fourth time and then I am going to stop saying it, because a thing said four times is a rule and a rule that nobody wrote down is the worst kind.**"
 

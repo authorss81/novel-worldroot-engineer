@@ -43,7 +43,7 @@ Nobody answered for about a minute and then he answered it himself, and he said 
 
 "**Five. A name at the foot of a sheet in eleven miles that this body has no address for, and that this body has read out loud in a yard once this month and did not ask the man whether he wanted it read out loud.**"
 
-And then he said the thing the chapter is for, and it is short, and about eleven people heard all of it.
+And then he said the thing the day is for, and it is short, and about eleven people heard all of it.
 
 "**Five things. Four lines. I am not going to write a fifth line, and I am going to say why in one sentence and then I am going to stop.**"
 

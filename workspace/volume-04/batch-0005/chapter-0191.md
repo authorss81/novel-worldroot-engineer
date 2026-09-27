@@ -57,7 +57,7 @@ Then the standing rule was read out in full, four lines, in the same yard, befor
 > **Three.** The stop is to be called out loud by a licensed man and entered by whoever holds the book.
 > **Four.** The person who calls the stop is not the person doing the work.
 >
-> **Four lines. There is no fifth line and there never has been one.** The fen entered that the rule has now been read out in full six times across two months, five of them in last month and this one, and used twice in this volume, and that the two counts are two counts and are not the same count, and did not improve on it, **and entered that the third line does not say in a yard and this body read it as though it did for two years, and that a rule read out on the morning it is used is not a rule that is being kept, and that the mornings it is not used are the ones this body would have to give up first.**
+> **Four lines. There is no fifth line and there never has been one.** The fen entered that the rule has now been read out in full six times across two months, five of them in last month and this one, and used twice this season, and that the two counts are two counts and are not the same count, and did not improve on it, **and entered that the third line does not say in a yard and this body read it as though it did for two years, and that a rule read out on the morning it is used is not a rule that is being kept, and that the mornings it is not used are the ones this body would have to give up first.**
 
 Nobody thanked anybody. The man of about fifty asked for his initial to be put against nothing and it went in and the count of that request is forty-six this season, and the fen entered the count and entered that the count is not a complaint and has never been a complaint.
 

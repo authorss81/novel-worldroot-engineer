@@ -30,7 +30,7 @@ The engineer of record was on the slope when it happened and he said the sentenc
 
 "**A pan with a crust on it does not have a channel in it and I said that on the Friday in a yard and I said the man with a spade proved it in a month three months back and I wrote it down. And I was wrong about the second half of it. A pan with a crust on it has got a soft place in it, and the soft place is where the water has been, and I did not know where that was and I did not ask the man who cut a sod off it and took it home.**"
 
-Then the hold, and it is entered and it is the fourth thing in this volume that this holding's own body has done that it cannot put in a book.
+Then the hold, and it is entered and it is the fourth thing this season that this holding's own body has done that it cannot put in a book.
 
 The engineer of record held a pattern for a crew of four for about two hours and a half, on the boards at the head of the cut, with the licensed man holding the book and the hour on it, and the man of about fifty on the slope with the book and about nine people in a yard at the top who came up to see whether a road could be got through and were not on the slope and were not asked to be.
 

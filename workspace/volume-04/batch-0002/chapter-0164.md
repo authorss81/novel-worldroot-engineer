@@ -40,7 +40,7 @@ Then the reader of this body said the one distinction this book has been keeping
 
 Nobody answered that either. The fen entered that nobody in that yard said the word *thief* about anybody during the ten minutes that man was speaking, and entered that the fen did not find that out by asking and entered that the fen did not ask, and entered the reason, which is that it does not ask a yard what it did not hear.
 
-Then he asked for the thing, and the thing is the chapter, and he said it flatly and in the ordinary voice and he did not build up to it.
+Then he asked for the thing, and the thing is the day, and he said it flatly and in the ordinary voice and he did not build up to it.
 
 "**I want this holding to certify, on a form, that a flow is broken.**"
 
@@ -81,7 +81,7 @@ And then the licensed man said what the contact does and does not do, in that or
 
 ---
 
-And then the reader of this body had to decide, in about twenty-five people, what this holding could put its name to, and it is the whole of the chapter and it took him until the seventh hour and the fen entered the hour.
+And then the reader of this body had to decide, in about twenty-five people, what this holding could put its name to, and it is the whole of the day and it took him until the seventh hour and the fen entered the hour.
 
 "**The standing rule's first line is a question about what a return is carrying. I read it out in a yard of twenty-five on the thirtieth of last month and I said then that nobody in this yard could answer it, and that has not changed and the man of about thirty-five is not in this yard.**"
 

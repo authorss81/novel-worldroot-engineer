@@ -36,7 +36,7 @@ Nobody said a word in that yard for about four seconds and the fen entered the f
 
 "**And the third line of that form says a question about a form is to go in the form and not in a yard. That is a correct line and I am not going to argue with it. I want it entered that this holding has been putting its questions in yards for two months and that the office is telling it in writing that a yard is not a form, and that I have not got a form, and that I am not going to be embarrassed about that in front of the man who wrote the line.**"
 
-Then the thing the chapter is for, and the reader of this body asked for it, and he asked for it out loud in the yard before the officer had finished putting the case down.
+Then the thing the day is for, and the reader of this body asked for it, and he asked for it out loud in the yard before the officer had finished putting the case down.
 
 "**I would like the standing figures of this holding read out loud, in this yard, in front of that officer. All of them. Including the ones that are not entered.**"
 
