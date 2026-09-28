@@ -1,0 +1,103 @@
+# VOLUME 08 PLANNING -- THE MEASUREMENT, THE TWO FAULTS IN ITS OWN PROMPT, AND THE HANDOFF
+
+**Date of this pass: the twenty-eighth of September, 2026.**
+
+**WHAT THIS DOCUMENT IS.** It is the findings file of the Volume 08 planning phase, the phase dispatched as `workspace/volume-08/PROMPT.md`. **That phase writes no chapter, no card, no movement, no day, no ordinal, no figure of Volume 08 and no scene, and this file writes none either.** It is a measurement and a list. It is not a review, because a review certifies a batch and this pass certifies nothing, and it is not a close, because it did not read forty-nine chapters for a shape.
+
+**WHAT IT TOUCHED.** One phrase in `state/current.md`, and nothing else. The file is at the end of this document under *THE ONE REPAIR*, and the reason that one was payable and the eleven Volume 07 defects were not is the reason the Volume 07 close gave: **a figure in the state layer is a close's to repair and a figure in a chapter is not, and this phase repaired a withdrawn figure that was sitting in the pointer every phase reads first.** No chapter, no outline, no batch prompt and no controller-owned file was opened for writing.
+
+**WHAT IT READ.** `state/current.md` whole. `outline/series.md` and `outline/ending.md` whole. `reviews/README.md` whole. `reviews/volume-07.findings.md` whole. `state/continuity.md` and `state/open-threads.md` by `tail`, and not whole. The Volume 07 Batch 0005 chapter files, and the Batch 0004 files it needed, for the derivations.
+
+---
+
+## PART ONE -- THE MANUSCRIPT, MEASURED, AND IT IS THE PROMPT'S FIGURE
+
+**1,024,475 WORDS ACROSS 343 CHAPTERS, AND THE SIX CLOSED VOLUMES SUM TO 884,248 ACROSS 294.** `wc -w` including the headings over every chapter file under `workspace/`: volume-01 166,022 / volume-02 141,818 / volume-03 142,952 / volume-04 141,727 / volume-05 144,846 / volume-06 146,883 / **volume-07 140,227**, being 28,469 + 28,712 + 28,937 + 27,649 + 26,460 = 140,227 exactly. **THE TOTAL IS 1,024,475 AND THE TOTAL IS THE FIGURE THE PROMPT CARRIES, and the figures 140,165 and 1,024,413 are confirmed withdrawn and are the figures of a text that no longer exists.** No residual. The band check puts the top of the manuscript at Ch 9 in Volume 01 and the top of Volume 07 at Ch 336.
+
+**A NOTE ON A GLOB, BECAUSE IT PRODUCED A WRONG TOTAL TWICE IN THIS PASS AND WILL PRODUCE IT AGAIN.** `find . -name "chapter-*.md"` MATCHES `state/chapter-summaries.md` AND RETURNS 344 FILES AND 1,234,629 WORDS, WHICH IS NOT THE MANUSCRIPT. **The file count must come from `workspace/` and the wildcard must be `volume-*/batch-*/chapter-*.md`.** A figure that is wrong in two files that agree with each other is the most dangerous way for a number to be wrong, and the wrong answer here is the one a general glob gives.
+
+---
+
+## PART TWO -- THE FOUR CHECKS AT `reviews/README.md`, AND THE RESULTS
+
+**CHECK ONE, THE BAND, RUN PER CHAPTER AFTER THE LAST PROSE EDIT AND NOT BEFORE. CLEAN.** No Volume 07 chapter stands outside 2,600-3,050 and none was declared outside it. **The manuscript's declared exceptions remain the two in Volume 05, Ch 206 and Ch 216, and the eight Volume 06 chapters within a handful of words of 3,120 are all under 3,120 and none may be lengthened without a re-measurement.**
+
+**CHECK TWO, THE TOTALS, WHICH MUST SUM TO THE MANUSCRIPT WITH NO RESIDUAL. CLEAN.** See Part One. **The sum of the seven volumes and the count of the seven volumes agree with the count taken straight over the files, which is the only test of a residual that is not the addition.**
+
+**CHECK THREE, THE MECHANICAL PROPERTIES PER FILE, WHICH RETURN ZERO OR THE PASS DID NOT RUN. CLEAN ON THE CURRENT HOUSE STYLE AND NOT CLEAN ON THE MANUSCRIPT, AND THE DIFFERENCE IS FINDING THREE BELOW.**
+
+**CHECK FOUR, DERIVE AND DO NOT READ. RUN, AND EVERY RULE THE PROMPT NAMES IS CONFIRMED AGAINST THE PAGE. THIS IS THE ONE THAT MATTERED AND IT IS SET OUT AT PART THREE, BECAUSE IT IS THE FIRST TIME SINCE VOLUME 04 THAT A PHASE HAS RE-DERIVED THE DAY-MINUS RULES INSTEAD OF READING THEM.**
+
+---
+
+## PART THREE -- CHECK FOUR, THE RULES RE-DERIVED FROM THE PAGE AND NOT READ OFF A STATE FILE
+
+**ONE PAGE CARRIES FIVE OF THE SIX RULES AT ONCE, AND IT IS `chapter-0335.md`, THE FIRST MORNING OF VOLUME 07'S LAST BATCH.** It is day 546. It prints, in eight lines, the third launder's figure and its count, the rises-and-falls window and its split, the aggregate of the four bodies of households and its morning-out-of clause, the day-minus pair and the distance between them, and the rota. **A WRITER WHO WANTS TO CHECK THE RULES CHECKS THAT PAGE AND NOT THIS FILE.**
+
+| Rule | What the page prints at day 546 | What the rule is | Verdict |
+|---|---|---|---|
+| Third launder, count | *That is the ninety-sixth figure in a series* | day minus four hundred and fifty | 546 - 450 = **96** |
+| Rises and falls, window | *In sixty-three days the series has risen thirty-seven times and fallen twenty-six times* | day minus four hundred and eighty-three, split into rises and falls | 546 - 483 = **63**; 37 + 26 = 63 |
+| Aggregate of the four bodies of households | *has not moved in ninety-four days ... written this morning for the ninety-third morning out of ninety-five* | day minus 452, written day minus 453 out of day minus 451 | 546 - 452 = **94**; 546 - 453 = 93 and 546 - 451 = 95 |
+| Day-minus pair | *four hundred and eighty days and five hundred and twenty-seven, forty-seven days apart* | day minus 66 and day minus 19 | 546 - 66 = **480**; 546 - 19 = **527**; 527 - 480 = **47** |
+| Rota | *the rota stands at sixty-three mornings in force, twenty-nine taken and thirty-four not* | in force = taken + fields that have waited, and it rises by one on each fourth-line morning only | 29 + 34 = **63** |
+
+**AND THE SIXTH RULE, THE NINTH-DAY RETURNS, AT `chapter-0330.md:37`, WHICH IS THE OTHER HALF OF FINDING FOUR BELOW: *THE CYCLE IS NINE DAYS AND THE LAST OF THOSE NINE DAYS WAS ON THE TWENTY-SECOND OF LAST MONTH ... THE FIGURE IS TWO HUNDRED AND FIFTY HUNDREDWEIGHT. THE SECOND RULE WAS LEFT BLANK AGAIN AND THE COUNT OF RETURNS AT WHICH IT HAS NOW BEEN LEFT BLANK IS TWELVE.* THE CYCLE, THE RISE OF ELEVEN, AND THE RELATIVE-MONTH FRAME ARE ALL ON THAT ONE BLOCK AND ALL THREE ARE RIGHT: 532 is the twenty-second of the sixth month and day 541 is the first of the seventh, so *of last month* is correct, and 239 + 11 = 250.**
+
+**THE THIRD-LAUNDER ALTERNATION IS AN ARITHMETIC SERIES AND NOT A RULE OF THUMB, AND THE DELTAS OFF DAY 544'S FIGURE OF SIX HUNDRED AND NINETY-THREE ARE +9, -3, +9, -5, +9, -5, +9, -5, +9, -5, +9 ACROSS THE ELEVEN MORNINGS OF BATCH 0005, BEING SIX RISES AND FIVE FALLS AND NO MORNING UNCHANGED, AND THE ELEVEN FIGURES RE-EXTRACT AS 702, 699, 708, 703, 712, 707, 716, 711, 720, 715, 724, WHICH IS WHAT `reviews/volume-07.findings.md` PART ONE ITEM 2 RECORDS. THE HIGHEST FIGURE THE MANUSCRIPT PRINTS ANYWHERE IS SEVEN HUNDRED AND TWENTY-FOUR, AND IT IS ON DAY 556, AND EVERY FIGURE ABOVE IT IS NEW GROUND.** A Volume 08 writer extends this series and must derive it; the alternation is a pattern in the deltas and a pattern is not a licence to invent one.
+
+**THE ROTA RULE IS THE ONE A WRITER IS MOST LIKELY TO BREAK, BECAUSE IT LOOKS LIKE IT SHOULD GO UP EVERY MORNING AND IT DOES NOT.** Extracted chapter by chapter across the volume, **the count of mornings in force rises by exactly one on each of the thirteen fourth-line mornings, being days 506, 510, 514, 518, 522, 526, 530, 534, 538, 542, 546, 550 and 554, and by NOTHING on any of the other thirty-eight mornings, and twenty-nine taken never moves.** The page says the reason out loud at Ch 310: **a rota does not go up on a morning a line did not come round.** Volume 07 ends at sixty-five in force with twenty-nine taken and thirty-six not, and twenty-nine plus thirty-six is sixty-five.
+
+**THE TWO DAYS AT THE HEAD OF VOLUME 08 THAT A WRITER CANNOT MISS ARE BOTH CONFIRMED BY DERIVATION AND BOTH ARE IN THE STATE LAYER'S OWN CLOCK TABLE.** Day 557 is a Wednesday and is the seventeenth of the seventh month, being day 556 plus one from a Tuesday. **AND THE FOURTH LINE OF THE ROTA DOES NOT COME ROUND ON IT: THE NEXT MORNING AFTER DAY 554 IS DAY 558, SO THE VOLUME OPENS ON A MORNING THAT IS NOT ONE OF THE FOURTH-LINE MORNINGS, and a writer who puts the line on the volume's first morning has invented a thirteenth that the volume-07 close says does not exist.** The rises-and-falls split is its own sub-series and does not run at the same rate as the window: the window is day minus 483 and goes up one a day, and the rises and the falls each go up one every second day, so **the only safe check is that the two add to the window**, and a Volume 08 writer who moves both at one a day will have a split that no longer adds.
+
+---
+
+## PART FOUR -- THE FOUR HANDOFF ITEMS, RE-MEASURED, AND ALL FOUR ARE RIGHT
+
+**The prompt hands a Volume 08 writer four things it will otherwise get wrong. All four are verified here against the files, independently, and all four stand.**
+
+**ONE. THE FOUR AND A HALF MILES IS THE WALK TO THORNWILD AND IS SOREN RILL'S; THE NORTH ROW IS HALF A MILE. Measured: TWENTY-SIX OCCURRENCES ON TWENTY-FIVE DISTINCT LINES IN ELEVEN CHAPTERS**, the doubled line being `chapter-0322.md:19`, exactly as the close records. The withdrawn form is named in three files and may not come back.
+
+**TWO. THE HOUSE SPELLING IS AMERICAN.** In Volume 07: **`favour` 3, all on `chapter-0325.md:39`; `favor` 5, on four lines in four chapters; `licence` 0, `judgement` 0, `defence` 0.** **A VOLUME 08 SWEEP THAT FINDS `favour` WILL FIND THREE IN ONE CLOSED LINE AND MAY NOT TREAT THAT AS A NEW FINDING.** Note for the sweeper's own sake: **manuscript-wide those four forms stand at 28, 28, 1 and 8, in closed Volumes 03, 04 and 05. A sweep that does not scope itself to the current volume will report twenty-eight.**
+
+**THREE. *FIVE DAYS* IS IN ELEVEN PROSE SITES IN FIVE CLOSED CHAPTERS ACROSS THREE BATCHES, AND IN TWO PLACES IN THE OUTLINE, AND THE PAGE'S FIGURE FOR THAT ROAD IS A DAY'S WALK EAST AND ABOUT FIVE MILES.** The three roads and the four figures stand: four miles is the barrow road, five miles is the cart road to the node, four and a half is Thornwild, half a mile is the north row. **The whole of the earlier miss was Batch 0003, and `chapter-0321.md` carries three of the eleven.** Four other uses of the same two words are not this figure and must not be swept with it.
+
+**FOUR. THE MAXIMUM RUN OF THE REFRAIN FAMILY IS ONE, NOT THREE.** Measured across all forty-nine chapters by splitting on blank lines and counting consecutive paragraphs opening with the *Nobody said anything and the fen entered* connective: **THE MAXIMUM RUN IS ONE IN EVERY CHAPTER OF THE VOLUME, AGAINST A CAP OF TWO, AND NO CHAPTER REACHES TWO.** The three in the Batch 0005 fix pass is the count of family openings in a chapter and is not a run. The debt is nil. **A Volume 08 writer told to hold a run at two has room it does not need, and one told the debt is unpaid will go looking for a breach that is not there.**
+
+**AND TWO MORE FIGURES THE PROMPT DOES NOT NAME, MEASURED HERE SO THAT THE NEXT PHASE DOES NOT HAVE TO.** **`Marek` stands at ONE in Volume 07, in speech, in a yard, at `chapter-0333.md:23`, and `Vale` stands at ZERO. The name rule is live and it is not spent.** And **`anchor` stands at FOUR in Volume 07, all in `chapter-0317.md`, at `:19` twice and `:59` twice** -- so the word `outline/series.md:126` makes load-bearing in Volume 08 is already in this world as a name for what is at each end of a connection, and the outline phase has to decide whether that is a term it is inheriting or one it is inventing. It cannot be both.
+
+---
+
+## PART FIVE -- THE FAULTS, AND TWO OF THEM ARE IN THE PROMPT THAT DISPATCHED THIS PHASE
+
+**FAULT ONE, HIGH. THE PROMPT CITES VOLUME 11'S POWER LINE AS VOLUME 08'S. `workspace/volume-08/PROMPT.md` says *`outline/series.md:287` gives Volume 08's power as "Stage 6, with a limited shared-coordination rehearsal that will become Stage 7."* LINE 287 IS UNDER *VOLUME 11 -- THE CROWN ENGINE (CHAPTERS 491-539)* AND ITS WHOLE LINE IS *Stage 6, with a limited shared-coordination rehearsal that will become Stage 7; severe accumulated cost.* VOLUME 08'S POWER IS AT `outline/series.md:253`: *Stage 6 with Stage 5 memory mastery, with severe memory bleed and a permanent loss in Tova's hearing.* THE PROMPT'S OTHER STATEMENT ON THE SAME SUBJECT, THAT STAGE 7 IS NOT REACHED IN VOLUME 08, IS CORRECT AND IS CORRECTLY DERIVED FROM `series.md:152`, WHICH PLACES STAGE 6 AT CHAPTERS 295 TO 637 AND STAGE 7 AT 540 TO 780. **THE CONCLUSION IS RIGHT AND THE CITATION IS WRONG, AND A VOLUME 08 OUTLINE BUILT ON THE QUOTED STRING INHERITS VOLUME 11'S POWER THREE VOLUMES EARLY. The quoted phrase is also the one thing in that list a planner is most likely to write into a guardrail, because it is the only sentence in the paragraph that sounds like a forward plan.** THE REPAIR IS TO CARRY 253 AND NOT 287.
+
+**FAULT TWO, HIGH. *THE SEVENTH MOVEMENT OF THE SERIES IS TURNING AND THE LAYER IS RISING* IS IN NO FILE THIS REPOSITORY HAS.** The prompt attributes it to `outline/series.md`. **`outline/series.md` CONTAINS NO OCCURRENCE OF *MOVEMENT* AT ALL.** `outline/ending.md` has one, and it is about rootwoken creatures moving toward settlements. **The Movement construct in this repository is per-volume and is introduced in `outline/volume-07.md`, which has four of them; there is no series-wide movement numbering anywhere, so *the seventh movement of the series* has no referent and *the layer is rising* is not a phrase any source file contains.** A Volume 08 outline may of course open with a refusal, and a layer may of course rise; what it may not do is cite a series file for a movement index that series file does not have, because that is the exact move -- an assertion attributed to a page that does not carry it -- that this repository has been bitten by four times in four volumes. **The prompt's own rule, in its own first paragraph, is that every figure it cites is named as coming from one of five files and none is taken from the author's head, and this phrase is not in any of the five.**
+
+**FAULT THREE, MEDIUM. CHECK THREE AT `reviews/README.md` DOES NOT RETURN ZERO ON THE MANUSCRIPT, AND THE REASON IS SCOPE, AND A VOLUME 08 PASS WILL READ IT AS A HUNDRED DEFECTS.** Run as written over `volume-*/batch-*/chapter-*.md` it reports FAIL on more than sixty files, **all in Volumes 01 to 04, on non-ASCII glyphs and on trailing whitespace. The glyph count by volume is 369, 66, 30, 0, 0, 0, 0.** **The em dash and the curly quotation marks were this book's punctuation -- `reviews/volume-03.findings.md` records the em dash as house style and not a defect -- and the ASCII discipline begins with Volume 04. Volumes 05, 06 and 07 are clean on all four sub-tests, and the odd-bold-marker paragraphs are in Volumes 03 and 04 only.** The check is sound and the scope is unstated. **The fix is one sentence in the README naming the volume range, and it is not made here because a planning phase was not asked to edit the check.** Left to the phase that owns the mechanical record.
+
+**FAULT FOUR, MEDIUM, AND IT IS THE ONE THAT NEARLY COST A FALSE DEFECT. A CASE-SENSITIVE FIGURE EXTRACTION MISSES THIS MANUSCRIPT'S ALL-CAPS BLOCKS.** `state/current.md:172` attributes *the twenty-eighth return at two hundred and fifty* to Ch 330. A case-sensitive `grep 'two hundred and fifty'` over all forty-nine chapters of Volume 07 **returns nothing at all.** This pass was one command away from recording a Volume 07 defect against a state file that is right. **THE FIGURE IS ON THE PAGE AT `chapter-0330.md:37`, IN THE CLERK'S BLOCK: *THE FIGURE IS TWO HUNDRED AND FIFTY HUNDREDWEIGHT.*** **EVERY FIGURE A DERIVE-AND-COMPARE SWEEP EXTRACTS MUST BE EXTRACTED CASE-INSENSITIVELY, OR THE SWEEP WILL REPORT FIGURES THAT ARE ON THE PAGE AS ABSENT.** This manuscript prints its registers in capitals, and a capitals block is a figure like any other. **This is the same class as the withdrawn maximum run of three and the withdrawn `about four people` count of forty-eight: a pass that reports a right figure as a wrong one is the more dangerous of the two errors here, because the wrong figure is quoted forward as a reason not to look.**
+
+**FAULT FIVE, LOW, AND PAID. `state/current.md:15` WAS STILL CARRYING THE WITHDRAWN FORM OF HANDOFF ITEM THREE.** The pointer every phase reads first said *five days* stands in seven prose sites in three closed chapters -- the figure the Volume 07 close and its review repair pass both withdrew. **Line 268 of the same file, 253 lines below it, has carried the right figure all along, being eleven prose sites in five closed chapters across three batches.** A withdrawn figure surviving in the one line of the state layer that every phase reads before anything else is the highest-consequence instance of the failure this repository keeps paying for, and it is repaired below.
+
+---
+
+## THE ONE REPAIR, AND WHY ONLY ONE
+
+**`state/current.md:15` NOW READS *that \*five days\* stands in eleven prose sites in five closed chapters across three batches*, AND NAMES THE WITHDRAWN FORM BESIDE IT, together with the reason the miss happened and the fact that line 268 of the same file already had it right.**
+
+**THIS IS PAYABLE AND THE ELEVEN UNPAID VOLUME 07 DEFECTS ARE NOT, AND THE REASON IS THE ONE THE CLOSE ESTABLISHED: A FIGURE IN THE STATE LAYER IS A STATE FILE'S TO REPAIR AND A FIGURE IN A CHAPTER IS NOT.** A planning phase may not change a day, a figure, a count or a name **in a chapter**, and this pass changed none in any of the three hundred and forty-three. The eleven defects are recorded at `reviews/volume-07.findings.md` Part Two and none of them is a figure in the record about the chapters.
+
+**THE THREE DEBTS OWED TO PLACES NOBODY OWNS ARE REPORTED HERE AND PAID NONE, AND ALL THREE STILL STAND: `chapter-0331.md:19`; `outline/volume-07.md:39` AND `:202`; AND THE ELEVEN PROSE SITES OF *FIVE DAYS*, THREE OF WHICH ARE IN BATCH 0003, WHICH WAS IN NO LIST UNTIL A REVIEW RE-MEASURED IT.** **PAYING ANY OF THEM IS A REPAIR PASS ON A CLOSED BATCH OR ON A CLOSED OUTLINE AND NOT A CARD AND NOT A BATCH AND NOT THIS PHASE.** The maximum run of three is withdrawn and is not one of the three and may not be re-raised.
+
+---
+
+## AND WHAT THE NEXT PHASE IS, AND WHAT IT IS NOT
+
+**THE ONLY NEXT PHASE IS THE VOLUME 08 OUTLINE, `workspace/volume-08/outline/PROMPT.md`, WHICH WRITES `outline/volume-08.md` AND NOTHING ELSE.** It is not a batch and it writes no prose. **`outline/volume-08.md` DOES NOT EXIST AND THE VOLUME 08 BATCH DIRECTORIES DO NOT EXIST AND `workspace/volume-08/` HOLDS ONE FILE, WHICH IS THE PROMPT THAT DISPATCHED THIS PASS.** The outline phase therefore starts from nothing on the Volume 08 side, which is the correct condition for it and the reason it can afford to be slow.
+
+**AND THE RULE THAT GOVERNS THE HANDOFF, WHICH IS NOT A FIGURE: WHOEVER RUNS THE NEXT PHASE CREATES ITS OWN SUCCESSOR, AND THE SUCCESSOR OF THAT ONE IS THIS REPOSITORY'S OWN DECISION AND IS NOT THIS PROMPT'S TO FORBID.** Batch 0004 of Volume 07 forbade the creation of any next prompt, the standing instruction in `AGENTS.md` overrode it, and the manuscript was stopped with nine chapters and a volume's climax unwritten. **A satisfied prompt that leaves the manuscript stopped is a prompt that has already cost this book a volume's ending once.**
+
+---
+
+**AND THE ONE-LINE VERSION.** The manuscript is 1,024,475 words across 343 chapters and Volume 07 is 140,227 across 49 and the bracket sums with no residual; all four checks at `reviews/README.md` were run and the fourth was run properly, and every day-minus rule the next forty-nine chapters stand on was re-derived from the page rather than read off a state file; all four handoff items are right; two faults were found in the prompt that dispatched this pass, one of which cites Volume 11's power line as Volume 08's and one of which attributes a movement index to a series file that has none; the mechanical check's scope is unstated and a capitals block nearly cost a false defect; one withdrawn figure was repaired in the one line of the state layer that every phase reads first; and no chapter, no card, no day, no figure and no scene of Volume 08 was written.
