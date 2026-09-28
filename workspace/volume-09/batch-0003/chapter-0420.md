@@ -74,7 +74,7 @@ The corridor in the pan is named and open and is not a road, and the sheet that 
 
 The fetching of the man of about seventy happened on the first of this month and not today, and twenty-four is where that count stands. The compost line is paid and its run is twenty-one not discharged in twenty-one, and it is not a measurement of anything.
 
-The seventh column on the well house door is at fifty-six, is not read this morning, and is read on the thirtieth and on no other morning but that one.
+The seventh column on the well house door is at fifty-six, and nothing on that door was read this morning. It goes on the thirtieth of this month and on the first of the next. There is no other morning in the year.
 
 The ring of bare ground inside the eleven acres is in its eleventh year with no dimension on any page, and it was not walked, measured, crossed, priced or explained this morning. Four people from an Assembly are working four yards off its edge and do not know what it is.
 

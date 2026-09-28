@@ -80,7 +80,6 @@ A man has looked at that board three mornings running without turning it over. N
 
 The register form is on the middle table at seventy-three days, not filled and not refused, with nothing at the head of it and nobody going to write anything at the head of it.
 
-
 The man of about seventy was not sent for. His count of fetchings is twenty-three and the twenty-fourth is two mornings off, on the first of a month, and nothing on any page here says why a month should matter to that, and nobody has ever asked him.
 
 The compost line is paid, one hundred pounds, and the run is twenty not discharged in twenty. It does not fall this month.

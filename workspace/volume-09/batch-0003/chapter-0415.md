@@ -82,7 +82,6 @@ Seventy-two days is how long a register form has stood on the middle table. It i
 
 Neither the corridor in the pan nor the route under the sealing order has moved. The first is named and open and is not a road, and the second is in a drawer with the sheet that describes it, and that sheet is right in every particular, and the order is valid, and neither of them has been touched this month.
 
-
 The twenty-third fetching of the man of about seventy has not happened. The twenty-fourth is three mornings off, on the first of a month, and there is no reason for the first of a month on any page here.
 
 The compost line is paid, and the run is twenty not discharged in twenty. The seventh column of the well house door is at fifty-four and is read on the thirtieth and on the first, and this morning it was not read.

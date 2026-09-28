@@ -2,13 +2,13 @@
 
 ## The Other End Is Not His
 
-The fourth of this month was a Wednesday. At the second hour the fourth line came round again and stood there empty, the way it has stood empty every fourth morning since the sixth of this month, and the fields at the headland above Marden have waited for the fifty-sixth morning.
+The fourth of this month was a Wednesday. At the second hour the fourth line came round again and stood there empty, the way it has stood empty every fourth morning since the sixth of last month, and the fields at the headland above Marden have waited for the fifty-sixth morning.
 
 The rota stands at eighty-five mornings in force with twenty-nine taken and fifty-six not, and twenty-nine and fifty-six are eighty-five.
 
 The count goes up by one when this line comes round and by no amount at all when it does not. Twenty-nine taken has not shifted this morning, or on any morning of this year, and a field that waited is not a man's fault.
 
-Two ways of counting that rotation are kept in this building and the two of them do not agree, so both of them go on this morning's page. This is the thirty-third morning of the run out of the twenty-sixth of a month four months back, and the twentieth morning of the run anchored on the eighteenth of a month two months back, and that second frame came with the month a few mornings ago and is not said again.
+Two ways of counting that rotation are kept in this building and the two of them do not agree, so both of them go on this morning's page. This is the thirty-third morning of the run out of the twenty-sixth of a month five months back, and the twentieth morning of the run anchored on the eighteenth of a month three months back, and that second frame came with the month a few mornings ago and is not said again.
 
 The six who would have gone to that headland were on the boundary ditch, and Marek was not one of the six this morning for the first time in four years, and nobody in this holding has written down where he was instead and nobody is going to.
 
@@ -96,7 +96,7 @@ There is a sheet in a drawer, face up, claiming a corridor in the pan. It is cor
 
 He was fetched on the first of this month and not today, so twenty-four is the count. The compost line is paid, and its run is twenty-one not discharged in twenty-one, and it has never been a measurement of the ground.
 
-The seventh column of the well house door is at fifty-six and is not read this morning, and is read on the thirtieth and on nothing else.
+The seventh column of the well house door is at fifty-six and is not read this morning, and is read on the thirtieth of this month and on the first of the next and on no other morning in the year.
 
 The ring of bare ground inside the eleven acres is bare in its eleventh year, carries no dimension on any page, and was not walked, measured, crossed, priced or explained. The ground on both sides of it is still going wrong and is going slower, and nobody in this holding has said that slower is better.
 

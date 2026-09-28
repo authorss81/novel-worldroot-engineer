@@ -82,10 +82,10 @@ A sheet in a drawer, face up, claims a corridor in the pan and is correct in eve
 
 The man of about seventy was fetched on the first of this month, which is where the count of twenty-four comes from, and he is not fetched today. The compost line is paid, and the run is twenty-one not discharged in twenty-one, and it has never once disagreed with the word in front of it, and it measures nothing.
 
-The seventh column of the well house door is at fifty-six and is not read this morning. It is read on the thirtieth of this month and on no other morning of the year. The six columns beside it are headed nothing and are going to stay that way this season.
+The seventh column of the well house door is at fifty-six and is not read this morning. It is read on the thirtieth of this month and on the first of the next and on no other morning in the year. The six columns beside it are headed nothing, and nothing this morning put a word at the top of one of them.
 
 The ring of bare ground inside the eleven acres is bare in its eleventh year and has no dimension on any page. It was not walked, not measured, not crossed, not priced and not explained this morning. A stake stands outside it. Nothing has gone into it, and the ground on both sides has gone back to about what it was on the second, slowly, and nobody in this holding has said that is better and nobody is going to say it is.
 
 The mark on that arm is four inches and branches twice. A reading is not a mark, a refusal is not a mark, a season in a wood is not a mark, and the four accounts of that arm stand at four and are unreconciled, and nothing said in that room this afternoon is a fifth of anything.
 
-The ground is going to go again, and everybody in this building knows the shape of the next two weeks better than any of them knew it a fortnight ago, and on the twenty-fifth of next month the fourth line of the rota will come round and go away empty for the fifty-ninth morning, and nobody is going to write that down this morning.
+The ground is going to go again, and everybody in this building knows the shape of the next two weeks better than any of them knew it a fortnight ago, and on the eighth of this month the fourth line of the rota will come round and go away empty for the fifty-seventh morning, and nobody is going to write that down this morning.

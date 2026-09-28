@@ -70,7 +70,6 @@ The offer is on the low board at the far end of that room, face up, and it is no
 
 The register form is on the middle table at seventy-one days, not filled and not refused, with nothing at the head of it.
 
-
 The man of about seventy was not sent for. Twenty-three is where that count stands and the twenty-fourth is four mornings off, on the first of a month. The compost line is paid and its run is twenty not discharged in twenty.
 
 On the door of the well house the seventh column is at fifty-four and gets read on the thirtieth and on the first and on no other morning of the year. It was not read this morning, and the six columns beside it are still headed nothing.
