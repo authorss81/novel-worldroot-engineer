@@ -12,7 +12,7 @@ The figure for the twenty-ninth was in the book that keeps the third launder bef
 
 Down five off yesterday. The hundred and forty-ninth figure of a series that has not come out at one figure twice since the first of it, and the fall went onto the falls, so the window the rises and the falls are counted in stands at a hundred and sixteen with sixty-three rises and fifty-three falls in it.
 
-A hundred and forty-seven days without a move in the aggregate of the four bodies of households, and the line saying so was written this morning for the hundred and forty-sixth of them out of a hundred and forty-eight. It is about four bodies of households and not about the launders, and the two aggregates have been kept apart in this holding for four years and are going to be kept apart after the man of about fifty is gone.
+A hundred and forty-seven days without a move in the aggregate of the four bodies of households, and the line saying so was written this morning for the hundred and forty-sixth of them out of a hundred and forty-eight. It is a line about four bodies of households and not about the launders, and the two aggregates have been kept apart in this holding for four years and are going to be kept apart after the man of about fifty is gone.
 
 At about the seventh hour the two day-minus rules were said out loud, one man to the first and another to the second and both before either number, to about four people and with nobody trusted with two. They stand at **five hundred and thirty-three days** and **five hundred and eighty**, forty-seven apart, and the drawer was not opened. Forty-five mornings out of seventy-three since the seventeenth of a month two months back.
 
@@ -62,4 +62,4 @@ The mark is four inches along the inside of the left forearm and it branches twi
 
 The use log stands at fifteen lines and the reason is not given again in a season. The count of sessions entered in this holding's book is five, and all five of them were entered before the thing they were entered for, and the four ruled lines under the two words this morning are empty. The man of about seventy is not fetched and the count of fetchings stays at twenty-two, and the next of them is on the first of a month, which is two mornings off this one and is not tomorrow.
 
-Nobody thanked anybody. The count of things said out loud in a yard in this holding and got wrong is five and did not move this afternoon, and this was a bank and a room and not a yard, and there has not been a yard in this holding since Sunday the thirteenth of this month.
+Nobody thanked anybody. The count of things said out loud in a yard in this holding and got wrong is five and did not move this afternoon, and this was a bank and a room and not a yard, and the last yard in this holding was on Monday the thirteenth of this month and there has not been one since.

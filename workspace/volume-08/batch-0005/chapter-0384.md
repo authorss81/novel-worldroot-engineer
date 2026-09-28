@@ -44,7 +44,7 @@ He was asked one question about the sheet, by the man of about fifty, and it was
 
 Nobody asked whose order it is. That question has been put in this holding four times in four years and has not been answered once, and it was not put this afternoon, and the man of about thirty-one of Silling had it in his mouth at about the sixth hour and did not put it, and the four who could see that he had it did not say so, and he took it out of the room with him the way he took the other thing out of the room on the twenty-fourth.
 
-The count of things said out loud in a yard in this holding and got wrong is five and did not move this afternoon, and this was a room with a door shut on it, and there has not been a yard in this holding since Sunday the thirteenth of this month. The count of times a man who keeps a book here has said a thing in a yard the engineer of record had not thought of is thirteen and did not move, and there was no yard this afternoon.
+The count of things said out loud in a yard in this holding and got wrong is five and did not move this afternoon, and this was a room with a door shut on it, and there has not been a yard in this holding since Monday the thirteenth of this month. The count of times a man who keeps a book here has said a thing in a yard the engineer of record had not thought of is thirteen and did not move, and there was no yard this afternoon.
 
 The man of about fifty did not write anything on the sheet. He asked the one question that is on the page above and said nothing else about the refusal, and about four people in that room had wanted him to say something about it and about four had not, and he is not a man who says what a room wants.
 
