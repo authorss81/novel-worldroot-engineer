@@ -2,7 +2,7 @@
 
 ## A Morning The Line Did Not Come Round
 
-The seventeenth of this month was a Wednesday, and the third line of the rota came round at the second hour and was worked, and the fourth line of the rota did not come round this morning. It came round on the fifteenth and the next time after the fifteenth is tomorrow, and a rota does not go up on a morning a line did not come round, and the fields above Marden did not wait this morning and will wait in the morning.
+The seventeenth of this month was a Wednesday, and the third line of the rota came round at the second hour and was worked, and the fourth line of the rota did not come round this morning. It came round on the fourteenth and the next time after the fourteenth is the eighteenth, and a rota does not go up on a morning a line did not come round, and the fields above Marden did not wait this morning and will wait on the eighteenth.
 
 The rota stands at sixty-five mornings in force, twenty-nine taken and thirty-six not, and all thirty-six of them are the fourth line, and twenty-nine and thirty-six are sixty-five. It did not move this morning and it is not going to move in the morning either, because the fourth line has come round on thirteen mornings in this season and has been the fourth line for eleven years and on all thirteen of them there has been nobody at the headland above Marden to do it. Nobody is blamed for a field that waited. A field that waited is a fact about a rota and not a fact about a man, and about four years ago a man in this holding was asked in a yard why a line sat empty and gave a reason that was not about the four of them who could have stood on it, and that reason went into a book and the line kept coming round.
 
