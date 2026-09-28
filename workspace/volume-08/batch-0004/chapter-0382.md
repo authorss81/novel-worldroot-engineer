@@ -38,7 +38,7 @@ The reader of this body said it first, and the reason came before the term, and 
 
 **"The term is partners. Said once, in this room, with the door shut, on the twenty-fifth of this month, and said in a room and not in a yard, because a word said in a yard is a thing somebody was talking about and a word said in a room in about nine people is a thing a person can be held to. And I am not going to improve on it and nobody is going to thank me for it and I am not going to say it again this season unless somebody asks me whether I said it, and then I am going to say yes.**"
 
-Nobody improved it. About four people in that room had been waiting a fortnight to hear one of the two of them say a plain word for a plain thing and about four had not, and the four that had been waiting were sorry about it and the four that had not were not, and neither of the two fours said anything at all, which was the correct thing for both of them to do, and which is also the correct thing for a yard, and this was a room.
+Nobody improved it. About four people in that room had been waiting a fortnight to hear one of the two of them say a plain word for a plain thing and about four had not, and the four that had been waiting were sorry about it afterwards, and the four that had not were not sorry at all, and neither of the two fours said anything whatever, which was the correct thing for both of them to do, and which is also the correct thing for a yard, and this was a room.
 
 Then Tova Reed said hers, and the reason came before the term, and the count of that in this holding's history is twenty-three, and it is her count and it is hers alone, and she was not thanked.
 

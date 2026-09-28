@@ -22,7 +22,7 @@ The window of the office's work is nineteen days off this morning and not tomorr
 
 About nine people were in the seed house from the second hour of the afternoon with the door shut, and the register form was on the middle table where it has been for thirty-one days, and it is a real document and it is correct and it is not an answer to anything nobody in that room has put.
 
-"Iona Vey," she said, before anybody asked her. "Of the Continuity Office. The office that sent the form on that table. I came up the road at my own cost and nobody sent for me, and I am in this building once."
+"Iona Vey," she said, before anybody asked her. "Of the Continuity Office. The office that sent the form on that table. I came up the road at my own cost and nobody sent for me, and I am not here about the two papers."
 
 The reader of this body did not put the form forward. He put his hand flat on the near side of it, the way the woman who keeps the seed house puts her hand flat on a sack, and said the two documents had not been put side by side in four years and were not going to be this afternoon, and gave the reason, and the reason was that a holding which lays two papers together to make them look like an answer has begun to think it knows what both mean.
 
@@ -32,7 +32,7 @@ She did not argue it. She set a folded sheet on the low board at the far end of 
 
 Nobody read it out. It got read twice, once by her and once by the man of about fifty, and both times it was the same fourteen lines, and about four people who could read had their eyes on the ninth, which is the one about there being no line to write on, and about four had not got there yet.
 
-It is correct in every particular and it lies about nothing at all, and the whole of the danger in it is in the correctness. Every office that has come up that road with paper to this holding has lied about nothing, and the two documents upstairs are correct and cannot be put down,
+It is correct in every particular and it lies about nothing at all, and the whole of the danger in it is in the correctness. Every office that has come up that road with paper to this holding has lied about nothing, and the two documents upstairs are correct and cannot be put down, and nobody here is going to put them down.
 
 She said four things and each was true and none was a lie and nobody improved any of them.
 
@@ -64,7 +64,7 @@ She said the day was hers to give, and that she would be here on the eighteenth 
 
 The sheet is on the low board at the far end of the room, face up, and it is in neither drawer and it is not on the middle table, and nobody decided those two things this afternoon. They are the result of a hand put flat on a table four feet off.
 
-The form with the four lines is in a drawer about four miles and a bit west of here, face up, its first line carrying one hundred and eighty-four hundredweight, the figure of the twenty-second return and not of the thirty-third, and the other three lines are empty and are going to stay empty. The corridor in the pan is named and open and is not a road. A bridge was run once for about nine minutes a month and four days back and its standing is in no book, and nobody here has an instrument that says whether it is on or off. The ring of bare ground inside the eleven acres is bare in its eleventh year and was not walked and not measured and not explained.
+The form with the four lines is in a drawer about four miles and a bit west of here, face up, its first line carrying one hundred and eighty-four hundredweight, the figure of the twenty-second return and not of the thirty-third, and the other three lines are empty and are going to stay empty. The corridor in the pan is named and open and is not a road. A bridge was run once for about nine minutes a month and five days back and its standing is in no book, and nobody here has an instrument that says whether it is on or off. The ring of bare ground inside the eleven acres is bare in its eleventh year and was not walked and not measured and not explained.
 
 The thing under a cloth at the end of the long table is living rootwood, warm, carrying a control sequence for one valve, and the count of people who have looked at it is two and did not move, and nobody asked the visitor about it and she did not offer it.
 
