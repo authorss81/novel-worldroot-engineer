@@ -1548,3 +1548,75 @@ He leaves and does not ask to be thanked and nobody thanks him. **The reader of 
 **Ch 392** — six frames became *last month*, landing on days 586, 582, 589, 590 and 583, and the yard date reads Monday. **The last line is still not an answer, the offer is still open, the bridge's standing is still entered as not being in that book, and the four ruled lines under the two words are still empty.** **2,914 words.**
 
 **THE FIGURES THIS PASS SUPERSEDES ARE WITHDRAWN AND NAMED: 26,565 for the batch, 139,464 for Volume 08 and 1,163,939 for the manuscript, together with the per-chapter list 2,951 / 2,943 / 2,940 / 2,961 / 3,000 / 2,978 / 2,905 / 2,958 / 2,929.** Batch 0004's own total is unchanged at 27,950 and its five weekday repairs were one word for one word, so nothing in the volume's arithmetic moved except Batch 0005's own length.
+
+---
+
+## VOLUME 08 CLOSE — THE FORTY-NINE CHAPTERS, WHAT EACH ONE WAS, AND WHAT THE CLOSE FOUND
+
+**THE CHAPTER SUMMARIES BELOW ARE THE CLOSE'S OWN, ONE PER CHAPTER, AND THEY ARE NOT A REPLACEMENT OF THE BATCH SUMMARIES AND NOT A REWRITE OF THEM. THEY ARE THE CLOSE'S READING. THE GOVERNING RECORD IS *VOLUME 08 - THE CLOSE* AT THE FOOT OF `state/continuity.md` AND THE FINDINGS ARE `reviews/volume-08.findings.md`. NOT ONE OF THE FORTY-NINE CHAPTERS WAS ALTERED BY THIS CLOSE.**
+
+**BATCH 0001 — CHAPTERS 344 TO 353, DAYS 557 TO 566, *The Register And The Standing*, 28,006 WORDS.**
+**Ch 344** — *A Morning The Line Did Not Come Round*. The volume opens on day 557, the thirty-seventh field of the rota, and the register form is read out whole and not filled, and a document read out twice is not a document that has been answered. **Finding 19: the `Entered` block at line 63 says the fourth line came round on the fifteenth, and the chapter's own repaired prose says the fourteenth.**
+**Ch 345** — *Thirty-Seven Fields*. No finding. The thirty-seven fields waited are on the page, and the standing stands at sixty-five in force, twenty-nine taken and thirty-six not, all thirty-six the fourth line.
+**Ch 346** — the fifth share at fifty-four days where a day count gives fifty-three. **Finding 12, at line 39.**
+**Ch 347** — the man who stood six feet inside the line of the nearest stems for twenty minutes came back with nothing. **Finding 20: the `Entered` block at line 67 says the fourth line *having come round yesterday*, and it came round two mornings back. Finding 29, with Ch 352: a word said once in a room *in the middle of last month* against a date the volume's own arithmetic gives.**
+**Ch 348** — the standing wood at the node reached at about the fourth hour of the afternoon on a Friday, *about a day and two miles of cart road before this room*, and the barrow at eleven journeys. **Finding 10, at line 17: five miles to the node against two.**
+**Ch 349** — the ten questions available to a room and not taken, said in a room and not in a yard.
+**Ch 350** — the man of the north row with the cough asked whether he will hold an end of a thing, and he puts a condition on the question instead, and the condition is written in a book in four lines with a question on the second of them and no answer and no place for an answer, and the page is open at the last page of the volume.
+**Ch 351** — **the shortest chapter of the volume at 2,701 words.** **Finding 11, at line 23: the paper from the office is *a fortnight old* and is at the end, and a day count gives eight days.**
+**Ch 352** — **the busiest chapter in the volume, with four findings.** Finding 13, with Ch 353: the book of four lines is in the wrong man's hands. Finding 14, at line 57 against line 43: a man half a mile off described as *a day's walk east*. Finding 15, at line 31 against Ch 347: a word used twice in ten days where one use is recorded as a use that had to be corrected inside the hour. Finding 29, with Ch 347: the same room and afternoon in two months.
+**Ch 353** — **three findings.** Finding 13, with Ch 352. Finding 16, one of four sites where the volume counts a named day two ways and the two ways disagree by one. Finding 27, at line 45: *in those **four mornings** a column on a door nine hundred yards off gets read twice*, and four mornings are not the volume's figure of a fifth of the seventh.
+**BATCH 0001 TOTAL 28,006 ACROSS TEN CHAPTERS. THE PRINTED MAXIMUM BEFORE THE LAST TWO BATCHES IS SEVEN HUNDRED AND FORTY-FOUR ON DAY 566, WHICH IS THE TWENTY-SIXTH OF THE SEVENTH AND NOT THE SIXTEENTH — THAT IS FINDING 1 — AND FORTY OF THE FORTY-NINE FIGURES IN THE VOLUME ARE ABOVE IT AND NINE BELOW IT AND NOT FORTY-SEVEN AND TWO.**
+
+**BATCH 0002 — CHAPTERS 354 TO 363, DAYS 567 TO 576, *The First Of A Month, And A Window That Opens*, 28,581 WORDS.**
+**Ch 354** — the seventh column of the well house door read on the thirtieth and again on the first, at fifty-one and then fifty-two, the fourth consecutive-day pair in four years, and the volume's longest chapter at 2,960 words.
+**Ch 355** — **no finding of its own. Finding 26, at line 61, with Ch 364: the seed house is *a day's walk and a half* off, and elsewhere it is a day's walk.**
+**Ch 356** — **Finding 23, at line 33: *I said the date on the eighteenth of this month and I said it a second time on the twenty-fourth*, and she is not in that chapter and did not say it twice.**
+**Ch 357** — the one British *colour* in the volume, at line 15.
+**Ch 358** — **Finding 8, at line 25: *about four miles of path between that building and a seed house*, and the same chapter puts that building nine hundred yards off.**
+**Ch 359** — **two findings.** Finding 3, at line 13: the run out of day 506 is framed as *since the twenty-sixth of last month*, and day 506 is the twenty-sixth of the fifth. Finding 24, at line 51: a man who has been in the holding **eleven days** where the volume's own arithmetic gives four years and eleven weeks.
+**Ch 360** — **Finding 22, at line 23: *it has been eleven days and it has no answer on it and no place for an answer*, where the chapter has it at twelve.**
+**Ch 361** — the eight places that carry a day and an hour as well as a season, and the sentence that says a schedule can be read for an order at all.
+**Ch 362** — the corridor named, and naming it not answering it, and the sheet in a drawer face up.
+**Ch 363** — **Finding 2: the last window shut on a Thursday, and the day it shut on is a Wednesday, and the window opened on the sixth of the seventh and shut sixteen mornings later.** The thirteen times a bookkeeper has said a thing in a yard the engineer of record had not thought of stands at thirteen and is not this chapter's finding.
+**BATCH 0002 TOTAL 28,581 ACROSS TEN CHAPTERS.**
+
+**BATCH 0003 — CHAPTERS 364 TO 373, DAYS 577 TO 586, *What The Wood Keeps*, AND IT IS THE VOLUME'S MAJOR TURN, 28,362 WORDS.**
+**Ch 364** — **three findings.** Finding 16, at line 63, one of the four sites where the volume counts a named day two ways and the two ways disagree by one. Finding 26, at line 55, with Ch 355: the seed house is a day's walk and a half off. Finding 30, at line 9: the four windows counted to the shut and not to the opening.
+**Ch 365** — the man sees his father alive for about a minute on a Thursday afternoon, and the comfort is enormous, and it is four days old before anybody notices what it is.
+**Ch 366** — he nearly chooses it over the actual record, twice, and says so in a room with the reason first, and says he is not a better man for having it.
+**Ch 367** — the disqualification, and it is a fact and not an opinion, and the list is pressure, temperature, season, and the order things happened in.
+**Ch 368** — **Finding 25, at line 38: the thirty-second return went in on a Wednesday, and this chapter's own day is a Tuesday.** The seventh wrong answer to who speaks for the eleven acres is on the page and is not a finding, because the page says none of the seven is an answer.
+**Ch 369** — the second half of the man who has been in the holding four years.
+**Ch 370** — **Finding 17: the man of about seventy is *twenty mornings off* his next fetching, and the interval is eighteen.**
+**Ch 371** — the ring named and not walked, and the third of the six `at the kerb` sites.
+**Ch 372** — the schedule read out of the wood in full, and the said-once sentence about a limit of the object, and the window shut on the eleventh.
+**Ch 373** — four windows counted to the shut on mornings after the window had opened, and the month's turn.
+**BATCH 0003 TOTAL 28,362 ACROSS TEN CHAPTERS. THE LONGEST CHAPTER OF THE VOLUME IS Ch 389 AT 2,963 WORDS AND THE SHORTEST IS Ch 351 AT 2,701, AND ALL FORTY-NINE ARE INSIDE THE BAND AND THE BAND WAS NOT WIDENED.**
+
+**BATCH 0004 — CHAPTERS 374 TO 383, DAYS 587 TO 596, *Terms, In Two Hands, And A Post With No Exit*, 27,950 WORDS.**
+**Ch 374** — Iona Vey in a room in person once, correct in every particular of what she offers. **Finding 5, at lines 33 and 61: the offer is a single `>` document block and is ten sentences, and the sentence about there being no line to write on is the eighth and not the ninth.**
+**Ch 375** — the nine acres came off on the twenty-ninth of the sixth and the key is not used, at twelve sites across the volume.
+**Ch 376** — *A Post With No Exit*. **Two findings.** Finding 5, at line 33: the count of sentences in the offer. Finding 6, at line 33: *she said it once in a room with the door shut in the sixth month*, and the same room and the same afternoon is placed on the seventeenth of the fifth.
+**Ch 377** — **Finding 4, at line 7: the second count of the rotation is framed as *since the middle of the sixth month*, and its anchor is the eighteenth of the seventh.**
+**Ch 378** — the five terms of Volume 07 declined as offered, nothing withdrawn, nothing improved.
+**Ch 379** — **Finding 28, at line 21: *a thing agreed in a room on Tuesday and used for the first time on Thursday*, and the two columns of the table on that page both fall on the same day.**
+**Ch 380** — the five terms of the twenty-first in two hands, and the third column ruled and empty, and the man of about fifty declining to write in it with the reason first.
+**Ch 381** — the independent disconnect settled in advance with four ruled lines under two words and nothing under those.
+**Ch 382** — her end closing without his leave, without warning and without a conversation, and him not asking her what the word is and not being told it.
+**Ch 383** — neither of them is the other's instrument, said once, and not improved, and not a promise.
+**BATCH 0004 TOTAL 27,950 ACROSS TEN CHAPTERS.**
+
+**BATCH 0005 — CHAPTERS 384 TO 392, DAYS 597 TO 605, *The Refusal, And The Stall*, 26,524 WORDS, AND IT CARRIES THE CLIMAX AND THE RESOLUTION TOGETHER, WITH ZERO `Entered` BLOCKS IN ALL NINE CHAPTERS, ON THE PRECEDENT OF VOLUME 07'S BATCH 0005.**
+**Ch 384** — a sheet comes up on the ordinary post with a sentence at the head of it where there was a list, and the sentence is true and the sentence has a subject in it, and the reader refuses the sentence and not the list, with the reason first. The man of about thirty-one of Silling had whose-order-it-is in his mouth and did not put it, and four people could see that he had it. **Two findings.** Finding 1, at line 15: the highest figure the series had reached before this month was seven hundred and forty-four *on the sixteenth of last month*, and the day is the twenty-sixth of the seventh. Finding 21, at line 7, with Chapters 387 and 391: the toe at the second of the ditch said to be three weeks where the volume's own arithmetic gives three and a half.
+**Ch 385** — the fifth session is entered before it happens, in prose and not as a block, with a purpose, a duration, a stop signal and an independent witness who was told a condition exists and not what it is.
+**Ch 386** — the reading is carried out at the node in an hour of light, and what comes back is the order the wood keeps, and Tova Reed comes out of the standing willow and turns her head to find the man who spoke to her, and what cannot be put on a side is not going to come back, and nobody said he was sorry and nobody touched her arm. The fetching interval here is printed as *twenty-nine mornings off this one* where the volume's own interval rule gives thirty.
+**Ch 387** — the assessment comes up on the ordinary post and is correct in every particular, and nobody in that room says it is a lie, and nobody is asked afterward whether the morning was right. **Finding 9, at lines 21 and 23: the well house door is *a quarter of a mile* off.**
+**Ch 388** — the man disqualifies himself out loud, with the reason first, and the standing of the bridge is entered as not being in that book, which is a statement about where a thing is not. **Two findings.** Finding 9, at lines 23 and 73: the reading was done *at about six hundred yards*, and the door is nine hundred. Finding 16, at line 41, one of the four sites where a named day is counted two ways.
+**Ch 389** — the page with three parts and a gap in it, and the schedule's day and hour on eight of nineteen places, and the sentence about contamination that is her office's and correct and not a lie. **Finding 18, at line 29: *seven readings of a column on a door* in four years, where the door was read four times and stands at fifty-four.**
+**Ch 390** — the proof is assembled in about nine people and is incomplete and credible, and the volume's answer in its own words is at line 53, and the last line is not an answer.
+**Ch 391** — the copy goes to four bodies of households, and the rise between the sixth and the seventh returns is **eleven** and not twelve, which is Finding 1 of § 3 and is the page. **Two findings of this pass.** Finding 16, at line 51, the fourth and last of the four sites where a named day is counted two ways. Finding 21, at line 5, with Chapters 384 and 387: the toe at the second of the ditch said to be three weeks.
+**Ch 392** — the last morning, day 605, and the last line, and the thirty-five threads where they stand, and an inventory and not a resolution.
+**BATCH 0005 TOTAL 26,524 ACROSS NINE CHAPTERS.**
+
+**THE FIGURES THIS CLOSE MEASURED, OFF THE CHAPTER FILES, INCLUDING THE HEADINGS, AFTER THE PROSE WAS WRITTEN AND UNCHANGED BY THIS CLOSE: 28,006 + 28,581 + 28,362 + 27,950 + 26,524 = 139,423 ACROSS FORTY-NINE CHAPTERS, AND 1,163,898 ACROSS ALL 392 CHAPTER FILES, BEING 1,024,475 ACROSS THE SEVEN CLOSED VOLUMES PLUS 139,423, WITH NO RESIDUAL. THE WITHDRAWN FORMS ARE NAMED BESIDE THESE AND MAY NOT BE BROUGHT BACK: 26,565 FOR THE BATCH, 139,464 FOR THE VOLUME AND 1,163,939 FOR THE MANUSCRIPT, TOGETHER WITH 2,951 / 2,943 / 2,940 / 2,961 / 3,000 / 2,978 / 2,905 / 2,958 / 2,929 FOR THE CHAPTERS THIS CLOSE SUPERSEDES.**
