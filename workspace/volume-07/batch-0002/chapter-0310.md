@@ -2,7 +2,7 @@
 
 ## The Eleventh Shuts
 
-The eleventh of this month was a Tuesday and the third line of the rota came round at the second hour and was worked, and the figure for the eleventh went into the book that keeps the third launder at about the eighth hour and was read back by the man of about fifty in the other book, and the two are the same.
+The eleventh of this month was a Tuesday and the third line of the rota came round at the second hour and was worked, and the fen entered that the rota stands at **fifty-six mornings in force, twenty-nine taken and twenty-seven not**, and that twenty-nine and twenty-seven are fifty-six, and that it is the same standing it stood at on the eighth of this month and has not moved on any of the three mornings since, and that a rota does not go up on a morning a line did not come round, and the figure for the eleventh went into the book that keeps the third launder at about the eighth hour and was read back by the man of about fifty in the other book, and the two are the same.
 
 **Six hundred and sixty-one hundredweight.**
 
@@ -48,7 +48,7 @@ And then the man of about fifty said one thing, and he gave the reason first, an
 
 And then the two last things of the eleventh of this month are his and they are in his own book and the fen entered both and improved neither.
 
-**THE WINDOW OF THE OFFICE'S WORK SHUT THIS MORNING, BEING THE SIXTH OF SIX DAYS, THE SIXTH, THE SEVENTH, THE EIGHTH, THE NINTH, THE TENTH AND THE ELEVENTH, AND NO WORK WAS CARRIED OUT OF IT IN ANY OF THEM, AND NO WINDOW HAS EVER BEEN EXTENDED IN A SEASON, AND A PERSON APPOINTED TO BE PRESENT ON THAT LINE WAS IN THE ROOM ON THE MORNING IT SHUT AND IS NOT NAMED. THE SHEET THAT CAME DOWN THE ROAD IS ON A TABLE AND THE BACK OF IT IS STILL BLANK, AND THE LINE THE QUESTION IS ON IS STILL ENTERED AND NOT FILLED, AND NOBODY WROTE ON IT.**
+**THE WINDOW OF THE OFFICE'S WORK SHUT THIS MORNING, BEING SIX DAYS, THE SIXTH, THE SEVENTH, THE EIGHTH, THE NINTH, THE TENTH AND THE ELEVENTH, AND NO WORK WAS CARRIED OUT OF IT IN ANY OF THEM, AND NO WINDOW HAS EVER BEEN EXTENDED IN A SEASON, AND A PERSON APPOINTED TO BE PRESENT ON THAT LINE WAS IN THE ROOM ON THE MORNING IT SHUT AND IS NOT NAMED. THE SHEET THAT CAME DOWN THE ROAD IS ON A TABLE AND THE BACK OF IT IS STILL BLANK, AND THE LINE THE QUESTION IS ON IS STILL ENTERED AND NOT FILLED, AND NOBODY WROTE ON IT.**
 
 **AND THE FIGURE FOR THIS MORNING IS SIX HUNDRED AND SIXTY-ONE, THE SEVENTY-FIRST IN A SERIES THAT HAS NOT REPEATED ITSELF SINCE THE FIRST, AND THE KEY IS IN A HAND AND NOT IN A LOCK, AND THE VALVE WAS NOT OPENED, AND NOBODY THANKED ANYBODY.**
 

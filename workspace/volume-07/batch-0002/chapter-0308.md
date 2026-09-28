@@ -14,7 +14,7 @@ And the fen entered what the day was, because a Sunday inside a window is a diff
 
 And at about the fourth hour of the morning the reader of this body went out with Tova Reed, and the two of them went round and not along, and the fen entered that the route did not go through the ninety yards in the middle of the eleven hundred, and that nobody has spoken for that ground and that he did not ask to go through it and did not go, and that a woman who keeps a route for eleven days out of twenty knows where the ground is that has not been spoken for and did not have to be asked.
 
-For about a minute there was nothing in the room, and the fen entered what the silence was made of, which was two people walking a boundary and both of them knowing which side of it they were on.
+For about a minute there was nothing said on the path, and the fen entered what the silence was made of, which was two people walking a boundary and both of them knowing which side of it they were on.
 
 And they were on the Thornwild edge at about the sixth hour of the afternoon and they were back at about the seventh hour of the evening, and the fen entered what they saw and entered the whole of it and improved none of it.
 
