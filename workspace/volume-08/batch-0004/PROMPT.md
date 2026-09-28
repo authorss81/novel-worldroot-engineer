@@ -151,25 +151,51 @@ The second line comes round and is worked, and **the sentence that says they are
 - **ASCII and straight marks only. Zero non-ASCII glyphs in all ten files. No curly quotation mark, no curly apostrophe, no em dash, no en dash. US spelling: *favor*, not *favour*; *license*, not *licence*; *color*, not *colour*; *gray*, not *grey*. No trailing whitespace, no two consecutive blank lines, every file ends in a newline, and a file that has picked up a stray triple-quote at the foot is cut before any figure is reported.**
 - **2,600 to 3,050 words a chapter and 26,000 to 29,000 for the batch, and the target inside that band is 2,750-2,900 a chapter, which is 27,500-29,000 for ten chapters and inside both numbers. Do not pad and do not widen the band. Report what was actually measured, file by file, with `wc -w` INCLUDING THE HEADINGS, after the prose is final.**
 - **The refrain, and this is a rule and not a preference.** The family is the *Nobody said anything and the fen entered ...* connective, of which the banned bare sentence is one member. **THE BANNED BARE SENTENCE *Nobody said anything and the fen entered that nobody said anything.* IS BANNED OUTRIGHT IN THIS VOLUME, EMBEDDED OR STANDING.** The cap is three openings in a chapter and a maximum run of two, and **two is the observed ceiling under either test, and the debt on that family is NIL and it may not be re-raised. BATCH 0001 CARRIES IT TWICE IN ALL TEN OF ITS CHAPTERS, BATCH 0002 CARRIES IT ZERO IN ALL TEN, AND BATCH 0003 CARRIES IT ZERO IN ALL TEN AND TWO OPENINGS OF THE WIDER FAMILY IN TWO DIFFERENT CHAPTERS, SO THE FAMILY IS LIGHT AND THE CAP IS HEADROOM AND NOT A MEASURED CEILING.** Where a chapter needs a silence the sentence is kept and **the clause that follows it must say what the silence was made of.** The reason-first frames that carry *the count of that in this holding's history is* are a different thing, are required, and are counted separately.
-- **NO PARAGRAPH IN VOLUME 08 MAY BE BYTE-IDENTICAL TO ANY OTHER PARAGRAPH IN VOLUME 08, AND THE CHECK IS BY SCRIPT AND NOT BY EYE. The first command must be pointed at all three batches and not at this one, because a paragraph repeated across two batches is still a defect. THE FIRST COMMAND MUST PRINT ZERO DUPLICATED STRINGS. THE SECOND AND THE THIRD MUST BOTH PRINT NOTHING. THE THIRD IS SCOPED TO VOLUME 08 AND NOT TO THE WHOLE MANUSCRIPT, BECAUSE CHECK THREE DOES NOT RETURN ZERO ON THE WHOLE MANUSCRIPT AND NEVER HAS.** Run all three of these before you report the batch done, from the repository root:
+- **NO TWO PARAGRAPHS IN VOLUME 08 MAY BE THE SAME PARAGRAPH WITH THE FIGURES CHANGED. THE CHECK IS BY SCRIPT AND NOT BY EYE, AND THE SCRIPT IS THE ONLY THING STANDING BETWEEN THIS BATCH AND THE FAILURE BATCH 0003 COMMITTED. THE FIRST COMMAND MUST BE POINTED AT ALL THREE BATCHES AND NOT AT THIS ONE, BECAUSE A PARAGRAPH REPEATED ACROSS TWO BATCHES IS STILL A DEFECT.**
 
-```
-python3 - <<'PY'
-import glob,re,collections
-paras=[]
-for f in sorted(glob.glob('workspace/volume-08/batch-*/chapter-*.md')):
-    txt=open(f).read()
-    for p in re.split(r'\n\s*\n', txt):
-        p=p.strip()
-        if p: paras.append((f,p))
-c=collections.Counter(p for _,p in paras)
-dups={p:n for p,n in c.items() if n>1}
-print("paragraphs:",len(paras),"| duplicated strings:",len(dups),"| surplus copies:",sum(n-1 for n in dups.values()))
-for p,n in sorted(dups.items(), key=lambda x:-x[1])[:10]: print(n,p[:90])
-PY
-grep -rn "Nobody said anything and the fen entered that nobody said anything" workspace/volume-08/batch-*/chapter-*.md
-LC_ALL=C grep -rn '[^ -~]' workspace/volume-08/batch-*/chapter-*.md
-```
+  **WHY THE OLD CHECK IS GONE, AND THIS IS NOT A MATTER OF TASTE.** The check Batch 0004 inherited tested *byte* identity. A writer who repeats a paragraph and changes one numeral does not trip it. **THAT CHECK REPORTED `duplicated strings: 0` ON A BATCH THAT CONTAINED SIXTY-NINE REPEATED PARAGRAPHS AND ABOUT FIVE THOUSAND WORDS OF THEM.** Nine of the ten chapters of Batch 0003 carried the same forty-four-word sentence with the ordinal changed. Ten of the ten carried the same fifty-six-word sentence about the aggregate with the count changed. Five carried the same hundred-and-seventeen-word paragraph about a field that waited. **THE REPAIR KEPT EVERY FIGURE AND REWROTE EVERY ONE OF THOSE PARAGRAPHS, AND THE MEASUREMENT BELOW IS WHAT IT LOOKS LIKE AFTERWARDS: ZERO.** A GATE THAT CANNOT FAIL IS NOT A GATE, AND THE FIGURES IN A CHAPTER ARE NOT A REASON FOR THE SENTENCES AROUND THEM TO BE THE SAME SENTENCE.
+
+  **THE TEST IS: FOR EVERY PAIR OF PARAGRAPHS OF THIRTY WORDS OR MORE IN VOLUME 08, IF THE TWO SHARE EIGHT OR MORE WORDS IN THE SAME ORDER AND AT LEAST EIGHTY-FIVE PERCENT OF EITHER ONE, THAT IS A DEFECT AND ONE OF THEM IS TO BE REWRITTEN.** Eight-five per cent of a paragraph is a paraphrase. A paraphrase of a standing count is still a paraphrase of a standing count. **THE `Entered` BLOCKS ARE EXEMPT AND ONLY THEY, BECAUSE A BLOCK IS A DOCUMENT AND A DOCUMENT RECITES; THE MEASUREMENT EXCLUDES THEM DELIBERATELY AND SAYS SO.** What a rewrite may NOT do is change a figure. **THE FIGURES ON THE PAGE AFTER A REWRITE ARE THE FIGURES ON THE PAGE BEFORE IT, AND A REWRITE THAT ALTERS A COUNT HAS GONE WRONG SOMEWHERE ELSE AND NOT IN THE PARAGRAPH.**
+
+  **AND NOW THE HONEST PART, WHICH IS THE PART THAT MATTERS, WHICH IS THAT THE INHERITED FIGURE IS NOT ZERO AND A WRITER WHO HUNTS FOR `0` IN THE TOTAL WILL CONCLUDE THE GATE IS BROKEN.** **BATCH 0003 IS CLEAN: ZERO SURPLUS COPIES WITHIN IT AND ZERO AGAINST BATCHES 0001 AND 0002, AFTER SIXTY-NINE PARAGRAPHS WERE REWRITTEN AND EVERY FIGURE IN ALL TEN CHAPTERS WAS CHECKED AND NONE WAS LOST. BATCHES 0001 AND 0002 ARE NOT, AND THEY ARE NOT THIS BATCH'S TO FIX. BETWEEN THEM THEY CARRY SOMEWHERE NEAR FIVE HUNDRED NEAR-DUPLICATE PAIRS.** The command below therefore prints the total for the record and then prints **THE ONE NUMBER THAT MUST BE ZERO**, which is the number of near-duplicate pairs that involve at least one file of this batch:
+
+  ```
+  python3 - <<'PY'
+  import glob,re,difflib
+  units=[]
+  for f in sorted(glob.glob('workspace/volume-08/batch-*/chapter-*.md')):
+      for i,p in enumerate(re.split(r'\n\s*\n', open(f).read())):
+          p=p.strip()
+          if not p or p.startswith('#') or p.startswith('>') or len(p.split())<30:
+              continue
+          units.append((f,i+1,p))
+  pairs=[]
+  for i in range(len(units)):
+      for j in range(i+1,len(units)):
+          a,b=units[i][2].split(),units[j][2].split()
+          if not (0.75*len(a)<=len(b)<=1.25*len(a)): continue
+          if difflib.SequenceMatcher(None,a,b,autojunk=False).ratio()>=0.85:
+              pairs.append((units[i],units[j]))
+  mine=[p for p in pairs if 'batch-0004' in p[0][0] or 'batch-0004' in p[1][0]]
+  print("total near-duplicate pairs in volume 08:",len(pairs),"(inherited debt, batches 0001 and 0002)")
+  print("PAIRS INVOLVING THIS BATCH:",len(mine),"<- this number must be 0")
+  for x,y in mine:
+      print("  ---",x[0].split('/')[-1]+"#"+str(x[1]),"vs",y[0].split('/')[-1]+"#"+str(y[1]))
+      print("  ",x[2][:110])
+  PY
+  ```
+
+  **A WRITER WHO FINISHES WITH A NON-ZERO ON THE SECOND LINE HAS WRITTEN TEN CHAPTERS THAT REPEAT SOMEBODY ELSE, INCLUDING SOMEBODY IN AN EARLIER BATCH, AND HAS TO REWRITE UNTIL IT IS ZERO. A WRITER WHO FINISHES WITH A NON-ZERO ON THE FIRST LINE HAS INHERITED IT AND MUST NOT REPAIR IT AND MUST SAY SO IN THE REPORT.**
+
+  **THE SECOND AND THIRD COMMANDS BELOW MUST BOTH PRINT NOTHING, AND THE THIRD IS SCOPED TO VOLUME 08 AND NOT TO THE WHOLE MANUSCRIPT, BECAUSE CHECK THREE DOES NOT RETURN ZERO ON THE WHOLE MANUSCRIPT AND NEVER HAS.**
+
+  ```
+  grep -rn "Nobody said anything and the fen entered that nobody said anything" workspace/volume-08/batch-*/chapter-*.md
+  LC_ALL=C grep -rn '[^ -~]' workspace/volume-08/batch-*/chapter-*.md
+  ```
+
+  **AND ONE MORE, WHICH IS THE HONESTY CHECK AND NOT A STYLE CHECK, BECAUSE A BATCH THAT RECITES ITS OWN FIGURES AT THE CLOSE OF EVERY CHAPTER IS TELLING THE READER SOMETHING IT HAS ALREADY TOLD THEM. THE FIGURE FOR THE DAY, THE COUNT OF THE ROTA, THE TWO DAY-MINUS BOARDS AND THE AGGREGATE ARE EACH STATED IN THE PROSE AND THEN STATED AGAIN IN THE BLOCK, AND THAT IS ONE STATEMENT TOO MANY. THE BLOCK ENTERS WHAT THE DAY WAS. IT DOES NOT RE-ENTER THE FIGURES THE CHAPTER HAS ALREADY PUT ON THE PAGE.**
+
 
 - **Zero instances of `this batch`, bare *batch*, `this chapter`, `this volume`, and bare *chapter* in body prose.** The single *Chapter* permitted in a file is its own `# Chapter N` heading. **THE WORD *volume* MAY NOT APPEAR IN ANY OF THE TEN FILES AT ALL.** *This book* is the holding's own book on the middle table of the seed house and has a referent and is allowed. *This season* is a real frame in this world and is the legal replacement for a count of uses.
 - **The word *seat* may not appear anywhere. *nest* may not appear as a category; the substring inside *plainest*, *honest* and *dishonest* is not the word. *Brinewake* is absent, uncorroborated and spent. `kerb` is the noun the fen uses and is NOT to be normalized.**

@@ -6,15 +6,15 @@ The ninth of this month was a Thursday, and the first line of the rota came roun
 
 The window of the office's work is two days off this morning and not tomorrow. It is six days and not five and not seven, it shuts on the eleventh whether anybody has used it or not, and no work is ever carried out of it, and about four people in this holding have been treating the six days as a deadline since the sixth and about four have not, and a window is not a deadline.
 
-The figure for the ninth went into the book that keeps the third launder at about the eighth hour and was read back by the man of about fifty out of the other book with the frayed corner, and the two are the same.
+About the eighth hour the ninth went into the book that keeps the third launder, and the man of about fifty had it read back out of the other book with the frayed corner before either of them was put away, and the two are the same.
 
 **Seven hundred and sixty-three hundredweight.**
 
-That is the hundred and twenty-ninth figure in a series that has not repeated one figure since the first, and it has fallen. In ninety-six days the series has risen fifty-three times and fallen forty-three times, and those two add to ninety-six. It came down off Wednesday by five, and the six of them had been standing in a ditch since the second hour and about four of them could not have told a five from a two.
+Down five off Wednesday, and the six of them had been standing in a ditch since the second hour. It is the hundred and twenty-ninth figure of a series that has not come to the same figure twice since the first of it, and it has fallen, and of the ninety-six days of it fifty-three were rises and forty-three were falls.
 
-The aggregate of the four bodies of households has not moved in one hundred and twenty-seven days, the sentence saying so having been written this morning for the one hundred and twenty-sixth morning out of one hundred and twenty-eight. That sentence is not the aggregate of the four launders and the two have never been added.
+The aggregate of the four bodies of households is where it was a hundred and twenty-seven days ago, and the sentence for it is on the page this morning for the hundred and twenty-sixth of them out of a hundred and twenty-eight. It is a sentence about four bodies of households. The four launders are counted somewhere else entirely and have never been added to it and are not going to be.
 
-And at about the seventh hour of the morning the day-minus rules were read out loud before either number, in about four people, the way they are read, one saying the first and the other saying the second so that neither of them has to be trusted with both. The boards stand at **five hundred and thirteen days** and **five hundred and sixty**, forty-seven days apart. The drawer was not opened and is not to be. He has read them out loud on thirty-five mornings out of the fifty-three since he started again on the seventeenth of a month two months back.
+The two day-minus rules were said out loud at about the seventh hour of the morning and before either number, one man taking the first board and the other taking the second, so that neither of them is trusted with both. They stand at **five hundred and thirteen days** and **five hundred and sixty**. The drawer is not opened. That is thirty-five mornings out of fifty-three counted from the seventeenth of a month two months back.
 
 About nine people came up the five miles of cart road at about the second hour of the afternoon, and the light was already off the west end of the standing wood when they got there, which is the whole of the reason there is an hour in that wood and not a morning, and the ring of bare ground inside the eleven acres is bare in its eleventh year and was not walked and not measured and not crossed and not priced by walking it and not explained, and it has no dimension on any page and not one of the nine put a foot inside it.
 
@@ -28,9 +28,9 @@ The man of about fifty stood on the bank above the channel at about nine feet of
 
 Tova Reed was at the other end of the hour and she had come up the road on the morning of the day and had not been sent for and had not asked to be fetched, and about four people in that wood had worked out that she had come a day and a half of cart road for an hour and about four had not, and nobody in that wood asked her anything.
 
-The man of about thirty-one of Silling was on the near end of the channel with a rake and he stayed on the near end. He has a question on a page in a book of the size of a hand and it has been seventeen days and it has no answer on it and no place for an answer, and nobody asked him about it this afternoon, and the book was not in that wood and nobody has said where it was.
+He had the near end of the channel and a rake in it and he stayed on the near end. There is a question on a page in a book the size of his hand. It has been seventeen days, it has no answer on it, and it has no place for an answer. Nobody asked him about it this afternoon. The book was not in that wood and nobody has said where it was.
 
-And then the man of about thirty-one of Silling said one thing, and he gave the reason first, and the count of that in this holding's history is thirty-six, and it is his own, and he was not thanked and did not ask to be.
+One thing was said there by the man of about thirty-one of Silling, and he put the reason for saying it first, which is the practice in this holding and is not a practice he learned here. Thirty-six is the count of it in this holding's history. It is his own count, nobody has thanked him for it, and he was not asking to be.
 
 **"I am going to say the reason I am not going to ask anybody in that wood what came back, and the reason is that I have got a question on a page in a book of my own and I wrote it in a fortnight when I did not know what I was asking, and a man who opens a page he wrote himself and finds out he does not know what he is asking does not get it back by asking somebody else in a wood.**"
 

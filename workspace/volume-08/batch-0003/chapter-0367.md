@@ -6,19 +6,19 @@ The tenth of this month was a Friday, and the second line of the rota came round
 
 The window of the office's work is one morning off this morning. It is six days and not five and not seven, and it shuts on the eleventh whether anybody has used it or not, and it is not extended in a season and no window has ever been extended in a season in the four years this holding has kept a book, and no work is ever carried out of it, and about four people in this holding have been treating the six days as a deadline and about four have not, and a deadline is a thing somebody has to do inside and there is nobody in this holding who has to do anything inside those six days.
 
-The figure for the tenth went into the book that keeps the third launder at about the eighth hour and was read back by the man of about fifty out of the other book with the frayed corner, and the two are the same.
+The tenth went into the book that keeps the third launder at about the eighth hour. The man of about fifty read it back out of the other book with the frayed corner, in the ordinary voice, and the two are the same.
 
 **Seven hundred and seventy-two hundredweight.**
 
-That is the hundred and thirtieth figure in a series that has not repeated one figure since the first, and it has risen. In ninety-seven days the series has risen fifty-four times and fallen forty-three times, and those two add to ninety-seven. It came up off Thursday by nine, and the four of them had been on the same hundred yards of wall since the second hour and about four of them could not have told a nine from a five.
+Up nine off Thursday, and the four of them had been on the same hundred yards of wall since the second hour. It has risen, and it is the hundred and thirtieth figure of a series that has not come to the same figure twice since the first of it, and of its ninety-seven days fifty-four have been rises and forty-three have been falls, and about four of those four could not have told a nine from a five.
 
-The aggregate of the four bodies of households has not moved in one hundred and twenty-eight days, the sentence saying so having been written this morning for the one hundred and twenty-seventh morning out of one hundred and twenty-nine. That sentence is not the aggregate of the four launders and the two have never been added.
+It is a hundred and twenty-eight days since the aggregate of the four bodies of households moved, and the sentence saying so is on the page for the hundred and twenty-seventh of them out of a hundred and twenty-nine. Nobody in this holding has proposed putting that figure under the launders. It is a different figure and it has never been added to anything.
 
 And at about the seventh hour of the morning the day-minus rules were not read out loud. The pair stands at **five hundred and fourteen days** and **five hundred and sixty-one**, forty-seven days apart. The drawer was not opened and is not to be. The run does not move and this page carries no figure for it, and it has been done on three mornings now out of the last five, and a man who reads a pair out loud on some mornings and not on others is a man with a habit and a habit is not a measurement.
 
 About nine people were in the seed house from about the fourth hour of the afternoon. The register form was on the middle table where it has been for twenty-four days, the drawer was shut, and the woman who keeps the seed house had gone out to the cart shed about the second hour and had come back in with cold hands and had put them on the seed sacks for a while before she did anything else, and about four people in that room had noticed and about four had not.
 
-And then the reader of this body said one thing, and he gave the reason first, and the count of that in this holding's history is one hundred and sixty-four, and it is his own, and he was not thanked and did not ask to be.
+The reader of this body said one thing in that room, and the reason for it came first, which is the whole of the practice, and the count of that in this holding's history is a hundred and sixty-four. It is a count of his own keeping and nobody else keeps it. He was not thanked and did not ask to be.
 
 **"I said a thing out loud in a wood on Thursday afternoon and about four of the nine of you heard it and about four did not, and I am going to say it again in a room with the door shut, and I am giving the reason I am going to say it again before I say it, and the reason is that a line in a book with a man in it on it and no account of what kind of man is a thing that becomes a story by the third winter, and I have watched this holding do that to a sentence once and I am not going to let it do it to me.**"
 
@@ -36,9 +36,9 @@ The copy of the ledger came down off the shelf about the fifth hour and went bac
 
 The drawer is four feet from the middle table along the same board and it is shut, and in it are the form with four lines with one hundred and eighty-four hundredweight on the first of them, and a sheet of district paper with four columns and a heading that claims a corridor and is correct in every particular of it, and an order signed on the third of last month by a warden which is valid and which opened nothing, and a memorandum dated the twentieth of a month three months back with eleven lines on it, and six other documents. Any two of them set side by side are a different document from the one it is set beside, and nobody in this holding has ever put two of them together, and the eleventh line of that memorandum is not paraphrased and is not improved on and is not going to be quoted a second time in this building.
 
-The man of about thirty-one of Silling was at the end of the table for the whole of it and did not open the book of his own, and the four lines in it are still four lines with a question on the second of them and no answer and no place for an answer, and the page on it is eighteen days old this afternoon, and nobody in that room has asked him about it in eighteen days and nobody is going to.
+He was at the end of the table for the whole of it and did not open the book of his own. The four lines in it are four lines with a question on the second of them, no answer and no place for an answer. That page is eighteen days old this afternoon, and nobody in that room has asked him about it in eighteen days and nobody is going to.
 
-The man of about fifty said one thing and he did not give the reason first, and the count of that in this holding's history is ninety-nine and did not move this afternoon and is ninety-nine.
+He said one thing and did not give the reason first. That count stands at ninety-nine, did not move this afternoon, and is ninety-nine.
 
 **"I keep four books and I have entered a summer, and I have entered an hour, and I have entered a headache and a quarter of an hour, and I am not going to enter a man. If a person brings me a man I can put in a column I will do it, and I have not got one, and I would rather be told on a Tuesday that I have not got one than find it out in about four years from a page somebody else wrote.**"
 

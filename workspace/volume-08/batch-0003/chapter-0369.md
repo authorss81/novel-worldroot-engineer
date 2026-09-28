@@ -2,19 +2,19 @@
 
 ## Four Days Old
 
-The twelfth of this month was a Sunday, and the fourth line of the rota came round at the second hour, and there was nobody at the headland above Marden, and the fields above Marden waited. The number is forty-three, and all forty-three of them are the fourth line, and the rota stands at seventy-two mornings in force, twenty-nine taken and forty-three not, and twenty-nine and forty-three are seventy-two. Twenty-nine taken did not move, and it has not moved on any morning in this season, and nobody is blamed for a field that waited.
+Nothing was on the fourth line on Sunday, the twelfth of this month, when it came round at the second hour, and the fields above Marden waited, and nobody was at the headland above Marden. Forty-three of them, every one of them the fourth line. The rota stands at seventy-two mornings in force, twenty-nine taken and forty-three not, and the two of those go to seventy-two. Twenty-nine taken did not move, and has not moved on any morning of this season, and nobody is blamed for a field that waited.
 
-A field that waited is a fact about a rota and not a fact about a man. That sentence is on the page of this holding's book for the seventh time in a fortnight and it is not going to be improved, and the reason it is said every time the fourth line comes round is not that anybody has begun to doubt it. It is said because a man who keeps a number going up by one on a morning when nobody has done anything is a man who will be asked about it in about four years, and the answer to that question has to be somewhere in the book and not in his mouth.
+A field that waited is a fact about a rota and not a fact about a man. It is on the page again this morning, for the seventh time in a fortnight, and nobody improved it when it was said. The reason it goes in every time the fourth line comes round is not suspicion of anybody. It is that a count which rises by one on a morning when nobody did anything will be asked about in about four years, and the answer has to be in the book and not in the mouth of whoever is holding the book.
 
-That is the twentieth morning the fourth line has come round since it started coming round on the twenty-sixth of a month three months back, and it is the seventh of them since the eighteenth of last month, and both of those are true and neither of them is the other one, and the man of about fifty enters both of them and does not give a second reason for entering either.
+That is the twentieth morning the fourth line has come round since the twenty-sixth of a month three months back. It is also the seventh of them since the eighteenth of last month, and the man of about fifty writes both, in that order, on the same line, and he has never given a reason for the second one either.
 
-The figure for the twelfth went into the book that keeps the third launder at about the eighth hour and was read back by the man of about fifty out of the other book with the frayed corner, and the two are the same.
+It went in at about the eighth hour, in the book that keeps the third launder, and the man of about fifty read it back out of the other book with the frayed corner, and the two are the same.
 
 **Seven hundred and seventy-six hundredweight.**
 
 That is the hundred and thirty-second figure in a series that has not repeated one figure since the first, and it has risen. In ninety-nine days the series has risen fifty-five times and fallen forty-four times, and those two add to ninety-nine. It came up off Saturday by nine, and about four people in this holding spent Saturday in a house at the north end of a village four miles off on account of a woman of about forty-four who is on the cart road and about four of them came back without saying what it was about.
 
-The aggregate of the four bodies of households has not moved in one hundred and thirty days, the sentence saying so having been written this morning for the one hundred and twenty-ninth morning out of one hundred and thirty-one. That sentence is not the aggregate of the four launders and the two have never been added.
+A hundred and thirty days, then, without a move in the aggregate of the four bodies of households, and the sentence went in this morning for the hundred and twenty-ninth of them out of a hundred and thirty-one. The aggregate of the four bodies of households is what it is and the aggregate of the launders is what it is, and no one in this holding has ever put one under the other.
 
 And at about the seventh hour of the morning the day-minus rules were not read out loud. The pair stands at **five hundred and sixteen days** and **five hundred and sixty-three**, forty-seven days apart. The drawer was not opened and is not to be. The run does not move and this page carries no figure for it, and the man of about fifty has read that pair out loud on four mornings of the last six and has not on two, and neither of those two numbers is a measurement of anything.
 
@@ -22,11 +22,11 @@ The wind was off the north-east and stayed off it and about four people in this 
 
 There is no window in this morning. The window of the office's work shut yesterday on the eleventh, six days and not five and not seven, and the next one opens on the sixth of the next month and shuts on the eleventh of that one, and nothing is ever carried out of either, and a holding that has been busy about six days that were never on its table is now going to be busy about the fact that there are no six days at all until the sixth.
 
-About nine people were in the seed house from about the fourth hour of the afternoon. The register form was on the middle table where it has been for twenty-six days, the drawer was shut, and the light came in low off the south wall and lay along the table and across the five things on it.
+About nine people in the seed house from about the fourth hour of the afternoon, the register form on the middle table where it has been for twenty-six days and the drawer shut. The light came in low off the south wall, lay along the table, and lay across the five things on it.
 
 The copy of the ledger came down off the shelf about the fifth hour and went back on it about half an hour later, and in between it was on the end of the table and nobody turned it round, and the man of about thirty-one of Silling was at the end of the table with his hat in his hand for the whole of it and did not open the book of his own, and the four lines in it are still four lines with a question on the second of them and no answer and no place for an answer, and the page on it is twenty days old this afternoon, and nobody in that room has asked him about it in twenty days.
 
-And then the reader of this body said one thing, and he gave the reason first, and the count of that in this holding's history is one hundred and sixty-five, and it is his own, and he was not thanked and did not ask to be.
+The reader of this body said one thing in that room and the reason for it was said first, and that is the hundred and sixty-fifth of them. It is a count of his own keeping and nobody else keeps it, and he was not thanked and did not ask to be.
 
 **"There is a thing in this building that has been in it four days and nobody in this room has said what it is, and I am going to say the reason I am going to say it before I say it, and the reason is that this holding's book is a book of what happened, and what happened includes a man choosing a thing he wanted over a thing he could check, and a book with only the choices in it that came out right is a book about a person and not about a man.**"
 

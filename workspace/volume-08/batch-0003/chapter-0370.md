@@ -4,15 +4,15 @@
 
 The thirteenth of this month was a Monday, and the first line of the rota came round at the second hour and was worked, and the boundary ditch and the two culverts took about six people until about the fourth hour. The near culvert was clear for the thirteenth morning running and the far one was about half full, and the six of them put four barrow-loads out of the far one and put them on the far shoulder where they have been put every morning this month.
 
-The figure for the thirteenth went into the book that keeps the third launder at about the eighth hour and was read back by the man of about fifty out of the other book with the frayed corner, and the two are the same.
+About the eighth hour, the thirteenth, into the book that keeps the third launder. The man of about fifty read it back out of the other book with the frayed corner, and the two are the same.
 
 **Seven hundred and seventy-one hundredweight.**
 
-That is the hundred and thirty-third figure in a series that has not repeated one figure since the first, and it has fallen. In one hundred days the series has risen fifty-five times and fallen forty-five times, and those two add to one hundred. It came down off Sunday by five, and the six of them had spent the morning taking leaf out of a culvert and about four of them had no way of telling a five from a two.
+It has fallen, and it is the hundred and thirty-third figure of a series that has not come to the same figure twice since the first. One hundred days of it, fifty-five rises and forty-five falls. Down five off Sunday, on six people who had spent the morning taking leaf out of a culvert, about four of them with no way of telling a five from a two.
 
-The aggregate of the four bodies of households has not moved in one hundred and thirty-one days, the sentence saying so having been written this morning for the one hundred and thirtieth morning out of one hundred and thirty-two. That sentence is not the aggregate of the four launders and the two have never been added.
+One hundred and thirty-one days without a move in the aggregate of the four bodies of households, and the sentence for that written this morning as the hundred and thirtieth out of a hundred and thirty-two. It is a sentence about four bodies of households and not about the launders, and the launders are not added to it and have not been.
 
-And at about the seventh hour of the morning the day-minus rules were read out loud before either number, in about four people, the way they are read, one saying the first and the other saying the second so that neither of them has to be trusted with both. The boards stand at **five hundred and seventeen days** and **five hundred and sixty-four**, forty-seven days apart. The drawer was not opened and is not to be. He has read them out loud on thirty-seven mornings out of the fifty-seven since he started again on the seventeenth of a month two months back.
+The two day-minus rules were read out loud at about the seventh hour and before either number, to about four people, and two of them said one each. They stand at **five hundred and seventeen days** and **five hundred and sixty-four**, and the forty-seven days between them is a consequence of the two and not a third rule. The drawer was not opened. Thirty-seven mornings out of fifty-seven, counting from the seventeenth of a month two months back.
 
 The morning was cold and the far culvert had a skin of ice on it at about the second hour that four of the six broke with the back of a spade, and the man of about thirty-one of Silling came down the road about the ninth hour, turned the barrow at the top of the yard and went home, and the four lines in his own book have a question on the second of them and the page on it is twenty-one days old and it has no answer on it and no place for an answer, and nobody in this holding has asked him about it in twenty-one days and nobody is going to.
 
@@ -20,7 +20,7 @@ The line about the branch is not this holding's paper. It came on a sheet with f
 
 At about the fourth hour of the afternoon there were about four people in the one room at this holding with the door shut, and not the nine, and the reason it was four is in the entry for this evening and is not in this paragraph.
 
-And then the man of about fifty said one thing, and he gave the reason first, and the count of that in this holding's history is one hundred and one, and it is his own, and he was not thanked and did not ask to be.
+And then the man of about fifty said one thing, and the reason for it was given before the thing, and the count of that in this holding's history is one hundred and one. It is his own count. He was not thanked and did not ask to be.
 
 **"There is a thing I worked out on Saturday afternoon and did not write in this book, and I am going to give the reason I did not write it before this room hears it, and the reason is that a thing which takes away a thing a man wanted is not a thing a man is fit to write down while he still wants it.**"
 

@@ -1,6 +1,10 @@
 # Open Threads
 
+**READ THIS BEFORE THE LIST UNDER IT. THIS FILE IS APPEND-ONLY, OLDEST AT THE HEAD AND NEWEST AT THE FOOT, AND THE HEAD IS SEVEN VOLUMES COLD. THE FIVE PROMISES IMMEDIATELY BELOW ARE THE ONES VOLUME 01 OPENED WITH AND THEY WERE ANSWERED, MOST OF THEM, IN VOLUMES 01 TO 05. THEY ARE NOT THE LIVE ONES. A PHASE THAT WANTS THE LIVE THREADS FOR THE VOLUME NOW BEING WRITTEN GOES TO THE FOOT OF THIS FILE AND READS THE LAST SECTION, WHICH IS THE ONE HEADED FOR THE MOST RECENT BATCH. FOR THE CHAPTERS 364 TO 373 PASS IT IS *VOLUME 08 BATCH 0003 - THE STATE AFTER CHAPTERS 364 TO 373, AND THE THIRTY-FIVE THREADS THE BATCH DID NOT TOUCH*. THE COUNT IS THIRTY-FIVE AND IT IS THE FIGURE IN THAT SECTION AND NOT THE ONE IN THE PARAGRAPH ABOVE, WHICH SAID THIRTY-FIVE BEFORE ANYBODY COUNTED IT.**
+
 ## Immediate volume promises
+
+**HISTORICAL. VOLUME 01, AND KEPT FOR THE RECORD, AND NOT TO BE WORKED.**
 
 - With no charter and no contractor, can the Lantern Reach node be brought back into somebody's maintenance before the flood, and can Kellan's falsified gauge be exposed without destroying the field the crew came to repair?
 - Why does Aldren's fieldbook carry a procedure in living wood, and why does the bead carry a date later than the disappearance?
@@ -3253,3 +3257,14 @@ The use log is at fifteen. The pattern-holder counts are two for four, one for f
 ### THE ONE-LINE VERSION
 
 Thirty-five threads at day 586, a seventh column at fifty-two and not read, a man of about seventy fetched twenty-two times and not fetched in this batch, a compost run at nineteen not discharged in nineteen and not fallen, three sessions entered in this holding's book and all three entered before the thing, four readings out of a standing wood of which two returned a person and a list, a day gone off a day sheet and not put back, a rota at seventy-three in force with twenty-nine taken and forty-four not, a window that shut on the eleventh with nothing in it and nothing taken out of it, and not one thread moved, answered, advanced or closed.
+
+---
+
+## ADDED BY THE REVIEW REPAIR PASS ON BATCH 0003, AND NONE OF THE THREE BELOW IS A NEW THREAD
+
+**THE THIRTY-FIVE ARE THIRTY-FIVE.** The repair pass rewrote sixty-nine repeated paragraphs in chapters 364 to 373 and changed no count of any kind, so the thread count at day 586 stands where it stood and is still thirty-five, and every one of the thirty-five is still open, and the one thread the volume opened, which is what is in the standing wood beyond the four things and the nineteen lines and what it costs, is exactly as open as it was.
+
+**AND TWO NEW THREADS THAT ARE ABOUT THE MANUSCRIPT AND NOT ABOUT THE WORLD, WHICH ARE REAL AND WHICH ARE RECORDED HERE BECAUSE A FILE THAT ONLY COUNTS THE DIFFICULT THINGS IS NOT A THREAD FILE.**
+
+- **Four hundred and eighty-four near-duplicate paragraph pairs stand in volume 08 and are unpaid, and batch 0003 now carries none of them.** Measured at eighty-five percent over paragraphs of thirty words or more, excluding the `Entered` blocks, the whole of volume 08 carries four hundred and eighty-four, and every one of them that is left has a batch 0001 or a batch 0002 file in it. The debt is real, it is inherited, and nobody has been told about it until now. **It is not a mystery in the world and it is not owed to a reader. It is owed to the next writer, and the way it gets paid is a scheduled repair of batches 0001 and 0002 and not a repair of the next batch.**
+- **The gate that was supposed to catch this was incapable of catching it, and that has been fixed, and the thing it missed is why four hundred and eighty-four pairs exist at all.** The batch 0004 prompt tested byte identity, and a paragraph with one numeral changed is not a byte-identical paragraph. A writer can write forty-four of them and pass. **A gate that cannot fail is not a gate, and the standing question this raises about the seven volumes before volume 08 is not whether the prose was good but whether anything was ever measuring it.**
