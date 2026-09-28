@@ -12,7 +12,7 @@ That is the hundred and thirteenth figure in a series that has not repeated one 
 
 The aggregate of the four bodies of households has not moved in one hundred and eleven days, the sentence saying so having been written this morning for the hundred and tenth morning out of one hundred and twelve.
 
-And at about the seventh hour of the morning the day-minus rules were read out loud before either number, in about four people, the way they are read, one saying the first and the other saying the second so that neither of them has to be trusted with both. The boards stand at **four hundred and ninety-seven days** and **five hundred and forty-four**, forty-seven days apart. The drawer was not opened and is not to be. He has read them out loud on twenty-three mornings out of the thirty-six since he started again on the seventeenth of last month.
+And at about the seventh hour of the morning the day-minus rules were read out loud before either number, in about four people, the way they are read, one saying the first and the other saying the second so that neither of them has to be trusted with both. The boards stand at **four hundred and ninety-seven days** and **five hundred and forty-four**, forty-seven days apart. The drawer was not opened and is not to be. He has read them out loud on twenty-three mornings out of the thirty-seven since he started again on the seventeenth of last month.
 
 The reader of this body went down to the north row at about the fifth hour of the afternoon on foot, because the row is half a mile off and there is no cart road to it.
 

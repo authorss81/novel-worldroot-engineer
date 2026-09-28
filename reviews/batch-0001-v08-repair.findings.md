@@ -124,3 +124,27 @@ The third launder's ten figures, the deltas of minus five and plus nine off 744,
 ## The state layer, and what a Batch 0002 writer must take from this file
 
 `state/current.md` carries the re-measured word counts, the bracket and the reading budget. `state/continuity.md` and `state/open-threads.md` carry this pass at their feet under *VOLUME 08 BATCH 0001, THE REVIEW REPAIR PASS*. **The live figures a Batch 0002 writer takes are unchanged by this pass except for these: Chapter 344 is 2,789 and not 2,788, the batch is 28,006 and not 28,005, the manuscript is 1,052,481 and not 1,052,480, the printed maximum of the third-launder series is 744 and not 724, and the count of third-launder figures below the maximum is nine and not two.** Everything else in the inherited-counts table, the day clock, the locks and the thirty-five threads stands exactly as the Batch 0001 pass left it, and the thirty-five threads were not touched by this pass and no thread was closed.
+
+---
+
+## AMENDMENT OF THE BATCH 0002 REVIEW REPAIR PASS: FIVE FIGURES IN THIS BATCH WERE WRONG AND ARE NOW REPAIRED
+
+**A later phase, reviewing `workspace/volume-08/batch-0002/`, found that the denominator of the read-aloud run of the boards is **day minus five hundred and twenty-six** - a count of mornings since day 527, with day 527 as morning one - and that **five chapters of this batch printed the one-short form.** This pass did not catch it. It is recorded here because **this is the file a writer reads before trusting a Batch 0001 figure**, and the figure was wrong here, and a Batch 0001 writer who trusts it will carry the slip forward a second time.
+
+| Chapter | Day | Printed | Correct |
+|---|---|---|---|
+| `chapter-0349.md` | 562 | thirty-five | **thirty-six** |
+| `chapter-0350.md` | 563 | thirty-six | **thirty-seven** |
+| `chapter-0351.md` | 564 | thirty-seven | **thirty-eight** |
+| `chapter-0352.md` | 565 | thirty-eight | **thirty-nine** |
+| `chapter-0353.md` | 566 | thirty-nine | **forty** |
+
+**Every repair is one spelled-out word for one spelled-out word, in the narration and in the `Entered` block, and `chapter-0350.md` carries no `Entered` block so its figure appears once. Batch 0001's word count is therefore UNCHANGED at 28,006, and no sentence, no beat, no day, no clock, no name and no lock moved. Chs 344 to 347, days 557 to 560, were always right, so the slip entered between day 560 and day 562, which is why five mornings in a row and not ten.**
+
+**The rule is on the page and was available to this pass: `chapter-0321.md:13` reads *three mornings out of the six mornings since he started again on the seventeenth of this month*, which is day 532, and `chapter-0322.md:13`, `chapter-0323.md:17`, `chapter-0324.md:13` and `chapter-0325.md:15` carry the same count to days 533, 534, 535 and 536 at seven, eight, nine and ten. The seventh column's own rule sits two lines above it in this same file, at `chapter-0246.md:17` and `chapter-0262.md:63`, and *on the first and on the thirtieth* was used to settle a Volume 07 outline review; the read-aloud denominator had no such anchor in this pass and that is the whole of how the error survived it.**
+
+**THE NUMERATORS WERE NEVER WRONG.** They run eighteen at day 557 to twenty-six at day 566, and on to thirty-three at day 576, and every one of them stands. A writer who repairs a denominator from a numerator is guessing; a writer who repairs it from the day the run began is deriving it.
+
+**AND A WARNING ABOUT WHERE THE ERROR CAME FROM, SO IT IS NOT DISCOVERED A THIRD TIME.** It did not originate in this batch's prose. It came in through `state/current.md`, which carried the sentence *THE DENOMINATOR IS DAY MINUS SIXTY-SIX, WHICH IS FORTY-ONE ON DAY 567 AND FORTY-NINE ON DAY 576* - an offset that produces neither of its own figures, since 567 minus 66 is 501 and not 41 - and which quoted the correct figure at one end of the batch and the one-short figure at the other. **That sentence is now corrected and both wrong forms are named in it. The state layer is where a figure like this is born, and a state file is the one file in this repository that a reviewing pass reads less carefully than the prose, because the prose is the work and the state layer is supposed to be already true.**
+
+The full finding, with the derivation and the two on-page anchors, is `reviews/batch-0002-v08-repair.findings.md` Tier 1 items 1 to 4.

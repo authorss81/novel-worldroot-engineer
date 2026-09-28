@@ -24,7 +24,7 @@ The return went in on a steelyard that hangs on the wall of a building with no r
 
 **Two hundred and eighty-three hundredweight.**
 
-That is the thirty-first return and the twenty-first name-pair in eleven years, and it is eleven hundredweight above the thirtieth, which was two hundred and seventy-two on the nineteenth of this month. The dial came down off two hundred and sixty-nine and the reader of this body read it out loud and then read it back out of the second book, and the two are the same, and he wrote it in one book and the man of about thirty-one of Silling wrote it in the other one from the second hand and the two are the same again.
+That is the thirty-first return and the twenty-first name-pair in eleven years, and it is eleven hundredweight above the thirtieth, which was two hundred and seventy-two on the nineteenth of this month. The dial came down off two hundred and seventy-two and the reader of this body read it out loud and then read it back out of the second book, and the two are the same, and he wrote it in one book and the man of about thirty-one of Silling wrote it in the other one from the second hand and the two are the same again.
 
 A name went into BY. Then a name went into WITNESSED BY. Then a name went into BY, and a name went into WITNESSED BY, and so on, one at a time, by each of the four bodies of households, standing where they could see the dial, and the four of them did it in the order they arrived and not in any order anybody chose for them.
 
