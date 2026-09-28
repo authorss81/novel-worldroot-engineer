@@ -12,7 +12,7 @@ The twelfth did not go in until after the eighth hour, the four men still being 
 
 Nine above Monday, being the hundred and sixty-second figure of a series that has never put the same figure down twice since the first morning of it. The window the rises and the falls are counted in stands at a hundred and twenty-nine, and the rise went onto the rises, which puts it at seventy rises and fifty-nine falls, and seventy and fifty-nine are a hundred and twenty-nine.
 
-A hundred and sixty days without a move in the aggregate of the four bodies of households, and the sentence saying so was written this morning for the hundred and fifty-ninth of those mornings out of a hundred and sixty-one. It concerns four bodies of households, and the four launders are a different figure, and the two have not been added in four years, and nobody put them on one line this afternoon.
+The four bodies of households have gone a hundred and sixty days without a move in their aggregate, and the sentence that says so went onto the sheet this morning for the hundred and fifty-ninth of those mornings out of a hundred and sixty-one. The four launders are a different aggregate and the two have not been added in four years, and nobody put them on one line this afternoon.
 
 The return came off the steelyard at about the second hour of the afternoon, in the building at the node that has no roof and has not had one for as long as the oldest man in this holding can remember. The four bodies of households that weigh it are at Havergate and Low Wether and Marden and Silling, and not one of them is a member of the cooperative and none of them was made one this afternoon.
 

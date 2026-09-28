@@ -2,7 +2,7 @@
 
 ## Forty-One Marks
 
-The seventh of this month was a Thursday, and the first line of the rota came round at the second hour and was worked. The boundary ditch and the two culverts took six people until the fourth hour. The near one has been clear since the ninth, the far one was about a third full, and the six of them put two barrow-loads out of the far one and stopped there, because it has been going down by itself since the twenty-third of last month and there is no need to be in a thing twice in a week.
+On the seventh, a Thursday, the first line of the rota came round at the second hour and was worked. Six people were on the boundary ditch and the two culverts until the fourth hour. The near one has been clear since the ninth, the far one was about a third full, and the six of them put two barrow-loads out of the far one and stopped there, because it has been going down by itself since the twenty-third of last month and there is no need to be in a thing twice in a week.
 
 The channel along the inside face of the west dyke has been finished on both days of it for a fortnight and about six feet of it at the top end is still soft. The six of them stood at the top end and looked at it for about a quarter of an hour and then went and did the boundary ditch instead. One of them put his heel in at the top of it on the way past and the print closed over by itself inside a count of three, and that is the whole of the test that was applied to it this morning, and the test did not ask for a spade.
 
@@ -16,7 +16,7 @@ At about the eighth hour the figure for the seventh was entered and read back ou
 
 It has fallen off Wednesday by five, and it is the hundred and fifty-seventh figure of a series that has not come out at one figure twice since the first morning of it. The window the rises and the falls are counted in stands at a hundred and twenty-four, and the fall went onto the falls, which puts it at sixty-seven rises and fifty-seven falls, and the two add the way they have added on every morning of this year without anybody making them add.
 
-A hundred and fifty-five days without a move in the aggregate of the four bodies of households, and the sentence saying so was written this morning for the hundred and fifty-fourth of those mornings out of a hundred and fifty-six, and it concerns four bodies of households, and the four launders are a different figure, and the two have not been added in four years and were not added this morning.
+The sentence for this morning was written for the hundred and fifty-fourth of those mornings out of a hundred and fifty-six, and what it says is that the aggregate of the four bodies of households has not moved in a hundred and fifty-five days. That figure is about four bodies of households. The four launders are a different figure, the two have not been added in four years, and nobody put them on one line this morning.
 
 About nine people were in the one room at this holding from about the fourth hour of the afternoon with the door shut, and the sheet that came to the door yesterday was on the long table at the wall side where the man of about fifty had put it, and it had been left face down overnight by somebody who did not say which of them it was.
 
@@ -76,7 +76,5 @@ He had come up the road at the ninth hour on a day when there was nothing for hi
 
 The mark on the arm is four inches along the inside of the left forearm and it branches twice, and it is the same four inches it was at the second hour of this morning. Forty-one marks is not a mark, a clerk's guess is not a mark, and a person's refusal to be angry is not a mark, and the four accounts of that arm stand at four and are unreconciled.
 
-Nobody thanked anybody, and there was no yard in this holding today for either of the two counts that are only ever moved in one to move. The mark on the arm is four inches along the inside of the left forearm and it branches twice and is the same four inches it was at the second hour, and forty-one marks is not a mark, a clerk's guess is not a mark, and a person's refusal to be angry is not a mark, and the four accounts of that arm stand at four and are unreconciled.
-
-The man of about thirty-one of Silling was not asked anything this afternoon. He came down the four-mile road at about the ninth hour and turned the barrow and went home, and about four people in this holding have noticed over four years that he comes up a road on days when there is nothing for him to do here, and about four have not, and neither of the two fours has ever said so to him. The barrow stands at eleven journeys and eleven is a floor.
+Nobody thanked anybody, and there was no yard in this holding today for either of the two counts that are only ever moved in one to move. Forty-one marks is not a mark, a clerk's guess is not a mark, and a person's refusal to be angry is not a mark.
 

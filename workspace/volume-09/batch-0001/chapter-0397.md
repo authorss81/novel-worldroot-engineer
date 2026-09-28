@@ -2,7 +2,7 @@
 
 ## A Second County In Three Days
 
-The tenth of this month was a Sunday, and the fourth line of the rota came round at the second hour and was not worked, because there is nobody at the headland above Marden to work it. The fields on that headland have waited for the fiftieth morning.
+The tenth was a Sunday and the fourth line came round at the second hour, and it was not worked, because there is nobody at the headland above Marden to work it. The fields on that headland have waited for the fiftieth morning.
 
 The rota rises by exactly one on a morning the fourth line comes round and by nothing on any other morning, and it stands at seventy-nine mornings in force with twenty-nine taken and fifty not, and twenty-nine and fifty are seventy-nine. Twenty-nine taken did not move this morning and has not moved on any morning of this year, and nobody in this holding is blamed for a field that waited, because a field that waited is a fact about a rota and not a fact about a man.
 

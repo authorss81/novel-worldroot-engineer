@@ -24,7 +24,7 @@ The sheet was from a body calling itself the first regional council of three cou
 
 Nobody in this building has asked anybody to perform any act. Nobody in this building sent anybody to that room and nobody in this building was told it was going to be held.
 
-About nine people were in the one room at this holding from about the second hour of the afternoon with the door shut, and the sheet went on the long table at the wall side, and the man of about fifty did not put it beside the other three papers and nobody asked him to.
+There were nine people in the one room at this holding from about the second hour of the afternoon with the door shut. The sheet went on the long table at the wall side and stayed where the rider put it, and the man of about fifty did not put it beside the other three papers, and nobody asked him to.
 
 Marek read it twice and then gave the reason before he said what he thought of it, and the count of that in the holding's history is one hundred and seventy-seven, and it is his and of nobody else's.
 

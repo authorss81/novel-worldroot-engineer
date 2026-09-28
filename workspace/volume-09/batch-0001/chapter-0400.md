@@ -4,15 +4,15 @@
 
 The thirteenth of this month was a Wednesday, and the third line of the rota came round at the second hour and was worked. The near culvert and the ditch above it took about six people until the fourth hour, and the far one was still about half full and nobody made a second barrow-load out of it, and that has been on and off since the twenty-third of last month.
 
-At the seventh hour the two day-minus rules were read out loud and both numbers were said before either of them, in two voices, and the drawer was not opened. They stand at **five hundred and forty-seven days** and **five hundred and ninety-four**, forty-seven apart, and the drawer was not opened. Fifty-two mornings out of eighty-seven since the seventeenth of a month three months back, and it is a habit and not a measurement, and there is no column for it in this book and there never has been.
+The pair was read out loud at the seventh hour, one number to a man, and the two figures are **five hundred and forty-seven days** and **five hundred and ninety-four**, forty-seven apart, and the drawer was not opened. Both numbers were said before either of them and neither man was trusted with both. Fifty-two mornings out of eighty-seven since the seventeenth of a month three months back, and nobody has ever put it in a column in this book.
 
 The figure for the thirteenth was entered at about the eighth hour and read back out of the book with the frayed corner, and the two of them were the same.
 
 **Eight hundred and thirty-one hundredweight.**
 
-Down five off Tuesday, and the hundred and sixty-third figure of a series that has not repeated one figure since the morning it started. The window the rises and the falls are counted in stands at a hundred and thirty, and the fall went onto the falls, which puts it at seventy rises and sixty falls, and seventy and sixty are a hundred and thirty.
+Down five off Tuesday, and the hundred and sixty-third figure of a series that has not repeated one figure since the morning it started. The window the rises and the falls are counted in stands at a hundred and thirty, and this morning's fall went onto the falls, which leaves it at seventy rises and sixty falls, and seventy and sixty are a hundred and thirty.
 
-A hundred and sixty-one days without a move in the aggregate of the four bodies of households, the sentence written this morning for the hundred and sixtieth of those mornings out of a hundred and sixty-two. Four bodies of households are what that figure is about. The four launders are a different figure, the two have not been added in four years, and nobody put them on one line this morning.
+It is a hundred and sixty-one days since anything moved in the aggregate of the four bodies of households, and the sentence written this morning was the hundred and sixtieth of those mornings out of a hundred and sixty-two. Four bodies of households are what that figure is about. The four launders are a different figure, the two have not been added in four years, and nobody put them on one line this morning.
 
 The man of about thirty-one of Silling came down the four-mile road at about the ninth hour with the barrow and turned it at the top of the yard and went home, and the second of the four lines in the book he carries is fifty-one days old and has nothing on it and no place on it, and nobody in this holding has asked him about it in fifty-one days. The barrow stands at eleven journeys up that road and did not rise this morning.
 
@@ -34,7 +34,7 @@ About four people in that room said that the column was not a column, it was a l
 
 "The column is not a column," he said. "It is a line on a letter in a county nine miles off, and whatever goes in it goes to the office, and the office enters it in the register of the office. That is what a line under a question is. It is a place where a name goes to be copied by somebody who does not know what the name is for."
 
-The woman who keeps the seed house said the one thing that had been in her mouth since the letter came, and she said it without a reason first, which is a thing she is allowed to do and does about four times a year.
+What the woman who keeps the seed house said had been in her mouth since the letter came, and it came out without a reason in front of it, and she is allowed about four of those in a year.
 
 "You could write nothing," she said. "You could send it back with the line empty and no sheet at all, and that is an answer a body can read, and a body that has been told nothing twice can then go and be a body that asked and got nothing."
 
@@ -58,7 +58,7 @@ Marek gave the reason before he said the thing, and the count of that in the hol
 
 Nobody said he was sorry. Nobody said it was the right thing to do and nobody said it was a mistake, and nobody in that room softened a word of it, and about four people had worked out inside a minute that he was not going to be thanked and about four had not.
 
-The woman who keeps the seed house said the one thing that had been in her mouth for an hour, and she said it without a reason first, which is a thing she is allowed to do and does about four times a year.
+The woman who keeps the seed house had been holding a thing since the sheet went onto the long table, and she said it in the room before anybody had spoken again, and she put no reason in front of it, and that is a thing she is allowed to do about four times a year.
 
 "You have put your name on it," she said, "and I want to say that a man who does that in a room with the door shut is not doing it for the room. You are doing it so that a clerk in a county has a name to write into a register, and I have watched a lot of men in four years and I have watched exactly one of them do that and he is not a good man and he has never once said he was sorry for anything."
 
@@ -70,7 +70,7 @@ He read it and then he sat down, which he does not do, and the man of about seve
 
 The room thought two things and neither of them was said. One of them was that a name on a sheet of this kind is the cheapest thing a man in this building can do and the most expensive thing a county can read, and the other of them was that the man who wrote the letter had asked it a second time and to a person, which means a body of eleven people had decided the first answer was not enough, and neither of those two thoughts was going to be written down by anybody.
 
-The letter went back up the road on the ordinary post the next morning with the ruled line at the foot of it empty, and a separate sheet went with it in the same fold, and the two were not pinned together and were not referred to one another on either of them. The ordinary post goes up that road twice a week whatever anybody in this building is doing, and it went on the Thursday with a barrow on it behind the postman and nobody sent a hand with it.
+Both sheets went back up the road with the ordinary post, which takes the bag at the eighth hour of the evening and goes up that road twice a week whatever anybody in this building is doing. The letter went with the ruled line at the foot of it empty. The sheet went in the same fold and the two were not pinned together, and neither of them referred to the other on either of them, and nobody sent a hand with the bag.
 
 Tova Reed was in the room for the last hour of it and said nothing about the name and nothing about the reason, and about four people in that room expected her to say something about it and about four did not. She said afterwards, to nobody, that a thing done in a room with the door shut does not want a woman to look at it, and that was the only thing she said about it, and nobody asked her what she meant.
 
@@ -84,9 +84,9 @@ Nobody thanked anybody, and the woman who keeps the seed house was not thanked f
 
 The use log stands at fifteen lines and a name is not a use, and the reason for the fifteen is not given in this holding in a season. The requests stand at fifty-three and the section-nine notes stand at fifty-three, and a letter that has a name on a separate sheet is a request and not a fifty-fourth of anything.
 
-The seventh column of the well house door stands at fifty-four and is not read this morning. The man of about seventy is not fetched and the count stays at twenty-three. The compost line is paid at twenty not discharged in twenty. What this holding cannot check is two figures and what it does not know is six things, and a name is not a number and a duty is not a seventh of anything.
+The man of about seventy is not fetched and the count stays at twenty-three, and the compost line is paid at twenty and not discharged in twenty. The seventh column of the well house door stands at fifty-four and is not read this morning, being read on the thirtieth of this month and on the first of the next and on no other morning. What this holding cannot check is two figures and what it does not know is six things, and a name is not a number and a duty is not a seventh of anything.
 
 The corridor in the pan is named and open and is not a road, and the sheet that claims it is in a drawer face up and is correct in every particular, and the ring of bare ground inside the eleven acres is bare in its eleventh year and has no dimension on any page.
 
-The mark on the arm is four inches along the inside of the left forearm and it branches twice, and it is the same four inches it was at the second hour of this morning. A name is not a mark, a duty is not a mark, and a heading is not a mark, and the four accounts of that arm stand at four and are unreconciled, and a sheet with a man's name and a day and an hour against it is not a fifth account of anything.
+Nothing has changed on the inside of the left forearm. Four inches, branching twice, the same four inches as at the second hour of this morning. A name is not a mark, a duty is not a mark, and a heading is not a mark, and the four accounts of that arm stand at four and are unreconciled, and a sheet with a man's name and a day and an hour against it is not a fifth account of anything.
 

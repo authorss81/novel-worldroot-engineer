@@ -2,11 +2,9 @@
 
 ## A Thing That Belongs To Another County
 
-The fifteenth of this month was a Friday, and the first line of the rota came round at the second hour and was worked. The boundary ditch and the two culverts took about six people until the fourth hour, and the near one has been clear since the ninth and the far one was about a third full, and the six of them put two barrow-loads out of it and stopped there, because it has been going down by itself since the twenty-third of last month.
+The first line of the rota came round at the second hour on the fifteenth, a Friday, and was worked. The boundary ditch and the two culverts took about six people until the fourth hour. The near one has been clear since the ninth and the far one was about a third full, and the six of them put two barrow-loads out of the far one and stopped there, because it has been going down by itself since the twenty-third of last month.
 
 At about the seventh hour the two day-minus rules were read out loud, the first number said by one man and the second by another, and neither of them was trusted with both. They stand at **five hundred and forty-nine days** and **five hundred and ninety-six**, forty-seven apart, and the drawer was not opened. Fifty-three mornings out of eighty-nine since the seventeenth of a month three months back, and it is a habit and not a measurement.
-
-The fifteenth of this month was a Friday and it was the last morning of the ten, and the first line of the rota came round at the second hour and was worked. The boundary ditch and the two culverts took about six people until the fourth hour. The near one has been clear since the ninth, the far one was about a third full, and the six of them put two barrow-loads out of the far one and stopped there, because it has been going down by itself since the twenty-third of last month.
 
 It has come down off Thursday by five. That is the hundred and sixty-fifth figure of a series which has not put the same figure on the page twice since its first morning. The window the rises and the falls are counted in stands at a hundred and thirty-two, and the fall went onto the falls, which puts it at seventy-one rises and sixty-one falls, and seventy-one and sixty-one are a hundred and thirty-two.
 
@@ -18,7 +16,7 @@ The gate is in this holding's book. It is on the line the two gates are on, and 
 
 Nobody in this holding built that gate and nobody in this holding has ever been asked about it and nobody in this holding has a claim on it that anybody has ever put in writing, and the man of about fifty said so in about four seconds and the whole of the four seconds was a fact about a book.
 
-Marek gave the reason before he said the thing, and the count of that in the holding's history is one hundred and eighty-four, and it is his and of nobody else's.
+The reason came before the thing and the count of that in the holding's history is one hundred and eighty-four, and it is his and of nobody else's.
 
 "I am going to say the correct thing about that letter and I am going to give the reason first, and the reason is that the correct thing is going to sound like a man being let off, and I would rather it sounded like a man being let off by somebody who has checked it than like a man being let off by somebody who has not."
 
@@ -28,7 +26,7 @@ Marek gave the reason before he said the thing, and the count of that in the hol
 
 The man of about fifty asked him one question and it was whether the sentence was going to say whose drain it was, and Marek said it was going to say which four bodies of households use it and in which counties they are, and the man of about fifty said that that is a list, and Marek said that it is four lines and not a list, and a list is a thing with a heading on it and four lines is a thing that can be read by a clerk in a room with the door shut.
 
-About nine people were in the one room from about the second hour of the afternoon with the door shut, and the letter was on the long table at the wall side, and nobody had put it beside the other papers and nobody asked anybody to.
+There were nine people in the one room from the second hour of the afternoon with the door shut, and the letter was on the long table at the wall side, and nobody had put it beside the other papers and nobody asked anybody to.
 
 Then somebody said the thing, and it was said the way a thing gets said in a room when a room has been looking at a problem for nine days, which is to say by a person who had been turning it over since the eighth.
 
@@ -52,7 +50,7 @@ Tova Reed said the one thing that was said in that room on Friday afternoon that
 
 Nobody thanked her and nobody asked her for it and she was not thanked for not giving it, and about four people in that room had been waiting all week for her to give it and about four had understood why she had not, and neither of the two fours said so.
 
-The offer is on the low board at the far end of that room, face up, and it is not filled, and it was refused on the nineteenth of last month, and it has not been withdrawn, and it has no date on it and no name on it and no line on it for a name. The register form is on the middle table where it has stood fifty-nine days, not filled and not refused, and nobody wrote a heading on it, and the sheet carrying the name and the day and the hour against it is in the second book on a page of its own and is not a column.
+Nothing on the low board has been touched. The offer is on it, face up, at the far end of that room, and it is not filled, and it was refused on the nineteenth of last month, and it has not been withdrawn, and there is no date on it and no name on it and no line on it for a name. The register form is on the middle table where it has stood fifty-nine days, not filled and not refused, and nobody wrote a heading on it, and the sheet carrying the name and the day and the hour against it is in the second book on a page of its own and is not a column.
 
 The use log stands at fifteen lines and a resolution carried on a Thursday night is not a use, and a man who has said a thing does not get a line, and the reason for the fifteen is not given in this holding in a season. The requests stand at fifty-three and the section-nine notes stand at fifty-three, and the two have never been added to one another, and a resolution about a gate is a resolution and not a fifty-fourth of anything.
 
@@ -64,9 +62,7 @@ The clerk of the first council would be at the gate on the Tuesday with a man to
 
 Nobody thanked anybody, and nobody was thanked for not giving a figure, and the woman who keeps the seed house was not thanked for the account of the four tacks either.
 
-The use log stands at fifteen lines and a resolution carried on a Thursday night is not a use, and a man who has said a thing does not get a line. The requests stand at fifty-three and the section-nine notes stand at fifty-three, and a resolution about a gate is a resolution and not a fifty-fourth of anything.
-
-The seventh column of the well house door stands at fifty-four and is not read this morning. The man of about seventy is not fetched and the count stays at twenty-three. The compost line is paid at twenty not discharged in twenty. What this holding cannot check is two figures and what it does not know is six things, and what a season of disconnection costs in seed is not one of them because it is not a number this holding has handed out.
+The man of about seventy is not fetched and the count of fetchings stays at twenty-three, and the compost line is paid at twenty and not discharged in twenty. The seventh column of the well house door stands at fifty-four and is not read this morning. What this holding cannot check is two figures and what it does not know is six things, and what a season of disconnection costs in seed is not one of them, because it is not a number this holding has handed out.
 
 A bridge was run once for about nine minutes five weeks ago and no person in this holding has an instrument that says whether it is on or off. The corridor in the pan is named and open and is not a road. The ring of bare ground inside the eleven acres is bare in its eleventh year and has no dimension on any page. The order sealing the route is in a drawer and is valid and opens nothing, and it is not withdrawn.
 
