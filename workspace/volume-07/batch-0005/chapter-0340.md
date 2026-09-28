@@ -14,7 +14,7 @@ And at about the seventh hour of the morning the day-minus rules were read out l
 
 Nobody was told to be at the field gate. The reader of this body went down there at about the seventh hour of the morning on his own, and the man of about fifty walked down with him at about the eighth hour carrying the day sheet and nothing else, and about four people in the seed house watched the two of them go and about four did not.
 
-There is a wall on the east side of the second house at the field gate about four feet high and about nine feet long, and the ground against the foot of it is beaten flat and has been beaten flat for longer than anybody has been keeping figures. The gate itself is shut and the two-foot gap at the far end of it is open, and it has been open since the eleventh of the first month, and nothing goes in it this season.
+There is a wall on the east side of the second house at the field gate about four feet high and about nine feet long, and the ground against the foot of it is beaten flat and has been beaten flat for longer than anybody has been keeping figures. The gate itself is shut and the gap at the far end of it is open, and the two-foot gap at the node end is not this one.
 
 The man of about fifty stood about nine feet off, on the side of the track, with the day sheet against his leg, and he did not come closer than that and he did not say why not.
 
@@ -94,7 +94,7 @@ There were two hollows in the beaten ground against the foot of the wall about t
 
 It is the first of three mornings that the bridge stands with nobody in charge of it, and the other two are the fourteenth and the fifteenth, and a bridge is a thing that connects two points and a thing that connects two points is either connecting them this morning or it is not, and there is no instrument in this holding that says, and nobody in this holding asked anybody at the far end of it, and the count of questions is nil and it is nil.
 
-He stood in the hollow for about a minute and then he went back up the track, and the gate was shut, and the two-foot gap at the far end of it was open.
+He stood in the hollow for about a minute and then he went back up the track, and the gate was shut, and the gap at the far end of it was open.
 
 The man of about thirty-one of Silling came up the track from the north at about the fourth hour of that afternoon, alone, and went and stood in the hollow at the foot of the wall for about a minute, and came away from it, and went home. Nobody sent him. Nobody in this holding has ever sent that man anywhere.
 
