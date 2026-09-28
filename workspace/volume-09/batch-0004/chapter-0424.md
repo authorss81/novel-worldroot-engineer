@@ -12,7 +12,7 @@ The two boards were read aloud at the seventh hour, and reading them came before
 
 Sixty-four mornings out of a hundred and eleven, and both of the men who take those boards were in the building and had been all day, and about four people in this holding think the run is the best figure in the four books and about four think it is the only one that has never once been anybody's fault, and neither of the two fours has been asked.
 
-The seventh went in at about the eighth hour and came back out of the other book, and the two of them were the same.
+The seventh went in at about the eighth hour, three hours after the light went off the west dyke, and came back out of the other book, and the two of them were the same.
 
 **Eight hundred and seventy-nine hundredweight.**
 
@@ -68,7 +68,7 @@ On the low board at the far end of the room an offer nobody has filled lies face
 
 The register form is on the middle table at eighty-one days, not filled, not refused, and nothing has been written at the head of it in eighty-one days and nothing is going to be.
 
-The seventh column of the well house door is at fifty-six and was not read this morning, and it is read on the thirtieth and on the first and on nothing else in the year. The six columns beside it stand headed nothing and still are.
+The seventh column of the well house door is at fifty-six, was not read this morning, and is read on the thirtieth of this month and on the first of the next and on no other morning in the year. The six columns beside it stand headed nothing, and a page with a rate on it is not a reason to head one of them.
 
 The corridor in the pan is named and open and is not a road, and the sheet that claims it lies in a drawer face up and is true in everything it says about itself, and the order sealing the route is in the same drawer and is valid and opens nothing, and no route was reopened by a letter about a rate.
 

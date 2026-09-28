@@ -16,7 +16,7 @@ The pair stands on the boards at **five hundred and seventy-two days** and **six
 
 The six who would have gone to the headland were on the west side of the boundary ditch instead, and there was a wind off the fen that took the tops off the water in the ditch in lines and put them back in lines, and by the fifth hour the four of them who were on the west side had given up on the lines and worked in the lee of the bank, and the two of them who were not on the west side came down to the yard about the third hour to find out what the other four were doing and went back up.
 
-The eighth went in at about the eighth hour and came back out of the book with the frayed corner, and the two of them were the same.
+The eighth went in at about the eighth hour with the light off the table by then, and came back out of the book with the frayed corner, and the two of them were the same.
 
 **Eight hundred and eighty-eight hundredweight.**
 

@@ -26,13 +26,13 @@ The sentence on this morning's sheet says the four bodies of households have not
 
 The return came off the steelyard at the node at about the second hour of the afternoon, in about nine minutes of rain that did not lie on anything, and there are four people in this holding who have now stood in that building with no roof in it and watched that dial read and the fourth of them is the man of about thirty-one of Silling, who was sent with a lamp and a sheet and no message, and who is not a member of anything and has been twice.
 
-> THE BOARD AT THE NODE, PAINTED ELEVEN YEARS AGO IN ONE HAND AND NOT REPAINTED SINCE. THE UPPER RULE IS PAINTED BY AND THE RULE UNDER IT IS PAINTED WITNESSED BY, AND THE FOUR NAMES OF THIS AFTERNOON WENT IN ONE AT A TIME IN THE ORDER THEY CAME UP TO THE DIAL, TWO INTO EACH RULE. THE SECOND RULE HAS A LINE PAINTED UNDER IT AND A SPACE BESIDE THAT LINE, AND THE SPACE HAS BEEN LEFT EMPTY EVERY TIME THE FIRST RULE HAS BEEN FILLED SINCE THE BOARD WAS PAINTED. NOBODY STANDING NEAR THAT DIAL HAS EVER PUT ANYTHING IN THAT SPACE, INCLUDING THIS AFTERNOON, AND NOBODY HAS EVER SAID OUT LOUD WHAT WOULD GO IN IT IF SOMETHING DID.
+> THE BOARD AT THE NODE, PAINTED ELEVEN YEARS AGO IN ONE HAND AND NOT REPAINTED SINCE. THE UPPER RULE IS PAINTED BY AND THE RULE UNDER IT IS PAINTED WITNESSED BY, AND FOUR NAMES CAME UP TO THE DIAL THIS AFTERNOON ONE AT A TIME IN THE ORDER THEY CAME, THE FIRST AND THE THIRD GOING UNDER THE UPPER RULE AND THE SECOND AND THE FOURTH GOING UNDER THE RULE BENEATH IT. FOUR WERE AT THE DIAL AND A FIFTH HELD A LAMP AND DID NOT PUT IT DOWN. THE SECOND RULE HAS A LINE PAINTED UNDER IT AND A SPACE BESIDE THAT LINE, AND THE SPACE WAS LEFT EMPTY FOR THE TWENTY-THIRD TIME IN ELEVEN YEARS THIS AFTERNOON, AND THE ORDER THE FOUR NAMES STAND IN IS THE ORDER THEY CAME IN AND IS NOT A FIGURE OF ANY OF THEM. NOBODY HAS EVER SAID OUT LOUD WHAT WOULD GO IN THAT SPACE.
 
 **Three hundred and seventy-one hundredweight.**
 
 That is the thirty-ninth of them and the twenty-ninth pair of names in eleven years, and it stands eleven hundredweight above the thirty-eighth, which was three hundred and sixty on the first of this month and is the figure the last return in this holding's book carries.
 
-The man of about fifty took it off the dial, said the figure out loud, and then said it again out of the second book, and the two were the same, and it came off the dial twice checked against the two figures he had put on that day sheet at the ninth hour of the morning.
+The man of about fifty had the figure off the dial and said it out loud in the rain, and then said it again out of the second book, and the two were the same, and it came off the dial twice checked against the two figures he had put on that day sheet at the ninth hour of the morning.
 
 **Two hundred and ninety-six and seventy-five. And two hundred and fifty-four and a hundred and seventeen.**
 

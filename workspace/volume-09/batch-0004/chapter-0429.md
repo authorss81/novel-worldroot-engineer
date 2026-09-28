@@ -16,7 +16,7 @@ The pair stands on the boards at **five hundred and seventy-six days** and **six
 
 The six who would have gone to the headland were on the fen side of the top dyke with a barrow they were not supposed to have out, and Marek was one of the six and said nothing about it, and the man who took it out said afterwards that it was the only barrow in this holding on the ground when nobody had told it to be, and that he had put it back himself at the seventh hour.
 
-The twelfth went in at about the eighth hour and came back out of the book with the frayed corner, and the two of them were the same.
+The twelfth went in at about the eighth hour with five of the nine places on that sheet still open, and came back out of the book with the frayed corner, and the two of them were the same.
 
 **Eight hundred and ninety-six hundredweight.**
 
