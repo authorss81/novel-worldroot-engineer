@@ -80,7 +80,7 @@ A third column in the sheet of terms is ruled and empty, and the heading at the 
 
 The mark in the floor of the pump house is four inches deep in the middle and worn round at the corners and nobody in this building has measured it this month, and a fetching and a compost line and a month turning are not a mark and are not a column and this morning did not make a fifth account of anything.
 
-A walk of nine hundred yards that gets made twice a year is not a walk anybody in this holding puts a rate on, and the two mornings of the year on which it is made are not this one and are not the next one either.
+A walk of nine hundred yards that gets made twice a year is not a walk anybody in this holding puts a rate on, and this morning is one of the two of them and it was not made. The man of about thirty-one of Silling was in this yard from the fourth hour with a cart to the second gate and back and did not go up the lane, and the piece of chalk he put on the shelf by the yard door on Wednesday was not in his hand this morning, and nobody in this building has asked him why he went at the end of one month and did not go at the start of the next, and he has not said, and a walk of nine hundred yards is not a line of the rota and nobody is going to rule one for it.
 
 The man of about seventy-four with a stick came as far as the gate at about the eighth hour on his own and stood at the outside of it for about six minutes and went back, and nobody in this holding sent for him and nobody in this holding went out to him, and the count of times either of those two things has happened in four years is nil and is nil.
 
