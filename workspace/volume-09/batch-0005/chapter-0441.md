@@ -2,7 +2,7 @@
 
 ## A Reason First
 
-The twenty-fourth of this month was a Tuesday, and the fourth line of the rota came round at the second hour and went away empty, there being nobody at the headland above Marden to work it, and those fields have waited for the sixty-first morning, and this is the last of the thirteen mornings in this month on which that line has come round and not been worked.
+The twenty-fourth of this month was a Tuesday, and the fourth line of the rota came round at the second hour and went away empty, there being nobody at the headland above Marden to work it, and those fields have waited for the sixty-first morning, and this is the thirteenth of them and the last one anybody in this building has counted, and every one of the twelve before it came round and went away empty the same way.
 
 The rota stands at ninety mornings in force with twenty-nine taken and sixty-one not, and twenty-nine and sixty-one are ninety.
 
@@ -46,7 +46,7 @@ Nobody in that room said the word duty out loud until about the second minute. I
 
 The clerk of the first council had written a name against that column in his own copy of the schedule on the nineteenth and had sent it up with the protocols, and the name is a man's name and it is not in the second book, and the clerk of this holding did not copy it across and gave no reason for that and was not asked for one, and the name in that copy of the schedule is still the only one in four counties and this holding has never seen it and cannot check it and has added nothing to it.
 
-Nobody in this holding has said whether the man whose name is on that schedule accepted the duty. There is no column for whether he was asked, and about four people in four counties have noticed that there is no column for it and about four have not, and neither of the two fours has written to anybody about it.
+Whether the man whose name is on that schedule accepted the duty is not a thing anybody in this holding has said, and there is no column for whether he was asked, and about four people in four counties have noticed that and about four have not, and neither of the two fours has written to anybody about it.
 
 The man of about fifty said one thing against it before anybody had taken it, and he gave no reason in front of it and the count of reasons given first in this holding's history did not move on that account, and that count is one hundred and twenty-nine and is his and of nobody else's.
 
@@ -68,7 +68,7 @@ Marek was in that room when it was written and he did not say anything at the mo
 
 Marek said the last thing said in that room and gave the reason for it before he said it, and the count of that in this holding's history is two hundred and eighteen, and it is his and of nobody else's.
 
-**"I am going to say what I think that column is and I am giving the reason first, and the reason is that I have been the only person this holding could name against a ground for eleven years and there has been a shortage on a sheet since Saturday and a charter on a wall since the twentieth, and neither of those two things has changed the fact that a man in this room was the only name that could be written."** "It is not a fix and it is not a beginning and it is not the fourth part of the protocols working. It is a name under a word in a book in a building that keeps four books, and on the day somebody in a county checks that column there will be one name in it and no ground described and no work set out and no second name beside it, and that is a worse column than an empty one and it is a better column than a word with nothing under it, and I am not going to say which of those two it is in about four years because in about four years one of us will be able to check."
+**"I am going to say what I think that column is and I am giving the reason first, and the reason is that I have been the only person this holding could name against a ground for eleven years and there has been a shortage on a sheet since Saturday and a charter read out in a room nine miles off since the twentieth, and neither of those two things has changed the fact that a man in this room was the only name that could be written."** "It is not a fix and it is not a beginning and it is not the fourth part of the protocols working. It is a name under a word in a book in a building that keeps four books, and on the day somebody in a county checks that column there will be one name in it and no ground described and no work set out and no second name beside it, and that is a worse column than an empty one and it is a better column than a word with nothing under it, and I am not going to say which of those two it is in about four years because in about four years one of us will be able to check."
 
 The man of about thirty-one of Silling said one thing at about the twelfth hour on his way out and it was not a question and it was not an answer, and nobody in that room asked him about the second of the four lines in his own book, which is ninety-two days old and has nothing on it, and he did not raise it and he has not raised it in ninety-two days and nobody in this holding is going to.
 
@@ -80,7 +80,7 @@ The compost line is paid and the run is twenty-one not discharged in twenty-one 
 
 A sheet in a drawer claims a corridor in the pan and is correct in every particular it states, and the order sealing the route is in that drawer and is valid and opens nothing, and a column with one name in it opens nothing and closes nothing and is not an instrument.
 
-The ring of bare ground inside the eleven acres is bare in its eleventh year and has no dimension on any page and was not walked, measured, crossed, priced or explained this morning, and the ground on both sides of it is going wrong and going slower and nobody in this holding has called slower better.
+Nobody in this holding has ever put a foot inside the ring of bare ground inside the eleven acres and nobody put one inside it this morning, and it is bare in its eleventh year and it has no dimension against it on any page in four counties, and the ground on both sides of it is still going wrong and is going slower than it was in the ninth. Nobody in four counties has been able to put a figure to it and about four people have decided that is the state of it and about four have not.
 
 The mark on that arm is four inches and branches twice and is four inches at the twelfth hour as it is at the second, and a duty is not a mark, a charter is not a mark, a vote is not a mark, a protocol is not a mark, an apology is not a mark, a loss in one ear is not a mark and a thing said in a room is not a mark, and there are four accounts of that arm in this building and they do not reconcile with one another and nothing said in that room this morning is a fifth of anything.
 

@@ -92,6 +92,6 @@ The compost line is paid and the run is twenty-one not discharged in twenty-one 
 
 A sheet in a drawer claims a corridor in the pan and is correct in every particular it states, and the order sealing the route is in the same drawer and is valid and it opens nothing, and a draft that says a body shall state a condition says nothing about a route and does not open one.
 
-The ring of bare ground inside the eleven acres is bare in its eleventh year and has no dimension on any page and was not walked, measured, crossed, priced or explained this morning, and the ground on both sides of it is going wrong and going slower and nobody in this holding has called slower better.
+Nine hundred yards off, and about four minutes of this morning were spent at the top of a door there, and out past that door is a ring of bare ground inside the eleven acres. It is bare in its eleventh year and there is no figure for it on any page in four counties, because nobody has walked it, measured it, crossed it, priced it or explained it, and the ground on either side of it is still going wrong and is going slower than it was, and nobody in this holding has called slower better.
 
 The two boards were read out at the seventh hour and the ninth-day return is not until the day after tomorrow, and the lamp went off the table at about the tenth hour and the roll is still tied on the long table at the wall side and the string is still on it.

@@ -18,7 +18,7 @@ The twentieth went in at about the eighth hour and came back out of the other bo
 
 **Nine hundred and twelve hundredweight.**
 
-Up nine off Thursday, and the two hundredth figure of a series that has not come out at the same figure twice since the morning it began, and the two hundred and first is on a morning next week and not in this month.
+Up nine off Thursday, and the two hundredth figure of a series that has not come out at the same figure twice since the morning it began, and the two hundred and first is on tomorrow morning and it is in this month.
 
 The rise went onto the rises. Eighty-nine and seventy-eight make a hundred and sixty-seven.
 
