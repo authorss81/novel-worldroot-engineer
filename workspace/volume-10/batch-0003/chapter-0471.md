@@ -12,7 +12,7 @@ The twenty-fourth went in at about the ninth hour and came back out of the other
 
 **Nine hundred and sixty-five hundredweight.**
 
-Wednesday added eight, and that is the two hundred and thirty-fourth figure in a run in which nothing has ever been written down twice, and the rise went on to the rises. A hundred and six rises and ninety-five falls is a hundred and two hundred and one, and the two ends of that have never been set against the figure over them in this building.
+Wednesday added eight, and that is the two hundred and thirty-fourth figure in a run in which nothing has ever been written down twice, and the rise went on to the rises. A hundred and six rises and ninety-five falls is two hundred and one, and the two ends of that have never been set against the figure over them in this building.
 
 The four bodies of households have stood at two hundred and thirty-two days, and the clause written under the figure is the two hundred and thirty-first of the mornings out of two hundred and thirty-third, one under and one over, and the three of those numbers are a count of days and not a count of anything that was carried anywhere.
 

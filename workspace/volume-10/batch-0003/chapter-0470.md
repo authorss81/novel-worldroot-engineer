@@ -12,7 +12,7 @@ The twenty-third went in at about the ninth hour and came back out of the other 
 
 **Nine hundred and fifty-seven hundredweight.**
 
-Wednesday is five under Tuesday, and this is the two hundred and thirty-third figure of a run in which nothing has ever been written down twice, and the fall went onto the falls. A hundred and five against ninety-five is a hundred and two hundred, and the two ends of that have never been put together with the figure standing over them in this building in four years.
+Wednesday is five under Tuesday, and this is the two hundred and thirty-third figure of a run in which nothing has ever been written down twice, and the fall went onto the falls. A hundred and five against ninety-five is two hundred, and the two ends of that have never been put together with the figure standing over them in this building in four years.
 
 Against the four bodies of households this morning's sheet carries two hundred and thirty-one days and the clause beneath is the two hundred and thirtieth of the mornings out of two hundred and thirty-second, one under and one over, and that clause counts mornings and not hundredweight and not the four of anything else on this page.
 
