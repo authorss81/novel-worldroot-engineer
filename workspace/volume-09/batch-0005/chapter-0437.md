@@ -10,7 +10,7 @@ The count rises by exactly one on a morning this line comes round and by nothing
 
 Two ways of counting that rotation are kept in this building and the two of them do not agree, so both of them go on this morning's page. This is the thirty-seventh morning of one of them and the twenty-fourth morning of the other, and the difference between the two is thirteen, and it has been thirteen for four years, and nobody in this holding has ever found out what the thirteen is.
 
-This page carries no figure for the run of mornings. The pair is read out at the seventh hour on the four mornings of a fortnight it is read on and this is not one of them, and the reason is that the clerk of this holding went east at the second hour with a roll and a sheet and a bicycle and has not been back, and the two men who take the boards did not ask a third man to do it and it was not done.
+This page carries no figure for the run of mornings. The pair is read out at the seventh hour on every other morning and this morning is one of the mornings it is not read on, and the reason is that the clerk of this holding went east at the second hour with a roll and a sheet and a bicycle and has not been back, and the two men who take the boards did not ask a third man to do it and it was not done.
 
 The pair stands on the boards at **five hundred and eighty-four days** and **six hundred and thirty-one**, forty-seven apart, and the drawer was not opened.
 

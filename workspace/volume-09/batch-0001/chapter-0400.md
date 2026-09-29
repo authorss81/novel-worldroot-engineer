@@ -86,7 +86,7 @@ The use log stands at fifteen lines and a name is not a use, and the reason for 
 
 The man of about seventy is not fetched and the count stays at twenty-three, and the compost line is paid at twenty and not discharged in twenty. The seventh column of the well house door stands at fifty-four and is not read this morning, being read on the thirtieth of this month and on the first of the next and on no other morning. What this holding cannot check is two figures and what it does not know is six things, and a name is not a number and a duty is not a seventh of anything.
 
-The corridor in the pan is named and open and is not a road, and the sheet that claims it is in a drawer face up and is correct in every particular, and the ring of bare ground inside the eleven acres is bare in its eleventh year and has no dimension on any page.
+In a drawer face up there is a sheet that claims a corridor in the pan, and every particular it states is correct, and the corridor is named and open, and open is not a road. The ring of bare ground inside the eleven acres is bare in its eleventh year and no page in this building carries a dimension for it.
 
 Nothing has changed on the inside of the left forearm. Four inches, branching twice, the same four inches as at the second hour of this morning. A name is not a mark, a duty is not a mark, and a heading is not a mark, and the four accounts of that arm stand at four and are unreconciled, and a sheet with a man's name and a day and an hour against it is not a fifth account of anything.
 

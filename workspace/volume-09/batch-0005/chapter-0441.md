@@ -2,7 +2,7 @@
 
 ## A Reason First
 
-The twenty-fourth of this month was a Tuesday, and the fourth line of the rota came round at the second hour and went away empty, there being nobody at the headland above Marden to work it, and those fields have waited for the sixty-first morning, and this is the thirteenth of them and the last one anybody in this building has counted, and every one of the twelve before it came round and went away empty the same way.
+The twenty-fourth of this month was a Tuesday, and the fourth line of the rota came round at the second hour and went away empty, there being nobody at the headland above Marden to work it, and those fields have waited for the sixty-first morning, and this is the thirteenth morning that line has come round empty on, and it is the last one anybody in this building has counted, and every one of the twelve before it came round and went away empty the same way.
 
 The rota stands at ninety mornings in force with twenty-nine taken and sixty-one not, and twenty-nine and sixty-one are ninety.
 
@@ -10,7 +10,7 @@ The count rises by exactly one on a morning this line comes round and by nothing
 
 Two ways of counting that rotation are kept in this building and the two of them do not agree, so both of them go on this morning's page. This is the thirty-eighth morning of one of them and the twenty-fifth morning of the other, and the difference between the two is thirteen, and it has been thirteen for four years, and nobody in this holding has ever found out what the thirteen is.
 
-This page carries no figure for the run of mornings. The pair is read out at the seventh hour on the four mornings of a fortnight it is read on and this is not one of them, and the reason it is not one of them is that the two men who take them are the two men who are putting the last of the room's business to bed and neither of them came in before the ninth hour.
+This page carries no figure for the run of mornings. The pair is read out at the seventh hour on every other morning and this morning is not one of the mornings it is read on, and the reason is that the two men who take them are the two men who are putting the last of the room's business to bed and neither of them came in before the ninth hour.
 
 The pair stands on the boards at **five hundred and eighty-eight days** and **six hundred and thirty-five**, forty-seven apart, and the drawer was not opened and is not going to be opened by anything that happened in this building this month.
 

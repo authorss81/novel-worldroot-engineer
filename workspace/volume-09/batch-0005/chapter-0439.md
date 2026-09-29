@@ -8,7 +8,7 @@ Marek was one of the four who had their hands in it and could not have told you 
 
 The yard was still under about two inches of the water that came through on the sixteenth, and it had gone down about half an inch in three days and the frost took it at about the sixth hour in a ring about a yard off the wall on the north side, and the six of them broke that ring with their boots on the way past it and one of the six said the word ring out loud and the other five heard him.
 
-This page carries no figure for the run of mornings, and the reason is on the page rather than left off it. The pair is read out at the seventh hour on the four mornings of a fortnight it is read on and this is not one of them, and the reason it is not one of them is that the clerk of this holding is one of the two men who take them and he was at the gate from the fourth hour with a rider from the first council and did not come into the yard again until the eighth hour.
+This page carries no figure for the run of mornings, and the reason is on the page rather than left off it. The pair is read out at the seventh hour on every other morning and this morning is not one of the mornings it is read on, and the reason is that the clerk of this holding is one of the two men who take them and he was at the gate from the fourth hour with a rider from the first council and did not come into the yard again until the eighth hour.
 
 The pair stands on the boards at **five hundred and eighty-six days** and **six hundred and thirty-three**, forty-seven apart, and the drawer was not opened.
 

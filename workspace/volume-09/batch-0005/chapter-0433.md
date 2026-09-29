@@ -16,7 +16,7 @@ The west side of that ditch is the side the county did not take and the four of 
 
 Marek had the bar for four of those five hours and the shovel for one, and the one with the shovel is the one he could not have told anybody afterward which of the five it was, and the water came in behind them at about the fifth hour and put about two inches into the ditch and stayed there, and the four of them finished the last eleven yards standing in it and one of the four said the word silt out loud and the other three heard him.
 
-This page carries no figure for the run of mornings, and the reason is on the page rather than left off it. The pair is read out at the seventh hour on the four mornings of a fortnight it is read on, and this morning is not one of them, and the reason it is not one of them is two men in a ditch until the eighth hour.
+This page carries no figure for the run of mornings, and the reason is on the page rather than left off it. The pair is read out at the seventh hour on every other morning of this holding and this morning is one of the mornings it is not read on, and the reason is two men in a ditch until the eighth hour.
 
 The pair stands on the boards at **five hundred and eighty days** and **six hundred and twenty-seven**, forty-seven apart, and the drawer was not opened.
 
@@ -30,7 +30,7 @@ The rise went onto the rises. Eighty-seven and seventy-six make a hundred and si
 
 The sentence on this morning's sheet says the four bodies of households have not moved in a hundred and ninety-four days and was written for the hundred and ninety-third of those mornings out of a hundred and ninety-five.
 
-The water came off the west end at about the fifth hour and went through the yard in a sheet about two inches deep and Marek was in the yard at the time and had a bar in one hand and did not put it down.
+The water came off the west end before the six went out and went through the yard in a sheet about two inches deep, and Marek was in the yard at the time with a bar in one hand and did not put it down.
 
 The reading came up the coast road at about the fourth hour with a rider who had been handed it at that far end four days before, and it came in a coat and not in a bag, and one corner of it was damp where the rain got into the fold on the second of those four days, and it had been a day for two of them before it got here.
 

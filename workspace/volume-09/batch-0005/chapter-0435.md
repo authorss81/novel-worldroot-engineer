@@ -4,7 +4,7 @@
 
 The eighteenth of this month was a Wednesday, and the second line of the rota came round at the second hour and was worked. The west side of the boundary ditch took six people from the second hour to the seventh hour and took a foot and a half out of it in two days, and Marek was not one of the six, and that is the second morning in four years on which he has not been one of them.
 
-The two men who take the boards were in the one room from the fourth hour with the sheet from Friday and the roll of the protocols and did not come out of it, and the pair is read out at the seventh hour on the four mornings of a fortnight it is read on and this is not one of them.
+The two men who take the boards were in the one room from the fourth hour with the sheet from Friday and the roll of the protocols and did not come out of it, and the pair is read out at the seventh hour on every other morning and this is one of the mornings it is not read on.
 
 The pair stands on the boards at **five hundred and eighty-two days** and **six hundred and twenty-nine**, forty-seven apart, and the drawer was not opened and this page carries no figure for the run of mornings.
 
