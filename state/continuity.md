@@ -8677,7 +8677,7 @@ The third launder carried nine figures, **904, 899, 908, 903, 912, 907, 916, 911
 
 **AND THE NEAR-DUPLICATE GATE, RUN TWICE, AS PRINTED AND WITH THE 1.25 LENGTH FACTOR REMOVED, OVER `workspace/volume-10/batch-0003/`. As printed it returned forty-nine pairs on the first writing and returns EIGHT, at 0.895, 0.892, 0.874, 0.868, 0.865, 0.859, 0.858 and 0.856. **THE FIGURE PRINTED HERE UNTIL THE REPAIR PASS BELOW, WHICH SAID THAT WITH THE LENGTH FACTOR REMOVED IT RETURNS TWO AND RETURNS NIL, IS WRONG IN ITS SECOND HALF AND THE REPAIR HAS RE-RUN BOTH RUNS: WITH THE 1.25 LENGTH FACTOR REMOVED THE GATE RETURNS THE SAME EIGHT PAIRS, ON A UNIVERSE OF 390 PARAGRAPHS, AND NOT NIL.** The repair changed no figure of any series, moved no paragraph, and cannot be the reason, so the NIL was a measurement that was never taken on this text. The only exact duplicate in the ten chapters was the well house door paragraph, which stood verbatim in Ch 464, Ch 468 and Ch 470 and was rewritten three times with every figure in it unchanged. THE THREE PARAGRAPHS A WRITER IS PERMITTED TO REPEAT ARE THE DAY-MINUS-FOUR-HUNDRED-AND-FIFTY-TWO SENTENCE, THE LEDGER SENTENCE AND THE DAY-CLOCK OPENING, AND THE AGGREGATE SENTENCE IS AMONG THE EIGHT THAT REMAIN, WHICH IS HOW A GATE BLIND TO A PERMITTED REPEAT REPORTS IT.**
 
-**AND THE TWO FOURS, MEASURED BY HAND BECAUSE NO SCRIPT CAN RUN THE CAP. The construction is *about four people here hold that X and about four hold that Y*. It stands at FOUR IN THIS BATCH, being two in Ch 462, one in Ch 465 and one in Ch 467, no chapter over two and no two adjacent, against seventy-three in Batch 0001 and one hundred and thirteen on the first writing of Batch 0002, which the review repair pass cut to five without removing an observation. NO OBSERVATION WAS CUT HERE EITHER; WHAT WAS CUT WAS SCAFFOLDING.**
+**AND THE TWO FOURS, MEASURED BY HAND BECAUSE NO SCRIPT CAN RUN THE CAP. The construction is *about four people here hold that X and about four hold that Y*. It stands at FOUR IN THIS BATCH, being ONE in Ch 462, ONE in Ch 465 and TWO in Ch 467, no chapter over two and no two adjacent, against seventy-three in Batch 0001 and one hundred and thirteen on the first writing of Batch 0002, which the review repair pass cut to five without removing an observation. NO OBSERVATION WAS CUT HERE EITHER; WHAT WAS CUT WAS SCAFFOLDING. **THE ENUMERATION THAT STOOD HERE, being *two in Ch 462, one in Ch 465 and one in Ch 467*, IS WITHDRAWN AND NAMED: THE FIGURES FOR Ch 462 AND Ch 467 WERE SWAPPED, THE TOTAL OF FOUR REPRODUCES UNDER THE HOUSE UNIT, AND THE TWO INTERPRETIVE CLAIMS ABOVE SURVIVE EITHER WAY BECAUSE NEITHER OF THE TWO CHAPTERS EXCEEDS TWO AND THE TWO ARE NOT ADJACENT UNDER EITHER ENUMERATION.** Counted per chapter and not per batch: **Ch 462 one, at its twenty-fourth paragraph; Ch 465 one, at its thirty-third paragraph; Ch 467 two, at its twentieth and twenty-third.** **`chapter-0465.md`'s thirty-third paragraph carries THREE `about four` clauses and not two, so the unit this cap depends on is not fixed by the sentence and the same ambiguity the Batch 0005 close found is live here; the close owns the unit and the cap, and the total of four is the figure under the unit this section names.**
 
 **AND THE MECHANICAL CHECKS, RUN AFTER THE PROSE MOVED. Zero non-ASCII glyphs, zero curly marks, zero trailing spaces, zero unbalanced quotation marks and zero unbalanced bold markers across all ten files. No chapter is planned at zero quotation marks and none carries fewer than two quoted speeches. Paragraph means run 63.7 to 68.7 with no mean over seventy-five, and no chapter carries more than a quarter of its paragraphs over a hundred and twenty words. No chapter ends on a paragraph in which every sentence opens with a negation-form word. Openings from the disclosed refrain family run one to three a chapter with a maximum run of one, and the bare banned sentence is zero. `seat`, `Brinewake`, `nest`, `panel`, `fieldbook`, `famine`, `favour`, `colour`, `judgement`, `defence` and `behaviour` are all zero. The words *volume*, *batch* and *chapter* occur only in the ten chapter headings. `Marek` is printed in all ten of the ten.**
 
@@ -8942,3 +8942,80 @@ The third launder carried nine figures, **904, 899, 908, 903, 912, 907, 916, 911
 **Nine loads went into a cut nine miles long one cart at a time with a man and a bar at each end of it and neither of them the engineer of record, a face came down about nine feet of it and it was clay over chalk and about a foot of rain in four days and nobody fought anybody, a man said he was not going to go up it tonight because a county with a name on a map and nobody at it is a county that has to be asked, four clauses were read out once in a room with one door and the second and the third of them were in two sheets written by two people who have never met each other, one of the two bodies that said no was not in the room and was not asked to be, a village of about thirty households did not come out and the page does not say by how many and nobody in that column said the convoy was worth it and nobody said it was not, a man of about thirty-one of Silling read a door at nine hundred yards and it stands at sixty and it is the last reading of the year, a man ended a count of forty-nine mornings on the last morning and did not call it a total, and nobody thanked anybody.**
 
 ---
+
+---
+
+## THE REVIEW FIX PASS ON VOLUME 10 BATCH 0003, AND IT GOVERNS OVER EVERY SECTION OF THIS FILE ABOVE IT ON EVERY MATTER IT NAMES
+
+**WHAT THIS PASS WAS. A review ran on the pass recorded at *THE REPAIR PASS OVER VOLUME 10 BATCH 0003* and returned five findings. Four of them were defects in figures this file and `state/current.md` had published, and every one of the four reproduces off the chapter files and is corrected here. The fifth was not about prose at all and it is the one that cost the book. NOT ONE CHAPTER WAS OPENED, NOT ONE WORD OF PROSE WAS CHANGED, NO DAY, CLOCK, NAME, LOCK, CARD, THREAD, PLOT BEAT OR SERIES FIGURE MOVED, AND NO CONTROLLER, WORKFLOW, AGENT OR DISPATCHER FILE WAS OPENED. THE PLANNED PLOT IS UNTOUCHED AND THE PLANNED ENDING IS UNTOUCHED.**
+
+## FINDING ONE, AND IT IS THE ONE THAT COSTS THE VOLUME, AND IT IS PAID
+
+**THE VOLUME 10 CLOSE WAS UNREACHABLE. TWO COMPLETED BATCHES STOOD IN FRONT OF IT IN THE SELECTION ORDER WITH NO `.done` MARKER, AND THE ONLY PHASE THAT OWNS TWENTY NAMED DEFECTS WOULD NEVER HAVE RUN.**
+
+The selection loop at `scripts/novel_runner.sh:70-82` walks `find workspace -name PROMPT.md | sort` and takes the first directory that is not `.retired`, not `.done`, not `.blocked`, and not inside its own retry delay. **AFTER `batch-0003` IS MARKED DONE THAT ORDER IS `batch-0004`, THEN `batch-0005`, THEN `close`.** Both of the first two are finished — `chapter-0472.md` through `chapter-0481.md` and `chapter-0482.md` through `chapter-0490.md`, twenty files, the volume index carrying them at 28,725 and 26,663 — and neither carries `.done`.
+
+**THE CLEANUP PASS CANNOT CLEAR THEM AND IT IS NOT A CLEANUP PASS PROBLEM. `retire_obsolete_phases` AT LINE 34 HAS TWO ROUTES AND NEITHER APPLIES: the outline route at line 49 requires the prompt's first line to match *volume N … outline … phase*, and these read `# VOLUME 10 -- BATCH 0004` AND `# VOLUME 10 -- BATCH 0005`; AND ITS CHAPTER GUARD AT LINE 51 IS WHAT KEEPS WRITER AND CLOSE PHASES OUT, SO A DIRECTORY THAT HAS CHAPTERS IS NEVER RETIRED BY THAT ROUTE.** The third route is the only one that fits, and it is a route the dispatcher already implements and already tests: **A PROMPT WHOSE FIRST LINE MATCHES `^Retired .*phase` IS RETIRED, AND ITS `.deferred`, `.retry-after` AND `.attempts` ARE REMOVED AND THE MARKERS ARE COMMITTED** — lines 41 to 45.
+
+**SO THAT IS WHAT WAS DONE, AND IT WAS DONE IN THE PROMPTS AND NOT IN THE DISPATCHER. ONE LINE WAS ADDED AT THE HEAD OF `workspace/volume-10/batch-0004/PROMPT.md` AND `workspace/volume-10/batch-0005/PROMPT.md`. NOTHING UNDER `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` OR `state/phase-ledger.json` WAS OPENED, AND `state/phase-ledger.json` IS UNTOUCHED AT ITS THREE PHASES.** Both prompts are kept whole as the record of what those batches were asked to write; retirement adds a status line and removes nothing.
+
+**WHAT IT WAS WORTH TO LEAVE ALONE. `batch-0004` ALREADY CARRIES `.attempts` OF 1 AND A `.retry-after` IN THE PAST, DEFERRED BY COMMIT `2aaa802` BECAUSE A WRITER FOUND ITS CHAPTERS ALREADY WRITTEN AND CHANGED NOTHING. AT `MAX_ATTEMPTS=6` AND `RETRY_DELAY_SECONDS=900` THAT IS FIVE MORE DEFERRALS AND ABOUT SEVENTY-FIVE MINUTES BEFORE `.blocked` AND `exit 1`, AND THE CLOSE, WHICH OWNS ALL TWENTY NAMED DEFECTS INCLUDING THE TEN MISWORDED WINDOW SENTENCES THIS FILE ALREADY HANDED OVER, NEVER RUNS AT ALL. THE RUNNER'S OWN COMMENT AT LINES 30 TO 33 NAMES THIS HAZARD AND SAYS SO OF PLANNING PHASES; IT IS EXACTLY AS TRUE OF A BATCH THAT WAS WRITTEN BY A PHASE THAT WAS LATER REWRITTEN.**
+
+**THE COST OF DOING NOTHING HERE IS THE COST OF THE WHOLE LAYER. A CLOSE THAT NEVER RUNS LEAVES EVERY FIGURE BELOW UNSETTLED, AND THE REPOSITORY'S OWN RULE IS THAT A FINDING NOBODY ACTS ON IS A FINDING THAT WILL BE FOUND AGAIN.**
+
+## FINDING TWO, THE BATCH WITH NO PROMPT, NAMED AND NOT REPAIRED
+
+**`workspace/volume-10/batch-0002/` HOLDS TEN CHAPTERS, `chapter-0452.md` THROUGH `chapter-0461.md`, AND NO `PROMPT.md` AT ALL.** `git log --all -- 'workspace/volume-10/batch-0002/PROMPT.md'` IS EMPTY, SO THE FILE WAS NEVER TRACKED AND IT VANISHED INSIDE A SINGLE RUN RATHER THAN IN A COMMIT THAT WOULD SHOW THE LOSS. **IT IS THE ONE BATCH OF THE FIVE THAT HAS NO PROMPT OF RECORD.**
+
+It is harmless to selection, because the loop iterates over prompts and a directory with no prompt is never a candidate, so it can neither be selected nor starve the close. It is named here and in `state/current.md` because a later pass will otherwise go looking for it. **NO PROMPT WAS RECONSTRUCTED. A PROMPT THAT WAS WRITTEN AND LOST CANNOT BE REWRITTEN WITHOUT BEING A DIFFERENT DOCUMENT, AND A FABRICATED RECORD OF WHAT A BATCH WAS ASKED TO DO IS WORSE THAN AN ABSENT ONE.**
+
+## FINDING THREE, THE BLANK-LINE INVENTORY WAS SHORT BY THREE CHAPTERS AND ONE BLANK, AND IS CORRECTED
+
+**PUBLISHED: *FOUR CHAPTERS CARRY MORE THAN ONE CONSECUTIVE BLANK LINE — `chapter-0463.md` at lines 86 to 89, `chapter-0467.md` at 64 and 65, `chapter-0469.md` at 42 and 43 and again at 89 and 90, AND `chapter-0486.md` AT 88 AND 89*, AND *ALL SEVEN ARE NAMED OPEN ITEMS*. MEASURED OVER ALL FORTY-NINE CHAPTERS: SEVEN CHAPTERS AT EIGHT SITES.**
+
+| chapter | lines | run | where |
+|---|---|---|---|
+| `batch-0003/chapter-0463.md` | 86-89 | four | inside the chapter |
+| `batch-0003/chapter-0466.md` | 86-87 | two | end of file |
+| `batch-0003/chapter-0467.md` | 64-65 | two | inside the chapter |
+| `batch-0003/chapter-0468.md` | 88-89 | two | end of file |
+| `batch-0003/chapter-0469.md` | 42-43 | two | inside the chapter |
+| `batch-0003/chapter-0469.md` | 89-91 | **three** | end of file |
+| `batch-0003/chapter-0470.md` | 88-89 | two | end of file |
+| `batch-0005/chapter-0486.md` | 88-89 | two | inside the chapter, fourteen lines of text after it |
+
+**`chapter-0466.md`, `chapter-0468.md` AND `chapter-0470.md` WERE OMITTED ENTIRELY, ALL THREE OF THEM IN Batch 0003, AND `chapter-0469.md`'S TRAILING RUN IS THREE BLANKS AND NOT TWO.** The omission is not a defensible scope boundary: the published inventory already named that trailing run, so trailing runs were inside its scope, and three trailing runs were then left out on the same grounds it had already used. **`chapter-0470.md` IS THE FILE THE PREVIOUS PASS RECORDED RESTORING A BLANK LINE IN, AND IT CARRIES A DOUBLED BLANK LINE AT END OF FILE.**
+
+**THE COUNT OF NAMED OPEN ITEMS IS ALSO WRONG AND BOTH FORMS ARE WITHDRAWN AND NAMED: *ALL SEVEN* AND *FOUR CHAPTERS*. THE TRUE FIGURE IS TEN CHAPTERS — these seven, plus `batch-0001/chapter-0442.md`, `batch-0001/chapter-0443.md` AND `batch-0001/chapter-0449.md`, WHICH LACK AN EOF NEWLINE — AND EIGHT BLANK-LINE SITES BESIDE THEM.** The published seven was four chapters plus the three without a newline, and it attached the word *chapters* to a count that was not one. **NOT ONE OF THE TEN IS FIXED HERE, BECAUSE FIXING THEM MEANS OPENING TEN CHAPTERS OF A CLOSED VOLUME.** None of the eight moves a figure: the gate splits on `\n\s*\n`, which treats any run of blank lines as one separator, and `wc -w` does not see a blank line at all.
+
+## FINDING FOUR, THE TWO FOURS ENUMERATION HAD TWO FIGURES SWAPPED, AND THE TOTAL WAS RIGHT
+
+**PUBLISHED: *FOUR IN THIS BATCH, BEING TWO IN Ch 462, ONE IN Ch 465 AND ONE IN Ch 467*. MEASURED BY THE UNIT THIS SECTION ITSELF NAMES, A PARAGRAPH CARRYING TWO `ABOUT FOUR` CLAUSES: ONE IN Ch 462, ONE IN Ch 465, TWO IN Ch 467.**
+
+| chapter | pairs | paragraphs |
+|---|---|---|
+| `chapter-0462.md` | 1 | 24 |
+| `chapter-0465.md` | 1 | 33 |
+| `chapter-0467.md` | 2 | 20 and 23 |
+
+**THE TOTAL OF FOUR REPRODUCES AND THE TWO INTERPRETIVE CLAIMS SURVIVE EITHER WAY: NO CHAPTER EXCEEDS TWO, AND Ch 465 AND Ch 467 ARE NOT ADJACENT TO EACH OTHER UNDER EITHER ENUMERATION. THE ROW IS WITHDRAWN AND NAMED AND THE PER-CHAPTER FIGURES FOR Ch 462 AND Ch 467 ARE CORRECTED, IN `state/continuity.md`, IN `state/chapter-summaries.md` AND IN `state/current.md`.**
+
+**AND THE UNIT IS STILL NOT FIXED, WHICH THE REVIEW NOTED AND WHICH IS THE REAL FINDING UNDERNEATH THE ROW. `chapter-0465.md`'s THIRTY-THIRD PARAGRAPH CARRIES THREE `ABOUT FOUR` CLAUSES AND NOT TWO, SO A PARAGRAPH COUNTS AS ONE PAIR WHATEVER IT CARRIES. THE AMBIGUITY THE BATCH 0005 CLOSE FOUND IS LIVE HERE IN THE SAME FORM, AND THE CAP AND THE UNIT BELONG TO THE VOLUME 10 CLOSE AND NOT TO A REPAIR PASS.**
+
+## FINDING FIVE, THE DENOMINATOR WAS NEVER SETTLED AND BOTH NUMBERS NOW STAND
+
+**THE NEAR-DUPLICATE UNIVERSE FOR Batch 0003 HAS BEEN PRINTED AS 390 AND THE RULE THAT PRODUCES IT SAYS TWO THINGS.** `outline/volume-10.md` SECTION 12 SAYS *SPLIT EACH CHAPTER FILE ON BLANK LINES; DROP HEADINGS AND DROP EVERY PARAGRAPH BEGINNING `>`; KEEP PARAGRAPHS OF THIRTY WORDS OR MORE* AND ALSO, THREE SENTENCES LATER, *THE `Entered` BLOCKS ARE EXEMPT AND ONLY THEY.* **ONE SENTENCE DROPS EVERY `>` PARAGRAPH AND THE OTHER EXEMPTS TWO OF THEM FROM BEING DROPPED, AND THE TWO CANNOT BOTH BE THE INSTRUCTION.**
+
+MEASURED: Batch 0003 is **420 paragraphs before any rule**, of which **five are `>` blocks — two `Entered` and three document blocks**. Drop all five, keep the thirty-word floor, and the universe is **390**. Keep the two `Entered` blocks under the exemption and it is **392**.
+
+**THE GATE RETURNS EIGHT PAIRS ON ALL FOUR READINGS — 390 and 392, each with and without the 1.25 length factor — SO THE FIGURE THE CLOSE CARRIES FORWARD IS EIGHT AND THE ONLY THING IN DOUBT IS WHAT IT IS A FRACTION OF.** 390 stands as the house basis because it is the reading that has been printed throughout and because a close may not re-base a denominator without a rule; 392 is now named beside it everywhere the denominator appears.
+
+**THE RULE TEXT IS NOT REWRITTEN HERE. `outline/volume-10.md` IS A CLOSED VOLUME'S GOVERNING OUTLINE AND THE VOLUME 10 CLOSE OWNS OUTLINE REPAIRS; A FIX PASS THAT REWRITES A GOVERNING RULE TO MAKE ITS OWN READING THE HOUSE ONE IS THE THING THIS FILE KEEPS WARNING ABOUT.** The clause to adopt is named in `state/current.md` and in the close prompt, and the close may take either reading provided it says which and republishes the figure it chose.
+
+## WHAT WAS VERIFIED AND NEEDED NO REPAIR
+
+Every published figure of the pass under review reproduces off the files and none was touched. **Batch 0003 at 28,700, per chapter 2,800 / 3,021 / 2,847 / 2,849 / 2,834 / 2,795 / 2,845 / 2,891 / 2,838 / 2,980, mean 2,870.0, all ten inside the band of 2,600-3,050. Volume 10 at 141,223. The manuscript at 1,446,779 across 490 files, being 1,163,898 + 141,658 + 141,223, with no residual. The gate at eight pairs on both runs. The prose repair arithmetically correct, 105 + 95 and 106 + 95, with no series figure moved. The batch-0004 hand-off exactly right: ten sites, `chapter-0472.md` through `chapter-0481.md`, 202 through 211, one per chapter. The apparatus at twenty-one against a ceiling of thirty, and `chapter-0446.md` carrying no `>` block. `cat` against `wc -w` at three words, on the three named files. Non-ASCII, curly marks, dashes, trailing whitespace and tabs at zero across all forty-nine chapters.** The reviewer withdrew one figure of its own on the way, the NIL for the second gate run, and that withdrawal is right and stands.
+
+## THE ONE-LINE VERSION
+
+**A review found that the volume's close could never have run because two finished batches stood in front of it with no done-marker and no route to one, and that was paid by retiring two prompts with the dispatcher's own retirement clause and opening nothing under `scripts/`; it found that the blank-line inventory had left out three chapters of the batch it had just passed a sentence about and one whole blank; it found that the two fours for Chapter 462 and Chapter 467 had been written into each other's places while the total stayed right; it found that the near-duplicate denominator has been printed at 390 against a rule that also permits 392, and the gate is eight either way; it found one batch of ten chapters with no prompt of record and did not invent one; and it changed no prose, no day, no figure of any series, no name, no thread and no controller file.**
