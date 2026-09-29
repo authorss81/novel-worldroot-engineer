@@ -10,7 +10,7 @@ The frame is four feet by four and it is oak and it is the fourth one, and the t
 
 Marek was on the frame with him for the pull and his forearm did not ache, and about four people in this holding have stopped remarking on that and about four have not, and the two fours have not been asked and the man was not asked and is not going to be.
 
-This morning's page carries nothing against the run. The boards go at the seventh hour on alternate mornings and this is an even one, and both men who read them are the two who had the frame in the well house from the second hour to the fourth. Nobody in this building asked a third man to take it and it was not taken and the count stands where it stood on Wednesday and will be read on Sunday morning at the seventh hour.
+This morning's page carries nothing against the run. The boards go at the seventh hour on alternate mornings and this is an even one, and both men who read them are the two who had the frame in the well house from the second hour to the fourth. Nobody in this building asked a third man to take it and it was not taken and the count stands where it stood on Friday and will be read on Sunday morning at the seventh hour.
 
 The pair of boards stands at **five hundred and ninety-four days** and **six hundred and forty-one**, forty-seven apart, and the drawer was not opened.
 
@@ -68,10 +68,10 @@ The sheet in the drawer that claims a corridor in the pan does not open a route.
 
 The compost line is paid and the run is twenty-one not discharged in twenty-one and it measures nothing, and fifty-seven is not a measurement of the compost line and a hundred and four days is not a measurement of anything, and the three of those have never been added in this holding in four years.
 
-Eleven years bare is what the ring inside the eleven acres is, and the number of people who have ever stood in it is one less than the number of people who have ever wanted to. There is no figure for it in four counties. The ground on either side of it is still going wrong and going slower and nobody has been asked about that word this morning or any morning.
+Eleven years bare is what the ring inside the eleven acres is, and nobody in this holding has ever stood in it and nobody has ever put a foot in it, and there is no figure for it in this county or in any of the three others. The ground on either side of it is still going wrong and going slower and nobody has been asked about that word this morning or any morning.
 
 There is a sheet on a shelf behind the middle table with no date at the head of it, and it is in the order it was used, and nobody has moved it to the top of the stack and nobody in this holding has been asked to and nobody is going to be.
 
-The arm is four inches and forks twice and that was true at the second hour and at the sixth and it will be true tomorrow. A reading is not on it. A form is not on it. A refusal is not on it. A body with no charter is not on it. The four accounts of that arm do not reconcile and no hour of this Friday added one, and the man who read fifty-seven off a door nine hundred yards off did not know that anybody in this building keeps a count of what does or does not go on a scar.
+The arm is four inches and forks twice and that was true at the second hour and at the sixth and it will be true tomorrow. A reading is not on it. A form is not on it. A refusal is not on it. A body with no charter is not on it. The four accounts of that arm do not reconcile and no hour of this Monday added one, and the man who read fifty-seven off a door nine hundred yards off did not know that anybody in this building keeps a count of what does or does not go on a scar.
 
 Nobody thanked anybody. The lamp went off the middle table at about the first hour and the form stayed on it where it had been all day and the fifty-seven was not entered anywhere except on the door, which is nine hundred yards off, and the door is not a book and the two have not been added in this holding in four years.

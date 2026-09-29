@@ -10,7 +10,7 @@ The rota stands at ninety-two mornings in force with twenty-nine taken and sixty
 
 The two reckonings of that rotation disagree and both go down. Today is the fortieth morning of one and the twenty-seventh of the other, which is where they should be on the second of the month and is not where anybody would get by counting days. The thirteen between them has been there four years and has never once been explained.
 
-Nothing goes on this page for the run. The seventh hour came and went and the man who reads one of the two boards had gone east at the first hour with a roll and a sheet and had not returned by the time the lamp was lit, and the second man did not read his side alone and nobody thought to ask a third. The figure is seventy-seven of a hundred and thirty-seven when somebody reads it and it is not read this morning.
+Nothing goes on this page for the run. The seventh hour came and went and the man who reads one of the two boards had gone east at the first hour with a roll and a sheet and had not returned by the time the lamp was lit, and the second man did not read his side alone and nobody thought to ask a third. The figure is not on this page and it is not read this morning.
 
 The pair stands on the boards at **five hundred and ninety-six days** and **six hundred and forty-three**, forty-seven apart, and the drawer was not opened.
 
@@ -34,9 +34,7 @@ Nobody in this holding knows whose the second sheet is and nobody asked, and the
 
 The woman who keeps the seed house read the thing twice and put it down, and about four people in this holding have said she should have said something and about four have said there is nothing in that sheet to say something to, and neither of the two fours has been asked and she was not asked. The man who brought it stood at the long wall for about forty minutes and did not sit and did not read anything else, and about four people here have said that a man who stands at a wall in a room of nine is a man who has come to be in the room, and about four have said he is a man waiting to be asked, and neither of the two fours has been asked and he was not asked and did not ask to be.
 
-The woman who keeps the seed house read it twice and put it down, and about four people in this holding have said that she should have said something and about four have said that there is nothing in that sheet to say something to, and neither of the two fours has been asked and she was not asked.
-
-The man who had brought the sheet stood at the long wall for about forty minutes and did not sit and did not read anything else, and about four people in this holding have said that a man who stands at a wall in a room of nine is a man who has come to be in the room, and about four have said that a man who stands at a wall in a room of nine is a man who is waiting to be asked, and neither of the two fours has been asked and he was not asked and did not ask to be and about four people in this holding have said that he ought to have been asked and about four have said that he would have said no, and neither of the two fours has been asked and neither of the two fours has ever been asked anything by anybody in this building in four years.
+About four people in this holding have said since that he ought to have been asked, and about four have said that he would have said no, and neither of the two fours has been asked and neither of the two fours has ever been asked anything by anybody in this building in four years.
 
 Nobody in that room read the second line of the schedule against the first line of it because this holding does not hold the schedule, and the clerk of the first council holds it, and about four people in this holding have wanted a copy of two lines out of it since a month now two months back and about four have not, and neither of the two fours has been asked and the request column does not move and is fifty-three.
 
@@ -62,7 +60,7 @@ The second sheet is one page in the hand of the man who came up the fen road and
 
 It is one page and it is not a declining and the clerk entered it as a sheet and not as a declining, and the requests column did not move and is fifty-three, and the second rule on the board is blank and the count of blanks is not the count of a man.
 
-Nobody in that room said the two words together. Nobody in that room put the first sheet and the second sheet in a sentence and said anything out loud, and the word that is in the second sheet is in the second sheet and has not been said out loud by anybody in this building, and about four people in this holding have written it down since and about four have not, and neither of the two fours has been asked and the man of about fifty was not asked and has not been asked.
+Nobody in that room said the two words together. Nobody in that room put the first sheet and the second sheet in a sentence and said anything out loud, and the word that is in the second sheet is in the second sheet and has been said out loud in this building exactly once, by the clerk, reading it as it was written because there was no other way to put it in the room, and about four people in this holding have written it down since and about four have not, and neither of the two fours has been asked and the man of about fifty was not asked and has not been asked.
 
 Nobody thanked anybody. The man from the road went back down the fen road at about the fifth hour and the two sheets were on the long table and one of them was entered under a clause and one of them was entered as a sheet, and the two of them are about the same thing on the same morning and the two of them are not the same kind of object and this building has no column for either of them and has had four years of not having a column for anything.
 

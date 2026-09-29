@@ -66,7 +66,7 @@ It came up the fen road on the ordinary post at about the fifth hour in an envel
 
 There was nobody in the room at that moment. There were about nine in the room at the eighth hour and by then the sheet had been on the table for about two hours and every one of the nine had read it, and nobody knows who read it first, and about four people in this holding have said they were in the room at the sixth hour and were not and about four have said nothing, and neither of the two fours has been asked and the clerk of this holding was not asked and has not been asked.
 
-The Undercommons sheet is still on the long table and the year has not come back and the ordinary post is the ordinary post, and the request for a certified figure of days is in the second book with a date against it and the answer went back on the twentieth in the clerk's hand and it is one sentence.
+The Undercommons sheet is still on the long table and the year has not come back and the ordinary post is the ordinary post, and the request for a certified figure of days is in the second book with a date against it and the answer went back on Friday in the clerk's hand and it is one sentence.
 
 There is one more thing on that table and it is the sheet of rough paper with the ten on it, and it is the fifth morning it has been on the long table and about four people in this holding have said it should be put away now that it has been copied and about four have said that putting it away is a decision about what a piece of paper is, and neither of the two fours has been asked, and it is on the table.
 
@@ -74,7 +74,7 @@ The offer is on the low board, face up, not filled, not withdrawn, no date and n
 
 The register form is on the middle table at a hundred and five days, not filled, not refused, nothing at the head of it, and a fetching is not that form and a compost line is not that form and a month is not that form, and the three of those have never been added in this holding in four years.
 
-The ring inside the eleven acres is bare in its eleventh year and stayed bare this morning. The water that came across the low side went over it and did not stop in it, and nobody in this holding has worked out what that means and nobody has asked. On either side of it the ground is still going wrong, and it is going slower, and this building has never claimed that a slow failure is a small one.
+The ring inside the eleven acres is bare in its eleventh year and stayed bare this morning, five miles off, and the water that came across the low side this morning never got near it. On either side of it the ground is still going wrong, and it is going slower, and this building has never claimed that a slow failure is a small one.
 
 Nobody thanked the man of about thirty-one of Silling for the two journeys and nobody thanked him for the two readings and nobody in this holding has said a word to him about either, and he put the trough full and the bucket down and drank his pint of water and went home at about the sixth hour, and the second of the four lines in his own book is ninety-nine days old and has nothing on it.
 
