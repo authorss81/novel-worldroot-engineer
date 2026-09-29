@@ -3979,3 +3979,63 @@ Thirty-five threads at day 654 and thirty-five after the repair pass, and the re
 ## THE ONE-LINE VERSION
 
 **All thirty-five threads stand unchanged at day 703, none was answered by Volume 10, two of them may never be answered in any volume, and six more were opened by the closing batch without any of them becoming a defect.**
+
+---
+
+# VOLUME 11 OUTLINE PASS — THE THIRTY-FIVE THREADS AT DAY 703 AND THE CHAPTER EACH IS PLANNED TO ADVANCE IN
+
+**VOLUME 11 IS PLANNED AND NO CHAPTER OF IT EXISTS. THE COUNT IS THIRTY-FIVE AT DAY 703 AND THIRTY-FIVE IN `outline/volume-11.md`, AND THE OUTLINE NAMES ALL THIRTY-FIVE AGAINST A CHAPTER. NO CHAPTER OF VOLUME 11 HAS ANSWERED ONE, CLOSED ONE, REWORDED ONE, SUMMED ONE, GROUPED ONE OR ADVANCED ONE TO A FIGURE, BECAUSE NO CHAPTER OF VOLUME 11 HAS BEEN WRITTEN. THE CHAPTER COLUMN BELOW IS WHAT THE OUTLINE PLANS AND IT IS A PLAN AND NOT A RECORD.**
+
+**THE SIX THAT Volume 10 OPENED ON ITS LAST MORNING ARE CARRIED AND NONE OF THEM IS AMONG THE THIRTY-FIVE, WHICH Volume 10's OWN CLOSE SAYS OUT LOUD: A MAN WHO CAME DOWN NINE MILES TO SAY ONE SENTENCE AT A TAP AND IS STILL ON THE SOUTH WALL OF THE SEED HOUSE AND NOBODY HAS A COLUMN FOR A MAN WHO WALKS; THE MAN IN THE CART SHED AT THE MOUTH OF THE CUT, IN IT SINCE THE SECOND OF A MONTH NOW TWO MONTHS BACK, WITH NO NAME, NO FIGURE AND NO OUTCOME; THE FOUR CLAUSES READ OUT ONCE IN A ROOM WITH ONE DOOR, ONE OF THE TWO BODIES THAT DECLINED NOT BEING IN THE ROOM AND NOT HAVING BEEN ASKED ANYTHING; THE THIRTY-FIVE THREADS THEMSELVES, WHICH CH 445 STATED ALOUD AND WHICH NO PAGE HAS TALLIED SINCE AND WHICH NO PAGE MAY TALLY; THE FORTY-NINE MORNINGS THE MAN OF ABOUT FIFTY ENDED WITHOUT CALLING A TOTAL, IN ONE COLUMN FOUR RULED LINES DEEP; AND OSTREY, WHICH IS A VILLAGE OF ABOUT THIRTY HOUSEHOLDS WITH A NAME ON A MAP AND NOT A FIGURE AND NOT A SYMBOL AND WHICH Volume 11 DOES NOT GO TO.**
+
+| # | Thread | Day 703 standing | Chapter Volume 11 plans to advance it in |
+|---|---|---|---|
+| 1 | Whose order it is | asked four times, answered never, named once without being asked | **506, and the advance is that the sheet has a date at the foot and no name at the head, said once** |
+| 2 | Whether the telling is still going on | untouched for a seventh volume | **PROHIBITION AND NOT A CHAPTER** |
+| 3 | What a record is for | the four ruled lines empty and the answer not due | **491, 539** |
+| 4 | The corridor in the pan | neither closed nor opened, and the sheet claiming it is correct | **493, 520** |
+| 5 | The seed vault of forty households | not recovered and no figure of people | **498, named a fourth time and not improved** |
+| 6 | The ring of bare ground | not walked, not measured, no dimension on any page | **505, 528** |
+| 7 | Who speaks for the eleven acres | seven answers in four years and no eighth | **496** |
+| 8 | The unit of the Marden numbers | not known and not supplied at any site | **502, 531, and the count of questions goes two to three** |
+| 9 | Why the middle came down | unreconciled and the volume uses neither rate | **509** |
+| 10 | The blank columns and the seventh | the seventh at sixty, read four mornings against a plan of two | **507, 508, 537, 538, to sixty-four on four readings all of them on the rule** |
+| 11 | The man of about seventy | twenty-six fetchings, the last on day 691 | **508, 538, the twenty-seventh and the twenty-eighth** |
+| 12 | The two figures it cannot check | two, the first not named | **497** |
+| 13 | The man of the north row with the cough | four ruled lines empty and the answer not due | **521** |
+| 14 | How much seed in Thornwild | counted in sacks and not priced in days | **516** |
+| 15 | Whether the bridge is on | held by two people, neither of them him, and never said to be on | **499, 529** |
+| 16 | The thirty-five open questions in general | thirty-five | **494, and the rule is said aloud in a room and the page does not tally** |
+| 17 | The pulse | two figures and no name, not read a third time | **517** |
+| 18 | The use log and the fifteen | fifteen lines and no sixteenth | **500** |
+| 19 | The pattern-holder counts and the two rootmarks | two for four, one for five, two rootmarks | **493** |
+| 20 | The four accounts of the arm and the mark | four accounts, four inches, none reconciling | **512, 534** |
+| 21 | The number of questions available to a room | eight unmoved | **503, and the count goes eight to seven** |
+| 22 | The things said out loud in a yard and got wrong | five and unmoved | **495** |
+| 23 | The bookkeeper in a yard | fifteen, the last in a closed volume | **495, and it is the sixteenth** |
+| 24 | The bodies at the node | five, and not given in a yard | **495** |
+| 25 | The bodies that asked who holds the pen | one, a count of a question | **500** |
+| 26 | The requests and the section-nine notes | fifty-three and fifty-three, never added | **492, 511** |
+| 27 | The barrow and the four roads | eleven journeys, a floor | **492, 522, and the nine miles to the machine is not one of the four** |
+| 28 | The register form and the offer | 147 days, not filled; face up, not filled, not withdrawn | **493, 519, 539** |
+| 29 | The form with four lines | 184 hundredweight on line one and three empty | **512** |
+| 30 | The sheet and the sealing order | both in drawers and both correct | **502, 526** |
+| 31 | The five terms and the third column | ruled and empty under a heading since day 641 | **507** |
+| 32 | The succession ladder | one rung climbed in a closed volume and the offer left open | **515, and Volume 11 CLIMBS ZERO RUNGS AND MAKES NO OFFER OF ANY KIND** |
+| 33 | The decision of the eleventh of the fourth | not reopened by anything in the closed volume | **513** |
+| 34 | The valley of the middle and the not knowns | six not knowns with no unit, eleven day-and-no-figure entries | **493, 524, 512, and the count goes eleven to twelve to thirteen** |
+| 35 | What the wood keeps | the comfort is not standing and the day does not come back | **497, 524, 539** |
+
+## THE TWO THAT NO VOLUME MAY ANSWER, RESTATED
+
+**WHOSE ORDER IT IS IS NOT ASKED AGAIN AND IS NOT NAMED. THE SENTENCE AT `workspace/volume-08/batch-0003/chapter-0372.md:47` WAS SPENT IN A CLOSED VOLUME AND MAY NOT BE USED AGAIN.**
+
+**WHETHER THE TELLING IS STILL GOING ON IS UNTOUCHED FOR AN EIGHTH VOLUME. NO CHAPTER OF VOLUME 11 MAY SAY ANYTHING ABOUT IT, USE THE WORD TO MEAN IT, OR USE THE PHRASE. A SWEEP OF Volume 10 FOR THE WORD RETURNS SEVEN HITS AND EVERY ONE IS THE ORDINARY VERB, AND A SWEEP THAT RETURNS THE ORDINARY VERB IS NOT A BREACH AND IS NOT A PERMISSION.**
+
+## AND THE SIX FIGURES THIS PASS CORRECTED, BECAUSE A THREAD LIST THAT CARRIES A WRONG CLOCK IS NOT A THREAD LIST
+
+**WITHDRAWN AND NAMED: DAY 703 AS A MONDAY, DAY 704 AS A TUESDAY, DAY 721 AS A FRIDAY, DAY 751 AS A SUNDAY AND DAY 752 AS A MONDAY. THE DERIVATION FROM DAY 451 AS THE FIRST OF THE FOURTH AND A TUESDAY GIVES TUESDAY, WEDNESDAY, SATURDAY, MONDAY AND TUESDAY. ALSO WITHDRAWN: 121 OF 201 FOR THE READ-ALOUD RUN AT DAY 752, WHICH IS 121 OF 225 AT DAY 751 AND NO FIGURE AT ALL ON DAY 752. ALSO WITHDRAWN: NINETY DAYS AT DAY 752 FOR THE SECOND OF THE FOUR LINES IN THE MAN OF ABOUT THIRTY-ONE OF SILLING'S OWN BOOK, WHICH IS 190 OFF DAY MINUS FIVE HUNDRED AND SIXTY-TWO.** THE FULL ARGUMENT AND THE EIGHT-ROW CHECK ARE IN `outline/volume-11.md` SECTION 2 AND IN `reviews/volume-11-outline.findings.md`, AND A CORRECTION BLOCK IS AT THE HEAD OF `state/current.md`.
+
+## THE ONE-LINE VERSION
+
+**Thirty-five threads at day 703 and thirty-five in the Volume 11 outline, every one of them with a chapter against it and no chapter yet written, six more carried from the closed volume and none of them counted into the thirty-five, two questions that no volume may answer, and six handed figures corrected and named rather than copied.**
