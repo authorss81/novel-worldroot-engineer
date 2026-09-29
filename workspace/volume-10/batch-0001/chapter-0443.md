@@ -32,6 +32,8 @@ The tenth of the ten is a ford.
 
 He had not got to it and nobody in the one room asked him about it, and about four people in this holding have wondered since whether a man who writes ten things on a road counts a ford as a thing, and about four have said that it is the only one of the ten that is not a thing anybody built, and neither of the two fours has been asked and the clerk was not asked and the man of about fifty did not ask him.
 
+A count of ten is a count of structures and is not a count of days. That is said once in this page and it is not going to be said again in this room, and a thing said once is not a rule and this building has a bad habit of turning one into the other.
+
 What the fourth book says about the ninth is this. It is a date, in the hand of the man who kept the book in those years, and against the date there are four words, and the four words are **WAS CROSSED IN SPRING**, and there is no figure against the four words and there is nothing under them, and the page is otherwise blank in a book that is not full of blank pages. It is the only page in that book with four words on it and nothing else, and it has been there since before this building had a third book.
 
 Tova Reed came up the fen road on the Tuesday with a cart of her own and she was in the seed house from the second hour of the afternoon until about the sixth, and she came into the one room at about the fourth hour and looked at the ten and at the eight pencil marks and then went and found the clerk.

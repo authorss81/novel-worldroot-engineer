@@ -40,7 +40,7 @@ The man of about fifty asked him which two and the clerk said he would find out 
 
 Nobody in this building knows what this man is. He is not a member of any of the four bodies of households, and this holding is not a member of anything and has no charter at all, and he did not say which body he was standing for, and nobody in this building thought to ask him, and about four people here have noticed that the sheet is on the long table and about four have not.
 
-The man of about fifty gave the reason first, and the count of that in this holding's history is two hundred and nineteen, and it belongs to him and to nobody else.
+The man of about fifty gave the reason first, and the count of that in this holding's history moved on this morning and is not written on this page, and it belongs to him and to nobody else.
 
 **"I am going to say the one thing about that sheet and I am giving the reason first, and the reason is that this holding keeps four books and has had a list on a table for about two hours and has not written a heading on anything, and a list without a heading is the exact thing the sixth column of the door was for five years."** "I am not saying put a heading on it. I am saying that a man walked a road in order to hand us a piece of paper, and the least this building can do is find out tomorrow which two of the ten are not in the books, and say so out loud in a room, and not write a word on the sheet itself, because the sheet is his and the heading would be ours and the two of them would then be one thing and it is not one thing."
 

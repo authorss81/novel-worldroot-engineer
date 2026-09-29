@@ -10,7 +10,7 @@ The count rises by exactly one on a morning this line comes round and by nothing
 
 This building keeps two reckonings of that rotation and they disagree, so the page carries both. This morning is the thirty-ninth morning of the first and the twenty-sixth of the second. Thirteen is the gap between them, thirteen has been the gap for four years, and no one has ever found the thirteen.
 
-There is no figure for the run of mornings here. The pair of boards is read at the seventh hour on alternate mornings and not on this one, and the reason is that both men who read them are the two men putting the room's business to bed and neither was in the building before the ninth hour. The count on that board is seventy-four of a hundred and thirty-one and it will be read on Sunday and not on this morning, and that is the whole of the matter.
+There is no figure for the run of mornings here. The pair of boards is read at the seventh hour on alternate mornings and not on this one, and the reason is that both men who read them are the two men putting the room's business to bed and neither was in the building before the ninth hour. The count on that board is not on this page and it will be read on Sunday and not on this morning, and that is the whole of the matter.
 
 The pair stands on the boards at **five hundred and ninety-two days** and **six hundred and thirty-nine**, forty-seven apart, and the drawer was not opened.
 
@@ -18,7 +18,7 @@ The twenty-eighth went in at about the ninth hour and came back out of the other
 
 **Nine hundred and twenty-six hundredweight.**
 
-Up eight off Friday, and the two hundred and eighth figure of a series that has not come out at the same figure twice since the morning it began, and it is a different eight from the one before it and nobody in this building has said why and nobody is going to be asked.
+Up eight off Friday, and the two hundred and eighth figure of a series that has not come out at the same figure twice since the morning it began, and it is the same eight as the rise before it and nobody in this building has said why a series should keep its own step and nobody is going to be asked.
 
 The rise went onto the rises. Ninety-three rises and eighty-two falls make a hundred and seventy-five.
 
@@ -42,7 +42,7 @@ There were about nine people in the one room at about the second hour of the aft
 
 The man of about fifty had the second book open on the long table and he did not read anything out of it and he did not turn any page over, and he stood at the head of the table for about a minute and then took his hand off the book and said the thing that this holding says in this room about once a season, and this was the once, and he gave the reason before he said it.
 
-**"I am going to say the rules of this book out loud and I am giving the reason first, and the reason is that a man walked a road and gave us ten lines and we have found two things wrong with them in three days, and both of the two things were not somebody being wicked, and if we do not write down what a thing has to be before it can be called a question, then in four years somebody will find a piece of paper with a heading on it and believe it, and that is what happened with the sixth column and it took five years."** "A defect is not a question. A document is not a question. A corridor being named is not an answer. A heading is not an answer. A road is not a route. A count of structures is not a count of days. And a mark is not a name, and a name is not a witness, and a man who comes up four miles on his boots is a witness to his own feet and to nothing else and that is not nothing."
+**"I am going to say the rules of this book out loud and I am giving the reason first, and the reason is that a man walked a road and gave us ten lines and we have found two things wrong with them in three days, and both of the two things were not somebody being wicked, and if we do not write down what a thing has to be before it can be called a question, then in four years somebody will find a piece of paper with a heading on it and believe it, and that is what happened with the sixth column and it took five years."** "A defect is not a question. A document is not a question. A corridor being named is not an answer. A heading is not an answer. A road is not a route. And a mark is not a name, and a name is not a witness, and a man who comes up four miles on his boots is a witness to his own feet and to nothing else and that is not nothing."
 
 Nobody in that room wrote it down. It was said out loud in a room with the door shut and it is not in the second book and it is not in the first book and it is not on the middle table and about four people in this holding have said that it should have been written down and about four have said that it has been said out loud in a room in this building about nine times in four years and has not been written down once, and neither of the two fours has been asked and the man of about fifty was not asked and has not been asked.
 
