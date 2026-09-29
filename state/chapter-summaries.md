@@ -1848,3 +1848,67 @@ He leaves and does not ask to be thanked and nobody thanks him. **The reader of 
 **THE STATE PUBLISHED *NIL, ACROSS 2,045 PARAGRAPHS*, AND 2,045 IS A REAL UNIVERSE AND NOT A WRONG FIGURE: it is every non-empty paragraph of the forty-nine files with BOTH headings dropped, being the `# Chapter N` line and the `## ` subheading line. 2,094 is the same thing with only the `#` line dropped, and that is what the written definition in `workspace/volume-09/batch-0005/PROMPT.md` produces, because it says *drop the heading* and the heading is singular and its own implementation kept the subheading. THE TWO DIFFER BY FORTY-NINE, BEING ONE SUBHEADING A CHAPTER. The other two universes are 1,807, the thirty-word floor of `outline/volume-09.md` guardrail 12, and 1,752, the Volume 08 script, which also drops `>` blocks.**
 
 **THE ZERO IS NIL ON ALL FOUR, AND THE GATE RETURNS NIL ON BOTH READINGS OF *DROP THE HEADING*, SO THE AMBIGUITY IN THE RULE CHANGES NO RESULT. THE FINDING IS THE NAMING AND NOT THE NUMBER: a denominator is the only figure in this comparison that cannot be recovered from its neighbours, because the numerator is nil under every one of them and a nil carries no information about the thing it is a count of. All four are published in `state/current.md`, in `state/continuity.md` and in the close prompt so that nobody quotes one and believes it is another.**
+
+---
+
+## ADDED BY THE VOLUME 09 CLOSE, AND IT GOVERNS OVER EVERY SECTION OF THIS FILE ABOVE IT
+
+**THIS IS A WRITER'S CLOSE AND NOT AN INDEPENDENT REVIEW. IT WROTE NO PROSE AND IT CHANGED NO ENTRY ABOVE IT. WHAT IT APPENDS IS THE CLOSED FIGURE FOR THE FORTY-NINE CHAPTERS OF VOLUME 09 AND THE THIRTY-TWO FINDINGS THAT ARE IN THOSE CHAPTERS, SO THAT A LATER PASS CAN FIND EVERY ONE OF THEM FROM ONE PLACE INSTEAD OF RE-DERIVING THEM.**
+
+**THE VOLUME'S BRACKET IS CLOSED AND WRITTEN OUT: 27,753 + 29,178 + 28,808 + 29,185 + 26,734 = 141,658 ACROSS FORTY-NINE CHAPTERS, MEAN 2,891.0, MINIMUM 2,671 AT Ch 402, MAXIMUM 3,017 AT Ch 429, ALL FORTY-NINE INSIDE 2,600 TO 3,050. THE MANUSCRIPT IS 1,163,898 ACROSS THE 392 CLOSED CHAPTERS PLUS 141,658 = 1,305,556 ACROSS 441 CHAPTER FILES, WITH NO RESIDUAL.**
+
+| Ch | Day | Words | Standing at the end of its morning | Finding |
+|---:|---:|---:|---|---|
+| 393 | 606 | 2,684 | rota 78/29/49, fields 49, rotation 26/13, third launder 824 (156th) | — |
+| 394 | 607 | 2,695 | Tova 26, reader 176, forty-one marks entered | — |
+| 395 | 608 | 2,825 | the five sentences; the count entered as thirty-five; man of fifty 111, Tova 29 | **6** |
+| 396 | 609 | 2,897 | the first motion carried; Tova 27 and 28 after a 29 | **6** |
+| 397 | 610 | 2,765 | the second county forms; rota 79/29/50 | **26** |
+| 398 | 611 | 2,747 | the third county refuses and asks for a list; man of fifty 112 and 113 | **10** |
+| 399 | 612 | 2,809 | the thirty-sixth return at 338 | **2** |
+| 400 | 613 | **2,950** | MAREK VALE on a sheet of his own, with the reason first | — |
+| 401 | 614 | 2,710 | the seventh answer and no eighth; the spent sentence is used again | **17** |
+| 402 | 615 | 2,671 | the vault named and not recovered; register form at fifty-nine days | — |
+| 403 | 616 | 2,999 | the well on the shelf read as a day and not a figure, the ninth entry | — |
+| 404 | 617 | 2,996 | the fourth word is a column; man of fifty 114, Tova 30 | **7** |
+| 405 | 618 | 2,942 | the seizure; the corridor sheet produced; the offer cited as a reason to distrust this holding | **7** |
+| 406 | 619 | 2,980 | the fourth county refuses to be a body; he is wrong about four lines and takes it | — |
+| 407 | 620 | 2,853 | a yard on the slope at the node; the bookkeeper's count thirteen to fourteen | **9** |
+| 408 | 621 | 2,925 | the derivation explained and neither half believed aloud; two hundred and forty sacks | — |
+| 409 | 622 | 2,949 | the thirty-seventh return at 349; both counts of the rotation at thirty and seventeen | **2, 24** |
+| 410 | 623 | 2,804 | the twenty-seventh time the walk has been made | **11, 18** |
+| 411 | 624 | 2,971 | what a clerk can read | — |
+| 412 | 625 | 2,759 | one of the ten questions taken; Tova 40 and man of fifty 120 | **8** |
+| 413 | 626 | 2,925 | the fourteenth question; the Assembly's motion goes to two councils | — |
+| 414 | 627 | 2,915 | a county's question about water, answered and not answered | **9** |
+| 415 | 628 | 2,992 | the walk to Thornwild; the Assembly refuses; the ear | **11** |
+| 416 | 629 | 2,852 | the boundary traced twice and not sent; the decision of the eleventh not reopened | **7** |
+| 417 | 630 | 2,886 | the seizure at the node; the seventh column read to fifty-five | **14, 15, 16** |
+| 418 | 631 | 2,829 | four things on one morning; the fetching, the column to fifty-six, the compost line, the thirty-eighth return | **3** |
+| 419 | 632 | 2,836 | the ground begins to go wrong | **4, 14** |
+| 420 | 633 | 2,837 | no command over consent; somebody hurt in the low ground | **19** |
+| 421 | 634 | 2,862 | the other end is not his; the question asked at the gate | **5, 25** |
+| 422 | 635 | 2,874 | a reading is not a maintenance act; eleven of nineteen came again | **20** |
+| 423 | 636 | 2,896 | the second window; a nomination that is a request | — |
+| 424 | 637 | 2,873 | a rate nobody can certify | — |
+| 425 | 638 | 2,905 | the list with nine columns; the fourth is a form with four lines | **8** |
+| 426 | 639 | 2,919 | who holds the pen | — |
+| 427 | 640 | 2,939 | the thirty-ninth return at 371 | **23** |
+| 428 | 641 | 2,846 | THREE HEADINGS AND A FIVE-WORD HEADING WITH NO NAME UNDER IT | **16** |
+| 429 | 642 | **3,017** | the first of the nine places; the seed figure published | **21, 27** |
+| 430 | 643 | 2,947 | the list is not a plan; two rates and a mark between them | — |
+| 431 | 644 | 2,859 | what a county's engineer asked for; the figures refused | — |
+| 432 | 645 | 2,984 | nine places, and the same kind of thing | **20** |
+| 433 | 646 | 2,994 | the well read the second and last time; a seventh hand in the shared sentence | **9, 20** |
+| 434 | 647 | 2,996 | four accounts, and four is four; the condition and the four ruled lines | — |
+| 435 | 648 | 2,958 | a chamber of nine; the count of seven and two | **15, 22** |
+| 436 | 649 | 2,912 | the fortieth return at 382; the sheet with no figure on it | **1, 21** |
+| 437 | 650 | 2,981 | THE CHARTER OF MANY WELLS; a withdrawal of a blanket; an apology that is not a withdrawal | — |
+| 438 | 651 | 2,914 | a real right to refuse; the eleventh and the twelfth clauses | — |
+| 439 | 652 | 2,983 | what plural means on a Tuesday | **28** |
+| 440 | 653 | 2,997 | A SHORTAGE; the vault sentence said a second time | **12** |
+| 441 | 654 | 2,999 | A REASON FIRST; a name under a four-word heading | **13** |
+
+**THE FINDING NUMBERS ABOVE ARE THE NUMBERS IN § 3 OF `reviews/volume-09.findings.md` AND THE COLUMN IS EMPTY WHERE THE CHAPTER IS CLEAN. THE TWO NAMED OPEN ITEMS, BEING `chapter-0428.md` AND `chapter-0431.md`, ARE NOT CHAPTER FINDINGS AND ARE IN THE LIST AS THE DAY-661 STRINGS ONLY.**
+
+**THE WITHDRAWN FIGURES FOR THESE FORTY-NINE CHAPTERS, NAMED AND NOT DELETED: 114,917 and 1,278,815 and 29,101 and 2,910.1 and 2,844 and 3,006 and 9.21; 27,746 and 141,663 and 1,305,561 and 26,746 and 2,971.8 and 3,000 and 2,998; 2,999 / 2,955 / 2,960 / 2,949 / 2,983 / 2,914 / 2,990 / 2,994 / 2,998; 2,943 for Ch 400; 26,650 and 2,961.1; AND THE GATE FIGURES 0 AND 0 FOR RUN 2 AND THE CAP-REMOVED DIAGNOSTIC, WHICH ARE 4 AND 66 UNDER THE RULE AS PRINTED. NO FIGURE IN THE TABLE ABOVE IS CARRIED FORWARD FROM A PROMPT, A STATE FILE OR THE EARLIER DRAFT OF THE FINDINGS FILE; EVERY ONE WAS RUN FROM THE CHAPTER FILES IN THIS CLOSE.**
