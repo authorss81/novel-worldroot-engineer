@@ -14,7 +14,7 @@ The pair stands on the boards at **six hundred days** and **six hundred and fort
 
 Marek went east at about the second hour with the man of about fifty and the two men who read the boards, and it is five miles to the node and a day's walk, and they made it in about seven hours with a stop at the trough.
 
-They went for the fourth line and found there was nobody on it, and then they went on five miles because Marek had been asked for a figure about a road on Wednesday and had not said he would not get one, and about four people in this holding have said that a man who does not say no on a Wednesday has said yes on the Thursday, and about four have said that there was a fourth line to work and it went away empty and that is the whole of what happened, and neither of the two fours has been asked.
+They went for the fourth line and found there was nobody on it, and then they went on five miles because Marek had been asked for a figure about a road on Wednesday and had not said he would not get one. A man who does not say no on a Wednesday has said yes on the Thursday. There was a fourth line to work and it went away empty, and that is the whole of what happened.
 
 The four miles east is not a road in the way the four miles north is a road. It is a drove with a gate at each end and about a mile and a half of it under water on the left, and they went up the right-hand side of it because the man of about fifty said the left-hand side takes a man to the knee at the third gate and they would not have got off it before dark.
 
@@ -34,13 +34,13 @@ A count of five is a fact about a rota and not a count of a morning. It is the c
 
 About four people in this holding have wanted a figure of the people on the node and about four have said that the figure would be about forty, and about four have said that about forty is a figure about a slope and not about a body, and neither of the two fours has been asked and the number is not given in a yard.
 
-A slope with forty people on it is not a yard. A building with a barrow in it is not a yard. About four people in this holding have wanted those two counted with the flat ground in front of the building, and about four have said that a yard is a place where a thing is said that cannot be unsaid in the next county, and neither of the two fours has been asked.
+A slope with forty people on it is not a yard. A building with a barrow in it is not a yard. About four people in this holding have wanted the slope and the building and the flat ground in front of it counted as one, and about four have said that a yard is a place where a thing is said that cannot be unsaid in the next county, and neither of the two views has been put to anybody in the room they were formed in.
 
-Marek stood in the flat ground and did not go up the slope and about four people here have said that a man who stands in a yard and does not go up a slope has decided something, and about four have said he was waiting to be asked up, and neither of the two fours has been asked and he was not asked.
+Marek stood in the flat ground and did not go up the slope. A man who stands in a yard and does not go up a slope has decided something, and it is also possible that he was waiting to be asked up, and he was not asked.
 
 There is a door on the node building and it is nine feet off the ground and it is shut, and behind it is the counter this holding reads a figure off twice a year and does not touch at any other time, and the number on the door is five and it is the same number it has been for four years.
 
-Marek did not open the door. About four people in this holding have said that a man who has walked five miles does not open a door, and about four have said that there was no reason on that slope to open it, and neither of the two fours has been asked, and the door is shut and the weather is coming.
+Marek did not open the door. A man who has walked five miles does not open a door, and there was no reason on that slope to open it, and the door is shut and the weather is coming.
 
 The man of about fifty went up the slope. He went up it at about the seventh hour of the evening, on a ground that had been wet for four days and had turned to churn about halfway up, and he came back down it about twenty minutes later with his boots to the ankle, and he had not been asked to go and did not say that he had gone.
 
@@ -52,7 +52,7 @@ About four people on that slope heard the whole of that sentence. About four hea
 
 It is the fifteenth time a bookkeeper has said a thing in a yard that the engineer of record had not thought of, and the count of that is fifteen and it is his and of nobody else's, and the count of things said out loud in a yard and got wrong is five and it did not move this morning.
 
-Those two numbers are about a yard and they are not added to each other. One of them is a count of sentences that were said and one of them is a count of sentences that were wrong, and the difference between those two things is a matter of opinion and about four people in this holding have an opinion and about four have not, and neither of the two fours has been asked and the two numbers have not been added in this building in four years.
+Those two numbers are about a yard and they are not added to each other. One of them is a count of sentences that were said and one of them is a count of sentences that were wrong, and the difference between those two things is a matter of opinion, and nobody in this holding has been asked which way they take it, and the two numbers have not been added in this building in four years.
 
 Marek gave the reason first and the count of that in this holding's history is two hundred and thirty, and it is his and of nobody else's, and the yard was still wet where the four of them had walked in.
 
@@ -60,9 +60,9 @@ Marek gave the reason first and the count of that in this holding's history is t
 
 Nobody on the slope said anything and about four people on it have said since that they would have said something and about four have said that they were glad they had not, and neither of the two fours has been asked and he was not asked.
 
-The two men who read the boards came down the slope last and came into the yard about ten minutes after everybody else had stopped talking, and about four people in this holding have said that the two of them were out of the room for the whole of it and about four have said that they were four miles behind and on a drove under water and that is the same thing, and neither of the two fours has been asked.
+The two men who read the boards came down the slope last and came into the yard about ten minutes after everybody else had stopped talking. The two of them were out of the room for the whole of it, or they were four miles behind on a drove under water, and in this holding those are the same thing.
 
-One of them asked, at the top of the drove on the way back, whether the five on the node door was a count of people, and the man of about fifty said that it was not, and did not say what it was, and about four people in this holding have said that a man who answers a question with what a thing is not has been in the trade a long time, and about four have said that the two of them were walking on a drove under water and it was not the moment, and neither of the two fours has been asked.
+One of them asked, at the top of the drove on the way back, whether the five on the node door was a count of people, and the man of about fifty said that it was not, and did not say what it was. A man who answers a question with what a thing is not has been in the trade a long time, and the two of them were walking on a drove under water and it was not the moment.
 
 The sixth went in at about the ninth hour at the node, in the same book and in the same hand, and came back out of the other book, and the two of them were the same, and the reading did not vary for a rise because it never has.
 
@@ -72,9 +72,9 @@ Saturday put eight on it, and the figure is the two hundred and sixteenth of a r
 
 The four bodies of households have now been at the same figure for two hundred and fourteen days, and the clause printed under it reads the two hundred and thirteenth of the mornings out of two hundred and fifteenth. That aggregate is not the launder's aggregate and the two of them have never been added in this building in four years.
 
-The seed house light was still on at about the fourth hour when they came in off the drove and it has been on every night this week, and about four people in this holding have said that a light on late in a seed house is a woman counting, and about four have said that it is a woman waiting for a road to come back, and neither of the two fours has been asked and it was not a question anybody could have asked her.
+The seed house light was still on at about the fourth hour when they came in off the drove and it has been on every night this week. A light on late in a seed house is a woman counting, or it is a woman waiting for a road to come back, and it was not a question anybody could have asked her.
 
-The paper on the low board has been face up since the nineteenth of a month now three months back and it is nine feet off the floor, and about four people in this holding have said that a thing a person can see from the door is a thing anybody in the county can see, and about four have said that nobody comes through that door who is not already in the county, and neither of the two fours has been asked.
+The paper on the low board has been face up since the nineteenth of a month now three months back and it is nine feet off the floor. A thing a person can see from the door is a thing anybody in the county can see, and nobody comes through that door who is not already in the county.
 
 A sentence on a slope is not on the seventh column of the well house door and is not on the second column either, and the second has four words at the head of it and nothing under them, and the seventh is at fifty-eight and is not read except on the thirtieth and the first. That door is nine hundred yards off and it is dark by the time the four of them came off the drove, and nobody in this holding went out to it.
 

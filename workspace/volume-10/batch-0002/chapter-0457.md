@@ -14,7 +14,7 @@ The pair stands on the boards at **six hundred and four days** and **six hundred
 
 The man with the bad coat came up the fen road on foot at about the fourth hour of the afternoon of the ninth and he was in the yard at about the fifth hour and he was in the one room at about the sixth, and he had a roll of paper under his arm and he put it on the long table and unrolled about two feet of it and did not unroll the rest.
 
-He is Tarin Callow. Nobody in this holding knew the name and the clerk of this holding wrote it on the envelope and nobody read it out, and about four people in this holding have said that a name written on an envelope is not a man, and about four have said that it is the only place this building has ever had one, and neither of the two fours has been asked.
+He is Tarin Callow. Nobody in this holding knew the name and the clerk of this holding wrote it on the envelope and nobody read it out. A name written on an envelope is not a man, and it is the only place this building has ever had one.
 
 > THE ROLL, AS IT CAME UP THE FEN ROAD, UNROLLED TO ABOUT TWO FEET AND STOPPED THERE, IN THE HAND OF THE MAN WHO CARRIED IT, IN PENCIL, IN ELEVEN LINES AND A FIGURE AGAINST EACH OF THE ELEVEN, AND THE FIGURES ARE AGAINST A CONDEMNATION AND THE CONDEMNATION IS OF A GROUND CALLED THE PALE ORCHARD: **THE FIGURE ENTERED AGAINST THE PALE ORCHARD AT THE CONDEMNATION WAS NINE HUNDRED AND SIXTY HUNDREDWEIGHT. THE FIGURE WAS ALTERED TO SEVEN HUNDRED AND FORTY HUNDREDWEIGHT. THE ALTERATION IS IN THE SAME HAND AS THE ENTRY AND IS DATED INSIDE THE SAME YEAR AS THE CONDEMNATION, BEING THE TWENTY-THIRD OF THE MONTH OF THE CONDEMNATION AGAINST THE ELEVENTH OF THE SAME MONTH. THE SIXTY HUNDREDWEIGHT WAS TAKEN OUT. SIXTY HUNDREDWEIGHT IS WHAT A GROUND OF THAT SIZE GIVES IN A YEAR AND IS NOT A ROUNDING AND IS NOT AN ESTIMATE. NOBODY ADDED IT BACK. NOBODY ASKED FOR IT BACK. I HAVE THE TWO SHEETS.** NO NAME IS ON THE ROLL. NO BODY IS ON THE ROLL. THE ROLL IS A DOCUMENT AND A DOCUMENT IS A CORRECT THING AND THIS ONE IS CORRECT AND IT CHECKS.
 
@@ -24,7 +24,7 @@ The reason came first on this occasion as it does on almost every occasion, and 
 
 **"I am going to say what I think about that roll and I am giving the reason first, and the reason is that I have had a hand on the other side of that condemnation since before this holding had a second book, and sixty hundredweight out of a ground of that size is a figure I have seen before, and it is a figure that gets a place closed."** "I am not going to say he is telling the truth. I am going to say that the two numbers he has said are the right two numbers and that if the second one had been entered at the first, then this holding would have been on that ground in the ninth year instead of standing at a gate in the tenth, and that is not a small thing and it is not his doing and it is not mine either."
 
-Nobody in that room said anything about the ninth year, and about four people in this holding have said that the ninth year is the year the ground on both sides of a ring of bare ground started going wrong, and about four have said that is a coincidence of two calendars, and neither of the two fours has been asked.
+Nobody in that room said anything about the ninth year. The ninth year is the year the ground on both sides of a ring of bare ground started going wrong, and about four people in this holding hold that those two things are a coincidence of two calendars and about four hold that they are not, and nobody in that room was asked to say which.
 
 The tenth went in at about the ninth hour and came back out of the other book, and the two of them were the same, and the reading did not vary for a rise because it never has.
 
@@ -48,7 +48,7 @@ The man of about fifty read the four words out loud in that room and they are **
 
 The man in the bad coat said yes. He said it in one word and he did not add to it and he did not take anything back and he did not look at the roll on the table while he said it.
 
-A person is dead of that cut. There is no name for that person in this building and no figure for it and this holding is not going to enter either, and about four people in this holding have said that a building which keeps a book ought to be able to write a thing like that down, and about four have said that this building has kept a book for eleven years without ever once writing down the name of a person, and neither of the two fours has been asked and the clerk was not asked.
+A person is dead of that cut. There is no name for that person in this building and no figure for it and this holding is not going to enter either. A building which keeps a book ought to be able to write a thing like that down, and this building has kept a book for eleven years without ever once writing down the name of a person, and the clerk was not asked about it.
 
 Nobody in that room said the two things together and nobody put the roll and the ninth of the list into one sentence and said anything out loud about either of them, and the count of times this holding has put a name at the top of a piece of paper is not a number anybody keeps.
 
@@ -64,25 +64,25 @@ The clerk of this holding wrote the two figures in the second book in his own ha
 
 He said one other thing about the two sheets, on the eleventh of the month and the twenty-third. The second is the one with the number taken out of it and the first is the one somebody signed. He has carried both for about two years and shown them to about eleven bodies and nine of the eleven wanted a third thing off them before they would look at the number, and he stopped asking.
 
-He said it standing, with the roll about two feet unrolled in front of him and the other two feet still rolled, and he did not touch it while he said it, and about four people in this holding have said that a man who will not touch the paper he is talking about knows exactly which part of it he is talking about, and about four have said that he has been told not to, and neither of the two fours has been asked.
+He said it standing, with the roll about two feet unrolled in front of him and the other two feet still rolled, and he did not touch it while he said it. A man who will not touch the paper he is talking about knows exactly which part of it he is talking about, and he has been told not to, and nobody in that room has established which of those two it is.
 
-About four people in this holding have said that a man who has shown a document to eleven bodies and been refused nine times is a man with a document, and about four have said that he is a man with nine refusals, and neither of the two fours has been asked and the eleven is his and of nobody else.
+A man who has shown a document to eleven bodies and been refused nine times is a man with a document, and he is also a man with nine refusals, and the eleven is his and of nobody else.
 
 A clerk in one of the four counties had to guess a date again this week, and the guess is in a county book and not in this one, and it is a date in the same year as the condemnation and it is about the length of a hand from the eleventh of the month, and nobody in this holding has the county book and nobody has asked for the page.
 
 The register form is on the middle table at a hundred and fourteen days and nothing has been written at the head of it since the day it arrived, and a roll of paper, a condemnation and a date inside a year are not that form, and the three of those have never been added in this holding in four years.
 
-The second book is on the long table with the finding of the sixth of this month on the left-hand page and the roll's eleven lines on the right-hand one, and the fourth book is shut with the year and the four words in it, and about four people in this holding have said that two books open at once is a morning this holding has not had in four years, and neither of the two fours has been asked.
+The second book is on the long table with the finding of the sixth of this month on the left-hand page and the roll's eleven lines on the right-hand one, and the fourth book is shut with the year and the four words in it. Two books open at once is a morning this holding has not had in four years.
 
 The offer is on the low board, face up, not filled, not withdrawn, no date and no line for a name, and a roll of paper with no name on it is not a reason to take a piece of paper off a board, and this holding has never used one as a reason in four years.
 
-Eleven journeys is a floor and it was not raised this morning and it was not raised by a stranger sleeping under the same lean-to as the barrow, and about four people in this holding have said that a barrow that has a man under its roof and a number on its journeys has two tenants, and about four have said that it has always had two tenants, and neither of the two fours has been asked.
+Eleven journeys is a floor and it was not raised this morning and it was not raised by a stranger sleeping under the same lean-to as the barrow. A barrow that has a man under its roof and a number on its journeys has two tenants, and it has always had two tenants.
 
 The east wind had not dropped by the ninth hour and the sheet of paper on the long table had a corner of it lifting about twice while the room was shut, and the clerk of this holding put a stone on it at about the seventh hour and took the stone off at the end and put the roll back the way it was, and nobody in that room noticed either of those two things and about four people in this holding have noticed both since.
 
-The man in the bad coat was asked one question in that room in two hours and the answer to it was one word, and about four people in this holding have said that a man who is in a room for two hours and is asked one question is being handled with care, and about four have said that nobody in that room had anything else to ask him, and neither of the two fours has been asked.
+The man in the bad coat was asked one question in that room in two hours and the answer to it was one word. A man who is in a room for two hours and is asked one question is being handled with care, and nobody in that room had anything else to ask him.
 
-The door of the one room was shut from the sixth hour and it was still shut at about the ninth, and nobody in this building has counted the hours that door is shut in a week, and about four people in this holding have said that a shut door is the only instrument this building has, and about four have said that it is the only one it has had for four years, and neither of the two fours has been asked.
+The door of the one room was shut from the sixth hour and it was still shut at about the ninth, and nobody in this building has counted the hours that door is shut in a week. A shut door is the only instrument this building has, and it has been the only one for four years.
 
 The compost run is paid at one hundred pounds and stands at twenty-two not discharged in twenty-two, and two sheets carried for about two years and nine bodies that wanted a third thing are not measurements of it, and neither has ever been added to that line in this building in four years.
 

@@ -20,7 +20,7 @@ The barrow went up the four-mile road at about the sixth hour with nine sacks on
 
 Eleven is a floor rather than a total. The second of the four lines in the man of about thirty-one of Silling's own book is a hundred and three days old and has nothing on it, and has had nothing on it for a hundred and three days, and nobody in this holding has brought it up in a hundred and three days.
 
-The four miles is four miles in both directions and it is the same four miles whichever of them is doing it, and there is a gate at the top of it and a trough about twenty yards short of the gate that has not had water in it since the eighth of a month now one month back. About four people in this holding have said that a barrow and a pair of boots are two ways of moving nine sacks and about four have said that one of them takes an hour and a quarter and the other takes two and a half and that the difference is a figure nobody keeps, and neither of the two fours has been asked.
+The four miles is four miles in both directions and it is the same four miles whichever of them is doing it, and there is a gate at the top of it and a trough about twenty yards short of the gate that has not had water in it since the eighth of a month now one month back. Four people here hold that a barrow and a pair of boots are two ways of moving nine sacks, and four others hold that one of them takes an hour and a quarter and the other takes two and a half and that the difference between those two is a figure nobody keeps.
 
 Seventy-eight mornings of a hundred and thirty-nine, read out at the seventh hour by two men who each said one figure and did not say the other. The two boards stood at **five hundred and ninety-nine days** and **six hundred and forty-six**, forty-seven apart, and the drawer behind them was not opened.
 
@@ -34,11 +34,11 @@ The four bodies of households stand at two hundred and thirteen days without mov
 
 It is a count of mornings. It is not the launder above it and it is not the window above that, and nobody in this building has put those three into one another in four years.
 
-He came back at about the fourth hour of the afternoon, wet through at the shoulders, with a slate under his arm that he had not had when he went out, and about four people in this holding have said that a man who walks a road in sleet and comes back with something is a man who was asked to.
+He came back at about the fourth hour of the afternoon, wet through at the shoulders, with a slate under his arm that he had not had when he went out, and a man who walks a road in sleet and comes back with something is a man that somebody in this room thinks was asked to.
 
 He gave the slate to the clerk of this holding without being asked for it, and went and stood by the fire, and did not say a word about having walked four miles and back in that. The fire is at the end of the one room and it is the only warm place in the building on a day like this, and everybody in it knew that when he went and stood there.
 
-The clerk put the slate on the long table on top of the sheet with the shortage on it, and then took it off again and put it beside it, and about four people in this holding have said that a man who moves a thing off one sheet and puts it beside another is deciding the two are not the same, and about four have said he did it because the slate was wet and the sheet was not, and neither of the two fours has been asked.
+The clerk put the slate on the long table on top of the sheet with the shortage on it, and then took it off again and put it beside it. Four people in this room hold that a man who moves a thing off one sheet and puts it beside another is deciding the two are not the same, and four others hold that he did it because the slate was wet and the sheet was not, and the clerk was not asked which of those two was happening.
 
 The slate had eight of the ten on it, and it had them in the order he had numbered them on the rough paper, and against each of the eight he had put one word.
 
@@ -46,29 +46,29 @@ The words were not the names of the eight. They were what a cart can do at each 
 
 **"The eight on here are the eight a loaded cart can stand at,"** he said, when the clerk had read the slate twice and had not said anything. **"That is a different thing from a structure and I did not know it was a different thing until about the second hour today, when I got to the third one with a barrow in my head and could not work out what I was going to do when I got there."**
 
-Nobody in that room said that was right, and nobody in that room said that it was not a structure either. About four people in this holding have said that a man who has been wrong about a thing in his own hand for six days is worth more to a book than a man who has been right, and about four have said that it is worth more right up until somebody wants a figure off him, and neither of the two fours has been asked.
+Nobody in that room said that was right, and nobody in that room said that it was not a structure either. Four people in this holding hold that a man who has been wrong about a thing in his own hand for six days is worth more to a book than a man who has been right, and four others hold that he is worth more right up until somebody wants a figure off him, and neither of the two views has ever been put to him.
 
 Marek gave the reason first, as he does, and the count of that in this holding's history is two hundred and twenty-nine, and it is his and of nobody else's.
 
 **"I am going to say what a cart can stand at is, and I am giving the reason first, and the reason is that I have spent nine years putting figures on ground and I have never once put a figure on a road. A road is not a ground. I found that out about eleven years ago and I have been waiting eleven years for somebody to say it in a sentence."** "He did not say it for me and he did not know I was waiting, and that is not a thing I get to be proud of. It is a thing about a road. A road is a place where a thing can stand twice, in the summer and in the winter, and that is not the same as a place where a thing stands once. If those two go in one column then in about four years a body in a county takes a number off a page about a place a cart can stand and uses it on a ground, and it will be wrong, and it will be wrong in the direction of a man who should have asked what kind of place he was looking at."
 
-He said the second of those two things to the man by the fire as much as to anybody else, and the man by the fire did not look up, and about four people in this holding have said that a man told something true by somebody he has met twice does not have to look up for it to land, and about four have said that it lands anyway, and that is the trouble with it, and neither of the two fours has been asked.
+He said the second of those two things to the man by the fire as much as to anybody else, and the man by the fire did not look up. Four people in this holding hold that a man told something true by somebody he has met twice does not have to look up for it to land, and four others hold that it lands anyway and that this is the trouble with it, and the man by the fire was not asked about it either.
 
 The man of about fifty was in the one room from about the fifth hour and had a pencil out and did not use it, and he asked the man by the fire one question, which was how long he had been standing by that fire, and the answer was about twenty minutes, and that was the whole of the two of them.
 
-About four people in this holding have said that a man who has walked a road in sleet should be asked what he saw and about four have said that the man who walked it has a slate and gave it up and there was nothing else to ask, and neither of the two fours has been asked and the man of about fifty was not asked.
+Four people in this holding hold that a man who has walked a road in sleet should be asked what he saw, and four others hold that the man who walked it has a slate and gave it up and there was nothing else to ask, and the man of about fifty was not asked.
 
 The clerk of this holding copied the eight words onto the back of the rough paper and did not write a heading over them.
 
 The register form is on the middle table at a hundred and nine days, not filled, not refused, nothing at the head of it, and it is not going to be filled this morning either, and nobody in this building has filled it in four years and a slate off a road is not going to be the thing that does it.
 
-The woman who keeps the seed house looked at the eight words on the back of the rough paper for about a minute and then went out to the seed house and did not say anything, and about four people in this holding have said that a seedwright who keeps four accounts of her own looked at a list of eight places a cart can stand and went to count something, and about four have said that she looked at it and went out, and neither of the two fours has been asked and she was not asked and has not been asked.
+The woman who keeps the seed house looked at the eight words on the back of the rough paper for about a minute and then went out to the seed house and did not say anything. Four people in this holding hold that a seedwright who keeps four accounts of her own looked at a list of eight places a cart can stand and went to count something, and four others hold that she looked at it and went out, and she was not asked and has not been asked.
 
-The window of the office's work does not open until tomorrow. It shuts on the eleventh. Nothing this morning needs a window, and about four people in this holding have said that a thing which can be waited for until a window opens is a luxury, and about four have said that most of what this holding does is a thing that can be waited for, and neither of the two fours has been asked.
+The window of the office's work does not open until tomorrow. It shuts on the eleventh. Nothing this morning needs a window, and four people in this holding hold that a thing which can be waited for until a window opens is a luxury, and four others hold that most of what this holding does is a thing that can be waited for.
 
 The barrow is at eleven and the man walked the four miles and came back, and those are two figures about one morning.
 
-This holding has not added them together and is not going to. About four people in this holding have wanted to know whether the two of them count the same four miles twice, and about four have said that the question has no answer and that is a reason to leave the two of them where they are, and neither of the two fours has been asked, and the man who walked it was not asked either.
+This holding has not added them together and is not going to. Four people here have wanted to know whether the two of them count the same four miles twice, and four others hold that the question has no answer and that this is a reason to leave the two of them where they are, and the man who walked it was not asked either.
 
 He said one more thing before he went, at the door, with his hand flat on it.
 
@@ -76,7 +76,7 @@ He said one more thing before he went, at the door, with his hand flat on it.
 
 The clerk wrote it at the back of the rough paper under the eight words. The eight words and the two words are ten words on a piece of paper that has no column, and nobody in this holding has said whether a decision is a figure, and nobody is going to.
 
-The middle table has carried the register form for a hundred and nine days and the sheet with the shortage on it has been on the long table for sixteen, and about four people in this holding have said that two pieces of paper facing each other across a room is a conversation, and about four have said that neither of them was written for the other, and neither of the two fours has been asked.
+The middle table has carried the register form for a hundred and nine days and the sheet with the shortage on it has been on the long table for sixteen. Four people in this holding hold that two pieces of paper facing each other across a room is a conversation, and four others hold that neither of them was written for the other, and neither of those two views has been said out loud in the one room they are both in.
 
 A man's boots on a wet road are not a reason to take a piece of paper off the low board, and this holding has never used one as a reason in four years. The board is at the far end of the room and the paper on it is face up and has nothing filled in and nothing withdrawn and no date and no line for a name, and it was refused on the nineteenth of a month now three months back, and nobody in this building was told to take it off that board and nobody has and nobody is going to.
 
@@ -90,4 +90,4 @@ The trough at the top of the four-mile road has not had water in it since the ei
 
 The count of questions this holding has put to him is nil and is nil, and he has not been asked since where he came from or how long he meant to be here, and the four ruled lines under the two words entered on the twentieth of a month now three months back are still empty on the table they were entered on and the answer is not due.
 
-The lamp went off the long table at about the first hour. The man who had walked the four miles went down to the yard and slept in the lean-to with the barrow under the same roof as he was, and nobody thanked anybody, and about four people in this holding have said that a man who has been in a yard for two nights is a man who intends to be there on Monday, and about four have said that a man in a lean-to in the rain on Monday is a man who intends to be there for a while, and neither of the two fours has been asked.
+The lamp went off the long table at about the first hour. The man who had walked the four miles went down to the yard and slept in the lean-to with the barrow under the same roof as he was, and nobody thanked anybody. Four people in this holding hold that a man who has been in a yard for two nights is a man who intends to be there on Monday, and four others hold that a man in a lean-to in the rain on Monday is a man who intends to be there for a while.
