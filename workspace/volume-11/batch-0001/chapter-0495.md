@@ -48,7 +48,7 @@ The woman who coordinates the moving reserves was at the gate for about twenty m
 
 She is not support staff and has not been asked to be and this holding has not offered her anything, and the count of questions this holding has put to her since the third of this month is nil and is nil, and a body on a node is a neighbour and a neighbour is not an enemy and neither of those is a column.
 
-Four bodies of households signed a charter in a room nine miles off fifty-four days ago, and three of the four are still signed to a machine, and a Sunday morning at a gatepost is not the place to improve on that, and nobody in this yard improved on it and nobody asked anybody to stop drawing and nobody in this yard stopped drawing.
+Four bodies of households signed a charter in a room nine miles off fifty-eight days ago, and three of the four are still signed to a machine, and a Sunday morning at a gatepost is not the place to improve on that, and nobody in this yard improved on it and nobody asked anybody to stop drawing and nobody in this yard stopped drawing.
 
 The man who came down nine miles on foot to the tap on the eleventh is still at the seed house and has been on the south wall of it since the morning he came down, and nobody in this building has asked him his name and his name is not in this building and is not going to be put in it.
 

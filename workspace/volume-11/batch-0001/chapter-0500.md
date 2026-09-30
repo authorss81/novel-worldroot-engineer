@@ -64,7 +64,7 @@ The two sheets about the two declinings were on the long table about nine inches
 
 One of the two bodies that said no is not in this building and was not asked to be and nobody in this room has described it as having been consulted, and it has not been written to this month, and a body that has said no is a body that has said no whether or not anybody went nine miles to look at a wall this morning.
 
-A charter with four clauses and a subscription in a second hand are two documents and two correct documents and the two hands do not know about each other, and three of the four bodies of households that signed the charter fifty-four days ago are still signed to a machine, and that is said in this yard and it is not improved on and it is not being improved on this morning by anybody who is walking out of the gate.
+A charter with four clauses and a subscription in a second hand are two documents and two correct documents and the two hands do not know about each other, and three of the four bodies of households that signed the charter sixty-three days ago are still signed to a machine, and that is said in this yard and it is not improved on and it is not being improved on this morning by anybody who is walking out of the gate.
 
 The register form is on the middle table at a hundred and fifty-seven days, not filled, not refused, nothing at the head of the column, and it is not going to be read out a fifth time in this building. The offer is on the low board, face up, not filled, not withdrawn, no date and no line for a name, and nobody in this building has been told to take it off that board.
 

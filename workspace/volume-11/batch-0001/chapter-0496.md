@@ -28,7 +28,7 @@ What this holding can give a body with a heading on its own paper is a differenc
 
 Nobody was named in the reply that went up the fen road at about the tenth hour. It went up in the clerk's own hand and it gave the difference and it did not give a person, and it did not give a reason either, because a letter is not a room and a reason given to one man in a room is not a thing that goes on paper with a heading at the head of it.
 
-A body of households is not a body of customers and the two are not one thing. Four bodies of households signed a charter in a room nine miles off fifty-four days ago and three of the four are still signed to a machine for stored light, and neither signature is wrong and neither signature knows about the other one, and a holding that gave those two a single column would be inventing a body that is not there.
+A body of households is not a body of customers and the two are not one thing. Four bodies of households signed a charter in a room nine miles off fifty-nine days ago and three of the four are still signed to a machine for stored light, and neither signature is wrong and neither signature knows about the other one, and a holding that gave those two a single column would be inventing a body that is not there.
 
 There is a man who came up the fen road with a list of ten and the list is a route. It is a list of ten places between here and a ford about a mile and a half past the far mouth of the cut, and four of the ten are named as a place by the name the local people use and six are named as what the thing is, and the numbering is his and not anybody else's.
 
