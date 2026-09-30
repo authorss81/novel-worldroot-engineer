@@ -12,7 +12,7 @@ He sat on that bench from about the second hour until about the fifth with his h
 
 The first line of the rota came round at the second hour and was worked, and the work was the water: the north end of the ditch, the trough at the head of the four-mile road, and the standpipe in the yard. It is the first of a month and it is a Monday and there is no column in this holding that resets on the first of a month.
 
-**Thirty-one** is what the register took at the ninth hour. **The thirty-first went in at about the ninth hour and came back out of the other book, and the two of them were the same.**
+**The thirty-first went in at about the ninth hour and came back out of the other book, and the two of them were the same.**
 
 Monday gave five back off Sunday and the fall went onto the falls.
 
@@ -24,7 +24,7 @@ Two hundred and ninety-nine days is what this morning's sheet gives against the 
 
 The near board of the long wall carries six hundred and eighty-five days and the far one seven hundred and thirty-two, forty-seven apart, and the drawer behind the near board was shut at every hour of this morning.
 
-The second book took **one hundred and twenty-one mornings of two hundred and twenty-five**, of a month eight months back, at the ninth hour. The frame of that run is of a month eight months back today and was of a month seven months back yesterday, and that is the only change of frame in the book since the run began. That pair of figures has gone in on twenty-five mornings of this month and there will not be another of them after this morning, because tomorrow is an even morning and half of the run is half a number on an even morning.
+The second book took **one hundred and twenty-one mornings of two hundred and twenty-five**, of a month eight months back, at the ninth hour. The frame of that run is of a month eight months back today and was of a month seven months back yesterday, and that is the only change of frame in the book since the run began. That pair of figures has gone in on every odd morning since the run began and there will not be another of them after this morning, because tomorrow is an even morning and half of the run is half a number on an even morning.
 
 The man of about fifty walked the nine hundred yards to the door of the well house at about the fifth hour and chalked the seventh column and came back, and the figure on that door this morning is sixty-four.
 
@@ -68,7 +68,7 @@ Marek was in the one room from the fifth hour with the door open and nothing in 
 
 He shut nothing and took nothing off the table.
 
-**"I have still got both ends in my head from the seventeenth and I have had eight days of it now and it has not loosened at all and nobody in this county is going to ask me about it and I am not going to offer it to anybody who comes through that gate."** He put his sleeve back down over his forearm. **"There is a thing at the far end of a branch and two people hold it and neither of them is me and there is no instrument in four counties that says whether it is on or off, and nine lines of standing water in a field have not given me that and a column on a door has not given me that."**
+**"I have still got both ends in my head from the seventeenth and I have had fourteen days of it now and it has not loosened at all and nobody in this county is going to ask me about it and I am not going to offer it to anybody who comes through that gate."** He put his sleeve back down over his forearm. **"There is a thing at the far end of a branch and two people hold it and neither of them is me and there is no instrument in four counties that says whether it is on or off, and nine lines of standing water in a field have not given me that and a column on a door has not given me that."**
 
 Sera Quill came down the fen road at about the seventh hour and went to the low field gate and stood at it for about five minutes and came back in.
 

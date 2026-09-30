@@ -28,7 +28,7 @@ What went into the second book at the ninth hour, in the place the run of mornin
 
 Harlan Vetch came in at about the seventh hour, went to the board in the corner and stood in front of it for about a minute and a half without asking what the two rules were, and then he turned round and said one thing to the man of about fifty.
 
-**"A man at the gate above Marden asked me on Tuesday what the second rule on that board was for."** He said it to the board and gave the reason for it first. **"I told him I did not know, and that was the true answer, and this morning I have watched that rule come back off a steelyard empty for the fifth year I have been alive to see it and I have still not found out, and I am not going to ask today because I have found that the day I start checking is the day I stop being the man who holds it."**
+**"A man at the gate above Marden asked me on Tuesday what the second rule on that board was for."** He said it to the board and gave the reason for it first. **"I told him I did not know, and that was the true answer, and this morning I have watched that rule come back off a steelyard empty for as many of the eleven years as I have been alive to see it and I have still not found out, and I am not going to ask today because I have found that the day I start checking is the day I stop being the man who holds it."**
 
 The man of about fifty said nothing back and wrote nothing down and nobody at that corner of the room said the man at the gate had asked the wrong question.
 
@@ -92,7 +92,7 @@ The man of the north row with the cough stood at the low field gate from about t
 
 Paid goes in front of twenty-six and the figure is twenty-six, not discharged in twenty-six, and it is the word that has gone in there for eleven years. A hundred and ninety-two days is how long the register form has been lying on the middle table with nothing at the head of its column; it is neither filled nor refused and it will not be read out a fifth time. The charter was signed ninety-eight days ago in a room nine miles off and three of the four bodies of households that signed it are still signed to a machine for stored light.
 
-What this holding's book carries is seven sessions and nobody put an eighth in this morning, and a weight off a steelyard is not one. Fifty-three requests and fifty-three section-nine notes, and this letter of mine went into neither because it is not a letter from a body of households. Six rows are ruled for the things this holding does not know, with no unit against any of them and no seventh row.
+What this holding's book carries is seven sessions and nobody put an eighth in this morning, and a weight off a steelyard is not one. Fifty-three requests and fifty-three section-nine notes, and the sheet off the corner board this morning went into neither of them because it is not a letter from a body of households. Six rows are ruled for the things this holding does not know, with no unit against any of them and no seventh row.
 
 The barrow went up the four-mile road at the sixth hour and came down loaded, and its journeys stand at eleven, and eleven is a floor. The use log has fifteen lines in it and got no sixteenth this morning.
 

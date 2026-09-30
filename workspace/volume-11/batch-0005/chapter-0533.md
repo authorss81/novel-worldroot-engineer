@@ -4,7 +4,7 @@
 
 The woman of about thirty-eight of Marden saw the first one at about the third hour from the middle road on her way to the seed house, and she stood in the middle of the road with the bucket in her hand for a while and then went and got the man of about fifty out of the one room.
 
-**"Come and look at it and bring the book and do not write anything down while you are walking."** She said it at the door and she did not explain it. **"I want you to see it before you have a pen in your hand, because I have watched about four people write a thing down first and see it second this month and every one of them was wrong about what they had seen."**
+**"Come and look at it and bring the book and do not write anything down while you are walking."** She said it at the door and she did not explain it. **"I want you to see it before you have a pen in your hand, because I have watched people in this county write a thing down first and see it second this month, and every one of them was wrong about what they had seen."**
 
 He came out with the book shut under his arm and they walked four hundred yards up the middle road to a low place on the north side of it, and he stood at the edge of it and did not go in.
 

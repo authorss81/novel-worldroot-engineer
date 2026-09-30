@@ -40,7 +40,7 @@ The man of about fifty did not go. He had the third book on the long table in th
 
 He shut the book on his thumb and turned it over.
 
-**"There is a figure on that board that came back empty this morning for the first time in five weeks and it is not the same sort of empty and I am not going to write a second sort of empty next to it in the same book."**
+**"There is a rule on the board in the corner that has come back off that steelyard empty for years and no name has ever gone against it, and mine is not that kind of empty, and I am not going to write a second kind of empty next to it in the same book."**
 
 Tova Reed had the four counties' sheets in front of her from the second hour and did not open the fourth one, and the letter from the fourth council came out of the fourth sheet where she has kept it since the twenty-eighth and was still folded when she put it back.
 

@@ -2,7 +2,7 @@
 
 ## A Letter On The Long Table, And Five People In At The Second Hour
 
-The letter came up the fen road with the second bus and it was handed in at the gate at about the eighth hour of the morning by a man from a village whose name nobody in this building had to write down twice, because it is on the sheet he came in with and it is the same sheet a letter about a district of that council came on four days ago.
+The letter came up the fen road with the second bus and it was handed in at the gate at about the eighth hour of the morning by a man from out that way, and the name of the council that sent it is on the sheet he carried in with him under its own heading, and it is a council's paper and not anybody's.
 
 It is from a council of a county four counties off. It is about the schedule, and what it asks for in writing is that the schedule be restored, and it says in three lines why and then asks for a reply and gives no date for the reply and asks for none.
 
@@ -22,7 +22,7 @@ The thirty-second went in at about the ninth hour and came back out of the other
 
 **One thousand and sixty-seven hundredweight.**
 
-Tuesday came up eight on Monday, and what stands against the launder is the three hundred and second figure of a run in which nothing has never been entered twice. The window came out at a hundred and forty mornings one way against a hundred and twenty-nine the other, and those two are two hundred and sixty-nine.
+Tuesday came up eight on Monday, and what stands against the launder is the three hundred and second figure of a run in which nothing has ever been entered twice. The window came out at a hundred and forty mornings one way against a hundred and twenty-nine the other, and those two are two hundred and sixty-nine.
 
 Three hundred days is what the sheet gives against the four bodies of households this morning, and the clause beneath takes the two hundred and ninety-ninth of those mornings out of three hundred and first. One under and one over. A letter asking for a sheet to be put back does not change a figure of a body of households, and the four bodies of households have not been asked to give up one of their two signatures and neither of them has given one up.
 
@@ -52,7 +52,7 @@ She squared her four sheets against the edge of the table.
 
 Nia Vale came in at about the sixth hour and put her own book on the table and left it shut.
 
-**"There are places above that road doing what they are doing and there is a letter on your table asking for a sheet to go back how it was, and I have got no advice about how those two facts sit next to each other."** She said that to her own book and did not open it. **"I am not going to tell a district what to think about either of them this week and I am not going to give anybody a number, and I am going back out to the boundary in an hour because that is what I do on a Monday."**
+**"There are places above that road doing what they are doing and there is a letter on your table asking for a sheet to go back how it was, and I have got no advice about how those two facts sit next to each other."** She said that to her own book and did not open it. **"I am not going to tell a district what to think about either of them this week and I am not going to give anybody a number, and I am going back out to the boundary in an hour because that is what I do on a morning with nothing in it."**
 
 Sera Quill came down the fen road at about the seventh hour and read the letter standing up and then went into the seed house and did not come out of it again.
 
@@ -66,7 +66,7 @@ Nobody in that yard asked him about the three lines and nobody thanked him.
 
 **"She is nine miles off and she is the person who answers for what she did, and nobody in this holding has been asked to say a word about her this week and I have not said one."** He put his sleeve back down over his forearm. **"The far end of a thing is held by two people and neither of them is me and there is no instrument anywhere in four counties that says whether it is on or off, and none of the four sentences I have just said has anything to do with that, and I am not going to put them together this morning."**
 
-The low field above the middle road was still doing what it has done since Friday, and the water in it had gone down about a hand's width by the seventh hour and come back by the ninth, and nobody put a name on it this morning either.
+The low field above the middle road was still doing what it has done since it began, and the water in it had gone down about a hand's width by the seventh hour and come back by the ninth, and nobody put a name on it this morning either.
 
 Behind the fourth book there is a foot and a half of day sheets with no date at the head of any of them. They are in the order it was used. Nobody has moved one of them to the top and nobody has ever asked about them in this holding.
 

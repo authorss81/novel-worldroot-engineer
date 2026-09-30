@@ -6,7 +6,7 @@ The man of about fifty came up the middle road with the barrow at about the sixt
 
 The low field has been the low field for about eleven years. It is a field and not a slope, and it is not the headland above Marden, and it is not in the eleven acres. What is happening on it this morning is a thing four people in this county have now seen from the road and not one of them has been able to put a word on, and this page is not going to put one on before one of them does.
 
-There is water standing in the low corner of it in lines, in about nine places, all of them running one way and not another, and it was not there on Friday. Forty yards along there is a strip about a yard wide where the grass has come up through ground that was bare in June. A man with a barrow cannot get up the headland bank and can get up this field in a wheelbarrow in the wet, and there is no figure on any page in this holding for either of those two facts.
+There is water standing in the low corner of it in lines, in about nine places, all of them running one way and not another, and it was not there on Friday. Forty yards along there is a strip about a yard wide where the grass has come up through ground that was bare a month back. A man with a barrow cannot get up the headland bank and can get up this field in a wheelbarrow in the wet, and there is no figure on any page in this holding for either of those two facts.
 
 He came back down the road about a quarter of an hour later and put the barrow against the wall and did not say anything to anybody about it for about two hours.
 
@@ -30,19 +30,19 @@ The second book has an empty space in it this morning where the run of mornings 
 
 About the fifth hour the man of about fifty walked the nine hundred yards to the door of the well house and read the seventh column off the stone and chalked it and came back, and the figure on the door this morning is sixty-three, and it is on the door and nowhere else.
 
-The rule is the first of a month and the thirtieth of a month and no other morning, and today is the thirtieth, and the figure is on the rule and this is the second time this holding has read that column since the twenty-fifth. It stood at sixty-two on the twenty-fifth and it stands at sixty-three this morning, and it does not go back, and nobody has ever put a word at the head of that column and nobody in this building is going to.
+The rule is the first of a month and the thirtieth of a month and no other morning, and today is the thirtieth, and the figure is on the rule and this is the second time this holding has read that column this month. It stood at sixty-two on the first of this month and it stands at sixty-three this morning, and it does not go back, and nobody has ever put a word at the head of that column and nobody in this building is going to.
 
 There are six other columns cut into the same stone and chalk is in three of them and nothing at the head of any of the three that are blank, and the heading that has stood at the head of the second one since an earlier year has not been improved this morning.
 
 He came back in at about the sixth hour and said one thing about it to nobody and then said the same thing to the man of about fifty who was in the one room, and the reason came first.
 
-**"Sixty-two on Friday and sixty-three today and the rule is the first and the thirtieth and today is the thirtieth, and I have read it twice this week and it has moved one both times."** He put his wet boots against the wall. **"I want to say the thing that is not going to be asked me and then I am going to stop. Whatever that column counts besides readings, it moved one on a day that was not a reading day anywhere else, and I have not found out what that is and I am not going to find out this month."**
+**"Sixty-two on the first of this month and sixty-three today and the rule is the first and the thirtieth and today is the thirtieth, and I have read it twice this month and it has moved one both times."** He put his wet boots against the wall. **"I want to say the thing that is not going to be asked me and then I am going to stop. Whatever that column counts besides readings, it moved one on a day that was not a reading day anywhere else, and I have not found out what that is and I am not going to find out this month."**
 
 Nobody in that room asked him and he did not say and he was not asked.
 
 The woman of about thirty-eight of Marden went up to the low field at about the eighth hour with a pencil and her own book and came back without having written anything, and she said one thing at the tap.
 
-**"I have got two things and neither of them is a name."** She said it to the standpipe. **"There are lines of water in it that run one way, and there is a strip about a yard wide that was bare in June. I have been in four counties' meetings for four years and I have watched about four people turn a thing they cannot name into a heading in the space of a morning, and every one of those four headings was wrong by the sowing."**
+**"I have got two things and neither of them is a name."** She said it to the standpipe. **"There are lines of water in it that run one way, and there is a strip about a yard wide that was bare a month back. I have been in four counties' meetings for four years and I have watched about four people turn a thing they cannot name into a heading in the space of a morning, and every one of those four headings was wrong by the sowing."**
 
 She shut the tap off.
 
@@ -98,4 +98,4 @@ Bare, in the corner of the one room, are the four ruled lines under the two word
 
 At about the seventh hour a man with a barrow stood in the middle of the road above a low field with his hands on the handles and did not push it any further up, and nobody thanked anybody, and the clerk of this holding wrote the thirtieth in at the ninth hour and read it back once and did not read it back twice.
 
-> THE SEVENTH COLUMN CUT IN THE STONE OF THE DOOR OF THE WELL HOUSE, WHICH IS NINE HUNDRED YARDS FROM THIS BUILDING AND IS NOT THE WELL ON THE SHELF AND IS NOT A COLUMN IN ANY BOOK IN THIS HOLDING, CHALKED AT THE FIFTH HOUR BY THE MAN OF ABOUT FIFTY IN HIS OWN HAND: **SIXTY-THREE.** THE RULE FOR THIS COLUMN IS THE FIRST OF A MONTH AND THE THIRTIETH OF A MONTH AND THIS MORNING IS THE THIRTIETH. THE FIGURE STOOD AT SIXTY-TWO ON THE MORNING OF THE TWENTY-FIFTH AND IT DOES NOT GO BACK. NOTHING HAS BEEN WRITTEN AT THE HEAD OF THIS COLUMN AND NOTHING HAS BEEN WRITTEN AT THE HEAD OF ANY OF THE SIX OTHERS CUT IN THE SAME STONE, AND THE HEADING THAT HAS STOOD AT THE HEAD OF THE SECOND OF THOSE SINCE AN EARLIER YEAR HAS NOT BEEN IMPROVED. NOBODY HAS ASKED WHAT THIS COLUMN COUNTS BESIDES READINGS AND NOBODY IS GOING TO.
+> THE SEVENTH COLUMN CUT IN THE STONE OF THE DOOR OF THE WELL HOUSE, WHICH IS NINE HUNDRED YARDS FROM THIS BUILDING AND IS NOT THE WELL ON THE SHELF AND IS NOT A COLUMN IN ANY BOOK IN THIS HOLDING, CHALKED AT THE FIFTH HOUR BY THE MAN OF ABOUT FIFTY IN HIS OWN HAND: **SIXTY-THREE.** THE RULE FOR THIS COLUMN IS THE FIRST OF A MONTH AND THE THIRTIETH OF A MONTH AND THIS MORNING IS THE THIRTIETH. THE FIGURE STOOD AT SIXTY-TWO ON THE MORNING OF THE FIRST OF THIS MONTH AND IT DOES NOT GO BACK. NOTHING HAS BEEN WRITTEN AT THE HEAD OF THIS COLUMN AND NOTHING HAS BEEN WRITTEN AT THE HEAD OF ANY OF THE SIX OTHERS CUT IN THE SAME STONE, AND THE HEADING THAT HAS STOOD AT THE HEAD OF THE SECOND OF THOSE SINCE AN EARLIER YEAR HAS NOT BEEN IMPROVED. NOBODY HAS ASKED WHAT THIS COLUMN COUNTS BESIDES READINGS AND NOBODY IS GOING TO.

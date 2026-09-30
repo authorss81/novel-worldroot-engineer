@@ -62,7 +62,7 @@ Harlan Vetch was on the second wheel's frame at about the ninth hour when it was
 
 Marek was at the second gate of this yard at about the seventh hour in the evening with the four of them and the dark coming up the four-mile road behind them, and he said one thing there and gave the reason for it before he gave the thing, and he printed no figure for it, so that this morning consumed no number of his.
 
-**"She decided what she is for this morning and I did not decide it and she did not ask me and I did not ask her."** He said that to the gatepost and looked at the latch. **"I have not surrendered anything of mine and she has not surrendered anything of hers, and I am not going to stand at a gate and tell four people that we are still the two of us who run a seed front and a hand on a spoke, because we were never that."**
+**"She decided what she is for this morning and I did not decide it and she did not ask me and I did not ask her."** He said that to the gatepost and looked at the latch. **"I have not surrendered anything of mine and she has not surrendered anything of hers, and I am not going to stand at a gate and tell four people that she and I are still the two of us who run a seed front and a hand on a spoke, because we were never that."**
 
 Nobody at that gate asked him a second question and nobody thanked him.
 
