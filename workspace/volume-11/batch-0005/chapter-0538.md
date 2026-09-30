@@ -24,7 +24,7 @@ Two hundred and ninety-nine days is what this morning's sheet gives against the 
 
 The near board of the long wall carries six hundred and eighty-five days and the far one seven hundred and thirty-two, forty-seven apart, and the drawer behind the near board was shut at every hour of this morning.
 
-The second book took **one hundred and twenty-one mornings of two hundred and twenty-five**, of a month eight months back, at the ninth hour. The frame of that run is of a month eight months back today and was of a month seven months back yesterday, and that is the only change of frame in the book since the run began. That pair of figures has gone in on every odd morning since the run began and there will not be another of them after this morning, because tomorrow is an even morning and half of the run is half a number on an even morning.
+The second book took **one hundred and twenty-one mornings of two hundred and twenty-five**, of a month eight months back, at the ninth hour. The frame of that run is of a month eight months back today and was of a month seven months back yesterday, and that frame has moved at a first of a month and at nothing else since the run began, and the last morning before this one on which it moved was thirty mornings back. That pair of figures goes in on an odd morning and on no even one, and half of the run is half a number on an even morning, so there is nothing going in under that heading tomorrow and the day after that will carry a pair again.
 
 The man of about fifty walked the nine hundred yards to the door of the well house at about the fifth hour and chalked the seventh column and came back, and the figure on that door this morning is sixty-four.
 

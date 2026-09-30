@@ -36,7 +36,7 @@ There are six other columns cut into the same stone and chalk is in three of the
 
 He came back in at about the sixth hour and said one thing about it to nobody and then said the same thing to the man of about fifty who was in the one room, and the reason came first.
 
-**"Sixty-two on the first of this month and sixty-three today and the rule is the first and the thirtieth and today is the thirtieth, and I have read it twice this month and it has moved one both times."** He put his wet boots against the wall. **"I want to say the thing that is not going to be asked me and then I am going to stop. Whatever that column counts besides readings, it moved one on a day that was not a reading day anywhere else, and I have not found out what that is and I am not going to find out this month."**
+**"Sixty-two on the first of this month and sixty-three today and the rule is the first and the thirtieth and today is the thirtieth, and I have read it twice this month and it has moved one both times."** He put his wet boots against the wall. **"I want to say the thing that is not going to be asked me and then I am going to stop. Whatever that column counts besides readings, I have been trying a long while to find a morning it moved on and nobody stood in front of it and read it, and there has not been one, and I am not going to write that it counts the readings at the head of that column, because the morning that has a heading at the top of it is the morning this holding stops knowing nothing about it."**
 
 Nobody in that room asked him and he did not say and he was not asked.
 

@@ -18,7 +18,7 @@ On the sheet this morning the four bodies of households stand at two hundred and
 
 Six hundred and eighty-three days is on the near board of the long wall and seven hundred and thirty on the far one, forty-seven apart, and the drawer behind the near board stood shut at every hour.
 
-The second book took **one hundred and twenty mornings of two hundred and twenty-three** at the ninth hour, of a month seven months back, and this is the last morning in that book on which the half of the run comes out even. Tomorrow it is half a number again and there is no figure for it to enter, and after that it is a whole number every second morning until the book runs out of mornings.
+The second book took **one hundred and twenty mornings of two hundred and twenty-three** at the ninth hour, of a month seven months back, and the half of that run comes out a whole number on an odd morning and half a number on an even one, and there is nothing in this holding that decides which of the two a morning is going to be. Tomorrow it is half a number again and there is no figure for it to enter, and after that it is a whole number every second morning until the book runs out of mornings.
 
 The plate was on and the bolts were in before the fifth hour and Iona Vey stood on the far side of the floor by the tank with her hands behind her back and looked at the line of gauges from the tank end to the end wall the way a person looks at a thing she has just had a hand in.
 
