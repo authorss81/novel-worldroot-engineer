@@ -24,7 +24,7 @@ He looked at the sheet the count is on.
 
 **"So the count in force is one higher than it was on Sunday and the first of a month did not put it back. Neither did the turn."**
 
-He looked at the sheet the count is on.
+He put a finger on the line for the first of a month and then on the line for the turn, and neither of the two lines went anywhere.
 
 **"A man who expects a line to care what day of the month it is will wait a long time for it to care about anything at all."**
 
@@ -34,7 +34,7 @@ The clerk of this holding wrote the figure at the first hour and read it back on
 
 **One thousand and one hundred and twelve hundredweight.**
 
-Thursday came up eight off Wednesday, and the three hundred and thirty-second figure of a run in which nothing has ever been entered twice is what the launder carries this morning, and it is the highest figure that run has reached since the ninth of this month.
+Thursday came up eight off Wednesday, and the three hundred and thirty-second figure of a run in which nothing has ever been entered twice is what the launder carries this morning, and it is the highest figure that run has reached since the ninth of the month before.
 
 There is nothing in the second book this morning under the heading where the run of mornings goes, and this page carries the reason and carries no figure for it. Half of that run is a half number on a Thursday.
 
