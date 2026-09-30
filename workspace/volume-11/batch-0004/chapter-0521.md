@@ -14,7 +14,7 @@ The fourteenth went in at about the ninth hour and came back out of the other bo
 
 **One thousand and forty hundredweight.**
 
-Friday came up eight on Thursday and nothing was set against it, and the launder takes the two hundred and eighty-fourth figure of a run in which nothing has ever been written twice. The woman of about thirty-eight of Marden had the two halves of the window off the long wall before the seventh hour and said them to each other rather than to the room, one hundred and thirty mornings one way and a hundred and twenty the other, and the two of them are two hundred and fifty-one.
+Friday came up eight on Thursday and nothing was set against it, and the launder takes the two hundred and eighty-fourth figure of a run in which nothing has ever been written twice. The woman of about thirty-eight of Marden had the two halves of the window off the long wall before the seventh hour and said them to each other rather than to the room, one hundred and thirty-one mornings one way and a hundred and twenty the other, and the two of them are two hundred and fifty-one.
 
 The clerk put the four bodies of households at two hundred and eighty-two days on this morning's sheet and the clause under that figure took the two hundred and eighty-first of those mornings out of two hundred and eighty-third. One under and one over, and neither of those three is a household and neither of them is a person, and the four launders and the four bodies of households have never once been added together in four years of this sheet.
 
