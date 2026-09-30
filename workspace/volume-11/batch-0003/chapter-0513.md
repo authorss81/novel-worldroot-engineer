@@ -24,13 +24,13 @@ The six went in at about the ninth hour and came back out of the other book, and
 
 **One thousand and twenty-eight hundredweight.**
 
-Wednesday stood eight higher and nothing was set against it, so the rise went onto the rises, and the launder carries the two hundred and seventy-sixth figure of a run in which no number has ever been entered twice. The window this office keeps behind it came out at a hundred and twenty-seven mornings one way and a hundred and sixteen the other, and the two of them add to two hundred and forty-three. Four years of reading that window and nobody in this building has set one end of it against the figure printed over the other.
+Thursday stood eight higher than Wednesday and nothing was set against it. The window came off the long wall at the seventh hour at a hundred and twenty-seven mornings one way and a hundred and sixteen the other, and those two ends are two hundred and forty-three between them, and the man of about fifty read both of them and put neither against the figure standing over the other, which is what he does on every morning of the four years he has been doing it. Over that figure the launder carries the two hundred and seventy-sixth figure of a run in which no number has ever been entered twice, and the rise went onto the rises and nothing was set against it there either.
 
-This morning's sheet has the four bodies of households at two hundred and seventy-four days and the clause under it takes the two hundred and seventy-third of those mornings out of two hundred and seventy-fifth. One under and one over at every site, and the four launders and the four bodies of households have never been added together in this building.
+The clerk wrote the four bodies of households down at two hundred and seventy-four days and the clause under them at the two hundred and seventy-third of those mornings out of the two hundred and seventy-fifth, one under and one over at every site he has ever filled one in at. Four years he has had that sheet in front of him and he has never added those two numbers to the four launders, and the two sets of figures are on the same page this morning and neither of them is on the other's line.
 
 On the long wall this morning the near board reads **six hundred and sixty days** and the far one **seven hundred and seven**, the gap between them being the same forty-seven it has always been, and nobody put a hand on the drawer behind the near one.
 
-There is no figure for the run of mornings on this page and the reason for it is on the page. The half of that run is half a number on this morning and not a whole one, and the two men who read the boards were at the headland end of the four-mile road with a barrow neither of them took out, and the second book carries nothing this morning where the run stands.
+The run of mornings carries no figure on this page and the page gives the reason itself: half of it is half a number this morning and not a whole one. Both men who read the boards are at the headland end of the four-mile road standing beside a barrow neither of them took out, and what went into the second book about it is nothing at all.
 
 The woman of about thirty-eight of Marden had been at the long table for about twenty minutes before the shutter came off and she said one thing about it that nobody had asked her for, and she said it to the window and not to the room.
 
@@ -38,7 +38,7 @@ The woman of about thirty-eight of Marden had been at the long table for about t
 
 The shutter is up and the window behind it is a window in a wall of this holding, and no work is ever carried out of it. That has been true for eleven years and it is true this morning, and the shutter being up does not make it a place where anything happens, and nothing has ever gone out of that window and nothing is going to go out of it this week either.
 
-The two leaves about the two declinings were on the long table about nine inches apart where they have been for a month, and the shutter coming off did not move either of them and did not put them closer together.
+The two leaves about the two declinings had been on the long table about nine inches apart for a month, and at the sixth hour this morning the shutter came off and the nine inches was still nine inches. Nobody in that room moved either of them and nobody was asked to, and the two of them are still that far apart.
 
 **"A body's motion went up the coast road on Tuesday."** The man of about fifty said it to the second book at about the fifth hour, before he left, and he gave the reason for it before he said it and the count of that in this holding's history did not move this morning because a blank morning consumes no number and he printed no figure for it. **"It cites the nine acres that came off the twenty-ninth of a month now seven months back and it cites the decision that took them, and I am telling you it exists because it is on the road and two people will know about it by the weekend."** Nobody at that table asked him what the motion wanted and he did not say and he was not asked.
 

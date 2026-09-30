@@ -76,7 +76,7 @@ Six things this holding does not know are ruled with no unit against any of them
 
 Under the sleeve there is a mark of four inches that branches twice, and there is no second mark anywhere on that arm. What this holding knows about it is four accounts, and the four do not reconcile with one another in any particular, and a week of standing in a building nine miles off did not make a fifth.
 
-The far end of a thing is held by two people and this body is not either of them, and no instrument anywhere in four counties says whether it is on or off, and nobody in this holding has ever said it is on. Three wheels behind about nine hundred yards of rail are not that thing and a hand-lever under one of them is not that thing either.
+The far end of a thing is held by two people and this body is not either of them, and no instrument in four counties says whether it is on or off, and nobody in this holding has ever said it is on. About nine hundred yards is how much rail there is in that building and it is not that thing. Neither is the wheel behind the rail. Neither is the hand-lever under one of the three of them.
 
 Twenty-five not discharged, and the word that goes in front of that figure is paid, and it has not moved. The register form is a hundred and seventy-seven days old on the middle table with nothing at the head of its column, and it is not filled and it is not refused and it is not going to be read out a fifth time.
 

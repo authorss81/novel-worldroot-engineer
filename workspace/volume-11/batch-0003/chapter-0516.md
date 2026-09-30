@@ -82,6 +82,6 @@ Six things this holding does not know are ruled in a column in the seed house's 
 
 Undated, unfilled, not withdrawn, and with no line anywhere on it for a name, the paper on the low board is face up where it has lain for four months. A diagram on the back of a schedule sheet is not a reason to move anything on that board, and nobody in that room touched it and nobody has been told to.
 
-Nobody touched his arm. The mark under Marek's sleeve is four inches and it branches twice and there is no second mark on it, and the four accounts this holding has of that arm are four and this morning did not make a fifth, and he had his sleeve down all morning and nobody asked him about what is under it.
+His arm was not touched. What is under Marek's sleeve is four inches long and it branches twice, and there is not a second mark anywhere on it, and this holding has four accounts of that arm and had four accounts before this morning and has four accounts now. He kept the sleeve down from the gate to the gate and nobody asked him once what is under it, and he did not offer it.
 
 Nobody thanked anybody. The clerk of this holding wrote the ninth in at the ninth hour and read it back once and did not read it back twice, and a woman handed a drawing to four people and did not thank them and was not thanked, and about nine hours is on a piece of paper and about nine hours is not a day anybody in this holding has got free.

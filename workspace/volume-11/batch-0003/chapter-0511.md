@@ -74,9 +74,9 @@ The man with the slate came back into this building at about the ninth hour and 
 
 Nobody in this yard asked him where he had been since and nobody is going to. The slate has a chalk mark on the back of it and the chalk mark is not a figure, and no figure has ever been copied off the front of it into any of the four books in this building.
 
-He was still on the north wall at the seventh hour when the two men read the boards, and he said one word out loud to nobody, and the word was the one for the number that had just been said. Nobody in that yard asked him how he knew it, he did not say, and nobody in this building is going to ask him.
+The old man with a stick was up against the north wall when the two men got to the boards at the seventh hour, and out of that wall he said one word to nobody, and the word was the number that had just been called across the yard. How he had it nobody asked him then and nobody is going to ask him, and he did not say and he went back to the wall.
 
-There was no rain in the night and the frost stayed in the ground all morning. The middle road took nothing and gave nothing back, the north end of the ditch is running full, and the trough at the head of the four-mile road was full by the seventh hour and stayed inside its own lip.
+Nothing fell in the night and the frost stayed where it was all morning. The middle road gave up nothing and took nothing back, and the north end of the ditch is running full, and by the seventh hour the trough at the head of the four-mile road was up to its own lip and never once over it.
 
 Nobody thanked anybody. The clerk of this holding wrote the fourth in at the ninth hour and read it back once and did not read it back twice, and the shutter on the window of the office's work is still on and this is not the morning it comes off, and a door nine miles off has been standing open for a day and a half, and this building is on the wrong side of it, and nobody has called that an invitation.
 

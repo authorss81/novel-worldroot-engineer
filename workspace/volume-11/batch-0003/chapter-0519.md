@@ -72,7 +72,7 @@ Nothing went into this holding's book as a session today, so the number of entri
 
 Six things this holding does not know are ruled with no unit against any of them and the seventh row is not ruled, and what went through a window is not a seventh and nobody in this building has ruled a row for it.
 
-The order sealing the route is in the drawer under the two books and it is valid and it opens nothing, and no apology is going to be written for it by anybody in this holding and none has been written this week or any other week.
+It is in the drawer under the two books, that order sealing the route, and it is valid, and being valid it opens nothing whatever. Nobody in this holding is going to write an apology for it, and none has been written this week, and none was written the week before that either, and the drawer has been shut on it for eleven years.
 
 The man of about fifty had the third book open on the long table from about the fourth hour and did not write in it, and the drawer behind the boards on the long wall stayed shut through every hour of this morning, and a man who has wanted to open it for four years did not open it and nobody in that room asked him whether he had wanted to.
 

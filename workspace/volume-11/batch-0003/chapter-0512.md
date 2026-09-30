@@ -26,7 +26,7 @@ Iona Vey was inside at the second wheel when they came through, and she was not 
 
 **"The schedule on that wall is what we do and when we do it. It is the eleventh of the ones that has come up a road and every one of them has been kept, and if you take it away and read it in a room with a fire in it you will still have the same document and you will have lost the part where a man with a cloth walks a line of gauges."** She took her hand off the frame. **"I am not going to give you the document. You have it. I am telling you what is on the wall that is not on the sheet."**
 
-The sixth came in at about the ninth hour and came back out of the other book, and the two of them were the same.
+The fifth came in at about the ninth hour and came back out of the other book, and the two of them were the same.
 
 **One thousand and twenty hundredweight.**
 

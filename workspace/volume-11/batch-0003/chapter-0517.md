@@ -16,7 +16,7 @@ The board in the corner was used because that board is used every ninth morning 
 
 Eleven hundredweight is what that board has risen by every time for eleven years, and what went against it this morning is the thirty-eighth pair of names, one above the pair that went up nine days ago. The clerk of this holding entered it against the first rule and read it back once and did not read it back twice.
 
-Two people weighed it against two other things before the light was full. The clerk went at it at about the third hour against the sheet that came back inside the same fold, and the man of about fifty went at it again out of the third book at about the fifth hour, and the two figures those two men got are not the same figure. In four years nobody in this building has put the two halves of a return together and added them, and this morning the man of about fifty reconciled it twice and did not add them either.
+Before the light was full two people weighed the morning against two other mornings. The clerk took it at about the third hour against the sheet that came back inside the same fold, and the man of about fifty took it again at about the fifth hour out of the third book, and what those two men arrived at is not the same figure. Four years, and nobody in this building has ever set the two halves of a return side by side and added them, and this morning the man of about fifty made it square twice and added nothing to it either time.
 
 **"I write mine on the way down because I do not trust the road to be the same going back."** The man of about thirty-one of Silling said that to the clerk of this holding and to nobody else, and the clerk wrote it in the margin of the second book and did not put a name against it and did not put a count against it either.
 
@@ -74,7 +74,7 @@ What is asked of her this month is the seed front in four counties and a sowing 
 
 Paid at twenty-five, and it has not moved, and the word goes in in front of the figure. The register form is a hundred and seventy-four days old on the middle table and is not filled and is not going to be read out a fifth time. The second of the four lines in the man of about thirty-one of Silling's own book is a hundred and sixty-eight days old and has nothing on it.
 
-The sessions entered in this holding's book stand at seven and nobody entered one today, and a session that is not entered did not happen, and the four ruled lines under two words in the corner of the one room are as bare as they were in a month now four months back.
+Seven sessions stand entered in this holding's book and nobody put an eighth in this morning, and a thing that is not entered did not happen, and the four ruled lines under two words in the corner of the one room are bare in the way they were bare a month now four months back and nothing has been written on them since.
 
 The two sheets about the two declinings were on the long table about nine inches apart where they have been for a month and a day with a return on it, and neither of them moved this morning and the return did not settle either of them.
 
