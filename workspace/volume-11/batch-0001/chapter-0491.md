@@ -12,7 +12,7 @@ The pack under the near stone has gone back in wet and will want doing before th
 
 The man of about thirty-one of Silling was on the outlet end with a bar and a wedge from the second hour until about the fourth and said one thing about the pack, and what he said was that the pack is doing the job it was put in to do and the water has not asked it a question a pack answers, and nobody asked him for more than that.
 
-The frame in the pump house is oak and has been since before this building kept a book of anything, and it goes down about four minutes and comes up three on an ordinary morning, and there is an inch of black in the seam by the fourth hour, and that is a pump with an inch of air in it and not a pump that is broken.
+The frame in the pump house is oak and has been since before this building kept a book of anything, and it goes down four minutes and comes up three on an ordinary morning, and there is an inch of black in the seam by the fourth hour, and that is a pump with an inch of air in it and not a pump that is broken.
 
 Frost was on the yard at the second hour and gone off it by the seventh. The middle road took an inch of water in the night and had given most of that inch back by the ninth hour. The ditch at the north end is running full and the outlet at its head is doing what an outlet does and nobody has ever put a figure against it.
 
@@ -28,7 +28,7 @@ This morning's sheet puts the four bodies of households at two hundred and fifty
 
 The two boards stand at **six hundred and thirty-eight days** and **six hundred and eighty-five**, forty-seven apart at every row they have ever been read on, and the drawer behind them was not opened and nobody put a hand on it.
 
-There is no figure for the run of mornings on this page and the reason is on the page. One of the two men who read the boards went off at the second hour with a cart to a thing nine miles off on the other side of this holding, and the other one would not read his own half out by himself, and it is a Wednesday and nobody in this building thought of asking a third man. The number is not in the second book either, and the second book is the only place in this county where it would go.
+There is no figure for the run of mornings on this page and the reason is on the page. One of the two men who read the boards went off at the second hour to a thing nine miles off on the other side of this holding, on a cart that is not this holding's and that is standing at the mouth of the road this morning with nobody sitting on it, and the other one would not read his own half out by himself, and it is a Wednesday and nobody in this building thought of asking a third man. The number is not in the second book either, and the second book is the only place in this county where it would go.
 
 **It is a schedule.** That is the whole of what anybody in this room could say about it before the seventh hour of the next day. It has a date at the foot of it and nothing at the head of it, and the date is the twenty-second of this month.
 
@@ -52,13 +52,13 @@ A schedule is a record of a decision and is not a record of a reason. That is sa
 
 What is on the sheet is what it was made to be on it. A branch whose flow will not hold a season with the flow beside it is taken off, and the season after that is one that can be told to a great many people in the winter, and a person who is told a season in the winter eats what the season says. Nobody in this room has said that is wrong and nobody in this room has said it is right, because a reading and a cut are two facts and they are not a pair.
 
-And four bodies of households signed a charter in a room nine miles off on the twelfth of this month that gave them a real right to decline an inspection, and three of those four are still signed to a machine for stored light. The signature is on paper and the paper is correct and the two hands are on two different documents and neither one knows the other one exists. That is the price of what the charter gave them, and it is said in this yard this morning for the first time, and it is not going to be improved on.
+And four bodies of households signed a charter in a room nine miles off fifty-four days ago that gave them a real right to decline an inspection, and three of those four are still signed to a machine for stored light. The signature is on paper and the paper is correct and the two hands are on two different documents and neither one knows the other one exists. That is the price of what the charter gave them, and it is said in this yard this morning for the first time, and it is not going to be improved on.
 
 A body with two needs and one set of hands is a fact about a body. It is not a fact about a machine nine miles off and it is not a fact about a person in a room with gauges in it, and the four bodies of households are not villains this morning and they are not fools, and nobody in this yard is going to ask one of them to choose between the two things it has signed for.
 
 The requests column is fifty-three and the section-nine notes are fifty-three, and they are a different list, and neither of them moved this morning and the two of them are never added. A sheet that arrives by hand is not a request and nobody in this building entered it as one and nobody was going to.
 
-The ninth-day returns are every ninth morning without exception, and the board in the corner carries the days on it, and tomorrow is the ninth and has not been weighed, and there is nobody in this building who has asked why the rise on that board is eleven hundredweight every time and has been eleven every time for eleven years.
+The ninth-day returns are every ninth morning without exception, and the board in the corner carries the days on it, and this morning is the fourteenth and the next of them is the twenty-second and has not been weighed, and there is nobody in this building who has asked why the rise on that board is eleven hundredweight every time and has been eleven every time for eleven years.
 
 The man of about thirty-one of Silling read the sheet on his own at about the eighth hour, standing at the other end of the table, and did not touch it, and the second of the four lines in his own book is a hundred and forty-two days old this morning and has nothing on it. Nobody in this building has asked him about that line in a hundred and forty-two days and nobody is going to.
 
@@ -80,7 +80,7 @@ The count of things this holding has said out loud in a yard and got wrong is fi
 
 Six things this holding does not know are ruled in a column in the seed house's schedule with no unit against any one of them, and the seventh row is not ruled. A machine nine miles off is not a seventh and a date at the foot of a sheet is not a seventh and nobody in this holding has ruled a row this morning.
 
-Behind the fourth book there is a stack of day sheets about a foot and a half deep in the order it was used, and today's went on the top of it at about the ninth hour, and the sheet with no date at the head of it is still in the middle of that stack in the place it was on the first morning, and about four hundred sheets have gone over the top of it in four years and nobody in this building has ever looked at one of them.
+Behind the fourth book there is a stack of day sheets about a foot and a half deep in the order it was used, and today's went on the top of it at about the ninth hour, and the sheet with no date at the head of it is still in the middle of that stack in the place it was on the first morning, and some hundreds of sheets have gone over the top of it in four years and nobody in this building has ever looked at one of them.
 
 The clerk of this holding wrote the day in at about the ninth hour and read it back once and did not read it back twice, and the sheet from the fen road went into the long drawer and the weight went back onto the roll of terms.
 

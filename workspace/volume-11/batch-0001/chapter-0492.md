@@ -6,7 +6,7 @@ The low field gate wanted a bar and a stone and took the nine minutes it has tak
 
 Water came through the northern culvert in a thread about the width of a finger and came through the southern one in nothing at all, and the southern one is the one that has been dry since the first of this month and is not a thing anybody in this holding has put a figure against, and the man of about thirty-one of Silling put his hand in it and said the word dry and nobody asked him what he meant by it.
 
-The fill is the same chalk the well came out of and the chalk is nine hundred yards off at a bank that is not on any of the four lists, and the man of about thirty-one of Silling dug the new toe on the seventh of this month and it has taken the weight of a boot without complaint and about four feet of the old toe went anyway by the third hour, and that is what a toe does and nobody has written a figure against it.
+The fill is the same chalk the well came out of and the chalk is nine hundred yards off at a bank that is not on any of the four lists, and the man of about thirty-one of Silling dug the new toe on the seventh of this month and it has taken the weight of a boot without complaint and four feet of the old toe went anyway by the third hour, and that is what a toe does and nobody has written a figure against it.
 
 Marek was on the fill from the second hour until about the fifth and then went to the pump and stayed there, and he did not go to the long table and did not look at the sheet under the weight, and nobody in this building has ever asked him why a man who can feel a far end would rather pack chalk than read a piece of paper.
 

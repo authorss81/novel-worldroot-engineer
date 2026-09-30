@@ -2,7 +2,7 @@
 
 ## Named A Fourth Time
 
-Four people took the first line of the rota at the second hour, and it was the pump house and the frame, and the frame went down about four minutes this morning and came up three, and there was an inch of black in the seam by the fourth hour and the rag came away with it and went on the stone wall to dry.
+Four people took the first line of the rota at the second hour, and it was the pump house and the frame, and the frame went down four minutes this morning and came up three, and there was an inch of black in the seam by the fourth hour and the rag came away with it and went on the stone wall to dry.
 
 The man of about thirty-one of Silling shut the wheel at the fourth hour and stood with his hand on it and said nothing, and the pump is a pump and the shut is a shut and the two have been in this building since before the second book was started.
 
@@ -14,7 +14,7 @@ The twenty-first went in at about the ninth hour and came back out of the other 
 
 **Nine hundred and ninety-nine hundredweight.**
 
-It came in five under Tuesday and the fall went onto the falls, and that is the two hundred and sixty-second figure of a run that has never written the same number down twice since the morning it began. The window standing behind it divides a hundred and nineteen mornings one way and a hundred and nine the other, which is two hundred and twenty-eight, and in four years nobody in this room has set either end of that window against the figure printed over it.
+It came in five under Tuesday and the fall went onto the falls, and that is the two hundred and sixty-first figure of a run that has never written the same number down twice since the morning it began. The window standing behind it divides a hundred and nineteen mornings one way and a hundred and nine the other, which is two hundred and twenty-eight, and in four years nobody in this room has set either end of that window against the figure printed over it.
 
 The four bodies of households are on this morning's sheet at two hundred and fifty-nine days, and the clause beneath it is the two hundred and fifty-eighth of those mornings out of two hundred and sixtieth, a day short of the figure and a day over the clause.
 
@@ -24,7 +24,7 @@ It was named at a table in this room on the eighth of a month now one month back
 
 The nine loads went up that coast road on the twenty-ninth of a month now one month back and nine carts went through a cut on it, and they are in a yard four counties away this morning with the tally on a slate, and the slate is not in this building and the figure on the slate is not in any of the four books and nobody in this room has been to that yard and nobody has asked to go.
 
-A man who came up the fen road with a list of ten was at the gate at about the fourth hour and did not come in. About four people in this holding could give you that list and about four could not, and he was not asked which four he had in mind and he did not offer and he said the road and went on up it.
+A man who came up the fen road with a list of ten was at the gate at about the fourth hour and did not come in. As many people in this holding could give you that list as could not, and he was not asked which half of the room he had in mind and he did not offer and he said the road and went on up it.
 
 A list of ten is a route and a route is not a body, and the tally on a slate in a yard four counties away is a tally of loads and not a count of households, and neither of those two things is a count of anybody and neither of them was added to the four namings of a vault nobody has been down.
 
@@ -72,7 +72,7 @@ He said one thing at the long wall at about the eighth hour and he gave the reas
 
 Nobody in that room said that was a decision and nobody said it was not a decision, and a man who says a thing out loud and does not act on it has still said it, and he did not act on it and was not asked to and did not offer.
 
-There is a form with four lines on the back of the seed house's own schedule and line one carries one hundred and eighty-four hundredweight and the other three are empty and no heading has been written at the top of it, and a form is not a column and is not going to be made into one this morning by anybody in this holding.
+The seed house's own schedule carries a form on the back of it with four ruled lines on it, and one hundred and eighty-four hundredweight is on the first of them and nothing whatever is on the other three, and no heading has been written at the top of it in four years. A form is not a column and nobody in this holding is going to make it into one over a shortage sheet.
 
 Behind the fourth book the day sheets are a foot and a half deep in the order they were used and this morning's went on the top of them at the ninth hour, and the sheet with no date at the head of it is still in the middle of that stack in the place it was on the first morning, and it carries two figures and no name against either of them and it was not read this morning.
 
@@ -82,6 +82,6 @@ The woman of about thirty-eight of Marden was not in this building this morning 
 
 The four ruled lines under two words in the corner are still empty and the answer to them is not due, and a shortage is not an answer to them and a vault is not an answer to them and nobody in this room tried to make either of them one.
 
-There was a quarter of an inch of frost in the small hours and none of it left on the yard by the seventh hour, and the light came up about half an hour before it does in the ninth month, and nobody in this holding keeps a figure of light and has never been asked to.
+There was a quarter of an inch of frost in the small hours and none of it left on the yard by the seventh hour, and the light came up about half an hour before it does in a month now nine months back, and nobody in this holding keeps a figure of light and has never been asked to.
 
 Nobody thanked anybody. The clerk of this holding wrote the twenty-first in at about the ninth hour and read it back once and did not read it back twice, and the second book was shut with the day in it and the south wall of the seed house still has a man against it and nobody has asked him his name.

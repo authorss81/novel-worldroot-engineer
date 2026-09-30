@@ -2,7 +2,7 @@
 
 ## A Defect Is Not A Question
 
-Four people were on the first line of the rota at the second hour and it was the pump house and the frame, and the frame was down about five minutes this morning and up about three, and the black out of the seam came away on a rag and the rag went on the stone wall to dry, which is what the rag has been for since the ninth month of last year.
+Four people were on the first line of the rota at the second hour and it was the pump house and the frame, and the frame was down about five minutes this morning and up about three, and the black out of the seam came away on a rag and the rag went on the stone wall to dry, which is what the rag has been for since a month now nine months back and has not been asked to do anything else.
 
 The water came up the standpipe at the fourth hour and the man of about thirty-one of Silling shut the wheel and stood with his hand on it and said that the wheel is the wheel and the shut is the shut, and nobody asked him a question about it and he did not say anything else about it.
 
@@ -22,7 +22,7 @@ Marek went out of the gate at the second hour with nothing in his hands and went
 
 He had been looking at it. He has never been inside it, and nobody in this holding has ever been inside it, and nobody in this building has a key to it and nobody has asked anybody for one, and what he could say about the outside of it after nine hours on his feet is on this page and it is not a column and it is not going to be made into one.
 
-What is on the outside of it is a wall of concrete about the height of the seed house and about four times its length, and a rail on posts along the front of it with about nine hundred yards of it, and three wheels standing behind that rail, and a door in the middle of the wall that is shut and has a man beside it. There is a smaller door at the near end with a desk in it and a woman at the desk, and she looked up once when he came along the rail and then went back to what she was doing.
+What is on the outside of it is a wall of concrete about the height of the seed house and four times its length, and a rail on posts along the front of it with about nine hundred yards of it, and three wheels standing behind that rail, and a door in the middle of the wall that is shut and has a man beside it. There is a smaller door at the near end with a desk in it and a woman at the desk, and she looked up once when he came along the rail and then went back to what she was doing.
 
 There is a schedule on the wall inside the near end of it, and a man reads it off the wall and copies it, and the man who reads it has been doing that for a long time and did not stop when he went past. There is no name over the door and no name on the sheet and no date cut into the concrete anywhere along the front of it, and he looked for both of those for about an hour and found neither.
 

@@ -10,9 +10,9 @@ Twenty-nine taken has not moved this morning and has not moved on any morning of
 
 Of the rotation there are two reckonings kept and they do not agree, and a page that printed one of them would be printing half a fact, so both are here. On the reckoning made in this room the twentieth of this month is its fifty-second morning. On the other it is the thirty-ninth.
 
-Between them is thirteen. It has been thirteen for four years and nobody in this holding has ever worked out what the thirteen counts, and neither of the two numbers can be arrived at by taking twenty-nine away from the other.
+Thirteen has stood between them for four years and nobody in this holding has ever worked out what it counts, and it is not arrived at by taking twenty-nine away from either figure, and nobody has come at it from the other side in four years either.
 
-There is no figure for the run of mornings on this page and the reason is on the page. It is an even morning and the half of that run is not a whole number on an even morning, and the two men who read the boards were both nine hundred yards off with a barrow of chalk and neither of them was in the room at the seventh hour, and the second book has nothing in it this morning where the run stands.
+Nothing stands against the run of mornings this morning, and the reason for the nothing is on the page. It is an even morning and the half of that run is not a whole number on an even morning, and the two men who read the boards were both nine hundred yards off with a barrow of chalk and neither of them was in the room at the seventh hour, and the second book has nothing in it this morning where the run stands.
 
 The boards stand at **six hundred and forty-four days** and **six hundred and ninety-one**, and the forty-seven is the same forty-seven and the drawer behind them was not opened and nobody has asked what is in it in four years.
 
@@ -20,13 +20,13 @@ The twentieth went in at about the ninth hour and came back out of the other boo
 
 **One thousand and four hundredweight.**
 
-It came up eight on Monday with nothing against it and the rise went onto the rises, and that is the two hundred and sixty-first figure of a run that has never written the same number down twice since the morning it began. The window standing behind it divides a hundred and nineteen mornings one way and a hundred and eight the other, which is two hundred and twenty-seven, and the two ends of that window have never been set against the figure printed over it by anybody in this building.
+It came up eight on Monday with nothing against it and the rise went onto the rises, and that is the two hundred and sixtieth figure of a run that has never written the same number down twice since the morning it began. The window standing behind it divides a hundred and nineteen mornings one way and a hundred and eight the other, which is two hundred and twenty-seven, and the two ends of that window have never been set against the figure printed over it by anybody in this building.
 
 The four bodies of households are on this morning's sheet at two hundred and fifty-eight days, and the clause beneath it is the two hundred and fifty-seventh of those mornings out of two hundred and fifty-ninth, a day short of the figure and a day over the clause.
 
-A subscription went out of this building this morning with two figures on it that this holding cannot check, and the acknowledgment at the foot of it carries a surname in capitals because a document that binds anybody has to carry one, and the count of figures this holding cannot check on that sheet is two.
+A subscription went out of this building this morning with two figures on it that this holding cannot check, and the acknowledgment at the foot of it carries a surname in capitals because a document that binds anybody has to carry one, and the surname is the engineer's and he did not come in this building to write it, and the count of figures this holding cannot check on that sheet is two.
 
-> THE ACKNOWLEDGMENT AT THE FOOT OF THE SUBSCRIPTION, ENTERED THIS MORNING IN THE SEED HOUSE, IN HER HAND, IN A COLUMN THAT SAYS NOTHING AT THE HEAD OF IT: **THE SUBSCRIPTION NAMED ON THIS SHEET IS THE SUBSCRIPTION OF A BODY OF HOUSEHOLDS AND NOT THE SUBSCRIPTION OF ANY HOUSEHOLD IN IT. TWO FIGURES ARE SET AGAINST IT AND NEITHER OF THE TWO WAS SUPPLIED BY THIS HOLDING AND NEITHER OF THE TWO CAN BE CHECKED BY THIS HOLDING. THE FIRST OF THE TWO IS NOT NAMED HERE AND IS NOT NAMED ANYWHERE ELSE. THE SECOND OF THE TWO IS FOUR DAYS. THIS HOLDING KEEPS FOUR BOOKS AND NEITHER OF THE TWO FIGURES ABOVE IS IN ANY OF THEM. ACKNOWLEDGED: VALE.** THE SURNAME IS ON THAT LINE AND NOWHERE ELSE IN THIS BUILDING AND IT IS NOT A SIGNATURE AND IT IS NOT A HEADING, AND THE FIGURE WITH FOUR LINES ON IT AT THE BACK OF THAT SHEET IS NOT A COLUMN AND IS NOT GOING TO BE MADE INTO ONE, AND LINE ONE STILL CARRIES ONE HUNDRED AND EIGHTY-FOUR HUNDREDWEIGHT AND THE OTHER THREE ARE STILL EMPTY AND NO HEADING HAS BEEN WRITTEN ON IT.
+> THE ACKNOWLEDGMENT AT THE FOOT OF THE SUBSCRIPTION, ENTERED THIS MORNING IN THE SEED HOUSE, IN HER HAND, IN A COLUMN THAT SAYS NOTHING AT THE HEAD OF IT: **THE SUBSCRIPTION NAMED ON THIS SHEET IS THE SUBSCRIPTION OF A BODY OF HOUSEHOLDS AND NOT THE SUBSCRIPTION OF ANY HOUSEHOLD IN IT. TWO FIGURES ARE SET AGAINST IT AND NEITHER OF THE TWO WAS SUPPLIED BY THIS HOLDING AND NEITHER OF THE TWO CAN BE CHECKED BY THIS HOLDING. THE FIRST OF THE TWO IS NOT NAMED HERE AND IS NOT NAMED ANYWHERE ELSE. THE SECOND OF THE TWO IS FOUR DAYS. THIS HOLDING KEEPS FOUR BOOKS AND NEITHER OF THE TWO FIGURES ABOVE IS IN ANY OF THEM. ACKNOWLEDGED: VALE.** THE SURNAME ON THAT LINE IS THE ENGINEER'S AND IT IS IN CAPITALS BECAUSE A DOCUMENT BINDS AND A LINE HAS NO OTHER WAY OF BINDING, AND IT IS NOT A SIGNATURE AND IT IS NOT A HEADING, AND THE FIGURE WITH FOUR LINES ON IT AT THE BACK OF THAT SHEET IS NOT A COLUMN AND IS NOT GOING TO BE MADE INTO ONE, AND LINE ONE STILL CARRIES ONE HUNDRED AND EIGHTY-FOUR HUNDREDWEIGHT AND THE OTHER THREE ARE STILL EMPTY AND NO HEADING HAS BEEN WRITTEN ON IT.
 
 The count of figures this holding has handed out that it cannot check is two, and it is two, and the first of the two is not named. A figure on somebody else's document is not a figure this holding has handed out, and a third of them is not a third and was not entered this morning and is not going to be.
 
@@ -42,15 +42,15 @@ A clerk who guesses a date has done an ordinary thing and the ordinary thing is 
 
 The man of about seventy was not fetched this morning and is not fetched until the first of the next, and the count of questions this holding has put to him is nil and is nil, and a guess in a county book four counties off is not a reason to go and ask a man of about seventy anything at all.
 
-The man of the north row with the cough was on the middle road with a bar from about the third hour and did the top of the low field gate alone. Nobody in this holding has asked him to hold an end of anything and he was not asked this morning and he was not asked yesterday, and the four ruled lines under his condition are still empty and the answer to them is not due.
+The man of the north row with the cough was on the middle road with a bar from about the third hour and did the top of the low field gate alone. Nobody in this holding has asked him to hold an end of anything, and the four ruled lines under his condition are still empty and the answer to them is not due.
 
-He has not been asked what he will be able to do in about four years and the question has not been put to him in four years, and what he counts in a morning he counts and what he does not say he does not say, and none of it is printed in any of the four books and none of it is printed on this page.
+He has not been asked what he will be able to do in four years and the question has not been put to him in four years, and what he counts in a morning he counts and what he does not say he does not say, and none of it is printed in any of the four books and none of it is printed on this page.
 
 The woman who coordinates the moving reserves was on the middle road at about the seventh hour with a list of what four counties draw out of that machine in a bad week, and she said the number of districts out loud and she said the number of people in them and she said neither of them twice, and the man of the north row with the cough was on the gate above her and did not come down.
 
-She asked him one question at the gate and it was whether he would take the far end of a thing in about four years, and he said he would not say, and she did not ask him a second time and wrote nothing down and went back up the coast road at about the eighth hour.
+She asked him one question at the gate and it was whether he would take the far end of a thing in four years, and he said he would not say, and she did not ask him a second time and wrote nothing down and went back up the coast road at about the eighth hour.
 
-Nobody in this holding has asked him to hold an end of anything. She asked him and he did not say and it is not recorded in any of the four books, and the count of questions this holding has put to him is not moved by a question somebody else put to him in a yard.
+The count of questions this holding has put to him stands where it stood, and a question somebody else put to him in a yard does not go into it. He would not say and nobody wrote it down, and a bar laid against a wall at the eighth hour is not a record.
 
 Marek was at the far end of the middle road from about the fourth hour to about the seventh with his hand on the fill, and the mark on his arm is four inches long and branches twice and is the same four inches it was on the fourteenth, and there is no second mark and the four accounts of that arm in this building are four and this morning is not a fifth.
 
@@ -76,7 +76,7 @@ The window of the office's work is shut with the shutter on it and the shutter d
 
 The woman who keeps the seed house said one thing at the door of the seed house at about the eighth hour and it was to the acknowledgment and not to anybody in the room, and she said that a surname on a line is what a document that binds anybody has to carry, and that a person is not a document and she was not going to be asked to be one.
 
-**"I have put a name on a piece of paper this morning and I would like it written down that I did not enjoy it, and I am not going to say that again either."** She said it once, to nobody, and went back into the seed house and shut the door behind her, and nobody in this building repeated it and nobody asked her a second question.
+**"I have put a name on a piece of paper this morning and I would like it written down that I did not enjoy it, and I am not going to say that again either."** She said it once, to nobody, and went back into the seed house and shut the door behind her, having written a man's surname on a document that was not his to acknowledge and having been asked to write it anyway, and nobody in this building repeated it and nobody asked her a second question.
 
 The far end of a thing is held by two people and neither of them is the reader of this body, and no instrument anywhere in four counties says whether it is on or off, and it has not been said to be on by anybody in this holding, and a man in the north row who would not say is not one of the two and is not on either of the two lists.
 

@@ -4,13 +4,13 @@
 
 **One thousand and one hundredweight.**
 
-It came up eight on Saturday with nothing against it and the rise went onto the rises, and it is the two hundred and fifty-ninth figure of a run that has never written the same number down twice since the morning it began, and the count of that run is day minus four hundred and fifty and it did not reset when the month turned.
+It came up eight on Saturday with nothing against it and the rise went onto the rises, and it is the two hundred and fifty-eighth figure of a run that has never written the same number down twice since the morning it began, and the count of that run is day minus four hundred and fifty and it did not reset when the month turned.
 
 The second line of the rota came round at the second hour and was worked, and it was the outlet end and the two stones at the head of it, and the near stone had no daylight under it and had none since the fourth, and the far stone had not moved since the twenty-eighth of a month now two months back, and the pack under the near stone was taken up and put back wet.
 
 Four people were on it from the second hour until about the fifth, and the man of about thirty-one of Silling did the near end with a bar and a wedge and would not let anybody take the other end of that bar, and nobody in this building has ever asked him why a bar wants one man and nobody is going to.
 
-The outlet is a working outlet and it is doing what an outlet does, and the water coming through the wall of it this morning was about the same as it was on Thursday and about four inches more than it was on the first of this month, and nobody in this building has ever written a figure against an outlet and nobody is going to start this morning.
+The outlet is a working outlet and it is doing what an outlet does, and the water coming through the wall of it this morning was about the same as it was on Thursday and four inches more than it was on the first of this month, and nobody in this building has ever written a figure against an outlet and nobody is going to start this morning.
 
 There is a pack under the near stone that was put in on the first of this month and has been wet and dry and wet and dry four times since, and a week is the ordinary answer for a pack and it has not been written down anywhere in this building, and the man who put that pack in was asked nothing about it and offered nothing about it.
 
@@ -18,7 +18,7 @@ The woman who keeps the seed house came out at about the fourth hour with a barr
 
 The man of about seventy-four with a stick was on the wall at the north end of the yard from about the third hour to about the sixth and did not go out of the gate, and the man of about seventy was not fetched this morning and is not fetched until the first of the next, and the count of questions this holding has put to him is nil and is nil at every one of its sites.
 
-There is no figure for the run of mornings on this page and the reason is on the page. It is an even morning and the half of that run is not a whole number on an even morning, and neither of the two men who read the boards would read a half out loud, and the second book has nothing in it this morning where the run stands.
+The run of mornings carries nothing on this page, and it is on the page that it carries nothing. It is an even morning and the half of that run is not a whole number on an even morning, and neither of the two men who read the boards would read a half out loud, and the second book has nothing in it this morning where the run stands.
 
 The boards stand at **six hundred and forty-two days** and **six hundred and eighty-nine**, and the forty-seven is the same forty-seven and the drawer behind them was not opened, and the man who reads the near side put the chalk down on the shelf and left it there.
 
@@ -40,7 +40,7 @@ The man of about fifty was at the gatepost at about the seventh hour and said on
 
 About four people at the gate heard the whole of it and about four heard the half of it, and nobody has said which four is which and nobody has been asked, and the count of times a bookkeeper has said a thing in a yard that the engineer of record had not thought of is fifteen and it is sixteen this morning and it is that count and not the other one and the two are not added.
 
-That is the sixteenth. He was not asked and he did not know, and the two fours in that sentence are not a count of anybody and are not in any of the four books, and the five in the other sentence is a different five and belongs to a different count and the two counts are not added to each other anywhere in this building.
+The sixteenth is a count of a thing said in a yard and not a count of anybody, and it is in none of the four books, and the five in the other sentence is a different five and belongs to a different count, and the two counts have never been added to each other anywhere in this building.
 
 Marek was at the north end of the gate wall while that was being said and heard the whole of it, and he did not say anything back and was not asked for anything, and the thing the man of about fifty said is a thing the engineer of record had not thought of, and the engineer of record has never in nine years said out loud that a thing he had not thought of was a thing he had not thought of.
 
@@ -48,11 +48,11 @@ The woman who coordinates the moving reserves was at the gate for about twenty m
 
 She is not support staff and has not been asked to be and this holding has not offered her anything, and the count of questions this holding has put to her since the third of this month is nil and is nil, and a body on a node is a neighbour and a neighbour is not an enemy and neither of those is a column.
 
-Four bodies of households signed a charter in a room nine miles off on the twelfth of this month, and three of the four are still signed to a machine, and a Sunday morning at a gatepost is not the place to improve on that, and nobody in this yard improved on it and nobody asked anybody to stop drawing and nobody in this yard stopped drawing.
+Four bodies of households signed a charter in a room nine miles off fifty-four days ago, and three of the four are still signed to a machine, and a Sunday morning at a gatepost is not the place to improve on that, and nobody in this yard improved on it and nobody asked anybody to stop drawing and nobody in this yard stopped drawing.
 
 The man who came down nine miles on foot to the tap on the eleventh is still at the seed house and has been on the south wall of it since the morning he came down, and nobody in this building has asked him his name and his name is not in this building and is not going to be put in it.
 
-The man in the cart shed at the mouth of the cut is still in the cart shed, and the man of about fifty went up the coast road on Thursday to find out whether he was still in it and came back on Friday without saying what he found, and this building has not been and is not going to be, and nobody has asked him a question at any hour of any day about it.
+The man in the cart shed at the mouth of the cut is still in the cart shed, and the man of about fifty went up the coast road on Thursday to find out whether he was still in it and came back on Friday without saying what he found, and this building has not been to that shed and is not going to be, and nobody has asked him a question at any hour of any day about it.
 
 The sheet of terms carries five clauses in two hands and a third column with a heading that has stood over it since the twenty-first of a month now three months back and has nothing in it, and none of the five has been improved and none has been taken back, and a sixth is not being written this morning.
 
@@ -66,7 +66,7 @@ There were more than five bodies on the node. The number on the page is five, be
 
 A machine house with about nine hundred yards of rail in it is not a yard, and the yard at the second gate is not a machine house, and the two are not added to each other, and a body that is on a node is not a body in a yard and is not a body at a gate.
 
-Behind the fourth book the day sheets are a foot and a half deep in the order they were used and this morning's went on the top of them at the ninth hour, and the sheet with no date at the head of it is still in the middle of that stack in the place it was on the first morning, and about four hundred sheets have gone over the top of it in four years.
+Behind the fourth book the day sheets are a foot and a half deep in the order they were used and this morning's went on the top of them at the ninth hour, and the sheet with no date at the head of it is still in the middle of that stack in the place it was on the first morning, and a foot and a half of day sheets have gone over the top of it in four years.
 
 The window of the office's work is shut with the shutter on it and the shutter does not come off until the sixth of a month, and the sixth of this month went past at the second hour with the shutter on, and no work is ever carried out of that window and none was carried out of the last one either.
 

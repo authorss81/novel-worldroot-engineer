@@ -4079,3 +4079,72 @@ Thirty-five threads at day 654 and thirty-five after the repair pass, and the re
 **AND THE FIGURE THE THIRTY-FIVE ARE CHECKED AGAINST HAS MOVED BY NOTHING: `reviews/volume-10.findings.md` § 6 IS THE THREAD-BY-THREAD TABLE AND IT REPRODUCES, AND § 2 OF THAT FILE IS UNCHANGED, AND ITS § 1g IS CORRECTED BY THE RECORD ABOVE AND IN `state/continuity.md`.**
 
 **THE ONE-LINE VERSION: thirty-five in and thirty-five out, two of them still unaskable, and three defects named in closed pages that are not answers to any of the thirty-five and were never going to be.**
+
+
+---
+
+# VOLUME 11 BATCH 0001 - THE STATE AFTER CHAPTERS 491 TO 500, AND THE THIRTY-FIVE THREADS THE BATCH DID NOT TOUCH
+
+**THE COUNT IS THIRTY-FIVE IN AND THIRTY-FIVE OUT AND IT IS THE FIGURE IN THIS SECTION AND NOT THE ONE IN THE PARAGRAPH AT THE HEAD OF THIS FILE, WHICH SAID THIRTY-FIVE BEFORE ANYBODY COUNTED IT. NO CHAPTER OF THIS BATCH ANSWERED, CLOSED, REWORDED, ADVANCED ONE TO A FIGURE, SUMMED ONE OR GROUPED ONE. A THREAD MAY ADVANCE AND MAY NOT BE ANSWERED, AND A DEFECT IS NOT A QUESTION AND A DOCUMENT IS NOT A QUESTION AND A MACHINE IS NOT A QUESTION AND A SCHEDULE IS NOT AN ANSWER AND A DECLARATION IS NOT A DEFENCE AND A PATTERN THAT CAME BACK IS NOT A HARVEST.**
+
+## THE TWO THAT MAY NEVER BE ANSWERED IN ANY VOLUME, NAMED AS SUCH
+
+**WHOSE ORDER IT IS.** Asked four times across the series, answered never, named once without being asked. **NOT ASKED AGAIN AND NOT NAMED. IT ADVANCED ON Ch 491 AND ON NO OTHER CHAPTER OF THIS BATCH, AND ONLY LIKE THIS: the sheet that came up the fen road has a date at the foot of it and no name at the head of it, and the difference between an instrument with nobody's name on it and a person with a body is said once in that building.** The sentence at `workspace/volume-08/batch-0003/chapter-0372.md:47` was spent in a closed volume and was not used.
+
+**WHETHER THE TELLING IS STILL GOING ON.** Untouched for a ninth volume. **NO CHAPTER OF THIS BATCH SAYS ANYTHING ABOUT IT, USES THE WORD TO MEAN IT, OR HINTS AT IT. A SWEEP OF THE TEN FILES ON A WORD BOUNDARY RETURNS THE ORDINARY VERB AND NOTHING ELSE.**
+
+## THE THIRTY-FIVE, EACH ONE WITH WHERE IT NOW STANDS AND WHAT THE NEXT BATCH OWES IT
+
+| # | Thread | Where it stands at day 713 | Owed to the batch at 501 to 510, and no further |
+|---|---|---|---|
+| 1 | **Whose order it is** | not asked, not named; the schedule says what and when and has no name on it | **NOTHING. It was advanced on Ch 491 and may not be advanced again in Movement 1.** Ch 506 is where the outline put the second advance and the sentence is the same one, said once |
+| 2 | **Whether the telling is still going on** | untouched for a ninth volume | **PROHIBITION AND NOT A CHAPTER** |
+| 3 | **What a record is for, when the only person who took it is not a witness to himself any more** | the four ruled lines under the two words are still empty and the answer is not due | Ch 539, and nowhere in this batch |
+| 4 | **The corridor in the pan** | named on Ch 493 and again on Ch 498, not established as on, the sheet that claims it is in a drawer face up and is correct | **NEITHER CLOSED NOR OPENED. Ch 520, and no chapter of this batch may use Volume 10's open word on it** |
+| 5 | **The seed vault of forty households under four hundred yards off** | not recovered; named a fourth time on Ch 498 and the page did not add the fourth naming to any count | nothing further in this batch |
+| 6 | **The ring of bare ground inside the eleven acres** | not walked, not measured, not crossed, not priced, not explained, no dimension on any page; named once on Ch 496 and stayed unnamed after that | Ch 505 and Ch 528, and it is not walked there either |
+| 7 | **Who speaks for the eleven acres** | seven answers in four years, none of them an answer, and an eighth was not given; Ch 496 gave a difference and not a person | nothing in this batch |
+| 8 | **The unit of the two numbers the woman of about thirty-eight of Marden says out loud** | not known, entered as not known, no unit supplied at any site | **THE COUNT OF QUESTIONS PUT TO HER IS TWO AND IS STILL TWO. IT MOVES BY ONE AND BY ONE ONLY, ON Ch 502, AND NOT ON Ch 531** |
+| 9 | **Why the middle came down, and which rate is the true one** | unreconciled; this batch used no rate and stated nothing about any total | Ch 509 |
+| 10 | **The blank columns of the well house door, and what the seventh counts besides readings** | the seventh stands at sixty and was read on none of these ten mornings; the six blank ones stand headed nothing and the second keeps the four words put there in a closed volume | Ch 507, Ch 508, Ch 537, Ch 538, and **Ch 507 IS A THIRTIETH OF A MONTH, BEING DAY 720, AND THAT IS THE FIRST OF THE FOUR** |
+| 11 | **Why a man of about seventy is fetched on the first of a month and has never once asked which number** | fetched twenty-six times; not fetched on any of these ten mornings; the count of questions is nil and is nil | **Ch 508, BEING DAY 721, IS THE TWENTY-SEVENTH FETCHING, AND NOBODY ASKS HIM WHICH NUMBER** |
+| 12 | **The number two this holding hands out and cannot check, and the first of them is not named** | two at every site, the first not named, entered on Ch 497 with **VALE** in capitals on the one line a document requires a surname | **THE COUNT STAYS TWO AND NO THIRD IS ENTERED** |
+| 13 | **What the man of the north row with the cough will be able to do in about four years** | four ruled lines under his condition empty; asked by somebody else at a gate on Ch 497 and he would not say; **his two counts of yards and silences are printed nowhere in this batch** | Ch 521, and he is not asked to hold an end of anything there |
+| 14 | **How much seed there is in Thornwild, in sacks, and what that is worth in days** | not on this batch's pages at all | Ch 516 |
+| 15 | **Whether the bridge is on** | not said to be on by anybody on any of these ten mornings; the far end is held by two people and neither of them is him; a wheel behind a rail is not that thing and the two are not added | Ch 499 carried it and Ch 529 carries it |
+| 16 | **The thirty-five open questions in general** | thirty-five, at days 566, 576, 586, 596, 605 and 654, and said out loud in a room on Ch 494 with the rule attached | **STILL THIRTY-FIVE AT THE END OF THIS VOLUME** |
+| 17 | **The pulse that came twice from the north where there is no ground** | two figures in it and no name, and it was not read on any of these ten mornings and is not named | Ch 517, and not read a third time |
+| 18 | **The use log and the reason for the fifteen** | fifteen lines at every site and got no sixteenth; the man who keeps it entered a request on Ch 500 and the reason was not given again | nothing in this batch |
+| 19 | **The pattern-holder counts and the two rootmarks** | two for four, one for five, two rootmarks, all carried unmoved on Ch 493 and Ch 499 | nothing in this batch |
+| 20 | **The four accounts of the arm and the mark** | four inches, branches twice, no second mark, four accounts that reconcile none of one another, and nothing in these ten chapters is a fifth | Ch 512 and Ch 534 |
+| 21 | **The number of questions available to a room in this holding and not taken** | eight, unmoved, and said in a room and not in a yard at every site | Ch 503 |
+| 22 | **The things said out loud in a yard and got wrong** | five, and it did not move on any of these ten mornings, and a yard was had at the second gate on Ch 495 | nothing in this batch |
+| 23 | **The times a bookkeeper has said a thing in a yard the engineer of record had not thought of** | **fifteen became sixteen on Ch 495, in a yard, with the rule stated and not improved, and about four heard the whole and about four heard the half** | nothing in this batch |
+| 24 | **The bodies at the node** | five on the page, and there are more than five, and the number was not given in a yard and was not given at a gatepost | nothing in this batch |
+| 25 | **The bodies that have asked about who holds the pen** | one, and the count is of a question and not of anybody, and the answer went out on Ch 500 and named nobody | nothing in this batch |
+| 26 | **The requests and the section-nine notes** | **fifty-three and fifty-three on Ch 492, Ch 496, Ch 499 and Ch 500, never added and not the same list, and a sheet that arrives by hand is not a request and a reply is not a request and a subscription is not a request** | Ch 511, and a chapter that says a request entered is a new request has converted a floor into a ceiling |
+| 27 | **The barrow and the four roads** | eleven journeys, restated and never raised; the nine miles to the machine is a fifth distance and is not one of the four; a party walked the nine miles on Ch 500 and the barrow did not go | Ch 522 |
+| 28 | **The register form and the offer** | the form at a hundred and forty-eight days on Ch 491 and a hundred and fifty-seven on Ch 500, not filled, not refused, not read out a fifth time; the offer on the low board, not filled, not withdrawn, not dated, no line for a name | Ch 519, and Ch 539 |
+| 29 | **The form with four lines** | one figure on line one, one hundred and eighty-four hundredweight, and lines two, three and four empty and no heading written on it, on Ch 497 and Ch 498 | Ch 512 |
+| 30 | **The sheet claiming the corridor and the order sealing the route** | both in drawers, both correct, neither closed, reworded, advanced, summed or grouped | Ch 502 and Ch 526 |
+| 31 | **The five terms of Volume 07 and the five terms of the twenty-first** | the five of the twenty-first in two hands with a third column ruled and empty and a sixth not written, on Ch 492 and Ch 495 | Ch 507 |
+| 32 | **The succession ladder** | **climbed zero rungs on these ten mornings; no offer of any kind was made from this building to anybody who reads these books, and the paper on the low board is not a new one** | Ch 515 |
+| 33 | **The decision of the eleventh of the fourth** | not reopened by anything in this batch; the cut at the kerb stays open; nothing goes into the two-foot gap this season; the valve is not opened; the key is not used | Ch 513, at the machine and not in this building |
+| 34 | **The valley of the middle, the pulse, the not knowns counted as six** | the six not knowns at six with no unit supplied for any of them and no seventh added, on Ch 493, Ch 496, Ch 497, Ch 498, Ch 499 and Ch 500; **the well on the shelf was read on Ch 493 and the count of day-and-no-figure entries is twelve** | Ch 512 and Ch 524 |
+| 35 | **What the wood keeps, and what it cost** | opened, worked and left open; the comfort is not standing, the father is not alive in the wood, the day does not come back, said once on Ch 496; **a clerk in one of the four counties had to guess a date again on Ch 497 and the guess is in a county book four counties off** | Ch 524 and Ch 539, and the eight places that did not come out of the standing willow are still not guessed at |
+
+## WHAT THE NEXT BATCH OWES THIS ONE BESIDE THE THIRTY-FIVE
+
+**THE THIRD-LAUNDER RUN IS AT 1002 AND THE NEXT FIGURE IS 1010, EIGHT ON A FALL-TURNED RISE, BEING DAY 714, A SATURDAY. THE WINDOW IS AT 230 AND GOES TO 231 AS 121 AND 110. THE READ-ALOUD RUN IS AT ONE HUNDRED AND TWO AND THE NEXT WHOLE PAIR IS ONE HUNDRED AND THREE OF ONE HUNDRED AND EIGHTY-NINE, ON Ch 502, A SUNDAY, AND THE FRAME IS STILL *OF A MONTH SIX MONTHS BACK* UNTIL Ch 508.**
+
+**AND FOUR THINGS THIS BATCH LEARNS THE HARD WAY THAT THE NEXT ONE MUST NOT LEARN AGAIN.**
+
+**THE CHARTER IS DAY 650 AND NOT THE TWELFTH OF ANY MONTH.** Four pages of this batch said the twelfth, and the twelfth of this month is the day the four clauses were read out once in a room with one door, and those four clauses are not a charter and this building signed nothing. **ANY CHAPTER THAT DATES THE CHARTER OFF A DAY THAT FELL INSIDE THIS BATCH IS DATED WRONG, AND THE ONLY FRAME IS FIFTY-FOUR DAYS BACK OR A BARE DAY COUNT.**
+
+**THE TWENTY-SECOND OF THE TWELFTH IS DAY 712 AND IT IS Ch 499 AND IT IS SPENT.** The volume's central date came and went on the last morning of this batch, nothing happened on it, and this holding did not move a step toward it on any of the eight mornings before it. **IT MAY NOT BE PLACED IN MOVEMENT 2, MAY NOT BE PUT ON A CHOSEN MORNING, AND MAY NOT BE REISSUED. `outline/volume-11.md` LINE 98 IS WITHDRAWN FOR VOLUME 11 INSOFAR AS IT PUTS THE MACHINE'S DOOR ON THAT DATE, AND `workspace/volume-11/batch-0002/PROMPT.md` CARRIES THE RULING. THE MACHINE OPENS ITS OWN DOOR ON A DAY OF ITS OWN.**
+
+**THE BATCH'S FIRST DEBT IS A UNIFORM PARAGRAPH RHYTHM AND FOUR RUNS OF LEDGER PARAGRAPHS, AND IT IS NAMED AND NOT REPAIRED HERE.** A subject, then a chain of four to seven clauses joined by *and*, then a trailing *and nobody is going to*, ten chapters running. Four runs of five to seven consecutive paragraphs carry no person and no action, the worst being `chapter-0498.md:53` to `:65`. **THE MEAN IS INSIDE THE BAND AND THAT IS THE PROBLEM, BECAUSE THE BAND IS BEING MET BY LENGTHENING SINGLE SENTENCES RATHER THAN BY VARYING RHYTHM, AND THE WHOLE-PARAGRAPH GATE AT 0.85 CANNOT SEE A RUN OF PARAGRAPHS THAT DIFFER IN THEIR FIGURES.** A later batch should break its ledger runs with an actor and should not treat a clean gate as a clean batch.
+
+**AND THE `Entered` BLOCKS RE-ENTER THE PROSE FIGURES AND THAT IS THE HOUSE FORM, NOT A DEFECT, AND A CLOSE OWNS THE RULING.** Guardrail 17 says a clerk's block may not re-enter a figure the chapter has already stated in prose and all three of this batch's blocks do. `chapter-0472.md`, `chapter-0481.md` and `chapter-0471.md` each do the same. **THE FORM WINS BY BEING THE OLDER AND THE PROVEN ONE, AND NO BATCH SHOULD STRIP THE FIGURES OUT OF ITS BLOCKS TO SATISFY A SENTENCE.**
+
+**AND THE ONE-LINE VERSION: thirty-five in and thirty-five out, three of them advanced on a page that gave a reason first and thirty-two of them standing exactly where a closed volume left them, and the machine nine miles off is correct and has been correct for eleven years and nobody in this holding has ever been inside it.**

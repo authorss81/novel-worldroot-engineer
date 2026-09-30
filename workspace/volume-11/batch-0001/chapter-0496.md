@@ -14,7 +14,7 @@ The nineteenth went in at about the ninth hour and came back out of the other bo
 
 **Nine hundred and ninety-six hundredweight.**
 
-It came in five under Sunday and the fall went onto the falls, and that is the two hundred and sixtieth figure of a run that has never written the same number down twice. The window standing behind it divides a hundred and eighteen mornings one way and a hundred and eight the other, which is two hundred and twenty-six, and in four years nobody in this room has set either end of that window against the figure printed over it.
+It came in five under Sunday and the fall went onto the falls, and that is the two hundred and fifty-ninth figure of a run that has never written the same number down twice. The window standing behind it divides a hundred and eighteen mornings one way and a hundred and eight the other, which is two hundred and twenty-six, and in four years nobody in this room has set either end of that window against the figure printed over it.
 
 The four bodies of households are on this morning's sheet at two hundred and fifty-seven days, and the clause under the figure is the two hundred and fifty-sixth of those mornings out of two hundred and fifty-eighth, a day short of the figure and a day over the clause.
 
@@ -28,7 +28,7 @@ What this holding can give a body with a heading on its own paper is a differenc
 
 Nobody was named in the reply that went up the fen road at about the tenth hour. It went up in the clerk's own hand and it gave the difference and it did not give a person, and it did not give a reason either, because a letter is not a room and a reason given to one man in a room is not a thing that goes on paper with a heading at the head of it.
 
-A body of households is not a body of customers and the two are not one thing. Four bodies of households signed a charter in a room nine miles off on the twelfth and three of the four are still signed to a machine for stored light, and neither signature is wrong and neither signature knows about the other one, and a holding that gave those two a single column would be inventing a body that is not there.
+A body of households is not a body of customers and the two are not one thing. Four bodies of households signed a charter in a room nine miles off fifty-four days ago and three of the four are still signed to a machine for stored light, and neither signature is wrong and neither signature knows about the other one, and a holding that gave those two a single column would be inventing a body that is not there.
 
 There is a man who came up the fen road with a list of ten and the list is a route. It is a list of ten places between here and a ford about a mile and a half past the far mouth of the cut, and four of the ten are named as a place by the name the local people use and six are named as what the thing is, and the numbering is his and not anybody else's.
 
@@ -44,7 +44,7 @@ Marek read the sheet on the middle table at about the eighth hour and gave the r
 
 Nobody in that room said that was right and nobody said it was wrong, and nobody asked him to go and stand at the edge of it, and the ring was not walked and not measured and not crossed and not priced by walking it and not explained this morning, and it has no dimension against it on any page a county could check.
 
-The decision of the eleventh of the fourth is not reopened by anything in this building and the nine acres that came off in a month now seven months back came off and stayed off, and the cut at the kerb stays open and nothing goes into the two-foot gap this season and the valve is not opened and the key is not used.
+The decision of a month now eight months back is not reopened by anything in this building and the nine acres that came off in a month now seven months back came off and stayed off, and the cut at the kerb stays open and nothing goes into the two-foot gap this season and the valve is not opened and the key is not used.
 
 None of that is on the reply that went up the fen road this morning, and none of it was asked for by the body that wrote, and a reply that carried any of it would have been a reply about something else and it was not one.
 
@@ -80,7 +80,7 @@ Behind the fourth book the day sheets are a foot and a half deep in the order th
 
 The comfort is not standing. The father is not alive in the wood. The day does not come back, and it is said once in this building this morning and it is not said again, and a letter that asks who speaks for eleven acres is not a reason to say it twice.
 
-The man in the cart shed at the mouth of the cut is still in the cart shed, and this holding has not been and is not going to be, and his name is not in this building and is not going to be put in it by anybody because a body with a heading on its paper asked a question this morning.
+The man in the cart shed at the mouth of the cut is still in the cart shed, and this holding has not been to that shed and is not going to be, and his name is not in this building and is not going to be put in it by anybody because a body with a heading on its paper asked a question this morning.
 
 The use log has fifteen lines and got no sixteenth this morning, and a question with a heading on it is not a use, and the man who keeps that log was not asked to add a line and did not offer and was not asked.
 

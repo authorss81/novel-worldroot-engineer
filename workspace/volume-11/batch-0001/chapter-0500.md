@@ -14,7 +14,7 @@ The twenty-third went in at about the ninth hour and came back out of the other 
 
 **One thousand and two hundredweight.**
 
-It came in five under Thursday and the fall went onto the falls, and that is the two hundred and sixty-fourth figure of a run that has never written the same number down twice since the morning it began. The window standing behind it divides a hundred and twenty mornings one way and a hundred and ten the other, which is two hundred and thirty, and in four years nobody in this room has set either end of that window against the figure printed over it.
+It came in five under Thursday and the fall went onto the falls, and that is the two hundred and sixty-third figure of a run that has never written the same number down twice since the morning it began. The window standing behind it divides a hundred and twenty mornings one way and a hundred and ten the other, which is two hundred and thirty, and in four years nobody in this room has set either end of that window against the figure printed over it.
 
 The four bodies of households are on this morning's sheet at two hundred and sixty-one days, and the clause beneath it is the two hundred and sixtieth of those mornings out of two hundred and sixty-second, a day short of the figure and a day over the clause.
 
@@ -30,7 +30,7 @@ The count of bodies that have asked who holds the pen is one, and it is one, and
 
 The man who keeps the use log entered the request against the log at about the tenth hour and the log has fifteen lines and got no sixteenth. The reason for the fifteen was given twice in four years and it is not given again this morning, and a request is not a use and a letter is not a use and a county four hundred miles of schedule away is not a use.
 
-He wrote the line and then did not write the line, and the two of those are the same act done once, and the man who keeps that log has not been asked what the fifteen are and has not offered and was not asked, and a count of uses is not a count of mornings and a request is not a use.
+The man who keeps that log has not been asked what the fifteen are and has not offered and was not asked, and a count of uses is not a count of mornings and a request is not a use.
 
 The notice that called the meeting went on the long table on the seventeenth of this month and it was written by a body of households with a heading at the head of it, and it asked for people to go and look at the thing the sheet from the fen road came from, and it named a morning and it named the hour.
 
@@ -64,7 +64,7 @@ The two sheets about the two declinings were on the long table about nine inches
 
 One of the two bodies that said no is not in this building and was not asked to be and nobody in this room has described it as having been consulted, and it has not been written to this month, and a body that has said no is a body that has said no whether or not anybody went nine miles to look at a wall this morning.
 
-A charter with four clauses and a subscription in a second hand are two documents and two correct documents and the two hands do not know about each other, and three of the four bodies of households that signed the charter on the twelfth are still signed to a machine, and that is said in this yard and it is not improved on and it is not being improved on this morning by anybody who is walking out of the gate.
+A charter with four clauses and a subscription in a second hand are two documents and two correct documents and the two hands do not know about each other, and three of the four bodies of households that signed the charter fifty-four days ago are still signed to a machine, and that is said in this yard and it is not improved on and it is not being improved on this morning by anybody who is walking out of the gate.
 
 The register form is on the middle table at a hundred and fifty-seven days, not filled, not refused, nothing at the head of the column, and it is not going to be read out a fifth time in this building. The offer is on the low board, face up, not filled, not withdrawn, no date and no line for a name, and nobody in this building has been told to take it off that board.
 

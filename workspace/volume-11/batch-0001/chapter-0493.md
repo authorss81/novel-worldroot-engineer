@@ -12,7 +12,7 @@ Of the rotation there are two reckonings kept and they do not agree, and a page 
 
 Between them is thirteen. It has been thirteen for four years and nobody in this holding has ever worked out what the thirteen counts, and neither of the two numbers can be arrived at by taking twenty-nine away from the other.
 
-There is no figure for the run of mornings on this page and the reason is on the page. It is an even morning and the half of the run is not a whole number on an even morning, and the two men who read the boards read their own sides to each other at the seventh hour and there was nothing to read, and the second book has nothing in it this morning where the run stands and the second book is not going to be ruled a column for it.
+No figure for the run of mornings stands on this page, and the reason for that is on the page. It is an even morning and the half of the run is not a whole number on an even morning, and the two men who read the boards read their own sides to each other at the seventh hour and there was nothing to read, and the second book has nothing in it this morning where the run stands and the second book is not going to be ruled a column for it.
 
 The boards stand at **six hundred and forty days** and **six hundred and eighty-seven**, forty-seven apart, and the drawer was not opened and the man who reads the far side put his thumb on the edge of it and took it away again.
 
@@ -72,7 +72,7 @@ The woman who keeps the seed house put the schedule of the seed house on the mid
 
 The use log has fifteen lines and got no sixteenth, and the man who keeps it has not been asked to add one and was not asked and has not offered, and a count of uses is not a count of mornings and the two are not added anywhere in this building.
 
-The window of the office's work is shut with the shutter on it and the shutter comes off on the sixth of a month and the sixth of this month went past at the second hour without anybody taking it off, because the sixth of this month is a day four days before this one and the shutter is a shutter and nobody in this building has ever asked who takes it off.
+The window of the office's work is shut with the shutter on it and the shutter comes off on the sixth of a month and the sixth of this month went past at the second hour without anybody taking it off, because the sixth of this month is ten days before this one and the shutter is a shutter and nobody in this building has ever asked who takes it off.
 
 Behind the fourth book the day sheets are a foot and a half deep in the order they were used, and this morning's went on the top at the ninth hour, and the sheet with no date at the head of it is still in the middle of that stack in the place it was on the first morning.
 
@@ -86,6 +86,6 @@ There was no rain in the night and the yard was dry at the second hour and dry a
 
 The seed vault of forty households under four hundred yards off has not been recovered, and there is no figure of people against it and there has not been one since a month now two months back, and nobody has been down and nobody is going to be, and it is not four hundred yards from the ring and nobody has compared the two distances.
 
-Nobody fought anybody and nobody in this yard said the word villain about anything, and a machine that is right about what it prunes is not thereby good and a cut that is real is not thereby cruel, and the two of those are not in the same sentence in this building this morning and are not going to be.
+Nobody fought anybody and nobody in this yard said the word villain about anything. A machine that is right about what it prunes is not thereby good. A cut that is real is not thereby cruel. Two facts, and this building does not put them in one sentence and did not this morning.
 
 Nobody thanked anybody. The clerk of this holding wrote the sixteenth in at about the ninth hour and read it back once and did not read it back twice, and the well on the shelf went into the fourth book as a day and as nothing else, and the door nine hundred yards off is still standing at sixty with a Friday gone by it and nothing read off it.

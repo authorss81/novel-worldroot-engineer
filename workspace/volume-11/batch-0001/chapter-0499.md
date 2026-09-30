@@ -6,7 +6,7 @@ The forty-sixth ninth-day return came off the steelyard at about the third hour,
 
 **Four hundred and fifty-nine hundredweight.**
 
-The rise on that board is eleven hundredweight every time and has been eleven every time for eleven years, and the pair of names against it this morning is the thirty-sixth pair in eleven years and it is eleven above the pair that went up three days ago, and the clerk of this holding entered it against the first rule and read it back once and did not read it back twice.
+The rise on that board is eleven hundredweight every time and has been eleven every time for eleven years, and the pair of names against it this morning is the thirty-sixth pair in eleven years and the figure on the board is eleven hundredweight above the one that went up nine days ago, and the pair is one above the pair that went up that morning, and the clerk of this holding entered it against the first rule and read it back once and did not read it back twice.
 
 It was reconciled twice before the light was full, once at about the third hour against the sheet that came back inside the same fold and once at about the fifth hour by the man of about fifty out of the third book, and the two checks do not agree and the two halves of the figure have never been added to one another in this building in four years.
 
@@ -30,7 +30,7 @@ A return is a figure of a weight on a steelyard and a return is a pair of names 
 
 The second line of the rota came round at the second hour and was worked, and it was the outlet end and the two stones at the head of it, and the near stone had no daylight under it and the far stone had not moved since the twenty-eighth of a month now two months back, and the pack under the near stone was lifted and looked at and put back.
 
-There is no figure for the run of mornings on this page and the reason is on the page. It is an even morning and the half of that run is not a whole number on an even morning, and the man who reads the near side of the boards was at the steelyard with the return until the fourth hour and the man who reads the far side would not read his own half out alone, and nobody thought of asking a third man.
+The run of mornings is not read out this morning and carries no figure, and the reason for that is on the page. It is an even morning and the half of that run is not a whole number on an even morning, and the man who reads the near side of the boards was at the steelyard with the return until the fourth hour and the man who reads the far side would not read his own half out alone, and nobody thought of asking a third man.
 
 The boards stand at **six hundred and forty-six days** and **six hundred and ninety-three**, and the forty-seven is the same forty-seven, and the drawer behind them was not opened at any hour this morning.
 
@@ -38,15 +38,15 @@ The twenty-second went in at about the ninth hour and came back out of the other
 
 **One thousand and seven hundredweight.**
 
-It came up eight on Wednesday with nothing against it and the rise went onto the rises, and that is the two hundred and sixty-third figure of a run that has never written the same number down twice. The window standing behind it divides a hundred and twenty mornings one way and a hundred and nine the other, which is two hundred and twenty-nine, and the two ends of that window have never been set against the figure printed over it.
+It came up eight on Wednesday with nothing against it and the rise went onto the rises, and that is the two hundred and sixty-second figure of a run that has never written the same number down twice. The window standing behind it divides a hundred and twenty mornings one way and a hundred and nine the other, which is two hundred and twenty-nine, and the two ends of that window have never been set against the figure printed over it.
 
 The four bodies of households are on this morning's sheet at two hundred and sixty days, and the clause beneath it is the two hundred and fifty-ninth of those mornings out of two hundred and sixty-first, a day short of the figure and a day over the clause.
 
 The far end of a thing is held by two people and neither of them is the reader of this body. No instrument anywhere in four counties says whether it is on or off, it has not been said to be on by anybody in this building, and it is not said to be on this morning.
 
-A wheel behind a rail is not that thing. There are three of them behind about nine hundred yards of rail nine miles off and a man keeps them and a man reads the schedule off a wall and a woman sits at a desk in an outer office, and the three of them are a machine doing a work and none of them is the far end of a thing, and the two are not added.
+A wheel behind a rail is not that thing. There are three of them behind about nine hundred yards of rail nine miles off, and there are two men on the wheel and not one, and a man reads the schedule off a wall and a woman sits at a desk in an outer office, and the three of them are a machine doing a work and none of them is the far end of a thing, and the two are not added.
 
-The man who keeps the gauges has kept them for nineteen years and is a person, and the woman at the desk in the outer office reads the schedule off the wall, and the man who reads the schedule is not the man who keeps the gauges, and none of the three has ever been asked by anybody in this holding to be anything and none of them has a name on any page in this building.
+The man who keeps the gauges has kept them for nineteen years and is a person, and the woman at the desk in the outer office is not the man who reads the schedule off the wall and is not the man who keeps the gauges, and the clerk of the machine house is a fourth and is not either of the other three, and none of the four has ever been asked by anybody in this holding to be anything and none of them has a name on any page in this building.
 
 The count of pattern-holders is two for four and one for five and the two rootmarks stand where they stand, and a count of pattern-holders is not a count of ends, and two men on a wheel are on neither of those two lists and are not on this one either.
 
@@ -80,7 +80,7 @@ The second of the four lines in the man of about thirty-one of Silling's own boo
 
 There was no rain in the night and no frost, and the yard was dry at the second hour and dry at the ninth, and the north end of the ditch is running full and the outlet at its head is doing what an outlet does and the trough at the head of the four-mile road was full by the seventh hour and stayed inside its own lip.
 
-The sheet that came up the fen road on Wednesday is still in the long drawer under two books and the day at the foot of it is the twenty-second, and this holding has not moved a step toward that day and has not written a word against it and is not going to, and nobody in this building has said anything out loud in any room this morning about a day in a drawer.
+The sheet that came up the fen road on Wednesday is still in the long drawer under two books and the day at the foot of it is the twenty-second, and this morning is the twenty-second, and this holding has not moved a step toward it and did not move a step toward it on any of the eight mornings before it, and has not written a word against it and is not going to, and nobody in this building has said anything out loud in any room this morning about a day in a drawer.
 
 The distance to that place is about nine miles and the coast road is about nine miles, and the two of them are two distances and they are not added, and a party of people walking the nine miles to look at a wall is not a thing this holding has done in eleven years and is not a thing it has done this morning.
 
@@ -90,4 +90,4 @@ The mark on his arm is the same four inches it has been all this month and nobod
 
 Nobody thanked anybody. The clerk of this holding wrote the twenty-second in at about the ninth hour and read it back once and did not read it back twice, and the second book was shut with the day in it and the board in the corner has one line filled this morning and one line empty, and the empty one is the thirtieth of its kind in eleven years.
 
-> Entered by the clerk of this holding at the first hour, in his own hand, as one unbroken line: **The twenty-second. The second line of the rota worked, the outlet end and the two stones, four people from the second hour until the fifth. The pair not read, and the reason is on the page. The same day in and the same day out. One thousand and seven hundredweight to the launder, being the two hundred and sixty-third. The forty-sixth ninth-day return came off the steelyard at about the third hour at four hundred and fifty-nine hundredweight, the thirty-sixth pair, reconciled twice and the two halves not added, and the second rule on the board was left blank for the thirtieth time in eleven years.** Nothing of this is a forecast and nothing of it is a cause and nothing of it is a total.
+> Entered by the clerk of this holding at the first hour, in his own hand, as one unbroken line: **The twenty-second. The second line of the rota worked, the outlet end and the two stones, four people from the second hour until the fifth. The pair not read, and the reason is on the page. The same day in and the same day out. One thousand and seven hundredweight to the launder, being the two hundred and sixty-second. The forty-sixth ninth-day return came off the steelyard at about the third hour at four hundred and fifty-nine hundredweight, the thirty-sixth pair, reconciled twice and the two halves not added, and the second rule on the board was left blank for the thirtieth time in eleven years.** Nothing of this is a forecast and nothing of it is a cause and nothing of it is a total.
