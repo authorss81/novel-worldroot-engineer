@@ -2,9 +2,9 @@
 
 ## Paid At Twenty-Five
 
-The third line of the rota came round at the second hour and was worked, and it was the two culverts on the middle road and the fill behind them and the low field gate. The fill had gone out about an inch in the night and the two of them put it back and went over it twice, and the gate wanted a bar and a stone and took the nine minutes it takes.
+Sleet, a bar, a stone and about four people on the third line of the rota, which came round at the second hour and was worked: the two culverts on the middle road with the fill behind them, and the low field gate. The fill had gone out about an inch in the night and the two of them put it back and went over it twice, and the gate wanted a bar and a stone and took the nine minutes it always takes.
 
-Sleet came across at about the fifth hour from the west and went through it in about ten minutes and left the yard white in the corners where the water had stood, and the ditch at the north end took about an inch off its own lip.
+Sleet came across at about the fifth hour from the west and went through it in about ten minutes and left the yard white in the corners where the water had stood, and the ditch at the north end took about an inch off its own lip. It was the first of the season and three people in this building mentioned it and none of them mentioned it to anybody else, and the yard stayed white in the corners for about an hour after the sleet had gone through it.
 
 The man of about thirty-one of Silling was on the low field gate with a stone under his heel and would not let anybody take the other end of the bar, and nobody in this building has ever asked him why a bar wants one man and nobody is going to ask him this morning either.
 
@@ -18,9 +18,9 @@ The twenty-seventh went in at about the ninth hour and came back out of the othe
 
 **One thousand and eight hundredweight.**
 
-It came in five under Monday and the fall went onto the falls, and that is the two hundred and sixty-seventh figure of a run that has never written the same number down twice since the morning it began. The window standing behind it divides a hundred and twenty-two mornings one way and a hundred and twelve the other, which is two hundred and thirty-four, and the two ends of it have never been set against the figure printed over them in this building.
+Five under Monday, and the fall went onto the falls. Two hundred and sixty-seventh in the run, in which no figure has ever been entered twice, and behind it the office window stood at a hundred and twenty-two mornings against a hundred and twelve, which is two hundred and thirty-four. The man of about fifty wrote the fall and did not write the window, and the two ends of the window have never once been set against the figure printed over them in this building.
 
-The four bodies of households are on this morning's sheet at two hundred and sixty-five days, and the clause beneath it is the two hundred and sixty-fourth of those mornings out of two hundred and sixty-sixth, a day short of the figure and a day over the clause.
+Two hundred and sixty-five days on this morning's sheet for the four bodies of households, and the clause takes the two hundred and sixty-fourth of those mornings out of two hundred and sixty-sixth, a day short of the figure and a day over the clause.
 
 This morning the boards read **six hundred and fifty-one days** against **six hundred and ninety-eight**, the same forty-seven, and the man who read the near side said his half out loud to the wall and not to anybody.
 
@@ -30,19 +30,19 @@ It is not a measure of the ground and it is not a measure of a machine, and a fi
 
 The letter came up the fen road with the post at about the eighth hour and it was from a body of households with a heading at the head of it and it asked this holding to certify a figure of draw set against their subscription, in writing, and not an opinion.
 
-The clerk of this holding read it twice, and then he read out loud the reason before he answered it, in the one room, and the count of that in this holding's history is seven, and it is his and of nobody else's.
+**"I am going to say the one thing about a second request, and I am giving the reason first, and the reason is that a body of households put a question to this holding on the twenty-third and I answered it the way I am going to answer this one, and there is no reason on earth why a letter should get a different answer because it came in an envelope."** The clerk of this holding had read the letter twice before he opened his mouth, in the one room, and the count of that in this holding's history is seven, and it is a count of the clerk and of nobody else in this room.
 
-**"I am going to say the one thing about a second request, and I am giving the reason first, and the reason is that this is the second body of households to ask this holding for a certificate in nine days and I answered the first one the same way I am going to answer this one."** "This holding keeps four books. There is no column in the four books with a heading on it, and certifying a figure of draw would mean making one, and I am not going to make one this morning. It goes in the requests. That column is fifty-three and it was fifty-three yesterday morning and it is fifty-three now, and a second request is a second request and not a fifty-fourth."
+**"This holding keeps four books. There is no column in the four books with a heading on it, and certifying a figure of draw would mean making one, and I am not going to make one this morning. It goes in the requests. That column is fifty-three and it was fifty-three yesterday morning and it is fifty-three now, and a second request is a second request and not a fifty-fourth."**
 
 It went in the requests column and the column is fifty-three. The section-nine notes are fifty-three and they are a different list, and the two of them have never been added to one another in this building.
 
 The two sheets about the two declinings were still nine inches apart where they have been for a month, and a request for a certificate is not a ground for settling either of them.
 
-A request is a request and is not an offer, and no rung of anything has been climbed in this holding this month, and no offer of any kind has been made from this building to anybody who reads these books, and the paper on the low board is not a new one and is not described as a new one by anybody in this room.
+A request that is entered is a request, and an offer is a different thing, and no rung of anything has been climbed in this holding this month and no offer of any kind has gone out of this building to anybody who reads these books, and the paper on the low board is not new and nobody in this room has called it new.
 
 Nia Vale came into the yard at about the fourth hour and spread four sheets on the wall side of the long table, and they were the same four sheets she has been spreading since the third of this month, and none of them is a book in this building and none of them is going into one.
 
-She coordinates the moving reserves and is not support staff and has not been asked to be, and this holding has not offered her a chair and she did not ask for one and she did not want one.
+She coordinates the moving reserves and is not support staff, and this holding has not offered her a chair and she did not ask for one and did not want one, and the four sheets she puts on that table every morning are not a book in this building and are never going into one.
 
 **"A person who breaks a thing open to see inside it has to be able to put it back before the people downstream find out it is open."** She said that to the long table and not to anybody in particular, and she is right about it, and she said the other half of it without being asked for it. **"Four hundred thousand people eat out of that machine in an ordinary winter. If somebody puts a hand on it and does not take it off again properly, the stored light goes down at the same time for all of them, and the ones furthest out are the last to notice. I have the districts written down and I have not got them here, and I am not going to stand in a yard and read a list of neighbours out loud."**
 
@@ -54,13 +54,13 @@ Nia Vale did not read the list out and she did not read a number off it, and a l
 
 Nobody in this yard said the word thief and nobody said the word break and nobody said the word raid, and a person who is right about what stops a machine when it stops is not a person who is for the machine, and the two are not one thing and this building did not put them in one sentence.
 
-A declaration is not a defense. Nobody in this building has been told this week that anybody has been forgiven, and nobody has been told that anybody has not been forgiven, and the clerk of this holding entered a request and not a judgment against the body of households that asked for a certificate, and the second book this morning has no judgment written in it against anybody.
+The clerk of this holding entered a request this morning and not a judgment against the body of households that asked for a certificate, and there is nothing in the second book this morning that is a judgment against anybody, and the same was true on Monday and will be true on Friday.
 
-Tova Reed was at the middle table from the second hour with four counties' sheets in front of her and a sowing date she has had from three of the four councils and has not had from the fourth, and she is not support staff and has not been asked to be and is not going to be asked to be.
+Tova Reed was at the middle table from the second hour with four counties' sheets in front of her and a sowing date she has had from three of the four councils and has not had from the fourth, and she is the seed front in four counties and has not been asked to be anything else this year and is not going to be.
 
 She said one thing at about the seventh hour to the man of about fifty about the fourth council and about what happens to a sowing date when a released pattern comes back in a field nobody has a column for, and then she stopped, and he did not finish it for her and she did not ask him to.
 
-The man who keeps the use log came past the barrow on his way to the shed and looked at what was on it and did not write anything down, and a sack of chalk is not a use and a use is not a sack of chalk.
+The man who keeps the use log came in from the shed at about the seventh hour with the log under his arm, looked at what was on the long table, and did not write anything down, because a sheet of paper is not a use and a use is not a sheet of paper.
 
 The three councils that gave her a date gave it in writing and the fourth did not, and the three are three counties and the fourth is this one, and a figure that three counties have put on paper and one county has not is not a sowing date and is not going to be called one by anybody in this building.
 
@@ -68,15 +68,13 @@ The three councils that gave her a date gave it in writing and the fourth did no
 
 A letter from a body of households is not a use and the log got no sixteenth line for it.
 
-The form is a hundred and sixty-one days on the middle table and nobody read it out and nobody is going to. Two letters in nine days is not a reason to touch the low board, and nobody in this room touched it.
+The form is a hundred and sixty-one days on the middle table and nobody read it out and nobody is going to. Two letters inside a week is not a reason to touch the low board, and nobody in this room touched it.
 
 The fifth of the six still has nothing against it and the sixth has half a line, and a word put in front of a number is not a seventh.
 
 The four ruled lines under two words in the corner of the one room are still empty and the answer to them is not due, and nothing said at the long table this morning has supplied it and nobody tried to fill one of them.
 
-The barrow went up the four-mile road at the sixth hour with three sacks and came down loaded, and its journeys are eleven and eleven is a floor.
-
-The man who keeps the use log came past the barrow on his way to the shed and looked at what was on it and did not write anything down, and a sack of chalk is not a use and a use is not a sack of chalk and neither of them is in the fifteen lines.
+The barrow went up the four-mile road at the sixth hour with three sacks and came down loaded, and its journeys are eleven and eleven is a floor, and the man who keeps the use log stood at the gate and watched it come down and went on to the shed without writing anything, because a sack of chalk is not a use and the fifteen lines in that log have never once held a barrow.
 
 The schedule of the seed house is on the middle table with the six ruled rows in it and no unit against any of the six, and the seventh row is not ruled, and it went nine miles last Friday in an oilskin satchel and came back and it is the same sheet.
 
@@ -88,7 +86,7 @@ Nobody in this yard said the far end of anything was on this morning, and two pe
 
 His sleeve stayed down all morning and the four accounts of that arm stayed at four.
 
-The clerk of this holding came in from the gate at about the tenth hour with rain in the hem of his coat and asked the man of about fifty one question about the compost line, which was whether the word goes in before the figure or after it, and the man of about fifty said the word goes in first and has gone in first for eleven years, and the clerk wrote nothing down because there was nothing to write down.
+The clerk of this holding came in from the gate at about the tenth hour with rain in the hem of his coat and asked the man of about fifty one question about the compost line, which was whether the word goes in before the figure or after it, and the man of about fifty said the word goes in first and has gone in first for eleven years, and the clerk wrote nothing down because there was nothing to write down. He had come in from the gate with the second book under his arm and the request in his hand, and he read the request a second time standing up before he put it down, and he did not read it a third time and did not offer to.
 
 The shutter on the window of the office's work is on and it comes off on the sixth of a month, and no work is ever carried out of that window, and a certificate asked for by letter is not work carried out of one.
 
@@ -96,9 +94,7 @@ There were more than five bodies on the node. The number on any page is five, be
 
 Nobody in this building has asked who the five are and nobody in this building keeps a list of them.
 
-The clerk of this holding came in from the gate at about the tenth hour with rain in the hem of his coat and asked the man of about fifty one question about the compost line, which was whether the word goes in before the figure or after it, and the man of about fifty said the word goes in first and has gone in first for eleven years, and the clerk wrote nothing down because there was nothing to write down.
-
-Some hundreds of day sheets have gone over the top of the undated one in four years and nobody in this building has ever turned one of them over.
+Some hundreds of day sheets have gone over the top of the undated one in four years and nobody in this building has ever turned one of them over, and the clerk of this holding put this morning's on the top at the ninth hour and did not go any further down the stack than that.
 
 The offer on the low board is face up and there is nothing on it and nobody in this room was told to take it off it, and the register form is on the middle table where it has been for a hundred and sixty-one days with nothing at the head of the column on it.
 

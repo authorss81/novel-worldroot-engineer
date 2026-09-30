@@ -12,11 +12,13 @@ The twenty-fifth went in at about the ninth hour and came back out of the other 
 
 **One thousand and five hundredweight.**
 
-It came in five under Saturday and the fall went onto the falls, and that is the two hundred and sixty-fifth figure of a run that has never written the same number down twice since the morning it began. The window standing behind it divides a hundred and twenty-one mornings one way and a hundred and eleven the other, which is two hundred and thirty-two, and the two ends of it have never been set against the figure printed over them in this building.
+Five under Saturday, and the fall went onto the falls. That makes it the two hundred and sixty-fifth figure of a run in which nothing has ever been written twice, and the count of the run is off the day and not off the month. The clerk of this holding read the total back once and then had to go and find the window behind it, which divides a hundred and twenty-one mornings one way and a hundred and eleven the other and comes to two hundred and thirty-two, and neither end of that window has ever been set against the figure printed over it in this building.
 
-The four bodies of households are on this morning's sheet at two hundred and sixty-three days, and the clause beneath it is the two hundred and sixty-second of those mornings out of two hundred and sixty-fourth. A charter with four clauses was signed in a room nine miles off sixty-five days ago and it gave a body of households a real right to decline an inspection, and three of those four are still signed to a machine, and both of those things are on this page and neither of them is going to be improved on.
+Two hundred and sixty-three days is what the morning sheet says for the four bodies of households, and the clause under it takes the two hundred and sixty-second of those mornings out of two hundred and sixty-fourth. The man of about fifty read both figures off the same sheet while a woman was standing at the other end of the room with a list of eighty-one families in front of her, and he did not put the two documents together and neither did anybody else.
 
 The two boards came up to **six hundred and forty-nine days** and **six hundred and ninety-six**, forty-seven between them as ever, and the man who reads the far side put his thumb on the drawer and took it away again.
+
+A charter with four clauses was signed in a room nine miles off sixty-five days ago and it gave a body of households a real right to decline an inspection, and three of those four are still signed to a machine, and both of those things are on this page and neither of them is going to be improved on.
 
 The room is over the tap shop at the second gate and the body of households that wrote the notice has used it since before this holding kept a second book, and it has two doors off it and both of them were standing open from the seventh hour, one onto the yard and one onto the lane. A room with one door is a room a person cannot leave without asking somebody. A room with two doors is a room a person can walk out of, and Sera Quill used the second one twice.
 
@@ -54,7 +56,7 @@ Nobody in that room said that she had been forgiven and nobody said that she had
 
 **"Is it sacks, or is it days, or is it neither of those and you have been carrying it because there was nowhere to put it down."** She said that it was the second of those three, and that it was a number of days, and that the unit had never been established by anybody in a position to establish it.
 
-She said that she had entered it as not known six times and had a seventh row ruled for it that she had never filled and never was going to, and nobody in that yard told her she had done a hard thing and nobody thanked her.
+She said that she had entered the same thing as not known six times, and that a seventh row had been asked for twice in four years and had not been ruled either time, and that she was not going to be the one to rule it.
 
 **"I have said it out loud four years and I have never had to say what it was a number of."** She said it to the yard and not to him. **"It is days. There is no unit against it in any book in this county and there is not going to be one, and you can put that in the second book or you can leave it out, and the six not knowns are six and the seventh row is not ruled."**
 
@@ -81,13 +83,13 @@ The second of the four lines in the man of about thirty-one of Silling's own boo
 
 The use log has fifteen lines and got no sixteenth for eighty-one names read out loud in a room.
 
-Behind the fourth book the day sheets are a foot and a half deep in the order they were used, and this morning's went on the top at the ninth hour with one line under the day and no name against the line, and the sheet with no date at the head of it is still in the middle of that stack in the place it was on the first morning.
+The day sheets stand behind the fourth book a foot and a half deep in the order they were used, this morning's went on the top at the ninth hour with one line under the day and no name against the line, and the sheet with no date at the head of it is still in the middle of that stack in the place it was on the first morning.
 
 The form has been on the middle table a hundred and fifty-nine days with nothing at the head of the column, and the paper on the low board is where it has been since a month now four months back, and eighty-one families did not take it off and nobody asked them to.
 
 The requests column is fifty-three and the section-nine notes are fifty-three and they are a different list, and neither of them moved this morning and the two of them have never been added to one another. A confession is not a request and a confession is not an offer and a list of eighty-one names is not a rung of anything.
 
-There was no rain and no frost, and the yard was dry at the second hour and dry at the ninth, and the north end of the ditch is running full from the first line, and the trough at the head of the four-mile road was full by the seventh hour and stayed inside its own lip.
+A dry morning from the second hour to the ninth, with no rain in the night and no frost on the ground at all, and the north end of the ditch running full off the back of the first line, and the trough at the head of the four-mile road full by the seventh hour and inside its own lip.
 
 The clerk of this holding stood in the gate with the second book under his arm while that room emptied and did not write down the number of them, and the woman who keeps the seed house carried the schedule out in the same oilskin satchel it came in on Saturday and put it back under the four pound weight.
 

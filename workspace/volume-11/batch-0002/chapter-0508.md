@@ -4,17 +4,17 @@
 
 This morning is the first of the next, and the month turned in the night the way it does, and no count in this building reset at the turn and nobody in this building looked up to see whether it had.
 
-The third line of the rota came round at the second hour and was worked. The two culverts, the fill behind them and the low field gate, the fill a inch down where the night had taken it, put back and gone over twice, and the gate took its nine minutes.
+The third line of the rota came round at the second hour and was worked. The two culverts, the fill behind them and the low field gate, the fill an inch down where the night had taken it, put back and gone over twice, and the gate took its nine minutes.
 
-The forty-seventh ninth-day return came off the steelyard at about the third hour, and the board in the corner was used because the board is used every ninth morning without exception, and this morning is nine days after the last one and nobody in this building chose the day and nobody in this building can move it.
+The forty-seventh ninth-day return came off the steelyard at about the third hour. The board in the corner was used because that board is used every ninth morning without exception, nine days have gone by since the last weight went on it, and nobody in this building chose today and nobody in this building is able to move it.
 
 **Four hundred and seventy hundredweight.**
 
-The rise on that board is eleven hundredweight every time and has been eleven every time for eleven years, and the pair of names against it this morning is the thirty-seventh pair in eleven years, and the pair is one above the pair that went up nine days ago, and the clerk of this holding entered it against the first rule and read it back once and did not read it back twice.
+The rise on that board has been eleven hundredweight every time for eleven years and this morning is the thirty-seventh name-pair against it, one above the pair that went up nine days ago, and the clerk of this holding entered it against the first rule and read it back once and did not read it back twice.
 
-It was reconciled twice before the light was full, once at about the third hour against the sheet that came back inside the same fold and once at about the fifth hour by the man of about fifty out of the third book, and the two checks do not agree and the two halves of the figure have never been added to one another in this building in four years.
+Two people weighed it against two other things before the light was full. The clerk checked it at about the third hour against the sheet that came back inside the same fold, and the man of about fifty went at it again out of the third book at about the fifth hour, and the two figures they got are not the same figure, and in four years nobody in this building has put the two halves of a return together and added them.
 
-The second rule on that board was left blank this morning for the thirty-first time in eleven years. That count moved on this page and on no other page this month, and a count of blanks is not the count of a man, and nobody in this building has ever put a name against that rule and nobody is going to.
+The second rule came back off the board empty for the thirty-first time in eleven years, and that is the one count on this page that moved this morning and it moved here and nowhere else. A count of blanks is not the count of a man, and no name has ever gone against that rule in this building and none is going to.
 
 **"I write mine on the way down because I do not trust the road to be the same going back."** The man of about thirty-one of Silling said that to the clerk of this holding and not to anybody else, and the clerk of this holding wrote it in the margin of the second book and did not put a name against it and did not put a count against it either, and it is the same sentence he said last time and he said it again because it is what he does at a steelyard, and nobody in this building has ever asked him to say it differently.
 
@@ -30,11 +30,9 @@ The clerk of this holding walked him to the gate and back and wrote nothing abou
 
 He put his cup down on the wall when he got up and washed it in the trough at the tap and set it back upside down on the wall where it lives, and it has lived there for eleven years and nobody in this building owns it.
 
-Tova Reed was at the middle table from the second hour with the four counties' sheets, and the first of a month is the morning a sowing date either holds or does not, and she has it from three of the four councils in writing and the fourth wrote to her on the twenty-eighth and said nothing at all.
+The first of a month is the morning a sowing date either holds or does not, and Tova Reed had three of the four councils' dates in writing on the middle table from the second hour, and the fourth had written to her on the twenty-eighth and said nothing at all.
 
-**"A month turning is not an event. It is the day the day stops being tomorrow.
-
-She said it once, at the middle table, to nobody, and then she asked the clerk of this holding for a pen and gave it back inside a minute without having written anything, and he did not ask what she had wanted it for and he was not asked."** She said that to the sheets and not to anybody, and she is not support staff and has not been asked to be, and nobody in this room said a word about her ear and nobody is going to, and nobody thanked her and nobody took the seed work off her and nobody put a hand on her arm.
+**"A month turning is not an event. It is the day the day stops being tomorrow."** She said it once, at the middle table, to nobody, and then she asked the clerk of this holding for a pen and gave it back inside a minute without having written anything, and he did not ask what she had wanted it for and he was not asked. She is the seed front in four counties, and nobody thanked her, nobody took the seed work off her, and nobody put a hand on her arm, and the ear is what it is and this room is not going to discuss it.
 
 Three of the four bodies of households that signed a charter in a room nine miles off seventy-one days ago are still signed to a machine for stored light, and the first of a month is the morning a subscription runs, and nobody in this yard asked any of them to stop and nobody in this yard stopped drawing.
 
@@ -44,11 +42,11 @@ The first went in at about the ninth hour and came back out of the other book, a
 
 **One thousand and fourteen hundredweight.**
 
-It came in five under Friday and the fall went onto the falls, and that is the two hundred and seventy-first figure of a run that has never written the same number down twice since the morning it began, and the count of that run is day minus four hundred and fifty and it did not reset in the night.
+It came in five under Friday, so the fall went onto the falls and the figure is the two hundred and seventy-first of its run, and the count of that run is off the day and it did not reset in the night, and the man of about fifty looked at the number for a while before he wrote it and then wrote it.
 
-The window standing behind it divides a hundred and twenty-four mornings one way and a hundred and fourteen the other, which is two hundred and thirty-eight, and the two ends of that window have never been set against the figure printed over them in this building.
+The window behind the figure divided at a hundred and twenty-four mornings against a hundred and fourteen this morning, which is two hundred and thirty-eight, and neither end of that window has ever been set against the number printed over the other in this building, and a month turning changed nothing about either of them.
 
-The four bodies of households are on this morning's sheet at two hundred and sixty-nine days, and the clause beneath it is the two hundred and sixty-eighth of those mornings out of two hundred and seventieth, and the two of them are not loads and the two of them are not households and the two of them are not people.
+Two hundred and sixty-nine days for the four bodies of households, and the two hundred and sixty-eighth of those mornings out of two hundred and seventy in the clause beneath, and neither of the two is a load and neither of the two is a household and neither of the two is a person, and a subscription runs on the first of a month whatever the two of them say.
 
 **Six hundred and fifty-five days** and **seven hundred and two** this morning, forty-seven apart, and the drawer behind them was not opened at any hour and a man who has wanted to open it for four years did not open it.
 
@@ -56,7 +54,7 @@ The man of about thirty-one of Silling walked the nine hundred yards at about th
 
 Nobody in this building has asked him about the seventh column and the count of times it has been asked is nil and is nil, and the six blank columns beside it stand headed nothing, and the second of the six has four words at the head of it and an empty space under the four words, and no heading has been written at the head of any of the other four.
 
-Marek was at the long table from the fourth hour until about the eighth with the third book open in front of him and did not write anything in it, and he gave the reason before he said the thing, and the count of that in this holding's history is two hundred and sixty, and it is his and of nobody else's.
+Marek was at the long table from the fourth hour until about the eighth with the third book open in front of him and did not write anything in it, and he gave the reason before he said the thing, and the count of that in this holding's history is two hundred and sixty, and the number is his and it is not written down anywhere.
 
 **"There are three figures on this morning's table and I have been in rooms where three figures on a table was a reason to stand up and say something."** "It is a weight off a steelyard and a number on a door nine hundred yards off and a man of about seventy on a bench. That is a morning. I have been in this building nine years and I have let a morning with three figures in it be a morning, and I am not going to start calling it something else because somebody nine miles off has opened a door on a day of its own choosing."
 
@@ -64,7 +62,7 @@ Nobody in that room said that was right and nobody said it was wrong, and the co
 
 Nobody looked at the mark on his arm and nobody has looked at it properly since the fourteenth, and the four accounts stand at four.
 
-The far end of a thing is held by two people and neither of them is the reader of this body, and no instrument anywhere in four counties says whether it is on or off, and it has not been said to be on by anybody in this holding and it is not said to be on this morning. Three wheels behind about nine hundred yards of rail are not that thing and a door that is not ours is not that thing and the two are not added.
+The far end of a thing is held by two people and this body is not either of them. No instrument in four counties will say whether it is on or off, and nobody in this holding has said it is on and nobody said it this morning, and three wheels behind about nine hundred yards of rail are not that thing, and a door that is not ours is not that thing either, and those two are not added together in this building any more than they have ever been.
 
 The four pound weight went onto the two sheets from Monday and the two of them were still correct at the ninth hour, and the man of about thirty-one of Silling copied the figure off the slate into the second book and did not say what the figure was a number of.
 
@@ -72,7 +70,7 @@ A cart came up the lane at about the fourth hour with a load of boards in it and
 
 The two small cards at the head of the return sheet are in two hands and have been two hands in this building for eleven years, and neither of the two men who wrote them has ever been asked why, and the pair of names against this morning's figure is the thirty-seventh and one more than the last.
 
-The man of about fifty did not open the third book at any hour this morning and it was shut on the long table with his thumb in it, and the count of reasons given first that he has made in this building is a count of a man and not a column and it is not written in any of the four books.
+The third book lay shut on the long table all morning with his thumb in it and he did not open it at any hour, and how many reasons he has given first in this building is a fact about a man rather than a column and appears in none of the four books.
 
 He reconciled the return twice and did not add the two halves, and the two small cards at the head of that sheet are two hands and have been two hands in this building for eleven years, and nobody here has ever asked either of the two men why, and the two cards are not a column and the two hands are not added to one another anywhere in the four books.
 
@@ -96,7 +94,7 @@ A hundred and sixty-five days on the middle table and the column at the head of 
 
 Paid at twenty-five, word in front of the figure, and it did not move on a morning with three figures on it.
 
-Behind the fourth book the day sheets are a foot and a half deep in the order they were used and this morning's went on the top of them at the ninth hour with a return written in the ordinary place, and the sheet with no date at the head of it is still in the middle of that stack in the place it was on the first morning.
+Behind the fourth book the day sheets stand a foot and a half deep in the order they were used, and this morning's went on the top at the ninth hour with a return written in the ordinary place, and the one with no date at the head of it has not moved in four years.
 
 There was a half an inch of snow in the night and it was gone off the yard by the seventh hour, and the middle road took nothing in the night and gave nothing back, and the north end of the ditch is running full, and the trough at the head of the four-mile road was full by the seventh hour and stayed inside its own lip.
 

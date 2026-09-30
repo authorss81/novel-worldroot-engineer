@@ -6,7 +6,7 @@ The second line of the rota came round at the second hour and was worked, and it
 
 Rain came in off the fen in the night and was gone by the seventh hour, and it put about half an inch into the middle road and gave about a quarter of it back before the light, and the standpipe at the yard ran for twenty minutes and then stopped as it does.
 
-The man of the north row with the cough did the top of the low field gate alone from the third hour and the four ruled lines under his condition are still empty.
+The man of the north row with the cough did the top of the low field gate alone from the third hour and the four ruled lines under his condition are still empty. The bar came off its pin stiff and he worked it back and forth about nine times before it would turn, and he did not put oil on it and he did not call anybody in to watch him do it.
 
 He said one thing to nobody in particular about the top bar, the way he does, and nobody asked him which of the three things in it he meant.
 
@@ -16,13 +16,13 @@ The twenty-sixth went in at about the ninth hour and came back out of the other 
 
 **One thousand and thirteen hundredweight.**
 
-It came up eight on Sunday with nothing against it, and the rise went onto the rises, and that is the two hundred and sixty-sixth figure of a run that has never written the same number down twice since the morning it began. The window standing behind it divides a hundred and twenty-two mornings one way and a hundred and eleven the other, which is two hundred and thirty-three, and the two ends of it have never been set against the figure printed over them in this building.
+Eight on Sunday with nothing against it. The rise went onto the rises and the figure is the two hundred and sixty-sixth of its run, a run in which the same number has never gone down twice since the morning it started counting. The window the office keeps behind that figure divided this morning at a hundred and twenty-two mornings on one side and a hundred and eleven on the other, two hundred and thirty-three, and in four years nobody in this room has put one end of that window against the number printed over the other.
 
-The four bodies of households are on this morning's sheet at two hundred and sixty-four days, and the clause beneath it is the two hundred and sixty-third of those mornings out of two hundred and sixty-fifth. Mornings are not households and a signature on a subscription is not a signature on a charter, and the two have never been added to one another in this holding.
+This morning's sheet puts the four bodies of households at two hundred and sixty-four days and the clause beneath that at the two hundred and sixty-third of those mornings out of two hundred and sixty-fifth. Mornings are not households, and a signature on a subscription is not a signature on a charter, and the two have never been added to one another in this holding.
 
 Between **six hundred and fifty days** and **six hundred and ninety-seven**, the two boards stand forty-seven apart, and that gap has not moved once in four years, and the drawer behind the near one has not been opened this morning.
 
-There is no figure for the run of mornings on this page and the reason for that is on the page. It is an even morning and the half of that run is not a whole number on an even morning, and the man who reads the near side of the boards was on the four-mile road with the barrow and the man who reads the far side was in the yard and neither of them was where the other one was at the seventh hour, and the second book has nothing in it this morning where the run stands.
+The run of mornings goes down this page without a figure, and the reason is here: the morning is even, and an even morning cannot carry a whole half of that run. The man who reads the near side was out on the four-mile road with the barrow and the man who reads the far side was standing in the yard, and at the seventh hour neither of them was where the other one was, and the second book is empty this morning where the run stands.
 
 The leaf came up the fen road with the post at about the eighth hour in an envelope with a body of a county on it and no signature, and it is the answer to nothing anybody here wrote down, and nobody in this building ordered it and nobody in this building asked for it.
 
@@ -34,7 +34,7 @@ The woman who keeps the seed house stood at the far end of the long table and re
 
 Nobody in this yard gave that a word at all. A sheet of paper lying face up on a board is a sheet of paper lying face up on a board, and this one was face up on the long table under a weight, and a word for the person who wrote it is not a word this building uses about a schedule.
 
-The man of about fifty gave the reason before he said the thing, at the long table with his thumb in the third book, and the count of that in this holding's history is one hundred and fifty-two, and it is his and of nobody else's.
+The man of about fifty gave the reason before he said the thing, at the long table with his thumb in the third book, and the count of that in this holding's history is one hundred and fifty-two, and nobody else in this building has ever been given a figure for saying a thing out loud.
 
 **"I have got two leaves of paper in front of me that say what a machine nine miles off is holding and in which place, and I have got nothing at all in four books that can be set against either leaf."** "That is not a hole in their side. It is a hole in mine, and I have had it since the first morning I came in here, and a hole of that shape is not filled by going out to look at a wall a second time."
 
@@ -44,7 +44,7 @@ There were eight questions in this building that nobody had ever put to anybody,
 
 The question was whether this holding would carry a second list up the nine miles on a named morning. The woman of about thirty-eight of Marden took it, and she said out loud what she wanted it for before anybody asked her what she wanted it for, and what she said was that she wants to have a figure in her own hand in this building before a sowing date is set, and that a figure she has not written down herself is a figure she cannot argue with a council about.
 
-**"You can all of you go up the road and look at a wall whenever you like. I have four counties to sit in front of in March and a woman from one of them is going to ask me a number and I have not got it written in my own hand."** She said it in the one room and not in a yard, and the count of the eight went to seven on that page and on no other page, and nobody in that room said she had been thanked for it and nobody thanked her.
+**"You can all of you go up the road and look at a wall whenever you like. I have four counties to sit in front of before the sowing and a woman from one of them is going to ask me a number, and I have not got it written in my own hand."** She said it in the one room and not in a yard, and the count of the eight went to seven on that page and on no other page, and nobody in that room said she had been thanked for it and nobody thanked her.
 
 The other seven of them are in the head of the second book and have been since a clerk wrote them out on a morning of this month, and a question that has never been put is not a question anybody is owed an answer to and is not a column and is not going into one this afternoon.
 
@@ -60,15 +60,17 @@ Nobody answered him at the gate and nobody asked him a second question, and he t
 
 Three of the four bodies of households that signed a charter in a room nine miles off sixty-six days ago are still signed to a machine for stored light, and a second of those three is the body whose clerk sat in the room over the tap shop yesterday with a list of eighty-one families against him, and neither of those facts is a reason for either body to stop drawing and neither body was asked to stop and neither body stopped.
 
+A declaration is not a defense. Nobody in this building has been told that anybody has been forgiven this week and nobody has been told that anybody has not been forgiven, and the clerk of this holding entered a document this morning and not a judgment against anybody, and the second book has no judgment written in it against anybody this morning and had none in it yesterday.
+
 A body with two needs and one set of hands is a fact about a body, and this building has said that once and is not going to say it again in a month.
 
 The man who keeps the gauges has kept them for nineteen years and the woman at the desk in the outer office is not the man who reads the schedule off the wall and the clerk of the machine house is a fourth, and none of the four is named on either leaf of what came up the road this morning, and a list of places with figures against them is not a roll of anybody.
 
 The three wheels behind about nine hundred yards of rail are a working part of a machine doing a work, and two men are on one of them and not one, and a man reads the schedule off a wall and a woman sits at a desk in an outer office, and none of the four has ever been asked by anybody in this holding to be anything at all.
 
-The far end of a thing is held by two people and neither of them is the reader of this body, and no instrument anywhere in four counties says whether it is on or off, and it has not been said to be on by anybody in this holding and it is not said to be on this morning. A wheel behind a rail is not that thing and a schedule on a wall is not that thing and the two are not added.
+Two people hold the far end of a thing and the reader of this body is neither of them. No instrument anywhere in four counties says whether it is on or off, nobody in this holding has ever said it is on, and nothing said it this morning. A wheel behind a rail is not that thing and a schedule on a wall is not that thing, and the two do not go into one sentence.
 
-There are two who can hold a pattern for four and one who can hold it for five, and there are two rootmarks, and a count of pattern-holders is not a count of ends, and two men on a wheel are on neither of those two lists.
+Two of them can hold a pattern for four and one can hold it for five, and there are two rootmarks, and a count of who can hold a pattern is not a count of ends, and the two men on a wheel are on neither of those lists.
 
 Two leaves of paper arrived this week and neither of them is a seventh, and the sixth of the six still has about half a line in the clerk's hand against it.
 
@@ -86,7 +88,7 @@ The man who keeps the use log entered nothing this morning and was not asked to 
 
 Two leaves of figures came up the road this week and the compost line is still paid at twenty-four and did not move for either of them.
 
-The four ruled lines under two words in the corner of the one room are still empty and the answer to them is not due, and the clerk of this holding did not look at them this morning and did not write a heading at the head of them and did not try.
+The clerk of this holding walked past the two words in the corner of that room twice this morning and did not look at the four ruled lines under them once, and did not write a heading at the head of them, and the answer they are waiting on is not due.
 
 The stack behind the fourth book took this morning's at the ninth hour on the top, and the sheet with no date at the head of it is still in the middle of it where it has been since the first morning.
 
@@ -94,4 +96,4 @@ The shutter on the window of the office's work is on and the shutter comes off o
 
 Seven is what the book says and no eighth was written this morning, because no session was held and a session that is not entered did not happen.
 
-Nobody thanked anybody. The clerk of this holding wrote the twenty-sixth in at the ninth hour and read it back once and did not read it back twice, and the four pound weight is on the two leaves and the two leaves are correct, and the two of them are the only figures in this building this morning that nobody in this building can check.
+There was nobody in this room to thank and nobody who was going to be thanked. The clerk of this holding wrote the twenty-sixth in at the ninth hour, read it back once, and put the pen down, and the four pound weight is on the two leaves and the two leaves are correct, and the two of them are the only figures in this building this morning that nobody in this building can check.

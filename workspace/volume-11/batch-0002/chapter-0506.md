@@ -10,9 +10,9 @@ The twenty-ninth went in at about the ninth hour and came back out of the other 
 
 **One thousand and eleven hundredweight.**
 
-It came in five under Wednesday and the fall went onto the falls, and that is the two hundred and sixty-ninth figure of a run that has never written the same number down twice since the morning it began. The window standing behind it divides a hundred and twenty-three mornings one way and a hundred and thirteen the other, which is two hundred and thirty-six, and the two ends of that window have never been set against the figure printed over them in this building.
+Five under Wednesday, so the fall went onto the falls and the figure is the two hundred and sixty-ninth of a run that has never had the same number written in it twice. Behind it the window stands at a hundred and twenty-three mornings against a hundred and thirteen, which is two hundred and thirty-six, and neither end of that window has been put against the figure over the other in four years, and the woman on the step of the long room this morning did not ask about it either.
 
-The four bodies of households are on this morning's sheet at two hundred and sixty-seven days, and the clause beneath it is the two hundred and sixty-sixth of those mornings out of two hundred and sixty-eighth.
+On this morning's sheet the four bodies of households are two hundred and sixty-seven days, and under that the clause takes the two hundred and sixty-sixth of those mornings out of two hundred and sixty-eighth, and a woman was standing in the yard while both of those numbers were written down.
 
 **Six hundred and fifty-three days** and **seven hundred**, the far side having come round to the round hundred this morning, forty-seven between them, and the drawer behind them was not opened.
 
@@ -22,7 +22,7 @@ Sera Quill was in this yard from the seventh hour and she was not on the long ta
 
 Nobody in that yard asked her whose anything it was and nobody asked her for a second thing, and the clerk of this holding did not write her words down and nobody asked him to.
 
-An instrument with nobody's name at the head of it and a person with a body is the difference between the two, and it has now been said once in this building and it is not going to be said again in this building, and nobody in this yard asked the question and nobody named anything.
+That was the whole of what she came down the steps to say, and she said it once and stopped, and nobody in this yard asked her a second thing and nobody named anything, and the clerk of this holding did not write it down and was not asked to.
 
 She stayed in this building until about the fourth hour and she was not asked to stay and she was not asked to leave, and nobody in this holding has offered her anything, and she did not ask for anything, and the copy of the eighty-one names is in a county book four counties off and this holding has no copy of it and did not ask for one.
 
@@ -30,13 +30,13 @@ She read the schedule on the long table standing up and did not touch it, and sh
 
 She said one thing to the man of about fifty on her way out, and what she said was that a records witness is worth exactly what the records will carry in a room, and that in this room the records are going to carry eighty-one names and one sum and a field, and that she would not want a second thing said about her in the same breath.
 
-The man of about fifty was at the long table with the third book open for about ten minutes after she went and then he shut it again, and he said one thing to the shut book and the reason for it first, and the count of that in this holding's history is one hundred and fifty-four, and it is his and of nobody else's.
+The man of about fifty was at the long table with the third book open for about ten minutes after she went and then he shut it again, and he said one thing to the shut book and the reason for it first, and the count of that in this holding's history is one hundred and fifty-four, and it is his, and it does not appear in any of the four books.
 
 **"I have watched four people in four years make a piece of paper into a person and I have never once watched a piece of paper turn back into a piece of paper."** He said it with his hand flat on the cover. **"What I am afraid of this month is not that a thing with no name on it is dangerous. It is that a room full of tired people will start saying *they* about it, and *they* is the step, and once you have taken it you cannot put it down."**
 
 Nobody in that room asked him which of the four he meant and he did not say and was not asked, and a man being right about a thing four years running is not a man who has been asked to be right about it.
 
-Tova Reed was at the middle table from the second hour with four counties' sheets in front of her and had the sowing date from three of the four councils and still nothing in writing from the fourth, and she is not support staff and has not been asked to be, and nobody in this room said a word about her ear and nobody is going to.
+Tova Reed had the four counties' sheets out on the middle table from the second hour, three councils' dates in writing in front of her and the fourth still silent, and she is on the seed front in four counties and has said so every morning this year without being asked, and nobody in this room said a word about her ear and nobody is going to.
 
 **"A date three counties will stand behind is a date I can take to a field. A date this county has not put on paper is a date somebody in this county has not decided yet, and I am not going to decide it for them in a book in a seed house."** She said that once and then she stopped, and the count of questions this holding has put to her this month is nil and is nil, and nobody thanked her and nobody took the seed work off her.
 
@@ -46,7 +46,7 @@ He was in the one room from the fifth hour until about the eighth with the door 
 
 He read the third book for about an hour without writing in it, and a book that is read and not written in is a morning like any other morning, and nobody in this building has ever asked him which pages he read.
 
-**"There is a woman in this yard who has just said out loud the one thing I have been carrying about a piece of paper for nine years, and I am not going to thank her for it and I am not going to improve on it."** He said that to the table and not to the step and not to the yard, and the count of that in this holding's history is two hundred and fifty-nine, and it is his and of nobody else's. **"An instrument is a thing with nobody's name on it. I have said that to myself in four counties and I have never once said it in a room, and she has now said it in a room, and it does not want improving on."**
+**"There is a woman in this yard who has just said out loud the one thing I have been carrying about a piece of paper for nine years, and I am not going to thank her for it and I am not going to improve on it."** He said that to the table and not to the step and not to the yard, and the count of that in this holding's history is two hundred and fifty-nine, and it counts a man at a table and not a column in a building nine miles off. **"I have carried that sentence about with me since I was twenty-six and I have never once put it in front of another person, and she put it in front of about thirty of them before lunch. That is the whole of what I wanted to say and I am going back to the book."** He shut the book on it and did not open it again that morning.
 
 Nobody in that room said that was right and nobody said it was wrong, and nobody thanked her for saying it and nobody thanked him for hearing it.
 
@@ -54,9 +54,9 @@ Nobody in that room said that was right and nobody said it was wrong, and nobody
 
 The three sheets about the two declinings and the seal log were on the long table about nine inches apart where they have been since the first of a month now one month back, and none of them was touched this morning and none of them was moved, and a woman saying a true thing about a sheet is not a ground for settling any of them.
 
-A person with a body stood on a step this morning and a sheet in a drawer did not, and the far end of a thing is neither and is still held by two people who are not him.
+A person stood on a step this morning and a sheet in a drawer did not, and whatever the far end of a thing is, it is neither of those, and it is still held by two people who are not him.
 
-There are two who can hold a pattern for four and one who can hold it for five, and there are two rootmarks, and the counts carry unmoved, and a count of pattern-holders is not a count of ends and two men on a wheel nine miles off are on neither of those two lists.
+Two of the people in this county can hold a pattern for four and one of them can hold it for five, and there are two rootmarks, and none of the three counts moved this morning. A count of pattern-holders is not a count of ends, and the two men on a wheel nine miles off are on neither of those lists.
 
 The sheet that claims the corridor is in the drawer under the two books and it is correct in every particular and it cannot be put down by anybody in this holding, and the order sealing the route is in the next drawer and it is valid and it opens nothing, and nobody took either of them out this morning and nobody is going to.
 
@@ -80,7 +80,7 @@ The sixth of this month went past three mornings ago with the shutter on, and no
 
 She went out of the gate at about the fourth hour and walked down to the second bus, and the bus goes past the turn for the machine and does not stop on it, and nobody here has ever asked the driver what is at the end of that turn.
 
-Paid at twenty-five for the second morning running, and the word has never once disagreed with the figure in eleven years.
+Paid at twenty-five on the third morning since it fell, and the word has never once disagreed with the figure in eleven years.
 
 The second of his four lines is a hundred and fifty-seven days old and blank, and nobody in this holding has asked him about it in all that time.
 
@@ -90,11 +90,11 @@ He was still on the wall at the seventh hour when the two men read the boards, a
 
 The man of about thirty-one of Silling came in at the ninth hour and put the spade against the wall and stood with his back to the yard for about a minute, and the man of about fifty went past him and did not stop and he did not say anything to anybody, and a person standing with their back to a yard is not a figure of anything.
 
-The count of things this holding has said out loud in a yard and got wrong is five and it did not move this morning, and this morning was a yard, and a woman saying one true thing about a piece of paper is not a thing said out loud in a yard and got wrong.
+Five is what this holding has said out loud in a yard and got wrong, and it is still five, and this morning was a yard. A woman saying one true thing about a piece of paper on a step is not a thing said out loud in a yard and got wrong.
 
 Nothing at the head of the column on the middle table, a hundred and sixty-three days of it. The low board is as it was, and a woman on a step saying a true thing is not a reason to move a sheet of paper.
 
-The four ruled lines under two words in the corner of the one room are still empty and the answer to them is not due, and nothing said in this yard this morning supplied it and nobody tried.
+Under the two words in the corner of that room there are four ruled lines and every one of them is bare, and the answer is not due, and a woman said one true thing on a step this morning and it did not go anywhere near them.
 
 Nobody in this building has ever read the undated sheet and nobody read it this morning, and the stack is still in the order it was used in.
 
