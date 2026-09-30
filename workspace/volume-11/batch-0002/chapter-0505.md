@@ -14,7 +14,7 @@ The twenty-eighth went in at about the ninth hour and came back out of the other
 
 **One thousand and sixteen hundredweight.**
 
-Eight on Tuesday, and nothing whatever against it, so the rise went onto the rises. That is the two hundred and sixty-eighth figure of a run that has never put the same number down twice since the morning it began. The window this office keeps behind that figure reads a hundred and twenty-three mornings one way and a hundred and twelve the other, which is two hundred and thirty-five, and the woman who keeps the seed house has asked twice in four years which of the two ends of it is the end that matters, and nobody has told her.
+Eight on Wednesday, and nothing whatever against it, so the rise went onto the rises. That is the two hundred and sixty-eighth figure of a run that has never put the same number down twice since the morning it began. The window this office keeps behind that figure reads a hundred and twenty-three mornings one way and a hundred and twelve the other, which is two hundred and thirty-five, and the woman who keeps the seed house has asked twice in four years which of the two ends of it is the end that matters, and nobody has told her.
 
 Two hundred and sixty-six days is what the sheet says for the four bodies of households, and the clause printed under it takes the two hundred and sixty-fifth of those mornings out of two hundred and sixty-seventh, and the clerk of this holding wrote the day down and wrote the clause down and did not say the one out loud against the other.
 

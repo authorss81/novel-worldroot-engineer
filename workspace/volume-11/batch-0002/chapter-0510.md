@@ -10,7 +10,7 @@ The third went in at about the ninth hour and came back out of the other book, a
 
 **One thousand and seventeen hundredweight.**
 
-Five under Sunday, and the fall went onto the falls, and that is the two hundred and seventy-third figure of a run that has never once had the same number put into it twice. The window behind it came to a hundred and twenty-five mornings against a hundred and fifteen, which is two hundred and forty, and a man walked nine miles out and back this morning and did not once look at either end of it.
+Five under Monday, and the fall went onto the falls, and that is the two hundred and seventy-third figure of a run that has never once had the same number put into it twice. The window behind it came to a hundred and twenty-five mornings against a hundred and fifteen, which is two hundred and forty, and a man walked nine miles out and back this morning and did not once look at either end of it.
 
 The morning sheet carries the four bodies of households at two hundred and seventy-one days and the clause under it at the two hundred and seventieth of those mornings out of two hundred and seventy-second, and one of the four passed a motion about a piece of paper in another county on Saturday evening and neither of those two numbers has any opinion about it.
 

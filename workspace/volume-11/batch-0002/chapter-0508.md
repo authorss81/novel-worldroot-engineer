@@ -42,7 +42,7 @@ The first went in at about the ninth hour and came back out of the other book, a
 
 **One thousand and fourteen hundredweight.**
 
-It came in five under Friday, so the fall went onto the falls and the figure is the two hundred and seventy-first of its run, and the count of that run is off the day and it did not reset in the night, and the man of about fifty looked at the number for a while before he wrote it and then wrote it.
+It came in five under Saturday, so the fall went onto the falls and the figure is the two hundred and seventy-first of its run, and the count of that run is off the day and it did not reset in the night, and the man of about fifty looked at the number for a while before he wrote it and then wrote it.
 
 The window behind the figure divided at a hundred and twenty-four mornings against a hundred and fourteen this morning, which is two hundred and thirty-eight, and neither end of that window has ever been set against the number printed over the other in this building, and a month turning changed nothing about either of them.
 

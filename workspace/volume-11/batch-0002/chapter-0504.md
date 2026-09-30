@@ -18,7 +18,7 @@ The twenty-seventh went in at about the ninth hour and came back out of the othe
 
 **One thousand and eight hundredweight.**
 
-Five under Monday, and the fall went onto the falls. Two hundred and sixty-seventh in the run, in which no figure has ever been entered twice, and behind it the office window stood at a hundred and twenty-two mornings against a hundred and twelve, which is two hundred and thirty-four. The man of about fifty wrote the fall and did not write the window, and the two ends of the window have never once been set against the figure printed over them in this building.
+Five under Tuesday, and the fall went onto the falls. Two hundred and sixty-seventh in the run, in which no figure has ever been entered twice, and behind it the office window stood at a hundred and twenty-two mornings against a hundred and twelve, which is two hundred and thirty-four. The man of about fifty wrote the fall and did not write the window, and the two ends of the window have never once been set against the figure printed over them in this building.
 
 Two hundred and sixty-five days on this morning's sheet for the four bodies of households, and the clause takes the two hundred and sixty-fourth of those mornings out of two hundred and sixty-sixth, a day short of the figure and a day over the clause.
 
@@ -54,7 +54,7 @@ Nia Vale did not read the list out and she did not read a number off it, and a l
 
 Nobody in this yard said the word thief and nobody said the word break and nobody said the word raid, and a person who is right about what stops a machine when it stops is not a person who is for the machine, and the two are not one thing and this building did not put them in one sentence.
 
-The clerk of this holding entered a request this morning and not a judgment against the body of households that asked for a certificate, and there is nothing in the second book this morning that is a judgment against anybody, and the same was true on Monday and will be true on Friday.
+A declaration is not a defense. Nobody in this building has been told this week that anybody has been forgiven, and nobody has been told that anybody has not been forgiven, and the clerk of this holding entered a request this morning and not a judgment against the body of households that asked for a certificate, and there is nothing in the second book this morning that is a judgment against anybody, and the same was true on Monday and will be true on Friday.
 
 Tova Reed was at the middle table from the second hour with four counties' sheets in front of her and a sowing date she has had from three of the four councils and has not had from the fourth, and she is the seed front in four counties and has not been asked to be anything else this year and is not going to be.
 

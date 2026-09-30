@@ -16,7 +16,7 @@ The twenty-sixth went in at about the ninth hour and came back out of the other 
 
 **One thousand and thirteen hundredweight.**
 
-Eight on Sunday with nothing against it. The rise went onto the rises and the figure is the two hundred and sixty-sixth of its run, a run in which the same number has never gone down twice since the morning it started counting. The window the office keeps behind that figure divided this morning at a hundred and twenty-two mornings on one side and a hundred and eleven on the other, two hundred and thirty-three, and in four years nobody in this room has put one end of that window against the number printed over the other.
+Eight on Monday with nothing against it. The rise went onto the rises and the figure is the two hundred and sixty-sixth of its run, a run in which the same number has never gone down twice since the morning it started counting. The window the office keeps behind that figure divided this morning at a hundred and twenty-two mornings on one side and a hundred and eleven on the other, two hundred and thirty-three, and in four years nobody in this room has put one end of that window against the number printed over the other.
 
 This morning's sheet puts the four bodies of households at two hundred and sixty-four days and the clause beneath that at the two hundred and sixty-third of those mornings out of two hundred and sixty-fifth. Mornings are not households, and a signature on a subscription is not a signature on a charter, and the two have never been added to one another in this holding.
 
@@ -59,8 +59,6 @@ The man with the slate was at the middle table at about the fourth hour with the
 Nobody answered him at the gate and nobody asked him a second question, and he took his hand off the post and went to the tap and washed the mud off his boots and did not say anything else about it this morning.
 
 Three of the four bodies of households that signed a charter in a room nine miles off sixty-six days ago are still signed to a machine for stored light, and a second of those three is the body whose clerk sat in the room over the tap shop yesterday with a list of eighty-one families against him, and neither of those facts is a reason for either body to stop drawing and neither body was asked to stop and neither body stopped.
-
-A declaration is not a defense. Nobody in this building has been told that anybody has been forgiven this week and nobody has been told that anybody has not been forgiven, and the clerk of this holding entered a document this morning and not a judgment against anybody, and the second book has no judgment written in it against anybody this morning and had none in it yesterday.
 
 A body with two needs and one set of hands is a fact about a body, and this building has said that once and is not going to say it again in a month.
 

@@ -28,7 +28,7 @@ The thirtieth went in at about the ninth hour and came back out of the other boo
 
 **One thousand and nineteen hundredweight.**
 
-Eight on Thursday, with nothing against it, and the rise went onto the rises. Two hundred and seventieth in the run, in which the same figure has never been entered twice. The window behind it came out at a hundred and twenty-four mornings on one side and a hundred and thirteen on the other, two hundred and thirty-seven, and the man of about thirty-one of Silling was nine hundred yards off at a door when that was read and has never asked either of the two men what either end of it is for.
+Eight on Friday, with nothing against it, and the rise went onto the rises. Two hundred and seventieth in the run, in which the same figure has never been entered twice. The window behind it came out at a hundred and twenty-four mornings on one side and a hundred and thirteen on the other, two hundred and thirty-seven, and the man of about thirty-one of Silling was nine hundred yards off at a door when that was read and has never asked either of the two men what either end of it is for.
 
 The four bodies of households stand at two hundred and sixty-eight days on the sheet and the clause under them at the two hundred and sixty-seventh of those mornings out of two hundred and sixty-ninth, and neither number moved while a man walked nine hundred yards and read a number off a door.
 
@@ -88,7 +88,9 @@ The figure from the door went onto this morning's day sheet in the ordinary plac
 
 The sheet of terms is on the same table as the two declinings and the three of them have never been added together in this building.
 
-The light went at the fourth hour this morning and the old man with the stick came off the wall and went in, and a man of about seventy stands at twenty-six fetchings and is fetched in the morning, because the interval is thirty mornings and this is the thirtieth, and no reason for the interval has ever been given in this building and nobody in this room is going to give one now.
+The light went at the fourth hour this morning and the old man with the stick came off the wall and went in, and the man of about seventy will be fetched tomorrow because tomorrow is the first of the next, and no reason for that has ever been given in this building.
+
+A man is fetched on the first of a month and has been fetched twenty-six times, and the number he is on has never been said to him and has never been asked of him, and nobody in this building has ever given a reason for the morning it happens on and nobody is going to.
 
 A hundred and fifty-eight days on the second of his four lines and nothing on it, and he was nine hundred yards off with a slate for most of the morning.
 

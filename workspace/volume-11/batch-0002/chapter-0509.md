@@ -14,7 +14,7 @@ The second went in at about the ninth hour and came back out of the other book, 
 
 **One thousand and twenty-two hundredweight.**
 
-Eight on Saturday and nothing against it, and the rise went onto the rises, and the run stands at its two hundred and seventy-second figure with nothing written in it twice since the morning it began. The window this office keeps behind that run read a hundred and twenty-five mornings one way and a hundred and fourteen the other, which is two hundred and thirty-nine, and the man of about fifty has had both ends of that window in front of him four years running and has never once asked which of the two the schedule nine miles off is written against.
+Eight on Sunday and nothing against it, and the rise went onto the rises, and the run stands at its two hundred and seventy-second figure with nothing written in it twice since the morning it began. The window this office keeps behind that run read a hundred and twenty-five mornings one way and a hundred and fourteen the other, which is two hundred and thirty-nine, and the man of about fifty has had both ends of that window in front of him four years running and has never once asked which of the two the schedule nine miles off is written against.
 
 This morning's sheet has the four bodies of households at two hundred and seventy days, and the clause underneath at the two hundred and sixty-ninth of those mornings out of two hundred and seventy-first, and a leaf with a rate on it came up the road with the post while both of those numbers were still on the table.
 

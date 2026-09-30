@@ -10,7 +10,7 @@ The twenty-ninth went in at about the ninth hour and came back out of the other 
 
 **One thousand and eleven hundredweight.**
 
-Five under Wednesday, so the fall went onto the falls and the figure is the two hundred and sixty-ninth of a run that has never had the same number written in it twice. Behind it the window stands at a hundred and twenty-three mornings against a hundred and thirteen, which is two hundred and thirty-six, and neither end of that window has been put against the figure over the other in four years, and the woman on the step of the long room this morning did not ask about it either.
+Five under Thursday, so the fall went onto the falls and the figure is the two hundred and sixty-ninth of a run that has never had the same number written in it twice. Behind it the window stands at a hundred and twenty-three mornings against a hundred and thirteen, which is two hundred and thirty-six, and neither end of that window has been put against the figure over the other in four years, and the woman on the step of the long room this morning did not ask about it either.
 
 On this morning's sheet the four bodies of households are two hundred and sixty-seven days, and under that the clause takes the two hundred and sixty-sixth of those mornings out of two hundred and sixty-eighth, and a woman was standing in the yard while both of those numbers were written down.
 
@@ -80,7 +80,7 @@ The sixth of this month went past three mornings ago with the shutter on, and no
 
 She went out of the gate at about the fourth hour and walked down to the second bus, and the bus goes past the turn for the machine and does not stop on it, and nobody here has ever asked the driver what is at the end of that turn.
 
-Paid at twenty-five on the third morning since it fell, and the word has never once disagreed with the figure in eleven years.
+Paid at twenty-five for the second morning running, and the word has never once disagreed with the figure in eleven years.
 
 The second of his four lines is a hundred and fifty-seven days old and blank, and nobody in this holding has asked him about it in all that time.
 

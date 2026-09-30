@@ -12,7 +12,7 @@ The twenty-fifth went in at about the ninth hour and came back out of the other 
 
 **One thousand and five hundredweight.**
 
-Five under Saturday, and the fall went onto the falls. That makes it the two hundred and sixty-fifth figure of a run in which nothing has ever been written twice, and the count of the run is off the day and not off the month. The clerk of this holding read the total back once and then had to go and find the window behind it, which divides a hundred and twenty-one mornings one way and a hundred and eleven the other and comes to two hundred and thirty-two, and neither end of that window has ever been set against the figure printed over it in this building.
+Five under Sunday, and the fall went onto the falls. That makes it the two hundred and sixty-fifth figure of a run in which nothing has ever been written twice, and the count of the run is off the day and not off the month. The clerk of this holding read the total back once and then had to go and find the window behind it, which divides a hundred and twenty-one mornings one way and a hundred and eleven the other and comes to two hundred and thirty-two, and neither end of that window has ever been set against the figure printed over it in this building.
 
 Two hundred and sixty-three days is what the morning sheet says for the four bodies of households, and the clause under it takes the two hundred and sixty-second of those mornings out of two hundred and sixty-fourth. The man of about fifty read both figures off the same sheet while a woman was standing at the other end of the room with a list of eighty-one families in front of her, and he did not put the two documents together and neither did anybody else.
 
