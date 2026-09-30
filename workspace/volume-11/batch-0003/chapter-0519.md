@@ -8,11 +8,11 @@ The twelfth came in at about the ninth hour and came back out of the other book,
 
 **One thousand and thirty-seven hundredweight.**
 
-It came up eight on Wednesday with nothing against it, so the rise went onto the rises, and that is the two hundred and eighty-second figure of a run in which no number has ever been written down twice. The window this office keeps behind that figure came out at a hundred and thirty mornings on one side and a hundred and nineteen on the other, and those two add to two hundred and forty-nine, and neither end of that window has ever been set against the number printed over the other.
+Wednesday stood eight higher than Tuesday and nothing was set against it, and the launder takes the two hundred and eighty-second figure of a run in which no number has ever been written down twice. The window this office keeps behind it came out at a hundred and thirty mornings on one side and a hundred and nineteen on the other, and the two of them add to two hundred and forty-nine. Four years of reading that window, and nobody in this building has ever set one end of it against the number printed over the other.
 
-This morning's sheet has the four bodies of households at two hundred and eighty days, and the clause under it takes the two hundred and seventy-ninth of those mornings out of two hundred and eighty-first. One under and one over, and the four launders and the four bodies of households have never been added together in this building and neither of them has ever been a person.
+The morning's sheet puts the four bodies of households at two hundred and eighty days, and the clause under that figure takes the two hundred and seventy-ninth of those mornings out of two hundred and eighty-first. One under and one over at every site. Neither of them is a household and neither of them is a person, and the four launders have never been added to either.
 
-The near board is at **six hundred and sixty-six days** and the far one at **seven hundred and thirteen**, forty-seven apart, and the drawer behind the near one was not opened.
+Six hundred and sixty-six days on the near board of the long wall and **seven hundred and thirteen** on the far one, and the gap between the two is forty-seven, and the drawer behind the near board was not opened at any hour of the morning.
 
 There is no figure for the run of mornings on this page and the reason is on the page. The half of that run is half a number on this morning and not a whole one, and the two men who read the boards were at the far end of the yard with a bar and neither of them was at the long wall at the seventh hour, and the second book carries nothing where the run stands. The frame of that run is of a month seven months back.
 
@@ -28,19 +28,19 @@ Nobody was carried out of it.
 
 That is the whole of it and it is not going to be improved on this morning. Nothing went out of that window between the sixth and the eleventh and nobody was carried out of it, and the shutter is back on it, and the clerk of this holding wrote one line about the shutter on this morning's sheet and did not write a second line about anything else, and the second book is exactly where it was on Monday morning.
 
-**"You have been idle."** The clerk of this holding said that to his own book and not to anybody and he shut it, and the count of that in this holding's history is seven and it did not move this morning because he printed no figure for it, and that is the last time this page is going to talk about a shutter.
+**"You have been idle."** The clerk of this holding said that to his own book and not to anybody and he shut it, and the count of that in this holding's history did not move this morning because a blank morning consumes no number and he printed no figure for it, and that is the last time this page is going to talk about a shutter.
 
 Tova Reed had the four counties' sheets on the middle table from the second hour with the sowing date in three hands against it and the fourth hand not on it, and there is no space left on that sheet for a fourth hand and she is not going to rule one.
 
 **"I am not going to spend this week deciding anything."** She said that to the table and nobody in that room was waiting for her to decide anything. **"Three councils have given me a date in writing and the fourth wrote on the twenty-eighth and said nothing, and there is a machine nine miles off that is going to tell four hundred thousand people whether a harvest can be predicted, and neither of those two things is going to be settled by me sitting here for a week with a pencil. So I am doing the ordinary work and I am going to do it well and that is all I have got this week."**
 
-She is the seed front in four counties and has not been asked to be anything else this year and is not going to be, and nobody in that room said a word about her ear and nobody is going to. Nobody thanked her and nobody took the seed work off her and nobody put a hand on her arm.
+She is the seed front in four counties and has not been asked to be anything else this year, and nobody in that room said a word about her ear and nobody is going to. Nobody thanked her and nobody took the seed work off her and nobody put a hand on her arm.
 
 Soren Rill was at the gate at about the fourth hour in the afternoon and he said one thing that nobody had asked him for and then went out to close the gate behind him. What he said was that a building with a duty in it and a room with a shutter on it are two different sorts of thing and that the second one is the one people are frightened of, and that he had been frightened of the second one on Thursday morning and had been in the first one for six days and had not been frightened of anything at all, and he did not know what to do with that and was not going to say it twice.
 
 Nia Vale was at the long table for about forty minutes in the middle of the morning with her own book shut in front of her and she did not open it, and she said one thing about the six days that nobody asked her for.
 
-**"Four of them came back on Friday night."** She said it to the table and not to anybody. **"I am not going to say their names and I am not going to say how many people are in them and I am not going to put it in a book. I will tell you what it means and then I am going to stop talking about it. It means that if anything on that machine ever stops, or is slowed, or is started without somebody knowing, the ones out there find out last and find out from the fact that nothing is happening, and a person who is told late can still do something about it and a person who finds out from nothing cannot."** Nobody in that room asked her what the four of them do and she did not say.
+**"Four came back the other night."** She said it to the table and not to anybody. **"I am not going to say where from and I am not going to say their names and I am not going to say how many people are in them and I am not going to put it in a book. I will tell you what it means and then I am going to stop talking about it. It means that if anything on that machine ever stops, or is slowed, or is started without somebody knowing, the ones out there find out last and find out from the fact that nothing is happening, and a person who is told late can still do something about it and a person who finds out from nothing cannot."** Nobody in that room asked her what the four do and she did not say.
 
 **"I am not for that machine and I have never been and anybody in this yard who thinks I am can come and look at my book."** She said that without heat and then she shut her book and stood up and went out into the yard and stood at the tap for a while and did not open it, and the count of times a bookkeeper has said a thing in a yard the engineer of record had not thought of did not move this morning and this morning was a room and not a yard.
 
@@ -56,7 +56,7 @@ The four accounts of what is under Marek's sleeve are four and they reconcile no
 
 The man of about fifty said one thing back to him from the long table that was not about either building, and he gave the reason for it first and printed no figure for it so that this morning consumed no number of his. **"You carried seed up that road for nine years and nobody at the other end ever asked what you wanted, and I have known that for four years and I have never once used it, and I would like it on the page that I did not use it this week either."** Nobody thanked him for saying it and he did not say he had been thanked.
 
-Three of the four bodies of households that signed a charter in a room nine miles off eighty days ago are still signed to a machine for stored light and one of them has put in writing that it is not signing again, and both of those facts are correct this morning and neither of them has any opinion about the other one, and nobody in this yard asked anybody to give either of them up and nobody in this yard gave anything up.
+Three of the four bodies of households that signed a charter in a room nine miles off eighty-two days ago are still signed to a machine for stored light and one of them has put in writing that it is not signing again, and both of those facts are correct this morning and neither of them has any opinion about the other one, and nobody in this yard asked anybody to give either of them up and nobody in this yard gave anything up.
 
 The man of the north row with the cough came in at about the seventh hour and read the shutter line on the wall from where he stood without going up to it and went out again and said nothing about it to anybody.
 
@@ -68,7 +68,7 @@ The barrow went up the four-mile road at the sixth hour with three sacks and cam
 
 The register form is a hundred and seventy-six days old on the middle table and is not filled and is not refused and is not going to be read out a fifth time. The second of the four lines in the man of about thirty-one of Silling's own book is a hundred and seventy days old this morning and has nothing on it.
 
-The sessions entered in this holding's book stand at seven and nobody entered one today. The four ruled lines under two words in the corner of the one room are bare and the answer is not due. The requests are fifty-three and the section-nine notes are fifty-three and the two of them have never been added to one another.
+Nothing went into this holding's book as a session today, so the number of entries in it is still seven, and the four ruled lines under two words in the corner of the one room are bare and the answer is not due. The requests are fifty-three and the section-nine notes are fifty-three, and a question about a shutter went into neither of the two.
 
 Six things this holding does not know are ruled with no unit against any of them and the seventh row is not ruled, and what went through a window is not a seventh and nobody in this building has ruled a row for it.
 
@@ -76,7 +76,7 @@ The order sealing the route is in the drawer under the two books and it is valid
 
 The man of about fifty had the third book open on the long table from about the fourth hour and did not write in it, and the drawer behind the boards on the long wall stayed shut through every hour of this morning, and a man who has wanted to open it for four years did not open it and nobody in that room asked him whether he had wanted to.
 
-The offer is face up on the low board with nothing on it and no date on it and no line anywhere on it for a name. Nobody in this holding has ever been told to take it off that board and nobody is going to be told.
+Nothing written on the paper, and no date on it, and no line anywhere on it for a name, and it is lying face up on the low board. Nobody in this holding has ever been told to take it off that board and nobody is going to be told, and a question asked at a table about a shutter is not a reason for taking anything off it.
 
 There was no rain and the ground was hard enough at the ninth hour to ring a bar off, and the middle road took nothing and gave nothing back, the north end of the ditch is running full, and the trough at the head of the four-mile road was full by the seventh hour and stayed inside its own lip.
 

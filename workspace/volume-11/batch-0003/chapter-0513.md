@@ -2,7 +2,7 @@
 
 ## The Sixth Hour, And A Figure About A Shutter
 
-The frost is out of the ground. It came up about a quarter of an inch in the night and went off the hedges by the seventh hour and left the yard soft enough that a bar went into it a whole hand's depth and came up with the bottom third of it black, and that is the first mild morning since the sleet and about four people in this yard remarked on it and none of them remarked on it to anybody else.
+The frost is out of the ground. It came up about a quarter of an inch in the night and went off the hedges by the seventh hour, and the yard went soft enough that a bar went into it a whole hand's depth and came up with the bottom third of it black. It is the first mild morning since the sleet, and a few people in this yard remarked on it and not one of them remarked on it to anybody else.
 
 The fourth line of the rota came round at the second hour and there is nobody at the headland above Marden to take it, and it has now gone past unworked for the eighty-second morning running. The headland is a boundary and a ditch and a hedge bank and about two hundred yards of the four-mile road's far end, and it wants two men with barrows and it has wanted them for four years, and nobody in this holding has ever been told a reason for that and nobody has gone and asked for one.
 
@@ -16,7 +16,7 @@ Marek went out of the gate at about the fourth hour with Soren Rill and the woma
 
 The shutter on the window of the office's work came off at about the sixth hour.
 
-That is a fact and not a decision anybody took. The shutter has come off on the sixth of a month since before the clerk of this holding came into the room and it stayed on from the seventh to the fifth, and it went on at about the sixth hour this morning in the way a thing goes on that four people have watched go on eleven times. Nobody in this building has ever asked who takes it off. The clerk of this holding was standing at the long table with the second book open and the shutter came off and he looked at it and did not ask, and the man of about fifty was at the door of the shed and looked at it and did not ask, and nobody in this yard asked anything about it out loud.
+That is a fact and not a decision anybody took. The shutter has come off on the sixth of a month since before the clerk of this holding came into the room, and it stayed on from the seventh to the fifth, and it went on this morning at about the sixth hour in the way a thing goes on that four people have watched go on eleven times. Nobody in this building has ever asked who takes it off. The clerk of this holding was standing at the long table with the second book open, the shutter came off, he looked at it and did not ask, and the man of about fifty was at the door of the shed and looked at it and did not ask either.
 
 And the party was already four miles off by then and going the other way.
 
@@ -24,17 +24,17 @@ The six went in at about the ninth hour and came back out of the other book, and
 
 **One thousand and twenty-eight hundredweight.**
 
-It came up eight on Wednesday with nothing against it, so the rise went onto the rises, and that is the two hundred and seventy-sixth figure of a run in which no number has ever been entered twice. The window this office keeps behind that figure came out at a hundred and twenty-seven mornings on one side and a hundred and sixteen on the other, and those add to two hundred and forty-three, and neither end of that window has ever been set against the number printed over the other in four years.
+Wednesday stood eight higher and nothing was set against it, so the rise went onto the rises, and the launder carries the two hundred and seventy-sixth figure of a run in which no number has ever been entered twice. The window this office keeps behind it came out at a hundred and twenty-seven mornings one way and a hundred and sixteen the other, and the two of them add to two hundred and forty-three. Four years of reading that window and nobody in this building has set one end of it against the figure printed over the other.
 
 This morning's sheet has the four bodies of households at two hundred and seventy-four days and the clause under it takes the two hundred and seventy-third of those mornings out of two hundred and seventy-fifth. One under and one over at every site, and the four launders and the four bodies of households have never been added together in this building.
 
-The boards on the long wall stand at **six hundred and sixty days** and **seven hundred and seven**, forty-seven between them, and the drawer behind the near one was not opened.
+On the long wall this morning the near board reads **six hundred and sixty days** and the far one **seven hundred and seven**, the gap between them being the same forty-seven it has always been, and nobody put a hand on the drawer behind the near one.
 
 There is no figure for the run of mornings on this page and the reason for it is on the page. The half of that run is half a number on this morning and not a whole one, and the two men who read the boards were at the headland end of the four-mile road with a barrow neither of them took out, and the second book carries nothing this morning where the run stands.
 
 The woman of about thirty-eight of Marden had been at the long table for about twenty minutes before the shutter came off and she said one thing about it that nobody had asked her for, and she said it to the window and not to the room.
 
-**"Six days."** She said the number and then she waited, and nobody picked it up, and she said the rest of it herself. **"It is up six days and it goes back on the eleventh and I have not the least idea what happens in it, and I notice that I am the only person in this yard who has just said out loud that she does not know, and I have been saying that number out loud for four years so I am used to how it goes."** Nobody in that room told her she was the only one and nobody said she was wrong.
+**"Six days."** She said the number and then she waited, and nobody picked it up, and she said the rest of it herself. **"It is up six days and it goes back on the eleventh and I have not the least idea what happens in it, and I am the only person in this yard who has just said out loud that she does not know, and I have been saying that number out loud for four years so I am used to how it goes."** Nobody in that room told her she was the only one and nobody said she was wrong.
 
 The shutter is up and the window behind it is a window in a wall of this holding, and no work is ever carried out of it. That has been true for eleven years and it is true this morning, and the shutter being up does not make it a place where anything happens, and nothing has ever gone out of that window and nothing is going to go out of it this week either.
 
@@ -52,7 +52,7 @@ The use log has fifteen lines. The barrow was taken out to the gate and stood th
 
 The sessions entered in this holding's book stand at seven and nobody entered one this morning, and the four ruled lines under two words in the corner of the one room are as empty as they were in a month now four months back, and the answer they are waiting for is not due.
 
-The requests are fifty-three and the section-nine notes are fifty-three and they are two lists and they have never been added to one another. Six things this holding does not know are ruled in a column with no unit against any of them, and the seventh row is not ruled, and a shutter is not a seventh.
+Two lists, two numbers, the same number: the requests are fifty-three and the section-nine notes are fifty-three, and nobody in this building has ever added one of them to the other. Six things this holding does not know are ruled in a column with no unit against any of them, and the seventh row is not ruled, and a shutter is not a seventh.
 
 > THE LINE THAT IS ON THE WALL BESIDE THE WINDOW IN THIS HOLDING, IN PAINT THAT HAS BEEN REPAINTED TWICE AND HAS NEVER BEEN REWRITTEN, WITH NO NAME AT THE HEAD OF IT AND NO INITIAL AT THE FOOT OF IT: **THE SIXTH TO THE ELEVENTH. WHAT IS DONE IN THAT TIME IS NOT ENTERED ANYWHERE.** THE PAINT IS OLD ENOUGH THAT NOBODY IN THIS BUILDING CAN REMEMBER WHO LAST DID IT AND NOBODY HAS ASKED.
 

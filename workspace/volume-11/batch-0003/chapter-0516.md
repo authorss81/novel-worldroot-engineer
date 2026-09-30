@@ -2,19 +2,19 @@
 
 ## Nine Hours, Two Of Them At A Time, And A Diagram On A Sheet
 
-The third line of the rota came round at the second hour and was worked, and it was the two culverts on the middle road with the fill behind them and the low field gate, and the fill had gone out about half an inch where the night took it and the two of them put it back and went over it twice, and the gate wanted a bar and a stone and took the nine minutes it always takes.
+Four people went out on the third line of the rota at the second hour and were still on it at the ninth. Two culverts on the middle road, the fill behind them, the low field gate, and about half an inch of that fill gone out of it in the night and put back twice over. The gate took a bar and a stone and the nine minutes it always takes, and one of the four said the nine minutes out loud as though the saying of it made any difference.
 
 The ninth came in at about the ninth hour and came back out of the other book, and the two of them were the same.
 
 **One thousand and twenty-six hundredweight.**
 
-It came up eight on Sunday with nothing against it, so the rise went onto the rises, and that is the two hundred and seventy-ninth figure of a run in which no number has ever been put down twice. The window behind it came to a hundred and twenty-eight mornings on one side and a hundred and eighteen on the other, which is two hundred and forty-six, and neither end of that window has ever been set against the figure printed over the other in this building.
+Sunday gave five back off Saturday and the fall went onto the falls, and the launder carries the two hundred and seventy-ninth figure of a run in which no number has ever been put down twice. The window behind it came to a hundred and twenty-eight mornings on one side and a hundred and eighteen on the other, and the two of them are two hundred and forty-six. The man who keeps the use log has read both halves every morning for four years and has never once set one of them against the number printed over the other.
 
 This morning's sheet has the four bodies of households at two hundred and seventy-seven days, and the clause under it takes the two hundred and seventy-sixth of those mornings out of two hundred and seventy-eighth. One under and one over, and the four launders and the four bodies of households have never been added to one another.
 
-At the seventh hour the two men who read the boards read the pair to each other and neither read the other's half. The run of mornings is **one hundred and ten mornings of two hundred and three**, and the frame of it is of a month seven months back.
+What the two men who read the boards said to each other at the seventh hour, neither of them reading the other's half, went into the second book as **one hundred and ten mornings of two hundred and three**, of a month seven months back.
 
-The near board is at **six hundred and sixty-three days** and the far one at **seven hundred and ten**, forty-seven between them, and the drawer behind the near one was not opened.
+The near board carries **six hundred and sixty-three days** and the far one **seven hundred and ten**, and it is forty-seven between them, and nobody in that yard or in this one touched the drawer behind the near one at any hour of the day.
 
 Nia Vale came out of the gate at about the fourth hour with Marek and Soren Rill and the man of about fifty, and she coordinates the moving reserves and is not support staff and nobody in this holding has offered her a chair and she did not ask for one, and she had a list in her own book and did not read it out in the yard and did not read a single figure off it before she went out of the gate.
 
@@ -38,13 +38,13 @@ Iona Vey had the clerk of the machine house behind her with a sheet when the fou
 
 **"And it is about nine hours."** She said that last and she said it to all four of them and not to the machine. **"Nine hours from the first movement of the wheel to the frame coming back to where it started. It is not nine hours of turning. There is waiting in it and there is reading in it and there is a part of it where you stand and do nothing at all and let a line settle, and if you start the next hour early you have not saved anything, you have moved a frame while it was still walking."**
 
-She said that she was going to be asked why, and she said it before anybody asked, the way the people in this county do things.
+She said that she was going to be asked why, and she said it before anybody asked.
 
 **"Because a machine does not keep secrets from an operator, and because my argument cannot be made any other way."** She said it and stopped there. **"There is no second reason and I am not going to invent one to make it sound better, and if you take this and use it and it goes wrong I will be the first one to say so, and I will say it in a room and not on a road."**
 
 > THE BACK OF A SHEET THAT WAS COPIED OFF THE WALL IN THAT BUILDING AND WENT OUT ON A ROAD AND CAME BACK INTO AN OILSKIN SATCHEL, WITH THE HEADING STILL WRITTEN ON THE OTHER SIDE AND NOTHING AT THE HEAD OF THIS SIDE: **THREE WHEELS DRAWN IN A ROW, EACH ONE THE SAME SIZE, WITH A LEVER DRAWN UNDER EACH AND THE WORD *HAND* AGAINST EVERY LEVER. BESIDE EACH WHEEL, TWO MARKS AND NO NAMES AGAINST EITHER MARK. ALONG THE BOTTOM, IN A HAND THAT IS NOT THE HAND OF THE MAN WHO READS THE WALL, A FIGURE THAT IS NINE, AND BESIDE IT THE WORD *HOURS*, AND BESIDE THE FIGURE, NO COLUMN HEADED FOR ANY PERSON. THE THIRD WHEEL IS DRAWN WITH A BAR LAID ACROSS IT.** THERE IS NO HEADING AT THE HEAD OF THIS SIDE AND NOBODY IS NAMED ON IT AND IT IS NOT A SIGNATURE.
 
-A form is not a column and a diagram is not a plan and neither of them is going into a book in this holding. The clerk of this holding wrote one line on the day sheet about a sheet with a drawing on the back of it and he did not copy the drawing and he did not name who drew it and nobody asked him to.
+A form is not a column and a diagram is not a plan and neither is going into a book in this holding. The clerk wrote one line on the day sheet about a sheet with a drawing on the back of it, and he did not copy the drawing and he did not name who drew it.
 
 Marek looked at it for about a quarter of an hour and gave the reason before he said the thing, and the count of that in this holding's history is two hundred and sixty-one, and it is his and it is in no book in this building.
 
@@ -60,9 +60,9 @@ Nobody in this holding has thanked anybody this morning and nobody in that build
 
 The two men on the wheel heard the two-mark rule at about the twelfth hour and one of them got down off the wheel to hear it properly. He is the one who does not count out loud and he stood with his hand still on a spoke while she said it a second time, and then he asked her the only question anybody in that building asked anybody all day.
 
-**"Is it two because it walks, or is it two because it walked once?"** She said it was two because it walked once, and he said that was the answer he expected and got back up onto the wheel, and the man who counts out loud took his turn without being asked and they went on in fours. Nobody in this holding has asked either of them a question in four years and nobody is going to, and the two of them are two men on a wheel and not two people at either end of a thing.
+**"Is it two because it walks, or is it two because it walked once?"** She said it was two because it walked once, and he said that was the answer he expected and got back up onto the wheel, and the man who counts out loud took his turn without being asked and they went on in fours. Nobody in this holding has asked either of them a question in four years, and the two of them are two men on a wheel and not two people at either end of a thing.
 
-The man who keeps the gauges walked his line while all of that was being said and did not stop and did not look at anybody, and afterward he put his card in his pocket and the card had nothing written on it that it had not had on it at the beginning of the hour.
+The man who keeps the gauges walked his line while all of that was being said and did not stop and did not look at anybody, and afterward he put his card in his pocket, and nothing had been written on it that had not been on it at the beginning of the hour.
 
 The frost is out of the ground and the yard dried hard after the fourth hour and the hedges on the four-mile road have stopped dripping for good. The middle road took nothing and gave nothing back, the north end of the ditch is running full, and the trough at the head of the four-mile road was full by the seventh hour and stayed inside its own lip.
 
@@ -80,7 +80,7 @@ The man of about thirty-one of Silling came in off the middle road at the ninth 
 
 Six things this holding does not know are ruled in a column in the seed house's schedule with no unit against any one of them, and the seventh row is not ruled, and a rule that says two is not a seventh of anything and a drawing is not a row.
 
-The offer is face up on the low board, undated, unfilled, not withdrawn, no line anywhere on it for a name, and a diagram on the back of a schedule sheet is not a reason to move anything on that board and nobody in this room touched it.
+Undated, unfilled, not withdrawn, and with no line anywhere on it for a name, the paper on the low board is face up where it has lain for four months. A diagram on the back of a schedule sheet is not a reason to move anything on that board, and nobody in that room touched it and nobody has been told to.
 
 Nobody touched his arm. The mark under Marek's sleeve is four inches and it branches twice and there is no second mark on it, and the four accounts this holding has of that arm are four and this morning did not make a fifth, and he had his sleeve down all morning and nobody asked him about what is under it.
 

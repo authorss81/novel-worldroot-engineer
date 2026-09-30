@@ -2,19 +2,19 @@
 
 ## A Method In A Hand Is Not A Plan
 
-The third line of the rota came round at the second hour and was worked, and it was the two culverts on the middle road with the fill behind them and the low field gate, and the fill had gone out about a quarter of an inch in the night and the two of them put it back and went over it twice, and the gate took its nine minutes.
+The third line of the rota was worked from the second hour, and it is always the same work: two culverts on the middle road, the fill behind them, and the low field gate. About a quarter of an inch of the fill had gone out of it in the night and went back twice over, and the gate had its bar and its stone and its nine minutes.
 
 The thirteenth came in at about the ninth hour and came back out of the other book, and the two of them were the same.
 
 **One thousand and thirty-two hundredweight.**
 
-It came in five under Thursday, so the fall went onto the falls, and that is the two hundred and eighty-third figure of a run in which no number has ever been entered twice. The window behind it came to a hundred and thirty mornings against a hundred and twenty, which is two hundred and fifty, and neither end of that window has ever been set against the figure printed over the other in this building in four years.
+Thursday took five back off Wednesday and the fall went onto the falls, and what stands on the launder this morning is the two hundred and eighty-third figure of a run in which no number has ever been entered twice. The window behind it came to a hundred and thirty mornings against a hundred and twenty, and the two of them are two hundred and fifty, and in four years nobody in this building has set one end of that window against the number printed over the other.
 
-This morning's sheet carries the four bodies of households at two hundred and eighty-one days, and the clause beneath it takes the two hundred and eightieth of those mornings out of two hundred and eighty-second. One under and one over, and neither of those is a household and neither of them is a person.
+The four bodies of households stand at two hundred and eighty-one days on this morning's sheet, and the clause beneath that takes the two hundred and eightieth of those mornings out of two hundred and eighty-second. One under and one over, and none of those is a household and none of them is a person, and a week of standing in a building nine miles off did not move any of them.
 
-At the seventh hour the two men who read the boards read the pair to each other and neither read the other's half. The run of mornings is **one hundred and twelve mornings of two hundred and seven**, and the frame of it is of a month seven months back.
+What went into the second book at the ninth hour is **one hundred and twelve mornings of two hundred and seven**, of a month seven months back, and the two men who read the boards said it to each other at the seventh hour without either of them reading the other's half back.
 
-The boards stand at **six hundred and sixty-seven days** and **seven hundred and fourteen**, forty-seven apart, and the drawer behind the near one was not opened.
+The near board reads **six hundred and sixty-seven days** and the far one **seven hundred and fourteen**, forty-seven apart, and nobody in this room has opened the drawer behind the near one this week.
 
 There are four people in this holding who now know what a hand-lever under a wheel does and how long it takes and why there are two marks beside each wheel on a drawing, and none of the four has said any of it in a room where anybody could be asked to act on it, and this holding is not going to put it in a book.
 
@@ -24,19 +24,19 @@ Nobody in this holding has been given a date. Nobody in this holding has been gi
 
 The woman of about thirty-eight of Marden said one thing about that this morning at the long table and she said it before anybody asked her for it.
 
-**"Nine hours is not a morning."** She put her thumb on her own book and did not open it. **"That is the sentence I have been looking for since Tuesday and it took a wheel to say it and not a body of households. Two of us could stand at a thing and be there for nine hours and that would be two of us standing. You would need somebody who knows when a frame is walking, and you would need somebody who can be turned out of the room halfway through without the whole thing stopping, and I have not got a list of either of those people and I am not going to invent one at a table."** Nobody in that room gave her a name and nobody told her she was wrong.
+**"Nine hours is not a morning."** She put her thumb on her own book and did not open it. **"That is the sentence I have been looking for all week and it took a wheel to say it and not a body of households. Two of us could stand at a thing and be there for nine hours and that would be two of us standing. You would need somebody who knows when a frame is walking, and you would need somebody who can be turned out of the room halfway through without the whole thing stopping, and I have not got a list of either of those people and I am not going to invent one at a table."** Nobody in that room gave her a name and nobody told her she was wrong.
 
-She said the rest of it to the window and not to anybody in it. **"A method in a hand is not a plan. And a plan is not a date. Those are three different things and this week everybody in this county has been treating them as one thing, including me on Tuesday, including a woman nine miles off with a drawing on a sheet, and including a sheet that came up the fen road with a day at the foot of it eleven mornings ago."** She said that and did not say it again and she went out to the gate.
+She said the rest of it to the window and not to anybody in it. **"A method in a hand is not a plan. And a plan is not a date. Those are three different things and this week everybody in this county has been treating them as one thing, including me earlier in the week, including a woman nine miles off with a drawing on a sheet, and including a sheet that came up the fen road with a day at the foot of it eleven mornings ago."** She said that and did not say it again and she went out to the gate.
 
 The ring of bare ground inside the eleven acres has been bare in its eleventh year and it has not been walked this week and it was not walked on the sixth of the month and it has not been walked since the last time anybody in this holding said out loud that they were not going to, which was the twenty-eighth of a month now one month back.
 
-Nobody has put a foot in it and nobody has measured it and nobody has crossed it and nobody has priced it by walking round it, and there is no dimension against it on any page in this holding and there is not going to be one. The frost stopped short of its edge and the sun did not reach it and the grass does not come back up on the north side of it in the spring either, and that last fact has been said twice in four years by two different people who had not asked each other and they have never been put in one sentence and they are not going to be this morning.
+Nobody has put a foot in it and nobody has measured it and nobody has crossed it and nobody has priced it by walking round it, and there is no dimension against it on any page in this holding and there is not going to be one. The frost stopped short of its edge and the sun did not reach it and the grass does not come back up on the north side of it in the spring either, and that last fact has been said twice in four years by two different people who had not asked each other.
 
 A hand-lever in four hands and a ring of bare ground inside eleven acres are two different pieces of ground on two different pages and neither one is put inside the other one anywhere in this building, and the eleven acres are not the four hundred yards to a seed vault of forty households that has not been recovered and has no figure of people against it.
 
 The corridor in the pan is named in a drawer in this holding and is not established as on, and the sheet that claims it is correct in every particular and it lets nothing out. A culvert under a machine house nine miles off is not that corridor, and a corridor in a pan is not a culvert under a machine, and the two of them are not added to one another and neither of them is added to a channel of warm water in a floor.
 
-Marek went out to the edge of the ring at about the sixth hour and stood on the grass outside it with his hands in his pockets and looked at it for about twenty minutes, and he did not put a foot in it and he did not measure it and he did not say what he was thinking about it, and nobody in that yard asked him and nobody followed him out.
+Marek went out to the edge of the ring at about the sixth hour and stood on the grass outside it with his hands in his pockets and looked at it for about twenty minutes, and he did not put a foot in it and he did not measure it and he did not say what he was thinking about it, and nobody followed him out.
 
 He came back in through the gate about twenty minutes later and two people asked him the same question within an hour of each other and he gave them the same answer both times, and neither of them knew they were the second one.
 
@@ -74,11 +74,11 @@ The man with the slate was not in this building today and the slate is still lea
 
 Six things this holding does not know are ruled with no unit against any of them and the seventh row is not ruled, and a method is not a seventh and a plan is not a seventh.
 
-The mark under Marek's sleeve is four inches and it branches twice and there is no second mark anywhere on that arm, and the four accounts this holding has of what is under that sleeve are four and they reconcile with one another in none of their particulars, and a week of standing in a building nine miles off did not make a fifth.
+Under the sleeve there is a mark of four inches that branches twice, and there is no second mark anywhere on that arm. What this holding knows about it is four accounts, and the four do not reconcile with one another in any particular, and a week of standing in a building nine miles off did not make a fifth.
 
 The far end of a thing is held by two people and this body is not either of them, and no instrument anywhere in four counties says whether it is on or off, and nobody in this holding has ever said it is on. Three wheels behind about nine hundred yards of rail are not that thing and a hand-lever under one of them is not that thing either.
 
-The compost line is paid at twenty-five and did not move and the word is in front of the figure. The register form is a hundred and seventy-seven days old on the middle table with nothing at the head of its column, and it is not filled and it is not refused and it is not going to be read out a fifth time.
+Twenty-five not discharged, and the word that goes in front of that figure is paid, and it has not moved. The register form is a hundred and seventy-seven days old on the middle table with nothing at the head of its column, and it is not filled and it is not refused and it is not going to be read out a fifth time.
 
 The second of the four lines in the man of about thirty-one of Silling's own book is a hundred and seventy-one days old this morning and has nothing on it, and nobody has asked him about it and he did not offer, and the sessions entered in this holding's book stand at seven and nobody entered one this month.
 

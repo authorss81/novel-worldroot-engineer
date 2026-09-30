@@ -2,19 +2,19 @@
 
 ## Six Days Up, And Nothing Carried Out Of One
 
-The first line of the rota came round at the second hour and was worked, and it was the water: the north end of the ditch, the trough at the head of the four-mile road and the standpipe in the yard. The standpipe had a skin on it a finger's width after the rain of the day before and the man of about thirty-one of Silling broke it with the back of a spade and let the run go and shut it and said nothing about it.
+The first line of the rota came round at the second hour and it was worked, and the work was water: the north end of the ditch, the trough at the head of the four-mile road, the standpipe in the yard. Rain had left a skin on the standpipe a finger's width thick, and the man of about thirty-one of Silling broke it with the back of a spade and let the run go and shut it and said nothing about it.
 
 The eleventh came in at about the ninth hour and came back out of the other book, and the two of them were the same.
 
 **One thousand and twenty-nine hundredweight.**
 
-It came in five under Monday, so the fall went onto the falls, and that is the two hundred and eighty-first figure of a run in which no number has ever been put into it twice. The window behind it came to a hundred and twenty-nine mornings against a hundred and nineteen, which is two hundred and forty-eight, and neither end of that window has ever been set against the number printed over the other in this building.
+Five is what it gave back to Monday, and the fall went onto the falls, and the number standing on the launder is the two hundred and eighty-first figure of a run in which nothing has ever been put into it twice. The window behind it came to a hundred and twenty-nine mornings against a hundred and nineteen, and those two are two hundred and forty-eight. The clerk of this holding read both halves off the board and put neither of them against the other and has not been asked why not in four years.
 
-This morning's sheet carries the four bodies of households at two hundred and seventy-nine days, and the clause beneath it takes the two hundred and seventy-eighth of those mornings out of two hundred and eightieth, and neither of those three is a person and neither of them is a household.
+Two hundred and seventy-nine days is what this morning's sheet carries for the four bodies of households, and the clause beneath it takes the two hundred and seventy-eighth of those mornings out of two hundred and eightieth. One under and one over. Neither of those three is a person and neither of them is a household, and nothing that came in from a room nine miles off has ever been added to any of them.
 
-At the seventh hour the two men who read the boards read the pair to each other and neither read the other's half. The run of mornings is **one hundred and eleven mornings of two hundred and five**, and the frame of it is of a month seven months back.
+What the two men who read the boards said to each other at the seventh hour, neither of them saying the other's half back, is **one hundred and eleven mornings of two hundred and five**, of a month seven months back, and it went into the second book in the ordinary place.
 
-The near board is at **six hundred and sixty-five days** and the far one at **seven hundred and twelve**, forty-seven apart as ever, and the drawer behind the near one was not opened.
+On the near board, **six hundred and sixty-five days**, and on the far one **seven hundred and twelve**, and forty-seven between them as ever, and the drawer behind the near one stayed shut for the whole of the morning that the shutter went back on.
 
 The shutter on the window of the office's work went back on at about the eleventh hour.
 
@@ -22,7 +22,7 @@ It had been up six days. It came off on the sixth of this month at about the six
 
 No work was ever carried out of it. That has been the case for eleven years and it has been the case for these six days, and nothing went out of that window on the sixth and nothing went out of it on the seventh or the eighth or the ninth or the tenth, and nobody in this building ever learned what was carried out of it, and this page is going to say that once and is not going to say it a second time in a month.
 
-**"It has been up since Thursday and I have not been able to stop looking at it."** The woman of about thirty-eight of Marden said that to the second book at about the seventh hour and gave the reason before she said it, and the count of questions this holding has put to her this month is nil and is nil. **"The reason is that I have been going nine miles four days running and I have got nothing out of it that I can put in front of a council, and there is a shutter on a wall in this yard that has been up the whole time, and I have caught myself twice this week wanting to say the two things out loud in the same breath."** She put her thumb on the page and did not write anything on it and nobody asked her to.
+**"It has been up since Thursday and I have not been able to stop looking at it."** The woman of about thirty-eight of Marden said that to the second book at about the seventh hour and gave the reason before she said it, and the clerk of this holding did not ask her a second thing and has not asked her one in a month. **"The reason is that I have been going nine miles four days running and I have got nothing out of it that I can put in front of a council, and there is a shutter on a wall in this yard that has been up the whole time, and I have caught myself twice this week wanting to say the two things out loud in the same breath."** She put her thumb on the page and did not write anything on it and nobody asked her to.
 
 Nobody in that room said they understood that and nobody said they did not. A body with two needs and one set of hands is a fact about a body and this building said that once in an earlier week and is not going to say it again in the same breath as a wall.
 
@@ -60,7 +60,7 @@ The man of the north row with the cough did the top of the low field gate alone 
 
 The woman who keeps the seed house was in the seed house door for most of the afternoon with the schedule and the six ruled rows and did not come out, and the oilskin satchel was on the long table under the four pound weight, and a sheet that went nine miles in that satchel and came back in it is the same sheet and is not a column and the seventh row is not ruled.
 
-Three of the four bodies of households that signed a charter in a room nine miles off seventy-nine days ago are still signed to a machine for stored light and one of them passed a motion at its own meeting and sent it up the fen road, and a body with two needs and one set of hands is a fact about a body and none of the four bodies was asked to give either of the two up and none of them did.
+Three of the four bodies of households that signed a charter in a room nine miles off eighty-one days ago are still signed to a machine for stored light and one of them passed a motion at its own meeting and sent it up the fen road, and a body with two needs and one set of hands is a fact about a body and none of the four bodies was asked to give either of the two up and none of them did.
 
 The corridor in the pan is named in a drawer in this building and is not established as on, and the sheet that claims it is correct in every particular and it lets nothing out. The order sealing the route is in the next drawer and it is valid and it opens nothing, and no apology is going to be written for it by anybody in this holding and none was written this week.
 

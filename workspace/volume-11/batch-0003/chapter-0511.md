@@ -12,25 +12,25 @@ The second line of the rota came round at the second hour and was worked, and it
 
 The frost was in the ground at the second hour and stayed in it, half an inch of it by the ninth, and the yard rang a bar off if you dropped one. The old man with a stick worked the north wall from the third hour until the sixth without going through the gate once and had frost in his eyebrows when he came off, and nobody in this yard went out to him.
 
-The shutter on the window of the office's work is still on this morning and this is not the morning it comes off. It comes off on the sixth of a month and this is the fourth, and there is nothing anybody in this building can do about the sixth except be standing here when it happens, and nobody has ever asked who takes it off.
+The shutter on the window of the office's work is still on this morning and this is not the morning it comes off. It comes off on the sixth of a month and this is the fourth, and there is nothing anybody in this building can do about the sixth except be standing here when it happens.
 
 The fourth went in at about the ninth hour and came back out of the other book, and the two of them were the same.
 
 **One thousand and twenty-five hundredweight.**
 
-It came up eight on Monday with nothing against it, so the rise went onto the rises, and that is the two hundred and seventy-fourth figure of a run in which no number has ever been put down twice. The window the office keeps behind that figure stands this morning at a hundred and twenty-six mornings on one side and a hundred and fifteen on the other, and the two of those add to two hundred and forty-one, and neither end of that window has ever been set against the number printed over the other in this building in four years.
+Against Monday the rise is eight and there is nothing set against it, and that is the two hundred and seventy-fourth figure of a run in which no number has ever been put down twice. Behind that figure the window stands at a hundred and twenty-six mornings one way and a hundred and fifteen the other, and the two of them make two hundred and forty-one. The man of about fifty has had four years to set one end of that window against the number printed over the other and has not tried it once, and the clerk has never asked him why not.
 
 This morning's sheet carries the four bodies of households at two hundred and seventy-two days, and the clause printed under it takes the two hundred and seventy-first of those mornings out of two hundred and seventy-third. One under and one over, at every reading, and the two figures have never been added to the four launders in this holding and neither has a household ever been added to a morning.
 
-The boards on the long wall stand at **six hundred and fifty-eight days** and **seven hundred and five**. Forty-seven between them, the same forty-seven they have stood at since before the second column of the well house door got a heading on it, and the drawer behind the near one stayed shut through every hour of this morning.
+Whoever reads them this morning reads **six hundred and fifty-eight days** on the near board of the long wall and **seven hundred and five** on the far one, and the gap between those two is forty-seven, and it has been forty-seven since before the second column of the well house door got a heading on it. The drawer behind the near board stood shut through every hour of it and the man who put his thumb on it at the seventh hour is the reason nobody in this room has ever had to open it.
 
 There is no figure for the run of mornings on this page and the reason is on the page. The half of that run is half a number on this morning and not a whole one, and the two men who read the boards were at the far end of the yard with their backs to the gate at the seventh hour and neither of them read the other's half, and the second book carries nothing this morning where the run stands.
 
-**"I have been to that door twice now."** The man of about thirty-one of Silling said it at the outlet end with the bar across his knees and his breath going up off the stone. **"Monday I stood in the road and looked at it and Tuesday I have not been near it and I have not stopped looking at it either, and those are two different things and I do not know which one of them I am doing."** Nobody in that yard asked him which he was doing and he did not say and he got the bar up and went back to the near stone.
+**"I have not been near that door."** The man of about thirty-one of Silling said it at the outlet end with the bar across his knees and his breath going up off the stone. **"Somebody stood in the road in front of it yesterday and looked at it for an hour and a half, and I have not been near it at all, and I have not stopped thinking about it either, and those are two different things and I do not know which one of them I am doing."** Nobody in that yard asked him which he was doing and he did not say and he got the bar up and went back to the near stone.
 
 The woman of about thirty-eight of Marden came out of the gate at about the seventh hour with a bucket and filled it at the standpipe and stood with it while the water came through. She said one thing to nobody about the sixth of a month and then said nothing else about it at all.
 
-What she said was that a thing that happens on a fixed morning in a month does not get better by having anybody watch it. She filled the bucket and went back in, and the count of questions this holding has put to her this month is nil and is nil.
+What she said was that a thing that happens on a fixed morning in a month does not get better by having anybody watch it. She filled the bucket and went back in, and nobody in that yard put a question to her about it.
 
 Tova Reed had the four counties' sheets out on the middle table from the second hour and the sowing date in front of her, three councils' dates in writing and the fourth still silent, and the fourth wrote on the twenty-eighth and the letter said nothing at all. She is the seed front in four counties and nobody in that room said a word about her ear and nobody is going to and nobody put a hand on her arm and nobody thanked her for any of it.
 
@@ -44,7 +44,7 @@ He said one thing at the tap about Monday and it was not about the door. **"I ha
 
 The two men who read the boards met at the long wall at about the seventh hour and one of them said his own half out loud to the plaster and the other one answered his own half back to him and not the first man's, which is what the two of them have done every morning for four years and neither of them has ever offered to do it any other way.
 
-The one who reads the far side put his thumb on the drawer behind the near board while he was saying it and took it away again without looking down. Nobody in this room has ever seen him do that and asked him why, and it is four years old now and nobody is going to start.
+The one who reads the far side put his thumb on the drawer behind the near board while he was saying it and took it away again without looking down. Nobody in this room has ever seen him do that and asked him why, and it is four years old.
 
 **"Forty-seven."** He said the number and not the sentence that goes with it, and the other man said **"Forty-seven"** back at him, and it is the same figure on both walls and neither of them knows what it counts and neither of them has ever asked.
 
@@ -58,15 +58,15 @@ The register form is a hundred and sixty-eight days old on the middle table with
 
 The use log has fifteen lines and got no sixteenth for a door standing open nine miles off. The barrow went up the four-mile road at the sixth hour with three sacks and came down loaded, and its journeys are eleven and eleven is a floor and eleven was eleven before anybody in this county knew there was a door.
 
-The sessions entered in this holding's book stand at seven and nobody entered one this morning, and a session that is not entered did not happen, and the four ruled lines under the two words in the corner of the one room are as bare as they have been since a clerk ruled them and the answer they are waiting for is not due.
+Nobody entered a session this morning, so the number of them in this holding's book is still what it was, which is seven, and a session that is not entered did not happen whatever anybody says about it afterwards. In the corner of the one room the four ruled lines under the two words are as bare as they were on the morning a clerk ruled them, and the answer they are waiting for is not due and has not been due for a long time.
 
-The requests are fifty-three and the section-nine notes are fifty-three and they are two different lists and they have never been added to one another in this building. Six things this holding does not know are ruled in a column in the seed house's schedule with no unit against any one of them, and the seventh row is not ruled, and a door is not a seventh.
+Two lists stand at fifty-three each in this building and neither of them is the other one, and nobody here has ever added them together or seen a reason to. Six things this holding does not know are ruled in a column in the seed house's own schedule with no unit against any one of them, and the seventh row is not ruled, and a door is not a seventh.
 
 Sera Quill came down the fen road on the second bus at about the ninth hour and went into the seed house and stayed about twenty minutes and came out again and did not come into the one room. She is a records witness and not an eyewitness and she has said so out loud once in a room over a tap shop and nobody in this building has asked her to say it again.
 
-The mark under Marek's sleeve is four inches and it branches twice and there is no second mark anywhere on that arm, and the four accounts this building has of what is under that sleeve are four and they reconcile with one another in none of their particulars, and this morning did not make a fifth.
+Four inches, and it branches twice, and there is no second mark anywhere on that arm. Four accounts of what is under the sleeve, and this building has never got two of them to agree about a particular, and a morning on which nobody looked at it did not make a fifth.
 
-The far end of a thing is held by two people and this body is not either of them, and no instrument anywhere in four counties says whether it is on or off and nobody in this holding has said it is on. A door standing open nine miles off is not that thing and a wheel behind nine hundred yards of rail is not that thing either, and those two are not added to one another in this building and have never been.
+Two people hold the far end of a thing and this body is not one of them, and no instrument anywhere in four counties says whether it is on or off, and nobody in this holding has ever said it is on. A door standing open nine miles off is not that thing, and a wheel behind nine hundred yards of rail is not that thing either, and the two of them have never been added to one another in this building.
 
 The man of the north row with the cough did the top of the low field gate alone from the third hour, and the bar came off its pin stiff and he worked it back and forth about nine times before it would turn, and he did not put oil on it and he did not call anybody in to watch him do it. The four ruled lines under his condition are as empty as they have ever been and nobody in this holding has asked him to hold an end of anything.
 
@@ -74,7 +74,7 @@ The man with the slate came back into this building at about the ninth hour and 
 
 Nobody in this yard asked him where he had been since and nobody is going to. The slate has a chalk mark on the back of it and the chalk mark is not a figure, and no figure has ever been copied off the front of it into any of the four books in this building.
 
-The old man with a stick was still on the north wall at the seventh hour when the two men read the boards, and he said one word out loud to nobody and it was the word for the number that had just been said, and nobody in that yard asked him how he knew it and he did not say and nobody in this building is going to ask him.
+He was still on the north wall at the seventh hour when the two men read the boards, and he said one word out loud to nobody, and the word was the one for the number that had just been said. Nobody in that yard asked him how he knew it, he did not say, and nobody in this building is going to ask him.
 
 There was no rain in the night and the frost stayed in the ground all morning. The middle road took nothing and gave nothing back, the north end of the ditch is running full, and the trough at the head of the four-mile road was full by the seventh hour and stayed inside its own lip.
 

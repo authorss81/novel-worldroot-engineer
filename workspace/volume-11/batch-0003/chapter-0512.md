@@ -2,7 +2,7 @@
 
 ## Six People And A Duty Being Done
 
-The third line of the rota came round at the second hour and was worked, and it was the two culverts on the middle road with the fill behind them and the low field gate, and four people were on it from the second hour until the fifth. The fill had gone out about half an inch in the night where the frost took it and the two of them put it back and went over it twice, and the gate wanted a bar and a stone and took the nine minutes it always takes.
+Four people went out on the third line of the rota at the second hour and stayed on it until the fifth. The work is the two culverts on the middle road, the fill behind them, and the low field gate at the end of it, and the night had taken about half an inch out of that fill where the frost got into it, so the two of them put it back and went over the same ground a second time. The gate wanted a bar and a stone and it took the nine minutes it always takes.
 
 Marek went out of the gate at about the fifth hour with Soren Rill and the man with the slate and the woman of about thirty-eight of Marden, and it is about nine miles by the turn and they walked it, and the barrow did not go and the number of journeys that barrow has made is eleven and eleven is a floor. The woman of about thirty-eight of Marden carried her own book and a pencil and did not carry the seed schedule, because the seed schedule went nine miles last month in an oilskin satchel and came back in the same satchel and is the same sheet.
 
@@ -16,9 +16,9 @@ The six people in that building keep it. The man who keeps the gauges walks the 
 
 The two men on the wheel have their arms in it and they take the turns at it and one of them counted out loud and the other one did not, and they have the wheel moving and holding and stopping and starting again. Neither of them looked at the four people who came in through the great door at the seventh hour.
 
-**"That is a machine with a duty in it."** Soren Rill said it at the rail, about nine hundred yards in, with his hand flat on the stone of the coping. **"I have gone round about four counties looking for the thing that decides and I have been looking for a man with a name on a door, and there is a wheel and there are two men on it and one of them has counted out loud, and I am going to have to sit down somewhere."** He did not sit down. He took his hand off the coping and wiped it on his coat and said the rest of it to the tank nearest him and not to anybody. **"I am still not the officer of anything and I have not stopped saying so, and I would like it noticed that I said it before I said anything else."**
+**"That is a machine with a duty in it."** Soren Rill said it at the rail, about nine hundred yards in, with his hand flat on the stone of the coping. **"I have gone round four counties looking for the thing that decides and I have been looking for a man with a name on a door, and there is a wheel and there are two men on it and one of them has counted out loud, and I am going to have to sit down somewhere."** He did not sit down. He took his hand off the coping and wiped it on his coat and said the rest of it to the tank nearest him and not to anybody. **"I am still not the officer of anything and I have not stopped saying so, and I would like it noticed that I said it before I said anything else."**
 
-The page has one thing to say about the woman in that building before anything else is said about her. Every sheet that comes out of that door is correct about what is in it. The man who reads the schedule off the wall copies it out word for word. In eleven years nobody in four counties has found one figure in one paper out of that building that does not match the thing it was copied from, and this page says so here, before anybody in there opens their mouth.
+The page has one thing to say about the woman in that building before anything else is said about her. Every sheet that comes out of that door is correct about what is in it. The man who reads the schedule off the wall copies it out word for word. In eleven years nobody in four counties has found one figure in one paper out of that building that does not match the thing it was copied from, and this page says so here, before anybody in that room opens their mouth.
 
 Iona Vey was inside at the second wheel when they came through, and she was not standing in a doorway and she was not waiting for anybody.
 
@@ -30,13 +30,13 @@ The sixth came in at about the ninth hour and came back out of the other book, a
 
 **One thousand and twenty hundredweight.**
 
-Five under Wednesday, and the fall went onto the falls, and that is the two hundred and seventy-fifth figure of a run in which no number has ever been written down twice. Behind it the window this office keeps stands at a hundred and twenty-six mornings one way and a hundred and sixteen the other, and those two add to two hundred and forty-two, and neither end of that window has ever been set against the number printed over the other.
+Wednesday gave five back and the fall went onto the falls, and what is on the launder this morning is the two hundred and seventy-fifth figure of a run in which no number has ever been written down twice. The window this office keeps behind it reads a hundred and twenty-six mornings one way and a hundred and sixteen the other, and those two make two hundred and forty-two. The clerk copied both halves out separately and neither of them went near the number printed over the other, and he has never once been asked to.
 
 The four bodies of households stand at two hundred and seventy-three days on this morning's sheet, and the clause under them takes the two hundred and seventy-second of those mornings out of two hundred and seventy-fourth, and a man nine miles off had a hand on a gauge frame while both of those numbers were being written down.
 
-At the seventh hour the two men who read the boards read the pair to each other, and neither read the other's half. The run of mornings is **one hundred and eight mornings of one hundred and ninety-nine**, and the frame of it is of a month seven months back, and it is of a month seven months back on every morning from here to the end of this one and that is a thing that was said once and is not going to be said again in this holding.
+The two men who read the boards read the pair to each other at the seventh hour, and neither of them read the other's half, and that is the way the two of them have done it for four years. What went into the second book is **one hundred and eight mornings of one hundred and ninety-nine**, and the frame of it is of a month seven months back.
 
-The near board is at **six hundred and fifty-nine days** and the far one at **seven hundred and six**, forty-seven between them as ever, and the drawer behind the near one was not opened at any hour by anybody who was nine miles off.
+Six hundred and fifty-nine days on the near board and **seven hundred and six** on the far one, with forty-seven between them as ever, and the drawer behind the near board was not opened at any hour of that day by anybody who was nine miles off and has not been opened in four years.
 
 The man of about fifty had the third book shut on the long table all morning with his thumb in it and did not open it. He gave the reason before he said the thing, and the count of that in this holding's history is a hundred and fifty-six, and it is his and it is not in any of the four books.
 
@@ -74,6 +74,6 @@ The frost went out of the yard by noon and the yard was soft by the second hour 
 
 The man of about thirty-one of Silling was on the low field gate with a stone under his heel and would not let anybody take the other end of the bar. The second of the four lines in his own book is a hundred and sixty-three days old and it has nothing on it and he has not been asked about it in a hundred and sixty-three days.
 
-There was no panel of anything in this building and there is no panel in this holding and nobody in either place has ever printed one. A gauge with a needle on it is a gauge, and a man with a card and a cloth is a man doing a morning's work, and the two are not a thing that speaks.
+There was no panel of anything in this building and there is no panel in this holding and nobody in either place has ever printed one. A gauge with a needle on it is a gauge, and a man with a card and a cloth is a man doing a morning's work.
 
 Nobody thanked anybody. The clerk of this holding wrote the fifth in at the ninth hour and read it back once and did not read it back twice, and the register form is a hundred and sixty-nine days old on the middle table and is not filled and is not going to be read out a fifth time, and a man went nine miles and came back through a door that was open and a duty in a building is being done and done well and nobody in it is a monster.
