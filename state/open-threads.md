@@ -4162,3 +4162,13 @@ Thirty-five threads at day 654 and thirty-five after the repair pass, and the re
 **AND FIVE NAMED OPEN ITEMS ARE ADDED BY THIS PASS, NONE REPAIRED, AND THE COUNT IS NINETEEN.** Fifteen, the volume-level near-duplicate gate figure. Sixteen, the seven internal pairs, one in Batch 0001 and six in Batch 0002 and none in Batch 0003, each named by file, line and ratio in the findings file. Seventeen, the paired construction of the two fours at one hundred and sixteen. Eighteen, the four defensible readings of the literal clause, at eighty-nine, ninety-one, ninety-one and ninety-four. Nineteen, the tell no script returns: twenty-eight of the forty-nine chapters end on a paragraph opening with *Nobody*, only eight different words open the last prose paragraph across the volume, and the house gate returns zero on all forty-nine of them.
 
 **NONE OF THE NINETEEN IS A THREAD. NONE OF THEM ANSWERS ONE. NONE OF THEM IS PAID HERE, BECAUSE A CLOSE MAY NOT ALTER ONE WORD OF A CLOSED CHAPTER, AND NONE IS DROPPED, BECAUSE AN ITEM THAT IS NOT NAMED HAS BEEN DROPPED.**
+
+# VOLUME 10 CLOSE, FOURTH PASS, REVIEW REPAIR — THE THIRTY-FIVE AT DAY 713, AND IT GOVERNS OVER EVERY SECTION OF THIS FILE ABOVE IT
+
+**THIS SECTION IS AT THE FOOT AND IT GOVERNS OVER EVERY SECTION OF THIS FILE ABOVE IT ON EVERY MATTER IT NAMES. NOTHING ABOVE IT IS DELETED. NO CHAPTER WAS ALTERED AND NO THREAD MOVED. THE FULL RECORD IS `reviews/volume-10-close-fourth-pass-repair.findings.md`.**
+
+**THE THIRTY-FIVE ARE THIRTY-FIVE AND THIS REPAIR DID NOT COUNT THEM, DID NOT TALLY THEM, DID NOT ANSWER ONE, AND DID NOT ADD ONE. NO CHAPTER OF THE REPAIR TOUCHED A THREAD, AND A REPAIR TO THE STATE LAYER AND THE PROMPT QUEUE IS NOT A BATCH AND HAS NO AUTHORITY OVER A QUESTION.**
+
+**THE HEAD OF `state/current.md` NOW NAMES THIS FILE'S FOOT AS THE GOVERNING RECORD FOR THE THIRTY-FIVE, AND THE PRECEDENCE RULING AT THE FOOT OF `state/continuity.md` GOVERNS ALL THREE APPEND-ONLY FILES: LATER DATES GOVERN, AND AT AN EVEN DATE THE FOOT GOVERNS, AND A HEAD BLOCK IS AN INDEX. THE FOURTEEN OPEN ITEMS AND THE NINETEEN ARE ONE COUNT AND NOT TWO, BEING ELEVEN IN `reviews/volume-10.findings.md` SECTION 10, THREE ADDED BY THE CLOSE VERIFICATION PASS AND FIVE ADDED BY THE CLOSE FOURTH PASS.**
+
+**AND THE ONE FIGURE IN THIS FILE THAT GOVERNS THE NEXT BATCH IS THE READING ORDER: `state/open-threads.md` IS 1,132,871 BYTES IN 4,164 LINES AND IS READ WITH `tail -n 60` AND NEVER WHOLE.**
