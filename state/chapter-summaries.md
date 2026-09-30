@@ -2198,3 +2198,39 @@ Pump house and frame, four minutes and three, an inch of black in the seam. **Th
 **AND ONE DISAGREEMENT RESOLVED IN THE PAGE'S FAVOUR AND RECORDED SO NOBODY REOPENS IT. The cards for Ch 493 and Ch 497 say the fourth line is worked and the pages say it went past unworked for the seventy-seventh and seventy-eighth morning running. THE PAGES ARE RIGHT: the plan's own Movement 4 payoff works the line for the first time in four years on day 738, which presupposes it is not worked on the other eleven, and `chapter-0497.md:9` states the distinction the card blurs. THE CARDS ARE LOOSE.**
 
 ## THE THIRTY-FIVE ARE THIRTY-FIVE AND NONE OF THESE TEN CHAPTERS ANSWERED ONE
+
+# VOLUME 10 CLOSE, THE FOURTH PASS ON IT — THE MEASURED RECORD OF FORTY-NINE CHAPTERS AGAIN, AND IT GOVERNS OVER EVERY SECTION OF THIS FILE ABOVE IT
+
+**THIS SECTION IS AT THE FOOT AND IT GOVERNS OVER EVERY SECTION ABOVE IT ON EVERY MATTER IT NAMES. NOTHING ABOVE IT IS DELETED. THE VOLUME 11 SECTION ABOVE IT STANDS. THE FULL RECORD IS `reviews/volume-10-close-fourth-pass.findings.md`. NO CHAPTER SUMMARY IS REWRITTEN BY THIS PASS AND NO CHAPTER IS ALTERED.**
+
+**THE MEASURED RECORD OF VOLUME 10, EVERY FIGURE RE-DERIVED FROM THE CHAPTER FILES.**
+
+**LENGTH, `wc -w` INCLUDING THE HEADINGS, SUMMED PER FILE AND NEVER BY CONCATENATION.** Batch 0001 **28,600**; Batch 0002 **28,535**; Batch 0003 **28,700**; Batch 0004 **28,725**; Batch 0005 **26,663**. **Volume 10 is 141,223 across forty-nine chapters with no residual.** The band of 138,000 to 145,000 that `outline/volume-10.md` carried for the whole volume was a projection and is now a measurement, and it held. **At day 703 the manuscript is 1,446,779 across 490 chapter files, being 1,163,898 across the 392 closed chapters plus 141,658 across Volume 09 plus 141,223 across these forty-nine.** The files on disk at the hour of this pass are 500 and 1,475,359, being day 703 plus the ten chapters of Volume 11 Batch 0001 at 28,580, and that is a measurement of this hour and not a replacement for the figure the ending lock is built on. **`cat` over the forty-nine gives 141,220, three words short, because `chapter-0442.md`, `chapter-0443.md` and `chapter-0449.md` do not end in a newline.**
+
+**THE BAND OF 2,600 TO 3,050 A CHAPTER.** Forty-eight of forty-nine are inside it. `chapter-0444.md` is **3,055**, five words over the ceiling, and is the only chapter outside it. The band is not widened, not narrowed and not re-based, and the chapter is not repaired.
+
+**THE APPARATUS.** `> Entered` in the mixed case, **seven**; `> ENTERED` in capitals, **two**, at `chapter-0444.md` and `chapter-0451.md`; `>` blocks of every kind, **twenty-one**, in seventeen chapters, four of which carry two. A script following `outline/volume-10.md` § 11 exactly returns seven against nine on the page, and that measurement is reported as wrong and the chapters are untouched.
+
+**THE THIRD-LAUNDER ROW.** Day minus four hundred and fifty off 920 on day 654, at plus eight on every even morning and minus five on every odd one. **49 of 49 on the page.** 915 to 992, all distinct, no reset at either month turn, 987 at day 703.
+
+**THE WINDOW AND ITS SPLIT.** Day minus four hundred and eighty-three, 172 to 220. The two halves add to the window on **49 of 49** and both are on the page on **49 of 49**. The total is in correct wording on **40 of 49** and the arithmetic is correct on **49 of 49**.
+
+**THE AGGREGATE OF THE FOUR BODIES OF HOUSEHOLDS.** Day minus four hundred and fifty-two, with its clause at day minus four hundred and fifty-three inside day minus four hundred and fifty-one. **49 of 49, 49 of 49 and 49 of 49.** It is a different aggregate from the four launders and the two are never added.
+
+**THE DAY-MINUS PAIR.** **48 of 49.** The one failure is `chapter-0479.md:11`, which prints six hundred and sixty-three where the rule gives six hundred and seventy-three, and whose own *forty-seven apart* is thirty-seven.
+
+**THE READ-ALOUD RUN.** `(day - 509) / 2` of `day - 526`, on the twenty-five odd mornings and on no even one. **25 of 25, and 0 of 24 even mornings carry a figure.** 73 of 129 at day 655 to 97 of 177 at day 703. The frame changes on day 661 and on day 691 and both changes are on the page.
+
+**THE NINTH-DAY RETURNS.** Five on the page: 393, 404, 426, 437 and 448, the forty-first to the forty-fifth, and the count of blanks runs twenty-five to twenty-nine. The forty-third return at 415 on day 676 that `outline/volume-10.md` lists is not on any page.
+
+**THE TWELVE FOURTH-LINE MORNINGS.** Days 658, 662, 666, 670, 674, 678, 682, 686, 690, 694, 698 and 702, all congruent to two modulo four, all on the page. The two reckonings run fifty and thirty-seven at the last with a gap of thirteen.
+
+**THE SEVENTH COLUMN OF THE WELL HOUSE DOOR** ends at **sixty** on day 702, and the figure is on the door and nowhere else. **The compost line** ends **PAID at twenty-four** after three falls, on days 661, 691 and 696.
+
+**THE NEAR-DUPLICATE GATE, HOUSE SCRIPT, ALL FORTY-NINE CHAPTERS, 1,877 PARAGRAPHS: RUN 1 FIFTY-FOUR, RUN 2 FIFTY-FOUR, NO PRE-FILTER, `str.split()`, DETERMINISTIC AND RUN TWICE. FORTY-SEVEN CROSS A BATCH BOUNDARY AND SEVEN ARE INTERNAL, ONE IN BATCH 0001 AND SIX IN BATCH 0002 AND NONE IN BATCH 0003. THE FIGURES NINETY AND NINETY-TWO, THE FIGURE FIFTEEN, AND THE BREAKDOWN 76, 8, 1, 2 AND 7 ARE WITHDRAWN AND NAMED.**
+
+**THE TWO FOURS, MEASURED BY HAND UNDER BOTH UNITS. PAIRED CONSTRUCTION: 84, 12, 4, 6, 10, TOTAL ONE HUNDRED AND SIXTEEN. LITERAL CLAUSE UNDER FOUR DEFENSIBLE READINGS: 89, 91, 91 AND 94, ALL FOUR DIFFERENCES INSIDE BATCH 0001. THE UNIT IS RULED TO BE THE PAIRED CONSTRUCTION AND THE RULING IS ON THE CAP AND THE UNIT AND ON NOTHING ELSE.**
+
+**THE MECHANICAL SWEEP.** Zero non-ASCII glyphs, zero curly quotation marks, zero curly apostrophes, zero em dashes, zero en dashes, zero tabs, zero trailing whitespace. **Three files lack an EOF newline. Eight sites of more than one consecutive blank line stand in seven chapters, four of them in Batch 0003, and none of the eight moves a figure.**
+
+**THE THIRTY-FIVE THREADS ARE THIRTY-FIVE AND NONE IS ANSWERED, AND THE FOUR PERMANENT LOSSES AND THE TWO FIGURES NO PASS MAY REDUCE ARE UNMOVED AT DAY 703.**
