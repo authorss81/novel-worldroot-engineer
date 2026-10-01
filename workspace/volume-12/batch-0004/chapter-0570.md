@@ -2,13 +2,13 @@
 
 ## Three Hundred On A Wall, And A Woman Four Miles Off Looking At A Hinge
 
-The wind came off the water before there was any light in it, and the first line of the rota came round at the second hour and was worked, which is the pump house and the frame, and the frame went down about five minutes and up about three, and the standpipe was running full by the fourth hour and stayed inside its own lip.
+Before there was any light in the sky the wind came off the water, and at the second hour the first line of the rota came round and was worked, which is the pump house and the frame: the frame went down about five minutes and came up about three, and by the fourth hour the standpipe was running full and stayed inside its own lip.
 
 The clerk of this holding had the launder figure in the second book before the light came and read it back once at the ninth hour and stopped there.
 
 **One thousand and one hundred and seven hundredweight.**
 
-Five came off it on Friday, and the three hundred and thirty-third figure of a run in which nothing has ever been entered twice stands against the launder this morning.
+Friday took five off it, so that what the launder carries this morning is the three hundred and thirty-third figure of a run that has never had the same one in it twice.
 
 At seven the two men at the long wall read the halves out of one another, and the rising one said a hundred and fifty-five mornings and the other said the falling one back to him at a hundred and forty-five mornings, and neither of them added anything, and the two of them came to three hundred.
 
@@ -100,9 +100,9 @@ About the eleventh hour the use log went back onto its shelf under its own weigh
 
 Seven sessions are entered in this holding's book and no eighth was entered this morning. A woman walking four miles to look at a hinge is not a session and a gate being shut by one man is not a session.
 
-Six rows are ruled for the things this holding does not know about and no unit has ever been written against any of them. A quarter of an inch off a hole is not a seventh and the seventh row is not ruled.
+The clerk counted the six ruled rows in this holding's book at about the eleventh hour and closed it again without a unit written against any of them, because a quarter of an inch out of true on one gate hole does not make a seventh, and the seventh row is not ruled.
 
-The requests column is at fifty-three and the section-nine notes are at fifty-three and neither of them took anything this morning, and the letter went into neither of them and will go into neither of them.
+Both of the clerk's tallies stood where they have stood all month, the requests column at fifty-three and the section-nine notes at fifty-three, and neither one took anything this morning. The letter went into neither of them and will go into neither of them.
 
 There is a form on the middle table two hundred and twenty-seven days into its stay, with a column headed nothing and nothing written in it. The charter behind it went through a door nine miles off a hundred and thirty-three days ago, three of the four bodies of households in that room are still drawing on a machine for stored light, and the fourth has sent a person to a tap twice in a fortnight.
 

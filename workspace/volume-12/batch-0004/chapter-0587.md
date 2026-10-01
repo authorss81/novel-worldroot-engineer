@@ -8,7 +8,7 @@ The clerk of this holding wrote the figure before the light and read it back onc
 
 **One thousand and one hundred and thirty-nine hundredweight.**
 
-Monday came up eight off Sunday and the three hundred and fiftieth figure of a run in which nothing has ever been entered twice is what stands against the launder this morning.
+Monday came up eight off Sunday, and what stands against the launder this morning is the three hundred and fiftieth figure of a run in which nothing has ever been entered twice.
 
 The two halves at the long wall were a hundred and sixty-four mornings one way and a hundred and fifty-three the other, and the two of them came to three hundred and seventeen, and the man who said the rising half said the total and the man who said the falling half wrote it on the back of his own hand with a pencil and put the hand in his pocket without looking at it.
 
@@ -54,7 +54,7 @@ He turned the sleeve back over his forearm and stood there.
 
 **"A run of numbers is not a season and a season is not a harvest and a harvest is not an answer, and I have got a piece of paper on a table in this room with a date at the foot of it, and the only honest thing I can say about all three of those things today is that I do not know which one of them is going to matter in the spring."**
 
-Against the four bodies of households the sheet in this yard has three hundred and forty-eight days on it, the clause taking three hundred and forty-seventh of those mornings out of three hundred and forty-ninth, one under and one over as it has been at every site.
+The sheet in this yard carries three hundred and forty-eight days against the four bodies of households, its clause taking three hundred and forty-seventh of those mornings out of three hundred and forty-ninth, one under and one over as it has been at every site.
 
 The near board says seven hundred and thirty-four and the far board says seven hundred and eighty-one, forty-seven days between them, and the man of about fifty read them from the bench where he was sitting without getting up, because he has read those two numbers every morning for nine years from that bench, and the drawer behind the near board stood shut at every hour of this morning.
 
@@ -66,7 +66,7 @@ None of the three has been filled and none of the three has been refused and thi
 
 Paid goes in front of twenty-eight on the compost line and it is not discharged in twenty-eight, and the interval that moved it was not set by anybody in this holding. On the board in the one room the second rule is cut the same length as the first and stands empty, and the count of blanks on that board is thirty-nine, and nobody has written in the margin of the page where they are counted.
 
-Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them, and three announcements made in a yard this morning by three people who asked for nothing are not a seventh and the seventh row is not ruled.
+Nothing has ever been written against any of the six rows this holding rules for what it does not know about, and three people who asked for nothing in this yard this morning are not a seventh, and the seventh row is not ruled.
 
 Seven sessions are entered in this holding's book and there was no eighth this morning. The use log has fifteen lines in it and there is no sixteenth, and the barrow's journeys stand at eleven and eleven is a floor and it is not going to be twelve before the month turns.
 

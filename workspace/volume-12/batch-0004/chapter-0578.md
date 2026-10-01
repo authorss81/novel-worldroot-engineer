@@ -8,11 +8,11 @@ The clerk of this holding wrote the figure before the light and read it back onc
 
 **One thousand and one hundred and nineteen hundredweight.**
 
-Saturday came off Friday by five, and what stands against the launder this morning is the three hundred and forty-first figure of a run in which nothing has ever been entered twice.
+Six is what Saturday came off Friday by, and the three hundred and forty-first figure of a run in which nothing has ever been entered twice is what stands against the launder this morning.
 
 At the long wall the rising half stood at a hundred and fifty-nine mornings and the falling half at a hundred and forty-nine, and the two of them came to three hundred and eight, and the man who said the falling half wrote it on the back of his own hand with a pencil and put the hand in his pocket.
 
-The run of mornings was read at the seventh hour out of the second book under the heading where it goes, of a month nine months back, and a Saturday is an odd morning and that run is read on odd mornings and the heading has not moved since the first of this month.
+A Saturday is an odd morning and that run is read on the mornings that are odd, so it came out of the second book at the seventh hour under its own heading of a month nine months back, and that heading has not moved since the first of this month.
 
 **One hundred and forty-one mornings of two hundred and sixty-five.**
 
@@ -70,7 +70,7 @@ The second of the four ruled lines in the man of about thirty-one of Silling's o
 
 Paid is the word in front of twenty-seven on the compost line and it is not discharged in twenty-seven, and it moves once more inside this month on an interval that nobody in this holding has ever been asked about and nobody in this holding could move if they tried.
 
-Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them, and a council of about nineteen households that wrote nothing is not a seventh and the seventh row is not ruled.
+Nobody has ever written a unit against any of the six rows this holding rules for what it does not know about, and a council of about nineteen households that wrote nothing is not a seventh, and the seventh row is not ruled.
 
 Seven sessions are entered in this holding's book. A piece of paper being unfolded is not a session and nothing was unfolded this morning, and there was no eighth entry.
 

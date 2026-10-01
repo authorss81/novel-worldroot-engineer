@@ -16,7 +16,7 @@ He put his finger on the twenty-nine and left it there for a second.
 
 **"Nobody in this holding is to blame for a field that has been waiting four years, and the day somebody is to blame for it is the day one of us has been given the field."**
 
-The launder figure went in at the first hour and came back out of the second book at the ninth, and Friday came up eight off Thursday, and the standing is the three hundred and fortieth figure of a run in which nothing has been entered twice.
+The launder figure went into the second book at the first hour and was read back out of it at the ninth, Friday having come up eight off Thursday, and what stands against it is the three hundred and fortieth figure of a run in which nothing has ever been entered twice.
 
 **One thousand and one hundred and twenty-four hundredweight.**
 
@@ -82,7 +82,7 @@ The charter behind it is a hundred and forty days old and went through a door ni
 
 Paid goes in front of twenty-seven on the compost line and it is not discharged in twenty-seven, and the next time that figure moves it will move because an interval arrived and not because anybody in this holding has anything to do with it.
 
-Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them, and a day and a half of dry standpipe is not a seventh and the seventh row is not ruled.
+Every one of the six rows this holding rules for what it does not know about is still bare of any unit, and a day and a half of dry standpipe is not a seventh, and the seventh row is not ruled.
 
 The book of this holding still shows seven sessions entered, and nothing this morning made an eighth. Fifty-three requests and fifty-three section-nine notes, neither of them moved, and the letter went into neither.
 

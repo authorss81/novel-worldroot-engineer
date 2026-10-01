@@ -8,7 +8,7 @@ The clerk of this holding had the figure in the second book before the light and
 
 **One thousand and one hundred and twenty-five hundredweight.**
 
-Five came back off it on Wednesday, and the three hundred and forty-fifth figure of a run in which nothing has ever been entered twice is the figure that stands against the launder.
+Five came back off it on Wednesday, and what stands against the launder is the three hundred and forty-fifth figure of a run in which nothing has ever been entered twice.
 
 At seven the rising half of the window was a hundred and sixty-one mornings and the falling half a hundred and fifty-one, and the two came to three hundred and twelve, and the man who said the falling half had come in late and did not say the total and the other one said it for him.
 
@@ -76,7 +76,7 @@ A paid line fell behind the one room this morning on an interval and nine people
 
 The rule in the board in the one room that is cut the same length as the one above it stands empty and the count of blanks on that board is thirty-nine and it is thirty-nine because the count goes on the return and not on the day.
 
-Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them, and a paid line falling on an interval is not a seventh and the seventh row is not ruled.
+Not one of the six rows ruled here for what this holding does not know about has ever had a unit written against it, and a paid line falling on an interval is not a seventh, and the seventh row is not ruled.
 
 A figure that moves in a ledger is not a session, and a paid line that fell on an interval this morning is not one either. The book shows seven sessions and no eighth, fifty-three requests and fifty-three section-nine notes are where they were, and the letter is in neither.
 

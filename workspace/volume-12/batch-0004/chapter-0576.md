@@ -34,7 +34,7 @@ The woman of about thirty-eight of Marden was at the tap with a can in each hand
 
 He went back to the dial and did not look up.
 
-**"That is all of what I have got and I am not going to say the next part, and I would like it noticed that I did not say the next part, because in about four years somebody in this county is going to want a sentence about that dial and the next part is the one they will want."**
+**"That is all of what I have got and I am not going to say the next part, and I would like it noticed that I did not say the next part, because in four years or so somebody in this county is going to want a sentence about that dial and the next part is the one they will want."**
 
 She said that she had noticed and she did not ask him for the next part, and she wrote nothing down, and the can she was holding went down onto the step while she was not looking and she did not say sorry for it to anybody.
 
@@ -54,7 +54,7 @@ He went back in and the door stayed open behind him.
 
 Harlan Vetch was at the north wall from the fourth hour and worked it until the light went, and he came past the standpipe at about the sixth hour of the afternoon and stopped for a moment and looked at the needle and did not say anything to the man with the case about it, and the man with the case did not say anything to him either.
 
-There are three hundred and thirty-seven days against the four bodies of households on the sheet in this building. Under that figure the clause goes one under and one over, three hundred and thirty-sixth of those mornings out of three hundred and thirty-eighth.
+The sheet in this building carries three hundred and thirty-seven days against the four bodies of households, and the clause under that figure goes one under and one over, three hundred and thirty-sixth of those mornings out of three hundred and thirty-eighth.
 
 Seven hundred and twenty-three is on the near board of the long wall and seven hundred and seventy is on the far board, and a man in a leather case who has kept a dial for nineteen years walked past both of them at about the sixth hour and did not look at either, and nobody in that yard asked him to. The drawer behind the near board stood shut at every hour of this morning.
 
@@ -88,4 +88,4 @@ The dial, and a door nine hundred yards off with seven columns cut in the stone 
 
 Dial with a needle on it and a hole where the water goes in, and a man who said no out loud before anybody asked him, and a gate walking open in the wet exactly as it was told it would, and nobody thanked anybody.
 
-> A DIAL AT A STANDPIPE NINE MILES OFF ANY BUILDING, ENTERED BY THE CLERK OF THIS HOLDING AT THE NINTH HOUR IN HIS OWN HAND AS ONE UNBROKEN LINE, AND NOTHING ELSE ENTERED: **THE MAN WHO KEEPS IT HAS KEPT IT NINETEEN YEARS IN THE SPRING AND ABOUT FOUR MONTHS OFF IN THE WINTER, AND HE WAS ASKED BY A WOMAN IN THIS YARD HOW LONG HE HAD KEPT IT AND HE GAVE HER THAT AND REFUSED HER THE REST OF IT BEFORE SHE HAD ASKED FOR THE REST OF IT. HE SAID OUT LOUD THAT IN ABOUT FOUR YEARS SOMEBODY IN THIS COUNTY IS GOING TO WANT A SENTENCE ABOUT THAT DIAL AND THAT THE SENTENCE THEY ARE GOING TO WANT IS THE ONE HE DID NOT SAY. NO FIGURE OF THE YEARS HE HAS KEPT IT IS WRITTEN IN ANY OF THE FOUR BOOKS IN THIS HOLDING AND NO COLUMN HAS BEEN RULED FOR IT.** This is a fact of a tap, a yard and a book on one morning and it is not a forecast and it is not a cause and it is not a total.
+> A DIAL AT A STANDPIPE NINE MILES OFF ANY BUILDING, ENTERED BY THE CLERK OF THIS HOLDING AT THE NINTH HOUR IN HIS OWN HAND AS ONE UNBROKEN LINE, AND NOTHING ELSE ENTERED: **THE MAN WHO KEEPS IT HAS KEPT IT NINETEEN YEARS IN THE SPRING AND FOUR MONTHS OFF IN THE WINTER, AND HE WAS ASKED BY A WOMAN IN THIS YARD HOW LONG HE HAD KEPT IT AND HE GAVE HER THAT AND REFUSED HER THE REST OF IT BEFORE SHE HAD ASKED FOR THE REST OF IT. HE SAID OUT LOUD THAT IN FOUR YEARS OR SO SOMEBODY IN THIS COUNTY IS GOING TO WANT A SENTENCE ABOUT THAT DIAL AND THAT THE SENTENCE THEY ARE GOING TO WANT IS THE ONE HE DID NOT SAY. NO FIGURE OF THE YEARS HE HAS KEPT IT IS WRITTEN IN ANY OF THE FOUR BOOKS IN THIS HOLDING AND NO COLUMN HAS BEEN RULED FOR IT.** This is a fact of a tap, a yard and a book on one morning and it is not a forecast and it is not a cause and it is not a total.

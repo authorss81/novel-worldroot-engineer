@@ -20,7 +20,7 @@ He went back to the second book and read the launder figure back once at the nin
 
 **One thousand and one hundred and thirty-six hundredweight.**
 
-Saturday put eight on it, and the three hundred and forty-eighth figure of a run in which nothing has ever been entered twice is what stands against the launder this morning.
+Saturday put eight onto Friday, and the three hundred and forty-eighth figure of a run in which nothing has ever been entered twice is what stands against the launder this morning.
 
 The two halves at the long wall were a hundred and sixty-three mornings one way and a hundred and fifty-two the other, and the two of them came to three hundred and fifteen, and neither of the two men said the total out loud this morning and it is on the board in chalk from about six o'clock.
 
@@ -48,7 +48,7 @@ She looked at the gate and not at the table.
 
 She went out through the first gate and the man of about fifty was at the gate and did not say anything to her about it.
 
-Marek was in the one room from the fifth hour with the door open and had the whole of the bank and the whole of the three sheets through the gap in it, and came out at about the tenth hour and stood in the yard in the ice with his sleeve down over his forearm.
+Marek had the bank and all three sheets through the gap in the open door of the one room from the fifth hour, and came out into the yard at about the tenth hour and stood in the ice with his sleeve down over his forearm.
 
 **"Three sheets are on a table in this yard and nobody in this holding has been asked to choose anything this month, and I want the second of those two facts to be the harder one in four years rather than the easier one."**
 
@@ -64,7 +64,7 @@ Four people came down off the bank behind him and went out through the first gat
 
 **"The ground on that low field is going to keep doing what it is doing nine different ways while somebody four counties off works out a number that fits all of it, and there is no instrument in four counties that can tell her she is wrong before she has to stand in front of the people she is going to abandon."**
 
-There are three hundred and forty-six days against the four bodies of households on the sheet in this yard, and the clause is one under and one over, taking three hundred and forty-fifth of those mornings out of three hundred and forty-seventh.
+Three hundred and forty-six days is what the sheet in this yard carries against the four bodies of households, and its clause is one under and one over, taking three hundred and forty-fifth of those mornings out of three hundred and forty-seventh.
 
 Four people on a bank in the dark and a hundred and twenty-six mornings in force. On the long wall the near board reads seven hundred and thirty-two days and the far board reads seven hundred and seventy-nine days, forty-seven between them.
 
@@ -78,7 +78,7 @@ Four hundred yards of boundary stone went up a bank in the dark this morning and
 
 Twenty-eight is on the compost line with paid in front of it, and it is not discharged in twenty-eight. The rule in the board in the one room stands empty, thirty-nine blanks are counted on that board, and nobody in this holding has written anything in the margin of the page where they are counted.
 
-Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them, and three sheets of paper about a district are not a seventh and the seventh row is not ruled.
+Six rows are ruled in this building for what this holding does not know about and no unit has ever gone against any of them, and three sheets of paper about a district are not a seventh, and the seventh row is not ruled.
 
 This holding's book shows seven sessions entered and nothing this morning made an eighth. Fifty-three requests, fifty-three section-nine notes, and not one of the three sheets on the long table went into either of them.
 

@@ -8,7 +8,7 @@ The clerk of this holding wrote the figure at the first hour and read it back on
 
 **One thousand and one hundred and thirty-one hundredweight.**
 
-Five came off it on Sunday, and the three hundred and forty-ninth figure of a run in which nothing has ever been entered twice is what stands against the launder this morning.
+Sunday took five off Saturday, and what stands against the launder this morning is the three hundred and forty-ninth figure of a run in which nothing has ever been entered twice.
 
 At the long wall the rising half was a hundred and sixty-three mornings and the falling half a hundred and fifty-three, and the two of them came to three hundred and sixteen, and the man who said the falling half had the total out before the other one had finished saying his.
 
@@ -84,7 +84,7 @@ A woman stood in this yard this morning and told this holding exactly what can b
 
 The compost line stands at twenty-eight and paid goes in front of it, not discharged in twenty-eight. The rule in the board in the one room stands empty and the count of blanks on that board is thirty-nine, and there is no margin on the page where they are counted.
 
-Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them, and a seal in the corner of a piece of paper is not a seventh and the seventh row is not ruled.
+Six rows are ruled here for what this holding does not know about and nothing has ever been written against any of them, and a seal in the corner of a piece of paper is not a seventh, and the seventh row is not ruled.
 
 Nothing this morning made an eighth session in this holding's book. Fifteen lines are in the use log and no sixteenth, and the barrow is still against the same wall a man put it beside a fortnight ago with its eleven journeys, and eleven is a floor.
 
