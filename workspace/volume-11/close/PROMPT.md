@@ -1,3 +1,22 @@
+# SCOPE OF THIS RUN - READ FIRST
+
+
+
+1. **Write the chapters.** The chapters this phase is for, in ascending order. Start with the first one in your very
+   first action: create that chapter file before doing anything else.
+2. **Do not attempt any close, audit, or planning duty** listed below. Those
+   belong to later phases. Ignoring them is required; attempting them fails this
+   run.
+3. **Do not create a next-phase prompt.** The pipeline creates it.
+4. **Update only the state files** these chapters require, and nothing else.
+
+Every rule below still binds the prose you write. But if a rule cannot be
+satisfied inside this run's chapters, write the chapters anyway and record the
+unmet rule in `state/open-threads.md` for a later phase.
+
+**Producing finished chapters is the success condition for this run. Returning
+without writing any chapter is a failure.**
+
 # Volume 11 Close
 
 **THIS IS THE ONLY INCOMPLETE WORK IN THE REPOSITORY AND IT IS NOT OPTIONAL AND IT IS NOT ASSUMED. Volume 11 is forty-nine chapters on disk and closed as prose. `workspace/volume-11/batch-0001/` through `batch-0005/` carry all forty-nine finished chapters, their summaries, their state records and their apparatus. This phase does not write prose, has no chapter, has no card and has no scene, and a close that improves a sentence it liked is a close that has become a repair pass. YOU MAY NOT ALTER A SINGLE WORD OF ANY OF THE FORTY-NINE CHAPTERS IN THIS PHASE. YOU MAY REPORT A DEFECT IN A CHAPTER AND YOU MAY NOT REPAIR IT HERE. THE ONE EXCEPTION, AND IT IS THE SAME NARROW EXCEPTION THE VOLUME 07, 08, 09 AND 10 CLOSES WERE GIVEN, IS THIS: YOU MAY REPAIR THE STATE LAYER AND YOU MAY WRITE THE VOLUME 11 ENDING LOCK INTO `outline/ending.md`, BECAUSE THE ENDING FILE IS A GOVERNING PLAN AND A COMPLETED BATCH'S PROMPT IS A RECORD OF WHAT THAT WRITER WAS TOLD. YOU MAY NOT REPAIR A CHAPTER. DO NOT LOOK FOR A LOOPHOLE IN THIS RULE BECAUSE A FINDING IS ANNOYING. WHERE A CHAPTER DEFECT LEAVES A MEASUREMENT WRONG, THE WRONG MEASUREMENT IS REPORTED AS WRONG AND THE DEFECT IS CARRIED AS A NAMED OPEN ITEM, IN THAT ORDER AND NEVER THE OTHER WAY ROUND.**
