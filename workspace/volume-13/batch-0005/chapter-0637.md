@@ -30,17 +30,19 @@ The three ages were read in the one room at eleven by two people, one figure eac
 
 **"Two hundred and ninety-four days on the register form,"** the man of about fifty said, **"and I have got it off the date and not out of a man, which is where I have got two hundred and ninety since Friday."**
 
-**"A hundred and ninety-nine on the charter behind it,"** the clerk said, **"and I have been saying that one out loud since before you were in this yard and I have never once got it wrong."**
+**"Two hundred on the charter behind it,"** the clerk said, **"and I have been saying that one out loud since before you were in this yard and I have never once got it wrong, and it has never once been a round number before."**
+
+He turned the charter round and put it back into the rack behind the form, and squared the edge of it with the side of his hand, and then did not say anything for long enough that the man of about fifty looked up at him.
 
 **"And two hundred and eighty-eight,"** the clerk said, **"on the second ruled line in Silling's own book, and that one I am not going to say to the room. I am going to put my hand on it."**
 
 He put two fingers flat on the shelf to the left of the line and left them there for as long as it takes a man to be sure that a room has heard nothing, and the room heard nothing, and he took his hand away.
 
-**"Three of them in one morning for the first time in four years and the third of them is a man touching a shelf,"** Sennik Vaul said.
+**"Three of them settled in one morning, and the third of them settled by a hand and not by a mouth,"** Sennik Vaul said.
 
-**"The third of them has been a man touching a shelf on and off for two years and this is simply the morning it got said out loud,"** the clerk said.
+**"Three times in four years,"** the clerk said. **"Monday, and Friday, and this morning, and I did not know it was three until you said it in front of people, and I am not going to say the figure now either, and that is the whole of why my hand went on that shelf."**
 
-Renn Ashby was in the doorway at the seventh hour with the book shut under his arm and did not open it, and gave the reason himself, in his own words, which he has now done on six mornings out of the seven this week, on no two of them in the same order.
+Renn Ashby was in the doorway at the seventh hour with the book shut under his arm and did not open it, and gave the reason himself, in his own words, and it was the fifth time the yard had been given that reason since Monday and the fifth man to stand there and give it, and no two of the five had given it in the same order.
 
 **"It goes up at the seventh hour on the odd mornings and this is an even morning and the pair is not mine this morning and it will not be mine tomorrow either, and there is a woman standing in this yard who has been turning down every kind of job offered to her all week on the grounds that she has not got time, and I am not going to be the last man in this holding who was asked to take something and said yes for the wrong reason."**
 
@@ -54,7 +56,7 @@ The man of about seventy was not fetched and nothing was put to him at any site.
 
 Nobody climbed the ladder and nothing has ever been written against either of the two people who belong to it. The offer on the low board has no day on it, has not been touched, has not been taken up and has not been taken back. At the top of the low field the ring of bare ground has never been measured, paced or pegged, and nothing that came up on that field has ever been added to it.
 
-Four ruled lines under two words are bare. A column on the terms sheet was ruled under a heading and the heading has never been improved and there is nothing under it. Inside the tool house a mark on the wall measures four inches, forks once into two forks, and has not acquired a third mark in four years. Six rows stand ruled against what this holding does not know, and no seventh was cut for the covenant, the machine, the schedule or the confession.
+Four ruled lines under two words are bare. A column on the terms sheet was ruled under a heading and the heading has never been improved and there is nothing under it. Inside the tool house a mark on the wall measures four inches, forks once into two forks, and has not acquired a third mark in four years. Six rows stand ruled against what this holding does not know, and no seventh has been cut for any of the four, and this morning nobody stood up in a yard and said the four of them out loud again.
 
 The tap ran all morning. The standpipe joint at the far end of the tap house has been in nine days and it is weeping and it is holding, and a Tuesday has now happened to it and proved nothing, and the woman of about thirty-eight of Marden said all of that out loud at ten and nobody argued with her about a word of it.
 
@@ -74,4 +76,4 @@ Nobody answered that either. Tova Reed went on sorting. The clerk turned and loo
 
 They were said and nothing happened, which is what a thing does when it is said out loud in a yard at noon instead of at night, and the yard went on, and at dusk the clerk turned the yard key and the second key was on its nail in the one room door and the drawer behind the near board stood shut on the last morning of this run.
 
-Thresh is the noise a floor makes when a barrow is tipped on it, and the loading went on at four o'clock and the yard was full of it and nobody heard it, and that was the sound of the last morning of this run and it was made by nine people and none of them was listening.
+Threshing went on at four o'clock and the floor made the noise it always makes when a barrow goes over onto it, and there were nine people making it and not one of them listening, because it was the last morning of the run and there is no reason for anybody to listen hard to the sound of an ordinary morning.

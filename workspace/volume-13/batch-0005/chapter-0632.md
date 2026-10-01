@@ -30,9 +30,9 @@ The clerk read the wall and got to it before the frost did, because on Wednesday
 
 **"Five off,"** he said, **"three hundred and ninety-fifth of the run, and the figure is a round one for the first time since this run started, which I am not going to make a thing of, because a round figure is not a different figure."**
 
-The two halves had been on the slate before he got to them and the rising one had not moved on a Thursday, which the yard now knows without being told, because the second half of a window only moves when the first one does and nobody has ever asked why.
+The two halves had been on the slate before he got to them and the rising one had not moved on a Thursday, which the yard now knows without being told, because the rising half goes on the even mornings and the falling half goes on all the others, and nobody in this holding has ever asked anybody why it is that way round and not the other way round.
 
-A hundred and eighty-six. A hundred and seventy-six. Three hundred and sixty-two, and the sum was not said out loud by anybody, and three mornings have now gone by in a row without the sum being said, and Hesta Lyle remarked on that at noon to nobody in particular and was told by the clerk that the figures do not need a ceremony and have never needed one.
+A hundred and eighty-six. A hundred and seventy-six. Three hundred and sixty-two, and the sum was not said out loud by anybody this morning, which is the first morning since Wednesday that it has not been, and Hesta Lyle remarked on that at noon to nobody in particular and was told by the clerk that the figures do not need a ceremony and have never needed one.
 
 Tova Reed read the three ages out to the woman of about thirty-eight of Marden across ninety yards of yard at eleven, standing on the seed house step with the sun behind her and the rack on her own side of the building, and the woman of about thirty-eight stood at the tap with a can under each arm and did not come over.
 

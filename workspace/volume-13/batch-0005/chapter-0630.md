@@ -26,9 +26,11 @@ The clerk read the wall at nine.
 
 Harlan Vetch laughed at that and went back to the north end, where two feet of the third course has been out and back and out and back again since Saturday and where the bed under it is now four inches deeper than anybody's grandfather would have dug it.
 
-The two halves on the slate had already been settled by the time he got back to it, in the order they settle themselves on an odd morning. The falling one does not move on a Tuesday and goes first in the hand, a hundred and seventy-five. The rising one follows and is the same figure it was on Saturday, a hundred and eighty-five, because the rising half only moves when the total moves and the total moved on Monday.
+The two halves on the slate had already been settled by the time he got back to it, and a Tuesday is the morning the second of them moves. The falling half went first in the hand and stands at a hundred and seventy-five.
 
-Between them, three hundred and sixty. Nobody wrote the sum out loud this morning, and that is now the third morning running of the yard not writing it, and the clerk has stopped putting a line under the two figures because there is nothing to put it under.
+The rising half is the same figure it was standing at on Monday morning, a hundred and eighty-five, because the rising half goes on the even mornings and this is an odd one, and nobody in this yard has to be told which of the two is which any more.
+
+Between them, three hundred and sixty. Nobody said that sum out loud this morning, and nobody said it on Monday either, and the clerk has stopped putting a line under the two figures because there is nothing to put it under.
 
 The count in force stood where Monday left it, at a hundred and thirty-seven with twenty-nine taken and a hundred and eight not, and it did not rise on a Tuesday, and the two reckonings on Sera Quill's slate are still thirteen apart with the third line under them in her own hand saying that the second of them is carried forward and that no printed rule in this building has ever been shown to anybody.
 
@@ -72,7 +74,9 @@ Marek took the middle of the day and spent it on the north end of the wall witho
 
 **"I am not saying the two things this morning,"** he said, when he came in from the cold. **"And I will give you the reason the way I gave you Monday's, which is that I am not going to have it be a refusal this time. Sera Quill asked me in this yard yesterday afternoon whether a copied figure is worth writing down, and I said no, and she took the no, and she had a place to put it. A man who has refused a thing in a yard has used up what he was allowed to be loud about that day."**
 
-The three sheets are on the long table. The first of them has lain there ninety days and is not ninety-one, because the second is a Tuesday and a Tuesday does not add a day to it. The middle one has gone over on its old fold so that the crease runs the other way from the crease it was sent with. The third carries a name and a date and a hand and a seal, and nobody in this yard has ever found the thing wrong with it.
+The three sheets are on the long table. The first of them came up the fen road at the ninth hour and has lain there ninety days and is not ninety-one, and it will be ninety-one on Wednesday. The ninth hour is the whole of the reason. A day is counted whole and this one came inside one, so there is always one morning behind it that it has not got to yet.
+
+The middle one has gone over on its old fold so that the crease runs the other way from the crease it was sent with. The third carries a name and a date and a hand and a seal, and nobody in this yard has ever found the thing wrong with it.
 
 There is still no column ruled under any of the three in any book in this building, and there is a hand's width of bare board on either side of each one that the man who laid them out took the trouble to leave.
 

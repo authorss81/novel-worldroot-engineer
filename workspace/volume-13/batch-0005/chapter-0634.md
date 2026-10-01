@@ -36,11 +36,11 @@ The clerk read the wall at nine with a load still unloading behind him, which is
 
 **One thousand and two hundred and three hundredweight.**
 
-**"Five off,"** he said. **"Three hundred and ninety-seventh of the run, and the sixth of them in this run that has gone up, and this is an odd morning so there is a pair in the doorway and I would like it noted that a man reading a wall with a wagon behind him gets the right answer nine times out of ten and that is not good enough and I do it anyway."**
+**"Five off,"** he said. **"Three hundred and ninety-seventh of the run, and this is an odd morning so there is a pair in the doorway, and I would like it noted that a man reading a wall with a wagon behind him gets the right answer nine times out of ten and that is not good enough and I do it anyway."**
 
 The two halves came off the slate in the hand of the woman of about thirty-eight of Marden, who was standing at the gate with the loading stick in her teeth and had taken the slate off the wall because both her hands were full and she would not wait.
 
-**"The one that did not move is a hundred and seventy-seven,"** she said, **"and the other one is a hundred and eighty-seven, and they are three hundred and sixty-four."** She hung the slate back on its nail and wiped her hands down the front of her skirt and did not go over the numbers again. **"Do not ask me to say them twice, because I have just said them while holding a stick in my teeth and I could have got either of them wrong and I would not have known."**
+**"The one that moved this morning is a hundred and seventy-seven,"** she said, **"and the one that did not move is a hundred and eighty-seven, and they are three hundred and sixty-four."** She hung the slate back on its nail and wiped her hands down the front of her skirt and did not go over the numbers again. **"Do not ask me to say them twice, because I have just said them while holding a stick in my teeth and I could have got either of them wrong and I would not have known."**
 
 She then said the three ages from memory at the gate, while a man unloaded a sack off the tailboard and nobody was holding a rack for her.
 

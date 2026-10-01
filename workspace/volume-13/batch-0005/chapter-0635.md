@@ -24,9 +24,9 @@ The clerk read the wall at ten because Sunday is the day the yard takes longer t
 
 **One thousand and two hundred and eleven hundredweight.**
 
-**"Eight on,"** he said, **"three hundred and ninety-eighth of the run, and I am going to say the ordinal out loud this morning because a run of forty-nine that nobody has ever said the number of is just a list, and this is the forty-ninth and it is a rise and it is not the biggest of them but it is one of the forty-nine and those are different facts."**
+**"Eight on,"** he said, **"three hundred and ninety-eighth of the run, and I am going to say the ordinal out loud this morning because a run of forty-nine that nobody has ever said the number of is just a list, and this is the forty-seventh of it and it is a rise and it is not the biggest of them but it is one of the forty-nine and those are different facts."**
 
-The two halves went on the slate one after another with nothing between them. The rising one had moved again and is a hundred and eighty-eight. The falling one had not moved since Thursday and is a hundred and seventy-seven. They came to three hundred and sixty-five, and the sum has now not been said out loud for five mornings, and the clerk was asked about that on Friday and answered it again on Saturday and was asked about it this morning by Harlan Vetch, who got the same answer and made the same face.
+The two halves went on the slate one after another with nothing between them. The rising one had moved again and is a hundred and eighty-eight. The falling one has not moved since Saturday and is a hundred and seventy-seven. They came to three hundred and sixty-five, and nobody has said that sum out loud since Saturday either, and the clerk was asked about it on Friday and answered it again on Saturday and was asked about it this morning by Harlan Vetch, who got the same answer and made the same face.
 
 The long sheet is at three hundred and ninety-six for the four bodies of households, and the clause beneath it, which is never read with it, is the three hundred and ninety-fifth underneath and the three hundred and ninety-seventh above. Seven hundred and eighty-two at the near end of the wall and eight hundred and twenty-nine at the far end, and the forty-seven is the forty-seven, and the drawer behind the near one has been shut all day and the key has been on the nail all day.
 
@@ -66,4 +66,4 @@ The stone came off the slate at four when the light went, and three people read 
 
 The clerk turned the yard key at dusk only, because Sunday has one turn and not two. The key to the drawer behind the near board was on its nail at dusk, and the drawer behind the near board stood shut through the whole of a Sunday on which a woman wrote three figures on the back of a slate and turned it over and left it there until the light went.
 
-Wool is what the seed house keeps in the sacks by the bench, and on Sunday it came out and was beaten and put back, and the beating made enough noise that four people talked over each other for twenty minutes without any of them noticing, which is the closest this holding comes to a conversation that nobody arranged.
+Wool came out of the sacks by the bench on Sunday and was beaten and put back, and the beating made enough noise that four people talked over each other for twenty minutes without any of them noticing, which is the closest this holding comes to a conversation that nobody arranged. At the end of the twenty minutes not one of the four could have told anybody what the other three had been talking about.

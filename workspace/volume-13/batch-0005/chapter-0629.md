@@ -64,7 +64,7 @@ The two of them stood there with one figure between them and neither would put i
 
 Marek went out to the tap at nine to look at a thread that had nothing wrong with it and stood there long enough to be asked about it.
 
-**"It has been in five days and it has not wept,"** he said. **"I have spent five days waiting for a reason to take that joint apart again and I have just gone out and looked for one and there is not one, and I am telling this yard that I went looking, because a man only goes out to a tap when he has already made up his mind is not looking."**
+**"It went in yesterday and it has not wept,"** he said. **"I have been standing here since yesterday looking for a reason to take that joint apart again and I have just gone out and had a look for one and there is not one, and I am telling this yard that I went looking, because a man only goes out to a tap when he has already made up his mind is not looking."**
 
 **"Then do not go out to it,"** the woman of about thirty-eight said. **"There are four of us who would rather you did not come out to it in front of us twice a week."**
 

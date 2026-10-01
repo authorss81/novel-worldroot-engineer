@@ -14,7 +14,7 @@ The clerk left it up. That was the whole of it, and nobody in the room said anyt
 
 He got his thumb on the date in the top corner and turned the sheet a quarter round so the light from the door fell across it, and he read the date and not the age, and then he read the age.
 
-**"Two hundred and ninety days,"** he said, **"and I have got it out of the date and not out of a person, which is what I wanted. That is the ninth day it has been in this yard past ninety."**
+**"Two hundred and ninety days,"** he said, **"and I have got it out of the date and not out of a person, which is what I wanted, and it took me the better part of four minutes and I would not have got it at all out of memory."**
 
 **"You could have asked me,"** the clerk said.
 
@@ -54,7 +54,7 @@ The clerk read the wall at nine and had the frost out of it before the sun.
 
 **"Eight on, three hundred and ninety-sixth of the run,"** he said, **"and Friday is an even morning, so there is no pair in the doorway this morning, and I have been told why and I am not going to ask again."**
 
-The two halves came off the slate without a reading. The rising one had gone up by one and was a hundred and eighty-seven. The falling one had not moved and was a hundred and seventy-six. Three hundred and sixty-three between them and no sum said out loud for a fourth morning running, and the clerk has now stopped writing the sum down at all and only the two go on the slate, and Hesta Lyle asked him on Thursday whether that was a decision and he said it was a Wednesday.
+The two halves came off the slate without a reading. The rising one had gone up by one and was a hundred and eighty-seven. The falling one had not moved and was a hundred and seventy-six. Three hundred and sixty-three between them and no sum said out loud for a second morning running, and the clerk has now stopped writing the sum down at all and only the two go on the slate, and Hesta Lyle asked him on Thursday whether that was a decision and he said it was a Wednesday.
 
 On the long sheet the four bodies of households are at three hundred and ninety-four, and in the small hand under the line are one under and one over, being the three hundred and ninety-third and the three hundred and ninety-fifth. Two signatures to a line and not one name to any of them. Seven hundred and eighty at this end of the wall and eight hundred and twenty-seven at the other, forty-seven between them, and the drawer behind the near board has been shut every hour and its key has been on the nail every hour.
 
@@ -82,4 +82,4 @@ Marek spent Friday at the north end of a wall that had been put back wrong on pu
 
 The clerk turned the yard key at noon and at dusk and did not look at the nail this evening, because the man of about fifty was standing at the door when he did it, and the key was on the nail at both hours, and the drawer behind the near board stood shut through a Friday on which a mason undid his own work in front of a yard and then told them it had been the harder half.
 
-Lime is what a mason puts a trowel in, and there was a lump of it hardening on the north end of the wall all Friday because Harlan Vetch had squeezed the joint instead of striking it, and at dusk he went back and took his own lump off the face of the wall with a chisel, which took him twenty minutes and which he did not tell anybody he had done.
+Lime went hard on the face of the north end all Friday, because Harlan Vetch squeezed that joint instead of striking it, and at dusk he went back with a chisel and took his own lump off the wall in about twenty minutes. He did not tell anybody that he had done it. There is a clean place on that wall now where the lump was, and it is the only clean place on it.

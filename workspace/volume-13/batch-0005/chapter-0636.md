@@ -22,11 +22,11 @@ The clerk read the wall at nine from inside the one room with the door shut, bec
 
 **"I have been doing it for four years and I have never had a cart behind me on a morning I had to read it, which tells you what four years is worth."**
 
-The two halves are a hundred and eighty-eight and a hundred and seventy-eight. The falling one moved for the first time since Monday and it moved by one, and the rising one did not move, and between them they are three hundred and sixty-six.
+The two halves are a hundred and eighty-eight and a hundred and seventy-eight. The falling one moved again this morning by one and has not moved since Saturday, and the rising one did not move, and between them they are three hundred and sixty-six.
 
-Nobody in that yard has said the sum out loud for six mornings, and the clerk has now taken the total off the slate altogether and leaves only the two figures on it, which is not an instruction anybody gave him and which he has not asked anybody to confirm.
+Nobody in that yard has said the sum out loud for two mornings, and the clerk has now taken the total off the slate altogether and leaves only the two figures on it, which is not an instruction anybody gave him and which he has not asked anybody to confirm.
 
-The three ages were read in the one room at eleven with the door shut and a load still coming up the road outside, and the reader was Nia Vale, one-handed, with her coat buttoned to the throat and her right elbow held down hard against her side, and she started twice and had to begin again both times.
+The three ages were read in the one room at eleven with the door shut and a load still coming up the road outside, and the reader was Nia Vale, who set her wrist flat along the edge of the shelf before she began so that nobody in that room would have to offer to hold anything for her, and she got as far as the second figure and started again before she had been in the room two minutes.
 
 **"The form is two hundred and ninety-three days old,"** she said, and stopped, because the tailboard came off the gate and went past. **"Sorry. Two hundred and ninety-three. And a hundred and ninety-nine on the charter behind it."**
 
@@ -38,13 +38,13 @@ She started again and got all three.
 
 **"That is three times I have come round to that rack this month with one arm and got one wrong in my own mouth,"** she said. **"That is not a good record and I am not going to stand in a room and call it a fine one because nobody else in this building is keeping it."**
 
-Silling said the thing about the pair not being there on a Monday, and he said it in his own words for the fourth morning in a row, and he has now said it in four different orders and the yard has stopped hearing it as a rule and started hearing it as a fact about him, which is a different thing and is the whole of what this holding has ever wanted off a man.
+Silling said the thing about the pair not being there on a Monday, and he said it in his own words, and he said it differently from the way he said it on Friday, and the yard has stopped hearing it as a rule and started hearing it as a fact about him, which is a different thing and is the whole of what this holding has ever wanted off a man.
 
 Four bodies of households, four lines, two signatures each, and against them a figure of three hundred and ninety-seven. The clause that never gets read with them puts the three hundred and ninety-sixth under the line and the three hundred and ninety-eighth above it, and it has never once settled onto the line it belongs to. Two signatures to every one of the four lines and no name on any of them. Seven hundred and eighty-three at the near end of the wall and eight hundred and thirty at the far end of it, and forty-seven, and the drawer behind the near one shut all day and its key on the nail all day.
 
 The woman of about thirty-eight of Marden put her hand on the iron at the tap step on the ninth morning and counted to a hundred with her palm on it, and then said the thing she has been waiting since Saturday to say.
 
-**"There has been a Tuesday,"** she said. **"There has been a Sunday and a Monday after it and the joint has not let a drop out of the thread, only the weep, and the weep is not a leak, and I have said all that before. So here is the whole of what a Tuesday proves. A Tuesday proves nothing. What I have now is eight mornings on a joint and a Monday, and eight mornings is not a month, and I am not going to be the woman in this yard who says it is fixed."**
+**"There has been a Tuesday,"** she said. **"There has been a Sunday and a Monday after it and the joint has not let a drop out of the thread, only the weep, and the weep is not a leak, and I have said all that before. So here is the whole of what a Tuesday proves. A Tuesday proves nothing. What I have now is eight mornings on a joint and one of them is a Monday, and eight mornings is not a month, and I am not going to be the woman in this yard who says it is fixed."**
 
 **"What would you call it then,"** Marek said.
 
@@ -62,7 +62,7 @@ Of the two ledgers on the shelf, one holds fifty-three lines and the other holds
 
 Nobody went near the house of the man of about seventy this morning and no question was put to him anywhere in the holding. Nine hundred yards off there is a board door with a figure cut into its seventh column, and the figure is sixty-six. It was not looked at. A Monday is the morning a man here would spend it on, and there is one reading of that figure left in the whole of this holding, and it went unspent.
 
-The ladder went up no rung on Monday and nothing has ever been written against either of the two people who belong to it. On the board beneath the ladder the offer lies with its dust undisturbed: no day on it, no hand on it, no word added and no word taken away. At the top of the low field the ring of bare ground has never been paced or pegged. The six bare rows took nothing and no seventh was cut for the covenant, the machine, the schedule or the confession, and those four were not said out loud this morning.
+The ladder went up no rung on Monday and nothing has ever been written against either of the two people who belong to it. On the board beneath the ladder the offer lies with its dust undisturbed: no day on it, no hand on it, no word added and no word taken away. At the top of the low field the ring of bare ground has never been paced or pegged. The six bare rows took nothing, no seventh has been cut for any of the four, and not one of the four was said out loud this morning.
 
 Marek came in from the north end at four with the cold still in him and said the thing and gave the reason before anybody asked him for it.
 

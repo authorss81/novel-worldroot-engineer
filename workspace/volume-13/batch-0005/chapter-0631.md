@@ -14,7 +14,7 @@ Marek did not go out to it. He had said on Monday that he would come out to it w
 
 **"Then leave it alone,"** she said, and went on with the cans.
 
-Tova Reed brought the trays out at two on the side of the seed house where she can see the water coming, which is where she has worked since the tap went off on Friday before last, and where she said this morning that she is going to keep working.
+Tova Reed brought the trays out at two on the side of the seed house where she can see the water coming, which is where she has worked since the tap went off on Saturday, and where she said this morning that she is going to keep working.
 
 **"I am not asking anybody to move and I am not asking anybody to say anything about it,"** she said, when Harlan Vetch looked over. **"On the Friday I was at the other side and there was a conversation at the wall about a column on a sheet, and I got the words I did not get and none of the words I did get, and I am not going to sit there again being the woman who has to be told."**
 
@@ -44,7 +44,7 @@ Harlan Vetch took the two stones out of the third course again at ten in the mor
 
 **"It has been invented since Monday,"** Harlan Vetch said, **"and I invented it before the frost came, which is the only credit I get for it."**
 
-The two halves came on the slate after the wall and in the order they come on an even morning, which is the rising one first because that is the one that moved. A hundred and eighty-six. A hundred and seventy-five, which does not move on a Wednesday and has not moved since Monday. They came to three hundred and sixty-one, and Kellan Rusk added them out loud this once because the frost had taken the chalk off the top half of the wall overnight and the two of them were only on the slate, and he said so before he added them.
+The two halves came on the slate after the wall and in the order they come on an even morning, which is the rising one first because that is the one that moved. A hundred and eighty-six. A hundred and seventy-five, which does not move on a Wednesday and has not moved since Tuesday. They came to three hundred and sixty-one, and Kellan Rusk added them out loud this once because the frost had taken the chalk off the top half of the wall overnight and the two of them were only on the slate, and he said so before he added them.
 
 Sennik Vaul came into the one room at half past ten and read the three ages off the rack, all three of them, loudly enough to fill the room and not one inch past the door, and then the clerk put the chalk down on the table beside him and pushed it toward him.
 
@@ -66,7 +66,7 @@ Three hundred and ninety-two is on the long sheet for the four bodies of househo
 
 The boards stand at seven hundred and seventy-eight at this end and eight hundred and twenty-five at the other, forty-seven between them as they have been since the day they went up, and the drawer let into the masonry behind the near one has not been opened and its key has been on the nail in the one room door since first light.
 
-The count in force did not rise on a Wednesday. It is still a hundred and thirty-seven, twenty-nine taken, a hundred and eight not, and the sixth row on the sheet of what this holding does not know is still bare, and no seventh row has been cut for the covenant, the machine, the schedule or the confession, and this morning those four were not said out loud at all, only glanced at.
+The count in force did not rise on a Wednesday. It is still a hundred and thirty-seven, twenty-nine taken, a hundred and eight not, and the sixth row on the sheet of what this holding does not know is still bare, and no seventh row has been cut for any of the four of them, and this morning not one of the four was said out loud at all, only glanced at.
 
 Paid is in front of twenty-nine on the compost line and has been let out in nothing. Fifteen lines in the use log and the sixteenth unwritten. Eleven journeys on the barrow and eleven a floor. Seven sessions in this holding's book and Wednesday is not an eighth, and fifty-three of one thing and fifty-three of another took none of the sheets and did not take the page in Nia Vale's coat.
 
@@ -80,4 +80,4 @@ The six rows and the four ruled lines and the third column on the terms sheet we
 
 The clerk turned the yard key at noon and at dusk. The second key was on its nail at both of those hours, and the drawer behind the near board stood shut through a Wednesday in which a man read three figures out loud in a room and then, when he was offered a piece of chalk, would not write any of them down.
 
-Gravel is what the frost leaves when it goes off a yard, and it went off this yard on Wednesday from the wall end, where a man had been chiseling since ten, and the woman of about thirty-eight of Marden walked it with a broom and stopped at the tap and did not sweep it, and left it lying where it fell.
+Gravel came off this yard on Wednesday from the wall end, where a man had been chiseling since ten, and the woman of about thirty-eight of Marden walked it with a broom and stopped at the tap and did not sweep it. It is lying where it fell now. The broom went back into the tool house with its handle the wrong way round and nobody has corrected that either.
