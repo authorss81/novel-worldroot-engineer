@@ -38,17 +38,33 @@ He set the spade down in the hole and stood on the near side of it.
 
 The near board reads seven hundred and forty-six and the far board reads seven hundred and ninety-three, and the drawer behind the near one has been shut at every hour of every morning since the last one turned and was shut again at ten.
 
-There are three sheets on the long table. The first has been lying face up for fifty-nine days with about nine inches of bare board either side of it, the second is folded with its crease the other way from yesterday, and the third carries a name at the head and a date and a hand at the foot and a seal, and is right in every particular. Nobody entered any of them and nobody refused any of them.
+Marek came in from the gate with dirt under his nails and stood at the end of the long table, where the three sheets lay with the first face up and fifty-nine days behind it, the second folded with its crease the other way from yesterday, and the third carrying a name at the head, a date, a hand at the foot and a seal, and right in every particular. Nobody entered any of them that morning and nobody refused any of them.
 
-Marek came in from the gate with dirt on his fingers and stood at the foot of the table and looked at the bare board between the first sheet and the second, and said the thing he says about the table, and this time he said why he was not saying the other thing.
+He looked at the bare board between the first sheet and the second and thought, without meaning to, that he was looking at a distance. Nine inches of nothing, and then paper, and then nine inches of nothing, and the whole of it going to be true in a year. A wood came up behind his eyes that had not been asked for: a man on a cart track with his hands round an axe haft, saying nothing for a quarter of an hour, and the boy of eleven or twelve standing at the cart's tail being told that there was nothing to do that would be worth writing down, and believing him.
 
-**"There are two sentences I have said in this yard and I am not saying either of them this morning and I want it written down that I chose not to, and not because a woman with one ear standing nine feet off made it hard to hear."**
+**"There are two sentences I have said in this yard and I am not saying either of them this morning, and I want it said that I chose not to, and not because a woman standing nine feet off made it hard to hear."**
 
-He turned his head toward Tova Reed and then away from her, deliberately, and did not raise his voice to compensate for it.
+He turned his head toward Tova Reed and then away from her, on purpose, and did not raise his voice to make up for it.
 
-**"I said them on the first of the month and on the day before it and I have said them whole five times in the thirty days behind that and a sentence said five times stops being a loss and starts being a habit, and I am not going to hand anybody a habit to put in a column."**
+**"I have said them whole five times in the thirty days behind this one. A sentence said five times stops being a loss and starts being a habit, and a habit is a thing that can be put in a column."**
 
-Tova Reed heard that perfectly well on the side he gave her and went on sorting trays at the seed house door.
+Tova Reed had taken all of it on the side he had turned to her. She came out of the seed house door with a tray under each arm and stopped instead of going past.
+
+**"Then take the announcement off it. I am not asking you to say them and I am not telling you not to. I am telling you that six people are now listening to the shape of you not saying something, and the shape is louder than the thing."**
+
+He kept his eyes on the board between the sheets.
+
+Marek said it as a question, which was the only thing he had, and then waited.
+
+**"Do you want them said or not said."**
+
+**"I want to not hear about it," she said, "which is not the same as wanting them unsaid, and if you asked the rest of this yard what they wanted the answer would be that they want the mornings back."**
+
+That was the end of it. He stood there and found that he had brought something into the yard and she had taken it and put it somewhere he could not get at from where he was standing, which was a thing she had been doing to him for a long time, and which was the reason he kept turning his head the wrong way.
+
+**"They are not spoken today," he said. "That part stands on its own."**
+
+**"It can."** She went back in with the trays.
 
 Nia Vale came across with the broom and stopped short of the hole Soren Rill had dug, and asked him whether he wanted the grit off it or on it, and he said on it, and she put three shovelfuls of the sweepings round the edge of it so that nobody walking in the dark would put a foot in.
 
@@ -60,18 +76,18 @@ The woman of about thirty-eight of Marden filled two cans at the tap before the 
 
 **"Four cans filled and no list, and if somebody wants a list for it they can stand here and pour their own, because I am a woman with a tap and not a clerk of anything."**
 
-The clerk gave the derived ages at the middle table with the books open, because a figure carried forward is not a figure, and read them without looking up between them.
+The clerk gave the three derived ages at the middle table with the books open, because a figure carried forward is not a figure, and read them without looking up between them.
 
 **"Form, two hundred and fifty-six days, not filled. Charter behind it, a hundred and sixty-two. Silling's second ruled line, two hundred and fifty, and nothing on it."**
 
-He straightened the form against the edge and left his hand flat beside it rather than on it.
+He straightened the form against the edge of the table and left his hand flat beside it rather than on it. Then he lifted the weight off the use log with two fingers so the pages would not slide, and put the weight back, and the margin under the fifteenth line was clean and would be clean on Monday.
 
-Four bare lines stand under two words in the corner of the one room and the answer they are for is not due, and the third column of the sheet of terms is ruled and empty, and six rows are ruled on the sheet of what this holding does not know with nothing standing against any of them and no seventh row ruled under them.
+Renn Ashby read the fifteen lines upside down from where he was standing, which is a thing he can do, and then walked his finger along the eleven journeys chalked down the barrow's side and said the word floor out loud to nobody, and then went and stood in front of the drawer in the wall with his hands behind his back and said nothing about it, which was the most anybody had ever given that drawer.
 
-The use log is on its shelf under a weight with fifteen lines in it and the sixteenth is not written, and eleven journeys are chalked on the barrow against the wall where eleven is a floor and not a number of trips anybody is waiting up. Sixty-six stands on the seventh column of a door nine hundred yards off and did not go back and was not read.
-
-The man of about seventy was not fetched this morning, and the count of questions put to him is still nothing at every site where a question could have been put.
+Nine hundred yards off there is a door with sixty-six scratched on it in the seventh column. The man of about fifty went past it about the tenth hour and looked the way he looks, and it is still sixty-six, and it does not go back, and he has never put it in a book. The man of about seventy stands at twenty-nine fetchings and was not fetched this morning, and the number of questions put to him is still nothing at every place a question could have been put.
 
 Twenty-eight is the figure on the compost line and paid is the word standing in front of it, and in twenty-eight nothing has gone out, and the barrow was not used for it because nobody has a reason to use a barrow today.
 
-Mud drying in ruts by a road nobody measured, and a gate shut hard for the first time in four years, and a hole in the middle of the lane staying open on purpose.
+Renn Ashby tried the gate once more before he went, put his weight on the leaf and took it off, and then stood back and left it alone, which from him was a restraint and cost him something to do.
+
+Nia Vale found water standing in the middle road with a skin of ice on it and stood over it deciding. Breaking it would have made the road look mended and the road was not mended. She left it alone and went in, and it froze the rest of the way down by itself, and nobody was ever told afterward which of the two she had chosen on purpose.

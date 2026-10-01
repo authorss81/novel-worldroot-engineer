@@ -34,7 +34,7 @@ The clerk turned the sheet of the four bodies of households round on the middle 
 
 Near board seven hundred and forty-eight, far board seven hundred and ninety-five, forty-seven between them, and the drawer behind the near board stayed shut from the second hour to the ninth.
 
-Harlan Vetch said the thing about the two sentences while the two of them were taking their boots off at the door, and he said it plainly and without any weight on it, and he was not asking Marek anything.
+While the two of them were taking their boots off at the door Harlan Vetch said the thing he had come to say, and he said it plainly and without any weight on it, and he was not asking Marek anything.
 
 **"You have not said your two things and I am not going to be the man on this headland who asks you whether you have stopped saying them or how many times you have said them, and that is the whole of my interest in it."**
 
@@ -64,18 +64,44 @@ Nia Vale said the fifty-three requests and the fifty-three notes were the same n
 
 **"Fifty-three and fifty-three and none of them is a letter from that council and none of them is the third sheet either, and a number being equal to another number is not a thing two numbers are for."**
 
-The barrow is against the wall at eleven journeys and the eleventh is a floor. Fifteen lines stand in the use log and the sixteenth is not written and was not written this morning by two men who were out all morning on a headland where nothing needed carrying. Sixty-six is on the seventh column of a door nine hundred yards off and was not read.
-
-The man of about seventy was not fetched and nobody put a question to him, and the count of questions put to him is nothing at every site.
-
-The word in front of twenty-eight on the compost line is paid and not one thing has been discharged in twenty-eight, and the fall will come on its own morning without anybody's leave.
-
-No foot went into the ring of bare ground and nothing stands against it, and the ground that came back on the low field is a different piece of ground and the two are not added. The offer lies where it has lain. No rung of that ladder was climbed and no number was given for either of the two people standing on it.
-
 Sera Quill came out to the headland at about the tenth hour with her coat buttoned to the neck and stood behind the two of them while the force was read a third time for her benefit, and copied nothing at all.
 
 **"I have now heard the same figure from three men in three places this morning and it has come out of all three of them the same, and that is the only paper I am making out of it."**
 
-She went back in without writing her name against it.
+Then she got the slate out from inside her coat, which she had not done in this yard in nineteen years of standing in it, and held it in both hands the way a person holds a thing they may be about to be sorry for.
 
-Stones set into the headland wall in a frost with two men on it, a count said out loud so that a wrong one could be caught, and a hole in the lane holding its grit.
+Harlan Vetch watched her do it, and then put his stick down into the frost.
+
+**"Write the first one. Seventy-eight. That is what the wall end has carried since I took the wall end."**
+
+Sera Quill put the chalk on the slate and looked up at him.
+
+Sera Quill put the chalk on the slate and looked up at him.
+
+**"And the other one?"**
+
+**"There is no other one that anybody carries. Sixty-five is what comes down off the ledger. I have said both of those numbers to two men in four years and to neither of them in front of anybody else."**
+
+Sera Quill did not move.
+
+**"Harlan."**
+
+**"No. You are a witness, and I have wanted a witness since the second year."**
+
+She wrote both numbers, and put the initials of the two men beside them, and put the date on, which was the ninth time a date had gone onto that slate in this holding, and then blew the grit off it and did not put it away.
+
+**"Two numbers on a slate with a third person standing there," she said. "That is not a record of a gap. That is the first morning of a record of a gap, and you know the difference between those two things, and I have just put my name under it."**
+
+He picked the stick up again and went back down the wall. That was the whole of the work done on the headland that morning and it was not nothing.
+
+Nobody wrote the sixteenth line in the use log, which sat on its shelf with fifteen lines in it and had a whole morning of two men free and a headland with nothing to carry, and nobody wrote a twelfth journey in chalk on the side of the barrow, which still carries eleven and where eleven is a floor. The man of about fifty went past the door nine hundred yards off about the eleventh hour and read sixty-six in its seventh column the way he does, and it is not in a book and it does not go back.
+
+The man of about seventy was not fetched, and nobody put a question to him anywhere, and the twenty-nine fetchings against his name are as many as they were yesterday.
+
+The word standing in front of twenty-eight on the compost line is paid, and nothing has been discharged in twenty-eight, and the fall will come on a morning of its own without anybody asking for it.
+
+No foot went into the ring of bare ground and no figure stands against it, and what came back on the low field is a different piece of ground and the two are never added together. The offer lies where it has lain. Nobody climbed a rung of that ladder and no number was given for either of the two people standing on it.
+
+The frost ring round the stone was already going at eleven, water standing in the hollow of it, and by noon it was a wet circle and nothing else that a man could point at. Sennik Vaul stood over it with his hands at his sides and deliberately did nothing.
+
+**"No mark," he said. "If I chalk a place on this headland then tomorrow it is a place somebody is expected to stand at, and today it is a place where two men lifted a stone in and put it back. I would rather it went on being the second thing."**

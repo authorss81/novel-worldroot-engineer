@@ -30,13 +30,19 @@ He put two fingers on the line under the number and lifted them.
 
 **"And it is not the launder. A man in this yard has added those two in his head for four years and he has never once been right, and the only reason he has never been caught is that he has never written it down."**
 
-Seven hundred and fifty-three on the near board and eight hundred on the far one, and the drawer behind the near one stood shut at every hour of the morning and the man with the key said out loud that he had not touched it, and nobody checked him and nobody doubted him either.
+Seven hundred and fifty-three on the near board and eight hundred on the far one, and the drawer behind the near one stood shut at every hour of the morning, and the key to it hung on the nail in the one room door where it has hung since Thursday, and the man of about fifty said out loud in front of the clerk that he had not touched it since he put it there, and the clerk looked at the nail and then looked at the drawer and did not open either.
 
-Marek went out to the heap on the low field after the reading and stood at the edge of it and did not put a foot on it, and said the thing about the two sentences and gave no reason at all, which is the fifth morning of the run and the first time he has given nothing.
+Marek went out to the heap on the low field after the reading and stood at the edge of it and did not put a foot on it, and when Nia Vale followed him out with the grit she found him saying the two shortest sentences he has ever said in that yard and nothing else at all.
 
-**"They are not spoken today. I have said that for five mornings and I am not going to say why again. If the not saying needs a reason every morning then the reason is the sentence with the sentence taken out of it."**
+**"They are not spoken today. I have said that for eight mornings and I am not going to say why again. If the not saying needs a reason every morning then the reason is the sentence with the sentence taken out of it."**
 
-He came back off the field and stepped over the low ditch and did not look at the ring of bare ground on his way.
+He came back off the field and stepped over the low ditch and did not look at the ring of bare ground on his way, and Nia Vale, who was watching him do exactly that, said so out loud after he had gone past.
+
+**"He stepped over it. I want that said by a person who saw it and not by me to anybody."**
+
+The man of about fifty said it from the step, and added nothing to it, which is the whole of what he has ever added to anything.
+
+**"I saw it."**
 
 The woman of about thirty-eight of Marden said the heap had gone up a foot since the last time she had measured it with her eye and that she was not going to be the one to measure it properly.
 
@@ -74,20 +80,24 @@ He took the three off the rack one at a time and laid them on the table in front
 
 The sheet of terms has a third column ruled and nothing standing in it, and nobody has been near the heading with a pen, and under two words in the corner of the one room there are four lines that have never had anything on them and are not going to get anything today.
 
-Six rows are ruled on the sheet of what this holding does not know. Every one of them is bare. A seventh row is not cut, and it is not cut for the covenant or for the machine or for the schedule or for the confession, and a man who wanted it cut would have to say in a room what the seventh row is for.
+Six rows are ruled on the sheet of what this holding does not know and every one of them is bare, and a seventh row is not cut for the covenant or for the machine or for the schedule or for the confession, and a man who wanted one cut would have to stand in a room and say out loud what the seventh row was for, and nobody has done that in four years.
 
-The barrow is where it has stood for four years at eleven journeys, and the use log on its shelf has fifteen lines in it and a clean margin below them, and the number sixty-six is scratched on a door nine hundred yards off and was read by nobody today and goes no further back, and the man of about seventy stands at twenty-nine fetchings and was not fetched and was not asked.
+On the long table: a letter sixty-six days old lying face up with board either side of it, a council's paper folded, and a copy of a sheet that is on a wall nine miles off, headed with a name and dated and signed and sealed, and right in every particular. Nobody has entered any of them. Nobody has refused any of them. There are four books in this building and no column has been ruled under a single one of those three in any of the four.
 
-On the long table: a letter sixty-six days old lying face up with board either side of it, a council's paper folded, and a copy of a sheet that is on a wall nine miles off, headed with a name and dated and signed and sealed, and right in every particular.
+Fifty-three requests sit in their column and fifty-three notes sit in the section-nine column, and no load has come up a road since the last one, so the second rule in the one room stands open and empty, and the board above it carries thirty-nine blanks, and nobody has put a name in one of them today.
 
-Nobody has entered any of them. Nobody has refused any of them. Four books in this building and no column ruled under a single one of the three in any of the four, and about nine inches of bare board on either side of each.
+At noon a man went past that board with a barrow and did not look at it, and two people in that yard noticed him not looking at it, and neither of them said anything to him about it, and that is how a holding learns to have a board nobody reads.
 
-Fifty-three requests sit in their column and fifty-three notes sit in the section-nine column, and no load has come up a road since the last one, so the second rule in the one room stands open and empty and the board above it carries thirty-nine blanks and nobody has put a name in one of them today.
-
-A man went past that board with a barrow at noon and did not look at it, and that is the correct behavior and is not a fault of anybody's attention.
+Against the wall the barrow is where it has stood for four years with eleven journeys in chalk down its side, and the use log on its shelf has fifteen lines in it and a clean margin below them, and the number sixty-six is scratched on a door nine hundred yards off and was read by nobody today and goes no further back, and the man of about seventy stands at twenty-nine fetchings and was not fetched and was not asked.
 
 Nothing has been discharged in twenty-eight and paid is the word in front of that figure on the compost line, and nobody in this yard owns the line or has any say in when it moves.
 
 The succession ladder went up zero rungs today and neither of the two people standing on it has a figure against his name anywhere in this holding, and the offer on the low board has not been read out, has not been dated, has not been moved and has not been taken back.
 
-Heap up a foot with the sun on it, three sheets lying still, and grit on the low field edge where it went and where it will stay.
+Soren Rill came back at two o'clock to the hole at the soft end of the middle road, and found that the water in it had gone down an inch, and stood over it for a long time with the spade in his hand and did not dig.
+
+**"It is not going to come back this week and I am not going to keep a hole for a thing that is not coming back this week," he said. "It is not as if nobody is allowed to want it to. It is that I have got a spade and a bad back, and if I stand over this every morning for a month then in a month there will be a man in this yard who thinks it is his job to stand over it, and he will not know that I am not."**
+
+He filled the hole in with the grit that came off the step and the heap in the middle, and drove the spade flat on it four times to leave the mark of the blade in it, and put the spade back against the wall, and said the last part to himself.
+
+**"That is a hole that was dug and filled and not a hole anybody is going to be asked about. Ask me on Sunday if you want it. I will tell you no."**

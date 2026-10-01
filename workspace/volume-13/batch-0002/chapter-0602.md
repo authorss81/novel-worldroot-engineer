@@ -34,7 +34,7 @@ The clerk squared the books at the middle table and then said the other thing, a
 
 He put his hand flat on the second book and left it there.
 
-**"The clerk's book says what the clerk saw. What I saw this month is a man working a gate and a man standing at a table. If anybody wants the two sentences they have to have been in the yard on the mornings they were said, and there were four of those."**
+**"The clerk's book says what the clerk saw. What I saw this month is a man working a gate and a man standing at a table. If anybody wants the two sentences they have to have been in the yard on the mornings he said them, and there were five of those mornings, and I can give anybody the five and I am not going to give them the two."**
 
 The man of about fifty brought the seal down off the shelf at about the eleventh hour and put it on the table, and then put his hand flat beside it and did not press it, and gave the reason first to nobody in particular.
 
@@ -64,16 +64,26 @@ The clerk derived the three ages and read them in the order they sit in the rack
 
 **"Silling's second of four ruled lines first, because it is the one nobody looks at: two hundred and fifty-three days and nothing on it this morning or any morning. Then the charter, a hundred and sixty-five. Then the form, two hundred and fifty-nine, not filled."**
 
-Nothing stands under two words in the corner of the one room, and the third column of the sheet of terms has its heading and no entries under it, and six rows are ruled on the sheet of not knowns with nothing against any row and no seventh row cut for the covenant or the machine or the schedule or the confession.
+He squared the three against the edge of the table and then read the standing of the room behind them without turning round.
 
-Three sheets are on the long table, and the first has lain face up for sixty-two days with a hand's width of bare board either side, the second is still folded, the third carries a name and a date and a hand and a seal and is correct in every particular and has not been called anything else by anybody in this yard.
+**"Nothing under two words in that corner, and the third column ruled with its heading and nothing under the heading, and six rows ruled on what we do not know with nothing against any of them and no seventh cut for the covenant or the machine or the schedule or the confession."**
 
-Nia Vale said a thing about the folded one and then stopped and gave the reason she was stopping.
+Nia Vale said a thing about the folded one and then stopped, and gave the reason she was stopping before she started it.
 
 **"I have said my piece about that paper in three yards and I am stopping because the fourth time it comes out of me it comes out with a figure in it and the figure will be the wrong one."**
 
-The barrow is against the wall at eleven journeys and eleven is a floor and not a total. The use log holds fifteen lines. The seventh column of a door nine hundred yards off reads sixty-six, unread, and going no further back. The man of about seventy was not fetched and nobody asked him anything.
+The three sheets on the long table are the first, sixty-two days old and face up with a hand's width of board either side of it, the second, still folded, and the third, which carries a name and a date and a hand and a seal, and is right in every particular, and has not been called anything else by anybody in this yard.
 
-Paid is the word in front of twenty-eight on the compost line and no one has discharged anything in twenty-eight.
+Nobody fetched the man of about seventy and nobody asked him anything, and the twenty-nine fetchings against his name are the same twenty-nine that stood against it yesterday. The barrow is along that wall with eleven journeys chalked down its side, where eleven is a floor and not a total, and the use log on its shelf has fifteen lines in it with the margin below the fifteenth left clean, which Nia Vale checked with the corner of her thumb on her way past and did not report. The seventh column of the door nine hundred yards off reads sixty-six, and it was not read today, and it goes no further back.
 
-Wax in a box out on a shelf where the nails are, and a still yard, and a clerk who will not enter an absence in the shape of a sentence.
+Paid is the word in front of twenty-eight on the compost line and nothing has been discharged in twenty-eight.
+
+At four in the afternoon the man of about fifty came back to the shelf where the nails are and stood in front of the seal, which had been out of its box since the eleventh hour, and put his hand flat on it, and did not pick it up.
+
+**"I am leaving it there tonight," he said, first to the shelf and then louder, to the yard. "I am not boxing it again and telling myself the morning did not happen. It sits on that shelf until somebody tells me in a room what it is for, and if that is never, then it has sat there for the rest of my life, which is a thing I can stand having said out loud."**
+
+Renn Ashby came past the door of the one room at half past four on his way out and saw the seal sitting on the shelf where the nails are, out of its box in the open, and stopped, and looked at it for a while.
+
+**"That has been in a box the whole nine years I have been coming past this door," he said, "and I have never once known what it was for, and neither has anybody else, and I am not going to be the man who starts now."**
+
+He went and got the tin of nails and slid it along to the far end of the shelf so that the seal would have the rest of the wood to itself, and he did not say anything while he was doing it, and neither did the man who owned the seal.

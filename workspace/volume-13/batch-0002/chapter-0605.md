@@ -30,17 +30,17 @@ That run was not read this morning. It belongs to the odd mornings and Friday is
 
 The four bodies of households carry three hundred and sixty-six on the sheet, with the three hundred and sixty-fifth out of three hundred and sixty-seventh beneath it, one under and one over, and a man who puts that clause on the wall figure is adding two documents that have never been added in this holding.
 
-The near board carries seven hundred and fifty-two and the far one seven hundred and ninety-nine, the drawer behind the near one shut at every hour from before light until noon, and the man with the key did not take it out of his pocket.
+The near board carries seven hundred and fifty-two and the far one seven hundred and ninety-nine, the drawer behind the near one shut at every hour from before light until noon, and the key to it was still on the nail in the one room door where it had been put on Thursday, and nobody walked past that door and looked at it twice, and the man of about fifty said he had looked at it once himself and that was all.
 
 Lying along the long table are three sheets with nine inches of bare board between them. The first is sixty-five days old, face up. The second is folded. The third is correct in every particular and has a name, a date, a hand and a seal. Not entered, not refused, and no column ruled under any of them in any of the four books in this building.
 
-Marek said the thing about the two sentences at about the eleventh hour with the reason given first and in a different shape again, because he has said the reason four mornings running and it is wearing.
+Marek got up from the table and put the chair back at about the eleventh hour and did not announce anything, and Nia Vale, coming past with the broom, waited for it and then found she had nothing to wait for and said so, out loud, to nobody.
 
-**"I am not going to give you the reason this morning. I have given it on every one of the last four and a reason that gets repeated is a habit with a good cause, and this is not a place that wants habits."**
+**"There is no announcement this morning," she said. "I have had my hand ready for it since the hour."**
 
-He turned a chair round and set it against the wall, which is what a man does when he has finished standing about.
+Marek did not turn round.
 
-**"They are not spoken today and they are not going to be softened by my not speaking them. If you want to know what that costs me you would have to be somebody who has lost something, and there is nobody in this yard I am willing to explain it to."**
+**"You will get it another morning."** He went out to the gate, and did not say which one.
 
 The clerk derived the ages in one breath in the order of the rack.
 
@@ -48,17 +48,15 @@ He had the form in his left hand while he said it and did not put it down until 
 
 **"The form is two hundred and sixty-two days old and empty. The charter behind it is a hundred and sixty-eight. Silling's second line is two hundred and fifty-six and empty. They stand where they stood yesterday and they will stand where they stand tomorrow."**
 
-Under two words in the corner of the one room there are four ruled lines, and the sheet of terms has a third column ruled, and on the sheet of what this holding does not know there are six rows ruled, and every one of those eleven lines and columns is empty and the seventh row is not cut.
+Under two words in the corner of the one room there are four ruled lines, and the sheet of terms has a third column ruled, and on the sheet of what this holding does not know there are six rows ruled, and every one of those eleven lines and columns is empty. A seventh row has been asked about twice in four years by two different men who wanted to know what it would be for, and neither of them ever answered his own question out loud, and the row stays uncut.
 
-A seventh row has been asked about twice in four years by two different men who wanted to know what it would be for, and neither of them has answered his own question, and the row stays uncut.
+Fifty-three requests stand in their column and fifty-three notes stand in the section-nine column, and neither of the three sheets on the long table is in either of them, and the board in the one room carries thirty-nine blanks, and the second rule in that room has stood empty since a load came up a road the last time one did.
 
-Fifty-three requests, and fifty-three notes in the section-nine column, and neither of the three sheets on the long table is in either of them, and the board in the one room carries thirty-nine blanks, and the second rule in that room has stood empty since a load came up a road the last time one did.
+Along that wall the barrow has eleven journeys in chalk down its side where a man can read them without picking anything up, and eleven is a floor and not a number of trips anybody is waiting up, and the twelfth is not on any slate in this building. The use log on its shelf has fifteen lines in it under a weight and the space below the fifteenth is clean.
 
-Against the wall, the barrow, and on the side of it eleven journeys in chalk where a man can read them without picking anything up, and eleven is a floor and not a number of trips anybody is waiting up, and the twelfth is not on the slate anywhere in this building.
+Nobody fetched the man of about seventy today, and his twenty-nine fetchings are as many as they were at the start of the week, and nobody in this yard has yet come to the point of putting a question to him. The man of about fifty went out to that door at the eleventh hour and read the seventh column, because he cannot walk past it without reading it, and it still says sixty-six and it still goes no further back, and it is still not written down anywhere.
 
-The use log keeps fifteen lines on its shelf under a weight and the space below the fifteenth is clean. The door nine hundred yards off has sixty-six scratched on it in the seventh column and nobody read it today and it does not go back. The man of about seventy has twenty-nine fetchings against him and he was not fetched and no question was put to him.
-
-Paid is the word in front of twenty-eight on the compost line, and paid is not a discharge, and nobody in this holding has a say in when that figure moves.
+Paid is the word in front of twenty-eight on the compost line, and paid is not a discharge, and nobody in this holding has any say in when that figure moves.
 
 The succession ladder went up zero rungs on a morning when the cycle came round, and no figure is printed against either of the two people standing on it, and the offer on the low board has not been read out, has not been dated and has not been taken back. The ring of bare ground took no foot and carries no figure, and what came up on the low field is a different piece and is not added to it.
 
@@ -72,10 +70,22 @@ Soren Rill came in with his boots to the calf and put the spade in the standing 
 
 He left the spade standing where it was.
 
-Tova Reed took the trays in at about the third hour because the rain was coming from the west side and had a way of finding the underside of a tray, and stacked them in the seed house and did not lose one this time, and did not remark on it.
-
-The man of about fifty fetched the can that was going to be short off the wall and found it already gone, and looked for it down the side of the tap house and it was not there, and he said out loud that somebody had taken it and would not say who, because a tap house has one door and everybody who uses it is known.
+The man of about fifty fetched the can that was going to be short off the wall and found it already gone, and looked for it down the side of the tap house, and it was not there, and he said out loud that somebody had taken it and would not say who, because a tap house has one door and everybody who uses it is known.
 
 **"It is a can and it is not a figure and I am not making it either. Somebody wanted water. That is the whole of the explanation and there is no second half of it."**
 
-Rain starting on the headland water at the top of the wall, and thirty-nine blanks on a board that nobody has opened a rule on.
+The woman of about thirty-eight of Marden was filling cans at the other end of the wall while he was saying it. She set the fourth one down, and then said her own name out loud before anybody had to ask.
+
+**"That one was mine. I have been taking the fourth can up to the low field on the mornings the sacking I put in holds, and I have not been standing it back on the wall, and I should have said so on the morning I started."**
+
+The man of about fifty stood there and found out what he was feeling, and it was not cross.
+
+**"Eleven days."**
+
+**"Eleven," she said, "or it is nearer that than any other number you would say out loud, and I am not writing it down either. If you want to make it a complaint you can, and I will answer it in front of the same people you would say it in front of."**
+
+He looked at the three cans on the wall and then at the nail in the one room door, and something went out of his shoulders.
+
+**"I have a key on a nail and a can off a wall," he said. "That is the whole of what has gone wrong in this yard this week, and I am not going to be the man who turns a can of water into a complaint."**
+
+She filled a fifth and set it beside the other three, and nobody put a mark against either of the two extra, and the rain came on properly at two o'clock with the wind behind it.

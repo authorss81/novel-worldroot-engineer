@@ -22,29 +22,33 @@ Soren Rill asked the clerk twice whether the second book was going to be opened 
 
 At the third hour the fifty-eighth ninth-day return came up the fen road, stood a quarter of an hour, and went back. It came off the steelyard at five hundred and ninety-one hundredweight, which is eleven above the last, the forty-eighth pair of names, and the two halves were reconciled twice and never added.
 
-**"Fifty-eighth return and forty-eighth pair and five hundred and ninety-one, and the second rule in that room stood empty for the thirty-ninth time and the count of blanks on that board is thirty-nine and did not move on this page or on any other page today."**
+**"Fifty-eighth return and forty-eighth pair and five hundred and ninety-one, and the second rule in that room stood empty for the thirty-ninth time, and the thirty-nine blanks on that board are thirty-nine this morning and were thirty-nine when the wagon came up the road."**
 
-The clerk closed the book on his thumb and said the thing he says on a return and then said one more thing, and the second thing was new.
+The clerk closed the book on his thumb and said what he says on a return, and then said one more thing, and the second thing was new.
 
 **"I am not going to fill that rule in the gap between two loads. It will be filled one day by somebody who has been told what the rule is for, and it will not be filled by me because I have been the only man here to see it empty for four years and that is not a qualification."**
 
 He shut the book and put it under his arm and stood with it.
 
-**"A rule that comes back empty opens nothing. That is what I have said on every return and I am saying it again on the fifty-eighth because on the fifty-ninth somebody in this room will want it to be different and I want it on the record that I said so before."**
+**"A rule that comes back empty opens nothing. That is what I have said on every return and I am saying it again on the fifty-eighth, because on the fifty-ninth somebody in this room will want it to be different and I want it on the record that I said so before."**
 
-Marek stood by the steelyard with a bar in his hand while the wagon was being weighed and did not offer it to anybody, and when the wagon went back down the fen road he said the thing about the two sentences and gave the wagon as the reason and then withdrew the reason.
+Marek stood by the steelyard with a bar in his hand while the wagon was being weighed, and turned it over twice without offering it to anybody, and then went up the road and offered it.
 
-**"I was going to say that a wagon has carried eight loads before this one and has never carried those two sentences, and that is a good enough reason, and I am not going to use it, because a reason that depends on what a wagon has carried is a reason about wagons."**
+Soren Rill was fifty yards up the fen road with his back to the yard and the wagon coming down at him.
 
-He set the bar down against the wall.
+**"Take the bar and stand on the other side. Not to help with it. To be the other side."**
 
-**"They are not spoken. They have not been spoken for nine mornings and they are going to be spoken whole on a morning when I say them whole, and the morning is not this one and I am not going to promise you which morning it is."**
+Soren Rill took it. He did not ask what for and he did not say one word, and he stood at the far side of the wheels with both hands on the bar while the wagon came down, and he kept it there until the wagon was past him and up the far side, and then he brought it back and set it against the wall in the place it had been standing in, without being asked.
+
+Marek watched him do that, and then came back and stood at the end of the table with his hands empty, which was a new thing to be able to say about his own hands.
+
+**"They are not spoken," he said. "They have not been for nine mornings and I am not going to promise you which morning it will be, and that is the whole of the announcement and I have decided there is not going to be a second half of it."**
 
 Three hundred and sixty-eight on the sheet of the four bodies of households, and printed under it in a smaller hand the three hundred and sixty-seventh out of three hundred and sixty-ninth, one short and one long. The chalk on the wall outside and that clause in here have never been put together in any book in this holding.
 
 Seven hundred and fifty-four on the near board and eight hundred and one on the far one, forty-seven between them as it has been for four years, and the drawer behind the near board was shut at every hour of the morning and was shut when the wagon was weighed and was shut when the wagon went.
 
-There are three sheets on the long table. The first of them is sixty-seven days old and lies face up with about nine inches of bare board on either side, the second is folded, and the third bears a name at the top, a date, a hand at the foot and a seal in the corner and is correct in every particular. None of them was entered, none was refused, and no column was ruled for any of them.
+The three sheets are on the long table. The first of them is sixty-seven days old and lies face up with about nine inches of bare board on either side, the second is folded, and the third bears a name at the top, a date, a hand at the foot and a seal in the corner and is correct in every particular. None of them was entered, none was refused, and no column was ruled for any of them.
 
 The clerk derived the three ages at the middle table with the form open and the charter behind it and Silling's book open at the corner.
 
@@ -52,22 +56,18 @@ The clerk derived the three ages at the middle table with the form open and the 
 
 The third column of the sheet of terms is ruled and has nothing in it and nobody has been near its heading with a pen. Under two words in the corner of the one room, four lines stand bare. On the sheet of what this holding does not know, six rows are ruled and every one of them is empty, and a seventh is not cut, and the four things it is not cut for are the covenant, the machine, the schedule and the confession.
 
-The requests stand at fifty-three and the section-nine notes stand at fifty-three and none of the three sheets has gone into either of them and neither figure moved today when a wagon came and went.
+The requests stand at fifty-three and the section-nine notes stand at fifty-three and none of the three sheets has gone into either of them, and neither figure moved today when a wagon came up a road and went back down it.
 
-The barrow is against the wall at eleven journeys and eleven is a floor and the wagon did not use it. The use log holds fifteen lines and the sixteenth is not written and was not written this morning with a whole load on the steelyard and two men free. Sixty-six sits in the seventh column of a door nine hundred yards off and went no further back today. The man of about seventy was fetched by nobody and had nothing put to him.
-
-Soren Rill had walked out to meet the wagon on the fen road and come back in with his boots white and had stood at the weight while it was being read and said nothing at all until the wagon had gone, which the clerk noted by not asking him anything.
-
-**"I walked out to see it come and I walked in behind it and I did not say one word to it and I am not going to say a word about it now either, because a wagon coming is a load coming and not a morning coming."**
-
-He put the spade back in the hole at the soft end of the middle road, where it has stood since he dug it.
-
-The woman of about thirty-eight of Marden had a second can short this morning and said so once, at the tap, to anybody who happened to be within earshot, and then went on filling the three that were left.
-
-**"Three cans and not four, and I said it out loud so that it is not discovered by somebody at the wrong time, and I am not going to be blamed for a short can that was announced on the morning it was short."**
+Against that wall the barrow is with eleven journeys in chalk down its side, where eleven is a floor, and the wagon did not use it. The use log on its shelf has fifteen lines in it and the sixteenth is not written, and it was not written this morning with a whole load on the steelyard and two men standing free. Sixty-six sits in the seventh column of a door nine hundred yards off and went no further back today. The man of about seventy was fetched by nobody and had nothing put to him.
 
 Paid stands in front of twenty-eight on the compost line, and paid is not a discharge, and the interval that governs that line does not ask anybody's leave before it arrives.
 
-Zero rungs went up that ladder today and neither of the two people on it has a figure against his name. The offer on the low board is undated, unmoved, untaken and not withdrawn.
+Nobody climbed a rung of that ladder today and neither of the two people standing on it has a figure against his name. The offer on the low board is undated, unmoved, untaken and not withdrawn.
 
-Rut water standing in a wagon's track on the fen road, thirty-nine blanks on a board, and a second rule left empty for the thirty-ninth time.
+Soren Rill had walked out to meet the wagon on the fen road and come back in with his boots white, and he had stood at the weight while it was being read and said nothing at all until the wagon had gone, which the clerk noticed by not asking him anything. He stood by the gate afterwards with the bar in his hands still, having picked it up off the wall and not noticed that he had.
+
+**"I walked out to see it come and I walked in behind it, and I stood at the other side of your wagon with your bar in my hands for the last quarter mile and I did not say one word about that either," he said, "because a wagon coming is a load coming and not a morning coming, and there is a difference, and I am the only man in this county who is going to keep saying so."**
+
+He gave the bar back to Marek then, and Marek put it against the wall where it had been standing all week, and Soren Rill went and put the spade back in the hole at the soft end of the middle road where it had stood since he dug it, and went home.
+
+The woman of about thirty-eight of Marden had a second can short this morning and said so once, at the tap, to anybody who happened to be within earshot, and then went on filling the three that were left, and the man of about fifty counted them where he stood and did not say anything about the arithmetic, which was the first time in the week he had kept his mouth shut on a number he could have had.

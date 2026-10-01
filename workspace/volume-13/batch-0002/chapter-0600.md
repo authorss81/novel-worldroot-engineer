@@ -36,7 +36,7 @@ She looked at Nia Vale and Nia Vale took her broom and went and swept the low en
 
 **"It is a can and not a rule, and if it stands till Tuesday and somebody wants it they can ask me for it and I will say no if I want to."**
 
-Marek came in from the gate at about the tenth hour with his hands in his coat and stood at the end of the long table, and a man in that yard said out loud the second time this month that he was not going to say two sentences, and this time he gave a reason that had not been given before.
+Marek came in from the gate at about the tenth hour with his hands in his coat and stood at the end of the long table. On Friday he had said both of them before the frost was off the step. Yesterday he had come to that same table and told the yard he was not going to. He had a bad feeling about which of those two things was the true one and he had a worse feeling about the fact that he knew.
 
 **"I told this yard yesterday that I would not say them and that the not saying was a choice and not a softening, and if I stand here every morning announcing that I am not saying them then the announcement is the sentence with a coat on."**
 
@@ -44,36 +44,38 @@ He turned a slate over on the shelf and put it back the other way up, which achi
 
 **"So I am not going to announce it either. They are not spoken today. If anybody wants to know whether they were spoken today they can ask the clerk, and the clerk will say no, and that is the whole of the record and it will not be improved by me standing here."**
 
-The clerk derived the ages at the middle table with the form open and the charter behind it and Silling's own book squared to the edge, and read the three without a pause between them.
+He said that last part to the table and not to the yard, and Nia Vale, who was the only one near enough to have the good ear side of it, looked up once and then went on with her sweeping and gave him nothing.
+
+The clerk derived the ages at the middle table with the form open, the charter behind it and Silling's own book squared to the edge, and read the three without a pause between them.
 
 **"The form is two hundred and fifty-seven days old. The charter behind it is a hundred and sixty-three. Silling's second ruled line is two hundred and fifty-one and is bare. Three documents and not one total."**
 
-He shut Silling's book on his finger and left it open at the corner.
+He shut Silling's book on his finger and left it open at the corner, and then read the rest of the standing of that room off the top of his head without looking at any of it.
 
-**"Four bare lines with the answer not due, the third column ruled and empty, seven sessions in this holding's book and no eighth this morning because there is no room and nobody is in one, six rows ruled against what we do not know and no seventh."**
+**"Four bare lines with the answer not due, the third column ruled and empty, seven sessions in this holding's book and no eighth this morning because there is no room and nobody is in one, six rows ruled against what we do not know and no seventh cut."**
 
-There are three sheets on the long table and the first of them is sixty days old and lies face up with about nine inches of bare board on either side, and the second is still folded, and the third is correct with its name and its date and the hand at the foot of it and its seal, and the requests and the section-nine notes stand at fifty-three and fifty-three and have taken none of the three.
+Soren Rill came in near the end with mud on the heel of his spade and said he had walked past the wall nine miles off without stopping at it, on purpose.
 
-Soren Rill came in near the end with mud on the heel of the spade and said he had walked past the wall nine miles off without stopping at it, on purpose, because he has read it four times and it has not changed and neither has anything he has to say to it.
-
-**"Nine miles and I went by and I did not stop and I am not going to say what it says, because I have not read it this morning and I am not going to speak for a sheet I have not read in front of the people it was copied for."**
+**"Nine miles and I went by, and I am not going to say what it says, because I have not read it this morning and I am not going to speak for a sheet I have not read in front of the people it was copied for."**
 
 He put the spade against the wall where the frost does not get at it.
 
-Nia Vale swept the grit away from the hole Soren Rill dug on Saturday and put it back, and did not ask him whether she ought to, and he watched her do it and said that was the correct decision.
+Nia Vale swept the grit away from the hole Soren Rill dug on Saturday and put it straight back again, and did not ask him whether she ought to, and he watched her do it and said nothing at all, which out of Soren Rill is a longer speech than the other kind.
 
-**"A hole with swept grit round it is a hole nobody breaks a leg in and nobody writes down, and those are the two things I asked for and I got both in one morning."**
+**"She has done it twice now and asked me neither time," he said, eventually. "That is the whole of what I wanted out of a hole and I am not going to say the rest of it out loud in a yard."**
 
-The man of about fifty came in about noon and put a tin of nails on the shelf where the nails live, and counted them out loud on the shelf and got to nine and stopped and said he was not going to say the tenth out loud because there were nine in the tin.
+The man of about fifty came in about noon, put a tin of nails on the shelf where the nails live, counted them out loud on the shelf, got to nine and stopped.
 
 **"Nine and not ten, and I know what I just did and I am not sorry for it, because a number said in front of six people is a number that six people have."**
 
 He put the tin back and wiped his hands on his coat.
 
-Tova Reed carried nine trays out to the line and hung them in the sun and left them at an angle that lets the air off the bottom, and nobody in the yard asked her to move one of them for anything.
+Tova Reed carried nine trays out to the line and hung them in the sun at an angle that lets the air off the bottom, and went back in without being asked to move one of them for anything.
 
-The barrow stood against the wall at eleven journeys, and the use log kept fifteen lines and no sixteenth, and a door nine hundred yards off carries sixty-six in its seventh column, unread, and it went no further back, and the man of about seventy was not fetched and was not asked which number.
+Down the wall the barrow has eleven journeys in chalk along its side and eleven is a floor, and the use log on its shelf has fifteen lines in it and a clean margin under the fifteenth, and a door nine hundred yards off carries sixty-six scratched into its seventh column that nobody read today and that goes no further back. The man of about seventy was not fetched, and the twenty-nine fetchings against his name are as many as they were yesterday, and nobody in this yard put that number to him.
 
-Paid is the word in front of twenty-eight on the compost line and no one discharged anything in twenty-eight today. Nothing went into the ring of bare ground and no figure stands against it, and the offer on the low board is still lying there with nothing written on it and nothing taken up.
+On the long table are three sheets, the first of them sixty days old and face up, the second still folded, the third right in every particular with its name and its date and the hand at the foot of it, and the requests and the section-nine notes stand at fifty-three and fifty-three and have taken none of the three.
 
-Brass on the tap in the sun with one can in a woman's hand and four on the wall, and a gate shut hard at nine.
+Paid is the word in front of twenty-eight on the compost line and nothing was discharged in twenty-eight today. Nobody put a foot into the ring of bare ground and no figure stands against it, and the offer on the low board lies where it has lain, undated, with nothing written on it and nothing taken up.
+
+Renn Ashby came at nine to shut the gate and found it already shut, and stood with his hand flat on the leaf working out whether to lift the pin and put oil on it. If he oiled it, then the gate would work that way because of oil, and everything he had said about a quarter inch of pin would be a story a man told himself. He decided against it and put his hand in his coat pocket instead, and it is the first decision of his that he is confident he will still be able to point at in a month.
