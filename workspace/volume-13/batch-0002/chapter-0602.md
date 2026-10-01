@@ -64,15 +64,15 @@ The clerk derived the three ages and read them in the order they sit in the rack
 
 **"Silling's second of four ruled lines first, because it is the one nobody looks at: two hundred and fifty-three days and nothing on it this morning or any morning. Then the charter, a hundred and sixty-five. Then the form, two hundred and fifty-nine, not filled."**
 
-Nothing stands under two words in the corner of the one room, and the third column of the sheet of terms has its heading and no entries under it, and six rows are ruled on the sheet of not knowns with nothing against any row and no seventh row cut for the covenant or the machine or the schedule or anything else.
+Nothing stands under two words in the corner of the one room, and the third column of the sheet of terms has its heading and no entries under it, and six rows are ruled on the sheet of not knowns with nothing against any row and no seventh row cut for the covenant or the machine or the schedule or the confession.
 
-Three sheets are on the long table. The first is sixty-two days old and lies face up with about nine inches of bare board either side, the second is still folded, the third carries a name and a date and a hand and a seal and is correct in every particular and has not been called anything else by anybody in this yard.
+Three sheets are on the long table, and the first has lain face up for sixty-two days with a hand's width of bare board either side, the second is still folded, the third carries a name and a date and a hand and a seal and is correct in every particular and has not been called anything else by anybody in this yard.
 
 Nia Vale said a thing about the folded one and then stopped and gave the reason she was stopping.
 
 **"I have said my piece about that paper in three yards and I am stopping because the fourth time it comes out of me it comes out with a figure in it and the figure will be the wrong one."**
 
-The barrow is against the wall at eleven journeys and eleven is a floor and not a total. The use log holds fifteen lines. Sixty-six on the seventh column of a door nine hundred yards off was not read and did not go back. The man of about seventy was not fetched and nobody asked him anything.
+The barrow is against the wall at eleven journeys and eleven is a floor and not a total. The use log holds fifteen lines. The seventh column of a door nine hundred yards off reads sixty-six, unread, and going no further back. The man of about seventy was not fetched and nobody asked him anything.
 
 Paid is the word in front of twenty-eight on the compost line and no one has discharged anything in twenty-eight.
 

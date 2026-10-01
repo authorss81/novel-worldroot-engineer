@@ -22,7 +22,7 @@ The launder was read at nine from the wall in the ordinary way and it came to a 
 
 Eight came on to Thursday and this is the three hundred and sixty-eighth figure of a run that has never gone in twice, and the rise is not a remark about the rain.
 
-The halves gave a hundred and seventy-three and a hundred and sixty-two, and one hundred and seventy-three added to a hundred and sixty-two is three hundred and thirty-five, and the woman of about thirty-eight of Marden said it out loud and looked at the man of about fifty to see whether he had heard her.
+The wall carried a hundred and seventy-three and a hundred and sixty-two, and together they are three hundred and thirty-five, and the woman of about thirty-eight of Marden said it out loud and looked at the man of about fifty to see whether he had heard her.
 
 **"Three hundred and thirty-five, and I am not going to pretend I did not hear you say it, and I am not going to pretend you did not hear me."**
 
@@ -30,7 +30,7 @@ That run was not read this morning. It belongs to the odd mornings and Friday is
 
 The four bodies of households carry three hundred and sixty-six on the sheet, with the three hundred and sixty-fifth out of three hundred and sixty-seventh beneath it, one under and one over, and a man who puts that clause on the wall figure is adding two documents that have never been added in this holding.
 
-Seven hundred and fifty-two on the near board and seven hundred and ninety-nine on the far one, and the drawer behind the near one was shut at every hour from before light until noon and the man with the key did not take it out of his pocket.
+The near board carries seven hundred and fifty-two and the far one seven hundred and ninety-nine, the drawer behind the near one shut at every hour from before light until noon, and the man with the key did not take it out of his pocket.
 
 Lying along the long table are three sheets with nine inches of bare board between them. The first is sixty-five days old, face up. The second is folded. The third is correct in every particular and has a name, a date, a hand and a seal. Not entered, not refused, and no column ruled under any of them in any of the four books in this building.
 
@@ -60,7 +60,7 @@ The use log keeps fifteen lines on its shelf under a weight and the space below 
 
 Paid is the word in front of twenty-eight on the compost line, and paid is not a discharge, and nobody in this holding has a say in when that figure moves.
 
-The succession ladder went up zero rungs on a morning when the cycle came round, and no figure is printed against either of the two people standing on it, and the offer on the low board has not been read out, has not been dated and has not been taken back. The ring of bare ground took no foot and carries no figure, and the ground that came up on the low field is a different piece and is not added to it.
+The succession ladder went up zero rungs on a morning when the cycle came round, and no figure is printed against either of the two people standing on it, and the offer on the low board has not been read out, has not been dated and has not been taken back. The ring of bare ground took no foot and carries no figure, and what came up on the low field is a different piece and is not added to it.
 
 Nia Vale had the broom out by noon because Friday always brings something off the low field onto the step, and she swept around the bench and not under it, and then stopped and swept under it, which is a thing she has not done in this yard before.
 

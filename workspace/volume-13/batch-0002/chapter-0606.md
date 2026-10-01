@@ -16,9 +16,9 @@ The man of about fifty asked him, straight out, whether a fall could come on a m
 
 **"The sky is not a hand on the scale. The rule is the hand and the rule has never asked the sky anything."**
 
-The halves at the wall gave a hundred and seventy-three one way and a hundred and sixty-three the other, and one hundred and seventy-three added to a hundred and sixty-three is three hundred and thirty-six, and the addition held and no fourth clock was made out of it.
+The wall had one figure at a hundred and seventy-three and the other at a hundred and sixty-three, the two of them together are three hundred and thirty-six, and the addition held and no fourth clock was made out of it.
 
-The morning run was read at the seventh hour out of the second book in the doorway, being an odd morning, and the reading was not a percentage and was not one figure against the other in any arithmetic anybody may do with it.
+It was an odd morning and the run was read out of the second book in the doorway at the seventh hour, and the reading was not a percentage and was not one figure against the other in any arithmetic anybody may do with it.
 
 **One hundred and fifty-five mornings of two hundred and ninety-three.**
 
@@ -78,7 +78,7 @@ Six rows are ruled on the sheet of what this holding does not know. Every one of
 
 The barrow is where it has stood for four years at eleven journeys, and the use log on its shelf has fifteen lines in it and a clean margin below them, and the number sixty-six is scratched on a door nine hundred yards off and was read by nobody today and goes no further back, and the man of about seventy stands at twenty-nine fetchings and was not fetched and was not asked.
 
-On the long table: a letter sixty-six days old lying face up with board either side of it, a council's paper folded, and a copy of a sheet that is on a wall nine miles off, with a name at the head of it, a date, a hand and a seal, and right in every particular.
+On the long table: a letter sixty-six days old lying face up with board either side of it, a council's paper folded, and a copy of a sheet that is on a wall nine miles off, headed with a name and dated and signed and sealed, and right in every particular.
 
 Nobody has entered any of them. Nobody has refused any of them. Four books in this building and no column ruled under a single one of the three in any of the four, and about nine inches of bare board on either side of each.
 
@@ -86,7 +86,7 @@ Fifty-three requests sit in their column and fifty-three notes sit in the sectio
 
 A man went past that board with a barrow at noon and did not look at it, and that is the correct behavior and is not a fault of anybody's attention.
 
-Paid is the word in front of twenty-eight on the compost line and nothing is discharged in twenty-eight and nobody in this yard owns the line or has any say in when it moves.
+Nothing has been discharged in twenty-eight and paid is the word in front of that figure on the compost line, and nobody in this yard owns the line or has any say in when it moves.
 
 The succession ladder went up zero rungs today and neither of the two people standing on it has a figure against his name anywhere in this holding, and the offer on the low board has not been read out, has not been dated, has not been moved and has not been taken back.
 
