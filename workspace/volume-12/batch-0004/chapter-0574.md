@@ -8,11 +8,11 @@ The clerk of this holding wrote the figure in the second book before the light a
 
 **One thousand and one hundred and thirteen hundredweight.**
 
-Tuesday came off Monday by five and the standing against the launder is the three hundred and thirty-seventh figure of a run in which nothing has ever been entered twice.
+Tuesday gave five back to Monday, and the figure standing against the launder is the three hundred and thirty-seventh of a run in which nothing has ever been entered twice.
 
 The rising half of the window went on the wall at a hundred and fifty-seven mornings and the falling half at a hundred and forty-seven, and the two of them came to three hundred and four, and the man who said the first of them did not say the total out loud and the other one worked it out and said it anyway.
 
-At the seventh hour the run of mornings was read out from under its heading in the second book, of a month nine months back, and a Tuesday is an odd morning and the run is read on odd mornings and that heading has not moved since the first of this month.
+A Tuesday is an odd morning, so out of the second book at the seventh hour came the run of mornings, taken from under its heading of a month nine months back, and that heading has not moved since the first of this month.
 
 **One hundred and thirty-nine mornings of two hundred and sixty-one.**
 
@@ -82,7 +82,7 @@ The use log has fifteen lines in it and the barrow's journeys are at eleven, and
 
 Nothing was entered as an eighth session this morning, and a man asking a woman for a number at a gate is not one. The book still shows seven, the requests column and the section-nine notes are both at fifty-three, and the letter is in neither.
 
-Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them, and a length paced with a boot is not a seventh and the seventh row is not ruled.
+Not one of the six rows this holding rules for what it does not know about has ever had a unit written against it, and a length paced out with a boot is not a seventh, and the seventh row is not ruled.
 
 Boot on a wall and then off it again, and about eleven yards of somebody's ground that nobody is going to write down, and a woman who would not turn a pace into a figure for a man from a tap four miles off, and nobody thanked anybody.
 

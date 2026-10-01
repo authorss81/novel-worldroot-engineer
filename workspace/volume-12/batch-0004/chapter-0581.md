@@ -14,7 +14,7 @@ The two reckonings of the rotation disagree this morning, as they have every mor
 
 The clerk said that to the board and put his finger on the twenty-nine and left it there for a second and then took it off.
 
-The launder figure went in at the first hour and came back out of the second book at the ninth, and Tuesday came up eight off Monday, and the standing against it is the three hundred and forty-fourth figure of a run in which nothing has ever been entered twice.
+The launder figure went into the second book at the first hour and came back out of it at the ninth, Tuesday having come up eight off Monday, and the standing against it is the three hundred and forty-fourth figure of a run in which nothing has ever been entered twice.
 
 **One thousand and one hundred and thirty hundredweight.**
 
@@ -66,7 +66,7 @@ A man who went up a bank in the dark this morning and came down at the fifth hou
 
 Paid goes in front of twenty-seven on the compost line and it is not discharged in twenty-seven, and it moves on an interval and not on anybody's instruction, and this week it is going to move.
 
-Six rows are ruled for what this holding does not know about and no unit has been written against any of them in eleven years, and eleven feet of a wall is not a seventh and the seventh row is not ruled.
+Six rows stand ruled in this holding for what it does not know about and not one of them has ever taken a unit, and eleven feet of a wall is not a seventh, and the seventh row is not ruled.
 
 Nobody entered an eighth session in this holding this morning. Fifty-three stands in the requests column and fifty-three in the section-nine notes, neither of them took anything, and the letter is in neither of the two.
 

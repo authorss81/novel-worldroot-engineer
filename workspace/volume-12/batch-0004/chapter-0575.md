@@ -12,7 +12,7 @@ Wednesday came up eight on Tuesday, and the figure standing against the launder 
 
 A hundred and fifty-eight mornings one way against a hundred and forty-seven the other, and the man who said the first said the total out loud this time, three hundred and five, and the other man said nothing and went to the outlet end.
 
-There is no figure against the run of mornings this morning and the clerk left the space empty, because half of that run is a half number on a Wednesday, and it was full yesterday and it will be full tomorrow and it has gone that way since the day the run was begun.
+There is no figure against the run of mornings this morning and the clerk left the space empty, because half of that run is a half number on a Wednesday, and the heading of a month nine months back is standing over the space it has stood over since the first of this month, and it was full yesterday and it will be full tomorrow and it has gone that way since the day the run was begun.
 
 The man of about thirty-one of Silling was asked at the seventh hour to go up the bank in the dark on Saturday, and he said no, and he gave the reason before the answer and nobody in the yard had asked him a second question.
 
@@ -52,7 +52,7 @@ She squared her sheets against the low board.
 
 Nobody in the yard asked her what she wanted them to do about the possibility, and nobody put a hand on her arm.
 
-The aggregate of the four bodies of households is three hundred and thirty-six days on the sheet in this yard and the clause beneath it takes the three hundred and thirty-fifth of those mornings out of three hundred and thirty-seventh, one under and one over.
+Three hundred and thirty-six days is the aggregate standing against the four bodies of households on the sheet in this yard, and the clause beneath it takes the three hundred and thirty-fifth of those mornings out of three hundred and thirty-seventh, one under and one over.
 
 The two boards on that wall read seven hundred and twenty-two days and seven hundred and sixty-nine days, and there is forty-seven days between those two figures and not one word written in the gap.
 
@@ -78,7 +78,7 @@ Three documents and not one of them has been read out in this yard this month.
 
 Paid goes in front of twenty-seven on the compost line and it is not discharged in twenty-seven, and it will not fall this week and nobody in this holding has anything to do with that.
 
-Six rows are ruled for what this holding does not know about and no unit has been written against any of them in eleven years, and a man saying no to a bank in the dark is not a seventh and the seventh row is not ruled.
+In eleven years nobody has written a unit against any of the six rows this holding rules for what it does not know about, and a man saying no to a bank in the dark is not a seventh, and the seventh row is not ruled.
 
 The use log has fifteen lines in it. The barrow's journeys are at eleven and the barrow is against a wall where it has been since Saturday and there is no hand on it today.
 

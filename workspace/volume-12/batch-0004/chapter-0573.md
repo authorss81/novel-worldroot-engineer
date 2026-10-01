@@ -6,7 +6,7 @@ Rain came in off the water about the second hour and went on until the fifth and
 
 The pack under the near stone came out wet and went back wet and the standpipe was running full and inside its own lip by seven.
 
-No field was taken, and that is the twelfth morning this year that this line has gone up that bank in the dark and come back down it with nothing at all in the taking column, and there is nobody in this holding to blame for a field that has been waiting four years for anybody to put a name in it.
+No field was taken off that bank this morning, and it is the twelfth time this year the line has gone up there in the dark and come back down it with nothing at all in the taking column, and there is nobody in this holding to blame for a field that has been waiting four years for anybody to put a name in it.
 
 The clerk of this holding had the count in before the light and read it out once at the ninth hour, and it is a hundred and twenty-three mornings in force with twenty-nine taken and ninety-four not, and twenty-nine and ninety-four is a hundred and twenty-three.
 
@@ -64,7 +64,7 @@ Nobody in that yard agreed with her and nobody disagreed with her and nobody tha
 
 Soren Rill was not in the yard today. He was up the four-mile road at the sixth hour and the second bend at the ninth, and the trough at the head of that road had a hand of water in it and had not been full since the middle of last week.
 
-Three hundred and thirty-four days is what the sheet in this building carries against the four bodies of households, and the clause beneath that figure takes three hundred and thirty-third of those mornings out of three hundred and thirty-fifth, one under and one over at every site.
+The sheet in this building carries three hundred and thirty-four days against the four bodies of households, and the clause beneath that figure takes three hundred and thirty-third of those mornings out of three hundred and thirty-fifth, one under and one over at every site.
 
 There are two numbers on the long wall this morning and they are seven hundred and twenty on the near board and seven hundred and sixty-seven on the far board, and the man who reads the schedule off the wall in the outer office read both of them standing in the rain before he went and looked at a heap of stone, and said nothing about the forty-seven days between them. The drawer behind the near board stood shut at every hour.
 
@@ -86,7 +86,7 @@ The charter it lies in front of is a hundred and thirty-six days through a door 
 
 Paid is in front of twenty-seven on the compost line and it is not discharged in twenty-seven, and it moves inside this month on an interval and not on anybody's decision, and nine people in this county found out last week at once and not one of them said it first.
 
-Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them, and a heap of stone that four men carried up a bank in the dark is not a seventh, and the seventh row is not ruled.
+Nothing has ever been written against any of the six rows this holding rules for what it does not know about, and a heap of stone that four men carried up a bank in the dark is not a seventh, and the seventh row is not ruled.
 
 Seven sessions stand entered in this holding's book and there was no eighth this morning. The requests column and the section-nine notes are both at fifty-three and neither has taken anything today and the letter is in neither of them.
 

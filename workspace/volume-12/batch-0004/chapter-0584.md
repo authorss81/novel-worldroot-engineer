@@ -8,11 +8,11 @@ The figure went into the second book at the first hour and the clerk read it bac
 
 **One thousand and one hundred and twenty-eight hundredweight.**
 
-Five came back off it on Friday, and the figure standing against the launder is the three hundred and forty-seventh of a run in which nothing has ever been entered twice.
+Friday gave five back, and what stands against the launder is the three hundred and forty-seventh figure of a run in which nothing has ever been entered twice.
 
 At the long wall the two halves were a hundred and sixty-two mornings one way and a hundred and fifty-two the other, and they came to three hundred and fourteen, and the man who said the second of them said the total out loud before anybody had asked him for it.
 
-The run of mornings was read at the seventh hour out of the second book, of a month nine months back, and a Friday is an odd morning and the run is read on odd mornings and the heading has not moved since the first of this month.
+A Friday is an odd morning and that run is read on the mornings that are odd, so it came out of the second book at the seventh hour under its heading of a month nine months back, and that heading has not moved since the first of this month.
 
 **One hundred and forty-four mornings of two hundred and seventy-one.**
 
@@ -38,7 +38,7 @@ She filled the can, set it down on the step, and then picked it up again.
 
 Nobody in that yard said she had told the man he was wrong and nobody said he had told her she was wrong, and the sheet stayed where it was on the long table and no line was ruled under it.
 
-Soren Rill came in off the four-mile road at about the ninth hour and did not go to the long table at all and did not read the sheet, and the man of about fifty told him about it at the wall in about four sentences and Soren Rill listened to all four of them.
+Soren Rill came in off the four-mile road at about the ninth hour and did not go to the long table at all and did not read the sheet, and the man of about fifty told him about it at the wall in a handful of sentences and Soren Rill listened to every one of them.
 
 **"Then here is the other half of it and I am saying it to a wall and not to the man who read the numbers."**
 
@@ -88,7 +88,7 @@ Three sheets came into this yard this month and three documents have stood on th
 
 Paid is the word in front of twenty-eight on the compost line and it is not discharged in twenty-eight. The rule in the board in the one room stands empty and the count of blanks on that board is thirty-nine.
 
-Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them, and a table of places and dates is not a seventh and the seventh row is not ruled.
+Any one of the six rows ruled here for what this holding does not know about could take a unit and none of them ever has, and a table of places and dates is not a seventh, and the seventh row is not ruled.
 
 Seven sessions stand entered in this holding's book and nothing this morning made an eighth. Fifteen lines are in the use log, the barrow's journeys are at eleven against the wall a man put it beside a fortnight ago, and eleven is a floor.
 

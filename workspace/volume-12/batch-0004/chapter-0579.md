@@ -56,7 +56,7 @@ The clerk of this holding was at the long wall and heard that and did not come o
 
 **"A trough came up a foot in a night and a man told this yard the reason it was a foot down last week is that no line in four counties has ever had it in it, and I have kept this book for eleven years and I have never had a column for a trough and I am not going to rule one at the tenth hour on a Sunday because a man was wet."**
 
-Against the four bodies of households the sheet in this building has three hundred and forty days on it, and the clause under it takes three hundred and thirty-ninth of those mornings out of three hundred and forty-first, one under and one over at every site.
+Three hundred and forty days is what the sheet in this building carries against the four bodies of households, the clause under it taking three hundred and thirty-ninth of those mornings out of three hundred and forty-first, one under and one over at every site.
 
 There are two numbers on the long wall and they are seven hundred and twenty-six days on the near board and seven hundred and seventy-three days on the far one, and the man of about fifty read them both on his way up the four-mile road in the rain and did not stop at either, and the clerk of this holding did not offer to explain the forty-seven days between them to a man who had not asked.
 
@@ -80,7 +80,7 @@ A man came nine miles in the rain this morning and read a schedule off a wall an
 
 Paid is in front of twenty-seven on the compost line and it is not discharged in twenty-seven, and the line is going to move inside this month on an interval and not on anybody's instruction.
 
-Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them, and a trough fed off a spur with no line in it is not a seventh and the seventh row is not ruled.
+Any of the six rows this holding rules for what it does not know about would take a unit and none of them ever has, and a trough fed off a spur with no line in it is not a seventh, and the seventh row is not ruled.
 
 Seven is what the book of this holding shows for sessions, and the ninth hour of the second of this month did not make an eighth. The requests column and the section-nine notes are both at fifty-three, and the letter came up the fen road that hour and went into neither.
 

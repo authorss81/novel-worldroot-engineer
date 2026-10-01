@@ -8,11 +8,11 @@ The clerk of this holding had the figure in the second book before six and read 
 
 **One thousand and one hundred and ten hundredweight.**
 
-Sunday came off Saturday by five, and the three hundred and thirty-fifth figure of a run in which nothing has been written down twice is the one that stands against the launder this morning.
+What Sunday left against the launder, having given five back to Saturday, is the three hundred and thirty-fifth figure of a run in which nothing has ever been written down twice.
 
 The rising half of the window was read at a hundred and fifty-six mornings and the falling half at a hundred and forty-six, and one man said the other man's half back to him, and three hundred and two is what the two of them are.
 
-At the seventh hour the run of mornings was read out from under its heading in the second book, of a month nine months back, and a Sunday is an odd morning and the run is read on odd mornings.
+Out of the second book at the seventh hour came the run of mornings, read from under its own heading of a month nine months back, and a Sunday being an odd morning that run is read on the mornings that are odd.
 
 **One hundred and thirty-eight mornings of two hundred and fifty-nine.**
 

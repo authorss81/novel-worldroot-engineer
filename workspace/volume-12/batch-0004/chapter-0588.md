@@ -12,7 +12,7 @@ Tuesday came off Monday by five and the three hundred and fifty-first figure of 
 
 The two halves at the long wall were a hundred and sixty-four mornings one way and a hundred and fifty-four the other, and the two of them came to three hundred and eighteen, and both of the men said the total out loud at the same time and neither of them heard the other one do it.
 
-The run of mornings was read at the seventh hour out of the second book under the heading where it goes, of a month nine months back, and a Tuesday is an odd morning and the run is read on odd mornings, and the heading has not moved since the first of this month and it is not going to move before the month turns again.
+A Tuesday is an odd morning and that run is read on the mornings that are odd, so it came out of the second book at the seventh hour under its own heading of a month nine months back, and that heading has not moved since the first of this month and is not going to move before the month turns again.
 
 **One hundred and forty-six mornings of two hundred and seventy-five.**
 
@@ -36,7 +36,7 @@ Tova Reed was at the seed house from the fifth hour and came into the yard at ab
 
 She set the can on the step.
 
-**"Not because I have changed my mind. Because a thing you say three times becomes a thing you have said, and a thing you have said in a yard is in about four people, and the next time I say it there will be nine, and the next time there will be a number."**
+**"Not because I have changed my mind. Because a thing you say three times becomes a thing you have said, and a thing you have said in a yard is in four people before you have got to the gate, and the next time I say it there will be nine, and the next time there will be a number."**
 
 Nobody in that yard said she had it right and nobody said she had it wrong and nobody put a hand on her arm.
 
@@ -48,7 +48,7 @@ He put his hand flat on the bench.
 
 **"I am not going to fix it and I am not going to ask anybody to. I am a man with nothing to carry this month and I have been watching that road go soft under me for nine mornings and I have not said one word about it to anybody, and this morning I have said one word about it to nobody."**
 
-Marek was in the one room from the fifth hour with the door open and had the three sheets and the gate and the road through the gap in it, and came out at about the eleventh hour and stood in the yard in the sun with his sleeve down over his forearm.
+The three sheets and the gate and the road all came to Marek through the gap in the open door of the one room from the fifth hour, and he came out at about the eleventh hour and stood in the yard in the sun with his sleeve down over his forearm.
 
 He said three things and none of them was about the three sheets on the long table, and he said the first of them with nothing in front of him at all.
 
@@ -82,7 +82,7 @@ The register form is two hundred and forty-five days old, with a column headed n
 
 The second of the four ruled lines in the man of about thirty-one of Silling's own book is two hundred and thirty-nine days old with nothing on it, and in the corner of the one room, under two words, four ruled lines stand bare and the answer they are for is not due.
 
-Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them in eleven years, and the seventh row is not ruled.
+Six rows are ruled for what this holding does not know about and no unit has ever gone against any of them in eleven years, and the seventh row is not ruled.
 
 Seven sessions are entered in this holding's book and the count has not moved on any morning of this month and there is no eighth this morning, and fifty-three requests and fifty-three section-nine notes stand where they have stood all month.
 

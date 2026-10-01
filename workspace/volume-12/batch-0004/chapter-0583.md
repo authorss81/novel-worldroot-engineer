@@ -8,11 +8,11 @@ The clerk of this holding wrote the figure at the first hour and read it back on
 
 **One thousand and one hundred and thirty-three hundredweight.**
 
-Eight came on it in Thursday off Wednesday, and the three hundred and forty-sixth figure of a run in which nothing has ever been entered twice is what stands against the launder this morning.
+Thursday put eight onto Wednesday's figure, and the three hundred and forty-sixth figure of a run in which nothing has ever been entered twice is what stands against the launder this morning.
 
 The two halves at the long wall were a hundred and sixty-two mornings one way and a hundred and fifty-one the other, and they came to three hundred and thirteen, and the man who said the rising half wrote the total in the long wall's own book, which is a different book from the second one and which the clerk of this holding does not keep.
 
-There is nothing in the second book this morning under the heading where the run of mornings goes, and the reason is on this page and no figure is on the page with it. Half of that run is a half number on a Thursday, and a book is not a place for half of a number.
+There is nothing in the second book this morning under the heading where the run of mornings goes, and that heading is of a month nine months back and it has stood there since the first of this month. The reason there is no figure is on this page and no figure is on the page with it. Half of that run is a half number on a Thursday, and a book is not a place for half of a number.
 
 At about the fourth hour of the afternoon the man who reads the schedule off the wall in the outer office came up the direct road on foot with something flat under his arm that was not the roll he brought last Monday, and he came the whole way to the middle of the yard before he said anything to anybody, which is what he does.
 
@@ -48,7 +48,7 @@ He put his hand flat on the table about a foot away from the edge of the sheet a
 
 **"There is a line on that sheet about the districts beyond the maintenance zone and I am not going to read that line out in this yard this afternoon, and I am not going to let anybody make me the man who read it out."**
 
-Three hundred and forty-four days is what the sheet in this yard carries for the four bodies of households, and the clause below it takes three hundred and forty-third of those mornings out of three hundred and forty-fifth, which is one under and one over at every site.
+The sheet in this yard carries three hundred and forty-four days for the four bodies of households, and the clause below it takes three hundred and forty-third of those mornings out of three hundred and forty-fifth, which is one under and one over at every site.
 
 A sheet with a name at the head of it came to the long table this afternoon. The near board of the long wall says seven hundred and thirty days and the far board says seven hundred and seventy-seven days, forty-seven between them, and the clerk of this holding read both numbers after he read the sheet.
 

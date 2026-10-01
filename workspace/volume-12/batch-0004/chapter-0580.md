@@ -8,7 +8,7 @@ The clerk of this holding had the figure in the second book before there was lig
 
 **One thousand and one hundred and twenty-two hundredweight.**
 
-Monday came off Sunday by five and the three hundred and forty-third figure of a run in which nothing has ever been entered twice is what stands against the launder this morning.
+What Monday left against the launder, having given five back to Sunday, is the three hundred and forty-third figure of a run in which nothing has ever been entered twice.
 
 The rising half of the window was a hundred and sixty mornings and the falling half a hundred and fifty, and the two of them came to three hundred and ten, and the man who said the falling half said the total before the other one had got his number out.
 
@@ -74,7 +74,7 @@ Two hundred and thirty-seven days on the middle table, a column headed nothing, 
 
 Twenty-seven is what the compost line carries and paid is the word in front of it, and it is not discharged in twenty-seven. It falls inside this week on an interval that nobody in this holding set and nobody in this holding can stop.
 
-Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them, and an empty rule cut beside a full one is not a seventh and the seventh row is not ruled.
+Six rows are ruled in this holding for what it does not know about and not one of them has ever taken a unit, and an empty rule cut beside a full one is not a seventh, and the seventh row is not ruled.
 
 A load standing on a steelyard for a quarter of an hour is not a session, and this holding's book went on showing seven at the end of it. Fifty-three requests and fifty-three section-nine notes took nothing this morning either, and the letter is in neither.
 
