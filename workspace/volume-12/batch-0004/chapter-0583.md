@@ -60,7 +60,7 @@ The register form is two hundred and forty days old, its column headed nothing a
 
 A sheet with a name at the head of it and a date at the foot of it arrived on that table this afternoon and none of those three documents has a column for it either.
 
-Paid is the word in front of twenty-eight on the compost line and it is not discharged in twenty-eight. Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them, and a sheet with a name at the head of it and a date at the foot of it is not a seventh and the seventh row is not ruled.
+Paid is the word in front of twenty-eight on the compost line and it is not discharged in twenty-eight. Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them, and the paper that came in this afternoon is not a seventh and the seventh row is not ruled.
 
 Seven sessions are entered in this holding's book and there was no eighth this afternoon. The use log has fifteen lines in it and the sixteenth is not among them, and the man who brought the sheet in did not ask to see it and nobody offered it to him.
 
