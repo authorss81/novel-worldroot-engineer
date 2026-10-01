@@ -1,10 +1,10 @@
-## CURRENT STATE, VOLUME 13 BATCH 0002 AFTER THE REPAIR PASS OF 2026-10-01. THIS BLOCK IS DATED AFTER EVERY BLOCK BELOW IT AND IT GOVERNS EVERY MATTER IT NAMES. NOTHING BELOW IT IS DELETED.
+## CURRENT STATE, VOLUME 13 BATCH 0003 AFTER THE WRITING PASS OF 2026-10-01. THIS BLOCK IS DATED AFTER EVERY BLOCK BELOW IT AND IT GOVERNS EVERY MATTER IT NAMES. NOTHING BELOW IT IS DELETED.
 
 **READ THIS BLOCK AND THE FEET OF THE OTHER THREE STATE FILES. A PHASE THAT READS ANY STATE FILE WHOLE HAS SPENT ITS CONTEXT ON HISTORY.**
 
-**WHERE THE MANUSCRIPT IS.** `workspace/volume-13/batch-0002/`, days 812 to 821, ten mornings, files `chapter-0599.md` through `chapter-0608.md`, all ten on disk, complete, repaired. Volume 13 stands at thirty-five thousand five hundred and sixty words across twenty mornings and is NOT closed. The manuscript stands at 1,743,758 words across 608 chapter files. Volume 12 stands unchanged at 118,058 across forty-nine mornings. No projection of any volume appears in this file and none may be published.
+**WHERE THE MANUSCRIPT IS.** `workspace/volume-13/batch-0003/`, days 822 to 831, ten mornings, files `chapter-0609.md` through `chapter-0618.md`, all ten on disk, complete, not yet reviewed. Volume 13 stands at fifty-three thousand one hundred and forty-one words across thirty mornings and is NOT closed. The manuscript stands at 1,761,283 words across 618 chapter files. Volume 12 stands unchanged at 118,058 across forty-nine mornings. No projection of any volume appears in this file and none may be published.
 
-**THE WORD COUNTS, measured per file in one loop, never by concatenation, after the last prose change.** `batch-0002`: 1,904, 1,679, 1,944, 1,791, 1,884, 2,047, 1,810, 2,021, 1,689, 2,278, being 19,047 across ten files, a mean of 1,905. `batch-0001` stands unchanged at 16,569 across ten files, a mean of 1,657.
+**THE WORD COUNTS, measured per file in one loop, never by concatenation, after the last prose change.** `batch-0003`: 1,877, 1,782, 2,035, 1,646, 1,867, 1,826, 1,736, 1,449, 1,742, 1,566, being 17,525 across ten files, a mean of 1,753. `batch-0002` stands unchanged at 19,047 across ten files, a mean of 1,905. `batch-0001` stands unchanged at 16,569 across ten files, a mean of 1,657.
 
 **THE FIGURES 15,362, 15,184, 15,214, 15,233, 1,536, 1,518, 1,521, 1,523, 31,931, 31,753, 31,783, 31,802, 1,740,073 AND 1,739,895, IN WHICHEVER OF THE FOUR FILES THEY ARE PUBLISHED, ARE WITHDRAWN AND SUPERSEDED BY THE TWO SETS ABOVE. The two sets that were carried in this file for the same ten chapters are one set now.**
 
@@ -14,7 +14,7 @@
 
 **THE MECHANICAL SWEEPS, measured.** Zero non-ASCII glyphs, zero curly marks, zero em and en dashes, zero tabs, zero trailing-whitespace lines, zero consecutive-blank-line runs, zero `>` blocks against the volume ceiling of thirty, ten of ten files ending in a newline, zero unbalanced quotation marks and zero unbalanced bold markers, every speech paragraph opening and closing its own quotation, no banned word, no month name in any form, the three hits of the token *may* being the modal verb, and the bare words *volume* and *batch* in zero paragraphs of body prose. Mean paragraph length 35.9 to 47.7 against a band of twenty-five to seventy-five, longest paragraph one hundred and thirteen words, zero paragraphs over a hundred and twenty, no file ending on an all-negation paragraph, and ten distinct last-paragraph openers being Nia, Renn, No, He, Kellan, Nobody, She, That, The and At.
 
-**THE ONE NEXT PHASE, and it is the only one.** `workspace/volume-13/batch-0003/`, days 822 to 831, on disk and unrun. Its prompt's stale baselines were corrected in place by this pass. **DO NOT WRITE A PROMPT INTO `batch-0001` OR `batch-0002`, both of which are written and complete and both of which sort before `batch-0003`. DO NOT WRITE A SECOND SUCCESSOR ANYWHERE.**
+**THE ONE NEXT PHASE, and it is the only one.** `workspace/volume-13/batch-0004/`, days 832 to 841, on disk and unrun, created by this pass. **DO NOT WRITE A PROMPT INTO `batch-0001`, `batch-0002` OR `batch-0003`, all three of which are written and complete and all three of which sort before `batch-0004`. DO NOT WRITE A SECOND SUCCESSOR ANYWHERE.**
 
 ## THE INDEX AFTER THE REPAIR OF THE VOLUME 12 OUTLINE RE-RUN, AND IT CORRECTS TWO THINGS A WRITER WOULD OTHERWISE INHERIT WRONG, AND EVERY BLOCK BELOW THIS ONE IS HISTORY AND IS LEFT STANDING
 
