@@ -8,7 +8,7 @@ The clerk of this holding wrote the figure at the first hour and read it back on
 
 **One thousand and one hundred and thirty-one hundredweight.**
 
-Sunday took five off Saturday, and what stands against the launder this morning is the three hundred and forty-ninth figure of a run in which nothing has ever been entered twice.
+Sunday took five off Saturday, and the three hundred and forty-ninth figure of this run went onto the board at the outlet end, and the man at the outlet end read it back and wrote nothing else beside it.
 
 At the long wall the rising half was a hundred and sixty-three mornings and the falling half a hundred and fifty-three, and the two of them came to three hundred and sixteen, and the man who said the falling half had the total out before the other one had finished saying his.
 
@@ -72,11 +72,11 @@ He turned the sleeve back over his forearm and left it there.
 
 **"If a man from a county four counties off comes through that gate in a month he is going to be told what the woman at that table has just said and nothing else, and he is going to be told it by a person in a yard and not by a letter."**
 
-The sheet in this yard carries three hundred and forty-seven days for the four bodies of households, and the clause beneath it runs one under and one over, three hundred and forty-sixth of those mornings out against three hundred and forty-eighth.
+Three hundred and forty-seventh days is on the sheet in this yard for the four bodies of households, and the clause printed beneath it runs one under and one over, the three hundred and forty-sixth of those mornings out against three hundred and forty-eighth.
 
 Seven hundred and thirty-three days on the near board of the long wall and seven hundred and eighty on the far board, and a records witness who came down the fen road that morning read both numbers and then said out loud that she was a witness to records and not a witness to anything that happened, and the forty-seven days between the two boards is not a thing she spoke about, and the drawer behind the near board stood shut at every hour.
 
-The first sheet on the long table is forty-seven days old and has not been answered and has not been refused and has not been copied, and the second came on the twenty-eighth and has not been opened, and the third came on Thursday afternoon, and none of the three is in the requests column and none is in the section-nine notes and those two are at fifty-three and fifty-three.
+The first sheet on the long table is forty-six days old and has not been answered and has not been refused and has not been copied, and the second came on the twenty-eighth and has not been opened, and the third came on Thursday afternoon, and none of the three is in the requests column and none is in the section-nine notes and those two are at fifty-three and fifty-three.
 
 Two hundred and forty-three days is the age of that form, with a column headed nothing and nothing in it, and the charter behind it went through a door nine miles off a hundred and forty-nine days ago, and the second of the four ruled lines in the man of about thirty-one of Silling's own book is two hundred and thirty-seven days old.
 

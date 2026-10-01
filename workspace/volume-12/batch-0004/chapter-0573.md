@@ -64,7 +64,7 @@ Nobody in that yard agreed with her and nobody disagreed with her and nobody tha
 
 Soren Rill was not in the yard today. He was up the four-mile road at the sixth hour and the second bend at the ninth, and the trough at the head of that road had a hand of water in it and had not been full since the middle of last week.
 
-The sheet in this building carries three hundred and thirty-four days against the four bodies of households, and the clause beneath that figure takes three hundred and thirty-third of those mornings out of three hundred and thirty-fifth, one under and one over at every site.
+The clerk of this holding read the aggregate off the sheet in this building at about the seventh hour, three hundred and thirty-four days against the four bodies of households, and under that figure the clause is one morning short and one morning long, the three hundred and thirty-third of those mornings out of three hundred and thirty-fifth.
 
 There are two numbers on the long wall this morning and they are seven hundred and twenty on the near board and seven hundred and sixty-seven on the far board, and the man who reads the schedule off the wall in the outer office read both of them standing in the rain before he went and looked at a heap of stone, and said nothing about the forty-seven days between them. The drawer behind the near board stood shut at every hour.
 

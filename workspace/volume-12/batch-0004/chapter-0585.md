@@ -20,7 +20,7 @@ He went back to the second book and read the launder figure back once at the nin
 
 **One thousand and one hundred and thirty-six hundredweight.**
 
-Saturday put eight onto Friday, and the three hundred and forty-eighth figure of a run in which nothing has ever been entered twice is what stands against the launder this morning.
+The eight that Saturday added to Friday is the whole of the difference between the two mornings, and the three hundred and forty-eighth figure of this run is the one on the board, and the man who reads the schedule off the wall was not in the yard to see it go up.
 
 The two halves at the long wall were a hundred and sixty-three mornings one way and a hundred and fifty-two the other, and the two of them came to three hundred and fifteen, and neither of the two men said the total out loud this morning and it is on the board in chalk from about six o'clock.
 
@@ -70,7 +70,7 @@ Four people on a bank in the dark and a hundred and twenty-six mornings in force
 
 The woman of about thirty-eight of Marden looked at both of them and then at the three sheets on the long table and said one word about none of the four things she had just looked at, and the drawer behind the near board stood shut at every hour.
 
-The first sheet on the long table is forty-six days old and has not been answered and has not been refused and has not been copied, and the second came on the twenty-eighth and has not been opened, and the third came on Thursday afternoon and is correct in every particular and has not been called a lie by anybody in this holding.
+The first sheet on the long table is forty-five days old and has not been answered and has not been refused and has not been copied, and the second came on the twenty-eighth and has not been opened, and the third came on Thursday afternoon and is correct in every particular and has not been called a lie by anybody in this holding.
 
 There is a form on the middle table two hundred and forty-two days old with a column at the head of it carrying no heading and nothing in the column. A charter behind it is a hundred and forty-eight days through a door nine miles off. The second of the four ruled lines in Silling's own book is two hundred and thirty-six days old.
 

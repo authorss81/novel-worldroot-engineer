@@ -12,7 +12,7 @@ Friday gave five back, and what stands against the launder is the three hundred 
 
 At the long wall the two halves were a hundred and sixty-two mornings one way and a hundred and fifty-two the other, and they came to three hundred and fourteen, and the man who said the second of them said the total out loud before anybody had asked him for it.
 
-A Friday is an odd morning and that run is read on the mornings that are odd, so it came out of the second book at the seventh hour under its heading of a month nine months back, and that heading has not moved since the first of this month.
+On the odd mornings that run comes out of the second book and on the even ones it does not, and the clerk of this holding took it out at the seventh hour this morning and read it under a heading that says of a month nine months back, and he has not moved that heading since the first of this month and neither has anybody else.
 
 **One hundred and forty-four mornings of two hundred and seventy-one.**
 
@@ -80,7 +80,7 @@ The four bodies of households stand at three hundred and forty-five days on the 
 
 The near board of the long wall carries seven hundred and thirty-one days and the far board carries seven hundred and seventy-eight days, and the two of them are forty-seven days apart, and the man of about thirty-one of Silling put his thumb on the near board and then took it off again without saying anything at all about the gap, and the drawer behind that board stood shut at every hour of this morning.
 
-There are three sheets on the long table this morning and about nine inches of bare board between each of them and the next, and the first of the three is forty-five days old and the second came on the twenty-eighth and was never opened, and the third came yesterday afternoon, and not one of the three is in the requests column and not one is in the section-nine notes and those two are at fifty-three and fifty-three.
+There are three sheets on the long table this morning and about nine inches of bare board between each of them and the next, and the first of the three is forty-four days old and the second came on the twenty-eighth and was never opened, and the third came yesterday afternoon, and not one of the three is in the requests column and not one is in the section-nine notes and those two are at fifty-three and fifty-three.
 
 Two hundred and forty-one days on the middle table, nothing over the column, nothing in it, not filled and not refused; a hundred and forty-seven days on the charter behind it, through a door nine miles off; two hundred and thirty-five days on the second of the four ruled lines in the man of about thirty-one of Silling's own book, with nothing on it.
 

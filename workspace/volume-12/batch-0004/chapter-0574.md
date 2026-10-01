@@ -8,7 +8,7 @@ The clerk of this holding wrote the figure in the second book before the light a
 
 **One thousand and one hundred and thirteen hundredweight.**
 
-Tuesday gave five back to Monday, and the figure standing against the launder is the three hundred and thirty-seventh of a run in which nothing has ever been entered twice.
+Five went back to Monday on Tuesday, and the three hundred and thirty-seventh figure of this run is the one on the board at the outlet end, and the man who keeps that board copied it onto the slate and did not add anything to it.
 
 The rising half of the window went on the wall at a hundred and fifty-seven mornings and the falling half at a hundred and forty-seven, and the two of them came to three hundred and four, and the man who said the first of them did not say the total out loud and the other one worked it out and said it anyway.
 
@@ -50,7 +50,7 @@ She turned the stick over in her hands once and stopped.
 
 Nobody in that yard asked her which two and nobody asked her what the nine things were and nobody said she had it right.
 
-The sheet in this building has three hundred and thirty-five days against the four bodies of households, and the clause under it takes three hundred and thirty-fourth of those mornings out of three hundred and thirty-sixth.
+Three hundred and thirty-five days stands against the four bodies of households on the sheet in this building, and the clause underneath it works one morning short and one morning long, three hundred and thirty-fourth of those mornings out of three hundred and thirty-sixth.
 
 The near board of the long wall carries seven hundred and twenty-one days and the far board carries seven hundred and sixty-eight, and the clerk of this holding said the two of them out loud to a man from a tap four miles off who was on his way to being told the length of a low field and not its area, and the man from the tap wrote both numbers on the back of his own hand.
 

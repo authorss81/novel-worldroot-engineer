@@ -8,7 +8,7 @@ The clerk of this holding had the figure in the second book before there was lig
 
 **One thousand and one hundred and twenty-two hundredweight.**
 
-What Monday left against the launder, having given five back to Sunday, is the three hundred and forty-third figure of a run in which nothing has ever been entered twice.
+The clerk of this holding read the figure back at the ninth hour, and Monday had taken five off Sunday's before the light, and the three hundred and forty-third figure of a run in which nothing has ever been entered twice is what stands against the launder this morning and nothing else is.
 
 The rising half of the window was a hundred and sixty mornings and the falling half a hundred and fifty, and the two of them came to three hundred and ten, and the man who said the falling half said the total before the other one had got his number out.
 

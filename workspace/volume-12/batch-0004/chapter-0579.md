@@ -56,7 +56,7 @@ The clerk of this holding was at the long wall and heard that and did not come o
 
 **"A trough came up a foot in a night and a man told this yard the reason it was a foot down last week is that no line in four counties has ever had it in it, and I have kept this book for eleven years and I have never had a column for a trough and I am not going to rule one at the tenth hour on a Sunday because a man was wet."**
 
-Three hundred and forty days is what the sheet in this building carries against the four bodies of households, the clause under it taking three hundred and thirty-ninth of those mornings out of three hundred and forty-first, one under and one over at every site.
+The clause under the figure on the sheet in this building is the three hundred and thirty-ninth of those mornings out of three hundred and forty-first, and the number that clause sits under is three hundred and forty days against the four bodies of households, one under and one over at every site as it has always been.
 
 There are two numbers on the long wall and they are seven hundred and twenty-six days on the near board and seven hundred and seventy-three days on the far one, and the man of about fifty read them both on his way up the four-mile road in the rain and did not stop at either, and the clerk of this holding did not offer to explain the forty-seven days between them to a man who had not asked.
 

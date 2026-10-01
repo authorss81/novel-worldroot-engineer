@@ -8,7 +8,7 @@ The clerk of this holding had the figure in the second book before six and read 
 
 **One thousand and one hundred and ten hundredweight.**
 
-What Sunday left against the launder, having given five back to Saturday, is the three hundred and thirty-fifth figure of a run in which nothing has ever been written down twice.
+Sunday gave five of Saturday's figure back before there was light, and what the launder carries this morning is the three hundred and thirty-fifth figure of a run in which nothing has ever been written down twice.
 
 The rising half of the window was read at a hundred and fifty-six mornings and the falling half at a hundred and forty-six, and one man said the other man's half back to him, and three hundred and two is what the two of them are.
 

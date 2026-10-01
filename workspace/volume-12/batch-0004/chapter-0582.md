@@ -8,7 +8,7 @@ The clerk of this holding had the figure in the second book before the light and
 
 **One thousand and one hundred and twenty-five hundredweight.**
 
-Five came back off it on Wednesday, and what stands against the launder is the three hundred and forty-fifth figure of a run in which nothing has ever been entered twice.
+Wednesday took the five off what the launder carried on Tuesday, and the man at the outlet end wrote the three hundred and forty-fifth figure of this run on the slate and nothing has ever been put in that run twice.
 
 At seven the rising half of the window was a hundred and sixty-one mornings and the falling half a hundred and fifty-one, and the two came to three hundred and twelve, and the man who said the falling half had come in late and did not say the total and the other one said it for him.
 
@@ -64,7 +64,7 @@ Harlan Vetch came off the direct road at about the seventh hour having walked th
 
 He put his hand flat on the bench for a second and then took it off and went and worked the bottom course instead.
 
-What the sheet in this building holds for the four bodies of households is three hundred and forty-three days, and the clause beneath it runs one under and one over, taking three hundred and forty-second of those mornings out of three hundred and forty-fourth.
+Against the four bodies of households the sheet in this building carries three hundred and forty-three days, and the clause that sits under that number reaches the three hundred and forty-second of those mornings and stops one short of three hundred and forty-fourth.
 
 The near board reads seven hundred and twenty-nine days and the far board reads seven hundred and seventy-six days, and the woman of about thirty-eight of Marden put her hand flat on the near one at the tenth hour while she was saying a thing about nine people finding out at once, and she did not mention the forty-seven days at all, and the drawer behind it stood shut at every hour of this morning.
 

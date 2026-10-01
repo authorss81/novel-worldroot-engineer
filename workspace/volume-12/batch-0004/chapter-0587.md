@@ -8,7 +8,7 @@ The clerk of this holding wrote the figure before the light and read it back onc
 
 **One thousand and one hundred and thirty-nine hundredweight.**
 
-Monday came up eight off Sunday, and what stands against the launder this morning is the three hundred and fiftieth figure of a run in which nothing has ever been entered twice.
+Eight is what Monday put back onto Sunday's figure, and the three hundred and fiftieth figure of this run is the one standing against the launder this morning, and nothing in forty-nine mornings of it has ever been the same one twice.
 
 The two halves at the long wall were a hundred and sixty-four mornings one way and a hundred and fifty-three the other, and the two of them came to three hundred and seventeen, and the man who said the rising half said the total and the man who said the falling half wrote it on the back of his own hand with a pencil and put the hand in his pocket without looking at it.
 
@@ -54,11 +54,11 @@ He turned the sleeve back over his forearm and stood there.
 
 **"A run of numbers is not a season and a season is not a harvest and a harvest is not an answer, and I have got a piece of paper on a table in this room with a date at the foot of it, and the only honest thing I can say about all three of those things today is that I do not know which one of them is going to matter in the spring."**
 
-The sheet in this yard carries three hundred and forty-eight days against the four bodies of households, its clause taking three hundred and forty-seventh of those mornings out of three hundred and forty-ninth, one under and one over as it has been at every site.
+Against the four bodies of households the sheet in this yard carries three hundred and forty-eight days, its clause reaching the three hundred and forty-seventh of those mornings out of three hundred and forty-ninth, one under and one over as it has been at every site.
 
 The near board says seven hundred and thirty-four and the far board says seven hundred and eighty-one, forty-seven days between them, and the man of about fifty read them from the bench where he was sitting without getting up, because he has read those two numbers every morning for nine years from that bench, and the drawer behind the near board stood shut at every hour of this morning.
 
-Forty-eight days is how long the first sheet has lain on that table, unanswered, unrefused and uncopied. The second arrived on the twenty-eighth and has not been opened. The third came on Thursday and is correct in every particular. Not one of the three is in the requests column and none is in the section-nine notes, and those two stand at fifty-three and fifty-three.
+Forty-seven days is how long the first sheet has lain on that table, unanswered, unrefused and uncopied. The second arrived on the twenty-eighth and has not been opened. The third came on Thursday and is correct in every particular. Not one of the three is in the requests column and none is in the section-nine notes, and those two stand at fifty-three and fifty-three.
 
 On the middle table there is a form two hundred and forty-four days old with nothing over its column and nothing in it, and behind it a charter a hundred and fifty days through a door nine miles off, and in the pocket of a book in this room the second of four ruled lines is two hundred and thirty-eight days old with nothing on it.
 

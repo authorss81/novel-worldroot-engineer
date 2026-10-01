@@ -92,9 +92,9 @@ Two hundred and twenty-eight days is how long that form has lain on the middle t
 
 A hundred and thirty-four days ago a charter went through a door nine miles off, and nothing has happened to either of those two documents since.
 
-It went through a door nine miles off a hundred and thirty-four days ago, and of the four bodies of households in that room, three are still signed to a machine for stored light and the fourth has sent a person to a tap twice in a fortnight.
+It went through a door nine miles off a hundred and thirty-four days ago, and the four bodies of households in that room are three that still draw on a machine for stored light and one that has twice in a fortnight sent a person out to a tap.
 
-The second of the four ruled lines in the man of about thirty-one of Silling's own book is two hundred and twenty-two days old and has nothing on it. He was the one who put the cart back onto the plates at the third hour and did not go into the one room afterwards.
+Two hundred and twenty-two days is how long the second of the four ruled lines in the man of about thirty-one of Silling's own book has been standing there with nothing on it, and the man who wrote the line was the one who got the cart back onto the plates at the third hour and did not look at the board on his way out.
 
 The man of about thirty-one of Silling was the one who put the cart back onto the plates at the third hour, and he did not go into the one room afterwards, and he was at the long wall at about the ninth hour when the launder figure was read out and he said his own number under his breath to nobody and it was not written down by anybody.
 

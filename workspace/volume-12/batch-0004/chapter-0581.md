@@ -6,7 +6,7 @@ The fourth line of the rota came round at the second hour and went up the headla
 
 Two hundred yards of boundary stone were found by hand along the top of the bank, the ditch was cut along the eleven acres, and the loose stone was barrowed off the top into the heap by the gate, and the heap is a foot higher on it than it was a fortnight ago and it is on nobody's list.
 
-No field was taken, and that is the thirteenth morning this year that this line has gone up that bank in the dark and come back down it with nothing at all in the taking column, and the standing is a hundred and twenty-five mornings in force with twenty-nine taken and ninety-six not, and twenty-nine and ninety-six is a hundred and twenty-five.
+No field was taken, and this line has gone up that bank in the dark and come back down it with nothing at all in the taking column on any morning this year, and the standing is a hundred and twenty-five mornings in force with twenty-nine taken and ninety-six not, and twenty-nine and ninety-six is a hundred and twenty-five.
 
 The two reckonings of the rotation disagree this morning, as they have every morning anybody in this building has kept both of them. Seventy-third one way and sixtieth the other, with thirteen in the gap between them for four years, and nobody here has worked out what it counts or asked anybody who might.
 
@@ -14,7 +14,7 @@ The two reckonings of the rotation disagree this morning, as they have every mor
 
 The clerk said that to the board and put his finger on the twenty-nine and left it there for a second and then took it off.
 
-The launder figure went into the second book at the first hour and came back out of it at the ninth, Tuesday having come up eight off Monday, and the standing against it is the three hundred and forty-fourth figure of a run in which nothing has ever been entered twice.
+The second book took the figure in before the light and gave it back out at the ninth hour, and Tuesday had gone up eight on Monday's before the book was opened, and the three hundred and forty-fourth figure of this run is against the launder this morning.
 
 **One thousand and one hundred and thirty hundredweight.**
 
@@ -44,7 +44,7 @@ Harlan Vetch came off the direct road at about the sixth hour having walked the 
 
 **"There is a section of about eleven feet of this wall that is not going to be here in ten years and I have known that for four years and I have never said it out loud and I have said it this morning because there is nobody in this yard to tell it to who is going to put it in a column."**
 
-What this yard's sheet holds against the four bodies of households is three hundred and forty-two days, and the clause under it works one morning under and one morning over, three hundred and forty-first of those mornings out against three hundred and forty-third.
+Three hundred and forty-two days is the number the sheet in this yard holds for the four bodies of households, and underneath it a person can read one morning less and one morning more, three hundred and forty-first out against three hundred and forty-third, and that part of the sheet is read every morning of the year by somebody.
 
 Four people came down off the headland at the fifth hour into a yard where the near board of the long wall read seven hundred and twenty-eight days and the far board read seven hundred and seventy-five days, forty-seven between them, and not one of the four looked at either board on the way in, and the drawer behind the near one stood shut at every hour of this morning and at every hour of the night before it.
 
@@ -66,7 +66,7 @@ A man who went up a bank in the dark this morning and came down at the fifth hou
 
 Paid goes in front of twenty-seven on the compost line and it is not discharged in twenty-seven, and it moves on an interval and not on anybody's instruction, and this week it is going to move.
 
-Six rows stand ruled in this holding for what it does not know about and not one of them has ever taken a unit, and eleven feet of a wall is not a seventh, and the seventh row is not ruled.
+What this holding does not know about has six rows cut for it and not one of them has ever taken a unit, and a distance measured off a boot is not a seventh of anything, and the seventh row is not ruled.
 
 Nobody entered an eighth session in this holding this morning. Fifty-three stands in the requests column and fifty-three in the section-nine notes, neither of them took anything, and the letter is in neither of the two.
 

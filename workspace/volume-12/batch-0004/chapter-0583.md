@@ -8,7 +8,7 @@ The clerk of this holding wrote the figure at the first hour and read it back on
 
 **One thousand and one hundred and thirty-three hundredweight.**
 
-Thursday put eight onto Wednesday's figure, and the three hundred and forty-sixth figure of a run in which nothing has ever been entered twice is what stands against the launder this morning.
+Eight is what Thursday put onto Wednesday, and the figure that leaves the launder this morning is the three hundred and forty-sixth of a run in which nothing has ever been entered twice, and the clerk read that much of it out loud and no more of it.
 
 The two halves at the long wall were a hundred and sixty-two mornings one way and a hundred and fifty-one the other, and they came to three hundred and thirteen, and the man who said the rising half wrote the total in the long wall's own book, which is a different book from the second one and which the clerk of this holding does not keep.
 
@@ -48,7 +48,7 @@ He put his hand flat on the table about a foot away from the edge of the sheet a
 
 **"There is a line on that sheet about the districts beyond the maintenance zone and I am not going to read that line out in this yard this afternoon, and I am not going to let anybody make me the man who read it out."**
 
-The sheet in this yard carries three hundred and forty-four days for the four bodies of households, and the clause below it takes three hundred and forty-third of those mornings out of three hundred and forty-fifth, which is one under and one over at every site.
+Three hundred and forty-four days is what the sheet in this yard carries for the four bodies of households, and the clause under it takes one morning off the front of that count and puts one on the back of it, three hundred and forty-third out of three hundred and forty-fifth.
 
 A sheet with a name at the head of it came to the long table this afternoon. The near board of the long wall says seven hundred and thirty days and the far board says seven hundred and seventy-seven days, forty-seven between them, and the clerk of this holding read both numbers after he read the sheet.
 

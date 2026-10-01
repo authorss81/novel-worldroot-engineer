@@ -54,7 +54,7 @@ He went back in and the door stayed open behind him.
 
 Harlan Vetch was at the north wall from the fourth hour and worked it until the light went, and he came past the standpipe at about the sixth hour of the afternoon and stopped for a moment and looked at the needle and did not say anything to the man with the case about it, and the man with the case did not say anything to him either.
 
-The sheet in this building carries three hundred and thirty-seven days against the four bodies of households, and the clause under that figure goes one under and one over, three hundred and thirty-sixth of those mornings out of three hundred and thirty-eighth.
+Three hundred and thirty-seventh days is what the sheet in this building holds for the four bodies of households, and the clause under that figure goes one under and one over, three hundred and thirty-sixth of those mornings out of three hundred and thirty-eighth.
 
 Seven hundred and twenty-three is on the near board of the long wall and seven hundred and seventy is on the far board, and a man in a leather case who has kept a dial for nineteen years walked past both of them at about the sixth hour and did not look at either, and nobody in that yard asked him to. The drawer behind the near board stood shut at every hour of this morning.
 

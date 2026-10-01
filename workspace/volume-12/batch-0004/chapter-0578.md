@@ -8,11 +8,11 @@ The clerk of this holding wrote the figure before the light and read it back onc
 
 **One thousand and one hundred and nineteen hundredweight.**
 
-Six is what Saturday came off Friday by, and the three hundred and forty-first figure of a run in which nothing has ever been entered twice is what stands against the launder this morning.
+The man at the long wall had Friday's figure in front of him and took five off it on the slate before he said anything, and what the launder carries this morning is the three hundred and forty-first figure of a run in which nothing has ever been entered twice.
 
 At the long wall the rising half stood at a hundred and fifty-nine mornings and the falling half at a hundred and forty-nine, and the two of them came to three hundred and eight, and the man who said the falling half wrote it on the back of his own hand with a pencil and put the hand in his pocket.
 
-A Saturday is an odd morning and that run is read on the mornings that are odd, so it came out of the second book at the seventh hour under its own heading of a month nine months back, and that heading has not moved since the first of this month.
+That run only comes out of the second book on the mornings that are odd and this is one of them, so the clerk of this holding took it out at the seventh hour and read it under a heading of a month nine months back, and that heading has not been moved since the first of this month and is not going to be moved by him.
 
 **One hundred and forty-one mornings of two hundred and sixty-five.**
 

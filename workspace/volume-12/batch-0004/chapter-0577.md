@@ -16,7 +16,7 @@ He put his finger on the twenty-nine and left it there for a second.
 
 **"Nobody in this holding is to blame for a field that has been waiting four years, and the day somebody is to blame for it is the day one of us has been given the field."**
 
-The launder figure went into the second book at the first hour and was read back out of it at the ninth, Friday having come up eight off Thursday, and what stands against it is the three hundred and fortieth figure of a run in which nothing has ever been entered twice.
+Into the second book at the first hour went the figure and out of it again at the ninth, and Friday had put eight onto Thursday's before either time, and the three hundred and fortieth figure of this run is the one that stands against the launder.
 
 **One thousand and one hundred and twenty-four hundredweight.**
 
