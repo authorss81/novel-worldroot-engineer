@@ -28,7 +28,7 @@ Against the sheet of the four bodies of households the wall carried three hundre
 
 **"The three hundred and sixty-ninth out of the three hundred and seventy-first. One under and one over, and that clause is not about the number above it, it is about yesterday and tomorrow, and I am not going to have anybody in this yard add the two of them together this morning."**
 
-The near board stood at seven hundred and fifty-six and the far one at eight hundred and three, and the drawer behind the near board was shut, and the key to it was on the nail in the one room door where it has been since the eighth of this month.
+Seven hundred and fifty-six on the board at the near end of the wall and eight hundred and three on the one at the far end of it, forty-seven of nothing at all between them, and the drawer behind the near board was shut, and the key to it was on the nail in the one room door where it has been since the eighth of this month.
 
 The clerk said, in the wrecked voice, that the run was not read this morning.
 
@@ -86,8 +86,7 @@ The man of about seventy stands at twenty-nine fetchings, was fetched by nobody,
 
 Harlan Vetch put the barrow away with the hand that had carried grit all morning, and the side of it still carries eleven journeys in chalk, and eleven is a floor, and the use log in the one room holds fifteen lines with a clean margin under them.
 
-Nobody went up the ladder this morning and no figure was written against either of the two people standing on it. The offer on the low board lies where it has lain for four years, and what is growing on the low field is a different piece of ground from the ring of bare ground beside it, and the two are never added and have never been measured together.
-
+Nobody went up the ladder this morning and the two people on it went home with no figure written against either of them. The offer on the low board has lain where it has lain for four years and nobody has read it out or dated it, and what is growing on the low field is a different piece of ground from the ring of bare ground beside it, and the two are never added and have never been measured together.
 
 The clerk locked up at noon and turned the yard key with his left hand because the book had to stay shut under his right one, and the man of about fifty walked past the nail in the doorframe and did not stop, and the key was on the nail at dusk.
 

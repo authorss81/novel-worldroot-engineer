@@ -32,8 +32,6 @@ There was a silence in the doorway of about the length it takes to find out some
 
 **"Then say the end of it,"** Nia Vale said, and turned the page round to face him and put a stone on the corner of it so that it would stay.
 
-**"Turned to face you,"** Nia Vale said, and turned it, and put a stone on the corner of it so it would stay.
-
 Renn Ashby read the pair again with the page facing him and got it right.
 
 **"One hundred and fifty-seven and two hundred and ninety-seven. That is not a percentage and neither of them is one against the other in any arithmetic, and the first of them steps by one on an odd morning and the second one steps by two, and a man who writes it down as a rate will be wrong in a way that takes him four counties to walk."**
@@ -52,7 +50,7 @@ The woman of about thirty-eight came off the tap and asked for the wall sheet of
 
 **"I have not,"** Harlan Vetch said, from the wall, without turning round, and went on with the course he was laying.
 
-The near board stood at seven hundred and fifty-seven and the far one at eight hundred and four, and the gap between them is the gap between them and always has been, and the drawer behind the near board stayed shut through a wet morning with a key on a nail in the one room door and the man of about fifty walking past it twice.
+Seven hundred and fifty-seven at this end of the wall and eight hundred and four at the other, and the gap between them is the gap between them and always has been, and the drawer behind the near board stayed shut through a morning of standing water and gone frost, with a key on a nail in the one room door and the man of about fifty walking past it twice.
 
 Marek came out of the one room at the ninth hour and stood at the doorway while Renn Ashby read the second book out again for Nia Vale, who wanted it once more because she had been the one who turned the page.
 
@@ -74,7 +72,7 @@ She set the trays down on the step beside him and took one of them back and went
 
 Nia Vale was the one who went through the standing of the one room that afternoon while she waited for the light, and she did it out loud to herself because it is quicker than saying it is unchanged. Seven sessions are entered in this holding's book and none of them was entered on Wednesday.
 
-**"Fifty-three requests in one column. Fifty-three section-nine notes in the other. Neither of those two columns has ever had a sheet put into it, and the three on the long table are the only three things in this building nobody has had the nerve to write down."**
+**"Fifty-three requests in one column. Fifty-three section-nine notes in the other. Neither of those two columns has ever had a sheet put into it, and the three on the long table are the only three things in this building nobody has had the nerve to write down. The first of them has lain face up for seventy days and nobody has looked at it as a piece of paper rather than as a problem."**
 
 She went the length of the one room with her hand trailing the edge of the bench and stopped at the board in the corner. Thirty-nine blanks on it, and the rule underneath them standing open with nothing on it.
 

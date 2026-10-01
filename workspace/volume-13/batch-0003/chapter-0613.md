@@ -12,17 +12,17 @@ The yard read the wall. Hesta Lyle had the book on the bench and read the figure
 
 She got the book shut and squared it to the edge of the bench with the edge of her hand before she went on.
 
-She got the two halves right without hesitating, a hundred and seventy-seven and a hundred and sixty-six, and made three hundred and forty-three of them, and then stood back and looked at the white on the wall for a while.
+She got both halves right without hesitating, a hundred and seventy-seven and a hundred and sixty-six for a window of three hundred and forty-three, and then stood back and looked at the white on the wall for a while.
 
 **"That is the clearest that wall has been in three weeks and it will not be again before the sun is round the far side, and nobody is going to remember that this morning except the two of us."**
 
 **"I will remember it,"** the clerk said, in what he had left of a voice, and wrote it on his slate instead, and put the slate in his coat, and did not say what he had written on it.
 
-The run was not read that morning because Saturday is an even morning, and Renn Ashby read it anyway at seven o'clock with the page turned to face him and got it right, and then read the number of the morning off the top of the board, which is not what the run is, and put his thumb on the page.
+The run was not read that morning because Saturday is an even morning, and Renn Ashby stood in the doorway at seven with the page turned to face him and said the reason out loud in place of a pair, and then read the number of the morning off the top of the board, which is not what the run is, and put his thumb on the page where the pair ought to have been.
 
 **"I have said what it is not. I have got the habit of saying the other thing, which is a thing I have never done in my life, and I would rather say it than leave it."**
 
-The sheet of the four bodies of households carried three hundred and seventy-four on the line and the clause under it carried the three hundred and seventy-third out of three hundred and seventy-fifth, and the near board stood at seven hundred and sixty and the far one at eight hundred and seven, and the drawer behind the near board stood shut at every hour with the key on its nail in the one room door.
+What stands on the line of the sheet of the four bodies of households is three hundred and seventy-four, and the clause under it is yesterday out of the day after, being the three hundred and seventy-third out of three hundred and seventy-fifth and a figure either side of the one on the line, and by the time that was done the boards had said seven hundred and sixty and eight hundred and seven, and the drawer behind the near board stood shut at every hour with the key on its nail in the one room door.
 
 At ten Sennik Vaul came out of the tool house with a board under his arm and propped it against the bench, because the cycle had come round overnight and the number in force had gone up by itself.
 
@@ -62,7 +62,7 @@ The clerk read the three ages standing under the lintel of the one room with the
 
 Marek did not go near the wall at ten, at eleven or at noon. He stood at the end of the tap with a cord and a bottle in his pocket and his hands empty and looked at the white coming off the chalk.
 
-**"I am not saying the two things this morning,"** he said, to the yard, and the yard let him, because it has had eleven mornings of him saying that. **"The wall has been saying one out loud for ten minutes tonight and it is doing it better than I would, and I am not going to stand next to it and compete."**
+**"I am not saying the two things this morning,"** he said, to the yard, and the yard let him, because it has had eleven mornings of him saying that. **"The wall has been saying one out loud for ten minutes this morning and it is doing it better than I would, and I am not going to stand next to it and compete."**
 
 Hesta Lyle went over the six ruled rows on the sheet of what this holding does not know with her thumb, one after the other, and stopped her thumb at the bottom of the sixth and left it there.
 
@@ -76,11 +76,11 @@ Fifty-three requests and fifty-three notes in the section-nine column have taken
 
 Nobody fetched the man of about seventy and he stands at twenty-nine fetchings. Sixty-six is scratched in a door's seventh column nine hundred yards off this holding, and nobody in this yard has gone and read it this morning and it does not come down.
 
-The barrow has eleven journeys in chalk on its side and eleven is a floor, and the use log on its shelf has fifteen lines in it and nobody has written a sixteenth.
+The barrow went back against the wall with its eleven journeys still chalked down the side of it, which is a floor and not a count anybody is keeping, and the use log on its shelf in the one room has fifteen lines in it and nobody has found a reason for a sixteenth.
 
 The compost line went on carrying paid against twenty-nine all through the day, and nothing came out of it, and it will not move again until twenty-six mornings after the last time it moved.
 
-Harlan Vetch went past the ladder on his way down to the wall and it went up no rungs, and there is a figure against neither of the two people standing on it. The offer on the low board is undated, where it has always been, untaken and not taken back. The ring of bare ground has taken no foot all season and carries no number against it, and what is standing on the low field is a separate piece of ground and the two are never added together.
+Harlan Vetch went past the ladder on his way down to the wall and did not stop at it, and it went up no rungs, and the two people standing there have nothing written against either of them. The offer on the low board is undated, where it has always been, untaken and not taken back. The ring of bare ground has taken no foot all season and carries no number against it, and what is standing on the low field is a separate piece of ground and the two are never added together.
 
 The clerk locked up at noon and turned the yard key with his left hand. The man of about fifty went past the nail, and the key on it, and out through the gate, and did not look at either for the first time since he had hung the thing there.
 

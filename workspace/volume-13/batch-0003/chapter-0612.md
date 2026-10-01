@@ -22,7 +22,7 @@ The two halves were a hundred and seventy-six and a hundred and sixty-six, and t
 
 **"It is,"** Harlan Vetch said. **"You did it before I did it again, which is the fourth morning running that somebody in this yard has got there first, and I have decided that is not being robbed of anything."**
 
-The sheet of the four bodies of households carried three hundred and seventy-three on the line and the clause under it carried the three hundred and seventy-second out of three hundred and seventy-fourth, and Harlan Vetch read the clause and then read the figure above it and did not put them together, in front of six people, on purpose.
+Three hundred and seventy-three is what stands on the line of the sheet of the four bodies of households, and the clause beneath it takes the three hundred and seventy-second out of three hundred and seventy-fourth, and Harlan Vetch read the clause and then read the figure above it and did not put them together, in front of six people, on purpose.
 
 Silling came into the yard at half past nine, which he does not do, and went straight to the middle table and stood at it with his hands behind him and did not sit down.
 
@@ -44,17 +44,17 @@ Marek thought about it long enough that the yard waited.
 
 He put his hand flat on the middle table for a moment, on nothing in particular, and took it off again and went back out through the gate without saying anything else, and the clerk did not follow him and did not write anything down.
 
-At noon the clerk read one figure off the middle table and stopped there, and the yard waited for the other two and got them a minute later when the woman of about thirty-eight came and stood beside him.
+At noon the clerk read one figure off the middle table and stopped there, and the yard waited for the other two and did not get them until the woman of about thirty-eight came and stood beside him and asked for them.
 
 **"I am not going to hand a room three numbers while there is one of them still on the rack,"** the clerk said. **"Two figures in a morning are two figures a room starts to believe it owns."**
-
-The near board stood at seven hundred and fifty-nine and the far one at eight hundred and six, and the drawer behind the near board stood shut at every hour of Friday with the key on its nail, and the man of about fifty walked past it twice without slowing down.
 
 **"And when I come and ask, you will read all three,"** she said.
 
 **"I will read all three,"** he said, and turned back to the rack, and took the three off it one at a time.
 
-**"The register form is at two hundred and sixty-nine days. The charter is at a hundred and seventy-five. The second of the ruled lines in Silling's own book is at two hundred and sixty-three, and it is bare, and the other three are bare as well."**
+**"Two hundred and sixty-nine days on the register form. A hundred and seventy-five on the charter behind it. Two hundred and sixty-three where the second of the ruled lines sits in Silling's own book, and it is bare, and the other three are bare as well."**
+
+Seven hundred and fifty-nine and eight hundred and six on the two boards, forty-seven apart, and the drawer behind the near board stood shut at every hour of Friday with the key on its nail, and the man of about fifty walked past it twice without slowing down.
 
 Marek did not go near the wall at any hour on Friday. He sat on the bench and turned over the fact that he had given Silling his whole answer between the gate and the middle table, and found that he had nothing left over for anything else that day, which is not a usual state for him.
 
@@ -66,7 +66,7 @@ The woman of about thirty-eight came in from the tap and stood at the long table
 
 **"Seventy-two days on the first one, and the other two have not moved an inch in that time either, and there is nothing whatever written under any of them, and I have stopped minding the middle one because it is folded and folded things at least admit it."**
 
-Silling's question at the middle table was still sitting in the yard. The sheet of what this holding does not know has six ruled rows, and a seventh is not cut for the covenant or for the machine or for the schedule or for the confession, and the four lines under the two words in the corner of the one room have been empty longer than that sheet has existed. The sheet of terms has its third column ruled and empty under a heading nobody has improved, and nothing has ever been stood in that column, least of all by anybody in a hurry.
+Silling's question at the middle table was still sitting in the yard. The sheet of what this holding does not know has six ruled rows and there is space cut below the sixth for one more, and nothing has been cut there for the covenant, the machine, the schedule or the confession, and the four lines under the two words in the corner of the one room have been empty longer than that sheet has existed. The sheet of terms has its third column ruled and empty under a heading nobody has improved, and nothing has ever been stood in that column, least of all by anybody in a hurry.
 
 Nia Vale went round the one room with the last of the trays and put a hand on nothing in particular.
 
@@ -78,7 +78,7 @@ The barrow went back to the wall at its eleven journeys with eleven is a floor, 
 
 Paid is written in front of twenty-nine on the compost line and it has not been discharged in twenty-nine, and a Friday has no more to do with that line than any other day in the week.
 
-Nobody went up the ladder and no figure is written against either of the two people standing on it. The offer on the low board has not been dated, moved, taken up or taken back. No foot has ever been into the ring of bare ground, no number has ever been set against it, and the ground that came back on the low field does not join it and never did.
+The ladder went up no rungs and nobody climbed it, and no figure stands against either of the two people at its foot. The offer on the low board has not been dated, moved, taken up or taken back. No foot has ever been into the ring of bare ground, no number has ever been set against it, and the ground that came back on the low field does not join it and never did.
 
 The clerk locked the one room at noon, turned the yard key, and came back out and stood at the middle table for a while with the second book shut under his arm, and the man of about fifty went past the nail in the doorframe and the key on it and out through the gate without once looking at either.
 

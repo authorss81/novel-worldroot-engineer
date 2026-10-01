@@ -2,15 +2,15 @@
 
 ## The Twentieth Of The Sixteenth, And A Joint That Came Apart In Five People Sights
 
-Wednesday was the first mild morning of the week and the tap had to be shut off at the main for two hours and a half, and everybody in that yard learned what a shut tap is like in their own time.
+Wednesday stayed mild, the way Tuesday had been, and the tap had to be shut off at the main for two hours and a half, and everybody in that yard learned what a shut tap is like in their own time.
 
 Marek had the joint apart by seven.
 
-He had it apart by seven because he had gone at it the moment the light came and had told the woman of about thirty-eight what he was doing before he did it, and she had said the word she had been carrying since Monday, which was that she would rather have one Saturday that does something than four more packings that do not, and then she had turned the water off at the main herself, which is not his job and which she did anyway.
+He had it apart by seven because he had gone at it the moment the light came and had told the woman of about thirty-eight what he was doing before he did it, and she had said the word she had been carrying since Monday, which was that she would rather have one Saturday that does something than two more packings that do not, and then she had turned the water off at the main herself, which is not his job and which she did anyway.
 
 **One thousand and one hundred and eighty-four hundredweight.**
 
-**"Eight on and Wednesday is an even morning, and it is the three hundred and eightieth of the run,"** Hesta Lyle said. **"The halves are a hundred and seventy-nine and a hundred and sixty-eight and they make three hundred and forty-seven."**
+**"Eight on and Wednesday is an even morning, and it is the three hundred and eightieth of the run,"** Hesta Lyle said. **"A hundred and seventy-nine and a hundred and sixty-eight, and the two of them are three hundred and forty-seven."**
 
 The run was not read that morning because Wednesday is an even morning, and Renn Ashby said the reason from the doorway with the page turned to face him, and four people said the last sentence of it with him again, which is a thing that now happens without anybody arranging it.
 
@@ -42,13 +42,13 @@ Sennik Vaul came out at ten with his own armful of boards and put the one that c
 
 **"A hundred and thirty-four, twenty-nine taken and a hundred and five not. It came up by itself and I am telling you who is not to blame for it, which is everybody, and I want it said in that order."**
 
-On the long wall the sheet of the four bodies of households stood at three hundred and seventy-eight, and under it, in a smaller hand, the three hundred and seventy-seventh out of three hundred and seventy-ninth. The near board said seven hundred and sixty-four, the far one said eight hundred and eleven, and the drawer behind the near board was shut.
+On the long wall the sheet of the four bodies of households stood at three hundred and seventy-eight, and in the smaller hand under it the line reads the three hundred and seventy-seventh out of three hundred and seventy-ninth. The near board said seven hundred and sixty-four, the far one said eight hundred and eleven, and the drawer behind the near board was shut.
 
 Harlan Vetch put Sera Quill's slate against the edge of the board so that the two of them could be read together, and it carried eighty-second against sixty-ninth, dated and signed at the top, and nobody was told they had got it wrong because there was nothing in them that anybody could get wrong.
 
 **"Thirteen apart and no field taken,"** Sera Quill said. **"That is the third of these this month and it is the same as the other two and the gap is still open and I have written it down."**
 
-At noon the water went back on, and it ran for half an hour and stopped, which was the fourth packing and the fourth leak, and the woman of about thirty-eight packed it again herself and did not let anybody else touch it.
+At noon the water went back on, and it ran for half an hour and stopped, which was her fourth packing and the fifth time the joint has let water out of it, and the woman of about thirty-eight packed it again herself and did not let anybody else touch it.
 
 **"I am not blaming you,"** Marek said. **"That is what I came out here to stop. You packed this thing at six this morning and I had it apart at seven, and the difference between that and a thing that works is a taper I have not cut yet."**
 

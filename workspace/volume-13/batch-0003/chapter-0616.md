@@ -2,7 +2,7 @@
 
 ## The Nineteenth Of The Sixteenth, And A Load That Came Up The Fen Road Without Him
 
-Tuesday was flat and warm and the fen road came into the yard through the gate in one long straight line with nothing on it, and the man of about fifty and Renn Ashby had been sitting on the gate bench since eleven waiting for a load that did not come until two.
+Tuesday was flat and warm and the fen road came into the yard through the gate in one long straight line with nothing on it, and the man of about fifty and Renn Ashby had been sitting on the gate bench since nine waiting for a load that did not come until two.
 
 **"I have been wrong twice,"** the man of about fifty said, when they came in off the road with the barrow behind them, **"and both times I was wrong about the hour and not about the road."**
 
@@ -12,13 +12,13 @@ Nobody in that yard had met it. A load had come up the fen road and gone past fo
 
 **One thousand and one hundred and seventy-six hundredweight.**
 
-**"Five off yesterday,"** Hesta Lyle said from the wall. **"Odd morning, three hundred and seventy-ninth of the run. Halves a hundred and seventy-eight and a hundred and sixty-eight, and they make three hundred and forty-six."**
+**"Five off yesterday,"** Hesta Lyle said from the wall. **"Odd morning, three hundred and seventy-ninth of the run. Put a hundred and seventy-eight to a hundred and sixty-eight this morning and you have three hundred and forty-six, and I did it in my head and I am not claiming that as anything."**
 
 Renn Ashby read the run at seven with the page turned to him and the stone on the corner, and nobody needed telling about the fourth time.
 
-**"One hundred and sixty mornings of three hundred and three. Not a percentage, first one steps by one, second one steps by two."**
+**"One hundred and sixty mornings of three hundred and three. It is not a rate and it is not to be read as one. One side of it moves a single and the other moves a pair, and that is the whole of what it says."**
 
-The wall behind them carried the four bodies of households at three hundred and seventy-seven, and the clause under it takes the three hundred and seventy-sixth out of three hundred and seventy-eighth. Seven hundred and sixty-three on the near board and eight hundred and ten on the far one, with the drawer shut.
+The wall behind them carried the four bodies of households at three hundred and seventy-seven, and the clause under it takes the three hundred and seventy-sixth out of three hundred and seventy-eighth. The boards have seven hundred and sixty-three and eight hundred and ten, with the drawer shut.
 
 Then the clerk asked them to say the other thing out loud, in front of the yard, because it had come up the road and it was going into the board whether anybody liked it or not.
 
@@ -26,7 +26,7 @@ The man of about fifty took the barrow round to the middle of the yard and put t
 
 **"Six hundred and two hundredweight. That is up eleven on the last one and the last one was five hundred and ninety-one, and nobody in this yard needs to be told that eleven because it is eleven."**
 
-The clerk said the charter figure with the second half of that, because he had the rack in front of him and the charter is the oldest of the three and it is at a hundred and seventy-nine days, and the register form with it at two hundred and seventy-three, and the second ruled line in Silling's own book at two hundred and sixty-seven with nothing on it.
+The clerk put his hand flat on the rack and said the three figures behind it were read at noon in the one room and not in a gateway, and that a man who shouts three numbers at a gate gets the same three numbers wrong twice in a week.
 
 **"The two halves of it were checked twice,"** Renn Ashby said. **"The first check was at the gate and the second was in here, and both of them came out the same, and the halves were never added to each other and are not added to each other this morning."**
 
@@ -46,13 +46,13 @@ Marek was not at the gate at any hour of the day. He was in the seed house with 
 
 **"Then that is what you did this morning,"** she said, and went back in.
 
-Soren Rill read the three ages out of the rack to an empty one room at noon because the clerk was out at the gate and there was nobody else to read them and no rule says they must be read to a full room.
+Soren Rill read the three ages out of the rack to an empty one room at noon, because the clerk had put it to noon himself and then gone out to the gate, and there was nobody else to read them and no rule says they must be read to a full room.
 
-**"Two hundred and seventy-three days on that form! Two hundred and seventy-nine on the charter! Two hundred and sixty-seven on the second ruled line in Silling's own book and nothing on it!"**
+**"Two hundred and seventy-three days on that form! A hundred and seventy-nine on the charter! And the second ruled line in Silling's own book stands at two hundred and sixty-seven with nothing on it at all!"**
 
 Four people at the gate heard the third one and not the first two, and he shouted the first two again from the door frame, and it was the first time in four years that those three numbers had been shouted at anybody.
 
-The long table had three sheets on it and the first of them is seventy-six days old. Fifty-three requests and fifty-three section-nine notes stand in their two columns, and the sheet on the table that came up the road on Tuesday afternoon was neither of those things and has not been put in either.
+The long table had three sheets on it and the first of them is seventy-six days old. Fifty-three requests and fifty-three section-nine notes stand in their two columns, and the load that came up the fen road on Tuesday afternoon went against neither of those two and has not been put into either.
 
 Kellan Rusk counted the empty things in the one room on his way out, because he counts them.
 

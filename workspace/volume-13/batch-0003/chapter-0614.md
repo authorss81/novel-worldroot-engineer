@@ -8,11 +8,11 @@ The yard read the wall at half past eight because it was going to be there all d
 
 **One thousand and one hundred and seventy-three hundredweight.**
 
-**"Five off,"** Hesta Lyle said. **"Odd morning, and the three hundred and seventy-seventh of the run. The two halves are a hundred and seventy-seven and a hundred and sixty-seven and they make three hundred and forty-four, and I have stopped needing to add them twice, which I am telling you is not pride."**
+**"Five off,"** Hesta Lyle said. **"Odd morning, and the three hundred and seventy-seventh of the run. A hundred and seventy-seven on one side of the chalk and a hundred and sixty-seven on the other, and between them three hundred and forty-four, and I have stopped needing to add them twice, which I am telling you is not pride."**
 
 Renn Ashby read the run out of the doorway at seven with the page turned to him and the stone on the corner of the board. Behind him the wall carried the sheet of the four bodies of households with three hundred and seventy-five on the line and the clause beneath it taking the three hundred and seventy-fourth out of three hundred and seventy-sixth, and the near board stood at seven hundred and sixty-one with the far one at eight hundred and eight.
 
-**"One hundred and fifty-nine mornings of three hundred and one. Not a percentage. First one steps by one, second one steps by two."**
+**"One hundred and fifty-nine mornings of three hundred and one. Nobody is to have that as a rate. The two sides do not agree with each other about how fast they move, and the first of them goes up by a single while the second goes up by a pair."**
 
 He has said the same four sentences every morning for four mornings now, and this morning, for the first time, four people said the fourth one with him.
 
@@ -32,7 +32,7 @@ At the middle table the clerk got the three ages out of the rack with a second p
 
 **"Two hundred and seventy-one days on the register form,"** the clerk said, and then he put his hand flat on the rack and gave her the nod.
 
-**"And a hundred and seventy-seven on the charter behind it,"** Nia Vale said, **"and two hundred and sixty-five on the second ruled line in Silling's own book, and nothing on it, and I have checked the day off the sheet because I did not trust myself."**
+**"And a hundred and seventy-seven on the charter behind it,"** Nia Vale said, **"and two hundred and sixty-five where the second ruled line is in Silling's own book. Nothing on it, and I have checked the day off the sheet because I did not trust myself."**
 
 Marek washed up at the end of it, which he has not done in this yard in four years, and put the plates on the shelf above the tap and stood there with his hands wet.
 
@@ -58,7 +58,7 @@ The three sheets lay on the long table after the meal with the boards either sid
 
 The yard cleared the table at two and a half and what was left on it was three sheets, and the first of them is seventy-four days old, and the third of them is as correct this Sunday as it was the day it arrived.
 
-Nobody at that table asked why a paper that is right in every particular should go untouched for seventy-four days, and nobody would have been able to answer it, and Nia Vale said so out loud on Friday and was right to.
+Nobody at that table asked why a paper that is right in every particular should go untouched for seventy-four days, and nobody would have been able to answer it, and the woman of about thirty-eight of Marden said a version of that out loud on Friday and was right to.
 
 Kellan Rusk's page is still in a coat on a woman's back and is not one of the three and is not in a book and is not under anything anybody can reach in this building.
 

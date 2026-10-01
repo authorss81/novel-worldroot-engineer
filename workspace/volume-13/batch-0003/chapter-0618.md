@@ -24,17 +24,17 @@ The yard read the wall at nine and the run at seven, and the wall came first bec
 
 **One thousand and one hundred and seventy-nine hundredweight.**
 
-**"Five off yesterday, and Thursday is an odd morning, and it is the three hundred and eighty-first figure of a run of forty-nine numbers that has never repeated one of them,"** Hesta Lyle said. **"The two halves are a hundred and seventy-nine and a hundred and sixty-nine and they make three hundred and forty-eight, and I got it right on the first go, and I am not going to be told about it by anybody."**
+**"Five off yesterday, and Thursday is an odd morning, and it is the three hundred and eighty-first figure of the run and the run has never once repeated itself,"** Hesta Lyle said. **"A hundred and seventy-nine and a hundred and sixty-nine, which is three hundred and forty-eight, and I got it right on the first go, and I am not going to be told about it by anybody."**
 
 Renn Ashby read the run out of the doorway with the page turned to him, and the stone on the corner, and the last sentence of it going out with four other voices behind his.
 
-**"One hundred and sixty-one mornings of three hundred and five. Not a percentage. First one steps by one, second one steps by two."**
+**"One hundred and sixty-one mornings of three hundred and five. Read it as two figures and not as a rate, because one of them goes on by a single while the other goes on by a pair."**
 
 The four bodies of households stood at three hundred and seventy-nine on the wall, with the three hundred and seventy-eighth out of three hundred and eightieth in the smaller hand underneath, and the near board at seven hundred and sixty-five with the far one at eight hundred and twelve.
 
 Nobody asked for the ages that morning, and the clerk read them anyway at noon, standing at the middle table with the rack open, and said why he was doing it and heard himself saying it.
 
-**"Nobody asked. That is not the same as being asked and I am not going to pretend it is. The form is at two hundred and seventy-five days. The charter is at a hundred and eighty-one. The second ruled line in Silling's own book is at two hundred and sixty-nine, and there is nothing on it and nothing was on it when I started and there is nothing on it now."**
+**"Nobody asked. That is not the same as being asked and I am not going to pretend it is. Two hundred and seventy-five days on the form, a hundred and eighty-one on the charter, and two hundred and sixty-nine on the second ruled line of Silling's own book. There is nothing on it, there was nothing on it when I started, and there is nothing on it now."**
 
 The man of about fifty was standing at the end of the long table when he said the thing he had been carrying since Sunday, and he said it once and stopped, and nobody asked him a question and nobody asked him a second one.
 
@@ -58,9 +58,9 @@ Seven sessions are entered in this holding's book and there was none entered on 
 
 Six rows are ruled against what this holding does not know, the sixth of them bare, and there is nothing cut below them for the covenant or for the machine or for the schedule or for the confession. There are four lines under two words in that corner and not one word has ever gone on them. The sheet of terms has a third column ruled and empty under a heading nobody has improved.
 
-Paid stands at twenty-nine on the compost line and nothing has been discharged in twenty-nine, and it will not move again for twenty-six mornings, which falls on a Saturday a fortnight off and is not this holding's to arrange. The use log has fifteen lines in it and the sixteenth is not written. The barrow says eleven journeys and eleven is a floor. A door nine hundred yards off carries sixty-six in its seventh column and nobody has read it. The man of about seventy stands at twenty-nine fetchings and was not fetched and was not asked anything.
+Paid stands at twenty-nine on the compost line and nothing has been discharged in twenty-nine, and it will not move again for twenty-six mornings, which falls on a Saturday a fortnight off and is not this holding's to arrange. The use log has fifteen lines in it and the sixteenth is not written. The barrow says eleven journeys and eleven is a floor. A door nine hundred yards off carries sixty-six in its seventh column and nobody has read it. Nobody has gone to fetch the man of about seventy and nobody has put a question to him, and his twenty-nine fetchings stand where four years ago left them.
 
-Nobody climbed the ladder today and neither of the two people standing on it has a figure against his name anywhere in this holding. The offer on the low board has not been dated, read out, moved, taken up or taken back. The ring of bare ground took no foot from anybody and carries no figure at all, and the ground that came up on the low field is a separate piece and the two have never been added together.
+Nobody climbed the ladder today, and against neither of the two people up on it this holding has never written a figure of any kind. The offer on the low board has not been dated, read out, moved, taken up or taken back. The ring of bare ground took no foot from anybody and carries no figure at all, and the ground that came up on the low field is a separate piece and the two have never been added together.
 
 At noon the clerk turned the yard key and shut the one room behind him. The key to the drawer hung on its nail all afternoon and the drawer behind the near board stayed shut at every hour, and a man said at four o'clock that he was not going to be holding it past the next load, and nobody in that yard wrote one word of it down.
 

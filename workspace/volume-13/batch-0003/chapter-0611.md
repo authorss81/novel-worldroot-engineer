@@ -10,15 +10,17 @@ The yard read the wall without him. Hesta Lyle did it again because she had done
 
 **"Eight on since yesterday and Thursday is an even morning,"** she said. **"Three hundred and seventy-fourth of the run. I am not going to get good at this and I am not going to get worse at it either, so you can all stop watching me do it."**
 
-The halves were a hundred and seventy-six and a hundred and sixty-five and made three hundred and forty-one between them, and Nia Vale said the sum out loud before Hesta Lyle did it, and then said it a second time so that Hesta Lyle would have something to disagree with. The sheet of the four bodies of households carried three hundred and seventy-two on the line, and the clause printed beneath it takes the three hundred and seventy-first out of three hundred and seventy-third, one under and one over, and the near board stood at seven hundred and fifty-eight with the far one at eight hundred and five.
+The halves were a hundred and seventy-six and a hundred and sixty-five and made three hundred and forty-one between them, and Nia Vale said the sum out loud before Hesta Lyle did it, and then said it a second time so that Hesta Lyle would have something to disagree with.
+
+The line on the sheet of the four bodies of households is three hundred and seventy-two, and the clause printed under it takes yesterday out of the day after to make the three hundred and seventy-first out of three hundred and seventy-third, one figure on each side of the one on the line, and the two boards carry seven hundred and fifty-eight and eight hundred and five at their two ends.
 
 The clerk stood at the end of the wall and waited, and when it was finished he said that the run was not read that morning.
 
 **"It is an even morning. The pair steps differently on each side and it is read whole on the odd ones and not at all on the even ones, and I would rather say that out loud this week than let anybody think a man forgot."**
 
-He said it in a voice that four people at the back of the yard could not hear at all, and Renn Ashby heard it anyway because he was standing at the doorway reading the second book on his own at seven o'clock with the page turned to face him.
+He said it in a voice that four people at the back of the yard could not hear at all, and Renn Ashby heard every word of it from the doorway, where he stood with the second book shut under his arm and the page not turned to face him.
 
-**"Seven o'clock every morning I am here,"** he said, to nobody in particular, at about the eighth hour.
+**"Seven o'clock every morning I am here,"** he said, to nobody in particular, at about the eighth hour. **"Not this one. Tomorrow I will read it out loud at that door, and on the mornings that do not carry a pair I will stand in it and say so before anybody has to ask me why I am standing there with a book."**
 
 Kellan Rusk came back through the gate at half past nine with his coat buttoned to the throat and something inside it that had been inside it a long time, and he came at the long table and stood at the end of it and did not put anything down.
 
