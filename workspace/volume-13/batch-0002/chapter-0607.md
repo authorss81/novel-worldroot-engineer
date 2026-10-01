@@ -16,7 +16,7 @@ He put his thumb under the line to show where it began and took it off again.
 
 **"An even morning puts eight on. I have been asked this week twice whether a rise can come on a wet morning and the answer is that it comes on a wet morning, a dry morning and a morning in between, and it comes because of the day and not because of anything I can see out of a window."**
 
-The halves at the wall gave a hundred and seventy-four and a hundred and sixty-three, and one hundred and seventy-four added to a hundred and sixty-three is three hundred and thirty-seven, and three clocks landed on it and nobody made a fourth.
+What the wall carried was a hundred and seventy-four on one side and a hundred and sixty-three on the other, and the two together came to three hundred and thirty-seven, and three clocks landed on it and nobody made a fourth.
 
 The morning run was not read this morning. Sunday is an even morning and that run stands on the odd mornings only, and the second book stayed under its weight, and the heading of a month nine months back did not move.
 
@@ -44,17 +44,17 @@ Three hundred and sixty-eight on the sheet of the four bodies of households, and
 
 Seven hundred and fifty-four on the near board and eight hundred and one on the far one, forty-seven between them as it has been for four years, and the drawer behind the near board was shut at every hour of the morning and was shut when the wagon was weighed and was shut when the wagon went.
 
-There are three sheets on the long table. The first is sixty-seven days old and lies face up with about nine inches of bare board on either side of it, the second is folded, and the third carries a name at the head and a date and a hand at the foot and a seal in the corner and is correct in every particular. None of them was entered, none was refused, and no column was ruled for any of them.
+There are three sheets on the long table. The first of them is sixty-seven days old and lies face up with about nine inches of bare board on either side, the second is folded, and the third bears a name at the top, a date, a hand at the foot and a seal in the corner and is correct in every particular. None of them was entered, none was refused, and no column was ruled for any of them.
 
 The clerk derived the three ages at the middle table with the form open and the charter behind it and Silling's book open at the corner.
 
 **"A hundred and seventy on the charter, put first because the charter is the oldest of the three and is not the one anybody looks at. Then the form, two hundred and sixty-four days, unfilled. Then Silling's second ruled line at two hundred and fifty-eight, with nothing on it."**
 
-The third column of the sheet of terms is ruled and has nothing in it and nobody has been near its heading with a pen. Under two words in the corner of the one room, four lines stand bare. On the sheet of what this holding does not know, six rows are ruled and every one of them is empty, and a seventh is not cut, and it is not cut for the covenant or for the machine or for the schedule or for the confession.
+The third column of the sheet of terms is ruled and has nothing in it and nobody has been near its heading with a pen. Under two words in the corner of the one room, four lines stand bare. On the sheet of what this holding does not know, six rows are ruled and every one of them is empty, and a seventh is not cut, and the four things it is not cut for are the covenant, the machine, the schedule and the confession.
 
 The requests stand at fifty-three and the section-nine notes stand at fifty-three and none of the three sheets has gone into either of them and neither figure moved today when a wagon came and went.
 
-The barrow is against the wall at eleven journeys and eleven is a floor and the wagon did not use it. The use log holds fifteen lines and the sixteenth is not written and was not written this morning with a whole load on the steelyard and two men free. Sixty-six is on the seventh column of a door nine hundred yards off and did not go back. The man of about seventy was not fetched and nobody put a question to him.
+The barrow is against the wall at eleven journeys and eleven is a floor and the wagon did not use it. The use log holds fifteen lines and the sixteenth is not written and was not written this morning with a whole load on the steelyard and two men free. Sixty-six sits in the seventh column of a door nine hundred yards off and went no further back today. The man of about seventy was fetched by nobody and had nothing put to him.
 
 Soren Rill had walked out to meet the wagon on the fen road and come back in with his boots white and had stood at the weight while it was being read and said nothing at all until the wagon had gone, which the clerk noted by not asking him anything.
 

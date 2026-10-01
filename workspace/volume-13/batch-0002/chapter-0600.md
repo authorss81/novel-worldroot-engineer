@@ -36,7 +36,7 @@ She looked at Nia Vale and Nia Vale took her broom and went and swept the low en
 
 **"It is a can and not a rule, and if it stands till Tuesday and somebody wants it they can ask me for it and I will say no if I want to."**
 
-Marek came in from the gate at about the tenth hour with his hands in his coat and stood at the end of the long table, and a character in that yard said out loud the second time this month that he was not going to say two sentences, and this time he gave a reason that had not been given before.
+Marek came in from the gate at about the tenth hour with his hands in his coat and stood at the end of the long table, and a man in that yard said out loud the second time this month that he was not going to say two sentences, and this time he gave a reason that had not been given before.
 
 **"I told this yard yesterday that I would not say them and that the not saying was a choice and not a softening, and if I stand here every morning announcing that I am not saying them then the announcement is the sentence with a coat on."**
 
@@ -46,13 +46,13 @@ He turned a slate over on the shelf and put it back the other way up, which achi
 
 The clerk derived the ages at the middle table with the form open and the charter behind it and Silling's own book squared to the edge, and read the three without a pause between them.
 
-**"Two hundred and fifty-seven on the form. A hundred and sixty-three on the charter. Two hundred and fifty-one on the second ruled line, which is bare. Three documents and not one total."**
+**"The form is two hundred and fifty-seven days old. The charter behind it is a hundred and sixty-three. Silling's second ruled line is two hundred and fifty-one and is bare. Three documents and not one total."**
 
 He shut Silling's book on his finger and left it open at the corner.
 
 **"Four bare lines with the answer not due, the third column ruled and empty, seven sessions in this holding's book and no eighth this morning because there is no room and nobody is in one, six rows ruled against what we do not know and no seventh."**
 
-There are three sheets on the long table and the first of them is sixty days old and lies face up with about nine inches of bare board on either side, and the second is still folded, and the third is correct with its name and its date and its seal, and the requests and the section-nine notes stand at fifty-three and fifty-three and have taken none of the three.
+There are three sheets on the long table and the first of them is sixty days old and lies face up with about nine inches of bare board on either side, and the second is still folded, and the third is correct with its name and its date and the hand at the foot of it and its seal, and the requests and the section-nine notes stand at fifty-three and fifty-three and have taken none of the three.
 
 Soren Rill came in near the end with mud on the heel of the spade and said he had walked past the wall nine miles off without stopping at it, on purpose, because he has read it four times and it has not changed and neither has anything he has to say to it.
 
@@ -72,7 +72,7 @@ He put the tin back and wiped his hands on his coat.
 
 Tova Reed carried nine trays out to the line and hung them in the sun and left them at an angle that lets the air off the bottom, and nobody in the yard asked her to move one of them for anything.
 
-The barrow stood against the wall at eleven journeys, and the use log kept fifteen lines and no sixteenth, and sixty-six on the seventh column of a door nine hundred yards off was not read and did not go back, and the man of about seventy was not fetched and was not asked which number.
+The barrow stood against the wall at eleven journeys, and the use log kept fifteen lines and no sixteenth, and a door nine hundred yards off carries sixty-six in its seventh column, unread, and it went no further back, and the man of about seventy was not fetched and was not asked which number.
 
 Paid is the word in front of twenty-eight on the compost line and no one discharged anything in twenty-eight today. Nothing went into the ring of bare ground and no figure stands against it, and the offer on the low board is still lying there with nothing written on it and nothing taken up.
 

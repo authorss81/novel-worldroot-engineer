@@ -24,7 +24,7 @@ The clerk said that the numerator and the denominator in that pair do not make a
 
 The sheet of the four bodies of households carries three hundred and sixty-five, and the clause printed under it takes the three hundred and sixty-fourth out of three hundred and sixty-sixth, one under and one over, and it has read that way at every site where it has ever been written.
 
-Seven hundred and fifty-one on the near board and seven hundred and ninety-eight on the far one, and the drawer behind the near board was shut at every hour and was not opened by anybody including the man who has the key.
+Near board seven hundred and fifty-one and far board seven hundred and ninety-eight, with the drawer behind the near board shut at every hour and not opened by anybody including the man who has the key.
 
 The man who has the key is the man of about fifty and he said so himself, standing by the wall with his hand about a foot from the drawer.
 
@@ -50,7 +50,7 @@ He put the three in front of the woman of about thirty-eight of Marden face up a
 
 She read them twice and gave the papers back in the same order she had taken them.
 
-Four bare lines under two words in the corner of the one room, and the third column of the sheet of terms ruled and empty with its heading left alone, and six rows ruled against what this holding does not know with nothing standing against any of them and no seventh row cut.
+Four bare lines stand under two words in the corner of the one room, and the sheet of terms carries a third column ruled and empty with its heading left alone, and six rows are ruled against what this holding does not know with nothing standing against any of them and no seventh row cut.
 
 There are three sheets on the long table this morning, spaced about nine inches apart with bare board between: the first sixty-four days old and face up, the second folded with its crease turned the other way, and the third with a name at the head, a date, a hand and a seal, correct in every particular. Fifty-three requests and fifty-three section-nine notes, and not one of the three sheets is in either.
 
@@ -78,7 +78,7 @@ Kellan Rusk was not in the yard this morning and the folded page stayed in his c
 
 The barrow has eleven journeys chalked on the side of it and stands against the wall where it has stood four years, and eleven is a floor. Fifteen lines in the use log, the sixteenth unwritten, and nobody wrote it this morning with a whole morning free to write it in. Sixty-six on the seventh column of the door nine hundred yards off, not read, not going back. The man of about seventy at twenty-nine fetchings, not fetched, not asked.
 
-Paid is the word in front of twenty-eight on the compost line and nothing is discharged in twenty-eight.
+The compost line carries paid against twenty-eight and there has been no discharge in twenty-eight.
 
 No rung was climbed and no figure given for either of the two people on that ladder. The offer on the low board lies where it has lain, undated and untaken and not withdrawn. Nothing walked into the ring and no figure stands against it and the ground that came back on the low field is a different piece.
 

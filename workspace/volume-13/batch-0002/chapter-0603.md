@@ -12,13 +12,13 @@ Eight came on to Tuesday and the run is at the three hundred and sixty-sixth fig
 
 **"It came up because Wednesday is an even morning. It did not come up because it rained and I want that said before somebody in this yard decides that rain is a reason."**
 
-The two halves at the wall gave a hundred and seventy-two and a hundred and sixty-one, and one hundred and seventy-two added to a hundred and sixty-one is three hundred and thirty-three, and nobody added them anywhere else in the yard this morning.
+Two halves went up on the wall, a hundred and seventy-two and a hundred and sixty-one, and the first of them added to the second is three hundred and thirty-three, and nobody added them anywhere else in the yard this morning.
 
 The morning run was not read. Wednesday is an even morning and the run is an odd-morning thing, and the second book did not come off its weight at all, and the heading of a month nine months back stayed where it has stayed.
 
 Three hundred and sixty-four stands against the four bodies of households on the middle table, with the three hundred and sixty-third out of three hundred and sixty-fifth printed under it in a smaller hand, one short and one long, and a chalk figure on a wall outside and a figure on a sheet inside that are two different numbers that nobody here has added together.
 
-Seven hundred and fifty on the near board and seven hundred and ninety-seven on the far one, forty-seven between them, and the drawer behind the near one stayed shut at every hour from before light until the clerk went in at noon.
+The near board carries seven hundred and fifty and the far one seven hundred and ninety-seven, forty-seven between them, and the drawer behind the near one stayed shut at every hour from before light until the clerk went in at noon.
 
 Sera Quill had the copying slate on the middle table from six and copied nothing onto it all morning, and she said why at nine when a man asked her whether the slate was finished.
 
@@ -52,7 +52,7 @@ The clerk derived the ages at the middle table in one breath, form first, then c
 
 Sera Quill asked for the three figures and wrote them nowhere, and the clerk gave them from the rack.
 
-**"Two hundred and sixty on the form. A hundred and sixty-six on the charter. Two hundred and fifty-four on the second ruled line. Three blanks in a row on a morning when a man walked past a door, and that is all the morning did."**
+**"Two hundred and sixty days on that form. The charter is a hundred and sixty-six and Silling's second ruled line is two hundred and fifty-four. Three blanks in a row on a morning when a man walked past a door, and that is all the morning did."**
 
 Four bare lines stand in the corner of the one room under two words, and the third column of the sheet of terms is ruled and empty and its heading has not been improved and is not going to be, and six rows are ruled against what this holding does not know with nothing against any of them and no seventh row cut.
 
@@ -74,6 +74,6 @@ Tova Reed turned the nine trays over one at a time on the line so the damp went 
 
 The barrow is against the wall at eleven journeys, and eleven is a floor and the twelfth is not chalked anywhere. Fifteen lines are in the use log on its shelf and the space under the last one is clean. The man of about seventy has twenty-nine fetchings against him and was not fetched and was not asked.
 
-Paid is the word in front of twenty-eight on the compost line and nothing has been discharged in twenty-eight. The ring of bare ground was not walked and has no figure against it and the ground that came back on the low field is a different piece and the two are not added. The offer is undated and unmoved. No rung was climbed and no figure was given for either of the two people on that ladder.
+Paid is the word in front of twenty-eight on the compost line and the discharge in twenty-eight is nothing at all. The ring of bare ground was not walked and has no figure against it and the ground that came back on the low field is a different piece and the two are not added. The offer is undated and unmoved. No rung was climbed and no figure was given for either of the two people on that ladder.
 
 Ink drying on a copying slate with nothing on it, and wet boots drying on a wall, and a door nine hundred yards off holding a number nobody has written down.

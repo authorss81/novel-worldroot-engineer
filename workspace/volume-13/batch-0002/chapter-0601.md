@@ -32,7 +32,7 @@ There was no figure read for the morning run at all this morning. Monday is an e
 
 Three hundred and sixty-two days stand on the sheet of the four bodies of households, and the clause under the number takes the three hundred and sixty-first out of three hundred and sixty-third, one under and one over, and the wall and that sheet stay two different figures that this holding does not add.
 
-Seven hundred and forty-eight on the near board and seven hundred and ninety-five on the far one, forty-seven between them, and the drawer behind the near board stood shut at every hour from the second to the ninth.
+Near board seven hundred and forty-eight, far board seven hundred and ninety-five, forty-seven between them, and the drawer behind the near board stayed shut from the second hour to the ninth.
 
 Harlan Vetch said the thing about the two sentences while the two of them were taking their boots off at the door, and he said it plainly and without any weight on it, and he was not asking Marek anything.
 
@@ -68,9 +68,9 @@ The barrow is against the wall at eleven journeys and the eleventh is a floor. F
 
 The man of about seventy was not fetched and nobody put a question to him, and the count of questions put to him is nothing at every site.
 
-Paid is the word in front of twenty-eight on the compost line and nothing has been discharged in twenty-eight and the fall will come on its own morning without anybody's leave.
+The word in front of twenty-eight on the compost line is paid and not one thing has been discharged in twenty-eight, and the fall will come on its own morning without anybody's leave.
 
-Nothing walked into the ring and no figure stands against it, and the ground that came back on the low field is a different piece of ground and the two are not added. The offer lies where it has lain. No rung of that ladder was climbed and no number was given for either of the two people standing on it.
+No foot went into the ring of bare ground and nothing stands against it, and the ground that came back on the low field is a different piece of ground and the two are not added. The offer lies where it has lain. No rung of that ladder was climbed and no number was given for either of the two people standing on it.
 
 Sera Quill came out to the headland at about the tenth hour with her coat buttoned to the neck and stood behind the two of them while the force was read a third time for her benefit, and copied nothing at all.
 

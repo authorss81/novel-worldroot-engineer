@@ -16,7 +16,7 @@ He put his thumb under the line to show where it began and took it away again wi
 
 The halves at the wall came out a hundred and seventy one way and a hundred and fifty-nine the other, and the two together made three hundred and twenty-nine, and Renn Ashby said the addition twice and Renn Ashby said the rising half moves first on an even morning and does not wait for anybody.
 
-**"A hundred and seventy and a hundred and fifty-nine and no getting them the wrong way round, because they are one hundred numbers and both of them are one hundreds and that is the house form and not a mistake."**
+**"A hundred and seventy and a hundred and fifty-nine and no getting them the wrong way round, because they are one hundred numbers and both of them are one hundreds, and that is the house form and not a mistake."**
 
 The morning run was not read. Saturday is an even morning and that run is read on an odd one and not on an even one, and the book that carries it stayed shut under its weight, and the heading where the run goes is of a month nine months back and has not moved in a month.
 
@@ -38,7 +38,7 @@ He set the spade down in the hole and stood on the near side of it.
 
 The near board reads seven hundred and forty-six and the far board reads seven hundred and ninety-three, and the drawer behind the near one has been shut at every hour of every morning since the last one turned and was shut again at ten.
 
-There are three sheets on the long table. The first is fifty-nine days old and lies face up with about nine inches of bare board either side of it, the second is folded with its crease the other way from yesterday, and the third carries a name at the head and a date and a hand at the foot and a seal, and is right in every particular. Nobody entered any of them and nobody refused any of them.
+There are three sheets on the long table. The first has been lying face up for fifty-nine days with about nine inches of bare board either side of it, the second is folded with its crease the other way from yesterday, and the third carries a name at the head and a date and a hand at the foot and a seal, and is right in every particular. Nobody entered any of them and nobody refused any of them.
 
 Marek came in from the gate with dirt on his fingers and stood at the foot of the table and looked at the bare board between the first sheet and the second, and said the thing he says about the table, and this time he said why he was not saying the other thing.
 
@@ -46,7 +46,7 @@ Marek came in from the gate with dirt on his fingers and stood at the foot of th
 
 He turned his head toward Tova Reed and then away from her, deliberately, and did not raise his voice to compensate for it.
 
-**"I said them on the first of the month and on the day before it and I have said them whole three times in a month and a sentence said three times stops being a loss and starts being a habit, and I am not going to hand anybody a habit to put in a column."**
+**"I said them on the first of the month and on the day before it and I have said them whole four times in the thirty days behind that and a sentence said four times stops being a loss and starts being a habit, and I am not going to hand anybody a habit to put in a column."**
 
 Tova Reed heard that perfectly well on the side he gave her and went on sorting trays at the seed house door.
 
@@ -72,6 +72,6 @@ The use log is on its shelf under a weight with fifteen lines in it and the sixt
 
 The man of about seventy was not fetched this morning, and the count of questions put to him is still nothing at every site where a question could have been put.
 
-Paid is the word in front of twenty-eight on the compost line and nothing is discharged in twenty-eight, and the barrow was not used for it because nobody has a reason to use a barrow today.
+Twenty-eight is the figure on the compost line and paid is the word standing in front of it, and in twenty-eight nothing has gone out, and the barrow was not used for it because nobody has a reason to use a barrow today.
 
 Mud drying in ruts by a road nobody measured, and a gate shut hard for the first time in four years, and a hole in the middle of the lane staying open on purpose.
