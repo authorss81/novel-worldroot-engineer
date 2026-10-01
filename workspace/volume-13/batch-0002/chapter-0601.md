@@ -30,7 +30,7 @@ The halves on the long wall came at a hundred and seventy-one and a hundred and 
 
 There was no figure read for the morning run at all this morning. Monday is an even morning and that run belongs to the odd mornings, and the second book stayed where it was under its weight, and the heading of a month nine months back where the run goes did not move.
 
-Three hundred and sixty-two days stand on the sheet of the four bodies of households, and the clause under the number takes the three hundred and sixty-first out of three hundred and sixty-third, one under and one over, and the wall and that sheet stay two different figures that this holding does not add.
+The clerk turned the sheet of the four bodies of households round on the middle table so that Harlan Vetch could read the second line under the number, and the line reads the three hundred and sixty-first against the three hundred and sixty-third, and the clerk said the pair is two mornings and not one, and the figure printed above them is three hundred and sixty-two and belongs to neither.
 
 Near board seven hundred and forty-eight, far board seven hundred and ninety-five, forty-seven between them, and the drawer behind the near board stayed shut from the second hour to the ninth.
 

@@ -18,7 +18,7 @@ He put his thumb under the line to show where it began and took it off again.
 
 What the wall carried was a hundred and seventy-four on one side and a hundred and sixty-three on the other, and the two together came to three hundred and thirty-seven, and three clocks landed on it and nobody made a fourth.
 
-The morning run was not read this morning. Sunday is an even morning and that run stands on the odd mornings only, and the second book stayed under its weight, and the heading of a month nine months back did not move.
+Soren Rill asked the clerk twice whether the second book was going to be opened this morning and was told no twice, and he said he had not asked to be told the reason and had not been given one, and the book stayed under its weight where it stays on the mornings the run is not read, and Sunday is an even morning, and the heading of a month nine months back over that shelf did not move.
 
 At the third hour the fifty-eighth ninth-day return came up the fen road, stood a quarter of an hour, and went back. It came off the steelyard at five hundred and ninety-one hundredweight, which is eleven above the last, the forty-eighth pair of names, and the two halves were reconciled twice and never added.
 

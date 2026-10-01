@@ -24,7 +24,7 @@ The morning run was read at the seventh hour out of the second book in the doorw
 
 The heading over it is of a month nine months back and has not shifted, and the clerk said the run and nothing about what it was for, because the two figures in it do not make a fraction and the making of one out of them would be the making of something.
 
-Three hundred and sixty-three days stand against the four bodies of households, and the clause written under that figure takes the three hundred and sixty-second out of three hundred and sixty-fourth, one under and one over, and the wall figure and that sheet have never been put together in this holding and are not going to be.
+Nia Vale put her thumb under the second line on the sheet of the four bodies of households and read the two figures it holds, the three hundred and sixty-second and the three hundred and sixty-fourth, and then read the one printed above them, which is three hundred and sixty-three, and said out loud that three figures standing one above the other on one sheet is still one figure for one morning, and that nobody in this yard was to go adding it to what is chalked on a wall outside.
 
 Seven hundred and forty-nine on the near board against seven hundred and ninety-six on the far one, and the gap of forty-seven doing what it has done every morning since the boards were cut, and the drawer behind the near one shut at every hour without anybody touching it.
 

@@ -22,7 +22,7 @@ The clerk said that the numerator and the denominator in that pair do not make a
 
 **"One hundred and fifty-four step by one and two hundred and ninety-one step by two, and if a man writes that as a percentage in a book in this county he will be taken apart by somebody."**
 
-The sheet of the four bodies of households carries three hundred and sixty-five, and the clause printed under it takes the three hundred and sixty-fourth out of three hundred and sixty-sixth, one under and one over, and it has read that way at every site where it has ever been written.
+Tova Reed read the sheet of the four bodies of households off the long wall standing square to it, three hundred and sixty-five on the line, and beneath that line the two figures the paper has kept for the mornings either side of it, the three hundred and sixty-fourth and the three hundred and sixty-sixth, and she said then that a sheet being right is not the same thing as being finished with it, and put it back where it lies.
 
 Near board seven hundred and fifty-one and far board seven hundred and ninety-eight, with the drawer behind the near board shut at every hour and not opened by anybody including the man who has the key.
 
@@ -50,7 +50,7 @@ He put the three in front of the woman of about thirty-eight of Marden face up a
 
 She read them twice and gave the papers back in the same order she had taken them.
 
-Four bare lines stand under two words in the corner of the one room, and the sheet of terms carries a third column ruled and empty with its heading left alone, and six rows are ruled against what this holding does not know with nothing standing against any of them and no seventh row cut.
+Nia Vale wiped her hands on her coat at the door of the one room and counted the four bare lines under the two words with the corner of her thumb, one at a time, because counting them takes less time than saying they are empty, and the third column of the sheet of terms is ruled and has nothing under its heading, and on the sheet of what this holding does not know she put her finger on the sixth row and lifted it, and there is nothing cut below the sixth.
 
 There are three sheets on the long table this morning, spaced about nine inches apart with bare board between: the first sixty-four days old and face up, the second folded with its crease turned the other way, and the third with a name at the head, a date, a hand and a seal, correct in every particular. Fifty-three requests and fifty-three section-nine notes, and not one of the three sheets is in either.
 

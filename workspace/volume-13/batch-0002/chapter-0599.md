@@ -20,7 +20,7 @@ The halves at the wall came out a hundred and seventy one way and a hundred and 
 
 The morning run was not read. Saturday is an even morning and that run is read on an odd one and not on an even one, and the book that carries it stayed shut under its weight, and the heading where the run goes is of a month nine months back and has not moved in a month.
 
-Three hundred and sixty days stand on the sheet of the four bodies of households on the middle table, and under that figure the clause takes the three hundred and fifty-ninth out of three hundred and sixty-first, one under and one over, and the launder chalked on a wall and that sheet in a room are two numbers that have never been added together here.
+On the middle table the sheet of the four bodies of households carries three hundred and sixty, and printed under it in a smaller hand are two mornings, the three hundred and fifty-ninth and the three hundred and sixty-first, one short below the figure and one long above it. Renn Ashby read both of them from where he stood at the gate and said they were not the number chalked outside, and he was right, and neither document has ever been put to the other in this holding.
 
 Marek drove the pin home and the gate came back against its stop with a sound the yard had not heard since the spring, and Renn Ashby tried it twice and put his weight on it and it did not give.
 
@@ -46,7 +46,7 @@ Marek came in from the gate with dirt on his fingers and stood at the foot of th
 
 He turned his head toward Tova Reed and then away from her, deliberately, and did not raise his voice to compensate for it.
 
-**"I said them on the first of the month and on the day before it and I have said them whole four times in the thirty days behind that and a sentence said four times stops being a loss and starts being a habit, and I am not going to hand anybody a habit to put in a column."**
+**"I said them on the first of the month and on the day before it and I have said them whole five times in the thirty days behind that and a sentence said five times stops being a loss and starts being a habit, and I am not going to hand anybody a habit to put in a column."**
 
 Tova Reed heard that perfectly well on the side he gave her and went on sorting trays at the seed house door.
 
