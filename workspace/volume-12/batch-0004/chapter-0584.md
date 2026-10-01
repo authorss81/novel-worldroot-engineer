@@ -8,7 +8,7 @@ The figure went into the second book at the first hour and the clerk read it bac
 
 **One thousand and one hundred and twenty-eight hundredweight.**
 
-Friday came off Thursday by five and the three hundred and forty-seventh figure of a run in which nothing has ever been entered twice is the figure standing against the launder this morning.
+Five came back off it on Friday, and the figure standing against the launder is the three hundred and forty-seventh of a run in which nothing has ever been entered twice.
 
 At the long wall the two halves were a hundred and sixty-two mornings one way and a hundred and fifty-two the other, and they came to three hundred and fourteen, and the man who said the second of them said the total out loud before anybody had asked him for it.
 
@@ -28,7 +28,7 @@ The woman of about thirty-eight of Marden was at the tap and heard that and said
 
 **"That is the first time in a month that a person in this yard has said a number on that sheet was the right number, and I am not going to take it away from him, and I am not going to add anything to it either."**
 
-She set the can down.
+She set the can down on the stone and stood with both hands off it.
 
 **"The day this yard starts putting its own opinion onto a sheet from a county four counties off is the day that sheet stops being a sheet from a county four counties off."**
 
@@ -64,7 +64,7 @@ Marek was in the one room from the fifth hour with the door open and had all of 
 
 **"Two people in one yard said two true things about one piece of paper this morning and neither of them said the other's thing, and I have watched four counties go the other way about that in one afternoon."**
 
-He gave the reason first and printed no figure of his own in it.
+Both halves of it were said with the reason in front, and neither of them was given a count of its own.
 
 **"What was said at the tap was that right numbers are not the same as a right thing. What was said at the wall was that a line for a place that has not been kept for four years is not a new piece of paper. Those are two sentences and they are both true and there is no sentence in this yard that is allowed to hold them both."**
 
@@ -76,7 +76,7 @@ He took his hand off the table and let it hang at his side.
 
 **"Nobody in this county has been asked that this month and nobody is going to be asked it by me. If a body four counties off does ask it, the answer is that it is not a question a person in a yard can be made to answer, and that answer is not going to be written down as one either."**
 
-The aggregate of the four bodies of households is three hundred and forty-five days on the sheet in this yard, and the clause under it takes the three hundred and forty-fourth of those mornings out of three hundred and forty-sixth, one under and one over at every site.
+The four bodies of households stand at three hundred and forty-five days on the sheet in this yard. Under that figure the clause takes one morning less and one morning more, three hundred and forty-fourth of those mornings out of three hundred and forty-sixth.
 
 The near board of the long wall carries seven hundred and thirty-one days and the far board carries seven hundred and seventy-eight days, and the two of them are forty-seven days apart, and the man of about thirty-one of Silling put his thumb on the near board and then took it off again without saying anything at all about the gap, and the drawer behind that board stood shut at every hour of this morning.
 
@@ -90,7 +90,7 @@ Paid is the word in front of twenty-eight on the compost line and it is not disc
 
 Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them, and a table of places and dates is not a seventh and the seventh row is not ruled.
 
-Seven sessions are entered in this holding's book and there was no eighth this morning. The use log has fifteen lines in it and there is no sixteenth, and the barrow's journeys stand at eleven and the barrow is against a wall where a man put it a fortnight ago, and eleven is a floor.
+Seven sessions stand entered in this holding's book and nothing this morning made an eighth. Fifteen lines are in the use log, the barrow's journeys are at eleven against the wall a man put it beside a fortnight ago, and eleven is a floor.
 
 The seventh column cut in that door nine hundred yards off is at sixty-six, and it does not go back from sixty-six, and it is not read this week. The man of about seventy is at twenty-nine fetchings and was not fetched today, and the count of questions put to him in this holding is nil at every one of its sites, and that is the whole of what four books in this yard hold about either of them.
 

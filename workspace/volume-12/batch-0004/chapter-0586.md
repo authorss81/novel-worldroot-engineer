@@ -8,11 +8,11 @@ The clerk of this holding wrote the figure at the first hour and read it back on
 
 **One thousand and one hundred and thirty-one hundredweight.**
 
-Sunday came off Saturday by five and the three hundred and forty-ninth figure of a run in which nothing has ever been entered twice is what stands against the launder this morning.
+Five came off it on Sunday, and the three hundred and forty-ninth figure of a run in which nothing has ever been entered twice is what stands against the launder this morning.
 
 At the long wall the rising half was a hundred and sixty-three mornings and the falling half a hundred and fifty-three, and the two of them came to three hundred and sixteen, and the man who said the falling half had the total out before the other one had finished saying his.
 
-The run of mornings was read at the seventh hour out of the second book under the heading where it goes, of a month nine months back, and a Sunday is an odd morning and the run is read on odd mornings.
+It came off the second book at the seventh hour on Sunday, an odd morning, and that run is read on odd mornings only. The frame it is written under is of a month nine months back and the heading has not moved since the first of this month.
 
 **One hundred and forty-five mornings of two hundred and seventy-three.**
 
@@ -56,11 +56,11 @@ She picked her bag up off the table and set it down again on the same spot.
 
 **"There are three pieces of paper on that table and about nine inches of board between each of them, and there has been nine inches between pieces of paper on that table for a month, and I am not going to say that the space is a decision. I have watched a great many desks where the space between two pieces of paper was an accident."**
 
-Marek was in the one room from the fifth hour with the door open and had all of it through the gap in it, and came out at about the eleventh hour and stood at the long table and looked at the three sheets without touching any of them.
+The one room had its door open from the fifth hour and Marek was in it, and everything on the long table came through the gap where he sat, and at about the eleventh hour he came out and stood at the table and looked at the three sheets without touching any of them.
 
 **"A woman stood in this yard this morning and said out loud what she is, before she said anything else, and then she told us the four things about that sheet that can be checked in four years, and she told us the one thing about it that cannot."**
 
-He gave the reason first and printed no figure of his own anywhere in it.
+He said why before he said what, and nothing he said carried a figure that belonged to him alone.
 
 **"I have watched a great many people go into a room in four counties and try to be useful about a piece of paper, and being useful about a piece of paper means saying one thing more than can be checked, and then the one thing more is the thing that gets remembered in four years."**
 
@@ -72,7 +72,7 @@ He turned the sleeve back over his forearm and left it there.
 
 **"If a man from a county four counties off comes through that gate in a month he is going to be told what the woman at that table has just said and nothing else, and he is going to be told it by a person in a yard and not by a letter."**
 
-The aggregate of the four bodies of households is three hundred and forty-seven days on the sheet in this yard, and the clause under it takes the three hundred and forty-sixth of those mornings out of three hundred and forty-eighth, one under and one over at every site.
+The sheet in this yard carries three hundred and forty-seven days for the four bodies of households, and the clause beneath it runs one under and one over, three hundred and forty-sixth of those mornings out against three hundred and forty-eighth.
 
 Seven hundred and thirty-three days on the near board of the long wall and seven hundred and eighty on the far board, and a records witness who came down the fen road that morning read both numbers and then said out loud that she was a witness to records and not a witness to anything that happened, and the forty-seven days between the two boards is not a thing she spoke about, and the drawer behind the near board stood shut at every hour.
 
@@ -82,11 +82,11 @@ Two hundred and forty-three days is the age of that form, with a column headed n
 
 A woman stood in this yard this morning and told this holding exactly what can be checked about a piece of paper in four years, and none of those four years has anything to do with the three of those documents.
 
-Paid is the word in front of twenty-eight on the compost line and it is not discharged in twenty-eight. The rule in the board in the one room stands empty and the count of blanks on that board is thirty-nine and there is no margin on the page where they are counted.
+The compost line stands at twenty-eight and paid goes in front of it, not discharged in twenty-eight. The rule in the board in the one room stands empty and the count of blanks on that board is thirty-nine, and there is no margin on the page where they are counted.
 
 Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them, and a seal in the corner of a piece of paper is not a seventh and the seventh row is not ruled.
 
-Seven sessions are entered in this holding's book and there was no eighth this morning. The use log has fifteen lines in it and there is no sixteenth, and the barrow's journeys stand at eleven against a wall where a man put it a fortnight ago, and eleven is a floor.
+Nothing this morning made an eighth session in this holding's book. Fifteen lines are in the use log and no sixteenth, and the barrow is still against the same wall a man put it beside a fortnight ago with its eleven journeys, and eleven is a floor.
 
 There is a door nine hundred yards off with seven columns cut into its stone. The seventh of them is at sixty-six and does not go back and was read twice in this last month, both on the rule, and what it counts besides readings has not been answered. The man of about seventy is at twenty-nine fetchings, was not fetched today, and has been asked which number he is at no site in this holding.
 

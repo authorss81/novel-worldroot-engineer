@@ -8,7 +8,7 @@ The clerk of this holding had the launder figure in the second book before the l
 
 **One thousand and one hundred and seven hundredweight.**
 
-Friday took five back off Thursday, and the three hundred and thirty-third figure of a run in which nothing has ever been entered twice is the figure standing against the launder this morning.
+Five came off it on Friday, and the three hundred and thirty-third figure of a run in which nothing has ever been entered twice stands against the launder this morning.
 
 At seven the two men at the long wall read the halves out of one another, and the rising one said a hundred and fifty-five mornings and the other said the falling one back to him at a hundred and forty-five mornings, and neither of them added anything, and the two of them came to three hundred.
 
@@ -48,13 +48,13 @@ The woman of about thirty-eight asked him one question about it at the tap and h
 
 The woman of about thirty-eight of Marden waited with the can in her hand.
 
-The woman of about thirty-eight of Marden waited with the can in her hand.
+She shifted her weight off the other foot and the can came up level with the tap.
 
 **"No."**
 
 He did not look up from the gate.
 
-He did not look up from the gate.
+The pin was still in his fist and stayed out of the hole it had come out of.
 
 **"Why not."**
 
@@ -96,7 +96,7 @@ Paid is the word in front of twenty-seven on the compost line and it is not disc
 
 Nine hundred yards off there is a door with seven columns cut in the stone of it and the seventh of those columns stands at sixty-six, and it is not read on any morning this week and from sixty-six it does not go back. The man of about seventy stands at twenty-nine fetchings and was not fetched this morning, and the count of questions this holding has put to him is nil at every one of its sites.
 
-The use log went back under its weight on the shelf at about the eleventh hour with fifteen lines in it and the sixteenth is not among them, and the spanner did not go near it, and the man who keeps that book used it twice and wrote neither of them down.
+About the eleventh hour the use log went back onto its shelf under its own weight. Fifteen lines are in it, the sixteenth is not among them, and the spanner did not go near it. The man who keeps that book used it twice and wrote neither of them down.
 
 Seven sessions are entered in this holding's book and no eighth was entered this morning. A woman walking four miles to look at a hinge is not a session and a gate being shut by one man is not a session.
 
@@ -104,11 +104,11 @@ Six rows are ruled for the things this holding does not know about and no unit h
 
 The requests column is at fifty-three and the section-nine notes are at fifty-three and neither of them took anything this morning, and the letter went into neither of them and will go into neither of them.
 
-That form on the middle table is two hundred and twenty-seven days into its stay with a column headed nothing and nothing in it, and the charter behind it went through a door nine miles off a hundred and thirty-three days ago, and three of the four bodies of households in that room are still drawing on a machine for stored light and the fourth has sent a person to a tap twice in a fortnight.
+There is a form on the middle table two hundred and twenty-seven days into its stay, with a column headed nothing and nothing written in it. The charter behind it went through a door nine miles off a hundred and thirty-three days ago, three of the four bodies of households in that room are still drawing on a machine for stored light, and the fourth has sent a person to a tap twice in a fortnight.
 
 Neither document has an opinion about the other one.
 
-The charter behind it went through a door nine miles off a hundred and thirty-three days ago, and three of the four bodies of households in that room are still drawing on a machine for stored light and the fourth has sent a person to a tap twice in a fortnight.
+A stay is not an interval and an interval is not a filling, and this morning the one room put both of them on its table and added neither to the other.
 
 There are four ruled lines in the man of about thirty-one of Silling's own book and the second of them is two hundred and twenty-one days old with nothing on it, and he was on the middle road all morning with a bar and did not come into the one room.
 

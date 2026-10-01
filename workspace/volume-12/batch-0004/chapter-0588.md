@@ -90,7 +90,7 @@ The use log went back under its weight on the shelf at about the eleventh hour w
 
 Nine hundred yards off there is a door with seven columns cut in the stone of it and the seventh of those columns stands at sixty-six, and it was read twice in this last month, both on the rule, and from sixty-six it does not go back, and what it counts besides readings has not been answered and is not going to be.
 
-The man of about seventy stands at twenty-nine fetchings and was not fetched this morning, and the count of questions this holding has put to him is nil at every one of its sites.
+Twenty-nine fetchings is what the man of about seventy stands at, he was not fetched this morning, and the count of questions this holding has put to him is nil at every one of its sites.
 
 There is a ring of bare ground inside the eleven acres and no person in this holding has ever stood in it, and it was not walked and not measured this month and it has no figure against it on any page in this building, and the ground that came up on the low field above the middle road is a different piece of ground and the two have not been added to one another anywhere.
 

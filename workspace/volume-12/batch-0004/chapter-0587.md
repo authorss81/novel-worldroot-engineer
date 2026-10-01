@@ -46,7 +46,7 @@ Marek was in the one room from the fifth hour with the door open and had the who
 
 **"A man has announced that he is not carrying anything this month and a woman has announced that she is not spending a seed front on a schedule, and neither of those two people is asking this yard for anything at all."**
 
-He gave the reason first and printed no figure of his own in it.
+The reason came before the claim, and no figure of his own went with it into the yard.
 
 **"The figure I read out at the ninth hour is the highest that run has reached since the ninth of the month before, and I have not said a word about it, and I am not going to, and I want it on the page that I did not, because the day I start marking figures in this yard is the day a figure becomes an event and an event becomes a reason."**
 
@@ -54,11 +54,11 @@ He turned the sleeve back over his forearm and stood there.
 
 **"A run of numbers is not a season and a season is not a harvest and a harvest is not an answer, and I have got a piece of paper on a table in this room with a date at the foot of it, and the only honest thing I can say about all three of those things today is that I do not know which one of them is going to matter in the spring."**
 
-The aggregate of the four bodies of households is three hundred and forty-eight days on the sheet in this yard, and the clause under that figure takes the three hundred and forty-seventh of those mornings out of three hundred and forty-ninth, one under and one over at every site.
+Against the four bodies of households the sheet in this yard has three hundred and forty-eight days on it, the clause taking three hundred and forty-seventh of those mornings out of three hundred and forty-ninth, one under and one over as it has been at every site.
 
 The near board says seven hundred and thirty-four and the far board says seven hundred and eighty-one, forty-seven days between them, and the man of about fifty read them from the bench where he was sitting without getting up, because he has read those two numbers every morning for nine years from that bench, and the drawer behind the near board stood shut at every hour of this morning.
 
-The first sheet on the long table is forty-eight days old and has not been answered and has not been refused and has not been copied, and the second came on the twenty-eighth and has not been opened, and the third came on Thursday and is correct in every particular, and none of the three is in the requests column and none is in the section-nine notes and those two are at fifty-three and fifty-three.
+Forty-eight days is how long the first sheet has lain on that table, unanswered, unrefused and uncopied. The second arrived on the twenty-eighth and has not been opened. The third came on Thursday and is correct in every particular. Not one of the three is in the requests column and none is in the section-nine notes, and those two stand at fifty-three and fifty-three.
 
 On the middle table there is a form two hundred and forty-four days old with nothing over its column and nothing in it, and behind it a charter a hundred and fifty days through a door nine miles off, and in the pocket of a book in this room the second of four ruled lines is two hundred and thirty-eight days old with nothing on it.
 

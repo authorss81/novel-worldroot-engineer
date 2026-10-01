@@ -8,7 +8,7 @@ The clerk of this holding wrote the launder figure at the first hour and read it
 
 **One thousand and one hundred and fifteen hundredweight.**
 
-Saturday came up eight on Friday and the standing against the launder is the three hundred and thirty-fourth figure of a run that has never had the same one in it twice.
+It came up eight on Saturday, and the three hundred and thirty-fourth figure of a run that has never had the same one in it twice is what stands against the launder this morning.
 
 The two halves at the wall were a hundred and fifty-six mornings one way and a hundred and forty-five the other, and the man who said the first of them added the second of them in his head and said three hundred and one, and the other man nodded and went on to the outlet end.
 
@@ -22,11 +22,11 @@ The second rule cut in the board in the one room was cut the same length as the 
 
 The clerk of this holding said it standing up at about the sixth hour with his finger beside the empty rule and not touching it, and he said the thing he says on every return because he has said it on fifty-four of them and he is not going to stop now.
 
-**"It has been blank every one of those times and there is a date at the head of it now from Sunday and the date has not made it into anything."**
+**"Blank on every one of those mornings, and now a date at the head of it from Sunday, and a date standing on its own has not turned that rule into anything."**
 
 He moved his finger off the empty rule and laid it flat on the board beside it.
 
-He moved his finger off the empty rule and laid it flat on the board beside it.
+The rule stayed ruled and empty and the date at the head of it went on being a date.
 
 **"A rule that came back empty opens nothing, and I have said that at six o'clock on fifty-four mornings and I am not going to stop saying it."**
 

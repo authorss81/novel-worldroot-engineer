@@ -64,11 +64,11 @@ Nobody in that yard agreed with her and nobody disagreed with her and nobody tha
 
 Soren Rill was not in the yard today. He was up the four-mile road at the sixth hour and the second bend at the ninth, and the trough at the head of that road had a hand of water in it and had not been full since the middle of last week.
 
-The sheet in this building that carries the four bodies of households has three hundred and thirty-four days against them, and the clause under that figure takes the three hundred and thirty-third of those mornings out of three hundred and thirty-fifth, one under and one over at every site.
+Three hundred and thirty-four days is what the sheet in this building carries against the four bodies of households, and the clause beneath that figure takes three hundred and thirty-third of those mornings out of three hundred and thirty-fifth, one under and one over at every site.
 
 There are two numbers on the long wall this morning and they are seven hundred and twenty on the near board and seven hundred and sixty-seven on the far board, and the man who reads the schedule off the wall in the outer office read both of them standing in the rain before he went and looked at a heap of stone, and said nothing about the forty-seven days between them. The drawer behind the near board stood shut at every hour.
 
-The letter on the long table is thirty-three days old and no column has been ruled for it in any of the four books, and it is face up between the two sheets about the two declinings with about nine inches of bare board on either side of it, and it is not answered and it is not refused and nothing has been copied out of it.
+The letter on the long table has been lying there thirty-three days, and it is face up between the two sheets about the two declinings with about nine inches of bare board on either side of it. Nothing has been copied out of it, it is neither answered nor refused, and no column has been ruled for it in any of the four books.
 
 Marek was in the one room from the fifth hour with the door open and heard the man from the outer office through the gap and came out at about the eleventh hour and went and stood at the heap of stone and did not put his hand on any of it.
 
@@ -92,6 +92,6 @@ Seven sessions stand entered in this holding's book and there was no eighth this
 
 The use log has fifteen lines in it and the sixteenth is not among them, and a man from the outer office did not open it and did not ask to look at it, and the barrow's journeys stand at eleven against a wall where a man put it, and eleven is a floor.
 
-Nine hundred yards off the seventh column of a door is at sixty-six and does not go back. The man of about seventy is at twenty-nine fetchings and was not fetched today and the count of questions put to him is nil at every one of its sites.
+He was not fetched today and stands at twenty-nine fetchings, and the count of questions put to him is nil at every one of its sites, that man of about seventy. Nine hundred yards off, a door carries seven columns cut in the stone of it, and the seventh of them is at sixty-six and does not go back from there.
 
 Course on course on course of stone at the bottom of a bank with a gate shut on it a quarter of an inch out of true, and a man who read it off three sides and told a yard that there is no column for it anywhere in four counties, and nobody thanked anybody.

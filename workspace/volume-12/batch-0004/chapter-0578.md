@@ -56,7 +56,7 @@ He moved his sleeve back over his forearm and left it.
 
 **"I have watched two counties in my working life put those two kinds of paper in the same envelope, and the envelope is the only thing anybody ever reads afterwards, and the two of them never got read at all."**
 
-The aggregate of the four bodies of households is three hundred and thirty-nine days on the sheet in this yard, and the clause under it takes the three hundred and thirty-eighth of those mornings out of three hundred and fortieth, one under and one over at every site.
+On the sheet in this yard the four bodies of households carry three hundred and thirty-nine days, one under and one over, and the clause underneath reaches down and takes three hundred and thirty-eighth of those mornings out of three hundred and fortieth.
 
 The two boards of the long wall carry seven hundred and twenty-five days on the near side and seven hundred and seventy-two days on the far side, and a folded piece of paper from a council of about nineteen households lay on the table under them about nine inches away and neither number moved because of it, and the drawer behind the near board stood shut at every hour of this morning.
 
@@ -76,7 +76,7 @@ Seven sessions are entered in this holding's book. A piece of paper being unfold
 
 The use log has fifteen lines in it and the sixteenth is not among them. The barrow's journeys stand at eleven and the barrow is against a wall where it has been since the Saturday before last, and eleven is a floor.
 
-Nine hundred yards off the seventh column of a door is at sixty-six and does not go back, and the man of about seventy is at twenty-nine fetchings and was not fetched today, and the count of questions this holding has put to him is nil at every one of its sites.
+The man of about seventy is at twenty-nine fetchings and was not fetched today, and the count of questions this holding has put to him is nil at every one of its sites. Nine hundred yards off, the seventh column of a door is at sixty-six and does not go back.
 
 Crease in a piece of paper that has been folded in a coat for a month and set down on a long table the other way up so that the fold would go the other way, and a woman standing next to it with her hand flat and not turning the corner, and nobody thanked anybody.
 

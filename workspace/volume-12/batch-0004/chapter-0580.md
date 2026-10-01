@@ -18,7 +18,7 @@ At the seventh hour the run of mornings was read out of the second book under th
 
 At the third hour a load came up the fen road and stood on the steelyard for a quarter of an hour and went back down the fen road the way it had come, and nothing was taken off it, and the plates took it twice and gave it up once.
 
-It came off at five hundred and fifty-eight hundredweight, which is eleven above the last one, and the two halves were made up twice at the boards and were not added, and on the ticket there are two names written side by side in one hand and that is the forty-fifth pair.
+Five hundred and fifty-eight hundredweight came off the steelyard, eleven above the one before it, and the two halves were made up twice at the boards and were not added to each other. There are two names on the ticket side by side in one hand, and that is the forty-fifth pair.
 
 The second rule cut in the board in the one room is cut the same length as the first and was cut at the same time by the same hand, and it came back empty again this morning for the fifty-fifth time, and thirty-nine is what it has now been counted empty, and the count goes on the return and not on the day and it will be thirty-nine and not forty this afternoon.
 
@@ -50,11 +50,11 @@ The man of about thirty-one of Silling did not look round.
 
 He went on up the eleven acres with his back to the yard and did not say anything else about it.
 
-The sheet in this building that carries the four bodies of households has three hundred and forty-one days against them, and the clause under that figure takes the three hundred and fortieth of those mornings out of three hundred and forty-second, one under and one over.
+The four bodies of households stand at three hundred and forty-one days on the sheet in this building, and the clause under that figure reaches one morning below it and one above it, three hundred and fortieth out of three hundred and forty-second.
 
 The near board of the long wall reads seven hundred and twenty-seven days and the far board reads seven hundred and seventy-four days, forty-seven days apart, and the count of blanks on the board in the one room is thirty-nine and goes on the return and not on the day, and the drawer behind the near board of the long wall stood shut at every hour of this morning.
 
-Marek was in the one room from the fifth hour with the door open and had the whole of the return through the gap in it, and came out at about the tenth hour and stood in front of the board and looked at the two rules on it for a while without touching either.
+Marek had the one room to himself from the fifth hour with the door open, and the return came through the gap in it while he sat there, and he came out at about the tenth hour and stood in front of the board and read the two rules on it without touching either.
 
 **"A rule cut the same length as the one above it has been empty fifty-five times, and a man has just said out loud that he is not going to ask anybody what it is for."**
 
@@ -62,21 +62,21 @@ He put his sleeve back over his forearm and left it there.
 
 **"I have wanted to know what that rule is for for four years and I have not asked either, and this morning I have found out that the man who keeps the book and I have arrived at the same place and neither of us said so to the other one."**
 
-He gave the reason first and printed no figure of his own anywhere in it.
+The reason was out first and the rule itself stayed unfilled, and what he said about it came with no number attached to it.
 
 **"I am not going to fill it and I am not going to guess at it, and a guess in a book that a man has kept for eleven years is a thing that would be in this room for longer than any of us."**
 
 He went back in and shut the door and then opened it again about a minute later, which is a thing he has started doing this month.
 
-The letter on the long table is forty days old and the paper that came on the twenty-eighth is beside it with about nine inches of bare board between the two, and neither of them has been answered, neither has been refused, neither has been copied, and no column has been ruled for either of them in any of the four books in this holding.
+Forty days is the age of the letter on the long table, and the paper that came on the twenty-eighth lies beside it with about nine inches of bare board between the two. Neither has been answered, refused or copied, and no column has been ruled for either of them in any of the four books in this holding.
 
 Two hundred and thirty-seven days on the middle table, a column headed nothing, nothing in the column, and neither filled nor refused, and a hundred and forty-three days on a charter behind it that went through a door nine miles off. The second of the four ruled lines in Silling's own book is two hundred and thirty-one days old. Nobody read any of the three out loud this morning and nobody has read the form out a fifth time in its life.
 
-Paid is the word in front of twenty-seven on the compost line and it is not discharged in twenty-seven, and it falls inside this week on an interval that nobody in this holding set and nobody in this holding can stop.
+Twenty-seven is what the compost line carries and paid is the word in front of it, and it is not discharged in twenty-seven. It falls inside this week on an interval that nobody in this holding set and nobody in this holding can stop.
 
 Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them, and an empty rule cut beside a full one is not a seventh and the seventh row is not ruled.
 
-Seven sessions are entered in this holding's book and there was no eighth this morning, and a load standing on a steelyard for a quarter of an hour is not a session. The requests column and the section-nine notes are both at fifty-three and neither took anything and the letter is in neither of them.
+A load standing on a steelyard for a quarter of an hour is not a session, and this holding's book went on showing seven at the end of it. Fifty-three requests and fifty-three section-nine notes took nothing this morning either, and the letter is in neither.
 
 The use log has fifteen lines in it and the sixteenth is not among them and nobody in this yard opened it. The barrow's journeys stand at eleven and eleven is a floor.
 

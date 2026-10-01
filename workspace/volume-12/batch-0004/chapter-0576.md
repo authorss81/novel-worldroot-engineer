@@ -54,7 +54,7 @@ He went back in and the door stayed open behind him.
 
 Harlan Vetch was at the north wall from the fourth hour and worked it until the light went, and he came past the standpipe at about the sixth hour of the afternoon and stopped for a moment and looked at the needle and did not say anything to the man with the case about it, and the man with the case did not say anything to him either.
 
-The sheet in this building that carries the four bodies of households has three hundred and thirty-seven days against them, and the clause under that figure takes the three hundred and thirty-sixth of those mornings out of three hundred and thirty-eighth, one under and one over.
+There are three hundred and thirty-seven days against the four bodies of households on the sheet in this building. Under that figure the clause goes one under and one over, three hundred and thirty-sixth of those mornings out of three hundred and thirty-eighth.
 
 Seven hundred and twenty-three is on the near board of the long wall and seven hundred and seventy is on the far board, and a man in a leather case who has kept a dial for nineteen years walked past both of them at about the sixth hour and did not look at either, and nobody in that yard asked him to. The drawer behind the near board stood shut at every hour of this morning.
 
@@ -68,7 +68,7 @@ She filled the can.
 
 The trough at the head of the four-mile road was not full and had a hand of water in it and Soren Rill was not up that road today, and the four-mile road was soft at the bottom by ten and hard at the top and would be nothing but a scar by the fourth hour of the afternoon.
 
-The letter on the long table is thirty-six days old and lies face up between the two sheets about the two declinings with about nine inches of bare board on either side of it, and it has not been answered, has not been refused, has not been copied and has not been entered, and no column has been ruled for it in any of the four books in this holding.
+Thirty-six days old is the letter on the long table, lying face up between the two sheets about the two declinings with about nine inches of bare board on either side of it, and it has not been answered, has not been refused, has not been copied and has not been entered, and no column has been ruled for it in any of the four books in this holding.
 
 On the middle table: a form, two hundred and thirty-three days old, its column headed nothing, nothing in it, neither filled nor refused.
 

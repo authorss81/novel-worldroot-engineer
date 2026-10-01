@@ -8,7 +8,7 @@ The clerk of this holding wrote the figure at the first hour and read it back on
 
 **One thousand and one hundred and thirty-three hundredweight.**
 
-Thursday came up eight off Wednesday and the three hundred and forty-sixth figure of a run in which nothing has ever been entered twice is what stands against the launder this morning.
+Eight came on it in Thursday off Wednesday, and the three hundred and forty-sixth figure of a run in which nothing has ever been entered twice is what stands against the launder this morning.
 
 The two halves at the long wall were a hundred and sixty-two mornings one way and a hundred and fifty-one the other, and they came to three hundred and thirteen, and the man who said the rising half wrote the total in the long wall's own book, which is a different book from the second one and which the clerk of this holding does not keep.
 
@@ -40,7 +40,7 @@ Marek was in the one room from the fifth hour with the door open and had the who
 
 **"A sheet has come to a table in this yard with a person's name at the top of it and a date at the foot of it, and four people have now read it and not one of them has said a word about it, and that is the most correct handling of a piece of paper I have seen in four counties in four years."**
 
-He gave the reason first and printed no figure at all.
+He had the reason out of his mouth before anybody asked him for it, and no count of his own went in with it.
 
 **"I am not going to stand in this yard and tell anybody that it is right. I am also not going to stand here and tell anybody that it is a lie, because I have read it and I have not got one thing in my head that makes it a lie, and a man in a county four counties off is going to have to live in that gap after this morning and so is the rest of us."**
 
@@ -48,7 +48,7 @@ He put his hand flat on the table about a foot away from the edge of the sheet a
 
 **"There is a line on that sheet about the districts beyond the maintenance zone and I am not going to read that line out in this yard this afternoon, and I am not going to let anybody make me the man who read it out."**
 
-The aggregate of the four bodies of households is three hundred and forty-four days on the sheet in this yard, and the clause under it takes the three hundred and forty-third of those mornings out of three hundred and forty-fifth, one under and one over at every site.
+Three hundred and forty-four days is what the sheet in this yard carries for the four bodies of households, and the clause below it takes three hundred and forty-third of those mornings out of three hundred and forty-fifth, which is one under and one over at every site.
 
 A sheet with a name at the head of it came to the long table this afternoon. The near board of the long wall says seven hundred and thirty days and the far board says seven hundred and seventy-seven days, forty-seven between them, and the clerk of this holding read both numbers after he read the sheet.
 
@@ -56,7 +56,7 @@ He did not put the two facts next to each other on the page or on the wall, and 
 
 The first letter on the long table is forty-three days old and the second sheet is about an hour old, and neither of them is in the requests column and neither is in the section-nine notes and both of those are at fifty-three, and no column has been ruled for either of them in any of the four books in this holding.
 
-The register form is two hundred and forty days old with its column headed nothing and nothing in it, and the charter behind it went through a door nine miles off a hundred and forty-six days ago, and the second of the four ruled lines in Silling's own book is two hundred and thirty-four days old with nothing on it.
+The register form is two hundred and forty days old, its column headed nothing and nothing in it, the charter behind it went through a door nine miles off a hundred and forty-six days ago, and the second of the four ruled lines in Silling's own book is two hundred and thirty-four days old with nothing on it.
 
 A sheet with a name at the head of it and a date at the foot of it arrived on that table this afternoon and none of those three documents has a column for it either.
 

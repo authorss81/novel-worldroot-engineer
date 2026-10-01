@@ -8,11 +8,11 @@ The clerk of this holding had the figure in the second book before the light and
 
 **One thousand and one hundred and twenty-five hundredweight.**
 
-Wednesday came off Tuesday by five and the three hundred and forty-fifth figure of a run in which nothing has ever been entered twice is the figure that stands against the launder this morning.
+Five came back off it on Wednesday, and the three hundred and forty-fifth figure of a run in which nothing has ever been entered twice is the figure that stands against the launder.
 
 At seven the rising half of the window was a hundred and sixty-one mornings and the falling half a hundred and fifty-one, and the two came to three hundred and twelve, and the man who said the falling half had come in late and did not say the total and the other one said it for him.
 
-The run of mornings was read at the seventh hour out of the second book under the heading where it goes, of a month nine months back, and a Wednesday is an odd morning and the run is read on odd mornings and the heading has not moved since the first of this month.
+A Wednesday morning reads that run at the seventh hour, out of the second book and under the heading where it goes, of a month nine months back, because an odd morning carries it, and that heading has not moved since the first of this month.
 
 **One hundred and forty-three mornings of two hundred and sixty-nine.**
 
@@ -24,7 +24,7 @@ The woman of about thirty-eight of Marden was at the tap at the sixth hour and f
 
 **"Nine of us found out at once and I want it on the page that none of us was first, because in about a year somebody is going to write a report about the compost in this district and I do not want that report to have a hero in it."**
 
-She set the can down on the step.
+She set the can down on the step and left her hand on the handle of it.
 
 **"It moved on a count of mornings and the count of mornings does not know that a woman at a tap is watching for it. That is not a piece of good administration. That is a thing that happens to people, and I have been in four counties of meetings where the difference between those two things got lost and I am not going to let it get lost in a book with one figure in it."**
 
@@ -64,11 +64,11 @@ Harlan Vetch came off the direct road at about the seventh hour having walked th
 
 He put his hand flat on the bench for a second and then took it off and went and worked the bottom course instead.
 
-The sheet in this building that carries the four bodies of households has three hundred and forty-three days against them, and the clause under that figure takes the three hundred and forty-second of those mornings out of three hundred and forty-fourth, one under and one over at every site.
+What the sheet in this building holds for the four bodies of households is three hundred and forty-three days, and the clause beneath it runs one under and one over, taking three hundred and forty-second of those mornings out of three hundred and forty-fourth.
 
 The near board reads seven hundred and twenty-nine days and the far board reads seven hundred and seventy-six days, and the woman of about thirty-eight of Marden put her hand flat on the near one at the tenth hour while she was saying a thing about nine people finding out at once, and she did not mention the forty-seven days at all, and the drawer behind it stood shut at every hour of this morning.
 
-The letter on the long table is forty-two days old and the paper that came on the twenty-eighth is beside it with about nine inches of bare board between the two, and neither has been answered, neither has been refused, neither has been copied, and no column has been ruled for either of them in any of the four books in this holding.
+There has been a letter lying face up on that table since the ninth hour of the second of this month, and it is forty-two days old. The paper that came on the twenty-eighth is beside it with about nine inches of bare board between the two, and neither one has been answered or refused or copied, and no column has been ruled for either of them in any of the four books in this holding.
 
 A hundred and forty-five days is how long ago a charter went through a door nine miles off, and the form in front of it is two hundred and thirty-nine days old with a column headed nothing and nothing in it, and the second of the four ruled lines in Silling's own book is two hundred and thirty-three days old.
 
@@ -78,9 +78,9 @@ The rule in the board in the one room that is cut the same length as the one abo
 
 Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them, and a paid line falling on an interval is not a seventh and the seventh row is not ruled.
 
-Seven sessions are entered in this holding's book and there was no eighth this morning, and a figure changing in a ledger is not a session. The requests column and the section-nine notes are both at fifty-three and neither has taken anything and the letter went into neither of them.
+A figure that moves in a ledger is not a session, and a paid line that fell on an interval this morning is not one either. The book shows seven sessions and no eighth, fifty-three requests and fifty-three section-nine notes are where they were, and the letter is in neither.
 
-The use log has fifteen lines in it and there is no sixteenth. The barrow's journeys stand at eleven and the barrow is against a wall where a man put it, and eleven is a floor.
+There are fifteen lines in that book and the sixteenth has not been written. Eleven journeys stand to the barrow, which is against a wall, and eleven is a floor.
 
 What the seventh column of that door counts besides readings has not been answered this month and is not going to be, and the column stands at sixty-six and does not go back. The man of about seventy is at twenty-nine fetchings. He was not fetched this morning, nobody in this holding has ever put a question to him about which number he is, and that count is nil at every one of its sites.
 

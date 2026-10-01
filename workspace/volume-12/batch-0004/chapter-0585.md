@@ -8,7 +8,7 @@ Two hundred yards of boundary stone were marked with chalk and set by hand, the 
 
 No field was taken, and the standing is a hundred and twenty-six mornings in force with twenty-nine taken and ninety-seven not, and twenty-nine and ninety-seven is a hundred and twenty-six.
 
-The two reckonings of the rotation do not agree and they never have. This is the seventy-fourth morning of the cycle counted one way and the sixty-first counted the other, and there has been thirteen in that gap for four years and nobody in this building has ever asked what it is for.
+Both reckonings of the rotation went on the board this morning and neither one of them came out where the other did. It is the seventy-fourth morning of the cycle one way and the sixty-first the other, the thirteen in that gap has been there four years, and nobody in this building has ever asked what it is for.
 
 **"The count in force is one higher than it was on Friday and the line came round and went up a bank in the dark and there is still nothing at all in the taking column, and twenty-nine has not moved on any morning of this year and nobody in this holding is to blame for a field that has been waiting four years."**
 
@@ -20,7 +20,7 @@ He went back to the second book and read the launder figure back once at the nin
 
 **One thousand and one hundred and thirty-six hundredweight.**
 
-Saturday came up eight off Friday and the three hundred and forty-eighth figure of a run in which nothing has ever been entered twice is what stands against the launder this morning.
+Saturday put eight on it, and the three hundred and forty-eighth figure of a run in which nothing has ever been entered twice is what stands against the launder this morning.
 
 The two halves at the long wall were a hundred and sixty-three mornings one way and a hundred and fifty-two the other, and the two of them came to three hundred and fifteen, and neither of the two men said the total out loud this morning and it is on the board in chalk from about six o'clock.
 
@@ -52,7 +52,7 @@ Marek was in the one room from the fifth hour with the door open and had the who
 
 **"Three sheets are on a table in this yard and nobody in this holding has been asked to choose anything this month, and I want the second of those two facts to be the harder one in four years rather than the easier one."**
 
-He gave the reason first and printed no figure of his own in it.
+He put the reason in front of the thing and left his own arithmetic where he kept it.
 
 **"There is a person at the head of the third of them and she is not in this county and she is not going to be in this yard, and every single thing I have done for four months has been aimed at getting somebody to put a figure next to her arithmetic so that the arithmetic would be seen to be wrong in a room with witnesses in it."**
 
@@ -64,7 +64,7 @@ Four people came down off the bank behind him and went out through the first gat
 
 **"The ground on that low field is going to keep doing what it is doing nine different ways while somebody four counties off works out a number that fits all of it, and there is no instrument in four counties that can tell her she is wrong before she has to stand in front of the people she is going to abandon."**
 
-The aggregate of the four bodies of households is three hundred and forty-six days on the sheet in this yard, and the clause under it takes the three hundred and forty-fifth of those mornings out of three hundred and forty-seventh, one under and one over at every site.
+There are three hundred and forty-six days against the four bodies of households on the sheet in this yard, and the clause is one under and one over, taking three hundred and forty-fifth of those mornings out of three hundred and forty-seventh.
 
 Four people on a bank in the dark and a hundred and twenty-six mornings in force. On the long wall the near board reads seven hundred and thirty-two days and the far board reads seven hundred and seventy-nine days, forty-seven between them.
 
@@ -72,17 +72,17 @@ The woman of about thirty-eight of Marden looked at both of them and then at the
 
 The first sheet on the long table is forty-six days old and has not been answered and has not been refused and has not been copied, and the second came on the twenty-eighth and has not been opened, and the third came on Thursday afternoon and is correct in every particular and has not been called a lie by anybody in this holding.
 
-The form on the middle table is two hundred and forty-two days old and there is a column at the head of it with no heading and nothing in the column, and behind it a charter is a hundred and forty-eight days through a door nine miles off, and the second of the four ruled lines in Silling's own book is two hundred and thirty-six days old.
+There is a form on the middle table two hundred and forty-two days old with a column at the head of it carrying no heading and nothing in the column. A charter behind it is a hundred and forty-eight days through a door nine miles off. The second of the four ruled lines in Silling's own book is two hundred and thirty-six days old.
 
 Four hundred yards of boundary stone went up a bank in the dark this morning and not one of those three pieces of paper moved a figure.
 
-Paid is the word in front of twenty-eight on the compost line and it is not discharged in twenty-eight. The rule in the board in the one room stands empty and the count of blanks on that board is thirty-nine and nobody in this holding has written anything in the margin of the page where they are counted.
+Twenty-eight is on the compost line with paid in front of it, and it is not discharged in twenty-eight. The rule in the board in the one room stands empty, thirty-nine blanks are counted on that board, and nobody in this holding has written anything in the margin of the page where they are counted.
 
 Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them, and three sheets of paper about a district are not a seventh and the seventh row is not ruled.
 
-Seven sessions are entered in this holding's book and there was no eighth this morning. The requests column and the section-nine notes are both at fifty-three and neither has taken anything, and none of the three sheets went into either of them.
+This holding's book shows seven sessions entered and nothing this morning made an eighth. Fifty-three requests, fifty-three section-nine notes, and not one of the three sheets on the long table went into either of them.
 
-The use log has fifteen lines in it and there is no sixteenth. The barrow's journeys stand at eleven and the barrow is against a wall where a man put it a fortnight ago, and eleven is a floor.
+Fifteen lines are in the use log and the sixteenth is not one of them. The barrow is against a wall where a man put it a fortnight ago, its journeys stand at eleven, and eleven is a floor.
 
 Nobody has walked the nine hundred yards to that door this month and the seventh of its seven columns is at sixty-six, where it stays. The old man of about seventy is at twenty-nine fetchings and this morning was not one, and the count of questions this holding has put to him is nil at every one of its sites, and it is going to be nil at the next one as well.
 

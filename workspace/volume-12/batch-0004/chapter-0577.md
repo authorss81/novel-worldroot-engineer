@@ -6,7 +6,7 @@ Rain again before light, hard and short, over by four, and the fourth line of th
 
 The standpipe was full and inside its own lip by seven and the pack under the near stone came out wet and went back wet, and the middle road was soft at the top by seven and had a skin of water on the bottom of it by nine.
 
-The clerk of this holding had the rotation count in before the light and read it out once at the ninth hour, and the standing this morning is a hundred and twenty-four mornings in force with twenty-nine taken and ninety-five not, and twenty-nine and ninety-five is a hundred and twenty-four.
+Before there was any light the clerk of this holding had the rotation count in the second book, and he read it out once at the ninth hour: a hundred and twenty-four mornings in force, twenty-nine taken, ninety-five not, and twenty-nine and ninety-five is a hundred and twenty-four.
 
 The two reckonings do not agree and they never have. This is the seventy-second morning of the cycle counted one way and the fifty-ninth counted the other, and there has been thirteen in that gap for four years, and nobody in this building has ever asked anybody what that thirteen is for.
 
@@ -62,7 +62,7 @@ Marek was in the one room from the fifth hour with the door open and had the who
 
 **"A woman was asked to write down a day and a half of no water and said no and gave the reason first and then said out loud that she was choosing a hole, and that is the first time anybody in this yard has admitted that a gap in a book is something somebody put there on purpose."**
 
-He gave the reason before the thing and left every figure out of it.
+He brought the reason out before the thing and nothing he said carried a count of his own to go with it.
 
 **"I have been in rooms for nine years where an empty space in a record was a failure and where a person who left one got told to come back and fill it in. I have watched four bodies of households get into rooms like that and I have watched what it does to a person in about a year."**
 
@@ -70,11 +70,11 @@ He turned the sleeve back over his forearm.
 
 **"So I am not going to ask her to fill it, and I am not going to suggest to anybody in a county four counties off that this holding keeps a complete record of its water, because it does not and she has just told me so in front of two people."**
 
-The aggregate of the four bodies of households is three hundred and thirty-eight days on the sheet in this yard, and the clause under it takes the three hundred and thirty-seventh of those mornings out of three hundred and thirty-ninth, one under and one over at every site.
+Three hundred and thirty-eight days stand against the four bodies of households on the sheet in this yard, and the clause printed under that figure takes three hundred and thirty-seventh of those mornings out of three hundred and thirty-ninth, one under and one over the way it has always gone.
 
 The near board says seven hundred and twenty-four days and the far board says seven hundred and seventy-one days, forty-seven between them, and the clerk of this holding wrote both numbers on the flat of his own hand at about the ninth hour and read the two of them back to each other and did not add them, and the drawer behind the near board stood shut at every hour of this morning.
 
-The letter on the long table is thirty-seven days old and is face up between the two sheets about the two declinings with about nine inches of bare board on either side of it, and no column has been ruled for it, and it has not been answered, has not been refused, has not been copied and has not been entered anywhere in this holding.
+There is a letter on that table that has been lying there thirty-seven days, face up between the two sheets about the two declinings with about nine inches of bare board on either side of it, and it is not answered and not refused and not copied, and no column has been ruled for it in any of the four books in this holding.
 
 The form on the middle table is two hundred and thirty-four days into its stay and there is a column at the head of it and the column has no heading over it and there is nothing in the column.
 
@@ -84,10 +84,10 @@ Paid goes in front of twenty-seven on the compost line and it is not discharged 
 
 Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them, and a day and a half of dry standpipe is not a seventh and the seventh row is not ruled.
 
-Seven sessions stand entered in this holding's book and there was no eighth this morning, and the requests column and the section-nine notes are both at fifty-three and neither has taken anything and the letter is in neither of them.
+The book of this holding still shows seven sessions entered, and nothing this morning made an eighth. Fifty-three requests and fifty-three section-nine notes, neither of them moved, and the letter went into neither.
 
 The use log has fifteen lines in it and there is no sixteenth. The barrow's journeys stand at eleven and the barrow is against a wall where it has been since Saturday.
 
-The seventh column of a door nine hundred yards off is at sixty-six and is not read this week and does not go back. The man of about seventy is at twenty-nine fetchings and was not fetched today and the count of questions put to him in this holding is nil at every one of its sites.
+Nobody in this holding has put a question to the man of about seventy about which number he is, and that count is nil at every one of its sites; he is at twenty-nine fetchings and was not fetched today. There is a door nine hundred yards off with seven columns in the stone of it, and the seventh of them is at sixty-six, not read this week, and it does not go back.
 
 Bucket carried away empty out of a yard that had water in it, and a book with one figure in it and a space under it on purpose, and a man who is not going to ask for the space to be filled, and nobody thanked anybody.

@@ -10,7 +10,7 @@ The clerk of this holding had the figure in the second book before the light and
 
 **One thousand and one hundred and twenty-seven hundredweight.**
 
-Sunday came up eight on Saturday and the three hundred and forty-second figure of a run in which nothing has ever been entered twice is what stands against the launder this morning.
+Eight on Saturday is what Sunday added, and the three hundred and forty-second figure of a run in which nothing has ever been entered twice is the one against the launder this morning.
 
 At the long wall the rising half was a hundred and sixty mornings and the falling half a hundred and forty-nine, and the two came to three hundred and nine, and the man who said the rising half said it out loud and the man who said the other one wrote nothing at all.
 
@@ -56,7 +56,7 @@ The clerk of this holding was at the long wall and heard that and did not come o
 
 **"A trough came up a foot in a night and a man told this yard the reason it was a foot down last week is that no line in four counties has ever had it in it, and I have kept this book for eleven years and I have never had a column for a trough and I am not going to rule one at the tenth hour on a Sunday because a man was wet."**
 
-The sheet in this building that carries the four bodies of households has three hundred and forty days against them, and the clause under that figure takes the three hundred and thirty-ninth of those mornings out of three hundred and forty-first, one under and one over at every site.
+Against the four bodies of households the sheet in this building has three hundred and forty days on it, and the clause under it takes three hundred and thirty-ninth of those mornings out of three hundred and forty-first, one under and one over at every site.
 
 There are two numbers on the long wall and they are seven hundred and twenty-six days on the near board and seven hundred and seventy-three days on the far one, and the man of about fifty read them both on his way up the four-mile road in the rain and did not stop at either, and the clerk of this holding did not offer to explain the forty-seven days between them to a man who had not asked.
 
@@ -68,13 +68,13 @@ Marek was in the one room from the fifth hour with the door open and heard all o
 
 **"A man has told a yard that there is a trough in this district with no line in it, and the reason he has told them is that he checked twice in his own time and put the checking nowhere, and I have not got a single argument against any part of that."**
 
-He gave the reason first and printed no figure at all in it.
+The reason came out ahead of the thing and the figure that would have gone with it did not, and the yard got the one without the other.
 
 **"I have spent four months wanting a column for what came back, and what came back this morning is a shape, and the shape is that a man with a schedule can name the exact edge of what is not in it. That is not a number and it is not going to become a number this week and I am not going to try to make it one."**
 
 He went back in and left the door open, and the rain started again about an hour later and went on into the night.
 
-That form is two hundred and thirty-six days old, its column headed nothing, and the charter behind it is a hundred and forty-two days through a door nine miles off, and the second of the four ruled lines in Silling's own book is two hundred and thirty days old with nothing on it.
+Two hundred and thirty-six days is how long the form on that middle table has sat there, and the column at the head of it is headed nothing. The charter behind it went through a door nine miles off a hundred and forty-two days ago, and of the four ruled lines in Silling's own book the second is two hundred and thirty days old with nothing on it.
 
 A man came nine miles in the rain this morning and read a schedule off a wall and told this yard that a trough was not in it, and he did not look at any of the three of those documents while he was here.
 
@@ -82,7 +82,7 @@ Paid is in front of twenty-seven on the compost line and it is not discharged in
 
 Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them, and a trough fed off a spur with no line in it is not a seventh and the seventh row is not ruled.
 
-Seven sessions are entered in this holding's book and there was no eighth this morning. The requests column and the section-nine notes are both at fifty-three and neither has moved and the letter went into neither of them at the ninth hour of the second of this month.
+Seven is what the book of this holding shows for sessions, and the ninth hour of the second of this month did not make an eighth. The requests column and the section-nine notes are both at fifty-three, and the letter came up the fen road that hour and went into neither.
 
 The use log has fifteen lines in it. The barrow's journeys stand at eleven against a wall where a man put it, and eleven is a floor.
 

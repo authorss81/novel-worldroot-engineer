@@ -82,7 +82,7 @@ Six rows are ruled for what this holding does not know about and no unit has bee
 
 The use log has fifteen lines in it. The barrow's journeys are at eleven and the barrow is against a wall where it has been since Saturday and there is no hand on it today.
 
-Nine hundred yards off the seventh column of a door stands at sixty-six and is not read on any morning of this week, and the man of about seventy is at twenty-nine fetchings and was not fetched today and the count of questions put to him in this holding is nil at every one of its sites.
+Nine hundred yards off, the seventh column of a door stands at sixty-six, and this week has not read it once. The man of about seventy is at twenty-nine fetchings, was not fetched today, and nobody in this holding has asked him which number it is, so that count of questions is nil at every one of its sites.
 
 Seven sessions are entered in this holding's book, and a man saying no to a bank at the seventh hour is not a session, and the requests column and the section-nine notes are both at fifty-three and neither has moved and the letter went into neither of them at the ninth hour of the second of the month before.
 

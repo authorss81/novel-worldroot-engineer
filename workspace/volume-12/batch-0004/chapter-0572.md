@@ -80,7 +80,7 @@ Nobody in the one room told him either one.
 
 The trough at the head of the four-mile road was a foot down at seven and had a finger of water in the bottom of it by eleven, which is the first water that has been in that trough since the middle of last week, and nobody in this yard put a figure on that either.
 
-The letter on the long table is thirty-two days old and there is still no column under it in any of the four books, and it lies face up between the two sheets about the two declinings with about nine inches of bare board on either side of it, and it is not answered and it is not refused and it has not been copied.
+Thirty-two days is how long the letter on the long table has lain there, with about nine inches of bare board on either side of it between the two sheets about the two declinings. It is not answered, it is not refused, it has not been copied, and no column has been ruled for it in any of the four books.
 
 A form has been on the middle table in this yard for two hundred and twenty-nine days and nothing has ever been put in it, and behind it a charter is a hundred and thirty-five days old and went through a door nine miles off, and three of the four bodies of households that signed that charter are still signed to a machine for stored light.
 
@@ -92,6 +92,6 @@ Six rows are ruled for what this holding does not know and no unit has ever been
 
 The use log has fifteen lines in it. The barrow stands against that wall where a man put it at ten yesterday and its journeys are at eleven, and eleven is a floor, and the twelfth is not going to be up that road in this month.
 
-The seventh column of a door nine hundred yards off stands at sixty-six and is not read this week. The man of about seventy is at twenty-nine fetchings and was not fetched today and the count of questions put to him in this holding is nil at every one of its sites.
+Twenty-nine fetchings stand against the man of about seventy and nobody fetched him today, and the count of questions put to him in this holding is nil at every one of its sites. There is a door nine hundred yards off with seven columns cut in it, and the seventh of those stands at sixty-six and is not read this week.
 
 Handles with nothing on them, and a gate standing open a hand's width at a place four miles off with its pin lying in the grass, and a woman who brought one of them back and nothing else, and nobody thanked anybody.

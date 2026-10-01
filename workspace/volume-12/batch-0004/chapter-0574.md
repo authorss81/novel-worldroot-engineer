@@ -30,7 +30,7 @@ She put her boot on the wall and then took it off again.
 
 **"It will be the last figure anybody has for that ground and it will be wrong, because it will be one number for a thing that is not one thing."**
 
-She put her boot on the wall and then took it off again.
+Her heel stayed against the stone at the end of the yard while she said it.
 
 **"What I have got is a length. I have walked it and I have paced it with a boot and I will tell you it is about the length of this yard eleven times from that stone to the corner, and that is not a figure of ground and I will not write it in anything."**
 
@@ -50,7 +50,7 @@ She turned the stick over in her hands once and stopped.
 
 Nobody in that yard asked her which two and nobody asked her what the nine things were and nobody said she had it right.
 
-The sheet in this building that carries the four bodies of households has three hundred and thirty-five days against them, and the clause under it takes the three hundred and thirty-fourth of those mornings out of three hundred and thirty-sixth.
+The sheet in this building has three hundred and thirty-five days against the four bodies of households, and the clause under it takes three hundred and thirty-fourth of those mornings out of three hundred and thirty-sixth.
 
 The near board of the long wall carries seven hundred and twenty-one days and the far board carries seven hundred and sixty-eight, and the clerk of this holding said the two of them out loud to a man from a tap four miles off who was on his way to being told the length of a low field and not its area, and the man from the tap wrote both numbers on the back of his own hand.
 
@@ -80,7 +80,7 @@ Paid goes in front of twenty-seven on the compost line and it is not discharged 
 
 The use log has fifteen lines in it and the barrow's journeys are at eleven, and eleven is a floor. Nine hundred yards off the seventh column of a door stands at sixty-six and does not go back, and the man of about seventy is at twenty-nine fetchings and was not fetched today and the count of questions put to him in this holding is nil at every one of its sites.
 
-Seven sessions are entered in this holding's book. A man asking a woman for a number at a gate is not a session and there was no eighth this morning, and the requests column and the section-nine notes are both at fifty-three and neither took anything and the letter is in neither of them.
+Nothing was entered as an eighth session this morning, and a man asking a woman for a number at a gate is not one. The book still shows seven, the requests column and the section-nine notes are both at fifty-three, and the letter is in neither.
 
 Six rows are ruled for what this holding does not know about and no unit has ever been written against any of them, and a length paced with a boot is not a seventh and the seventh row is not ruled.
 
