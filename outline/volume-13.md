@@ -1,0 +1,206 @@
+# Volume 13 Outline: The Green Testament
+
+Volume number: 13
+Chapter range: **not printed in this file, and the reason is printed instead.** `outline/series.md:302` fixes the volume as *The Green Testament* and fixes its position as the thirteenth of the sixteen. **A PLAN THAT CARRIES A CHAPTER RANGE IS A PLAN THAT HAS ALREADY DECIDED WHERE THE BATCHES CUT, AND THIS ONE IS NOT THE PHASE THAT CUTS THEM.**
+Day range: **802 to 850, forty-nine days, one morning each.** Derived in section 2 and not copied from a page.
+Prompt date: 2026-10-01
+Series layer: World-building layer 6 at the edge of the political one, being a holding nine places above a road that keeps a wall, a gate, a launder, a book and thirty-five threads, in a district whose maintenance zone ends four miles off and does not end politely.
+
+**THIS FILE IS A PLAN AND IT WRITES NO PROSE.** There is no card in it, no scene, no chapter, no chapter number, no line of dialogue and no line of narration. **IT NAMES NO CHAPTER OF VOLUME 13. NOT ONE. IT PLANS NO BATCH AND IT WRITES NO BATCH PROMPT.** It is the governing plan for the volume and it forbids nothing about the phase that follows it.
+
+---
+
+## 1. THE ONE DECISION THIS PHASE OWNS, MADE FIRST AND IN THE PLAINEST WORDS AVAILABLE
+
+**THERE IS A VOLUME 13 AND IT IS OUTLINED BY THIS FILE.** The Volume 12 close left the question standing and this phase was handed it. The answer is that the volume exists, that its title and its position are fixed by `outline/series.md:302` and are not this file's to rename or move, and that what is fixed is only those two things. Everything else here is this file's own, derived, and revisable by the phase that runs after it.
+
+**AND THE ONE CALL INSIDE THAT ANSWER IS THE LENGTH OF THE BOOK IN DAYS, WHICH IS FORTY-NINE, AND IT IS FORTY-NINE BECAUSE OF A RULE AND NOT BECAUSE OF A PREFERENCE.** `outline/series.md:6` says the first fifteen volumes run forty-nine chapters each, and every volume from 04 to 12 on disk is forty-nine mornings for forty-nine days, one morning each. This volume runs forty-nine mornings from **day 802, a Wednesday, the twenty-second of the fifteenth, to day 850, a Tuesday, the tenth of the seventeenth** inclusive, and 850 minus 802 plus 1 is 49, which is the check.
+
+**AND THE FIRST MORNING IS DAY 802 BECAUSE DAY 801 IS THE LAST MORNING OF VOLUME 12 AND A VOLUME DOES NOT LEAVE A GAP.** `workspace/volume-12/batch-0004/chapter-0588.md` is day 801, a Tuesday, the twenty-first of the fifteenth, and that file is the last morning of that volume. The morning after it is 802, and the clock in section 2b returns 802 as a Wednesday and as the twenty-second of the fifteenth, which is the check that the two halves of this sentence agree.
+
+## 2. THE MEASUREMENT, DERIVED BY SCRIPT FOR THIS FILE AND NEVER READ OFF A PAGE
+
+Every figure in this section was produced by running something over the chapter files on disk while this file was being written. **NO FIGURE IN IT IS INHERITED FROM A PROMPT OR FROM `state/`.** Where a state file disagrees with what a script returns, the script governs and the disagreement is named in section 12, because a figure that is only overwritten comes back.
+
+### 2a. THE MANUSCRIPT
+
+**`wc -w` INCLUDING THE HEADINGS, SUMMED PER FILE AND NEVER BY CONCATENATION, OVER `workspace/volume-*/batch-*/chapter-*.md`: SEE SECTION 12, WHICH IS WHERE THIS FIGURE IS RECORDED AND WHICH THIS FILE DOES NOT RESTATE TWICE.** A glob not scoped to `workspace/volume-*/batch-*/chapter-*.md` matches `state/chapter-summaries.md` and returns a figure that is not the manuscript.
+
+**NO PROJECTION OF THE MANUSCRIPT APPEARS IN THIS FILE. NO PROJECTION OF VOLUME 13 APPEARS IN THIS FILE. NO PROJECTION OF ANY LATER VOLUME APPEARS IN THIS FILE. THERE IS NO EXPECTED-LENGTH SECTION, AND ITS ABSENCE IS A DECISION AND NOT AN OMISSION, BECAUSE A FIGURE FOR A VOLUME THAT HAS NOT BEEN WRITTEN IS A PROJECTION.** A later pass that wants a band may write one, may label it a band on its face, and may not enter it into any state file, any bracket or any total.
+
+### 2b. THE DAY CLOCK, WHICH IS THE RULE AND NOT THE FIGURES
+
+**DAY 451 IS THE FIRST OF THE FOURTH MONTH AND IS A TUESDAY, MONTHS RUN THIRTY, AND `WEEKDAY(d) = Tuesday + (d - 451) mod 7`.** THE ORDINAL IS `(d - 451) mod 30 + 1` AND THE MONTH NUMBER IS `4 + floor((d - 451) / 30)`, **AND THE MONTH NUMBER CLIMBS PAST TWELVE BECAUSE NOBODY IN THIS HOLDING KEEPS A YEAR AND THE TABLE DOES THE CLIMBING AND NOT ANYBODY.**
+
+**THE CLOCK DOES NOT RESET AT A MONTH TURN AND DOES NOT RESET AT THE BOUNDARY WITH VOLUME 12.** The fourteenth month ran days 751 to 780, the fifteenth runs days 781 to 810, the sixteenth runs days 811 to 840, and the seventeenth runs days 841 to 870.
+
+**THE MONTH TURNS TWICE INSIDE THIS VOLUME, ON DAY 811, WHICH IS A FRIDAY AND THE FIRST OF THE SIXTEENTH, AND ON DAY 841, WHICH IS A SUNDAY AND THE FIRST OF THE SEVENTEENTH.** **NEITHER TURN RESETS ANY COUNT, AND THE TURNS OF THE VOLUME BEHIND THIS ONE RESET NONE EITHER.** A relative-month frame crosses a turn correctly only if the arithmetic has been done for the specific day, and the frame table at section 10 is the authority.
+
+**THE FIRST MORNING OF THIS VOLUME IS DAY 802, A WEDNESDAY, THE TWENTY-SECOND OF THE FIFTEENTH, AND THE LAST IS DAY 850, A TUESDAY, THE TENTH OF THE SEVENTEENTH.** Every weekday, ordinal and month number in section 9 was produced from that anchor and from nothing else.
+
+### 2c. THE THIRD LAUNDER: THE DELTA IS KEPT AND THE CHOICE IS SHOWN AGAIN
+
+**THE COUNT IS DAY MINUS FOUR HUNDRED AND FIFTY AND DOES NOT RESET AT A MONTH TURN AND DOES NOT RESET AT THE BOUNDARY WITH VOLUME 12. THE LOCAL DELTA IS PLUS EIGHT ON A RISE AND MINUS FIVE ON A FALL, WITH A RISE ON AN EVEN MORNING AND A FALL ON AN ODD ONE, AND NO MORNING IS UNCHANGED.** It closed Volume 12 at **1,134 hundredweight on day 801**, which is a Tuesday and a fall, having come up eight off 1,126 on the Sunday.
+
+**THE ROW RUNS 1,142 TO 1,214, ALL FORTY-NINE DISTINCT, AND THE ALTERNATION IS UNBROKEN ACROSS DAY 811, ACROSS DAY 841 AND ACROSS EVERY BOUNDARY IN IT.** The minimum of the run is 1,137 and the maximum is 1,214, and the maximum falls on the last morning, which is a rise.
+
+**THE HOUSE SPELLING IS SETTLED BY A PAGE AND NOT BY ORTHOGRAPHY: THE CORRECT FORM AT EVERY VALUE ABOVE ONE THOUSAND IS *ONE THOUSAND AND [WORD] HUNDRED AND [WORD]*, WITH BOTH *AND*S KEPT, AND EVERY SPELLING IN THE RANGE IS PRINTED AT SECTION 8.** A speller that drops the first *and* writes *ONE THOUSAND ONE HUNDRED* and is wrong.
+
+**AND THE RUN CROSSES ONE THOUSAND AND TWO HUNDRED ON DAY 842, A MONDAY AND THE SECOND OF THE SEVENTEENTH, AT ONE THOUSAND AND TWO HUNDRED HUNDREDWEIGHT. THAT CROSSING IS ON NO PAGE OF THIS MANUSCRIPT AND IS DECLARED HERE SO THAT A WRITER WHO GETS IT WRONG ON THE DAY WILL KNOW IT WAS A CROSSING, BECAUSE IT IS THE FOURTH TIME IN THIRTEEN VOLUMES THAT A FIGURE HAS ARRIVED AT A THRESHOLD NOBODY IN THIS HOLDING HAS HAD TO SAY OUT LOUD.**
+
+### 2d. THE RISES-AND-FALLS WINDOW, WHICH CROSSES THREE HUNDRED AND FOUR HUNDRED-AND-SEVENTY INSIDE THIS VOLUME
+
+**THE WINDOW IS DAY MINUS FOUR HUNDRED AND EIGHTY-THREE AND DOES NOT RE-ANCHOR AT A MONTH TURN. IT IS 319 ON DAY 802 AND 367 ON DAY 850, AND THE TWO HALVES ADD ON EVERY ONE OF THE FORTY-NINE MORNINGS, WHICH IS THE ONLY SAFE CHECK.** It closed Volume 12 at 165 rises against 154 falls. **THE FALLING HALF IS `145 + floor((total - 300) / 2)` AND THE RISING HALF IS THE REMAINDER, AND THE ADDITION IS THE TEST AND THE LOOK IS NOT.**
+
+**A RISE GOES ON EVERY EVEN MORNING AND A FALL ON EVERY ODD ONE, SO DAY 802 IS AN EVEN MORNING AND THE RISING HALF MOVES FIRST.**
+
+**THIS IS THE STANDING SPELLING HAZARD OF THE VOLUME AND IT IS DECLARED AS ONE AT THE TOP OF THIS SECTION BECAUSE THE VOLUME BEHIND THIS ONE SPENT NINETEEN CHAPTERS MISSPELLING IT.** The window runs 319 to 367 and crosses three hundred and fifty and four hundred is out of range. **THE HAZARD IS THE HOUSE FORM *A HUNDRED AND [WORD]*, WHICH IS CORRECT AT EVERY VALUE FROM ONE HUNDRED TO ONE HUNDRED AND NINETY-NINE AND WRONG AT EVERY VALUE ABOVE TWO HUNDRED, SO A WRITER WHO LEARNS THE FORM ON A SMALL FIGURE AND CARRIES IT UPWARD WILL WRITE *A HUNDRED AND TWENTY* CORRECTLY AND *A HUNDRED AND TWENTY-ONE HUNDRED* WRONGLY.** Every spelling from 319 to 367 is printed at section 8 for that reason and for no other.
+
+**AND THE NEAR AND FAR BOARDS ARE A DIFFERENT FIGURE AND ARE NOT THE WINDOW AND ARE NEVER ADDED TO IT: THE NEAR BOARD IS DAY MINUS SIXTY-SIX, THE FAR BOARD IS DAY MINUS NINETEEN, AND THE GAP BETWEEN THEM IS FORTY-SEVEN ON EVERY MORNING OF THIS VOLUME AND HAS BEEN FOR FOUR YEARS.** The near board is 736 on the first morning and 784 on the last, and the far board is 783 and then 831.
+
+### 2e. THE OTHER THREE SERIES, EACH DERIVED, NONE MERGED
+
+**THE AGGREGATE IS DAY MINUS FOUR HUNDRED AND FIFTY-TWO AND ITS CLAUSE IS ONE UNDER AND ONE OVER AT EVERY SITE.** It is **350 through 398** across these forty-nine mornings, written as the three hundred and forty-ninth out of three hundred and fifty-first on the first and the three hundred and ninety-seventh out of three hundred and ninety-ninth on the last. **IT IS NEVER ADDED TO ANY LAUNDER AND IT IS A DIFFERENT FIGURE FROM THE THIRD LAUNDER.**
+
+**THE THREE DAY-MINUS FIGURES, WHICH ARE DERIVED EVERY MORNING AND NEVER CARRIED FORWARD: THE REGISTER FORM IS DAY MINUS FIVE HUNDRED AND FIFTY-SIX, THE CHARTER IS DAY MINUS SIX HUNDRED AND FIFTY, AND THE SECOND OF THE FOUR LINES IN THE MAN OF ABOUT THIRTY-ONE OF SILLING'S OWN BOOK IS DAY MINUS FIVE HUNDRED AND SIXTY-TWO.** They are 246, 152 and 240 on the first morning and 294, 200 and 288 on the last. **A FORM IS NOT A CHARTER AND A CHARTER'S INTERVAL IS NOT A FILLING AND NONE OF THE THREE IS ADDED TO ANOTHER ON ANY PAGE.**
+
+**AND THE LETTER, WHICH IS THE FOURTH DAY-MINUS FIGURE: IT CAME UP THE FEN ROAD AT THE NINTH HOUR OF DAY 752 AND THE AGE IS COMPLETE DAYS LYING, NOT COUNTING THE DAY IT ARRIVED AND NOT COUNTING THE PART OF THE MORNING IT IS LYING IN.** That gives 49 on day 802 and 97 on day 850, and it agrees with the twenty-nine days the last morning of Volume 12 printed at day 782, and the rule is the agreement.
+
+### 2f. THE CLOCKS THAT RUN ON A CYCLE AND NOT ON A DAY COUNT
+
+**THE READ-ALOUD RUN. IT IS READ AT THE SEVENTH HOUR ON EVERY ODD MORNING AND ON NO EVEN ONE, BEING TWENTY-FIVE MORNINGS OF THE FORTY-NINE, AND A CHAPTER ON AN EVEN MORNING CARRIES NO FIGURE FOR IT AND SAYS WHY ON THE PAGE.** **THE NUMERATOR IS ONE HUNDRED AND FORTY-SEVEN ON DAY 803 AND STEPS BY ONE ON EVERY ODD MORNING AFTER IT. THE DENOMINATOR IS DAY MINUS FIVE HUNDRED AND TWENTY-SIX, AND THE DENOMINATOR THEREFORE STEPS BY TWO ON EVERY ODD MORNING, AND THE NUMERATOR AND THE DENOMINATOR ARE NOT A PERCENTAGE AND ARE NOT ONE AGAINST THE OTHER IN ANY ARITHMETIC.** The run reaches one hundred and seventy of three hundred on day 849. Its heading is of a month nine months back and has not moved since the first of the fifteenth, **and it does not move on either month turn of this volume.**
+
+**THE ROTATION. A FOURTH-LINE MORNING IS ANY DAY CONGRUENT TO TWO MODULO FOUR, AND THERE ARE THIRTEEN OF THEM IN THIS VOLUME, BEING DAYS 802, 806, 810, 814, 818, 822, 826, 830, 834, 838, 842, 846 AND 850.** The count in force rises by exactly one on each of those thirteen and by nothing on the other thirty-six, standing at **a hundred and twenty-seven with twenty-nine taken and ninety-eight not** on the first and **a hundred and thirty-nine with twenty-nine taken and a hundred and ten not** on the last. The two reckonings that never agree stand thirteen apart on all thirteen and the gap does not close.
+
+**THE RETURNS COME EVERY NINE DAYS AND THE ORDINAL IS DERIVED BY ADDING NINE TO THE RETURN BEFORE AND NEVER BY CARRYING AN ORDINAL FORWARD.** Six of them fall inside this volume, on days 802, 811, 820, 829, 838 and 847. **THE COUNT OF BLANKS ON THE BOARD IN THE ONE ROOM IS THIRTY-NINE AT DAY 802 AND IT IS THIRTY-NINE AT DAY 850, AND THIS PLAN FIXES IT AT THIRTY-NINE FOR THE WHOLE OF THE VOLUME AND A LATER PASS MAY NOT ADD TO IT.** The Volume 12 close fixed that figure and the sentence that fixed it is at the head of `state/current.md`. **A RULE THAT CAME BACK EMPTY OPENS NOTHING, AND THE RETURN IS A LOAD COMING UP A ROAD AND NOT A PAGE BEING CLOSED.**
+
+**THE COMPOST LINE IS PAID AT TWENTY-EIGHT AND IS NOT DISCHARGED IN TWENTY-EIGHT, AND IT DOES NOT FALL ON ANY MORNING OF THIS VOLUME.** It fell on day 795 on the twenty-six mornings' interval. **THE NEXT FALL IS ON DAY 821 AND A WRITER WHO PUTS A SECOND FALL INSIDE THIS VOLUME HAS CHANGED THE INTERVAL AND NOT THE FIGURE. PAID IS THE WORD IN FRONT OF THAT FIGURE AND IT IS NOT A DISCHARGE.**
+
+**THE SEVENTH COLUMN OF THE WELL HOUSE DOOR STANDS AT SIXTY-SIX AND WAS NOT READ ON ANY MORNING OF VOLUME 12, AND THIS VOLUME MAY READ IT ON NOT MORE THAN TWO MORNINGS AND FROM SIXTY-SIX IT MAY NOT GO BACK.** What it counts besides readings is not answered in this volume and is not going to be.
+
+**THE MAN OF ABOUT SEVENTY STANDS AT TWENTY-NINE FETCHINGS AND IS NOT FETCHED ON ANY MORNING OF THIS VOLUME, AND NOBODY ASKS HIM WHICH NUMBER.** His next fetching is outside this volume.
+
+### 3. WHAT THE ENDING LOCK FIXES, AND IT DOES NOT MOVE HERE
+
+**THE FINAL VOLUME IS THE SIXTEENTH. THE FINAL EXTERNAL CONFLICT IS THE WHITE MERCY. THE FINAL INTERNAL CHOICE IS A REFUSAL OF PERMANENT CUSTODY AND NOT A DESTRUCTION OF THE ENGINE.** Four things are permanently lost and no figure in this file may reduce any of them.
+
+**IONA VEY IS THE FINAL ANTAGONIST FIXED BY `outline/series.md:103`. SHE IS NOT NEW. SHE IS NOT KILLED AND SHE IS NOT PUT UNDER CUSTODY IN THIS VOLUME AND NEITHER IS PREVIEWED. NO NEW ANTAGONIST IS INTRODUCED IN THIS VOLUME. HER OFFICE'S CONDUCT IS CORRECT IN EVERY PARTICULAR ON THE SHEET THAT CARRIES HER NAME, AND NO CHAPTER OF THIS VOLUME CALLS A CORRECT DOCUMENT A LIE.**
+
+**AND THE TWO FIGURES NO PASS MAY REDUCE, RESTATED WHOLE AND UNSOFTENED, WHICH ARE THE FIGURES A CHAPTER MAY RESTATE AND MAY NOT CUT:**
+
+> **"The far end of a thing is held by two people and neither of them is me, and no instrument anywhere in four counties says whether it is on or off."**
+>
+> **"The comfort is not standing, the father is not alive in the wood, and the day does not come back."**
+
+**A CHAPTER MAY RESTATE EITHER AND MAY NOT REDUCE EITHER BY A WORD.** The words *anywhere in four counties*, *whether it is on or off*, *the father is not alive in the wood* and *the day does not come back* are load-bearing and a shortened form of either is a different figure and not a shorter one. **THIS VOLUME'S OWN RULE FOR HOW OFTEN THEY ARE SAID, WHICH IS SET BY MEASUREMENT AND NOT BY TASTE: THE LOCKED FIGURES APPEAR IN WHOLE IN THE FIRST MORNING AND IN THE LAST MORNING OF THE VOLUME AND IN NOT MORE THAN THREE MORNINGS IN BETWEEN, AND ON EVERY OTHER MORNING A CHARACTER MAY SAY THAT HE IS NOT SAYING THEM AND WHY, WHICH IS A DIFFERENT ACT AND NOT A SOFTENING.** The reason is at section 12: a locked sentence printed on every morning of a volume stops being a permanent loss and becomes a refrain, and the volume behind this one printed it twice in forty-nine mornings and every one of those two printings landed.
+
+**HE LOSES ACCESS IN VOLUME 12 AND NOT STRENGTH, THE NINE MINUTES IS NOT A POWER AND DOES NOT LOOSEN, AND WHAT HE LOSES IN THIS VOLUME IS NOT YET THE MEMORY.** The memory is surrendered at the volume climax and **the name `Aldren` is on no page before that morning and is not foreshadowed as a bargain and is not priced.** The comfort, the father and the day are a loss already and are said to be one.
+
+**TOVA REED'S HEARING REMAINS PERMANENTLY DAMAGED IN ONE EAR AND THIS VOLUME MAY NOT HEAL IT, SOFTEN IT, EXCUSE IT OR MAKE IT A PLOT CONVENIENCE, AND NO CHAPTER PUTS IT IN A ROOM WHERE SOMEBODY APOLOGIZES FOR IT.** Nobody takes the seed work off her and nobody touches her arm.
+
+### 4. THE THIRTY-FIVE THREADS, WHICH ARE THIRTY-FIVE AND WHICH A PLAN MAY USE
+
+**THE COUNT IS THIRTY-FIVE AT DAY 801 AND IS THIRTY-FIVE AT DAY 850, AND IT WAS THIRTY-FIVE IN AND THIRTY-FIVE OUT OF EVERY BATCH OF VOLUME 12.** The full standing of all thirty-five is at the foot of `state/open-threads.md` and is not restated here. **A CHAPTER MAY ADVANCE A THREAD. A CHAPTER MAY NOT ANSWER ONE, CLOSE ONE, REWORD ONE, ADVANCE ONE TO A FIGURE, SUM ONE OR GROUP ONE, AND MAY NOT USE THE WORDS *TALLY* OR *COUNT* OF THE THIRTY-FIVE AT ALL.**
+
+**THE TWO THAT MAY NEVER BE ANSWERED ARE NOT ASKED, NOT NAMED, NOT HINTED, NOT PARAPHRASED AND NOT ANSWERED IN THIS VOLUME.** A chapter may name the prohibition once and may not use the word to mean it anywhere else.
+
+**AND THE THIRDS THE CENTRAL PRESSURE ACTUALLY TOUCHES IN THIS VOLUME: THE THREE SHEETS ON THE LONG TABLE, WHICH ADVANCE AND ARE NOT ANSWERED; THE SIX NOT KNOWNS, WHICH STAY AT SIX AND ARE NOT GIVEN A SEVENTH FOR THE COVENANT, FOR THE MACHINE, FOR THE SCHEDULE OR FOR THE SHEET; THE FOUR BODIES OF HOUSEHOLDS WITH TWO SIGNATURES EACH; THE SUCCESSION LADDER, WHICH IS CLIMBED ZERO RUNGS AND ON WHICH NO FIGURE FOR EITHER OF ITS TWO PEOPLE MAY BE PRINTED WITHOUT THAT PERSON GIVING THE REASON FIRST ON THE PAGE; THE RING OF BARE GROUND, WHICH IS NOT WALKED AND GETS NO DIMENSION; THE COUNT OF QUESTIONS AVAILABLE TO A ROOM, WHICH IS A FLOOR AND NOT FILLED; AND THE OFFER ON THE LOW BOARD, WHICH IS NOT TAKEN UP, NOT WITHDRAWN, NOT DATED AND NOT MOVED.**
+
+### 5. THE STANDING FLOORS, WHICH NONE OF THEM IS A CEILING
+
+The mark is four inches and branches twice and may not grow a second mark. The use log stands at fifteen lines and the sixteenth is not written. The two pattern-holder counts and the two rootmarks carry unmoved. The two numbers this holding cannot check are two and the first is not named. The six not knowns are six and **a seventh is not added for the covenant, for the machine, for the schedule or for the confession**. The barrow is at eleven journeys and eleven is a floor. The requests and the section-nine notes are fifty-three and fifty-three and are never added. The sessions entered in this holding's book stand at seven and **no session is entered in this volume and the count does not move on any page**. The third column of the sheet of terms is ruled and empty. The four ruled lines under two words are empty and the answer is not due.
+
+**AND THE MACHINEMENT, BECAUSE A WRITER WHO DOES NOT KNOW IT WILL WRITE A DIFFERENT BOOK: THE DISTRICTS BEYOND THE MAINTENANCE ZONE ARE STILL ABANDONED, AND THE PATTERNS THAT CAME BACK CAME BACK ON TOP OF THAT AND NOT INSTEAD OF IT, AND A PATTERN THAT CAME BACK IS NOT A HARVEST.** The machine's people are held by function and none is named. **THE CHAMBER, THE CORRIDOR IN THE PAN, THE ORDER IN ITS DRAWER AND THE RING OF BARE GROUND WERE ALL UNTOUCHED BY VOLUME 12 AND ARE NOT THIS VOLUME'S TO OPEN.** No foot goes in the ring and it has no figure against it and is not added to the low field.
+
+### 6. WHAT THIS PLAN OWES ITS SUCCESSOR, AND WHAT IT REFUSES
+
+**IT OWES A CARD SET AND NOT A LESSON, AND THE CARD SET IS THE PHASE THAT FOLLOWS THIS ONE AND NOT THIS ONE TO WRITE.** A plan that leaves the manuscript stopped before the next volume has a plan has cost this book a volume, and that has now been recorded six times in this repository.
+
+**IT REFUSES, AND EACH OF THESE IS A RULE: A CHAPTER NUMBER, A CHAPTER RANGE, A BATCH CUT, A CARD, A MOVEMENT, A WORD COUNT FOR ITSELF OR FOR ANY VOLUME THAT HAS NOT BEEN WRITTEN, AN EXPECTED-LENGTH BAND, AND A PROJECTION OF ANY KIND.** A plan that decides where the batches cut has done the cutting phase's work, **and a plan that prints one figure it did not derive is a plan that will hand a wrong number to a writer who has no way to check it except against the wrong number itself.**
+
+### 7. THE SPELLINGS, PRINTED BECAUSE THE FIGURES ARE SPELLED AND NOT ONE OF THEM IS A DIGIT
+
+**A GATE THAT NORMALISES NUMERALS ALONE IS BLIND TO EVERY FIGURE IN THIS HOLDING.** Every figure in this manuscript is spelled out in words and not one of them is a digit, so a duplicate check that normalises digits will report a clean batch that is not clean. **A GATE BUILT FOR THIS HOLDING MUST NORMALISE SPELLED NUMBER WORDS AS WELL AS NUMERALS.** The near-duplicate record the volume behind this one carried forward was **published as nil and was not nil**, and the figure a plan should plan against is not the nil and not the original count but the fact that the gate was blind.
+
+The house forms, in full, for the range this volume reaches:
+
+- **100 to 199: `A HUNDRED AND [WORD]`** — 152 is *a hundred and fifty-two*. Never *one hundred and fifty-two* at top level and never *a hundred and fifty-two hundred*.
+- **200 and above to 999: `[WORD] HUNDRED AND [WORD]`** — 246 is *two hundred and forty-six*, 350 is *three hundred and fifty*, 398 is *three hundred and ninety-eight*.
+- **1000 and above: `ONE THOUSAND AND [WORD] HUNDRED AND [WORD]`** — 1,134 is *one thousand and one hundred and thirty-four*, 1,214 is *one thousand and two hundred and fourteen*. **BOTH `AND`S ARE KEPT AND DROPPING EITHER IS AN ERROR.**
+- **A SPLIT WINDOW HALFE IS SPELLED `A HUNDRED AND` AND THE READ-ALOUD NUMERATOR IS SPELLED `ONE HUNDRED AND`, AND THOSE ARE TWO DIFFERENT FIGURES WITH TWO DIFFERENT HOUSE FORMS.** The near and far boards are `SEVEN HUNDRED AND [WORD]` at both ends, being above two hundred throughout this volume. **A WRITER WHO SPELLS THE READ-ALOUD NUMERATOR `A HUNDRED AND` HAS WRITTEN THE WINDOW'S FORM ON THE READ-ALOUD'S FIGURE, AND THE TWO ARE NOT ADDED AND NOT CONFUSED BY ANYBODY IN THIS HOLDING.**
+
+### 8. THE TABLES, GENERATED AND NOT TYPED
+
+**The launder, the window and its two halves, the aggregate, the pair of boards, the read-aloud figure and the fourth-line figures, for all forty-nine mornings, are printed at section 9 and were produced by running the rules of section 2 over the day range, and every row of that table is checkable by adding the two halves and by applying the delta to the row above it.**
+
+### 9. THE DAY TABLE
+
+| Day | Weekday | Ordinal | Month | Third launder | Ordinal of run | Window halves | Window | Aggregate | Boards, near of far | Read aloud | Fourth line |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 802 | Wednesday | Twenty-Two | 15 | one thousand and one hundred and forty-two | 352 | a hundred and sixty-five / a hundred and fifty-four | three hundred and nineteen | three hundred and fifty | seven hundred and thirty-six of seven hundred and eighty-three | - | a hundred and twenty-seven / twenty-nine taken / ninety-eight not |
+| 803 | Thursday | Twenty-Three | 15 | one thousand and one hundred and thirty-seven | 353 | a hundred and sixty-five / a hundred and fifty-five | three hundred and twenty | three hundred and fifty-one | seven hundred and thirty-seven of seven hundred and eighty-four | one hundred and forty-seven of two hundred and seventy-seven | - |
+| 804 | Friday | Twenty-Four | 15 | one thousand and one hundred and forty-five | 354 | a hundred and sixty-six / a hundred and fifty-five | three hundred and twenty-one | three hundred and fifty-two | seven hundred and thirty-eight of seven hundred and eighty-five | - | - |
+| 805 | Saturday | Twenty-Five | 15 | one thousand and one hundred and forty | 355 | a hundred and sixty-six / a hundred and fifty-six | three hundred and twenty-two | three hundred and fifty-three | seven hundred and thirty-nine of seven hundred and eighty-six | one hundred and forty-eight of two hundred and seventy-nine | - |
+| 806 | Sunday | Twenty-Six | 15 | one thousand and one hundred and forty-eight | 356 | a hundred and sixty-seven / a hundred and fifty-six | three hundred and twenty-three | three hundred and fifty-four | seven hundred and forty of seven hundred and eighty-seven | - | a hundred and twenty-eight / twenty-nine taken / ninety-nine not |
+| 807 | Monday | Twenty-Seven | 15 | one thousand and one hundred and forty-three | 357 | a hundred and sixty-seven / a hundred and fifty-seven | three hundred and twenty-four | three hundred and fifty-five | seven hundred and forty-one of seven hundred and eighty-eight | one hundred and forty-nine of two hundred and eighty-one | - |
+| 808 | Tuesday | Twenty-Eight | 15 | one thousand and one hundred and fifty-one | 358 | a hundred and sixty-eight / a hundred and fifty-seven | three hundred and twenty-five | three hundred and fifty-six | seven hundred and forty-two of seven hundred and eighty-nine | - | - |
+| 809 | Wednesday | Twenty-Nine | 15 | one thousand and one hundred and forty-six | 359 | a hundred and sixty-eight / a hundred and fifty-eight | three hundred and twenty-six | three hundred and fifty-seven | seven hundred and forty-three of seven hundred and ninety | one hundred and fifty of two hundred and eighty-three | - |
+| 810 | Thursday | Thirty | 15 | one thousand and one hundred and fifty-four | 360 | a hundred and sixty-nine / a hundred and fifty-eight | three hundred and twenty-seven | three hundred and fifty-eight | seven hundred and forty-four of seven hundred and ninety-one | - | a hundred and twenty-nine / twenty-nine taken / a hundred not |
+| 811 | Friday | One | 16 | one thousand and one hundred and forty-nine | 361 | a hundred and sixty-nine / a hundred and fifty-nine | three hundred and twenty-eight | three hundred and fifty-nine | seven hundred and forty-five of seven hundred and ninety-two | one hundred and fifty-one of two hundred and eighty-five | - |
+| 812 | Saturday | Two | 16 | one thousand and one hundred and fifty-seven | 362 | a hundred and seventy / a hundred and fifty-nine | three hundred and twenty-nine | three hundred and sixty | seven hundred and forty-six of seven hundred and ninety-three | - | - |
+| 813 | Sunday | Three | 16 | one thousand and one hundred and fifty-two | 363 | a hundred and seventy / a hundred and sixty | three hundred and thirty | three hundred and sixty-one | seven hundred and forty-seven of seven hundred and ninety-four | one hundred and fifty-two of two hundred and eighty-seven | - |
+| 814 | Monday | Four | 16 | one thousand and one hundred and sixty | 364 | a hundred and seventy-one / a hundred and sixty | three hundred and thirty-one | three hundred and sixty-two | seven hundred and forty-eight of seven hundred and ninety-five | - | a hundred and thirty / twenty-nine taken / a hundred and one not |
+| 815 | Tuesday | Five | 16 | one thousand and one hundred and fifty-five | 365 | a hundred and seventy-one / a hundred and sixty-one | three hundred and thirty-two | three hundred and sixty-three | seven hundred and forty-nine of seven hundred and ninety-six | one hundred and fifty-three of two hundred and eighty-nine | - |
+| 816 | Wednesday | Six | 16 | one thousand and one hundred and sixty-three | 366 | a hundred and seventy-two / a hundred and sixty-one | three hundred and thirty-three | three hundred and sixty-four | seven hundred and fifty of seven hundred and ninety-seven | - | - |
+| 817 | Thursday | Seven | 16 | one thousand and one hundred and fifty-eight | 367 | a hundred and seventy-two / a hundred and sixty-two | three hundred and thirty-four | three hundred and sixty-five | seven hundred and fifty-one of seven hundred and ninety-eight | one hundred and fifty-four of two hundred and ninety-one | - |
+| 818 | Friday | Eight | 16 | one thousand and one hundred and sixty-six | 368 | a hundred and seventy-three / a hundred and sixty-two | three hundred and thirty-five | three hundred and sixty-six | seven hundred and fifty-two of seven hundred and ninety-nine | - | a hundred and thirty-one / twenty-nine taken / a hundred and two not |
+| 819 | Saturday | Nine | 16 | one thousand and one hundred and sixty-one | 369 | a hundred and seventy-three / a hundred and sixty-three | three hundred and thirty-six | three hundred and sixty-seven | seven hundred and fifty-three of eight hundred | one hundred and fifty-five of two hundred and ninety-three | - |
+| 820 | Sunday | Ten | 16 | one thousand and one hundred and sixty-nine | 370 | a hundred and seventy-four / a hundred and sixty-three | three hundred and thirty-seven | three hundred and sixty-eight | seven hundred and fifty-four of eight hundred and one | - | - |
+| 821 | Monday | Eleven | 16 | one thousand and one hundred and sixty-four | 371 | a hundred and seventy-four / a hundred and sixty-four | three hundred and thirty-eight | three hundred and sixty-nine | seven hundred and fifty-five of eight hundred and two | one hundred and fifty-six of two hundred and ninety-five | - |
+| 822 | Tuesday | Twelve | 16 | one thousand and one hundred and seventy-two | 372 | a hundred and seventy-five / a hundred and sixty-four | three hundred and thirty-nine | three hundred and seventy | seven hundred and fifty-six of eight hundred and three | - | a hundred and thirty-two / twenty-nine taken / a hundred and three not |
+| 823 | Wednesday | Thirteen | 16 | one thousand and one hundred and sixty-seven | 373 | a hundred and seventy-five / a hundred and sixty-five | three hundred and forty | three hundred and seventy-one | seven hundred and fifty-seven of eight hundred and four | one hundred and fifty-seven of two hundred and ninety-seven | - |
+| 824 | Thursday | Fourteen | 16 | one thousand and one hundred and seventy-five | 374 | a hundred and seventy-six / a hundred and sixty-five | three hundred and forty-one | three hundred and seventy-two | seven hundred and fifty-eight of eight hundred and five | - | - |
+| 825 | Friday | Fifteen | 16 | one thousand and one hundred and seventy | 375 | a hundred and seventy-six / a hundred and sixty-six | three hundred and forty-two | three hundred and seventy-three | seven hundred and fifty-nine of eight hundred and six | one hundred and fifty-eight of two hundred and ninety-nine | - |
+| 826 | Saturday | Sixteen | 16 | one thousand and one hundred and seventy-eight | 376 | a hundred and seventy-seven / a hundred and sixty-six | three hundred and forty-three | three hundred and seventy-four | seven hundred and sixty of eight hundred and seven | - | a hundred and thirty-three / twenty-nine taken / a hundred and four not |
+| 827 | Sunday | Seventeen | 16 | one thousand and one hundred and seventy-three | 377 | a hundred and seventy-seven / a hundred and sixty-seven | three hundred and forty-four | three hundred and seventy-five | seven hundred and sixty-one of eight hundred and eight | one hundred and fifty-nine of three hundred and one | - |
+| 828 | Monday | Eighteen | 16 | one thousand and one hundred and eighty-one | 378 | a hundred and seventy-eight / a hundred and sixty-seven | three hundred and forty-five | three hundred and seventy-six | seven hundred and sixty-two of eight hundred and nine | - | - |
+| 829 | Tuesday | Nineteen | 16 | one thousand and one hundred and seventy-six | 379 | a hundred and seventy-eight / a hundred and sixty-eight | three hundred and forty-six | three hundred and seventy-seven | seven hundred and sixty-three of eight hundred and ten | one hundred and sixty of three hundred and three | - |
+| 830 | Wednesday | Twenty | 16 | one thousand and one hundred and eighty-four | 380 | a hundred and seventy-nine / a hundred and sixty-eight | three hundred and forty-seven | three hundred and seventy-eight | seven hundred and sixty-four of eight hundred and eleven | - | a hundred and thirty-four / twenty-nine taken / a hundred and five not |
+| 831 | Thursday | Twenty-One | 16 | one thousand and one hundred and seventy-nine | 381 | a hundred and seventy-nine / a hundred and sixty-nine | three hundred and forty-eight | three hundred and seventy-nine | seven hundred and sixty-five of eight hundred and twelve | one hundred and sixty-one of three hundred and five | - |
+| 832 | Friday | Twenty-Two | 16 | one thousand and one hundred and eighty-seven | 382 | a hundred and eighty / a hundred and sixty-nine | three hundred and forty-nine | three hundred and eighty | seven hundred and sixty-six of eight hundred and thirteen | - | - |
+| 833 | Saturday | Twenty-Three | 16 | one thousand and one hundred and eighty-two | 383 | a hundred and eighty / a hundred and seventy | three hundred and fifty | three hundred and eighty-one | seven hundred and sixty-seven of eight hundred and fourteen | one hundred and sixty-two of three hundred and seven | - |
+| 834 | Sunday | Twenty-Four | 16 | one thousand and one hundred and ninety | 384 | a hundred and eighty-one / a hundred and seventy | three hundred and fifty-one | three hundred and eighty-two | seven hundred and sixty-eight of eight hundred and fifteen | - | a hundred and thirty-five / twenty-nine taken / a hundred and six not |
+| 835 | Monday | Twenty-Five | 16 | one thousand and one hundred and eighty-five | 385 | a hundred and eighty-one / a hundred and seventy-one | three hundred and fifty-two | three hundred and eighty-three | seven hundred and sixty-nine of eight hundred and sixteen | one hundred and sixty-three of three hundred and nine | - |
+| 836 | Tuesday | Twenty-Six | 16 | one thousand and one hundred and ninety-three | 386 | a hundred and eighty-two / a hundred and seventy-one | three hundred and fifty-three | three hundred and eighty-four | seven hundred and seventy of eight hundred and seventeen | - | - |
+| 837 | Wednesday | Twenty-Seven | 16 | one thousand and one hundred and eighty-eight | 387 | a hundred and eighty-two / a hundred and seventy-two | three hundred and fifty-four | three hundred and eighty-five | seven hundred and seventy-one of eight hundred and eighteen | one hundred and sixty-four of three hundred and eleven | - |
+| 838 | Thursday | Twenty-Eight | 16 | one thousand and one hundred and ninety-six | 388 | a hundred and eighty-three / a hundred and seventy-two | three hundred and fifty-five | three hundred and eighty-six | seven hundred and seventy-two of eight hundred and nineteen | - | a hundred and thirty-six / twenty-nine taken / a hundred and seven not |
+| 839 | Friday | Twenty-Nine | 16 | one thousand and one hundred and ninety-one | 389 | a hundred and eighty-three / a hundred and seventy-three | three hundred and fifty-six | three hundred and eighty-seven | seven hundred and seventy-three of eight hundred and twenty | one hundred and sixty-five of three hundred and thirteen | - |
+| 840 | Saturday | Thirty | 16 | one thousand and one hundred and ninety-nine | 390 | a hundred and eighty-four / a hundred and seventy-three | three hundred and fifty-seven | three hundred and eighty-eight | seven hundred and seventy-four of eight hundred and twenty-one | - | - |
+| 841 | Sunday | One | 17 | one thousand and one hundred and ninety-four | 391 | a hundred and eighty-four / a hundred and seventy-four | three hundred and fifty-eight | three hundred and eighty-nine | seven hundred and seventy-five of eight hundred and twenty-two | one hundred and sixty-six of three hundred and fifteen | - |
+| 842 | Monday | Two | 17 | one thousand and two hundred and two | 392 | a hundred and eighty-five / a hundred and seventy-four | three hundred and fifty-nine | three hundred and ninety | seven hundred and seventy-six of eight hundred and twenty-three | - | a hundred and thirty-seven / twenty-nine taken / a hundred and eight not |
+| 843 | Tuesday | Three | 17 | one thousand and one hundred and ninety-seven | 393 | a hundred and eighty-five / a hundred and seventy-five | three hundred and sixty | three hundred and ninety-one | seven hundred and seventy-seven of eight hundred and twenty-four | one hundred and sixty-seven of three hundred and seventeen | - |
+| 844 | Wednesday | Four | 17 | one thousand and two hundred and five | 394 | a hundred and eighty-six / a hundred and seventy-five | three hundred and sixty-one | three hundred and ninety-two | seven hundred and seventy-eight of eight hundred and twenty-five | - | - |
+| 845 | Thursday | Five | 17 | one thousand and two hundred | 395 | a hundred and eighty-six / a hundred and seventy-six | three hundred and sixty-two | three hundred and ninety-three | seven hundred and seventy-nine of eight hundred and twenty-six | one hundred and sixty-eight of three hundred and nineteen | - |
+| 846 | Friday | Six | 17 | one thousand and two hundred and eight | 396 | a hundred and eighty-seven / a hundred and seventy-six | three hundred and sixty-three | three hundred and ninety-four | seven hundred and eighty of eight hundred and twenty-seven | - | a hundred and thirty-eight / twenty-nine taken / a hundred and nine not |
+| 847 | Saturday | Seven | 17 | one thousand and two hundred and three | 397 | a hundred and eighty-seven / a hundred and seventy-seven | three hundred and sixty-four | three hundred and ninety-five | seven hundred and eighty-one of eight hundred and twenty-eight | one hundred and sixty-nine of three hundred and twenty-one | - |
+| 848 | Sunday | Eight | 17 | one thousand and two hundred and eleven | 398 | a hundred and eighty-eight / a hundred and seventy-seven | three hundred and sixty-five | three hundred and ninety-six | seven hundred and eighty-two of eight hundred and twenty-nine | - | - |
+| 849 | Monday | Nine | 17 | one thousand and two hundred and six | 399 | a hundred and eighty-eight / a hundred and seventy-eight | three hundred and sixty-six | three hundred and ninety-seven | seven hundred and eighty-three of eight hundred and thirty | one hundred and seventy of three hundred and twenty-three | - |
+| 850 | Tuesday | Ten | 17 | one thousand and two hundred and fourteen | 400 | a hundred and eighty-nine / a hundred and seventy-eight | three hundred and sixty-seven | three hundred and ninety-eight | seven hundred and eighty-four of eight hundred and thirty-one | - | a hundred and thirty-nine / twenty-nine taken / a hundred and ten not |
+
+**AND THE READ-ALOUD RUN IS READ ON EVERY ODD MORNING AND ON NO EVEN ONE, BEING TWENTY-FIVE MORNINGS OF THE FORTY-NINE, AND A CHAPTER ON AN EVEN MORNING CARRIES NO FIGURE FOR IT AND SAYS WHY ON THE PAGE.**
+
+### 10. THE FRAME TABLE, AND IT IS THE AUTHORITY ACROSS A TURN
+
+*Of a month nine months back* is the read-aloud frame and it does not move on any morning of this volume, including on either month turn. A chapter may say *of this month* from the morning after either turn. **A CHAPTER MAY NOT NAME A MONTH, AND THE PHRASES *THE FIFTEENTH MONTH*, *THE SIXTEENTH MONTH* AND *THE SEVENTEENTH MONTH* MAY NOT APPEAR IN ANY CHAPTER OF THIS VOLUME, AND A CHAPTER SAYS *THE FIFTEENTH* ONLY INSIDE A HEADING THAT NAMES AN ORDINAL.** No month name in any form.
+
+### 11. THE THINGS THIS PLAN DECLINED TO WRITE, AND WHY
+
+It wrote no expected-length band, because a word count for a volume that has not been written is a projection. It wrote no chapter range, because the brief forbids naming chapters and a range is the first step toward one. It wrote no batch prompt, because the brief forbids it and because a plan that hands the next phase its plan has done the next phase's work. **It did not edit `outline/volume-12.md`, which is a completed phase's file, and it did not edit a closed chapter, because no phase in this repository edits a closed chapter.**
+
+### 12. THE STANDINGS THIS PLAN FIXES AT DAY 850, ALL OF THEM DERIVED AND NONE OF THEM A CEILING
+
+The third launder at one thousand and two hundred and fourteen, being the four hundredth of a run of forty-nine distinct figures. The window at three hundred and sixty-seven, being a hundred and eighty-nine against a hundred and seventy-eight. The aggregate at three hundred and ninety-eight, its clause being the three hundred and ninety-seventh out of three hundred and ninety-ninth. The boards at seven hundred and eighty-four and eight hundred and thirty-one. **The count of blanks on that board at thirty-nine, and it is the same figure it has stood at since the last month of Volume 12 turned, and no later pass may add to it.** The compost line paid at twenty-eight. The count in force at a hundred and thirty-nine with twenty-nine taken and a hundred and ten not. The sessions at seven. The requests and the section-nine notes at fifty-three and fifty-three. The six not knowns at six. The barrow at eleven journeys. The use log at fifteen lines. And the ladder at zero rungs climbed.
+
+**AND THE TWO THINGS A LATER PASS OWES A RE-RUN BEFORE IT MAY PRINT NIL AGAIN, WHICH ARE THE FIGURES THIS FILE INHERITED AND DID NOT RE-MEASURE: THE FORTY-TWO PARAGRAPH PAIRS AND TWENTY-TWO BYTE-IDENTICAL INSTANCES THAT REMAIN BETWEEN CLOSED CHAPTERS OF VOLUME 12, AND THE WORD-LEVEL MEASURE, WHICH IS NAMED AT THE FOOT OF `state/continuity.md` AND WHICH THIS FILE DECLARES TO BE A TOKEN-SET JACCARD BECAUSE NO PASS HAS SAID WHICH MEASURE IT WAS TAKING AND A GATE THAT DOES NOT NAME ITS OWN MEASURE CANNOT BE REPRODUCED BY ANYBODY ELSE.**
+
+**AND THE ONE MEASUREMENT THAT SET THE LOCKED-LINE RULE AT SECTION 3, WHICH IS A FIGURE AND NOT A TASTE: THE LOCKED FAR-END SENTENCE APPEARS IN TWO OF THE FORTY-NINE CLOSED MORNINGS OF VOLUME 12 AND THE COMFORT LINE APPEARS IN TWO, AND IN BOTH CASES THE MORNING IT APPEARED ON WAS A MORNING SOMEBODY ELSE WAS SAYING SOMETHING ELSE, WHICH IS WHY IT LANDED.**

@@ -12,7 +12,7 @@ The clerk read the launder standing up at the wall, and the wind took the edge o
 
 **One thousand and one hundred and forty-eight hundredweight.**
 
-Sunday added eight to Saturday, and the three hundred and fifty-sixth figure of a run with no repeat stands this morning, and the rise on an even morning holds the alternation.
+Eight came off Saturday and the figure is the three hundred and fifty-sixth of a run that has not repeated itself in four years, and the rise on an even morning is what the alternation says has to happen.
 
 The halves were a hundred and sixty-seven one way and a hundred and fifty-six the other, three hundred and twenty-three together, and the men reconciled them twice and did not add them anywhere else.
 
@@ -22,7 +22,7 @@ Kellan Rusk came to the yard with testimony and not with tools, and said he had 
 
 **"I kept it and I did not read it out once, and men pressed a seal for nine years for men who did not read it to them, and I am not saying that to think less of the sheet."**
 
-He kept his hands still.
+He kept his hands still, which took him a moment, and then he took the folded page out of his coat and did not open it and put it back.
 
 **"I am saying it so that it is on the page that a seal was pressed and not signed, and that four things can be checked and one cannot."**
 
@@ -34,9 +34,9 @@ He touched the seal with one finger and took his hand away.
 
 **"Wax was pressed and that is the whole of what a seal means, and a date and a hand at the foot mean somebody thought about the order."**
 
-Three hundred and fifty-four days on the four bodies sheet, clause the three hundred and fifty-third out of three hundred and fifty-fifth, one under and one over, a different figure from the launder and the two never added.
+Three hundred and fifty-four days stand on the sheet of the four bodies of households, and the clause beneath that number takes the three hundred and fifty-third out of three hundred and fifty-fifth, one under and one over, and the launder on the wall and that clause are two different figures that no one in this holding has ever added together.
 
-Seven hundred and forty days near and seven hundred and eighty-seven far, forty-seven apart, drawer shut every hour.
+On the long wall the two boards read seven hundred and forty days and seven hundred and eighty-seven, and the gap between them has been forty-seven for four years, and the drawer under the near board has not been opened at any hour of this morning.
 
 The clerk stood at the long wall and said this is the last time the cycle comes round inside this half of a month, and that he is not going to mark the board in any way and is not going to write a figure in the margin where the blanks are counted.
 
@@ -52,19 +52,21 @@ Marek walked the length of the table looking at all three and ruled nothing unde
 
 **"A decision would have a reason attached and I have not got a reason for any of the three, and what they are is three pieces of paper about a district."**
 
-He stopped at the far end.
+He stopped at the far end and put two fingers on the board beside the first sheet and not on the sheet.
 
-**"The far end of a thing is held by two people and neither is me, and no instrument says on or off. The comfort is not standing, the father is not alive in the wood, the day does not come back."**
+**"Neither of the two things I say in this yard is on this table, and neither one of them cancels the other, and I have said both of those sentences out loud before and I am not going to keep saying them to be clear."**
 
-The clerk gave the derived ages at the middle table in one breath so that nobody could copy one without the other.
+The clerk gave the derived ages at the middle table in one breath so that nobody could copy one without the other, and read them off the form and the charter and Silling's own book without looking up between them.
 
-**"Two hundred and fifty days on the form and not filled, a hundred and fifty-six on the charter, two hundred and forty-four on Silling's second line with nothing on it."**
+**"Two hundred and fifty days on the form and not filled, a hundred and fifty-six on the charter behind it, two hundred and forty-four on the second line in Silling's book with nothing on it, and the three of them are not one figure and are not a total."**
 
-He set the form straight.
+He set the form straight and put his hand flat on the table beside it.
 
-**"Four lines bare under two words, terms empty, seven sessions, six not knowns, fifteen in the log, eleven journeys, sixty-six on the door, twenty-nine fetchings, paid at twenty-eight."**
+**"Four lines bare under two words, terms ruled and empty, seven sessions in this holding's book and no eighth, six not knowns and no seventh row ruled."**
 
-Ring with no foot and no figure and not added to the low field, offer undated and unmoved, no rung climbed and no figure for either ladder person, nobody thanked anybody.
+Nobody touched the use log and it stands where it has stood for four years, at fifteen lines with the sixteenth unwritten, and eleven journeys are chalked on the barrow against the wall where eleven is a floor rather than a count. Sixty-six is on the seventh column of a door nine hundred yards off and goes nowhere from there. The man of about seventy stands at twenty-nine fetchings and was not fetched. Paid is the word in front of twenty-eight on the compost line and is not discharged in twenty-eight.
+
+A ring of bare ground inside the eleven acres was not walked into and not measured, and nobody has ever put a figure against it, and the ground that came back on the low field is a different piece and the two are not added. The offer on the low board has not been taken up and has not been withdrawn and has not been moved. No rung of the succession ladder was climbed and no figure was given for either of the two people on it.
 
 Nia Vale carried a slate to the headland and brought it back unmarked, and said the boundary stones were cold and then warm, and that finding two hundred yards by hand is work and counting them is another thing.
 
@@ -78,4 +80,4 @@ Renn Ashby held the gate while the clerk passed with the book, and said the gate
 
 The clerk oiled the hinge with a rag and put the rag in his pocket, because oil on a hinge is care and not a figure, and care in this yard is not entered.
 
-Cloud over the headland with no rain in it, and a cycle come round, and nobody thanked anybody.
+Cloud over the headland with no rain in it, a cycle come round and counted out loud, and a wax seal touched once by a man who had pressed it nine years before.

@@ -50,13 +50,15 @@ He put his stick against the wall.
 
 **"I have got eleven feet of top course going on the north wall and I have said so once and I am not saying it twice, and that is a thing going and not a figure."**
 
-The fifty-sixth ninth-day return came up the fen road at the third hour and stood a quarter of an hour and went back, off the steelyard at five hundred and sixty-nine hundredweight, eleven above the last, the forty-sixth pair of names, the two halves reconciled twice and not added, and the second rule on the board left empty again and the count of blanks going thirty-nine to forty on that page and nowhere else.
+The fifty-sixth ninth-day return came up the fen road at the third hour and stood a quarter of an hour and went back, off the steelyard at five hundred and sixty-nine hundredweight, eleven above the last, the forty-sixth pair of names, the two halves reconciled twice and not added, and the second rule in the one room stood empty for the thirty-ninth time, and the count of blanks on that board is thirty-nine and did not move on that page or on any other this morning.
 
-The clerk said what he says on every return and added one line about the blanks, and said it standing up with the book open, and his pencil did not move while he said it.
+The clerk said what he says on every return and added a line about the blank rule, and said it standing up with the book open, and his pencil stayed behind his ear the whole of it.
 
-**"Fifty-sixth return and forty-sixth pair and five hundred and sixty-nine, and the second rule empty for the fortieth time, and the count goes on the return and not on the day."**
+**"Fifty-sixth return and forty-sixth pair and five hundred and sixty-nine, and the second rule empty again, and thirty-nine is what that board says and thirty-nine is what it goes on saying."**
 
-He shut the book.
+He closed the book on his thumb and did not put it away.
+
+**"That number was made and it was closed, and a rule that comes back empty opens nothing, and I am not the man who adds a forty to it because a wagon came up a road."**
 
 **"This is the first return of this half of the month and I do not know how many more there will be, and I am not going to fill the rule in the gap, because if it is filled it will be filled by somebody who has been told what it is for."**
 
@@ -84,13 +86,13 @@ She stepped back from the table.
 
 **"I am not opening it this month and I am not asking anybody to open it for me, and that is not a decision about what is in it."**
 
-Marek came out of the one room at about the eleventh hour with his sleeve down and stood with his back to the table, and said the two things whole that no pass may reduce, and said them once and did not soften either.
+Marek came out of the one room at about the eleventh hour with his sleeve down and stood with his back to the table, and said two standings out loud in a yard with the gate open, at the speed he says everything, and explained neither of them and softened neither of them, and nobody in that yard asked him what either was about.
 
-**"The far end of a thing is held by two people and neither of them is me, and no instrument anywhere in four counties says whether it is on or off, and I have stopped waiting for the instrument."**
+**"The far end of a thing is held by two people and neither of them is me, and no instrument anywhere in four counties says whether it is on or off."**
 
-He looked at the gate and not at the table.
+He looked at the gate and not at the table, and nobody in that yard asked him about it, and a woman filling a can at the tap went on filling it.
 
-**"The comfort is not standing. The father is not alive in the wood. The day does not come back. Neither group of lines is about the sheet on that table and neither cancels it."**
+**"The comfort is not standing, the father is not alive in the wood, and the day does not come back. Neither group of lines is about the sheet on that table and neither cancels it."**
 
 The clerk at the middle table put his hand on the form with four lines and did not write on it, and said the age of it out loud because the age is kept by rule and not by memory.
 
@@ -108,4 +110,4 @@ Paid is the word in front of twenty-eight on the compost line and it is not disc
 
 A ring of bare ground lies inside the eleven acres and no foot went in it this morning and it has no figure against it, and the ground that came back on the low field is a different piece and the two are not added, and the offer on the low board lies undated and is not taken up and not withdrawn and not moved.
 
-Yard dust settling over a shut drawer and three sheets with bare board between them, and a return gone back down the road, and nobody thanked anybody.
+Yard dust settling over a shut drawer and three sheets with bare board between them, and a return gone back down the road, and the gate still standing open a hand's width with nobody near it.

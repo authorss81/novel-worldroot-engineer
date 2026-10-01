@@ -32,9 +32,9 @@ He looked at the heap and not at her.
 
 **"A barrow against a wall and eleven journeys and I am available, and that is all I have got that a schedule cannot take."**
 
-Three hundred and fifty-three days on the sheet of the four bodies, the clause the three hundred and fifty-second out of three hundred and fifty-fourth, one under and one over, never added to the launder.
+Three hundred and fifty-three days stand on the sheet of the four bodies of households, and the clause beneath the figure takes the three hundred and fifty-second out of three hundred and fifty-fourth, one under and one over, and the launder is a different figure from it on every morning of the year.
 
-Seven hundred and thirty-nine days near and seven hundred and eighty-six far, forty-seven apart, drawer shut at every hour.
+Two boards hang on the long wall, and the near one says seven hundred and thirty-nine days and the far one says seven hundred and eighty-six, and the two are forty-seven apart, and the drawer behind the near board was shut at every hour of this morning and nobody in this holding has opened it inside four years.
 
 Nia Vale paced a length of low field above the middle road with her boot when a man from a tap four miles off asked her for a figure, and refused him the number and gave him the length instead, and would not write it down.
 
@@ -44,7 +44,7 @@ She paced it twice.
 
 **"I did the right thing and I will not say I did the right thing, and a tape can see it and a schedule can see it."**
 
-There are three sheets on the long table, the first fifty-two days old face up with about nine inches of bare board either side, the second folded from the twenty-eighth unopened, the third correct with name and date and hand and seal, none answered and none refused and none entered, fifty-three and fifty-three in the two columns that have not taken them.
+Three sheets are on the long table and the first of them is fifty-two days old, lying face up with about nine inches of bare board on either side of it. The second is folded from the twenty-eighth with the fold turned the other way and has not been opened. The third carries a heading and a person's name and a table of places and dates and a date and a hand at the foot and a seal in the corner, and it is correct in every particular. The wind got under the edge of the first one at about the ninth hour and the clerk put a weight on it and took the weight off again when the wind dropped, and the requests and the section-nine notes stand at fifty-three and fifty-three.
 
 Tova Reed spent the morning at the seed front and came in at noon with chaff on her arms, and said she would not spend a seed front on a sentence about a schedule that arrived Thursday, and that what came back was not worth more than what has been kept.
 
@@ -54,32 +54,36 @@ She washed her arms at the tap.
 
 **"I am not going to be the seed front who said it, and nobody in this holding has been asked to choose anything and that is the harder thing and not the easier one."**
 
-Marek heard her from the one room and came out and stood with nothing in his hands, and said the standing lines once.
+Marek heard her from the one room and came out and stood with nothing in his hands, and looked at the heap a long time, and said neither of the two things he could have said, and the yard did not miss them because it had stopped listening for them some days back.
 
-**"The far end is held by two and neither is me, and no instrument says on or off, and I have stopped waiting. The comfort is not standing, the father is not alive in the wood, the day does not come back."**
+**"I am not going to stand here and tell her she is right about a heap, because she is not asking me to, and a man who agrees with everything said in a yard is a man who has stopped being in one."**
 
-The clerk spoke the derived ages because derivation is the rule and carrying is not.
+He put his hands behind his back and looked at the fence posts instead, which no list had ever claimed and which were still standing where they had been put.
 
-**"Two hundred and forty-nine on the form, a hundred and fifty-five on the charter, two hundred and forty-three on Silling's second line, nothing on any of them."**
+The clerk spoke the ages because derivation is the rule and carrying a figure forward is not, and he had the middle book open and the form out of the rack at the same time.
 
-He put the books straight.
+**"Two hundred and forty-nine days on the form and nothing on it, a hundred and fifty-five on the charter behind it, two hundred and forty-three on Silling's second line and nothing on that either."**
 
-**"Four bare lines and no answer due, terms ruled and empty, seven sessions, six not knowns, fifteen in the log, eleven on the barrow, sixty-six on the door, twenty-nine fetchings, paid at twenty-eight."**
+He put the books straight and squared the form to the edge of the table with his knuckle.
 
-The ring unwalked and unmeasured with no figure, the offer undated and unmoved, no rung climbed and no figure for either of the two on that ladder, drawer shut, letter uncounted out loud by any ten persons.
+**"Four bare lines with the answer not due, terms ruled and empty, seven sessions in this holding's book, six not knowns with no seventh row ruled for them, and the sixteenth line of the use log not written."**
 
-Harlan Vetch walked to the heap with a stick and probed the foot of it, and said the foot was dry and the top was wet, and that a heap with a dry foot will stand and one with a wet foot will spread.
+Nobody wrote on the use log, and it stands where it has stood for four years, at fifteen lines with the sixteenth unwritten. The barrow is against the wall at eleven journeys and eleven is a floor. The seventh column of a door nine hundred yards off reads sixty-six and does not go back. The man of about seventy stands at twenty-nine fetchings and was not fetched this morning. Paid is the word in front of twenty-eight on the compost line and is not discharged in twenty-eight.
+
+The ring of bare ground was not walked and not measured and has no figure against it, and the ground that came back on the low field is a different piece and the two are not added. The offer on the low board is undated and unmoved. No rung of the ladder was climbed and no figure was given for either of the two people on it. The drawer is shut and the letter was not counted out loud by any ten persons in this holding.
+
+Harlan Vetch walked to the heap with a stick and probed the foot of it, and said the foot was dry and the top was wet, and that a heap with a dry foot will stand and one with a wet foot will spread, and he put his boot flat on the bottom course and it took his weight without moving a stone.
 
 **"Dry at the foot and wet at the top, and a foot higher than a fortnight ago, and I am not calling it a store."**
 
-He marked nothing and wrote nothing, and left the stick against the heap.
+He marked nothing and wrote nothing, and left the stick against the heap where the wind could knock it down, and it did not.
 
 The woman of about thirty-eight carried two cans from the tap to the seed house and set them in the shade, and said the water is for seed and not for dust, and that seed dust kept damp will bind.
 
 **"Two cans and shade, and damp kept off the sieves, and that is housekeeping and not a record."**
 
-She went back for a third can.
+She went back for a third can and came back with it half full, because the tap had gone slow in the wind, and she said that out loud too and set it beside the other two.
 
 Marek mended a strap on a sieve with twine while Nia Vale held it, and neither spoke about the heap, because the heap had been said once and saying it twice would make it a meeting.
 
-Fence posts standing where no list said they should, and a heap nobody owns, and nobody thanked anybody.
+Fence posts standing where no list said they should, and a heap nobody owns going a foot higher in the dark, and three sheets on a long table with the wind off the fen.

@@ -1,0 +1,103 @@
+# VOLUME 13 -- BATCH 0002
+
+**THE GOVERNING PLAN IS `outline/volume-13.md` AND IT IS ON DISK AND IT IS MEASURED. IT IS THE FIRST THING YOU READ AND IT IS THE ONLY THING THAT DECIDES ANYTHING ABOUT THIS BATCH. THE PLAN NAMES NO CHAPTER OF VOLUME 13 AND NEITHER MAY YOU, AND IT CARRIES NO CHAPTER RANGE AND NEITHER MAY YOU BORROW ONE FROM `state/` OR FROM ANY FIGURE IN IT. WHERE A CARD, THIS PROMPT AND THE PLAN DISAGREE, THE PLAN GOVERNS. WHERE A CARD, THIS PROMPT OR THE PLAN DISAGREE WITH A PAGE ALREADY ON DISK, THE PAGE GOVERNS, AND THE PLAN'S NUMBER IS WITHDRAWN AND NAMED WHEN THAT HAPPENS.**
+
+**THE TEN MORNINGS OF THE BATCH BEHIND THIS ONE ARE ON DISK AND CARRY A REPAIR PASS, AND THE REPAIR IS THE THING THIS BATCH INHERITS AND NOT THE THINGS IT REPEATS. `state/continuity.md` AT ITS FOOT, `state/open-threads.md` AT ITS FOOT AND `state/chapter-summaries.md` AT ITS FOOT ARE THE THREE GOVERNING SECTIONS OF THE WHOLE STATE LAYER AND YOU READ ALL THREE. `state/current.md` HAS A HEAD BLOCK THAT IS AN INDEX AND THAT SAYS IT GOVERNS NOTHING, AND IT YIELS ON EVERY MATTER IT NAMES TO ANY FOOT SECTION THAT NAMES THE SAME MATTER. READ THE HEAD OF ONE FILE AND THE FOOT OF THREE. A PHASE THAT READS A STATE FILE WHOLE HAS SPENT ITS CONTEXT ON HISTORY AND HAS NOTHING LEFT FOR THE DAY TABLE.**
+
+---
+
+## 1. WHAT THIS BATCH IS, IN ONE PARAGRAPH
+
+**Days 812 to 821, ten mornings, one morning each, and the plan's own table at section 9 carries a weekday, an ordinal, a month, the third launder, both halves of the window, the aggregate, the two boards, the read-aloud figure or its absence, and the fourth-line figures where they fall.** The first morning is **day 812, a Saturday, the second of the sixteenth**. It opens on the figures the ten behind it closed at: **the third launder at one thousand and one hundred and forty-nine, the window at a hundred and sixty-nine against a hundred and fifty-nine, the aggregate at three hundred and fifty-nine, and the boards at seven hundred and forty-five and seven hundred and ninety-two**, and the drawer behind the near board has stood shut at every hour of every morning behind this one and stands shut on all ten mornings of this one. **The tenth morning is day 821, a Monday, the eleventh of the sixteenth, and it carries the fifty-ninth return at five hundred and ninety-one hundredweight and the compost line falling to twenty-nine, which is the first fall inside this volume and which is the only fall this batch may spend.**
+
+**THIS IS THE BATCH THAT SPENDS THE COMPOST LINE.** The fall is on the twenty-six mornings' interval carried from day 795, and 821 minus 795 is 26, which is the check. **PAID GOES IN FRONT OF THE FIGURE AND IT IS NOT DISCHARGED IN TWENTY-NINE, IT MOVED BECAUSE THE INTERVAL CARRIED IT AND NOT BECAUSE ANYBODY IN THIS HOLDING DECIDED IT SHOULD, AND ABOUT NINE PEOPLE IN THIS COUNTY FIND OUT AT THE SAME HOUR AND NOT ONE OF THEM IS FIRST, AND A CHARACTER SAYS THAT OUT LOUD.** No second fall is inside this batch. A batch that spends two is a batch that has changed the interval and not the figure.
+
+**THE THING THIS BATCH HAS TO DO IS CARRY TEN MORNINGS DEEPER INTO A VOLUME WHOSE CENTRAL PRESSURE IS THE ORIGINAL COVENANT AND WHOSE EVIDENCE LIVES IN A MEMORY THAT IS NOT YET SURRENDERED, WITHOUT NAMING A PERSON WHO IS NOT ALREADY NAMED, WITHOUT ANY OFFICE LYING, WITHOUT THE THREE SHEETS BEING ANSWERED OR GROUPED, AND WITHOUT THE LOCKED PAIR BEING SOFTENED, WHICH IS THE ONE THING A CHAPTER IN THIS VOLUME CANNOT DO.**
+
+---
+
+## 2. THE FIGURES FOR THESE TEN MORNINGS, PRINTED AND NOT TO BE RE-DERIVED BY EYE
+
+| Day | Weekday | Ordinal | Month | Third launder | Ordinal of run | Window halves | Window | Aggregate | Boards, near of far | Read aloud | Fourth line |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 812 | Saturday | Two | 16 | one thousand and one hundred and fifty-seven | 362 | a hundred and seventy / a hundred and fifty-nine | three hundred and twenty-nine | three hundred and sixty | seven hundred and forty-six of seven hundred and ninety-three | - | - |
+| 813 | Sunday | Three | 16 | one thousand and one hundred and fifty-two | 363 | a hundred and seventy / a hundred and sixty | three hundred and thirty | three hundred and sixty-one | seven hundred and forty-seven of seven hundred and ninety-four | one hundred and fifty-two of two hundred and eighty-seven | - |
+| 814 | Monday | Four | 16 | one thousand and one hundred and sixty | 364 | a hundred and seventy-one / a hundred and sixty | three hundred and thirty-one | three hundred and sixty-two | seven hundred and forty-eight of seven hundred and ninety-five | - | a hundred and thirty / twenty-nine taken / a hundred and one not |
+| 815 | Tuesday | Five | 16 | one thousand and one hundred and fifty-five | 365 | a hundred and seventy-one / a hundred and sixty-one | three hundred and thirty-two | three hundred and sixty-three | seven hundred and forty-nine of seven hundred and ninety-six | one hundred and fifty-three of two hundred and eighty-nine | - |
+| 816 | Wednesday | Six | 16 | one thousand and one hundred and sixty-three | 366 | a hundred and seventy-two / a hundred and sixty-one | three hundred and thirty-three | three hundred and sixty-four | seven hundred and fifty of seven hundred and ninety-seven | - | - |
+| 817 | Thursday | Seven | 16 | one thousand and one hundred and fifty-eight | 367 | a hundred and seventy-two / a hundred and sixty-two | three hundred and thirty-four | three hundred and sixty-five | seven hundred and fifty-one of seven hundred and ninety-eight | one hundred and fifty-four of two hundred and ninety-one | - |
+| 818 | Friday | Eight | 16 | one thousand and one hundred and sixty-six | 368 | a hundred and seventy-three / a hundred and sixty-two | three hundred and thirty-five | three hundred and sixty-six | seven hundred and fifty-two of seven hundred and ninety-nine | - | a hundred and thirty-one / twenty-nine taken / a hundred and two not |
+| 819 | Saturday | Nine | 16 | one thousand and one hundred and sixty-one | 369 | a hundred and seventy-three / a hundred and sixty-three | three hundred and thirty-six | three hundred and sixty-seven | seven hundred and fifty-three of eight hundred | one hundred and fifty-five of two hundred and ninety-three | - |
+| 820 | Sunday | Ten | 16 | one thousand and one hundred and sixty-nine | 370 | a hundred and seventy-four / a hundred and sixty-three | three hundred and thirty-seven | three hundred and sixty-eight | seven hundred and fifty-four of eight hundred and one | - | - |
+| 821 | Monday | Eleven | 16 | one thousand and one hundred and sixty-four | 371 | a hundred and seventy-four / a hundred and sixty-four | three hundred and thirty-eight | three hundred and sixty-nine | seven hundred and fifty-five of eight hundred and two | one hundred and fifty-six of two hundred and ninety-five | - |
+
+**AND THE FIGURES THAT FALL ON NO DAY OF THE TABLE AND ARE SPENT ON ONE MORNING EACH. THE FIFTY-NINTH RETURN IS ON DAY 820 AT FIVE HUNDRED AND NINETY-ONE HUNDREDWEIGHT, THE FORTY-EIGHTH NAME-PAIR, ELEVEN ABOVE THE LAST, AND THE COUNT OF BLANKS ON THE BOARD IN THE ONE ROOM IS THIRTY-NINE AND DOES NOT MOVE. THE COMPOST LINE FALLS ON DAY 821 TO PAID AT TWENTY-NINE AND IS NOT DISCHARGED IN TWENTY-NINE. THE READ-ALOUD HEADING IS OF A MONTH NINE MONTHS BACK AND HAS NOT MOVED SINCE THE FIRST OF THE FIFTEENTH. THE SESSIONS ENTERED IN THIS HOLDING'S BOOK STAND AT SEVEN AND NO SESSION IS ENTERED IN THIS BATCH. THE REQUESTS AND THE SECTION-NINE NOTES ARE FIFTY-THREE AND FIFTY-THREE AND TAKE NONE OF THE THREE SHEETS.**
+
+**AND THE THIRTEEN FOURTH-LINE MORNINGS OF THE WHOLE VOLUME, OF WHICH THIS BATCH SPENDS TWO, BEING DAYS 814 AND 818, AND THE COUNT IN FORCE RISES BY EXACTLY ONE ON EACH AND BY NOTHING ON THE OTHER EIGHT MORNINGS, AND THE TWO RECKONINGS THAT NEVER AGREE HOLD THIRTEEN APART ON BOTH AND THE GAP DOES NOT CLOSE. NO FIELD WAS TAKEN ON ANY MORNING OF THIS BATCH, INCLUDING ON BOTH FOURTH-LINE MORNINGS, AND NOBODY IS BLAMED FOR A FIELD THAT WAITED.**
+
+---
+
+## 3. THE SPELLING RULES, WHICH ARE THE STANDING HAZARD AND ARE SET BY A PAGE
+
+**EVERY FIGURE IN THIS HOLDING IS SPELLED OUT IN WORDS AND NOT ONE OF THEM IS A DIGIT, SO A CHECK THAT NORMALISES NUMERALS ALONE WILL REPORT A CLEAN BATCH THAT IS NOT CLEAN. THAT IS NOT A THEORY. IT IS HOW THE GATE THAT THE VOLUME 12 CLOSE PUBLISHED AS NIL WAS FOUND NOT TO BE NIL, AND IT IS THE FIGURE A BATCH SHOULD CARRY FORWARD RATHER THAN ANY FINAL COUNT.**
+
+- **100 to 199 is `A HUNDRED AND [WORD]`.** 159 is *a hundred and fifty-nine*. Never *one hundred and fifty-nine* at top level.
+- **200 and above to 999 is `[WORD] HUNDRED AND [WORD]`.** 360 is *three hundred and sixty*. **AND A SPLIT WINDOW HALFE IN THAT RANGE IS WRONG: EVERY WINDOW HALFE IN THIS BATCH IS IN THE ONE HUNDREDS AND IS SPELLED `A HUNDRED AND`.**
+- **1000 and above is `ONE THOUSAND AND [WORD] HUNDRED AND [WORD]`.** 1,157 is *one thousand and one hundred and fifty-seven*. **BOTH `AND`S ARE KEPT AND DROPPING EITHER IS AN ERROR.** 1,214 is *one thousand and two hundred and fourteen*.
+- **THE READ-ALOUD NUMERATOR IS SPELLED `ONE HUNDRED AND` AND THE SPLIT WINDOW HALFE IS SPELLED `A HUNDRED AND`, AND THOSE ARE TWO DIFFERENT FIGURES WITH TWO DIFFERENT HOUSE FORMS AND NEITHER MAY BE WRITTEN IN THE OTHER'S FORM.** The read-aloud figures in this batch are *one hundred and fifty-two of two hundred and eighty-seven*, *one hundred and fifty-three of two hundred and eighty-nine*, *one hundred and fifty-four of two hundred and ninety-one*, *one hundred and fifty-five of two hundred and ninety-three* and *one hundred and fifty-six of two hundred and ninety-five*. The window halves in the same batch are *a hundred and seventy* and *a hundred and fifty-nine* and so on. **THE DENOMINATOR OF THE READ-ALOUD RUN IS DAY MINUS FIVE HUNDRED AND TWENTY-SIX AND THEREFORE STEPS BY TWO ON EVERY ODD MORNING, AND THE NUMERATOR STEPS BY ONE, AND THE TWO ARE NOT A PERCENTAGE AND ARE NOT ONE AGAINST THE OTHER IN ANY ARITHMETIC.**
+
+---
+
+## 4. THE NEAR-DUPLICATE GATE, AND THE HOUSE'S OWN HABIT IS THE HAZARD
+
+**RUN BOTH GATES BEFORE YOU FINISH AND PUBLISH BOTH FIGURES WITH THE METHOD BESIDE THEM. A CLEAN GATE IS A NUMBER AND NOT A FINDING, WHICH IS THE FIFTEENTH TIME THIS REPOSITORY HAS HAD TO WRITE THAT SENTENCE DOWN.**
+
+**THE FIRST GATE.** Every prose paragraph of thirty words or more, against every other prose paragraph of this batch and against every prose paragraph of the ten mornings behind it, excluding headings and apparatus. Count an ordered pair whose word counts are within a factor of 1.25 where `difflib.SequenceMatcher(None, a, b, autojunk=False).ratio()` is 0.85 or better, with `real_quick_ratio()` and `quick_ratio()` as the only shortcuts. **THE LAST TIME THIS GATE RAN IT READ 53 ON A UNIVERSE OF 228 AND EVERY ONE OF THE FIFTY-THREE WAS THE HOUSE'S OWN STOCK SENTENCE WRITTEN ONCE WITH THE FIGURES SWAPPED, AND THE REPAIR THAT CLEARED IT REWROTE FORTY-ONE PARAGRAPHS ACROSS TEN FILES AND ALTERED NO FIGURE OF ANY SERIES IN ANY OF THEM.**
+
+**THE SECOND GATE, WHICH THE FIRST ONE CANNOT SEE.** Normalise every numeral and every spelled number word, drop punctuation, count exact shapes of eighteen words or more that appear twice or more. **A GATE THAT NORMALISES NUMERALS ALONE IS BLIND TO EVERY FIGURE IN THIS HOLDING.** The last pass on the ten mornings behind this one read four repeated shapes and eight excess instances under this gate where the numeral-only gate read nil.
+
+**THE STOCK FORMS THIS BATCH OWES A DIFFERENT SHAPE ON ALL TEN MORNINGS, NAMED SO THAT A LATER PASS DOES NOT INHERIT THE FORTY-NINE REWRITES AND SO THAT A WRITER KNOWS WHAT TO BREAK: THE LAUNDER AND ITS ORDINAL AGAINST THE DAY; THE WINDOW AND ITS TWO HALVES; THE AGGREGATE AND ITS CLAUSE; THE PAIR OF BOARDS AND THE DRAWER; THE REGISTER FORM AND THE CHARTER AND SILLING'S SECOND LINE; THE USE LOG AND THE BARROW; THE SIX RULED ROWS; THE FOUR RULED LINES; THE SHEET OF TERMS; THE SEVENTH COLUMN AND THE MAN OF ABOUT SEVENTY; THE THREE SHEETS ON THE LONG TABLE AND THE TWO COLUMNS THEY DID NOT GO INTO; THE COMPOST LINE; THE SESSIONS; THE FIFTY-THREE; THE ROTATION OPENING; THE EMPTY READ-ALOUD SPACE AND THE READ-ALOUD PAIR; AND THE LOCKED FAR-END SENTENCE AND THE COMFORT LINE.**
+
+**THE CHEAPEST WAY TO CLEAR BOTH GATES IS TO PUT A PERSON IN EVERY STANDING BLOCK AND TO LET THE ORDER OF THE SENTENCES BE THE PERSON'S ORDER AND NOT THE CLERK'S. EVERY REWRITE CARRIES AN ACTOR, A DIFFERENT VERB AND A DIFFERENT SENTENCE ORDER, AND NOT ONE FIGURE OF ANY SERIES IS ALTERED IN ANY OF THEM, WHICH IS THE TEST OF THE REWRITE AND IT HOLDS.**
+
+**AND THE ONE EXCEPTION, WHICH IS NOT AN EXCEPTION BUT THE LOCK: THE TWO LOCKED SENTENCES ARE FIXED WORD FOR WORD BY THE ENDING LOCK AND MAY NOT BE REWRITTEN AT ALL, AND THEY ARE THE ONLY TEXT IN THIS BATCH THAT A GATE WILL FLAG REPEATEDLY AND CORRECTLY. THE PLAN'S RULE AT ITS SECTION 3 IS THAT THEY ARE SPOKEN WHOLE ON THE FIRST MORNING OF THE VOLUME AND THE LAST MORNING OF THE VOLUME AND ON NOT MORE THAN THREE MORNINGS IN BETWEEN. THIS BATCH IS NINE MORNINGS IN FROM THE END OF THE VOLUME, SO THE PLAN SPENDS ITS REMAINING ALLOWANCE HERE AND THE PAIR MAY BE SPOKEN WHOLE ON NOT MORE THAN ONE MORNING OF THESE TEN, AND ON EVERY OTHER MORNING A CHARACTER MAY SAY OUT LOUD THAT HE IS NOT SAYING THEM AND WHY, WHICH IS A DIFFERENT ACT AND NOT A SOFTENING. THAT IS A RULE AND NOT A PREFERENCE AND THE REASON FOR IT IS A MEASUREMENT PRINTED AT THE PLAN'S SECTION 12.**
+
+---
+
+## 5. THE RULES THIS BATCH MAY NOT BREAK, TAKEN FROM THE PLAN AND NOT RESTATED AT LENGTH
+
+1. **The thirty-five threads are thirty-five in and thirty-five out.** A thread may advance. No chapter may answer, close, reword, advance one to a figure, sum or group one, and no chapter may use the words *tally* or *count* of the thirty-five at all.
+2. **The two questions that may never be answered are not asked, named, hinted, paraphrased or answered.** A chapter that needs one of them says on the page that it is not going to and why, and moves no count.
+3. **The two locked sentences may be restated and may not be reduced by a word.** The words *of them*, *anywhere in four counties*, *whether it is on or off*, *the father is not alive in the wood* and *the day does not come back* are load-bearing.
+4. **Tova Reed's hearing remains permanently damaged in one ear.** No chapter heals it, softens it, excuses it or makes it a convenience, and no chapter puts it in a room where somebody apologizes for it. Nobody takes the seed work off her. Nobody touches her arm.
+5. **No new named person, and no new antagonist of any kind.** `Iona Vey` is the final antagonist fixed by the series file, she is not new, she is not killed and not put under custody in this volume, and neither is previewed. **Her office's conduct is correct in every particular on the sheet that carries her name, and no chapter of this batch calls a correct document a lie.**
+6. **The count of blanks on the board in the one room is thirty-nine and does not move in this volume.** The rule stands empty and a rule that came back empty opens nothing.
+7. **The floors stand and none is raised by accident and none is filled to get a scene.** The mark is four inches and branches twice. The use log is fifteen lines. The six not knowns are six and a seventh is not added for the covenant, for the machine, for the schedule or for the confession. The barrow is eleven journeys and eleven is a floor. The requests and the section-nine notes are fifty-three and fifty-three. The sessions are seven and the count does not move.
+8. **The ring of bare ground is not walked, not measured and not priced by walking it, and it has no dimension on any page.** No chapter puts a foot in it. The growth that came back is on different ground and the two are never added.
+9. **The three sheets on the long table advance and are not answered.** No column is ruled for any of them. Nobody is asked to choose anything in these ten mornings.
+10. **ASCII and straight marks only.** No curly mark, no em dash, no en dash, no non-ASCII glyph. The house forms are *favor*, *license*, *apologize*, *neighbor*, *behavior*, and *judgement* and *defence* are zero in this manuscript and stay zero.
+11. **No month is named in narration or in any document.** The phrases *the fifteenth month*, *the sixteenth month* and *the seventeenth month* may not appear in any chapter. A day is an ordinal, *of this month*, *of last month*, a bare ordinal, or *of a month N months back*, and *of a month N months back* runs for N up to eleven.
+12. **The word *seat* may not appear, *nest* may not appear as a category, *fieldbook* may not appear, and *panel* may be used only to say that there is none.** The bare words *volume*, *batch* and *chapter* may not appear in body prose.
+13. **Every speech paragraph opens and closes its own quotation, no paragraph ends with speech open, zero unbalanced quotation marks and zero unbalanced bold markers, and no chapter carries two speech paragraphs of the same speaker in a row without an action between them.**
+14. **The mean paragraph length is between twenty-five and seventy-five words and no chapter's mean exceeds eighty-five. No chapter carries more than a quarter of its paragraphs over a hundred and twenty words, and no chapter ends on a paragraph in which every sentence opens with a negation-form word. At least twelve different words open the last prose paragraph across the whole volume, and no more than ten of the forty-nine may open on the single word *nobody*.** None of these is a target to hit. Each is a ceiling or a floor and none may be met by moving a word that means something.
+15. **The apparatus ceiling for this volume is thirty `>` blocks of every kind, and the `Entered` blocks are inside that number and not added to it.** The ten mornings behind this one spent none.
+
+---
+
+## 6. THE LENGTH OF THIS BATCH, WHICH IS A DECISION AND NOT AN ACCIDENT
+
+**TEN MORNINGS IN ONE RUN IS INSIDE THE TWENTY-CHAPTER CEILING.** Write mornings in order and do not restart a completed chapter. **IF AN OUTPUT LIMIT IS REACHED, STOP AT A CHAPTER BOUNDARY, SAVE EVERY COMPLETED CHAPTER AND THE STATE FILES, MARK THE REMAINDER AS RESUMABLE, AND SAY SO IN THE BATCH SUMMARY.**
+
+**ON THE LENGTH OF EACH MORNING, WHICH THE REPAIR OF THE TEN BEHIND THIS ONE SET A FIGURE FOR. Those ten were first written at a mean of 1,286 words a morning and were repaired to a mean of 1,655, and the repair added scene to material that was already there and altered no figure of any series. A morning in this batch that runs much under about 1,400 words is a morning that has let figure recitation stand in for a scene, and the way out of that is to give an actor something to do and let the figures arrive inside what the actor is doing. A morning that runs much over about 2,400 is a morning that has found a second thing to say. Neither figure is a projection and neither is a band this prompt expects to be met; they are the two ends of what the batch behind this one actually measured on the page.**
+
+---
+
+## 7. WHAT THIS BATCH OWES ITS SUCCESSOR
+
+**UPDATE `state/current.md`, `state/continuity.md`, `state/open-threads.md` AND `state/chapter-summaries.md` AT THEIR FEET, AND NOT AT THEIR HEADS, BECAUSE THE HEAD BLOCK OF `state/current.md` IS AN INDEX THAT SAYS IT GOVERNS NOTHING.** Keep every summary compact and useful to the next pass and publish the method beside every figure in it.
+
+**PUBLISH THE FIGURE CHECK AND BOTH GATES, AND PUBLISH THEM EVEN WHEN THEY ARE CLEAN, BECAUSE A FIGURE THAT COMES BACK IS WORSE THAN A FIGURE THAT WAS NEVER CLAIMED AND THAT HAS NOW HAPPENED IN THIS REPOSITORY FOUR TIMES.**
+
+**AND CREATE EXACTLY ONE NEXT PHASE, WHICH IS THE NEXT BATCH OF THIS VOLUME, AND WRITE ITS PROMPT WITH ITS OWN DAY TABLE DERIVED FROM THE PLAN AND NOT FROM THE BATCH BEHIND IT. DO NOT CREATE A PHASE BEYOND THAT ONE. DO NOT EDIT `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` OR `state/phase-ledger.json`. DO NOT EDIT A CLOSED CHAPTER OF ANY VOLUME.**
+
+**AND IF A FIGURE ON A PAGE ALREADY ON DISK DISAGREES WITH THE PLAN, THE PAGE GOVERNS, AND THE PLAN'S NUMBER IS WITHDRAWN AND NAMED IN THE FOOT OF `state/continuity.md` WITH THE PAGE THAT OVERRODE IT AND THE FIGURE THAT CAME BACK, BECAUSE A FIGURE THAT IS ONLY OVERWRITTEN COMES BACK.**
