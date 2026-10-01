@@ -20,7 +20,7 @@ So he read them himself, off the top shelf, with the barrow between him and the 
 
 **"Two hundred and eighty days on the register form,"** he said, and stopped, and had to get the barrow's tailboard off the doorframe before he could turn round, and the yard waited for him.
 
-**"A hundred and eighty-six on the charter behind it. And two hundred and seventy-four where the second ruled line is in Silling's own book, and that one has never had anything on it and I have had a barrow in my hands every time anybody has ever read it to me."**
+**"A hundred and eighty-six, and that is the charter. Silling's second ruled line is two hundred and seventy-four, and it is bare, and I have had a barrow in my hands every time anybody in this holding has ever read it to me."**
 
 **"You have the first of them wrong,"** the woman of about thirty-eight said, from the well house steps.
 
@@ -38,7 +38,7 @@ The four bodies of households stand at three hundred and eighty-four on the shee
 
 Sera Quill said the reason for the space in the morning out loud at the gate with her slate under her arm, and said it to a man who had not asked her and who was not reading the wall.
 
-**"There is no pair on the wall because Renn reads it in the doorway at seven and it is an even morning and it is not read, and I have said this at the gate four times in a fortnight and I am going to go on saying it until somebody writes down that the reason is not interesting, and then I will stop."**
+**"The wall is bare where a pair goes and I am going to say why, at this gate, to a man who has not asked me. Renn has the book in the doorway at seven, it is an even morning, and it is not read. I have said that four times in a fortnight and I will say it until somebody writes it down as uninteresting, and then I will stop, and you may watch me not say it again."**
 
 **"It is not interesting,"** said the man of about fifty.
 

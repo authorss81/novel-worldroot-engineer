@@ -58,9 +58,9 @@ The clerk read the wall at nine before the joint started and had read it correct
 
 **One thousand and one hundred and ninety-nine hundredweight.**
 
-**"Eight on, and Saturday is an even morning, and it is the three hundred and ninetieth figure of the run,"** he said. **"A hundred and eighty-four and a hundred and seventy-three, and that is three hundred and fifty-seven, and I have been saying a hundred and eighty-four out loud since Wednesday and it is not a number I have said before and I checked it twice."**
+**"Saturday is an even morning, so there is no pair on this wall, and the run stands at its three hundred and ninetieth, eight on,"** he said. **"The halves are a hundred and eighty-four and a hundred and seventy-three, and three hundred and fifty-seven is what they come to. I have checked that twice, because I have been saying a hundred and eighty-four out loud since Wednesday and it is not a figure I have said before."**
 
-The four bodies of households stand at three hundred and eighty-eight on the long sheet, and the clause beneath it in the smaller hand takes the three hundred and eighty-seventh out of three hundred and eighty-ninth. The near board says seven hundred and seventy-four and the far one says eight hundred and twenty-one. The drawer behind the near one stood shut at every hour of the day the yard had no water in, and the key to it was on the nail in the one room door at every hour of it.
+On the long sheet the four bodies of households are at three hundred and eighty-eight, and the clause in the smaller hand under it takes the three hundred and eighty-seventh out of three hundred and eighty-ninth. Eight hundred and twenty-one is on the far board and seven hundred and seventy-four on the near one, and the drawer let into the masonry behind that near board stayed shut through every hour of a day when this yard had no water in it, and the key to it never once left the nail in the one room door.
 
 Marek did not say the two things at any hour of Saturday, and Nia Vale did not ask him at any hour of Saturday, and at half past five he came and stood at the step where the three wet places were drying and said the rest of it out loud to the yard.
 
@@ -70,7 +70,7 @@ Marek did not say the two things at any hour of Saturday, and Nia Vale did not a
 
 The three sheets on the long table have nine inches of bare board either side of each, and the first of them is eighty-seven days old and lying face up, and no column has been ruled under any of them in a single book in this building. Fifty-three requests and fifty-three section-nine notes are in their two columns and have taken none of them, and this holding's book has seven entered sessions, and Saturday was not one of them.
 
-The board in the one room carries thirty-nine blanks and its second rule stands open and empty underneath them, and a rule that comes back empty opens nothing.
+Thirty-nine blanks are ruled on the board in the one room and the second rule stands open under them with nothing on it, and a rule that comes back empty opens nothing.
 
 Six rows are ruled on the paper headed with what this holding does not know, and every one of them is bare, and there is nothing cut for a seventh below them, and the four things anybody has ever asked a seventh row for are not going to be cut on a morning when a man has put a piece of iron into a woman's water on purpose. Four lines stand under two words in that corner and have never taken a word, and the terms sheet carries a third column, ruled and empty, under a title nobody has improved.
 

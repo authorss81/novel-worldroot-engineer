@@ -12,13 +12,13 @@ The clerk read the wall at nine out of the book and then said what he had said e
 
 **One thousand and one hundred and eighty-eight hundredweight.**
 
-**"Five off, and Wednesday is an odd morning, and it is the three hundred and eighty-seventh of the run,"** he said. **"A hundred and eighty-two and a hundred and seventy-two, and that is three hundred and fifty-four, and I have said that sum out loud twice this week to two different people and neither of them has written it down."**
+**"The three hundred and eighty-seventh of the run is on that wall and it is five off, and Wednesday is an odd morning,"** he said. **"Three hundred and fifty-four is what the two halves come to, and the halves are a hundred and eighty-two and a hundred and seventy-two. I have said that sum out loud twice this week to two different people and neither of them wrote it down, and I would rather it went down than that I said it."**
 
-The four bodies of households are at three hundred and eighty-five on the long sheet and the clause beneath it in the smaller hand carries the three hundred and eighty-fourth out of three hundred and eighty-sixth, one figure either side of the one on the line. The near board says seven hundred and seventy-one and the far one says eight hundred and eighteen, and the drawer behind the near one is shut and the key to it is on its nail in the door of the one room.
+On the long sheet the four bodies of households are at three hundred and eighty-five, and the small hand under the line carries the three hundred and eighty-fourth out of three hundred and eighty-sixth, one below and one above. Seven hundred and seventy-one is on the near board and eight hundred and eighteen on the far one, and the drawer behind the near board is shut, and its key is on a nail in the one room door where it has been all morning.
 
 Tova Reed read the three ages at the seed house door at half past ten, and she read them off the rack which she had brought out to the step, and she read them facing the yard and not facing the yard, and she said both of those things before she started.
 
-**"Two hundred and eighty-one days on the register form,"** she said. **"A hundred and eighty-seven on the charter behind it. Two hundred and seventy-five where the second ruled line is in Silling's own book, and that one is bare, and it has been bare since before the three of us were at this table."**
+**"Two hundred and eighty-one days on the register form,"** she said. **"The charter is a hundred and eighty-seven. Silling's second ruled line is two hundred and seventy-five, and it has been bare since before the three of us were at this table, and nobody has ever come at me about it, and that is worse than somebody coming at me."**
 
 **"You have not looked at us once,"** the man of about fifty said.
 

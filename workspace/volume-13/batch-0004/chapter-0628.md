@@ -1,6 +1,6 @@
 # Chapter 628
 
-## The First Of The Next Thirty, And A Joint That Was Cut With the Taper the Right Way Round
+## The First Of The Seventeenth, And A Joint That Was Cut With The Taper The Right Way Round
 
 Sunday was the second morning of the joint and the water stayed off at the main until half past eleven, and the yard did the walk to the well house again and nobody pretended it was a different walk.
 
@@ -24,7 +24,7 @@ The water came on at half past eleven and the woman of about thirty-eight of Mar
 
 Marek came out of the tap house at noon and stood in the middle of the yard in the sun and did not sit down, and this is the second morning in a row he has come out of a door and stood in the middle of the yard, and the yard has stopped arranging its morning around that.
 
-Renn Ashby read the run at seven in the doorway with the page turned to him and the stone on the corner of the board, and three voices went with him on the last sentence, and he read it correctly and said nothing about how many or how few.
+Renn Ashby stood in the doorway at seven with the second book open in both hands and a stone holding the corner against the wind, and three voices came in on the last sentence of it, and he got the figure right and then said nothing at all about how many had come with him.
 
 **"One hundred and sixty-six mornings of three hundred and fifteen,"** he said. **"It is not a rate. One side of it goes on by a single and the other goes on by a pair, and a yard that hears it on a Sunday and not on a Saturday is hearing two different years of a thing and not one thing."**
 
@@ -34,13 +34,13 @@ The clerk read the wall at nine and the date on the slate by the tap said the fi
 
 **One thousand and one hundred and ninety-four hundredweight.**
 
-**"Five off, and it is an odd morning, and this is the three hundred and ninety-first of the run,"** he said. **"A hundred and eighty-four and a hundred and seventy-four, and that is three hundred and fifty-eight, and I have added them out loud this morning for the first time since Friday and I have added them once."**
+**"The run is at its three hundred and ninety-first and it is five off, and it is an odd morning, which means the pair on the board is the one for today,"** he said. **"A hundred and eighty-four, and a hundred and seventy-four, and three hundred and fifty-eight is the whole of it. I have added those two out loud this morning for the first time since Friday and I have added them once, and once is enough."**
 
-The four bodies of households stand at three hundred and eighty-nine on the long sheet, and the clause in the smaller hand under it takes the three hundred and eighty-eighth out of three hundred and ninetieth, one figure either side of the one on the line. The near board says seven hundred and seventy-five and the far one eight hundred and twenty-two, and the drawer behind the near one stood shut at every hour of the morning the water came back on, and the key to it stood on its nail in the one room door at every hour of it.
+The four bodies of households are at three hundred and eighty-nine, and the clause under that line, in a smaller hand, takes the three hundred and eighty-eighth out of three hundred and ninetieth, one either side of the figure on the line itself. Eight hundred and twenty-two stands on the far board this morning and seven hundred and seventy-five on the near one, and the drawer behind the near board stood shut at every hour of a morning when the water came back on, and the key to it was on its nail in the one room door at every hour of it.
 
 The clerk read the three ages at eleven, all three of them, in the one room, in the order they are in the rack, at the same hour, with the door shut and the yard standing outside it and nobody talking.
 
-**"In the order they are in the rack: two hundred and eighty-five days on the register form, a hundred and ninety-one on the charter behind it, and two hundred and seventy-nine on the second ruled line in Silling's own book,"** he said. **"And that one is bare, and it is the last figure in that rack and I am not going to go round the room with it."**
+**"In the order they are in the rack, and no other order: two hundred and eighty-five days on the register form, a hundred and ninety-one on the charter behind it, and two hundred and seventy-nine on the second ruled line in Silling's own book,"** he said. **"And that one is bare, and it is the last figure in that rack and I am not going to go round the room with it."**
 
 **"You have not gone round the room with it on any of the ten mornings behind this one,"** Nia Vale said.
 
@@ -68,7 +68,7 @@ Marek did not say the two things on Sunday either, and he gave a reason for the 
 
 She said that was fair and went in.
 
-There are three sheets on the long table. The first has been face up for eighty-eight days, the second is folded, and the third is headed with a name and dated and signed and sealed. Around each one there is a strip of board about the width of two hands, and it is the most careful thing anybody in this holding does, and no column has been ruled under any of the three in any of the four books. Fifty-three requests and fifty-three section-nine notes are in their two columns, and this holding's book has seven entered sessions, and Sunday is not one of them.
+There are three sheets on the long table. The first has lain face up for eighty-eight days. The second is folded. The third carries a name, a date, a signature and a seal, and nobody in this yard has ever found the thing wrong with it. Two hands of bare board stand either side of each sheet, and that is the most careful piece of work anybody does here, and in four books there is not a ruled column under any of them. Fifty-three requests and fifty-three section-nine notes stand in their two columns, and seven sessions are entered in this holding's book, and Sunday is not one of them.
 
 The board in that room carries thirty-nine blanks and the rule standing open and empty underneath them, and a rule that comes back empty opens nothing.
 
@@ -76,7 +76,7 @@ Six ruled rows are set against what this holding does not know, and all of them 
 
 The compost line still reads paid against twenty-nine and has been discharged in nothing, and a Sunday is not an interval, and it will not move for twenty-six mornings. Fifteen lines are in the use log and the sixteenth is not written, and the barrow says eleven journeys, and eleven is a floor.
 
-The man of about seventy was not fetched on Sunday and nobody put a question to him, and his twenty-nine fetchings stand where four years ago left them, and the door nine hundred yards off carries sixty-six in its seventh column, and it was not read today, and it has one reading left in the whole of what this holding has left to give it.
+Nobody went for the man of about seventy this morning and nothing was put to him. Twenty-nine fetchings is where four years ago left him, and the seventh column of the door nine hundred yards off still carries sixty-six. It was not read today, and there is one reading left in it for the whole of what this holding has left to give, and nobody in this yard has claimed it.
 
 No rung of that ladder was climbed today and the two people belonging to it go on carrying no figure at all. The offer lying on the low board has not been dated, read out, moved, taken up or taken back. Nothing stands in the ring of bare ground and no dimension has ever been given it, and what is standing on the low field is a different piece of ground and the two have never been added together.
 

@@ -34,7 +34,7 @@ The three ages went out on a slate and went as far as the gate.
 
 The clerk wrote them at half past eight because he could say them better than he could be heard saying them, and Sera Quill carried the slate out to the gate on account of the woman of about thirty-eight being at the tap, and the man of about fifty read it standing with his hand on the bar.
 
-**"Two hundred and seventy-seven days on that form. A hundred and eighty-three on the charter behind it. Two hundred and seventy-one where the second ruled line is in Silling's own book, and that one is bare and nothing is owed on it."**
+**"Two hundred and seventy-seven days, and that is the register form. The charter behind it is a hundred and eighty-three. Silling's own second ruled line is two hundred and seventy-one days, and nothing has ever been put on it, and nothing is owed on it either."**
 
 He read it twice, the second time because he said the middle one was not the one he had expected in the middle, and the slate went back to the one room and was read again at the wall at nine by the woman of about thirty-eight of Marden, and the two readings were the same three figures and the yard checked them against each other for a while and then left it alone.
 

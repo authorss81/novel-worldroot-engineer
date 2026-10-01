@@ -48,7 +48,7 @@ The clerk put his hand flat on the rack and told the yard the three figures behi
 
 So he read them at noon in the one room, out of the rack, with a finger, and slowly.
 
-**"Two hundred and eighty-two days on the register form. A hundred and eighty-eight on the charter behind it. Two hundred and seventy-six where the second ruled line is in Silling's own book, and that one is bare and has been bare for the whole four years I have been coming in here."**
+**"The one that is bare is the second ruled line in Silling's own book, and it says two hundred and seventy-six days. The register form is two hundred and eighty-two. The charter behind it is a hundred and eighty-eight, and I have been coming in here four years and that line has not had a thing on it for any of them."**
 
 **"You are the first person in this holding who has read them and then said how long they have been empty,"** the clerk said.
 
@@ -86,7 +86,7 @@ Thirty-nine blanks are on the board in the one room and its second rule is open 
 
 Paid is written in front of twenty-nine on the compost line and nothing has gone out in it, and it will not go out for twenty-six mornings, and a load coming up a road has no more to do with that line than a man standing in a gateway. The log on its shelf holds fifteen lines and has never had a sixteenth, and the barrow says eleven journeys, and eleven is a floor.
 
-Nobody fetched the man of about seventy and nobody put a question to him, and his twenty-nine fetchings stand where four years ago left them. The seventh column of a door nine hundred yards off carries sixty-six and it has not been read on this morning and does not come down.
+Nobody went for the man of about seventy and nothing was put to him, and the twenty-nine fetchings of him are where four years ago left them. The seventh column of a door nine hundred yards off carries sixty-six, and it was not read on this morning, and it does not come down.
 
 Not one rung of that ladder was climbed and no figure is written against either of the two people belonging to it. The offer on the low board is undated, and it has not been moved, taken up or taken back. The ring of bare ground took no foot and carries no figure, and what is standing on the low field is a different piece of ground and the two are never added together.
 

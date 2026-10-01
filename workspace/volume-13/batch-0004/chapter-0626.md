@@ -24,7 +24,7 @@ The clerk read the wall at nine and had to stop in the middle of it.
 
 He read the book and the two figures were a hundred and eighty-three and a hundred and seventy-three, and the figure on the wall was a hundred and eighty-two and a hundred and seventy-three, and nobody could say which of them had been on the wall since dark, and the clerk wrote both on the slate and neither on the wall, and left it.
 
-Three hundred and eighty-seven is chalked on the long sheet that belongs to the four bodies of households, and the small hand under the line makes the three hundred and eighty-sixth out of three hundred and eighty-eighth. The board at this end of the wall says seven hundred and seventy-three and the one at the far end says eight hundred and twenty, and behind the near board there is a drawer that is shut, and its key is on a nail in the frame of the one room door.
+Three hundred and eighty-seven is chalked on the long sheet that belongs to the four bodies of households, and the small hand under the line takes the three hundred and eighty-sixth out of three hundred and eighty-eighth. Seven hundred and seventy-three is on the board at this end of the wall and eight hundred and twenty on the one at the far end, and a drawer is let into the masonry behind the near board and has stayed shut, and its key hangs on a nail inside the frame of the one room door.
 
 Nia Vale read the three ages at eleven with her coat buttoned to the throat and her right elbow held hard down against her side, and she read them one at a time off the rack with the arm that was free, and she would not take the folded page out of the inside pocket to hold it flat, and Harlan Vetch made a joke about it that was not unkind.
 

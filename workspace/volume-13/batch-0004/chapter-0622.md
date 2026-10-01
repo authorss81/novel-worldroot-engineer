@@ -32,7 +32,7 @@ The wall was read at nine by the man of about fifty, who had not read it in his 
 
 **One thousand and one hundred and eighty-five hundredweight.**
 
-**"Five off yesterday, and Monday is an odd morning, and it is the three hundred and eighty-fifth figure of the run,"** he said. **"A hundred and eighty-one and a hundred and seventy-one, and that is three hundred and fifty-two, and I have written it on the back of a piece of paper in my own hand and I am not going to read the paper out because reading the paper out is not what I was asked to do."**
+**"Monday is an odd morning and it is five off yesterday, and the three hundred and eighty-fifth of the run is on the wall above me,"** he said. **"The halves are a hundred and eighty-one and a hundred and seventy-one, and they make three hundred and fifty-two. I have written it on the back of a piece of paper in my own hand and I am not going to read the paper out, because reading the paper out is not what I was asked to do."**
 
 **"You were asked to read the wall,"** Hesta Lyle said.
 
