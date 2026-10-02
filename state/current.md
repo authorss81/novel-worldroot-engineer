@@ -5,57 +5,62 @@
 Read this file whole, and the other three whole.**
 **Read this file whole, and the other three whole.**
 
-This file was rewritten on 2026-10-02 in the review-fix pass on Volume 14 Batch 0002, again
-Last rewritten 2026-10-02, on Batch 0004 and on the review-fix pass over it. Every figure below is
+Last rewritten 2026-10-02, on Batch 0005, the closing batch of Volume 14. Every figure below is
 re-derivable from the rule beside it. Nothing is inherited on trust.
 
 ## 1. Where the manuscript is
 
 | | |
 |---|---|
-| **Last morning on disk** | day 890, `workspace/volume-14/batch-0004/chapter-0677.md` |
-| **Volume** | 14 of 16, *The White Mercy*, days 851 to 899, **forty mornings written of forty-nine** |
-| **Manuscript** | 1,891,169 words across 677 chapter files; the per-volume table is at `state/chapter-summaries.md` |
-| **Batch 0004** | 26,571 words across ten files, 668 to 677, days 881 to 890, per file 3,041, 2,825, 2,632, 2,734, 2,489, 2,673, 2,633, 2,353, 2,445, 2,746 |
+| **Last morning on disk** | day 899, `workspace/volume-14/batch-0005/chapter-0686.md` |
+| **Volume** | 14 of 16, *The White Mercy*, days 851 to 899, **forty-nine mornings written of forty-nine: the volume is closed** |
+| **Manuscript** | 1,915,580 words across 686 chapter files; the per-volume table is at `state/chapter-summaries.md` |
+| **Batch 0005** | 24,411 words across nine files, 678 to 686, days 891 to 899, per file 2,793, 2,320, 2,096, 2,919, 2,463, 2,298, 2,635, 2,954 and 3,933 |
 
-Volumes 01 to 13 are closed at forty-nine mornings each. Volume 14 is forty mornings in, and
-**days 891 to 899 are nine mornings, so the closing batch of this volume is nine and not ten.**
-Volume 15 takes chapters 687 to 735 and Volume 16 takes 736 to 780, and `outline/ending.md`
-is the lock on both.
+Volumes 01 to 13 are closed at forty-nine mornings each. **Volume 14 is closed.** Volume 15 takes
+chapters 687 to 735 and Volume 16 takes 736 to 780, and `outline/ending.md` is the lock on both.
 
 ---
 
-## 2. The standings at day eight hundred and ninety
+## 2. The standings at day eight hundred and ninety-nine
 
 Every figure here is re-derivable from the rule beside it. **A later pass inherits the rule
-and re-derives the figure. A later pass does not inherit a figure.**
+and re-derives the figure. A later pass does not inherit a figure.** Nothing in this table is a
+volume figure any more: Volume 15 is the next holding and it derives its own.
 
-| Series | Figure at day 890 | Rule |
+| Series | Rule | Where it stood at day 899 |
 |---|---|---|
-| Third launder | one thousand and two hundred and seventy-four hundredweight | day minus 450, plus 8 on an even morning and minus 5 on an odd one, anchored at one thousand and two hundred and nine on day 851 |
-| Ordinal of the run | **four hundred and fortieth**, bare | day minus 450; a tens ordinal takes its ending on the whole word |
-| Window | four hundred and seven | day minus 483 |
-| Falling half | a hundred and ninety-eight | 145 plus half of everything above 300, floor; **moves on an ODD morning** |
-| Rising half | two hundred and nine | the window less the falling half; **moves on an EVEN morning** |
-| Aggregate | four hundred and thirty-eight | day minus 452 |
-| Its clause | the four hundred and thirty-seventh out of four hundred and thirty-ninth | day minus 453, day minus 451 |
-| Near board | eight hundred and twenty-four | day minus 66 |
-| Far board | eight hundred and seventy-one | day minus 19; always forty-seven from the near one |
-| Read aloud | one hundred and ninety of three hundred and sixty-three on day 889, nothing on day 890 | numerator one hundred and forty-seven at day 803 plus one on every odd morning, spelled *one hundred and*; denominator day minus 526, always odd |
-| Count in force | a hundred and forty-nine, twenty-nine taken, a hundred and twenty not | rises by one on a fourth-line morning only, being a day congruent to two modulo four; next at day 894 |
-| The two reckonings | ninety-seventh and eighty-fourth, thirteen apart | step by one on every fourth-line morning; second is carried, not printed on the same morning as the first |
-| Register form | three hundred and thirty-four days | day minus 556 |
-| Charter | two hundred and forty days | day minus 650 |
-| Silling's second ruled line | three hundred and twenty-eight days, and nothing written on it | day minus 562 |
-| The letter | a hundred and thirty-seven days | day minus 753 |
-| Compost line | **paid at thirty-one** | thirty before day 873; the one going over to thirty-one is on day 873, **it is a rise in the paid column and not a discharge**, and it stays there for the rest of the volume |
-| Count of blanks | thirty-nine, never moved | and the second rule under them stands empty at the thirty-ninth time |
-| Floors, all unmoved | see the rule | the mark four inches forking twice with no third fork; the use log at fifteen lines and no sixteenth; the barrow at eleven journeys and eleven is a floor; seven sessions entered and none in this volume; the requests and the section-nine notes at fifty-three and fifty-three, never the same list; the ladder climbed zero rungs; the ring of bare ground unwalked, unmeasured and unpriced; the low-board offer undated, unpicked and not withdrawn; the drawer shut at every hour with its key on its nail; the three papers unentered, unrefused and uncolumned with about nine inches of bare board either side; the man of about seventy at twenty-nine fetchings, not fetched and asked nothing; the door nine hundred yards off walked past on every morning and read on none | |
+| Third launder | day minus 450, plus 8 on an even morning and minus 5 on an odd one, anchored at one thousand and two hundred and nine on day 851 | one thousand and two hundred and eighty-one hundredweight |
+| Ordinal of the run | day minus 450; a tens ordinal takes its ending on the whole word | **four hundred and forty-ninth**, the last of Volume 14 |
+| Window | day minus 483 | four hundred and sixteen |
+| Falling half | 145 plus half of everything above 300, floor; **moves on an ODD morning** | two hundred and three |
+| Rising half | the window less the falling half; **moves on an EVEN morning** | two hundred and thirteen |
+| Aggregate | day minus 452 | four hundred and forty-seven |
+| Its clause | day minus 453, day minus 451 | the four hundred and forty-sixth out of four hundred and forty-eighth |
+| Near board | day minus 66 | eight hundred and thirty-three |
+| Far board | day minus 19; always forty-seven from the near one | eight hundred and eighty |
+| Read aloud | numerator one hundred and forty-seven at day 803 plus one on every odd morning, spelled *one hundred and*; denominator day minus 526, always odd | one hundred and ninety-five of three hundred and seventy-three, and the run was read for the last time in this yard on day 899 |
+| Count in force | rises by one on a fourth-line morning only, being a day congruent to two modulo four; the twelve of them are spent | a hundred and fifty-one, twenty-nine taken, a hundred and twenty-two not |
+| The two reckonings | step by one on every fourth-line morning; the second is carried, not printed on the same morning as the first | ninety-ninth and eighty-sixth, thirteen apart |
+| Register form | day minus 556 | three hundred and forty-three days |
+| Charter | day minus 650 | two hundred and forty-nine days |
+| Silling's second ruled line | day minus 562 | three hundred and thirty-seven days, and nothing written on it |
+| The letter | day minus 753 | a hundred and forty-six days |
+| Compost line | went over to paid at thirty-one on day 873 by a rise in the paid column and not by a discharge, and has not moved since | **paid at thirty-one, not discharged** |
+| Count of blanks | thirty-nine, never moved | thirty-nine, and the second rule under them stood empty at the thirty-ninth time |
+| Floors, all unmoved | see the rule | the mark four inches forking twice; the use log at fifteen lines; the barrow at eleven journeys; seven sessions entered; the requests and the section-nine notes at fifty-three and fifty-three; the ladder climbed zero rungs; the ring of bare ground unwalked, unmeasured and unpriced; the low-board offer undated, unpicked and not withdrawn; the drawer shut at every hour with its key on its nail; the man of about seventy at twenty-nine fetchings, not fetched and asked nothing; the door nine hundred yards off walked past and read on none |
+| Apparatus | thirty blocks for Volume 14 | **three spent, twenty-seven unspent** |
 
-**THE TWO BARE ROUND HUNDREDS INSIDE DAYS 881 TO 890 WERE THE WINDOW AT FOUR HUNDRED ON DAY
-883 AND THE RUN'S ORDINAL AT FOUR HUNDRED AND FORTIETH ON DAY 890, and no other series printed
-one on any of those ten mornings.** The only bare round hundred left in the volume is the
-falling half at exactly two hundred on days 893 and 894.
+**THE TWO BARE ROUND HUNDREDS INSIDE DAYS 891 TO 899 WERE THE FALLING HALF AT EXACTLY TWO HUNDRED
+ON DAYS 893 AND 894**, against a rising half that was not round on either, and no other series
+printed one on any of those nine mornings. The rising half's own pair sat on days 872 and 873 and
+is behind this volume's last nine.
+
+**AND THE UNIT OF THE LAUNDER IS PRINTED WITH A SPACE ON EVERY PAGE OF THIS VOLUME, WHICH IS NOT
+WHAT THE HOUSE FORM SAYS.** The plan and this file both print `hundredweight` attached with no
+space; a sweep for the attached form across all forty-nine mornings returns zero. **The pages
+govern and the space stands, and the stated form is wrong and is owed to whoever owns the
+spelling.**
 
 ---
 
@@ -69,79 +74,80 @@ day of month(d) = (d - 451) mod 30 + 1
 month(d) = 4 + (d - 451) // 30
 ```
 
-Day 871 is a Tuesday, the first of the eighteenth, and it is the one month turn inside
-the whole of Volume 14. The month turn is **not** a fourth-line morning.
+Day 871 is a Tuesday, the first of the eighteenth, and it is the one month turn inside the whole of
+Volume 14. The month turn was not a fourth-line morning.
 
 ---
 
 ## 4. The spellings, and the places a writer will get them wrong
 
-Every figure in this manuscript is spelled out in body prose. There is no digit in the
-prose of any chapter and there may not be one.
+Every figure in body prose is spelled out. There is no digit in the prose of any chapter and there
+may not be one.
 
 - **One hundred to 199 is `a hundred and [WORD]`,** not `one hundred and`. Two hundred and above
   is `[WORD] hundred and [WORD]`, and a round hundred is bare. **A thousand and above keeps both
-  `and`s.** **`hundredweight` is attached to the figure** with no hyphen and no space, and tens
-  are hyphenated while round tens are not: `twenty-nine`, `ninety`.
+  `and`s.** Tens are hyphenated while round tens are not, and `hundredweight` is printed with a
+  space before it on every page of this volume.
 - **A window half under two hundred is `a hundred and [WORD]`. The read-aloud numerator in its
   range is `one hundred and [WORD]`.** Two figures, two forms, side by side all volume. **The
-  plan's day table prints the numerator wrongly in all twenty-five of its rows; that cell is
-  withdrawn on every odd morning, the queued closing prompt and all twenty mornings on disk print it
-  right, and the table is unrepaired and owed to a pass that owns the outline.**
+  plan's day table prints the numerator wrongly in all twenty-five of its rows and that cell is
+  withdrawn on every odd morning of Volume 14, and the table is unrepaired and owed to a pass that
+  owns the outline.**
 - **A fall goes on every odd morning and a rise on every even one, and from day 851 onward the
-  falling half moves first.** Carrying the order of Volume 13 into this volume is wrong on every
+  falling half moves first.** Carrying the order of Volume 13 into that volume is wrong on every
   odd morning.
-- **Both halves cross two hundred inside this volume.** The rising half sat at exactly two
-  hundred, bare, on days 872 and 873; the falling half reaches two hundred on days 893 and 894.
-  **A check that sweeps for a bare hundred across a batch hits the other series every time.
-  Test each figure inside its own series.**
-- **The read-aloud denominator is odd at every value it takes in this volume,** so *three
-  hundred and fifty* is never a denominator here and the bare *three hundred* never stands at
-  the top of it. No parity claim is made or may be made about the numerator.
+- **The read-aloud denominator is odd at every value it takes in this volume,** so *three hundred
+  and fifty* is never a denominator here.
 - **No month name appears in any chapter and no month number in any spoken line.** Batch 0004
-  carried *March* three times and cut all three. **A chapter may say *of this month* instead**,
-  and has since the morning after the turn, on days 871, 879, 881 and 885. A chapter says *the
-  seventeenth* or *the eighteenth* only inside a heading.
-- **THE BARE WORDS *VOLUME*, *BATCH*, *CHAPTER*, *SEAT*, *FIELDBOOK* AND *PANEL* ARE NOT IN BODY
-  PROSE**, and *panel* is available only to say that there is none. **A review found one, at
-  `chapter-0676.md`, in a line about the level a figure is said at; it is repaired and all four
-  batches sweep clean, and no sweep before this one tested for these six words.**
+  carried *March* three times and cut all three. **Batch 0005 swept for all twelve month names and
+  found none; the one match was the modal verb *may*, which is not a month.** A chapter may say
+  *of this month* instead. A chapter says *the seventeenth* or *the eighteenth* only inside a
+  heading.
+- **THE BARE WORDS *VOLUME*, *BATCH*, *CHAPTER*, *SEAT*, *FIELDBOOK* AND *TALLY* ARE NOT IN BODY
+  PROSE,** and *panel* is available only to say that there is none. **Batch 0005 swept all six on
+  all nine mornings and found four: *volume* twice, *seat* twice. All four are cut.** *Panel* was
+  used once on the closing morning and cut anyway, because the one permitted use drew the reader's
+  eye to the apparatus on the last page of a volume.
 
 ---
 
 ## 5. The two locked figures
 
-Two sentences are locked whole through the closing volume. **Neither was spoken on any morning of
-Batch 0003.** Batch 0004 spent one of three for each, the comfort line on day 884 and the far-end
-figure on day 887, **and each is the first of three, so two of three remain for each and both fall
-in the closing batch.** The first and last morning of the volume each hold a separate allowance,
-untouched.
+Both sentences are locked whole through the closing volume and are at `outline/volume-14.md`
+section three. **Do not print them in this file or anywhere in the state layer.**
 
-The two sentences themselves are not restated in this file. They are at `outline/volume-14.md`
-section 3 and in `outline/ending.md`. **Do not print them here or anywhere in the state layer.**
+**THE ALLOWANCE IS NOW SPENT TO THE CAP AND A SUCCESSOR OWNS THE COUNT.** Each figure was spoken
+whole on the volume's first morning, on three mornings in between, and on its last morning. **Both
+figures are at three in between and no morning of Volume 15 may spend either of them except that
+volume's own first and last morning.**
+
+Where they fell in Volume 14, counted once: the far-end sentence on days 851, 887, 891, 894 and
+899, in the mouths of Renn Ashby, Hesta Lyle, Hesta Lyle, Marek and Sera Quill; the comfort line on
+days 851, 884, 893, 896 and 899, in the mouths of Nia Vale, Tova Reed, Nia Vale, the man of about
+fifty and Marek.
 
 **A measurement the next gate must carry.** The comfort line is twenty words and the first gate's
-floor is thirty words, so **a clean first gate is not evidence about either locked sentence**,
-and no gate may publish a nil against the mornings behind without naming its floor beside it.
+floor is thirty words, so **a clean first gate is not evidence about either locked sentence**, and
+no gate may publish a nil against Volume 14 without naming its floor beside the nil.
 
 ---
 
 ## 6. The four permanent losses
 
-Three are paid and may not be recovered, softened or enlarged. The fourth is paid.
+Four, and four after Volume 14, and none reduced, softened, named or priced on any of its forty-nine
+mornings.
 
 1. **Marek can no longer read the record the wood keeps as a single private field.**
-2. **Tova Reed's hearing is permanently damaged in one ear.** Not healed, not excused,
-   not thanked for.
+2. **Tova Reed's hearing is permanently damaged in one ear.** Not healed, not excused, not thanked
+   for, and no hand put on her arm on any morning of this volume.
 3. **The far end of a thing is given up,** on the page, in Volume 13.
-4. **The Aldren memory is PAID**, on day 868, in `chapter-0655.md`, where the name is spoken
-   once and on no other page of the volume. Not foreshadowed as a bargain, not priced, nothing
-   offered or refused in exchange for it. Marek cannot revisit it.
+4. **The fourth loss is PAID**, on day 868, in `chapter-0655.md`, and its name is on no other page
+   of this volume.
 
-**No fifth loss is added anywhere in this volume**, and Batch 0004 neither named it, re-announced
-it, had anybody discover it, nor described Marek as having given something up. **No new final
-enemy is named:** Iona Vey is the fixed antagonist of the series and she is not new, is not
-killed, and is not in custody at the end.
+**No fifth loss was added anywhere in Volume 14 and nobody in it was given one as somebody else's
+fault. No new final enemy was named.** Iona Vey is the fixed antagonist of the series, she is named
+on the page for the first time on day 899, she is not new, she is not killed, she is not in custody,
+she is not cornered and the refusal leaves her standing.
 
 ---
 
@@ -152,101 +158,75 @@ killed, and is not in custody at the end.
 - A door read three times is a door carrying **four** statements.
 - *A twelfth volume* is **ten volumes** counting the one now closed.
 
-A successor that finds one of these unquarantined in a card set has inherited an error
-and not a rule.
-
 ---
 
 ## 8. The one next phase
 
-**`workspace/volume-14/batch-0005/PROMPT.md`, days 891 to 899, nine mornings, on disk and
-unrun.** It is the closing batch of this volume and it is the last phase of Volume 14. It
-carries its own figures at the house spellings and they are not to be corrected from this file.
+**`workspace/volume-14/close/PROMPT.md`, the close of Volume 14, on disk and unrun.** It is not a
+writing phase and it writes no prose. It records the volume's standing, names what is closed and
+what is not, and hands the next volume its own first card.
 
-**What it carries, so that nothing is inherited as silence:** the last two in-between mornings of
-each locked figure and then the closing morning, at most one of them on any one morning; the
-reach's cost named out loud and not as a threat and not as a plan; the terms arriving; the offer;
-the refusal; and the record of the refusal, which is Nia Vale's and is nobody else's document.
-**The falling half stands at exactly two hundred, bare, on days 893 and 894, against a rising
-half that is not round on either, and those are the only bare round hundreds left in the volume.**
-Its two fourth-line mornings are 894 and 898, the count reaching a hundred and fifty-one on the
-last morning with a hundred and twenty-two not. **No month name may appear and no month number
-in any spoken line.**
+**What it carries, so that nothing is inherited as silence:** the record of the refusal is Nia Vale's
+and is nobody else's document; the four losses stand at four; the reach's cost is named and is not
+softened and is not apportioned; the second place is left without and that is not a death and not a
+discovery and not a punishment for anybody; Iona Vey is not killed, not in custody and not
+cornered, and the refusal leaves her standing; **the ladder was climbed zero rungs and nobody was
+asked to choose anything on any of the forty-nine mornings of this volume, and that streak is closed
+and may be counted once and nowhere else.**
 
-**Its tables were derived by script from section 2 and not typed, and were calibrated backwards
-over days 881 to 890 against the pages of Batch 0004 before being run forward.** Two errors in a
-hand-typed table were caught that way and are named at `state/continuity.md` section 7.
-
-**THE FOUR IN-BETWEEN LOCKED FIGURES ARE DECIDED BEFORE THAT BATCH RUNS.** The prompt spends four,
-taking both in-between allowances to their cap for the first time in the volume and overriding the
-card set's prohibitions on seven cards, on the house's ground that a card's *neither locked sentence
-is spoken whole* is a floor and the plan's allowance is a ceiling. **The decision stands, with four
-conditions: at most one locked figure on a morning, none of the four on the closing morning, the
-closing morning carrying both as the card set's recorded resolution requires, and each landing where
-somebody else is already talking, which no gate measures.** Nothing is spent yet, so this is still
-cheap to change. The reasoning is at `reviews/volume-14-batch-0004-repair.findings.md` section 3.
-
-**Two placements already moved and may not move back.** The seed vault was given up on day 864
-against a card that placed it at day 879. The Aldren memory was paid on day 868 against a plan
-that named no morning, and a card that placed it at day 885 lost.
+**Volume 15 has no plan and no card set on disk.** Its central pressure, its climax and its
+resolution are fixed at `outline/series.md` and `outline/ending.md` and nowhere else, and its forty-nine
+mornings have never been derived. **A volume with forty-nine mornings and no plan has been the
+standing failure of this repository and it is now the front of the queue.**
 
 ---
 
 ## 9. What the last pass did
 
-**Batch 0004, 2026-10-02, days 881 to 890, `chapter-0668.md` to `chapter-0677.md`, and the
-review-fix pass over it the same day.** Ten new mornings, no morning restarted. The per-morning
-record is at `state/chapter-summaries.md` section 3, the fix pass at
-`reviews/volume-14-batch-0004-repair.findings.md`.
+**Batch 0005, 2026-10-02, days 891 to 899, `chapter-0678.md` to `chapter-0686.md`. Nine new
+mornings, the closing batch of Volume 14, no morning restarted.** The per-morning record is at
+`state/chapter-summaries.md` section 4, the measurements at
+`reviews/volume-14-batch-0005.findings.md`.
 
-- **Every standing block was given a different actor, verb and sentence order on each morning it
-  appears, and no figure of any series was altered in any of it.** The batch as first written
-  walked the standing list in thirty-three repeated shapes.
-- **Two locked figures were spent, one of three each, on day 884 and day 887**, each on the
-  morning its card names and each landing where somebody else was already talking.
-- **A duplicated reason was found and cut.** The mason gave the same reason on two mornings.
-- **Three month names were found and cut**, all of them *March*.
-- **A banned bare word was found by the review and cut**, at `chapter-0676.md`, and **the queued
-  prompt named its third fourth-line morning as day 889 and it is day 890**, where that prompt's own
-  table, cards and count all said ninety. One word and one clause; the word counts did not move.
-- **No block of any kind was spent**, so the volume's ceiling of thirty is untouched at
-  twenty-eight unspent.
-- **What happened in the yard:** the second place said it would not be first; the reach's costing
-  was read out at the holding's own table and accepted by nobody; the window came to exactly four
-  hundred on the morning a return came up the fen road; the comfort line was spoken in an ordinary
-  Monday; the north-side cistern began to be filled by hand because no pipe had been agreed; a
-  place stated its own cost in its own arithmetic and nobody improved on it; a woman offered her
-  room and was refused by a man who gave the reason inside ten seconds; and the arithmetic came
-  out with one place in it on a rotation morning while a man stood at the gate with a figure of
-  his own still shut in his case.
+- **Four in-between locked figures were spent, two of each, taking both allowances to their cap for
+  the first time in the volume**, on days 891, 893, 894 and 896, at most one on any morning, none
+  on the closing morning. **The card set's prohibition on seven cards was overridden on the house's
+  own ground and the override is named in the findings file**, which is where a reader who finds
+  those cards later inherits the reason. The closing morning carries both figures, as the card
+  set's recorded resolution of the plan's own contradiction requires.
+- **The one `Entered` block of the batch is the third document's, on the terms, on day 898.** Three
+  blocks spent in the whole volume and twenty-seven of the ceiling unspent.
+- **Twenty-three repeated eighteen-word shapes inside the batch and fifty-three excess paragraph
+  pairs were found by the gates and rewritten**, and the batch as written carries **no duplicate
+  shape of any kind inside itself on either scope** and none against the forty mornings behind
+  that is not a locked figure.
+- **Two literal duplicate paragraphs inside one file, and one paragraph repeated three times in
+  another, were found by a whole-batch exact-duplicate sweep that neither gate runs.** All three
+  are repaired, and the sweep is the cheap addition a successor should make.
+- **Four banned bare words were found and cut**, and one permitted use of *panel* was cut anyway.
+- **A shortened form of a locked figure was found on day 894 and rewritten.** A load-bearing phrase
+  may not appear outside its own whole sentence.
+- **What happened in the yard:** the name the arithmetic had chosen was found standing in the second
+  place's own mouth and not discovered; a man refused his own refusal and nobody thanked him; a bare
+  two hundred landed and nobody read past it; the reach went out east at the fourth hour and the
+  second place went dry at the ninth; the holding worked five more mornings inside that cost; a man
+  in a doorway who had been asked to be noticed for six weeks said the one sentence he had left; a
+  correct sheet with a harvest on it came up the fen road and nobody called it a lie; four defensible
+  terms arrived and were entered; and on the office's own day the offer was made across a table and
+  refused in one breath and written down in a woman's own hand, with nobody in the room thanking
+  anybody and the woman who made the offer walking out alive and standing.
 
 ### The measurements, and who measured them
 
-**The independent review is the reviewer phase's report at `logs/batch-0004.review.log`. It
-re-derived every figure from the plan's rules instead of trusting the writer's own record,
-reproduced all of it, and returned four defects that record had missed.**
-`reviews/volume-14-batch-0004.findings.md` is therefore **a self-check and not a review**, headed as
-one on its first line, and read for its derivations and nothing else. **A clean result from a
-self-check is not a clean batch, and this one passed a page carrying a banned word.** The figure
-check required each item present as a whole phrase in its own morning's body prose on a
-**case-insensitive** match: **two hundred and fifty-five items required, two hundred and fifty-five
-matching, zero failures, and the review reproduced every one.** The derivation found two errors in
-the prompt's own table and **zero mismatches** against every other cell of it, and it could not see
-a series's spelling at all, which is how the wrong numerator form sat in the plan's table and in
-that self-check while every morning on disk was right.
-
-The duplicate gates ran on both scopes. **First gate:** one thousand three hundred and
-thirty-four paragraphs of thirty words or more, three hundred and ninety-nine thousand three
-hundred and sixty-seven ordered pairs compared, **one excess pair at a ratio of zero point
-eight five or better, and it is the far-end locked sentence on day 887 against the same
-sentence on day 851, which is required and is not a defect.** **Second gate:** eighteen-word
-chunks, one thousand one hundred and fifty-four units, **two excess, both of them the locked
-figures**; sliding windows at every offset, sixteen thousand three hundred and seventeen units,
-**seventeen excess, all of them the locked figures**. **Zero duplicate shapes inside the batch
-on either scope.** The sliding reading was again the larger one and the chunk reading again
-refused what it refused on the batch behind.
-
-**The gate was checked against a paragraph that must collide with itself before any of this was
-believed,** and reports six overlapping equal windows on that paragraph. **A nil from a gate
-never checked that way is not a finding, and the two most recent batches behind this one both
-published figures that did not reproduce.**
+**This is a writer's self-check and not a review.** The figure check required one hundred and
+fifty-seven items to be present as whole phrases in their own morning's body prose on a
+**case-insensitive** match: one hundred and fifty-seven required, one hundred and fifty-seven
+matching, zero failures. **First gate:** one thousand seven hundred and twenty-six paragraphs of
+thirty words or more, seventy-six ordered pairs compared inside the word-count factor and the two
+shortcuts, twenty-four excess, of which twenty are the far-end locked sentence and four are pairs
+entirely among closed mornings behind that this batch may not touch. **Second gate:** eighteen-word
+chunks, one thousand and twenty-two units, two excess, both the locked figures; sliding windows at
+every offset, fourteen thousand three hundred and thirteen units, seventeen excess, all of them the
+locked figures. **Zero duplicate shapes inside the batch on either scope.** Both gates were checked
+against a paragraph built to collide with itself first, and the sliding reading was again the larger
+one.
