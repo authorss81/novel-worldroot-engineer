@@ -73,10 +73,15 @@ Days 871 to 880, files `chapter-0658.md` to `chapter-0667.md`.
   else.** The launder did not reset at it, the window did not re-anchor, the boards did not
   move toward each other, the three ages did not count it and the letter did not jump, and the
   rotation did not come round because it is not a fourth-line morning.
-- **The compost line fell once, to paid at thirty-one, on day 873, and stands there.** The
+- **The compost line went over once, to paid at thirty-one, on day 873, and stands there.** The
   clerk was first to see it and did not decide it; the interval is in the gate book and not in
-  anybody's head. It is the only figure in the volume that has gone down, and nothing is ever
+  anybody's head. It is the only figure in the volume that has gone up, and nothing is ever
   let out of it.
+- **THE DIRECTION OF THAT ONE IS SETTLED BY THE PAGE, NOT BY THE WORDING, AND THE OPPOSITE WORDING
+  IS WITHDRAWN BY NAME.** The plan and the card set both call this a fall and the only figure
+  that moves downward, and the page has it the other way round. **A successor that finds the two
+  wordings side by side inherits this line and the numbered item in `state/continuity.md` and not
+  the word *down*, and a repair pass may not rewrite the plan or the cards to settle it.**
 - **The rising half sat at exactly two hundred, bare, on days 872 and 873, and stayed above
   two hundred afterwards.** No character treated it as an event and a woman of about
   thirty-eight of Marden gave the moved half first on purpose.
@@ -143,12 +148,35 @@ holding ledger. `Rootway` appears in zero of 667 chapter files. **Volume 14 is
  writing phase**, and the claim that a batch is closed to every pass after the one that
  wrote it has no enforcement on disk and is enforced only by convention.
 5. **The house rule with no genre justification.** Every figure in body prose is spelled
- and there is no digit anywhere in the prose. It is fixed at `outline/volume-14.md`
- section 2 and twenty mornings of this volume and thirteen volumes behind are written
- under it. **It produces the recitative register the review named.** It was **not**
- retired in this pass, because retiring it now would put mornings twenty-one to
- forty-nine of this volume in a different style from mornings one to twenty, and
- because changing it is a house-style decision. A human takes it.
+   and there is no digit anywhere in the prose. It is fixed at `outline/volume-14.md`
+   section 2 and twenty mornings of this volume and thirteen volumes behind are written
+   under it. **It produces the recitative register the review named.** It was **not**
+   retired in this pass, because retiring it now would put mornings twenty-one to
+   forty-nine of this volume in a different style from mornings one to twenty, and
+   because changing it is a house-style decision. A human takes it.
+6. **THE VOLUME 14 PLANNING PHASE CAN NEVER RETIRE ITSELF, AND A WRITING PHASE MAY NOT FIX IT.**
+   `scripts/rescue_overscoped.py` prepended a scope header to
+   `workspace/volume-14/plan/PROMPT.md`, and the retirement guard tests that prompt's **first
+   line** for both words *outline* and *phase*, so it can no longer match. The rescue script
+   re-prepends the header at the top of every invocation, so **removing it does not hold and no
+   prompt edit restores the guard.** The phase has no `.done` and no `.retired`, so it stays
+   eligible: after `batch-0004` the runner selects it again instead of building the volume's
+   closing prompt, and `has_other_incomplete_phase` suppresses `ensure_next_phase` meanwhile,
+   so nothing new is created at all. **Its work is on disk and complete**, forty-nine cards at
+   `outline/batches/volume-14-cards.md` and the first batch prompt beside it. **A writing phase
+   may not forge markers, per item 4, and may not edit `scripts/`, so this pass fixed nothing
+   here and recorded it. The fix belongs to whoever owns the control plane, and until it is
+   made the chain stalls after `batch-0004`.**
+7. **THE REVIEW THAT REPORTED THIS READ ONE MARKER WRONG, AND IT IS RECORDED SO NO SUCCESSOR
+   REPEATS THE FIX.** It reported `batch-0003` as ten finished chapters with no `.done` and
+   therefore at risk of re-dispatch. **That phase is not closed and is not meant to be.** Its
+   `.deferred`, `.checkpoint`, `.wip-conflict`, `.attempts` and expired `.retry-after` are what
+   a phase still inside its review-and-fix cycle looks like from the inside, and the runner
+   writes `.done` and clears all five at completion, after this fix phase returns. **Forging
+   `.done` there would close a phase out from under the gate running it; this pass did not, and
+   cleared nothing either.** The genuinely wrong half of that review was in `state/`, where it
+   read a finished morning and called the phase closed, and that half is fixed in all four
+   state files.
 
 ---
 

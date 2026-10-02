@@ -76,7 +76,9 @@ volume the outline and the pages are the record and this index is a map.
 
 - **871**, Tuesday, the first. The one month turn inside the volume, and it turns a calendar and nothing else.
 - **872**, Wednesday, the second. The rising half comes to exactly two hundred, bare, and the woman of about thirty-eight of Marden says what that is.
-- **873**, Thursday, the third. **The compost line falls to paid at thirty-one**, the only downward figure in forty-nine mornings, and the rising half sits at two hundred a second time.
+- **873**, Thursday, the third. **The compost line goes over to paid at thirty-one**, one more
+  paid than ever before and nothing let out of it, the only figure that has moved off its
+  standing value, and the rising half sits at two hundred a second time.
 - **874**, Friday, the fourth. The sixth of the twelve fourth-line mornings, a return, and
   the launder at exactly one thousand and two hundred and fifty, which nobody reads into.
 - **875**, Saturday, the fifth. A woman from the second place stands in the place the

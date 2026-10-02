@@ -96,7 +96,7 @@ caretaker. `outline/ending.md` is the lock on both.
 this volume, before the offer, on a morning that is neither its first nor its last, and not as
 its climax. The volume does not explain what the root is, and nobody in it is entitled to say.
 
-**At day 880, thirty mornings in.** The compost line has fallen once, to paid at thirty-one,
+**At day 880, thirty mornings in.** The compost line has gone over once, to paid at thirty-one,
 and stands there. Four places want a pipe off one head; the second cannot be reached this
 month, the third has shut its head sluice at the fifth hour, and this holding has become the
 first thing in four years to ask that head for anything, for a cistern at the north side of the
@@ -139,7 +139,7 @@ or answer either.
 Each was printed wrongly in a prompt or a card, and a page or a derivation says otherwise. **A
 successor that finds one of these in a card has inherited an error and not a rule.**
 
-1. **The compost line from day 873 is paid at thirty-one and does not go back, and it is seven mornings before day 880 and not two.** A prompt printed it as paid at thirty on the nine mornings that are not day 873. `chapter-0660.md` pays the fall, on a Thursday, and `chapter-0667.md` says it has stood at thirty-one since Thursday.
+1. **The compost line from day 873 is paid at thirty-one and does not go back, and it is seven mornings before day 880 and not two.** A prompt printed it as paid at thirty on the nine mornings that are not day 873. `chapter-0660.md` pays the going over, on a Thursday, and `chapter-0667.md` says it has stood at thirty-one since Thursday. **AND THE DIRECTION IS NOT A FALL.** The plan and the day-873 card call this a fall and the only figure that moves downward, and the page has it the other way round: thirty-one paid is one more than thirty paid, and not one load has ever been let out of that line. **Only the direction was ever wrong, the figure is not in doubt, and the page governs.** This is the third placement a card has lost to a page, and the rule is the same as items 3 and 6.
 2. **The read-aloud numerator is `one hundred and [WORD]`,** not `a hundred and`. The plan's day table prints it in the window half's form on every odd morning and that cell is withdrawn for the volume. **The same cell is wrong in the plan's rows for days 881 to 890.** Run forward over those ten mornings: one hundred and thirty fields, one hundred and twenty-five agree as strings, and the five that do not are those five cells and nothing else.
 3. **The seed vault was not given up on day 879.** It was given up on day 864 in `chapter-0651.md`, in her own mouth. Nothing on 879 or 880 re-abandons it, re-announces it, has anybody discover it, or describes her as having given something up.
 4. **The bare three hundred in the register form is on day 856, not day 886.** On day 886 the form is three hundred and thirty. **A state file is a prompt input, and a wrong day in one is a figure invented downstream.**

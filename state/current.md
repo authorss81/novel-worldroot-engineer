@@ -10,6 +10,13 @@ and the excess is three withdrawn figures that had to be named rather than one d
 could be cut. It was above the budget when this pass took it up. A pass that wants it lower
 should cut a section, not a withdrawal.**
 
+**The review-fix pass on Batch 0003 added five hundred and twenty-two words to this layer on
+top of that, and most of the addition is in the same class: two control-plane decisions at the
+foot of `state/open-threads.md` that no writing phase is permitted to settle, and a compost
+direction that a page settles and that `outline/volume-14.md` and the day-873 card still
+contradict. None of the three is prose, all three are owed to a human, and none may be cut to
+buy back words.**
+
 **Read this file whole, and the other three whole.**
 
 This file was rewritten on 2026-10-02, in the review-fix pass on Volume 14 Batch 0002, and
@@ -58,7 +65,7 @@ rule and re-derives the figure. A later pass does not inherit a figure.**
 | Charter | two hundred and thirty days | day minus 650 |
 | Silling's second ruled line | three hundred and eighteen days, and nothing written on it | day minus 562 |
 | The letter | a hundred and twenty-seven days | day minus 753 |
-| Compost line | **paid at thirty-one** | thirty before day 873; the one fall to thirty-one is on day 873 and it stays there for the rest of the volume |
+| Compost line | **paid at thirty-one** | thirty before day 873; the one going over to thirty-one is on day 873, and it is a rise in the paid column and not a discharge, and it stays there for the rest of the volume |
 | Count of blanks | thirty-nine, never moved | and the second rule under them stands empty at the thirty-ninth time |
 | Floors, all unmoved | see the rule | the mark four inches forking twice with no third fork; the use log at fifteen lines and no sixteenth; the barrow at eleven journeys and eleven is a floor; seven sessions entered and none in this volume; the requests and the section-nine notes at fifty-three and fifty-three, never the same list; the ladder climbed zero rungs; the ring of bare ground unwalked, unmeasured and unpriced; the low-board offer undated, unpicked and not withdrawn; the drawer shut at every hour with its key on its nail; the three papers unentered, unrefused and uncolumned with about nine inches of bare board either side of each; the man of about seventy at twenty-nine fetchings, not fetched in this volume and asked nothing; the door nine hundred yards off walked past on every morning and read on none | |
 
