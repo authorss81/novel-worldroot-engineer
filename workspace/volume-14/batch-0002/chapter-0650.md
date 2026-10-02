@@ -58,9 +58,9 @@ He shut them.
 
 Monday is not a morning the rota comes round on, so the count in force is where it was when the yard woke up: a hundred and forty-one, twenty-nine of them taken, a hundred and twelve of them not. It rose by nothing. No field went out and nobody in this yard is to be blamed for one that stood and waited, because standing and waiting is what the rota had it doing.
 
-Nobody in this holding has ruled a column under any of the three papers on that table, and nobody has entered one and nobody has refused one.
+Nobody in this holding has ruled a column under any of the three papers on that table, and nobody has entered one and nobody has refused one. Nia Vale put her thumb on the top one and then took it off again and left the paper exactly where it was.
 
-The top one is face up and a hundred and ten days old, with about nine inches of bare board either side of it. The next is shut on a crease it was folded on long before any of this began. The third is the one with a name, a date, a hand and a seal on it, and there is not one thing in it that anybody here can put a finger on.
+**"A hundred and ten days on this, with about nine inches of bare board either side of it, and no room for a second,"** she said. **"The next is shut on a crease it was folded on long before any of this began. The third is the one with a name, a date, a hand and a seal, and there is not one thing in it that anybody here can put a finger on."**
 
 On the board in the one room the count of blanks stands at thirty-nine and it did not move on this Monday, and the second rule underneath them stands open and empty, and nobody put a fortieth name into any of them.
 

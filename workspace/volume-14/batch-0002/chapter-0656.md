@@ -60,18 +60,20 @@ He went past it.
 
 Marek gave the two boards in the order a man reads them when he has just come in from the far side of the yard, which is far first. Eight hundred and fifty at the far board. Eight hundred and three at the near one, forty-seven of wall between the two, and a drawer behind the near one that is shut, with its key hanging on a nail in the door frame of the one room and no other key anywhere in this holding.
 
-The compost line is paid at thirty and nothing has ever been let out in it. There are eleven journeys on the barrow and eleven is a floor rather than a figure. Fifteen lines in the use log and no sixteenth. Seven sessions in this holding's book, and Sunday took none of them, because Sunday never does. The requests are at fifty-three and the section nine notes are at fifty-three, and between them they have taken nothing off the long table this morning and nothing out of any coat in this building.
+Marek did the standing round as well, because nobody else was going to and because it is the sort of thing a man does with his hands when his hands are the only part of him that can be useful that day. He put his thumb in the compost line at the gate and found it paid at thirty and empty. He counted the barrow's eleven journeys and left the twelfth unmarked, because eleven is a floor rather than a figure. He counted fifteen lines in the use log behind the glass and did not go on to a sixteenth. Seven sessions were entered in this holding's book and Sunday took none of them, because Sunday never does. The requests were at fifty-three and the section nine notes were at fifty-three, and between them they had taken nothing off the long table this morning and nothing out of any coat in this building.
+
+**"None of it moved and none of it is anybody's fault,"** he said, to the yard rather than to a person, **"and I have been in this yard four years and this is the first Sunday on which I have wanted it to be somebody's fault. That is the thing I would like somebody to check."**
+
+Sunday does not bring the rotation round either, so the number in force had not moved since Friday: a hundred and forty-one of it, twenty-nine taken, a hundred and twelve not. No field went out, and nobody was blamed for one that stayed where it was put. In the one room the board carries its thirty-nine blanks and nobody put a fortieth name into any of them this morning, and the second rule under those blanks is open and empty and opens nothing, as it has every morning of the four years anybody here can remember.
+
+Tova Reed counted the six rows on the shelf with the back of her hand on her way to the bench and did not find a seventh.
+
+On his way round he stopped under the four inches and the two forks cut into the tool house wall and did not put a hand on it, because a mark a man did not cut is not his to answer for. The ladder went up no rung. The offer on the low board was where it had been put, undated, untaken, not taken back, and the ring of bare ground had not had a foot on it. Nothing was fetched from the man of about seventy that Sunday and nothing was asked of him anywhere he was seen. And the door nine hundred yards off went past at about the eleventh hour and was not read.
 
 **"A hundred and sixteen days,"** the woman of about thirty-eight of Marden said, from the tap, without coming over. **"That is how long the first of them has been on that board, and about nine inches of bare board either side of it, and the second is folded back on a crease and shut, and the third is the one with the seal on it."**
 
 She filled a can and set it down.
 
 **"Nobody here has entered one, refused one, or ruled under one, and there is no column in this holding for any of the three. I have looked at the third of them more times than I have looked at my own book and there is nothing wrong with it, and that is the whole difficulty and it does not go away by being looked at."**
-
-Sunday does not bring the rotation round either, and the number in force has not moved since Friday: a hundred and forty-one of it, twenty-nine taken, a hundred and twelve not. No field went out. Nobody was blamed for one that stayed where it was put. In the one room the board carries its thirty-nine blanks and nobody put a fortieth name into any of them this morning, and the second rule under those blanks is open and empty and opens nothing, as it has every morning of the four years anybody here can remember.
-
-Tova Reed counted the six rows on the shelf with the back of her hand on her way to the bench and did not find a seventh.
-
-The mark on the tool house wall is four inches and forks twice. The ladder went up no rung. The offer on the low board is where it was put, undated, untaken, not taken back. The ring of bare ground has not had a foot on it. Nothing was fetched from the man of about seventy on this Sunday and nothing was asked of him anywhere he was seen. And the door nine hundred yards off went past at about the eleventh hour and was not read.
 
 That Sunday went by in this yard with a man who had given something away on Saturday and nine people who did not ask him what it was, and the yard got through it on those terms, and it will get through the next one on the same.

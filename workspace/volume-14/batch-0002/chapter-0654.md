@@ -74,14 +74,16 @@ She let her hand fall.
 
 The count in force did not rise on a Friday and rose by nothing, and it is a hundred and forty-one with twenty-nine taken off that number and a hundred and twelve of them not. No field went out this morning and nobody is blamed for one that stayed in. And nobody in this yard was asked to choose anything, because the choice on that sheet was not left lying about for somebody to pick up: a pencil settled it at ten o'clock in front of eleven people, and the road and the ford settled it before that.
 
-Nobody went near the long table on this Friday. It stood down the middle of the yard with three papers on it: the first face up where it has lain a hundred and fourteen days, the second folded back on a crease older than any of this, and the third with a name and a date and a hand and a seal.
+Nobody went near the long table on this Friday. It stood down the middle of the yard with three papers on it, and Harlan Vetch read them from the far side of the yard the way he reads everything he has no part in.
 
-There are about nine inches of bare board either side of the first. Not one of the three has been entered, none has been refused, and no column has ever been cut under any of them in this holding. Nothing in the third of them is wrong, which is the difficulty with it.
+**"A hundred and fourteen days on the one lying open,"** he said. **"I have put my own hand flat in the gap either side of it twice this week and it is the same nine inches both times. There is nothing in the second of them because it is folded shut on an old crease, and the third one is signed, dated, sealed and named, and it is the only paper of the three that anybody outside this holding would understand at a glance."**
+
+He turned away from it.
+
+**"Not one of the three entered, none refused, no column ever cut under any of them in this holding. That is the one thing I would want written down."**
 
 Nia Vale opened the board in the one room at about the fourth hour and shut it again without writing anything on it, which is her Friday habit. Thirty-nine blanks, the same at seven as at noon, and underneath them a rule standing open and empty and opening nothing.
 
-The shelf for what this holding does not know has six ruled rows on it and no seventh. Nothing was fetched from the man of about seventy and nothing was put to him anywhere on the day.
-
-The ladder stands against the tool house wall with nobody on it. The low board holds its offer with no day written on it, unpicked and not withdrawn. The ring of bare ground is still bare. And the door nine hundred yards off went past at the eleventh hour and was not read.
+The shelf for what this holding does not know has six ruled rows on it and no seventh, and she ran her thumb along the sixth and stopped. Nothing was fetched from the man of about seventy and nothing was put to him anywhere on the day. The ladder stands against the tool house wall with nobody on it. The low board holds its offer with no day written on it, unpicked and not withdrawn. The ring of bare ground is still bare. And the door nine hundred yards off went past at the eleventh hour and was not read.
 
 For the sheet this yard gave nobody thanks on this Friday and gave nobody forgiveness either, and at noon a man with a barrow stood in the middle of it looking at four names at the top of a piece of paper with his hands hanging at his sides where anybody could see them.

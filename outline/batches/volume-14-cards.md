@@ -55,7 +55,7 @@ Day four hundred and fifty-one is the first of the fourth month and a Tuesday, a
 
 **THREE, THE READ-ALOUD RUN IS ON ODD MORNINGS ONLY AND ON NO EVEN MORNING AT ALL**, being twenty-five mornings of forty-nine, and its denominator is odd at every value it takes across this volume. **Three hundred and fifty is never a denominator in this volume and a page that prints it has broken the series and not merely misspelled it.** An even morning carries no read-aloud figure at all, and the card for that morning says so.
 
-**FOUR, THE READ-ALOUD NUMERATOR AND THE SPLIT WINDOW HALFE ARE TWO DIFFERENT FIGURES WITH TWO DIFFERENT HOUSE FORMS.** The read-aloud numerator is spelled *one hundred and* in its range. The window halfe is spelled *a hundred and* while it is under two hundred. **The two sit side by side on the same morning all volume and a writer who learns the form on one of them and carries it to the other will be wrong on every odd morning of the volume.**
+**FOUR, THE READ-ALOUD NUMERATOR AND THE SPLIT WINDOW HALF ARE TWO DIFFERENT FIGURES WITH TWO DIFFERENT HOUSE FORMS.** The read-aloud numerator is spelled *one hundred and* in its range. The window half is spelled *a hundred and* while it is under two hundred. **The two sit side by side on the same morning all volume and a writer who learns the form on one of them and carries it to the other will be wrong on every odd morning of the volume.**
 
 **AND THE TEN SITES WHERE A FIGURE IN THIS VOLUME IS A BARE ROUND HUNDRED ARE FOR THE MOST PART NOT ROUND ON THE OTHER SIDE OF THEIR OWN PAIR**, which is why the round side is the side a writer drops its *and* from.
 
@@ -192,7 +192,7 @@ Day four hundred and fifty-one is the first of the fourth month and a Tuesday, a
 
 **WHAT THE MORNING IS FOR.** Put the three sheets on the long table inside this volume's business by giving the first of them an age of exactly a hundred days and leaving it unentered, unrefused and uncolumned.
 
-**WHAT IT MAY NOT DO.** **The letter's age is a hundred days, bare, and it is also the age of the first of the three sheets, and the two are one figure under two names and are not added to each other.** **On this morning the read-aloud numerator and a window halfe stand side by side in their two different house forms, the numerator being *one hundred and* and the halfe being *a hundred and*, and either form written on the other's figure is an error.** The three sheets are not answered, not refused, not moved and not ruled under. Neither locked sentence is spoken whole.
+**WHAT IT MAY NOT DO.** **The letter's age is a hundred days, bare, and it is also the age of the first of the three sheets, and the two are one figure under two names and are not added to each other.** **On this morning the read-aloud numerator and a window half stand side by side in their two different house forms, the numerator being *one hundred and* and the half being *a hundred and*, and either form written on the other's figure is an error.** The three sheets are not answered, not refused, not moved and not ruled under. Neither locked sentence is spoken whole.
 
 **WHAT IT OWES THE NEXT MORNING.** The next morning must find the heading of the first sheet read out loud once, in a yard, by somebody who then has to give a reason for having read it.
 
@@ -458,7 +458,7 @@ Day four hundred and fifty-one is the first of the fourth month and a Tuesday, a
 
 **WHAT THE MORNING IS FOR.** Bring the rising half to a round figure for the first time in this holding's run and let the falling half beside it stay where it is, so that a reader can see which half is which.
 
-**WHAT IT MAY NOT DO.** **The rising half is two hundred, bare, with no *and* and no tail, and the falling half beside it is not round, and this is the first of two consecutive mornings on which the round side sits in this cell.** **The house form changes at two hundred and not at a hundred, and a window halfe at two hundred is `two hundred` and not `a hundred and a hundred`.** The window is the two halves and is not either half. Neither locked sentence is spoken whole.
+**WHAT IT MAY NOT DO.** **The rising half is two hundred, bare, with no *and* and no tail, and the falling half beside it is not round, and this is the first of two consecutive mornings on which the round side sits in this cell.** **The house form changes at two hundred and not at a hundred, and a window half at two hundred is `two hundred` and not `a hundred and a hundred`.** The window is the two halves and is not either half. Neither locked sentence is spoken whole.
 
 **WHAT IT OWES THE NEXT MORNING.** The next morning must find the same round figure standing again on the other side of a fall, and the round figure still bare.
 
