@@ -124,9 +124,7 @@ Marek went out through the gate about the ninth hour and put his thumb into the 
 
 She did not put her cloth down.
 
-**"Paid at thirty-one and nothing has ever been let out of it,"** she said,
-
-**"He did not say anything about it,"** she said. **"He put a thumb in it and he took his thumb out. That is not a conversation and I am not going to make it into one. If he wants to talk to me about that line he can come to the bench like anybody else."**
+**"Paid at thirty-one and nothing has ever been let out of it,"** she said, and then, **"He did not say anything about it. He put a thumb in it and he took his thumb out. That is not a conversation and I am not going to make it into one. If he wants to talk to me about that line he can come to the bench like anybody else."**
 
 Ansell Dree had five items off the top of his own head that he wanted to write onto the top of his form, and he got as far as the fourth before Kellan Rusk put his hand flat on the paper.
 

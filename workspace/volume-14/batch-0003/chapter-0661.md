@@ -12,7 +12,7 @@ He put his hand flat on the table to lean on and then took it off again, as if h
 
 The cart came up the fen road at about the ninth hour with two men on it who were not from this holding, and neither of them said anything, and they went as far as the wall, put it down where Soren Rill pointed, and went back down the road.
 
-> A return, on the interval this holding has always used and has never written down anywhere anybody can go and read. This yard keeps no ordinal for one and no weight for one and has kept neither since before the wall was built, and no allowance is carried here for any such thing. The board in the one room stands at its thirty-nine blanks, and that figure is not altered by a cart at a wall. Underneath those blanks the second rule is open and empty and opens nothing, and the standing for how many times it has stood that way is the thirty-ninth time, and it was the thirty-ninth time before the two men turned round at the wall and it will be the thirty-ninth time after they are out of sight.
+> A return, on the interval this holding has always used and has never written down anywhere anybody can go and read. This yard keeps no ordinal for one and no weight for one, and it keeps neither of those things the way it keeps everything else here, which is by not carrying them. The board in the one room stands at its thirty-nine blanks, and that figure is not altered by a cart at a wall. Underneath those blanks the second rule is open and empty and opens nothing, and the standing for how many times it has stood that way is the thirty-ninth time.
 
 Then the rotation, which came round on a Friday the way it has come round on every morning of this kind since the holding began counting.
 

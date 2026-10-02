@@ -2,8 +2,7 @@
 
 **Budget: about two thousand two hundred words. Read this file whole. Figures are in
 `state/current.md`, the story is in `state/continuity.md`, and the archived layer at
-`reviews/state-archive-2026-10-02/` holds the per-batch standing detail for every
-thread below.**
+`reviews/state-archive-2026-10-02/` holds the per-thread detail for every row below.**
 
 ---
 
@@ -68,36 +67,50 @@ line here is what a writer needs to avoid breaking one.
 ## 3. What the last ten mornings advanced
 
 The standing did not move. Named, so a later pass inherits the finding and not the
-sentences:
+sentences. Days 871 to 880, files `chapter-0658.md` to `chapter-0667.md`.
 
-- **The four bodies of households and their two signatures each.** The aggregate advanced
- by one on each of the ten mornings. A man walked a mile and a quarter up a lane in his
- own boots, copied the office's third column onto his own paper, went to the nearest
- of the four households, and came back at half past one to say that nobody signed, that
- he did not ask anybody to sign, and that the house asked him what the two signatures
- were for. **He told them he did not know.**
-- **A refusal that is not a refusal.** Tova Reed gave up the seed vault on day 864,
- against a card that placed it at day 879. **The page governs and it may not move back.**
-- **The road, the ford and a pencil.** On day 867 Hesta Lyle showed the yard a sum that
- cannot come out: four households, two signatures each, a deadline in five working days,
- and a second house nine miles from the fourth over a road that is soft six days in
- seven with a ford that will not take a loaded barrow. **There is no man in this. She
- said so in her own mouth and nobody is standing behind any of those four places.**
-- **The fourth permanent loss, paid on day 868** in `chapter-0655.md`, with the name
- spoken once on that page and on no other.
-- **What did not happen.** No field was taken on any of the ten mornings, including on all
- three fourth-line mornings, and each says in its own words that nobody is blamed for a
- field that waited. Nobody was asked to choose anything on any of the ten mornings.
+- **The one month turn inside the volume came and went and turned a calendar and nothing
+  else.** The launder did not reset at it, the window did not re-anchor at it, the boards
+  did not move toward each other, the three ages did not count it and the letter did not
+  jump, and the rotation did not come round on it because it is not a fourth-line morning.
+- **The compost line fell once, to paid at thirty-one, on day 873, and stands there.** The
+  clerk was the first to see it and he did not decide it; the interval is in the gate book
+  and not in anybody's head. It was copied on the morning it changed and copied again the
+  next morning without a word about it, and it is the only figure in the volume that has
+  gone up.
+- **The rising half of the window sat at exactly two hundred, bare, on days 872 and 873,
+  on two mornings, and stayed above two hundred afterwards.** No character treated it as an
+  event and a woman of about thirty-eight of Marden said the moved half first on purpose.
+- **Two places refused to be first and the arithmetic was given in a room rather than at a
+  table.** A second refusal cost a third place its head sluice at the fifth hour. Nobody was
+  called a coward by anybody who benefits from the refusal.
+- **This holding became the first thing in four years to ask the column for anything.**
+  A cistern went against the north wall of the room where the seed work is done, the pipe
+  comes off the head the four places are arguing over, and Hesta Lyle refused to write it
+  on the column's sheet because a fifth place on a column is a thing somebody has to answer
+  for. The demand is on her own paper at home.
+- **The seed work's standing changed inside an ordinary week.** It moved off a shelf onto
+  the floor because a bracket and a cistern took the wall, one row of the bench is bare and
+  nobody asked what goes in it, and the cart still goes on a Thursday.
+- **A man with a case asked what this holding's standing was worth to somebody else and was
+  refused in one line**, and left with a column number on the corner of his own form and no
+  box filled in. He said he would come back with a figure of his own.
+- **What did not happen.** No field was taken on any of the ten mornings, including on both
+  fourth-line mornings, and each says in its own words that nobody is blamed for a field
+  that waited. Nobody was asked to choose anything on any of the ten mornings. No month
+  name and no month number appear anywhere. The door nine hundred yards off was walked past
+  every morning, read on none, and offered to nobody.
 
-**Two things this batch owed and did.** Nine people gave, in their own mouths, a reason
-for not saying the two things, and no reason repeats one given anywhere in the volume
-before. Five people gave, one per even morning, a reason the run was not read, and none
-of the five is among the five who gave reasons on the mornings behind.
+**Two things this batch owed and did.** Ten people gave, in their own mouths, a reason for
+not saying the two things, and no reason repeats one given anywhere in the volume before.
+Five people gave, one per even morning, a reason the run was not read, and none of the five
+is among the ten who gave reasons on the mornings behind.
 
 **One claim is withdrawn.** The previous layer carried a standing note that the
 nobody-is-asked-to-choose streak was *"the eleventh volume running."* It could not be
-checked against the manuscript, Volume 14 is the fourteenth, and the streak's start is
-not derivable from the pages. **The streak is real and is no longer counted.**
+checked against the manuscript, Volume 14 is the fourteenth, and the streak's start is not
+derivable from the pages. **The streak is real and is no longer counted, and no volume
+count may be printed for it anywhere.**
 
 ---
 

@@ -26,7 +26,7 @@ He shut the book down on his thumb and carried it back to the one room.
 
 Soren Rill came three steps closer before he answered, which is the only time anybody has seen him move faster for a figure.
 
-**"Thirty-one paid is one more than thirty paid,"** he said. **"Somebody somewhere has paid one more."
+**"Thirty-one paid is one more than thirty paid,"** he said. **"Somebody somewhere has paid one more."**
 
 The clerk turned the gate board round on its nail so that the chalk faced the yard instead of the road, and looked at it, and turned it back.
 
