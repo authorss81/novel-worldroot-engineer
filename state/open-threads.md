@@ -75,7 +75,7 @@ Days 871 to 880, files `chapter-0658.md` to `chapter-0667.md`.
   rotation did not come round because it is not a fourth-line morning.
 - **The compost line fell once, to paid at thirty-one, on day 873, and stands there.** The
   clerk was first to see it and did not decide it; the interval is in the gate book and not in
-  anybody's head. It is the only figure in the volume that has gone up, and nothing is ever
+  anybody's head. It is the only figure in the volume that has gone down, and nothing is ever
   let out of it.
 - **The rising half sat at exactly two hundred, bare, on days 872 and 873, and stayed above
   two hundred afterwards.** No character treated it as an event and a woman of about
@@ -84,9 +84,9 @@ Days 871 to 880, files `chapter-0658.md` to `chapter-0667.md`.
   table.** A second refusal cost a third place its head sluice at the fifth hour. Nobody was
   called a coward by anybody who benefits from the refusal.
 - **This holding became the first thing in four years to ask the column for anything.** A
-  cistern went against the north wall of the room where the seed work is done and the pipe
-  comes off the head the four places are arguing over. Hesta Lyle refused to write it on the
-  column's sheet, because a fifth place on a column is a thing somebody must answer for.
+  cistern went against the north wall of the room where the seed work is done and the pipe comes
+  off the head the four places are arguing over. Hesta Lyle refused to write it on the column's
+  sheet, because a fifth place on a column is a thing somebody must answer for.
 - **The seed work's standing changed inside an ordinary week.** It moved off a shelf onto the
   floor because a bracket and a cistern took the wall, one row of the bench is bare, and nobody
   asked what goes in it. The cart still goes on a Thursday.
@@ -119,14 +119,14 @@ phase that settles one of them without standing has done a canon decision silent
 1. **The premise drift, and it is first because everything else is downstream.**
  `NOVEL_SPEC.md`, `bible/` and `outline/series.md` specify *The Worldroot Engineer*:
  a root network, an engineer, an ecological commons. The manuscript on disk is a
- holding ledger. `Rootway` appears in zero of 657 chapter files. **Volume 14 is
- twenty of forty-nine mornings in and two and a half volumes remain, which cannot
- reconverge at this rate.** A human decides whether to re-plan what is left against
- the bible, or to retire the bible and re-specify the novel. **A repair pass may not
- make this decision and this pass did not.** One factual error is inside that decision
- and was left alone for the same reason: the `Status` paragraph at the foot of
- `NOVEL_SPEC.md` still reads *"No novel prose has been generated yet"* after 1.84
- million words, and correcting a spec file's status is not a state-file repair.
+holding ledger. `Rootway` appears in zero of 667 chapter files. **Volume 14 is
+   thirty of forty-nine mornings in and two and a half volumes remain, which cannot
+   reconverge at this rate.** A human decides whether to re-plan what is left against
+   the bible, or to retire the bible and re-specify the novel. **A repair pass may not
+   make this decision and this pass did not.** One factual error is inside that decision
+   and was left alone for the same reason: the `Status` paragraph at the foot of
+   `NOVEL_SPEC.md` still reads *"No novel prose has been generated yet"* after 1.86
+   million words, and correcting a spec file's status is not a state-file repair.
 2. **`outline/series.md` and `outline/ending.md` both place the Aldren surrender in
  Volume 13, and Volume 13 does not carry it.** Volume 14's plan has decided where it
  is paid and left both files alone. A pass with standing owes them the correction.
@@ -160,14 +160,10 @@ and right that neither duplicate gate can see it. It is wrong that the fix is to
 **Measured, before and after this pass's repairs, over the same fifteen items: fourteen point
 two distinct items per morning, unchanged, against eleven point three in the untouched batch
 behind.** The count did not move because it was never meant to. The standing list *is* the
-thirty-five in and thirty-five out: the compost line, the barrow floor, the seven sessions,
-the two books at fifty-three, the use log, the thirty-nine blanks, the six ruled rows, the
-mark, the ladder, the low board, the ring, the man of about seventy, the door, the three
-papers, the drawer. Remove them from a page and the thread stops being visible; the thread
-does not stop being open.
+thirty-five in and thirty-five out. Remove them from a page and the thread stops being visible;
+the thread does not stop being open.
 
 **What this pass changed is delivery, not inventory.** Standing blocks that arrived as
-narration with nobody in them now arrive through a named character doing something. That is a
-prose repair. **A measure that counts standing-item recurrence per chapter is the right
-replacement gate and it does not exist yet**; building it is a decision for the pass that owns
-the gates.
+narration with nobody in them now arrive through a named character doing something. **A measure
+that counts standing-item recurrence per chapter is the right replacement gate and it does not
+exist yet**; building it is a decision for the pass that owns the gates.

@@ -9,32 +9,33 @@ history and is not to be loaded.**
 
 ## 1. The manuscript
 
-| Volume | Title | Mornings | Files | Words |
-|---|---|---|---|---|
-| 01 | The White Furrow | 1 to 49 | 49 | 166,022 |
-| 02 | The Graft Market | 50 to 98 | 49 | 141,818 |
-| 03 | The Memory Orchard | 99 to 147 | 49 | 142,952 |
-| 04 | Salt Without Rain | 148 to 196 | 49 | 141,727 |
-| 05 | The Heartroot Rota | 197 to 245 | 49 | 144,846 |
-| 06 | The False Season | 246 to 294 | 49 | 146,883 |
-| 07 | The Bridge Below | 295 to 343 | 49 | 140,227 |
-| 08 | What the Roots Remember | 344 to 392 | 49 | 139,423 |
-| 09 | The Rootless Vote | 393 to 441 | 49 | 141,658 |
-| 10 | The Undercommons Road | 442 to 490 | 49 | 141,223 |
-| 11 | The Crown Engine | 491 to 539 | 49 | 143,305 |
-| 12 | The Many-Handed Spring | 540 to 588 | 49 | 118,058 |
-| 13 | The Green Testament | 589 to 637 | 49 | 91,321 |
-| 14 | The White Mercy *(in progress)* | 638 to 686 | **30** | 64,970 |
-| 15 | The Root Commons | 687 to 735 | 0 | 0 |
-| 16 | The Returning Root | 736 to 780 | 0 | 0 |
+| Volume | Mornings | Files | Words |
+|---|---|---|---|
+| 01 | 1 to 49 | 49 | 166,022 |
+| 02 | 50 to 98 | 49 | 141,818 |
+| 03 | 99 to 147 | 49 | 142,952 |
+| 04 | 148 to 196 | 49 | 141,727 |
+| 05 | 197 to 245 | 49 | 144,846 |
+| 06 | 246 to 294 | 49 | 146,883 |
+| 07 | 295 to 343 | 49 | 140,227 |
+| 08 | 344 to 392 | 49 | 139,423 |
+| 09 | 393 to 441 | 49 | 141,658 |
+| 10 | 442 to 490 | 49 | 141,223 |
+| 11 | 491 to 539 | 49 | 143,305 |
+| 12 | 540 to 588 | 49 | 118,058 |
+| 13 | 589 to 637 | 49 | 91,321 |
+| **14** | 638 to 686 | **30** | 65,135 |
+| 15 | 687 to 735 | 0 | 0 |
+| 16 | 736 to 780 | 0 | 0 |
 
-**667 files, 1,864,433 words.** Volumes 01 to 13 are closed. Volume 14 has thirty mornings
-of forty-nine. The word figure moves with every prose change and is measured per file with
-`len(text.split())`, never by concatenation.
+Titles are in `outline/volume-NN.md`. **667 files, 1,864,598 words.** Volumes 01 to 13 are
+closed. Volume 14 has thirty mornings of forty-nine, and its closing batch is nine. The word
+figure moves with every prose change and is measured per file with `len(text.split())`, never
+by concatenation.
 
-**Volume 14 is the only volume with a live plan, a live card set and a live batch
-prompt.** For it, read `outline/volume-14.md`, then the card set, then the batch prompt.
-For every earlier volume the outline and the pages are the record and this index is a map.
+**Volume 14 is the only volume with a live plan, a live card set and a live batch prompt.** For
+it, read `outline/volume-14.md`, then the card set, then the batch prompt. For every earlier
+volume the outline and the pages are the record and this index is a map.
 
 ---
 
@@ -61,7 +62,7 @@ For every earlier volume the outline and the pages are the record and this index
 - **864**, Tuesday, the twenty-fourth. **Tova Reed gives up the seed vault**, in her own mouth, with the reason that the branches going are the ones outside a zone that ended four miles off and did not end politely. **The card set placed this at day 879. The page governs and it may not be paid again.**
 - **865**, Wednesday, the twenty-fifth. A return comes up the fen road and nobody in the building has to answer for it, and Hesta Lyle says there is no villain in it anywhere.
 - **866**, Thursday, the twenty-sixth. Eight hundred stands on the board the mason reads from where he stands, bare, against a far board that is not round.
-- **867**, Friday, the twenty-seventh. Hesta Lyle shows the yard a sum that cannot come out: four households, two signatures each, a deadline in five working days, and a second house nine miles from the fourth over a soft road with a ford that will not take a loaded barrow. **There is no man in this, and she says so in her own mouth.** Soren Rill says he was angry at the right sum and the wrong reason, and that the right reason is a road.
+- **867**, Friday, the twenty-seventh. Hesta Lyle shows the yard a sum that cannot come out: four households, two signatures each, a deadline in five working days, and a second house nine miles off over a soft road with a ford that will not take a loaded barrow. **There is no man in this, and she says so.** Soren Rill says he was angry at the right sum and the wrong reason, and that the right reason is a road.
 - **868**, Saturday, the twenty-eighth. **A name is said once in the one room.** Marek refuses to be touched; the door is left open; Nia Vale works at the seed house with her back to the yard. **The fourth permanent loss is paid and the name is spoken once on this page and on no other.**
 - **869**, Sunday, the twenty-ninth. A man is very good at his work on the Sunday, and **nine people do not ask him what it was that he gave away.** That was not kindness; they worked out in about four hours on Saturday evening that there was nothing to do.
 - **870**, Monday, the thirtieth. A network carrying more than it was built to carry. The week adds up to a road and a ford and a pencil and one place that is still not reached.
@@ -71,7 +72,7 @@ For every earlier volume the outline and the pages are the record and this index
 
 ## 3. Volume 14, mornings twenty-one to thirty, one line each
 
-**Batch 0003, days 871 to 880, files 658 to 667.** 27,148 words.
+**Batch 0003, days 871 to 880, files 658 to 667.** 27,313 words.
 
 - **871**, Tuesday, the first. The one month turn inside the volume, and it turns a calendar and nothing else.
 - **872**, Wednesday, the second. The rising half comes to exactly two hundred, bare, and the woman of about thirty-eight of Marden says what that is.
@@ -91,10 +92,10 @@ For every earlier volume the outline and the pages are the record and this index
 **The reasons are countable and were counted.** Five even mornings carry a reason the run was
 not read, from five people: Marek on a chalk line, the man of the north row with the cough
 walking up for his paper, the man of about fifty going to his sister's, the clerk with a
-stranger in the yard, and Tova Reed on the cart. Ten mornings carry a character saying out
-loud that he is not saying the two things and why, from nine people: the clerk, Nia Vale,
-Marek twice on days 873 and 879 on two different reasons, Sera Quill, Odile Vray, Soren Rill,
-Tova Reed, the man of about fifty, and the man of the north row with the cough.
+stranger in the yard, and Tova Reed on the cart. Ten mornings carry a character saying out loud
+that he is not saying the two things and why, from nine people: the clerk, Nia Vale, Marek
+twice on days 873 and 879 on two different reasons, Sera Quill, Odile Vray, Soren Rill, Tova
+Reed, the man of about fifty, and the man of the north row with the cough.
 
 **Four repairs were made inside mornings already on disk**, named by file and by fact at
 `state/current.md` section 9. **No figure of any series was altered by any of them.** Two are
@@ -108,16 +109,21 @@ three standing blocks on day 880 back in a shape an earlier morning already carr
 - It may not pay the seed vault again, re-announce it, have anybody discover it, or describe
   her as having given something up, thank her, apologise to her or put a hand on her arm.
 - It may not recover, soften or explain the Aldren memory, and it may not add a fifth
-  permanent loss.
+  permanent loss. **That loss was paid on day 868, and the card that places it at day 885 is
+  a card that lost its placement to a page, and day 885 is an ordinary working morning.**
 - It may not print a counter for the second rule other than the thirty-ninth time, a bare two
   hundred for the charter, a bare three hundred for the register form, or three hundred and
   fifty in the read-aloud denominator. **The bare three hundred in the register form is on day
-  856 and does not come again.**
-- It may not spell the read-aloud numerator in the window half's form.
-- It may not read the run on an even morning, may not offer the door nine hundred yards off to
-  anybody in a yard, and may not print an allowance figure for the sixty-six.
+  856 and does not come again, and the bare three hundred at the top of the read-aloud
+  denominator is on no morning of the volume at all.**
+- It may not spell the read-aloud numerator in the window half's form, may not read the run on
+  an even morning, may not offer the door nine hundred yards off to anybody in a yard, and may
+  not print an allowance figure for the sixty-six.
 - It may not take a field, it may not ask anybody in this yard to choose anything, and **it may
   not print the compost line as paid at thirty on any morning.**
 - **It may not print a gate measurement it has not checked against a paragraph that must
   collide with itself.** Three of the four repairs above were invisible to a gate that
   compared a paragraph with itself.
+- **It may not spend an in-between morning of a locked figure and call it the last one.** The
+  allowance is three of each, one has been spent for each on days 884 and 887, and the closing
+  batch carries the other two of each.
