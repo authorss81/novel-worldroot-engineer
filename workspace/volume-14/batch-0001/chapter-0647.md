@@ -70,7 +70,7 @@ For the four bodies of households the long sheet says four hundred and eight, an
 
 Seven hundred and ninety-four on the near board, and eight hundred and forty-one on the far one, forty-seven apart, and the drawer behind the near board is shut at this hour and at every other hour of this Friday, and the one key to it is on the nail in the frame of the one room door and will be on it at dusk.
 
-Nothing about the rota moved today, so the count in force stands at a hundred and forty-one, with twenty-nine taken and a hundred and twelfth not.
+Nothing about the rota moved today, so the count in force stands at a hundred and forty-one, with twenty-nine taken and a hundred and twelve not.
 
 The compost line is paid at thirty and nothing has ever been let out in it. The barrow has its eleven journeys and eleven is a floor. There are seven sessions in this holding's book and a Friday is not an eighth. Nothing went into the requests this morning and nothing went into the section-nine notes, and both of those books are where they were, at fifty-three apiece, and no sheet came off the long table for anybody.
 
@@ -78,7 +78,7 @@ On the long table, face up and untouched, lies a sheet that came a hundred and s
 
 The man of about seventy was not fetched and nothing was put to him at any site today.
 
-A figure stands in the seventh column of a door nine hundred yards off. Nobody read it this morning. It is not going back, and the reading is there in the morning for whoever wants to spend it, and this morning nobody wanted to.
+The door nine hundred yards off is a door with a number scratched in the seventh column of it. Nobody walked up and read that number this morning and nobody was asked to. It does not go back, and this holding has not read it on any morning of the week, and there is nothing about it this morning except that it is still there at dusk.
 
 The ladder took no rung this year. On the low board, an offer with no day on it, which has not been taken up and has not been taken back. Nobody put a foot on the ring of bare ground. Under two words there are four ruled lines and they are bare, and beside them a sheet carries six ruled rows against what this holding does not know, with nobody's seventh row cut for any of the four. Nobody in this yard was asked to choose anything today.
 

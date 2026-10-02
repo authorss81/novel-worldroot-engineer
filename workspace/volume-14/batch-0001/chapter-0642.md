@@ -28,7 +28,11 @@ The woman of about thirty-eight of Marden was at the tap at six with a can in ea
 
 Nobody said anything, and she picked the cans up again, and said the other thing.
 
-**"I will not go, and I am not going to pretend it is because it is my own place. There is a version of this morning where a woman of Marden walks into Marden on a Sunday and is told by eight people that she is one of them, and every one of those eight people is entitled to say she is, and not one of them is entitled to say she is the woman who went. You would get a signature off Marden by Friday and Marden would not have agreed to anything. I have seen that done. I did not do it. I would rather we turn up empty-handed in a week with a reason we can say out loud."**
+**"I will not go, and I am not going to pretend it is because it is my own place. There is a version of this morning where a woman of Marden walks into Marden on a Sunday and is told by eight people that she is one of them, and every one of those eight people is entitled to say she is, and not one of them is entitled to say she is the woman who went. You would get a signature off Marden by Friday and Marden would not have agreed to anything. I have seen that done."**
+
+She picked one can up and turned it a quarter turn on the slab and put it down again in the same wet ring.
+
+**"I did not do it. I would rather we turn up empty-handed in a week with a reason we can say out loud."**
 
 **"That is the fourth reason anybody has given this week for not doing a thing that would have worked,"** the clerk said.
 
@@ -40,7 +44,7 @@ The wall came at nine and the launder with it, and the launder came down this ti
 
 **"Five off and the four hundred and fifth,"** the clerk said. **"The falling half of the window has moved and is a hundred and eighty-one. The rising half is a hundred and ninety-one and it has not moved since yesterday, and the two of them are three hundred and seventy-two, and I am aware that I have said a version of that sentence on six mornings this week and I am going to stop saying it after today whatever the figures do."**
 
-Renn Ashby read the pair at the seventh hour with the page turned his way and the stone on the corner of it, and the heading over the pair is of a month nine months back. It has not moved since the first of the fifteenth and it did not move this morning either.
+Renn Ashby read the pair at the seventh hour with his back to the wind off the low field and the book open against his own chest, and a stone taken out of the wall laid on the corner of the page to hold it down. Over that pair the heading says a month nine months back, and a woman in this yard has walked the length of the yard and looked at it twice this morning without touching it, because it has stood exactly where it stood on the first of the fifteenth and standing exactly there is what it is for.
 
 **"One hundred and seventy-three of three hundred and twenty-nine,"** he said. **"Four voices on the last sentence of it, and I have told the yard before that I will not say which four, and I am not going to start."**
 
@@ -64,6 +68,6 @@ The barrow went out eleven times this week and eleven is a floor and not a targe
 
 The man of about seventy was not fetched and nothing was put to him at any site this morning.
 
-The ladder went up no rung and the offer on the low board has no day on it, and the ring of bare ground at the top of the low field took no foot, and four ruled lines under two words are bare. Six rows stand ruled against what this holding does not know, and no seventh has been cut for the column or for the schedule or for the paper or for the third thing, and nobody said the four of them out loud this morning.
+Nobody went up the ladder, and the offer on the low board still has no day written on it, and the ring of bare ground at the top of the low field is bare and stayed bare through the whole of Sunday. The four ruled lines under two words carry nothing at all this morning. Against the sheet of what this holding does not know there are six rows ruled and no seventh, and the seventh was not cut for the column and not for the schedule and not for the paper and not for the other thing, and nobody in this yard said those four out loud.
 
 The yard got through a Sunday with three doors out of four and no signature on any line and nothing written down about any of it, and at dusk the clerk turned the yard key, and the fourth place on the third column was still standing there with nobody sent to it, and the woman who would have gone was filling a can at the tap and saying nothing.

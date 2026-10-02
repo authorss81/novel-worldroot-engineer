@@ -38,7 +38,7 @@ Then the launder, which is the clerk's own figure and which nobody in this yard 
 
 **One thousand and two hundred and eighteen hundredweight.**
 
-**"Five off, and the four hundred and seventh,"** he said, **"and the falling half has moved again and is a hundred and eighty-two. The rising half is a hundred and ninety-two and has not moved since yesterday. Three hundred and seventy-four, and I have said that figure out loud in this yard for four hundred and seven mornings, and I have never once been bored of it, which surprises me."**
+**"Five off, and the four hundred and seventh,"** he said, **"and the falling half has moved again and is a hundred and eighty-two. The rising half is a hundred and ninety-two and has not moved since yesterday. Three hundred and seventy-four, and I have said that figure out loud in this yard on every morning of the four years I have stood in it, and I have never once been bored of it, which surprises me."**
 
 The woman of about thirty-eight of Marden was at the end of the long table with the paper in front of her and her thumb on the fourth item, and she gave the reason before she was asked, which she has now done often enough that the yard waits for it.
 

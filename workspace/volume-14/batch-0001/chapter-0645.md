@@ -30,23 +30,31 @@ Sera Quill had her slate out on the trestle under the tap at about half past ten
 
 Kellan Rusk had the slate under his arm at the seventh hour and did not go to the doorway, and gave the reason standing by the tool house with his back against the stone.
 
-**"I am not reading the pair this morning,"** he said, **"and I will give the reason before anybody spends the morning looking for me. Three of the four lines on that sheet want a signature at the foot of them and I have been one of the men who goes and gets signatures for eleven years, and this morning I have got a coat on to go and do it. A man going out of a gate to ask a stranger for his name is a man who is not standing in a doorway at the seventh hour reading a book, and if he tries to do both then he is doing neither and everybody in the four places hears about the other thing."**
+**"I am not reading the pair this morning,"** he said, **"and I will give the reason before anybody spends the morning looking for me. Three of the four lines on that sheet want a signature at the foot of them and I have been one of the men who goes and gets signatures for eleven years, and this morning I have got a coat on to go and do it. A man going out of a gate to ask a stranger for his name is a man who is not standing in a doorway at the seventh hour reading a book."**
+
+He put the slate down on the sill of the tool house and took his coat off the nail behind it.
+
+**"If he tries to do both then he is doing neither and everybody in the four places hears about the other thing."**
 
 Then the wall, and the launder, which the clerk read before he put his coat on and which is the only figure in this yard that has never once needed a second reading.
 
 **One thousand and two hundred and twenty-six hundredweight.**
 
-**"Eight on, and the four hundred and eighth,"** he said. **"The rising half has gone to a hundred and ninety-three, which is what a Wednesday does now, and the falling half is a hundred and eighty-two and has not moved since Sunday. Three hundred and seventy-five. I have said the last sentence of that on eight mornings running and I have stopped counting them out loud in front of people, which is a different thing from stopping, and Hesta will tell you the difference or she will not."**
+**"Eight on, and the four hundred and eighth,"** he said. **"The rising half has gone to a hundred and ninety-three, which is what a Wednesday does now, and the falling half is a hundred and eighty-two and has not moved since Tuesday. Three hundred and seventy-five. I have said the last sentence of that on eight mornings running and I have stopped counting them out loud in front of people, which is a different thing from stopping, and Hesta will tell you the difference or she will not."**
 
-**"The count in force did not rise on a Wednesday,"** Hesta Lyle said. **"It rose at the second hour and it has not moved since, and I say that every time because the last four years of this yard have taught it to believe that a number moves when a man decides it should."**
+**"You are going to tell me the count in force did not rise on a Wednesday,"** Hesta Lyle said, **"and I am telling you now, before you say it, that a Wednesday is the one morning of the week I have learned not to say that on. It rose at the second hour and it has not moved since, and I say so every time because the last four years of this yard have taught it to believe that a number moves when a man decides it should."**
 
 Marek had been in the yard since the seventh hour and had said nothing, and at about eleven he came and stood beside the board in the one room and read the three ages off the rack himself, the form, then the charter, and then the second ruled line in Silling's own book, which he read with two fingers on the shelf and not with his mouth.
 
-**"Three hundred and two days on the form. Two hundred and eight on the charter. Two hundred and ninety-six on the line in Silling's book, which I am not saying out loud because a hand is faster than a room."**
+**"Three hundred and two days on the form. Two hundred and eight on the charter. Two hundred and ninety-six on the line in Silling's book, and I have said that one out loud, and I am saying it twice, because a hand is faster than a room and I would rather this yard had the figure than a good look at me reading it."**
 
 **"You have read that one out loud four mornings running,"** Sera Quill said.
 
-**"I have read it out loud four mornings running and I am going to keep doing it, and I am not saying the two things this morning, and here is the reason and it is not a small one."** He shut the rack and did not move away from it. **"There are four places on that column and three men in this yard about to walk out of that gate, and if I stand in the middle of this holding at noon and say the sentence that names the end of a thing, then every one of those three men is going out on my errand. And what arrives at four doorways is not a holding that answers. It is a man with a grievance about a thing none of them can check, and the four doorways cannot tell the difference, and by the end of the week neither can this yard."**
+**"I have read it out loud four mornings running and I am going to keep doing it, and I am not saying the two things this morning, and here is the reason and it is not a small one."** He shut the rack and did not move away from it. **"There are four places on that column and three men in this yard about to walk out of that gate, and if I stand in the middle of this holding at noon and say the sentence that names the end of a thing, then every one of those three men is going out on my errand."**
+
+He said it to the rack and not to anybody, and then he said the last of it out loud to the yard because he had promised the yard a reason.
+
+**"And what arrives at four doorways is not a holding that answers. It is a man with a grievance about a thing none of them can check, and the four doorways cannot tell the difference, and by the end of the week neither can this yard."**
 
 The man of about fifty went out at about the twelfth hour and came back at the fifth, and he had been let in this time, and the gate behind him was the same gate.
 
@@ -56,11 +64,15 @@ The man of about fifty went out at about the twelfth hour and came back at the f
 
 **"I said I did not have it on me and I would bring it,"** the man of about fifty said, **"and I have not brought it and I am not going to say that I am sorry, because I am not, because I have been asked for a number by a stranger and a stranger asking for a number is not a thing anybody in this holding has had to do about before."**
 
-The near board has read seven hundred and ninety-two all week. The far one is at eight hundred and thirty-nine, and the gap between the two of them is forty-seven, and the gap has never once been a number this holding has put anywhere. Behind the near board a drawer is let into the masonry, and the only key to it hangs on a nail in the frame of the one room door, and it hung there when the yard woke up and it will hang there when the yard goes to bed.
+Sennik Vaul had walked to the near board on his way to put his coat on and stood in front of it without touching it, and came back and said the two figures out in the order he had read them, which was near before far because the near one was the one he had to walk past. Seven hundred and ninety-two, and eight hundred and thirty-nine on the other.
+
+The gap between the two of them is forty-seven, and the gap has never once been a number this holding has put anywhere. Behind the near board a drawer is let into the masonry, and the only key to it hangs on a nail in the frame of the one room door, and it hung there when the yard woke up and it will hang there when the yard goes to bed.
 
 Nothing came off the low field this morning and nobody in this yard was blamed for it, and nobody has been since the middle of the week.
 
-Six rows are ruled on the sheet of what this holding does not know. Nobody has cut a seventh for any of the four things a seventh row is not cut for. Under two words there are four ruled lines and they are bare. On the low board an offer lies with no day on it, untouched and untaken and not taken back. The ladder took no rung. No foot went onto the ring of bare ground at the top of the low field. The compost line is paid at thirty and has been let out in nothing. The barrow has its eleven journeys and eleven is a floor. The sessions in this holding's book are at seven. The requests and the section-nine notes are at fifty-three and fifty-three and took nothing.
+Six rows are ruled on the sheet of what this holding does not know. Nobody has cut a seventh for any of the four things a seventh row is not cut for. Under two words there are four ruled lines and they are bare. On the low board an offer lies with no day on it, untouched and untaken and not taken back. The ladder took no rung. No foot went onto the ring of bare ground at the top of the low field.
+
+The compost line is paid at thirty and has been let out in nothing. The barrow has its eleven journeys and eleven is a floor. The sessions in this holding's book are at seven. The requests and the section-nine notes are at fifty-three and fifty-three and took nothing.
 
 Nothing was fetched from the man of about seventy and no question was put to him at any hour. The seventh column of the door nine hundred yards off was walked past, unread, and whatever is written in that column is still written there.
 

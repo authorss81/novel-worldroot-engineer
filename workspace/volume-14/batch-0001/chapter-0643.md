@@ -38,19 +38,25 @@ Sera Quill had the slate under her arm at about ten and did not go near the door
 
 Tova Reed came out from behind the seed house glass at about eleven and stood at the end of the long table with the return in front of her, and she had not been asked about it and did not wait to be.
 
-**"I am not saying the two things this morning,"** she said. **"A piece of paper came in with a column in it addressed to this holding and the column said thirty-nine, and the thirty-nine did not move, and a rule under it came back empty for the four hundred and seventh time. That is the only thing that happened in this yard before noon and I am not going to stand in front of it and say out loud that a day is gone for good, because a man who says that sentence in a room is a man asking the room to stop looking at the page, and this room has spent all morning looking at the page."**
+**"I am not saying the two things this morning,"** she said. **"A piece of paper came in with a column in it addressed to this holding and the column said thirty-nine, and the thirty-nine did not move, and a rule under it came back empty this morning for the thirty-ninth time, and that is the same thirty-ninth time it has been every time a load has come up that road."**
 
-The long sheet stands at four hundred and four for the four bodies of households, and the clause around it reads the four hundred and third out of four hundred and fifth. The four lines under it want two signatures each and have wanted them for four hundred and four days and have neither of the two on any of them.
+She put her hand flat on the return where it lay on the end of the long table and left it there while she said the rest.
+
+**"That is the only thing that happened in this yard before noon and I am not going to stand in front of it and say out loud that a day is gone for good, because a man who says that sentence in a room is a man asking the room to stop looking at the page, and this room has spent all morning looking at the page."**
+
+The long sheet stands at four hundred and four for the four bodies of households, and the clause around it reads the four hundred and third out of four hundred and fifth. The four lines under it want two signatures each and have wanted them since before the wall went up, and there is neither of the two on any of them this morning or on any morning since.
 
 Nia Vale had the register form in her hand at noon because the rack is hers to straighten on a Monday, and she stood with it a moment longer than straightening takes, and then said the figure out loud in a yard that had gone quiet for it.
 
 **"Three hundred,"** she said. **"Three hundred days on the register form and not a day over and not a day under, and that is the roundest thing in this building, and I have been running this rack for nine years and I have never once seen it land on a round figure, and I do not know what a register is supposed to do with a person who has to sign under three hundred."**
 
-Nobody answered her, and she put the form back square on the shelf, and the charter behind it is two hundred and six, and the second ruled line in Silling's own book is two hundred and ninety-four, and none of the three was touched today by anybody except her and a clerk.
+Nobody answered her, and she put the form back square on the shelf, and behind it the charter is two hundred and six, and there is two hundred and ninety-four on the second ruled line in Silling's own book, and none of the three was touched today by anybody except her and a clerk.
 
 Seven hundred and ninety on the near board. Eight hundred and thirty-seven on the far one. Forty-seven has been the distance between those two boards in every morning this holding has kept, and this morning it was forty-seven, and the drawer let into the masonry behind the near board is shut and its key is on the nail in the one room door now and will be on it at dusk.
 
-The count in force did not rise on a Monday and stands at a hundred and forty, with twenty-nine taken and a hundred and eleven not. The ladder went up no rung, and the offer on the low board lies where it has lain since before this holding had a schedule, undated, untaken and not taken back. No foot has gone onto the ring of bare ground at the top of the low field this morning, and none went in four years. There are six rows ruled on the sheet of what this holding does not know. Nobody has cut a seventh, and the four of them a seventh row is not cut for were not said out loud this morning by anybody.
+The count in force did not rise on a Monday and stands at a hundred and forty, with twenty-nine taken and a hundred and eleven not. The ladder went up no rung, and the offer on the low board lies where it has lain since before this holding had a schedule, undated, untaken and not taken back. No foot has gone onto the ring of bare ground at the top of the low field this morning, and none went in four years.
+
+There are six rows ruled on the sheet of what this holding does not know. Nobody has cut a seventh, and the four of them a seventh row is not cut for were not said out loud this morning by anybody.
 
 Nobody fetched the man of about seventy, and no question was put to him. The seventh column of the door nine hundred yards off went unread this morning, and the figure standing in it is where it was.
 

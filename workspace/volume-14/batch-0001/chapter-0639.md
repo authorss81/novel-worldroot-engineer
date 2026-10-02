@@ -16,7 +16,7 @@ Then the clerk read the launder, because a wall is read at nine whether or not a
 
 **"Eight on, and the four hundred and second,"** he said, **"and I am aware that four hundred and second has a hundred in it, and so does the thing I am going to say, and they are two figures and this yard does not add them."**
 
-The long sheet carries the four bodies of households and this morning it carries four hundred, with nothing on the end of it. The small hand underneath has the three hundred and ninety-ninth out of four hundred and first, one under and one over the figure they sit either side of.
+There is a round figure on the long sheet this morning and four hundred is what it says, with no tail on the end of it at all, which is the first time a figure on that table has stopped short of anything. Underneath it a small hand has written the three hundred and ninety-ninth out of four hundred and first, and those two stand a step either side of it, and neither of them is the figure and neither of them is counted with it. The four bodies of households are the four bodies of households and they are still four.
 
 Harlan Vetch put his hand flat on the table beside that figure and not on it, and looked at it for about as long as it takes to be sure of a thing.
 
@@ -50,7 +50,9 @@ Nia Vale came in from the seed house at ten with the envelope still in her hand 
 
 **"I am not saying the two things this morning,"** she said. **"I have read that covering letter twice and every word of it can be checked by somebody, and there is one sentence in this yard that no paper in this building can check. I am not going to put the two of them on the same table on the morning a paper turns up that a man can check every word of. Somebody will write down afterwards that the paper and the sentence are the same kind of thing, and they are not, and I will not be the one who lays them side by side."**
 
-Harlan Vetch had the far board in his eye while he said that, standing at the end of the table with his back to the near one, and the boards this morning are seven hundred and eighty-six at this end and eight hundred and thirty-three at the other, and the forty-seven between them is the same forty-seven and always has been, and the drawer let into the masonry behind the near one has not been opened and its key has been on the nail in the one room door since first light.
+Harlan Vetch said that with his back to the near board and the far one in his eye, and the two figures on them this morning are eight hundred and thirty-three at the far end and seven hundred and eighty-six at the near end of the same yard, and he gave them in that order because that is the order he can see them in.
+
+Forty-seven is the distance between those two boards and has been since the wall went up. The drawer in the masonry behind the near one stayed shut through the whole of his saying it, and the one key to that drawer went onto its nail in the one room door at first light and is on it now.
 
 Kellan Rusk had the three ages by eleven and gave them in the order of the shelf and not the order of their size. Two hundred and ninety-six days on the register form. Two hundred and two on the charter behind it. Two hundred and ninety on the second ruled line in Silling's own book, which he read with two fingers resting on the shelf and not with his mouth, and the room noticed that and nobody said so about it.
 
@@ -60,9 +62,9 @@ Thirty-nine blanks stand on the board in the one room and the second rule under 
 
 Paid is in front of thirty and has been let out in nothing, and the barrow is on its eleven journeys with eleven a floor, and the sessions in this holding's book are at seven and a Thursday is not an eighth, and the requests and the section-nine notes are at fifty-three and fifty-three and took nothing off that table this morning.
 
-The man of about seventy was not fetched and nothing was put to him at any site. The sixty-six in the seventh column of the door nine hundred yards off was not read and has not gone back, and the reading is standing there for anybody who ever wants to spend it.
+Soren Rill had the last of the morning and put his hand flat on the bar of the gate on his way past it. Nothing was put to the man of about seventy at any of his sites today, and nobody went near him to do it. The door nine hundred yards off is a door with a figure scratched into the seventh column of it, and nobody in this yard has read that figure this morning, and the figure is where it was yesterday and will be where it was today.
 
-Nobody climbed the ladder and no figure stands against either of the two people who belong to it. The offer on the low board has no day on it and has not been touched, taken up or taken back. The ring of bare ground at the top of the low field took no foot this morning and has taken none in four years.
+The ladder is a ladder and there is nobody standing on any rung of it, and this holding prints no figure against either of the two people that ladder belongs to. On the low board there is an offer, and there is no day written on it, and it has not been touched since the day it was put there, and nobody has picked it up and nobody has taken it back. At the top of the low field there is a ring of bare ground, and no foot went onto it this morning, and no foot has gone onto it in four years.
 
 The first of the three sheets is ninety-nine days old and lying face up, and the second is folded back on the other crease, and the third is headed with a name and a date and a hand and a seal and is correct in every particular, like the one that came this morning, and about nine inches of bare board stands either side of each of the three.
 

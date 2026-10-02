@@ -20,7 +20,7 @@ Renn Ashby read the pair out of the doorway at the seventh hour, four voices on 
 
 **"I have said that number the way I say it every odd morning and I have said the one on the wall the way I say that one, and they are two different spellings of two different figures, and I have watched two people in this yard this week reach for one of them when they wanted the other. The pair is one hundred and seventy-two. The half is a hundred and ninety. Neither of them is the other and a man who cannot tell them apart cannot run a wall."**
 
-The woman of about thirty-eight of Marden filled a can at the tap and set it down without spilling and said the thing from the tap and not from the table, the way she does.
+The woman of about thirty-eight of Marden set both cans down on the slab by the tap without spilling a drop out of either, and said what she had to say from up there and not from the table, which is the way she has said everything since anybody in this yard first heard her say it.
 
 **"Right,"** she said. **"And I will say the other half of it. He has just told you the spelling of one figure and the spelling of a different one, and the reason he can do it is that the two of them have never once been the same figure on the same morning. Put them in a list together in your own head and you have a book nobody can check, and a book nobody can check is a book that gets quoted."**
 
@@ -46,7 +46,11 @@ Sennik Vaul read the three ages off the rack at half past ten in the order a per
 
 Harlan Vetch was on the wall at the north end at eleven with a chisel in one hand and a green thread of yarrow still in the second joint of the third course, and he said the thing out loud to the wall rather than to the yard, and then said it louder.
 
-**"I am not saying the two things this morning, and I will tell you why, and it is a narrow reason and it belongs to me. That schedule took a branch off a hedge two miles outside this basin on a day when nobody in this yard was told about it, and I cannot put my hand on a sentence in this yard that says a day is gone for good while I have got a piece of paper in my pocket that says a date did come, and it came, and somebody wrote it down. One of those two is about a person. The other one is about a day, and a day is the thing that paper is good at."**
+**"I am not saying the two things this morning, and I will tell you why, and it is a narrow reason and it belongs to me. That schedule took a branch off a hedge two miles outside this basin on a day when nobody in this yard was told about it, and I cannot put my hand on a sentence in this yard that says a day is gone for good while I have got a piece of paper in my pocket that says a date did come, and it came, and somebody wrote it down."**
+
+He turned the chisel over once in his hand and did not put it to the stone.
+
+**"One of those two is about a person. The other one is about a day, and a day is the thing that paper is good at."**
 
 Then the boards, which the man of about fifty read at the gate in the order of the near one first and the far one second, and did not add the two and did not look at anybody while he did it.
 
@@ -56,6 +60,8 @@ Behind the near board there is a drawer let into the masonry, and on the frame o
 
 The count in force did not rise on a Friday and stands at a hundred and thirty-nine, twenty-nine taken and a hundred and ten not. Thirty-nine blanks and the second rule open and empty under them, and it opened nothing. Paid is in front of thirty and has been let out in nothing. The barrow stands at eleven journeys and eleven is a floor. Seven sessions in this holding's book and a Friday is not an eighth. Fifty-three in the requests and fifty-three in the section-nine notes, and neither has taken a sheet off that table or a page out of a coat.
 
-The man of about seventy was not fetched and nothing was put to him. The sixty-six in the seventh column of the door nine hundred yards off was not read this morning and it has not gone back. Nobody climbed the ladder. The offer on the low board has no day on it and has not been touched. The ring of bare ground took no foot. Four ruled lines under two words are bare. The third column of the sheet of terms is ruled and empty under a heading nobody has improved. Inside the tool house a mark on the wall measures four inches and forks twice, and it has not acquired a third.
+Nobody went out to the man of about seventy today and nothing was said to him. Nine hundred yards off there is a door with a number scratched into its seventh column, and this holding did not read that number this morning, and the number has not gone back one notch since anybody last looked at it. No rung of the ladder was climbed, and no foot went onto the ring of bare ground at the top of the low field, which is four years unwalked.
+
+On the low board an offer lies with nothing written on it for a date. Not one of the four ruled lines under the two words carries anything. The third column of the sheet of terms is ruled and empty and the heading over it is one nobody has ever thought to improve. And inside the tool house there is a mark cut into the plaster that measures four inches and forks twice and has not acquired a third fork.
 
 There is a hundred days on the letter and a hundred days on the first of the three sheets, and both of them are the age of a thing that arrived at the ninth hour and has been lying face up ever since, and about nine inches of bare board stands either side of it, and the yard got through the whole of a Friday without once asking anybody what it was worth.

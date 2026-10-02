@@ -22,7 +22,7 @@ Nobody answered any of it before the wall.
 
 He put two fingers on the top line of the slate and then on the line under it.
 
-**"The falling half has moved and stands at a hundred and eighty-three. The other has not moved since Wednesday, which is three Wednesdays running, and it is a hundred and ninety-three. Three hundred and seventy-six, and a woman from Marden is going to write that down, and she is going to write it in the wrong order, because that is the order I gave it to her in."**
+**"The falling half has moved and stands at a hundred and eighty-three. The other has not moved since yesterday, and yesterday it did not move either, and it is a hundred and ninety-three. Three hundred and seventy-six, and a woman from Marden is going to write that down, and she is going to write it in the wrong order, because that is the order I gave it to her in."**
 
 Renn Ashby read the pair at the seventh hour with the stone on the corner and the heading over the pair is of a month nine months back and has not moved.
 
@@ -32,11 +32,19 @@ For the four bodies of households the long sheet says four hundred and seven, wi
 
 The clerk stood at the end of the table with the register form still on the shelf behind him and did not take it down, and gave the reason before anybody put the question to him, and the yard has by now stopped remarking on that.
 
-**"I am not saying the two things this morning,"** he said, **"and I am going to be short about why. A place that is answerable to this holding has just asked this holding for a figure in a yard, and there are about eleven people standing in this yard. If I say the sentence that names the end of a thing in front of that ask, then in about a week there will be a version of this morning in which this holding refused Marden a number and said something else instead, and the two of them will be the same story, and I have watched four years of this yard turn one morning into two by saying a second thing in the same air."**
+**"I am not saying the two things this morning,"** he said, **"and I am going to be short about why. A place that is answerable to this holding has just asked this holding for a figure in a yard, and there are about eleven people standing in this yard. If I say the sentence that names the end of a thing in front of that ask, then in about a week there will be a version of this morning in which this holding refused Marden a number and said something else instead."**
+
+He put two fingers on the long table next to the figure and did not touch it.
+
+**"And the two of them will be the same story, and I have watched four years of this yard turn one morning into two by saying a second thing in the same air."**
 
 Then he answered the ask, which he did do, and did it properly, and it took a quarter of an hour.
 
-**"The figure is on the long sheet and it has been on the long sheet for four hundred and seven days, and it is a figure about this holding's four bodies and not a figure about Marden's water or Marden's ground or Marden's seed. It was not made for Marden and it is not kept for Marden, and it went up by one this morning the way it goes up every morning. I can tell you who keeps it and it is me, and I can tell you when it last moved, and it moved at the second hour this morning when nothing came off the low field."**
+**"The figure is on the long sheet and it has been on the long sheet since before this holding had a schedule to be handed, and it is a figure about this holding's four bodies and not a figure about Marden's water or Marden's ground or Marden's seed. It was not made for Marden and it is not kept for Marden, and it went up by one this morning the way it goes up every morning."**
+
+He turned the long sheet round on the table so that the woman from Marden could see the figure herself.
+
+**"I can tell you who keeps it and it is me, and I can tell you when it last moved, and it moved when the wall went up, and it has not stood still since. And the rota in the one room is a different figure with a different name and I am not going to hand you the two of them in the same breath."**
 
 **"Is it the same figure for the other three places,"** the woman said.
 
@@ -58,9 +66,13 @@ Soren Rill was standing at the tool house end of the yard with his back to every
 
 The three ages were read at the rack by Nia Vale, in the order of her own choosing, which was the ruled line first and the charter second and the form last, and nobody stopped her. Two hundred and ninety-seven on the second ruled line in Silling's own book. Two hundred and nine on the charter. Three hundred and three days on the register form.
 
-Seven hundred and ninety-three on the near board and eight hundred and forty on the far one, forty-seven apart, and the drawer behind the near board is shut and the key to it is on the nail in the frame of the one room door.
+The woman of about thirty-eight of Marden read the two boards off the yard door on her way out, far end first because that was the one she could see from the path, and said them once each to nobody in particular on the way past. Eight hundred and forty on the far one. Seven hundred and ninety-three on the near one, which is the lower of the two and has been the lower of the two every morning of her life. Forty-seven apart.
 
-Nothing about the rota moved on a Thursday, and the count in force is a hundred and forty-one in force, twenty-nine taken, a hundred and twelve not. Paid is in front of thirty and has been let out in nothing. Eleven journeys on the barrow and eleven is a floor. Seven sessions in this holding's book. Four ruled lines under two words are bare and six rows are ruled against what this holding does not know and nobody has cut a seventh. The ladder took no rung. On the low board there is an offer with no day on it, and it has not been taken up and it has not been taken back. Nobody walked onto the ring of bare ground at the top of the low field.
+She did not add them and neither did anybody who was watching her not add them, and behind the near board the drawer is shut and its key is on the nail in the frame of the one room door.
+
+Nothing about the rota moved on a Thursday, and the count in force is a hundred and forty-one in force, twenty-nine taken, a hundred and twelve not. Paid is in front of thirty and has been let out in nothing. Eleven journeys on the barrow and eleven is a floor. Seven sessions in this holding's book.
+
+Four ruled lines under two words are bare and six rows are ruled against what this holding does not know and nobody has cut a seventh. The ladder took no rung. On the low board there is an offer with no day on it, and it has not been taken up and it has not been taken back. Nobody walked onto the ring of bare ground at the top of the low field.
 
 The man of about seventy was not fetched and nothing was put to him. Nobody read the sixty-six in the seventh column of the door nine hundred yards off and it did not go back. Nobody was asked to choose anything.
 

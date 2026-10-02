@@ -2,7 +2,7 @@
 
 ## The Fourteenth Of The Seventeenth, And The Count Came Round And Came Back Empty
 
-The fourth line of the rota came round at the second hour on Saturday the way it comes round, and the gate on the low field stood open a hand's width at seven and shut hard by eight with nobody near it, and the count in force went from a hundred and thirty-nine to a hundred and forty between the two, which is the only movement that figure has made this month.
+Saturday brought the fourth line of the rota round at the second hour, the way it brings it round, and by seven the gate on the low field was standing open a hand's width, and by eight it had been shut hard with nobody standing near it. Between those two hours the count in force went from a hundred and thirty-nine to a hundred and forty, and that is the only time that figure has moved this month.
 
 A hundred and forty in force, twenty-nine taken, a hundred and eleven not.
 
@@ -12,13 +12,17 @@ The long sheet took the same step without anybody touching it. Four hundred and 
 
 **"There is nobody late,"** the clerk said. **"There has not been anybody late since the third of the month and the third of the month is not a figure I am proud of either."**
 
-**"Thirty-nine blanks,"** Hesta Lyle said, tapping the board with the chalk and not marking anything with it. **"Thirty-nine on the board, and the second rule under them standing open and empty, and it has come back empty four hundred and six times now and it has not opened a single thing. I would like the yard to hear me say that in a sentence instead of me finding it out in nine years."**
+**"Thirty-nine blanks,"** Hesta Lyle said, tapping the board with the chalk and not marking anything with it. **"Thirty-nine on the board, and the second rule under them standing open and empty, and it has come back empty for the thirty-ninth time now and it has not opened a single thing. I would like the yard to hear me say that in a sentence instead of me finding it out in nine years."**
 
 Nobody was blamed. Nobody was even mentioned in a way that could be heard as blame, and the man of about fifty, who had put his name in the fortieth blank on a Tuesday in a fortnight nobody could name, was not in the yard and was not spoken of.
 
 Sera Quill's slate came out of her coat at about ten and she set it on the trestle under the tap and did not wipe it, because there is nothing on it to wipe.
 
-**"Eighty-eighth and seventy-fifth,"** she said. **"Thirteen apart, as they have been apart since the first morning I copied them. The first one steps by one on the mornings the line comes round and the second one is carried forward, and I am going to say that last part out loud because I have never said it out loud. The second of those two is carried forward. No printed rule in this holding moves it. It is a number I have been moving by hand for nine years and I could stop tomorrow and it would not change, and the day somebody asks me which of the two is right I am going to have to say that the question has been standing in the wrong place."**
+**"Eighty-eighth and seventy-fifth,"** she said. **"Thirteen apart, as they have been apart since the first morning I copied them. The first one steps by one on the mornings the line comes round and the second one is carried forward, and I am going to say that last part out loud because I have never said it out loud."**
+
+She put her thumb on the gap in the slate and left it there.
+
+**"The second of those two is carried forward. No printed rule in this holding moves it. It is a number I have been moving by hand for nine years and I could stop tomorrow and it would not change, and the day somebody asks me which of the two is right I am going to have to say that the question has been standing in the wrong place."**
 
 **"Then where is it standing,"** Kellan Rusk said.
 
@@ -36,13 +40,21 @@ The rising half of the window went up to a hundred and ninety-one on a Saturday,
 
 At the seventh hour there was nobody in the doorway, and there was a reason, and the reason was given by a person who had not given it before.
 
-**"I am not reading the pair this morning,"** Hesta Lyle said, **"and here is the whole of why. My name is on the rota and I have been on it since before the pair existed, and every second morning for four years the absence of a voice in that doorway has been a thing I have been able to feel in the room without looking up. Today the room is going to have to talk about a schedule and a column with a place called Marden on it, and if I am standing in the doorway at the seventh hour holding a book, then the two things I say in the next hour will be the two things anybody in this yard heard at the seventh hour. I would rather be a woman who sat down."**
+**"I am not reading the pair this morning,"** Hesta Lyle said, **"and here is the whole of why. My name is on the rota and I have been on it since before the pair existed, and every second morning for four years the absence of a voice in that doorway has been a thing I have been able to feel in the room without looking up."**
+
+She looked at the long table and at the paper that had come up the road the day before and was lying on the end of it.
+
+**"Today the room is going to have to talk about a schedule and a column with a place called Marden on it, and if I am standing in that doorway at the seventh hour holding a book, then the two things I say in the next hour will be the two things anybody in this yard heard at the seventh hour."**
+
+She sat down on the end of the trestle with her hands in her lap.
+
+**"I would rather be a woman who sat down."**
 
 Renn Ashby, who had come in behind her and had not expected any of it, put the book under his arm and did not open it, and did not say anything at all, which is a thing he has done perhaps four mornings in four years.
 
 Kellan Rusk was in the one room at eleven with the rack in front of him and he read the three ages in the order they came off the shelf, which was the form, the charter, and the ruled line, and he gave the first two out loud and put his hand flat on the shelf for the third.
 
-Two hundred and ninety-eight days on the register form. Two hundred and four on the charter. Two hundred and ninety-two on the second ruled line in Silling's own book, said by the shelf and not by a mouth.
+He gave the third of the three himself and nobody else did. Two hundred and ninety-two days is what stands on the second ruled line in Silling's own book. Two hundred and ninety-eight is the register form. Two hundred and four is the charter.
 
 **"I am not saying the two things this morning either,"** he said, **"and I will say why, and it is the plainest reason anybody in this yard will give today. There is a page in a coat in this building that is not in a book and has never been on that table, and I am the only person who knows which coat."**
 
@@ -54,7 +66,7 @@ The boards were seven hundred and eighty-eight at the near end and eight hundred
 
 Paid is in front of thirty and has not been let out in anything. The barrow has its eleven journeys and eleven is a floor and nobody has added one. Seven sessions stand in this holding's book and a Saturday is not an eighth. The requests stand at fifty-three and the section-nine notes at fifty-three and neither took a sheet off the long table this morning, where the first of the three is a hundred and one days old and lying face up with nine inches of bare board on either side of it.
 
-There is a door nine hundred yards off with a figure in the seventh column of it, and the figure has not gone back, and nobody in this holding read it this morning, and the reading is there in the morning for whoever decides that a Saturday with nothing else on it is the morning to spend it.
+Harlan Vetch walked out to the tap house after his dinner and took the short way, and the seventh column of the door nine hundred yards off came and went on that walk at about the pace of a man who is not looking at it. This holding does not read that figure. It has not read it on this morning and the figure is not one inch back from where it was standing before anybody in this yard woke up, and there is nobody in this yard who has been asked whether he wants to.
 
 Nobody climbed the ladder. The offer on the low board has no day on it and nobody has touched it. The ring of bare ground took no foot this morning and has taken none in four years.
 
@@ -64,4 +76,8 @@ The three not knowns that had names against them in the spring had lost those na
 
 Then the clerk carried the board out of the one room and stood it against the wall where anybody walking in from the gate could see it, which is a thing he has done perhaps twice in four years, and stood beside it with his hands in his pockets.
 
-**"A hundred and forty in force and a hundred and eleven not,"** he said, **"and I am going to say the other thing out loud in this yard while I have said it in my own head for a fortnight. That second rule under the thirty-nine blanks has come back empty four hundred and six times and it has never once opened anything. A rule that comes back empty opens nothing. That is not a complaint about the rule and it is not a complaint about the thirty-nine. It is the only sentence I have got about it, and I have been keeping it in here, and a sentence kept in here is a sentence nobody can argue with, and this holding has spent four years not arguing with a sentence."**
+**"A hundred and forty in force and a hundred and eleven not,"** he said, **"and I am going to say the other thing out loud in this yard while I have said it in my own head for a fortnight. That second rule under the thirty-nine blanks came back empty this morning for the thirty-ninth time, and in that whole run it has never once opened anything. A rule that comes back empty opens nothing."**
+
+He turned round and looked at the board standing against the wall where anybody coming in from the gate could read it.
+
+**"That is not a complaint about the rule and it is not a complaint about the thirty-nine. It is the only sentence I have got about it, and I have been keeping it in here, and a sentence kept in here is a sentence nobody can argue with, and this holding has spent four years not arguing with a sentence."**
