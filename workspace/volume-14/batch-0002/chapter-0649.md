@@ -8,9 +8,7 @@ The Sunday reading did not happen and the woman of about thirty-eight of Marden 
 
 Harlan Vetch, who was at the north end with his back to everybody, made a noise that two people heard and nobody remarked on.
 
-The rest of a Sunday in this holding is a slower thing than the rest of the week, and the clerk did the rotation first, because it is the one job on a Sunday that has to be done at the same hour whatever else is or is not done.
-
-The count in force stood at a hundred and forty-two this morning, with twenty-nine taken off it and a hundred and thirteen of them not. It rose by one, and it rises by one and one only on a morning of this kind, and it has risen by one on every morning of this kind since the holding began keeping it.
+The rest of a Sunday in this holding is a slower thing than the rest of the week, and the clerk did the rotation first, because it is the one job on a Sunday that has to be done at the same hour whatever else is or is not done. The count rose by one, and it rises by one and one only on a morning of this kind, and it has risen by one on every morning of this kind since the holding began keeping it.
 
 **"Twenty-nine taken off it,"** the clerk said. **"A hundred and forty-two in force and a hundred and thirteen of them not."**
 
@@ -50,9 +48,7 @@ Then the launder, which does have work behind it, and the wall, which does not.
 
 **"Eight on,"** the clerk said. **"The four hundred and twelfth. The rising half is a hundred and ninety-five and the falling half is a hundred and eighty-four, and the falling half has not moved since Friday and this is a Sunday, which takes it. Three hundred and seventy-nine."**
 
-Hesta Lyle had the long sheet square in front of her and her own hand on the edge of the paper rather than on the figure printed on it, and she read the four bodies of households out and then the small hand under the line.
-
-Hesta Lyle put her hand beside the figure on the long sheet and not on it, and gave the number first and the clause after it, which is her habit and has been since the first morning she stood at that table.
+Hesta Lyle had the long sheet square in front of her and her own hand flat on the edge of the paper rather than on the figure printed on it, and she gave the number first and the clause after it, which is her habit and has been since the first morning she stood at that table.
 
 **"Four hundred and ten. And underneath it, in the small hand, the four hundred and ninth out of four hundred and eleventh."**
 

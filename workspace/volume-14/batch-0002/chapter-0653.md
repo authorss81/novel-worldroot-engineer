@@ -54,9 +54,7 @@ Sera Quill had her slate out already with the two figures on it and the third li
 
 **"Ninety-first,"** she said. **"And seventy-eighth. Thirteen apart. The second one is carried forward and nothing printed in this holding moves it, and I have said that out loud in this yard three times now and I will say it again next time, and the thirteen is the part of this slate anybody can check."**
 
-Kellan Rusk read the three ages at the rack in the order of the shelf and gave the third one last with his thumb against the shelf edge.
-
-Kellan Rusk took the three off the rack and gave them the way they came, which is the form, then the charter, and then the line in Silling's book.
+Kellan Rusk took the three off the rack one under the other and gave them the way they came, which is the form, then the charter, and then the line in Silling's book, and he kept his thumb against the edge of the shelf the whole way through.
 
 **"Three hundred and ten days is what the form is at. The charter is at two hundred and sixteen. The ruled line in Silling's book is at three hundred and four and has nothing on it."**
 

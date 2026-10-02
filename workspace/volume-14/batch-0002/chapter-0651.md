@@ -66,7 +66,7 @@ She squared the paper up again.
 
 **"Four lines under the whole of it, each wanting two signatures, and not one signature on any of them, and still no column anywhere in this holding cut for what a signature would be agreeing to."**
 
-The near board is seven hundred and ninety-eight and the far one is eight hundred and forty-five, and the drawer behind the near one is shut, and its key is on its nail at this hour and was on it at first light.
+The near board is seven hundred and ninety-eight and the far one is eight hundred and forty-five. Sera Quill walked the length of them without hurrying and put her palm flat on the masonry at the near end and found where the drawer is let in, and it has not been opened since the wall went up, and the key in the frame of the one room door was on its nail at first light and is on it at this hour.
 
 The count in force stood where it stood on Friday, at a hundred and forty-one with twenty-nine taken and a hundred and twelve not, because a Tuesday is not a morning the rotation comes round on. No field was taken and nobody was blamed for a field that waited.
 
@@ -92,4 +92,4 @@ Nothing was fetched from the man of about seventy on this Tuesday and nothing wa
 
 Six ruled rows for what this holding does not know, with nothing cut above them. The ladder stands un climbed. The low board holds its offer, undated, unpicked, unreturned. Nobody has put a foot on the ring of bare ground.
 
-Nobody in this yard was asked to choose anything on this Tuesday morning, and the one decision that was made in it was made by the only person in the yard who had the standing to make it, and she made it about a room.
+A decision was made in this yard on this Tuesday morning, and it was made by the only person in it who had the standing to make one, and she made it about a room and about nothing else, and there was no vote on it and no vote was wanted, because a thing a person has the standing to decide is not a thing a yard settles between them.

@@ -84,4 +84,4 @@ The shelf for what this holding does not know has six ruled rows on it and no se
 
 The ladder stands against the tool house wall with nobody on it. The low board holds its offer with no day written on it, unpicked and not withdrawn. The ring of bare ground is still bare. And the door nine hundred yards off went past at the eleventh hour and was not read.
 
-Nobody thanked anybody in this yard on this Friday for the sheet and nobody forgave anybody for it either, and a man with a barrow stood in the middle of the yard at noon looking at four names at the top of a piece of paper and did not put either of his hands in his pockets.
+For the sheet this yard gave nobody thanks on this Friday and gave nobody forgiveness either, and at noon a man with a barrow stood in the middle of it looking at four names at the top of a piece of paper with his hands hanging at his sides where anybody could see them.

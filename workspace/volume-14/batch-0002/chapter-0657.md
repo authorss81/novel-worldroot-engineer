@@ -34,11 +34,7 @@ He turned the slate over and wrote on the back of it.
 
 **"The launder is at one thousand and two hundred and forty-four hundredweight, which is eight on and the four hundred and twentieth. And a yard can watch a launder go by for a whole morning and not see the pair change, which is the one thing I would like anybody to take away from a Monday."**
 
-Kellan Rusk read the three ages at the rack and gave them without a hand on anything at all, which he said on Sunday he would do and which he did.
-
-The rack was Kellan Rusk's and he emptied it into his own two hands before he said anything, which is what he has done every morning since Sunday.
-
-Kellan Rusk gave the three ages without a hand on anything at all, which is three mornings running now that he has done it that way.
+Kellan Rusk emptied the rack into his own two hands before he said anything, which is what he has done every morning since Sunday, and neither hand went near the shelf while he was doing it.
 
 **"On the form, three hundred and fourteen days. On the charter, two hundred and twenty. In Silling's own book, on the second ruled line, three hundred and eight with nothing written on it."**
 
@@ -80,4 +76,4 @@ He put two fingers on the wood below the paper.
 
 **"Underneath, four bodies of households and four lines, and every one of the four is short the two signatures it wants at the foot. This holding has not cut a column for what a signature would agree to, and a column for that is the office's paper and not ours."**
 
-Nobody in this yard was asked to choose anything on this Monday morning, and nobody was asked to choose anything on any morning of this week, and the clerk turned the yard key at dusk and the one other key in this holding was on its nail.
+Dusk came and the clerk turned the yard key with the one other key in this holding on its nail behind him, and the third rotation of the fortnight had come round and gone by that morning with no field taken and nobody blamed for one that waited, and the yard that was built to answer for one household is answering for three, and the whole of the week added up to a road and a ford and a pencil and one place that is still not reached, and nobody in the yard had been asked to pick up any of it.

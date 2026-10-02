@@ -82,4 +82,4 @@ Tova Reed counted the use log through the glass with the back of her hand and st
 
 Harlan Vetch looked at his own mark on the tool house wall as he went past, four inches with two forks and no third fork anywhere on it, and nobody has ever put a sign under it or asked him what it means. The man of about seventy had nothing fetched from him and was asked nothing anywhere today. Nobody has climbed the ladder. The offer on the low board is undated, unpicked, and has not been withdrawn. The ring of bare ground is still bare. The door nine hundred yards off was walked past at the eleventh hour and not read.
 
-What this yard did on a Wednesday morning with a return standing at the wall in front of it was go on working, and the cart went back down the fen road at the eleventh hour without anybody having to sign for it.
+Down the fen road at the eleventh hour the cart went with nobody having to sign for it, and the yard worked on around a thing it had not been asked about, which is a morning nobody in this building is going to be asked anything about either.

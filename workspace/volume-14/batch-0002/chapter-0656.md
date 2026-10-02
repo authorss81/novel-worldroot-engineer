@@ -74,4 +74,4 @@ Tova Reed counted the six rows on the shelf with the back of her hand on her way
 
 The mark on the tool house wall is four inches and forks twice. The ladder went up no rung. The offer on the low board is where it was put, undated, untaken, not taken back. The ring of bare ground has not had a foot on it. Nothing was fetched from the man of about seventy on this Sunday and nothing was asked of him anywhere he was seen. And the door nine hundred yards off went past at about the eleventh hour and was not read.
 
-Nobody asked a man who gave something away on Saturday what it was that he gave away, and he did not tell them, and the yard got through the Sunday on that, and will get through the next one on the same terms.
+That Sunday went by in this yard with a man who had given something away on Saturday and nine people who did not ask him what it was, and the yard got through it on those terms, and it will get through the next one on the same.
