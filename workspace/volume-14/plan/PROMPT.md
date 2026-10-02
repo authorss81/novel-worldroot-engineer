@@ -1,3 +1,22 @@
+# SCOPE OF THIS RUN - READ FIRST
+
+
+
+1. **Write the chapters.** The chapters this phase is for, in ascending order. Start with the first one in your very
+   first action: create that chapter file before doing anything else.
+2. **Do not attempt any close, audit, or planning duty** listed below. Those
+   belong to later phases. Ignoring them is required; attempting them fails this
+   run.
+3. **Do not create a next-phase prompt.** The pipeline creates it.
+4. **Update only the state files** these chapters require, and nothing else.
+
+Every rule below still binds the prose you write. But if a rule cannot be
+satisfied inside this run's chapters, write the chapters anyway and record the
+unmet rule in `state/open-threads.md` for a later phase.
+
+**Producing finished chapters is the success condition for this run. Returning
+without writing any chapter is a failure.**
+
 # Volume 14 Planning Phase, which follows the Volume 14 Outline
 
 **THE NEXT PHASE AFTER THE OUTLINE, AND IT IS THE CARD SET FOR VOLUME 14 AND NOT A BATCH AND NOT A CLOSE AND NOT A REPAIR.**
