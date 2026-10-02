@@ -92,7 +92,7 @@ He turned the sheet over and put his own hand flat on the blank back of it, and 
 
 He turned the long sheet over and read the two figures again off the back of it.
 
-**"Two hundred and thirty-nine days on the charter and three hundred and thirty-three on the form and three hundred and twenty-seven on the line in Silling's own book with nothing written against it. I have said that last part out loud five mornings running at the same volume every time and it does not get quieter or louder."**
+**"Two hundred and thirty-nine days on the charter and three hundred and thirty-three on the form and three hundred and twenty-seven on the line in Silling's own book with nothing written against it. I have said that last part out loud five mornings running at the same level every time and it does not get quieter or louder."**
 
 He put the sheet down the way he puts it down, square to the edge.
 

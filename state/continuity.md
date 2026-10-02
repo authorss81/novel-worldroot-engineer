@@ -6,7 +6,7 @@ about ten thousand words together and the archived layer behind it is at
 
 This file carries the story. Figures and derivations are in `state/current.md`, live threads
 in `state/open-threads.md`, the volume index in `state/chapter-summaries.md`. Last rewritten
-2026-10-02 on Batch 0004.
+2026-10-02 on Batch 0004 and on the review-fix pass over it.
 
 ---
 
@@ -128,11 +128,15 @@ or answer either.
 - **No reconciliation between this file and the bible.** The drift is recorded, not repaired.
 - **No new final enemy, no fifth permanent loss, no recovery of the Aldren memory, no softening
   of the ear, no second caretaker.**
-- **Two unresolved conflicts, both named at `outline/volume-14.md` section 12b and neither
-  repaired.** `outline/series.md` and `outline/ending.md` both place the surrender of the Aldren
+- **Three unresolved conflicts, all three named at `outline/volume-14.md` section 12b and none of
+  them repaired.** `outline/series.md` and `outline/ending.md` both place the surrender of the Aldren
   memory in Volume 13 and Volume 13's forty-nine mornings do not carry the name; Volume 14's plan
   has decided where it is paid and has left both files alone, and a pass with the standing to
-  edit those two files owes them the correction. And the premise drift in section 1.
+  edit those two files owes them the correction. The premise drift in section 1. And the plan's own
+  allowance clause, which puts each locked sentence whole on the first and last morning, against its
+  separation clause, which forbids the two on the same morning; the card set resolves it for the
+  allowance on those two mornings, **and the plan is unrepaired and the closing morning will speak
+  both.**
 
 ## 7. The figures a page or a script overrode, through 2026-10-02
 
@@ -145,7 +149,13 @@ successor that finds one of these in a card has inherited an error and not a rul
    ever been let out of that line. **Only the direction was ever wrong and the page governs.**
 2. **The read-aloud numerator is `one hundred and [WORD]`,** not `a hundred and`. The plan's day
    table prints it in the window half's form on every odd morning and that cell is withdrawn for
-   the volume, **including its rows for days 891 to 899.**
+   the volume, **including its rows for days 891 to 899. The review of Batch 0004 measured the
+   damage and the repair could not pay it: the table prints it wrongly in all twenty-five of its
+   read-aloud rows against the same file's own spelling section, while all twenty mornings on disk
+   and the queued closing prompt are right. `outline/volume-14.md` is a completed phase's file and
+   the correction is owed by whoever owns it.** The writer's own measurement file printed the form
+   wrongly too, so **a derivation that gets every value right can still carry a series's wrong
+   spelling, and the spelling is a figure in this manuscript.**
 3. **The seed vault was not given up on day 879.** It was given up on day 864 in
    `chapter-0651.md`, in her own mouth, and it is not paid again anywhere.
 4. **The bare three hundred in the register form is on day 856** and does not recur; on day 886
@@ -164,3 +174,15 @@ successor that finds one of these in a card has inherited an error and not a rul
 8. **Two gate measurements published by an earlier pass did not reproduce and were withdrawn.**
    A duplicate gate never run against a paragraph that must collide with itself will publish a
    nil on a batch that has one.
+9. **The third fourth-line morning of Batch 0004 is day eight hundred and ninety, and the queued
+   prompt named day eight hundred and eighty-nine**, which is not congruent to two modulo four.
+   **That prompt's own day table, count-in-force paragraph and three card headers all said ninety,
+   and so do the pages, so one clause disagreed with the rest of its own file.** Repaired.
+10. **The six bare words *volume*, *batch*, *chapter*, *seat*, *fieldbook* and *panel* are not in
+    the body prose of any chapter.** The review found *volume* once, at `chapter-0676.md`, in a
+    line about the level a figure is said at; it is repaired and all four batches sweep clean.
+    **No sweep before this one tested for them, so an earlier pass's clean report says nothing.**
+11. **`reviews/volume-14-batch-0004.findings.md` is a writer self-check and not a review**, headed as
+    one since 2026-10-02. **It passed a page carrying a banned word, it mis-stated a series's
+    spelling, and it was committed with the ten mornings it describes.** The review of that batch is
+    `logs/batch-0004.review.log`. **Fifth self-check this repository has had to relabel.**

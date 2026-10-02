@@ -1,8 +1,18 @@
 # Volume 14, Batch 0004: findings
 
+## THIS IS THE WRITER PHASE'S OWN MEASUREMENT RECORD AND NOT A REVIEW, AND IT IS HEADED AS ONE, BECAUSE THE WRITER PHASE THAT DRAFTED THE TEN MORNINGS WROTE IT IN THE SAME COMMIT THAT DRAFTED THEM.
+
+**The independent review of this batch is the reviewer phase's report at `logs/batch-0004.review.log`,
+and it is this file's only reader who had standing to certify the batch. It found four defects this
+file missed and certified clean, and they are listed at section 7 and they are the reason this file
+is not to be read as corroboration of itself.** Read it for the derivations, the two gates and their
+method. Do not read it for assurance: a writer has no standing to certify its own work, and this
+repository has paid that bill four times already.
+
 Days 881 to 890, files `chapter-0668.md` to `chapter-0677.md`. Twenty-six thousand five
 hundred and seventy-one words across ten files, per file 3,041, 2,825, 2,632, 2,734, 2,489,
-2,673, 2,633, 2,353, 2,445, 2,746, measured with `len(text.split())` per file.
+2,673, 2,633, 2,353, 2,445, 2,746, measured with `len(text.split())` per file. **The one-word
+repair at section 7 does not move any of these figures**, because the word it replaced was one word.
 
 **Nothing in this file is a state input.** It exists so that the figures below can be
 reproduced. Every one of them was produced by a script over the rules at `state/current.md`
@@ -18,11 +28,19 @@ and fifty-nine with five off on an odd morning and eight on on an even one; the 
 day minus four hundred and eighty-three with the falling half at a hundred and forty-five plus
 half of everything above three hundred, floor; the aggregate from day minus four hundred and
 fifty-two with its clause one under and one over; the boards from day minus sixty-six and day
-minus nineteen; the read-aloud numerator from a hundred and forty-seven at day eight hundred
+minus nineteen; the read-aloud numerator from **one** hundred and forty-seven at day eight hundred
 and three plus one on every odd morning and its denominator from day minus five hundred and
 twenty-six; the rotation from the count rising by one on a day congruent to two modulo four
 with the reckonings stepping with it; the three day-minus ages; the letter at day minus seven
 hundred and fifty-three.
+
+**THE READ-ALOUD NUMERATOR'S HOUSE FORM IS `ONE HUNDRED AND` AND NOT `A HUNDRED AND`, AND THIS
+PARAGRAPH PRINTED IT WRONG UNTIL THE REVIEW-FIX PASS OF 2026-10-02 CORRECTED IT, WHICH IS THE
+ERROR THE REVIEW NAMED AS THE THIRD OF ITS OWN DEFECTS.** The derivation reproduced the *value*
+correctly and the *form* wrongly, because a script that derives numbers does not know which of the
+two hundred-to-range spellings each series takes. **A derivation that gets every figure right can
+still carry a series's wrong form, and the form is a figure in this manuscript and not a typo in
+one.**
 
 **Against the prompt's own day table: zero mismatches on every field of every row.** The
 derivation was then run backwards over days eight hundred and seventy-one to eight hundred and
@@ -235,3 +253,49 @@ have said nothing about it at all.
    comfort line lands on a Monday in a yard where somebody else is already talking, which is
    what the plan says the locked sentences need, and it is worth checking that the yard is
    genuinely already occupied when it lands.
+
+---
+
+## 7. What the independent review found that this file missed, added by the review-fix pass of 2026-10-02
+
+The report at `logs/batch-0004.review.log` re-derived every figure from the plan's own rules
+instead of trusting this file, reproduced all of section 2 and all of section 3, and returned four
+defects. Three are repaired; one is recorded and left to a pass with the standing to pay it.
+
+1. **A banned bare word on one page of one morning, at `chapter-0676.md`.** The word *volume* stood
+   in the clerk's mouth, in a line about the level at which he has said a figure five mornings
+   running, and the card set bars *volume, batch, chapter, seat, fieldbook* and *panel* from body
+   prose. **One word in one line: *volume* is now *level*, and the sentence and the paragraph stand.**
+   **This file's mechanical sweep at section 4 does not test for banned words at all**, which is
+   why it reported zero defects on a page that carried one, and the sweep is the record rather than
+   the check.
+2. **The queued prompt's third fourth-line morning was wrong, and this file did not look.** The
+   prompt named day eight hundred and eighty-nine, which is not congruent to two modulo four; the
+   three are days eight hundred and eighty-two, eight hundred and eighty-six and eight hundred and
+   ninety. **The prompt's own day table and its own three card headers and its own count-in-force
+   paragraph all said ninety, and the error stood in one clause of one paragraph**, so the file's
+   claim that it checked the derivation against the prompt's table was true of the table and silent
+   on the prose around it. **The pages were right: the count is carried on days 882, 886 and 890 in
+   `chapter-0669.md`, `chapter-0673.md` and `chapter-0677.md`.** Repaired in the prompt.
+3. **This file's own restatement of the read-aloud rule printed the numerator in the window half's
+   form**, at the head of section 1, and is corrected there. **The review's paraphrase of this item
+   also names the anchor day as day eight hundred and eighty-three, and the file says eight hundred
+   and three, which is correct**; the error in this paragraph is the form and not the day, and the
+   two are separate faults and only one of them was here.
+4. **The plan's day table prints the numerator in the window half's form on all twenty-five of its
+   read-aloud rows, against the plan's own spelling section, which mandates `one hundred and` for
+   that series.** The manuscript follows the spelling section on all twenty occasions and the
+   queued closing-batch prompt does too. **NOT REPAIRED HERE.** `outline/volume-14.md` is a
+   completed phase's file and this pass has no standing to edit it; the state layer already
+   withdraws that cell on every odd morning of the volume, `state/continuity.md` section 7 item 2,
+   and **the correction of the table itself is owed by a pass that owns the outline.**
+
+**And one thing the review asked for that is a decision and not a defect.** It asked that the
+closing batch's four in-between locked sentences, which spend both allowances to their cap and
+override prohibitions on seven cards, be decided before that batch runs and not after. **The
+decision is recorded in `state/open-threads.md` section 4 and in `state/current.md` section 8, and
+the reasoning was already written into the queued prompt's own section 5 before the review ran.**
+What the review added is that both allowances go to their cap for the first time in the volume, and
+that each of the four landings has to be measurable against the plan's rule that somebody else was
+already saying something else. **No morning of the closing batch has been written, so nothing in it
+is spent yet and the decision is still cheap to change.**

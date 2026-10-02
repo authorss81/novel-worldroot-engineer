@@ -4,7 +4,7 @@
 `state/current.md`, the story is in `state/continuity.md`, and the archived layer at
 `reviews/state-archive-2026-10-02/` holds the per-thread detail for every row below.**
 
-Last rewritten 2026-10-02 on Batch 0004.
+Last rewritten 2026-10-02 on Batch 0004 and on the review-fix pass over it.
 
 ---
 
@@ -149,6 +149,17 @@ five is among the ten who had given that reason before.
 7. **The earlier review that reported one marker wrong is recorded so no successor repeats the
    fix.** `batch-0003` is not closed and is not meant to be; forking `.done` there would close a
    phase out from under the gate running it.
+8. **The closing batch's four in-between locked sentences, decided here so that they are decided
+   before the mornings exist and not after.** The queued prompt spends four, which takes both
+   in-between allowances to their cap for the first time in the volume and overrides the card set's
+   prohibitions on seven cards, on the house's own ground that a card's *neither locked sentence is
+   spoken whole* is a floor and the plan's allowance is a ceiling. **The decision stands, and the
+   review asked for it before the batch runs, which is what this item is.** Four conditions travel
+   with it, at `state/current.md` section 8: at most one locked figure on a morning, none of the
+   four on the closing morning, the closing morning carrying both as the card set's recorded
+   resolution requires, and each landing where somebody else is already talking, which no gate
+   measures. **No morning of that batch is written, so nothing is spent and this is still cheap to
+   change.**
 
 ---
 
@@ -165,6 +176,9 @@ block in Batch 0004 was given a different actor, a different verb and a differen
 on each morning it appears. **The batch as first written carried thirty-three repeated
 eighteen-word shapes inside itself and one hundred and forty-nine sliding windows against the
 thirty mornings behind; as written it carries none inside itself and seventeen, all seventeen of
-which are the two locked figures, which are required to be identical to themselves.** **A measure
-that counts standing-item recurrence per chapter is the right replacement gate and it does not
-exist yet**; building it is a decision for the pass that owns the gates.
+which are the two locked figures, which are required to be identical to themselves. Those figures
+were reproduced independently by the review, which is the only standing a figure of a self-check
+has, and the review names this delivery the first thing a reader should look at** because it is
+the thing most likely to be wrong in a way neither gate can see. **A measure that counts
+standing-item recurrence per chapter is the right replacement gate and it does not exist yet**;
+building it is a decision for the pass that owns the gates.

@@ -6,8 +6,8 @@ Read this file whole, and the other three whole.**
 **Read this file whole, and the other three whole.**
 
 This file was rewritten on 2026-10-02 in the review-fix pass on Volume 14 Batch 0002, again
-Last rewritten 2026-10-02, on Batch 0004. Every figure below is re-derivable from the rule
-beside it. Nothing is inherited on trust.
+Last rewritten 2026-10-02, on Batch 0004 and on the review-fix pass over it. Every figure below is
+re-derivable from the rule beside it. Nothing is inherited on trust.
 
 ## 1. Where the manuscript is
 
@@ -84,9 +84,10 @@ prose of any chapter and there may not be one.
   `and`s.** **`hundredweight` is attached to the figure** with no hyphen and no space, and tens
   are hyphenated while round tens are not: `twenty-nine`, `ninety`.
 - **A window half under two hundred is `a hundred and [WORD]`. The read-aloud numerator in its
-  range is `one hundred and [WORD]`.** Two figures, two forms, side by side all volume. The
-  plan's day table prints the numerator in the window half's form; that cell is **withdrawn on
-  every odd morning of the volume**, including days 891 to 899.
+  range is `one hundred and [WORD]`.** Two figures, two forms, side by side all volume. **The
+  plan's day table prints the numerator wrongly in all twenty-five of its rows; that cell is
+  withdrawn on every odd morning, the queued closing prompt and all twenty mornings on disk print it
+  right, and the table is unrepaired and owed to a pass that owns the outline.**
 - **A fall goes on every odd morning and a rise on every even one, and from day 851 onward the
   falling half moves first.** Carrying the order of Volume 13 into this volume is wrong on every
   odd morning.
@@ -101,6 +102,10 @@ prose of any chapter and there may not be one.
   carried *March* three times and cut all three. **A chapter may say *of this month* instead**,
   and has since the morning after the turn, on days 871, 879, 881 and 885. A chapter says *the
   seventeenth* or *the eighteenth* only inside a heading.
+- **THE BARE WORDS *VOLUME*, *BATCH*, *CHAPTER*, *SEAT*, *FIELDBOOK* AND *PANEL* ARE NOT IN BODY
+  PROSE**, and *panel* is available only to say that there is none. **A review found one, at
+  `chapter-0676.md`, in a line about the level a figure is said at; it is repaired and all four
+  batches sweep clean, and no sweep before this one tested for these six words.**
 
 ---
 
@@ -172,6 +177,15 @@ in any spoken line.**
 over days 881 to 890 against the pages of Batch 0004 before being run forward.** Two errors in a
 hand-typed table were caught that way and are named at `state/continuity.md` section 7.
 
+**THE FOUR IN-BETWEEN LOCKED FIGURES ARE DECIDED BEFORE THAT BATCH RUNS.** The prompt spends four,
+taking both in-between allowances to their cap for the first time in the volume and overriding the
+card set's prohibitions on seven cards, on the house's ground that a card's *neither locked sentence
+is spoken whole* is a floor and the plan's allowance is a ceiling. **The decision stands, with four
+conditions: at most one locked figure on a morning, none of the four on the closing morning, the
+closing morning carrying both as the card set's recorded resolution requires, and each landing where
+somebody else is already talking, which no gate measures.** Nothing is spent yet, so this is still
+cheap to change. The reasoning is at `reviews/volume-14-batch-0004-repair.findings.md` section 3.
+
 **Two placements already moved and may not move back.** The seed vault was given up on day 864
 against a card that placed it at day 879. The Aldren memory was paid on day 868 against a plan
 that named no morning, and a card that placed it at day 885 lost.
@@ -180,9 +194,10 @@ that named no morning, and a card that placed it at day 885 lost.
 
 ## 9. What the last pass did
 
-**Batch 0004, 2026-10-02, days 881 to 890, `chapter-0668.md` to `chapter-0677.md`.** Ten new
-mornings, no morning restarted. The per-morning record is at `state/chapter-summaries.md`
-section 3.
+**Batch 0004, 2026-10-02, days 881 to 890, `chapter-0668.md` to `chapter-0677.md`, and the
+review-fix pass over it the same day.** Ten new mornings, no morning restarted. The per-morning
+record is at `state/chapter-summaries.md` section 3, the fix pass at
+`reviews/volume-14-batch-0004-repair.findings.md`.
 
 - **Every standing block was given a different actor, verb and sentence order on each morning it
   appears, and no figure of any series was altered in any of it.** The batch as first written
@@ -191,6 +206,9 @@ section 3.
   morning its card names and each landing where somebody else was already talking.
 - **A duplicated reason was found and cut.** The mason gave the same reason on two mornings.
 - **Three month names were found and cut**, all of them *March*.
+- **A banned bare word was found by the review and cut**, at `chapter-0676.md`, and **the queued
+  prompt named its third fourth-line morning as day 889 and it is day 890**, where that prompt's own
+  table, cards and count all said ninety. One word and one clause; the word counts did not move.
 - **No block of any kind was spent**, so the volume's ceiling of thirty is untouched at
   twenty-eight unspent.
 - **What happened in the yard:** the second place said it would not be first; the reach's costing
@@ -202,15 +220,20 @@ section 3.
   out with one place in it on a rotation morning while a man stood at the gate with a figure of
   his own still shut in his case.
 
-### The measurements, with the method beside them
+### The measurements, and who measured them
 
-**Method, item list and the gate bugs are at `reviews/volume-14-batch-0004.findings.md`, which no
-prompt reads, and only the conclusions belong here.** The figure check required each item present
-as a whole phrase in its own morning's body prose on a **case-insensitive** match, because a
-figure at the start of a sentence is capitalised: **two hundred and fifty-five items, two
-hundred and fifty-five matching, zero failures.** The figures were re-derived by script from the
-rules rather than read off the prompt's table, and that derivation found two errors in that
-table and **zero mismatches** against every other cell of it.
+**The independent review is the reviewer phase's report at `logs/batch-0004.review.log`. It
+re-derived every figure from the plan's rules instead of trusting the writer's own record,
+reproduced all of it, and returned four defects that record had missed.**
+`reviews/volume-14-batch-0004.findings.md` is therefore **a self-check and not a review**, headed as
+one on its first line, and read for its derivations and nothing else. **A clean result from a
+self-check is not a clean batch, and this one passed a page carrying a banned word.** The figure
+check required each item present as a whole phrase in its own morning's body prose on a
+**case-insensitive** match: **two hundred and fifty-five items required, two hundred and fifty-five
+matching, zero failures, and the review reproduced every one.** The derivation found two errors in
+the prompt's own table and **zero mismatches** against every other cell of it, and it could not see
+a series's spelling at all, which is how the wrong numerator form sat in the plan's table and in
+that self-check while every morning on disk was right.
 
 The duplicate gates ran on both scopes. **First gate:** one thousand three hundred and
 thirty-four paragraphs of thirty words or more, three hundred and ninety-nine thousand three
