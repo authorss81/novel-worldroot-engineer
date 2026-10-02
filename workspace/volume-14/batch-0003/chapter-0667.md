@@ -56,7 +56,7 @@ He read the three papers on the long table as he went past, which he does.
 
 Kellan Rusk came out of the rack and shut it and stood with his back against it.
 
-**"A hundred and forty-six in force. Twenty-nine gone out at their own hours. A hundred and seventeen not gone out, and that half has been above a hundred all season and will be above a hundred next Tuesday. A Thursday is not a morning the rotation comes round on and it did not come round on it this morning. No field left this yard today, none was on the rota for today, and I am not going to stand here and point at a man over a field that never came due."**
+**"A hundred and forty-six in force, and the half of it that has not gone out is a hundred and seventeen, which has been above a hundred all season and will be above a hundred next Tuesday. The twenty-nine that have gone out went at their own hours. A Thursday is not a morning the rotation comes round on and it did not come round on it this morning. No field left this yard today, none was on the rota for today, and I am not going to stand here and point at a man over a field that never came due."**
 
 He did not take his back off the rack.
 
@@ -96,7 +96,13 @@ He put his hand flat on the bench he had been sitting on.
 
 The woman of about thirty-eight of Marden went out through the gate at dusk and came back the whole length of the shelves with her cans, reading the ends of them as she went, in an order nobody has ever asked her for.
 
-**"Thirty-nine blanks on the board in the one room and the rule underneath them open and empty at the thirty-ninth time. Six ruled rows against what we do not know, and nothing cut above the sixth. Fifteen lines in the use log and no sixteenth written. Eleven journeys on the barrow and no twelfth. Seven sessions entered in this holding's book and a Thursday takes none of them. Fifty-three in the requests and fifty-three in the section nine notes, and this morning neither of those two books took nine trays of seed out of a gate, and I have looked at both of them and neither has a column for it."**
+**"On that board in the one room there are thirty-nine blanks, and the rule underneath them stands open and empty at the thirty-ninth time, and it has opened nothing. Six ruled rows above that for what we do not know with nothing cut over the sixth. Fifteen lines in the use log and not one line written over the fifteenth. Eleven journeys marked against the barrow and no twelfth, and eleven is a floor and not a figure anybody in this place is trying to pass."**
+
+**"Seven sessions stand entered in this holding's book, and a Thursday takes none of them, and I have never once thought that was a complaint about a Thursday."**
+
+She reached past her own shoulder without turning round and had the two books down off the shelf one under the other.
+
+**"The other two books are each at fifty-three, and they are the requests and the section nine notes, and this morning neither of them took nine trays of seed out of a gate, and I have had both of them open on the step beside me and neither one has a column for it."**
 
 She set the last can down on the step.
 

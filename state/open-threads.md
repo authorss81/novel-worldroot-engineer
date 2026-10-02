@@ -66,51 +66,48 @@ line here is what a writer needs to avoid breaking one.
 
 ## 3. What the last ten mornings advanced
 
-The standing did not move. Named, so a later pass inherits the finding and not the
-sentences. Days 871 to 880, files `chapter-0658.md` to `chapter-0667.md`.
+The standing did not move. Named, so a later pass inherits the finding and not the sentences.
+Days 871 to 880, files `chapter-0658.md` to `chapter-0667.md`.
 
 - **The one month turn inside the volume came and went and turned a calendar and nothing
-  else.** The launder did not reset at it, the window did not re-anchor at it, the boards
-  did not move toward each other, the three ages did not count it and the letter did not
-  jump, and the rotation did not come round on it because it is not a fourth-line morning.
+  else.** The launder did not reset at it, the window did not re-anchor, the boards did not
+  move toward each other, the three ages did not count it and the letter did not jump, and the
+  rotation did not come round because it is not a fourth-line morning.
 - **The compost line fell once, to paid at thirty-one, on day 873, and stands there.** The
-  clerk was the first to see it and he did not decide it; the interval is in the gate book
-  and not in anybody's head. It was copied on the morning it changed and copied again the
-  next morning without a word about it, and it is the only figure in the volume that has
-  gone up.
-- **The rising half of the window sat at exactly two hundred, bare, on days 872 and 873,
-  on two mornings, and stayed above two hundred afterwards.** No character treated it as an
-  event and a woman of about thirty-eight of Marden said the moved half first on purpose.
+  clerk was first to see it and did not decide it; the interval is in the gate book and not in
+  anybody's head. It is the only figure in the volume that has gone up, and nothing is ever
+  let out of it.
+- **The rising half sat at exactly two hundred, bare, on days 872 and 873, and stayed above
+  two hundred afterwards.** No character treated it as an event and a woman of about
+  thirty-eight of Marden gave the moved half first on purpose.
 - **Two places refused to be first and the arithmetic was given in a room rather than at a
   table.** A second refusal cost a third place its head sluice at the fifth hour. Nobody was
   called a coward by anybody who benefits from the refusal.
-- **This holding became the first thing in four years to ask the column for anything.**
-  A cistern went against the north wall of the room where the seed work is done, the pipe
-  comes off the head the four places are arguing over, and Hesta Lyle refused to write it
-  on the column's sheet because a fifth place on a column is a thing somebody has to answer
-  for. The demand is on her own paper at home.
-- **The seed work's standing changed inside an ordinary week.** It moved off a shelf onto
-  the floor because a bracket and a cistern took the wall, one row of the bench is bare and
-  nobody asked what goes in it, and the cart still goes on a Thursday.
+- **This holding became the first thing in four years to ask the column for anything.** A
+  cistern went against the north wall of the room where the seed work is done and the pipe
+  comes off the head the four places are arguing over. Hesta Lyle refused to write it on the
+  column's sheet, because a fifth place on a column is a thing somebody must answer for.
+- **The seed work's standing changed inside an ordinary week.** It moved off a shelf onto the
+  floor because a bracket and a cistern took the wall, one row of the bench is bare, and nobody
+  asked what goes in it. The cart still goes on a Thursday.
 - **A man with a case asked what this holding's standing was worth to somebody else and was
-  refused in one line**, and left with a column number on the corner of his own form and no
-  box filled in. He said he would come back with a figure of his own.
-- **What did not happen.** No field was taken on any of the ten mornings, including on both
-  fourth-line mornings, and each says in its own words that nobody is blamed for a field
-  that waited. Nobody was asked to choose anything on any of the ten mornings. No month
-  name and no month number appear anywhere. The door nine hundred yards off was walked past
-  every morning, read on none, and offered to nobody.
+  refused in one line**, leaving with a column number on the corner of his own form and no box
+  filled in. He said he would come back with a figure of his own.
+- **What did not happen.** No field was taken on any of the ten mornings, including both
+  fourth-line mornings, and each says so. Nobody was asked to choose anything on any of the
+  ten. No month name and no month number appear anywhere. The door nine hundred yards off was
+  walked past every morning, read on none, and offered to nobody.
 
-**Two things this batch owed and did.** Ten people gave, in their own mouths, a reason for
-not saying the two things, and no reason repeats one given anywhere in the volume before.
-Five people gave, one per even morning, a reason the run was not read, and none of the five
-is among the ten who gave reasons on the mornings behind.
+**Two things this batch owed and did.** Ten people gave, in their own mouths, a reason for not
+saying the two things, and no reason repeats one given anywhere in the volume before. Five
+people gave, one per even morning, a reason the run was not read, and none of the five is
+among the ten who gave reasons on the mornings behind.
 
 **One claim is withdrawn.** The previous layer carried a standing note that the
-nobody-is-asked-to-choose streak was *"the eleventh volume running."* It could not be
-checked against the manuscript, Volume 14 is the fourteenth, and the streak's start is not
-derivable from the pages. **The streak is real and is no longer counted, and no volume
-count may be printed for it anywhere.**
+nobody-is-asked-to-choose streak was *"the eleventh volume running."* It could not be checked
+against the manuscript, Volume 14 is the fourteenth, and the streak's start is not derivable
+from the pages. **The streak is real and is no longer counted, and no volume count may be
+printed for it anywhere.**
 
 ---
 
@@ -157,23 +154,20 @@ phase that settles one of them without standing has done a canon decision silent
 
 ## 5. What was done about the standing recitation, and what was deliberately not done
 
-The review is right that all ten mornings walk the same list of about fifteen standing
-items, and right that neither duplicate gate can see it. It is wrong that the fix is to
-cut the items.
+The review is right that all ten mornings walk the same list of about fifteen standing items,
+and right that neither duplicate gate can see it. It is wrong that the fix is to cut the items.
 
-**Measured, before and after this pass's repair, over the same fifteen items: thirteen
-point nine distinct items per morning and sixteen point six mentions, unchanged, against
-eleven point three and thirteen point four in the untouched batch behind.** The count did
-not move because it was never meant to. The standing list *is* the thirty-five in and
-thirty-five out: the compost line, the barrow floor, the seven sessions, the two books at
-fifty-three, the use log, the thirty-nine blanks, the six ruled rows, the mark, the
-ladder, the low board, the ring, the man of about seventy, the door, the three papers, the
-drawer. Remove them from a page and the thread stops being visible; the thread does not
-stop being open.
+**Measured, before and after this pass's repairs, over the same fifteen items: fourteen point
+two distinct items per morning, unchanged, against eleven point three in the untouched batch
+behind.** The count did not move because it was never meant to. The standing list *is* the
+thirty-five in and thirty-five out: the compost line, the barrow floor, the seven sessions,
+the two books at fifty-three, the use log, the thirty-nine blanks, the six ruled rows, the
+mark, the ladder, the low board, the ring, the man of about seventy, the door, the three
+papers, the drawer. Remove them from a page and the thread stops being visible; the thread
+does not stop being open.
 
-**What this pass changed instead is delivery, not inventory.** In five of the ten
-mornings the closing block was narration with nobody in it, and those figures now arrive
-through a named character doing something. That is a prose repair and it is what was
-done. **A measure that counts standing-item recurrence per chapter is the right
-replacement gate and it does not exist yet**; building it is a decision for the pass
-that owns the gates, not for a repair pass that has one chapter in front of it.
+**What this pass changed is delivery, not inventory.** Standing blocks that arrived as
+narration with nobody in them now arrive through a named character doing something. That is a
+prose repair. **A measure that counts standing-item recurrence per chapter is the right
+replacement gate and it does not exist yet**; building it is a decision for the pass that owns
+the gates.

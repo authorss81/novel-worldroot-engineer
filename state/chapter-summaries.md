@@ -73,46 +73,51 @@ For every earlier volume the outline and the pages are the record and this index
 
 **Batch 0003, days 871 to 880, files 658 to 667.** 27,148 words.
 
-- **871**, Tuesday, the first. The one month turn inside the volume, and it turns a
-  calendar and nothing else.
-- **872**, Wednesday, the second. The rising half of the window comes to exactly two
-  hundred, bare, and the woman of about thirty-eight of Marden says what that is.
-- **873**, Thursday, the third. **The compost line falls to paid at thirty-one**, the only
-  downward figure in forty-nine mornings, and the rising half sits at two hundred a second
-  time.
+- **871**, Tuesday, the first. The one month turn inside the volume, and it turns a calendar and nothing else.
+- **872**, Wednesday, the second. The rising half comes to exactly two hundred, bare, and the woman of about thirty-eight of Marden says what that is.
+- **873**, Thursday, the third. **The compost line falls to paid at thirty-one**, the only downward figure in forty-nine mornings, and the rising half sits at two hundred a second time.
 - **874**, Friday, the fourth. The sixth of the twelve fourth-line mornings, a return, and
   the launder at exactly one thousand and two hundred and fifty, which nobody reads into.
 - **875**, Saturday, the fifth. A woman from the second place stands in the place the
   branches are going and describes it.
 - **876**, Sunday, the sixth. The choice that cannot be dodged, and this holding's refusal
   to be first, given as money and arithmetic and not as temper.
-- **877**, Monday, the seventh. What the second refusal costs a place that was not this
-  one: a head sluice shut at the fifth hour and the water coming round the long way.
+- **877**, Monday, the seventh. What the second refusal costs a place that was not this one: a head sluice shut at the fifth hour and the water coming round the long way.
 - **878**, Tuesday, the eighth. The seventh fourth-line morning, and a man with a case asks
   what this holding's standing is worth and is refused in one line.
-- **879**, Wednesday, the ninth. The cistern against the north wall, the first demand this
-  holding has ever made on the column, and the seed work moved off its shelf onto a floor
-  by the woman who owns it.
-- **880**, Thursday, the tenth. Nine trays on a cart, four claims on one head, and the
-  second place still out of reach. Nobody is asked anything.
+- **879**, Wednesday, the ninth. The cistern against the north wall, the first demand this holding has ever made on the column, and the seed work moved off its shelf onto a floor by the woman who owns it.
+- **880**, Thursday, the tenth. Nine trays on a cart, four claims on one head, the second place still out of reach. Nobody is asked anything.
 
-It repeated none of the nineteen reasons the mornings behind gave for not saying the two
-things, and none of the ten reasons the run was not read.
+**The reasons are countable and were counted.** Five even mornings carry a reason the run was
+not read, from five people: Marek on a chalk line, the man of the north row with the cough
+walking up for his paper, the man of about fifty going to his sister's, the clerk with a
+stranger in the yard, and Tova Reed on the cart. Ten mornings carry a character saying out
+loud that he is not saying the two things and why, from nine people: the clerk, Nia Vale,
+Marek twice on days 873 and 879 on two different reasons, Sera Quill, Odile Vray, Soren Rill,
+Tova Reed, the man of about fifty, and the man of the north row with the cough.
+
+**Four repairs were made inside mornings already on disk**, named by file and by fact at
+`state/current.md` section 9. **No figure of any series was altered by any of them.** Two are
+why a successor should not trust a published gate count: the paragraph gate found a paragraph
+of day 879 at zero point eight six five against one of day 876, and the sliding window found
+three standing blocks on day 880 back in a shape an earlier morning already carried.
 
 **What the next batch owes these thirty mornings, all of it confirmed against the pages:**
 
-- It may not repair any of them. They are closed to every pass after the one that wrote
-  them.
-- It may not pay the seed vault again, re-announce it, have anybody discover it, or have
-  anybody describe her as having given something up, thank her, apologise to her or put a
-  hand on her arm.
+- It may not repair any of them. They are closed to every pass after the one that wrote them.
+- It may not pay the seed vault again, re-announce it, have anybody discover it, or describe
+  her as having given something up, thank her, apologise to her or put a hand on her arm.
 - It may not recover, soften or explain the Aldren memory, and it may not add a fifth
   permanent loss.
-- It may not print a counter for the second rule other than the thirty-ninth time, a bare
-  two hundred for the charter, or three hundred and fifty in the read-aloud denominator.
+- It may not print a counter for the second rule other than the thirty-ninth time, a bare two
+  hundred for the charter, a bare three hundred for the register form, or three hundred and
+  fifty in the read-aloud denominator. **The bare three hundred in the register form is on day
+  856 and does not come again.**
 - It may not spell the read-aloud numerator in the window half's form.
-- It may not read the run on an even morning, may not offer the door nine hundred yards
-  off to anybody in a yard, and may not print an allowance figure for the sixty-six.
-- It may not take a field, and it may not ask anybody in this yard to choose anything.
-- **It may not print the compost line as paid at thirty on any morning.** It has stood at
-  thirty-one since day 873 and no page puts it back.
+- It may not read the run on an even morning, may not offer the door nine hundred yards off to
+  anybody in a yard, and may not print an allowance figure for the sixty-six.
+- It may not take a field, it may not ask anybody in this yard to choose anything, and **it may
+  not print the compost line as paid at thirty on any morning.**
+- **It may not print a gate measurement it has not checked against a paragraph that must
+  collide with itself.** Three of the four repairs above were invisible to a gate that
+  compared a paragraph with itself.

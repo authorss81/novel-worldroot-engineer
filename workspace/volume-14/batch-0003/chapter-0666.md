@@ -40,9 +40,13 @@ Nobody in that room wrote it on a sheet.
 
 Hesta Lyle squared the long sheet on the middle table on her way out of the room and gave it its two sentences, because the figure at the head of that sheet has gone up by one every morning since before she started standing there.
 
-**"Four hundred and twenty-seven is the figure at the head of it,"** she said, **"and under the line, in the small hand, it is the four hundred and twenty-sixth out of four hundred and twenty-eighth. A step below the number and a step above it, every morning of the nine years I have stood at that table, and it will be that shape again this evening."**
+**"The small hand is the one I would read first if anybody asked me which of the two is the finding and which is the year,"** she said. **"Four hundred and twenty-sixth out of four hundred and twenty-eighth, one step under and one step over, in the same hand and in the same two places, for nine years at that table."**
 
-She put two fingers on the wood below the paper and not on the paper.
+She drew the sheet toward her by one corner and let it go again.
+
+**"And the figure standing over the top of it is four hundred and twenty-seven. It has come up by one every morning of the four years I have stood here and it will come up by one tomorrow morning too, and there is nobody in this yard I could put that sheet down in front of who would hold it still."**
+
+She kept two fingers on the wood below the paper the whole time she was saying the next part of it.
 
 **"Four bodies of households and four lines under the whole of them, two signatures wanted at the foot of each, and not one signature is on any of the four this morning. That is the one line on this table that gets left where it lies instead of being written forward, and I would like it left there."**
 
