@@ -1097,3 +1097,83 @@ WOUND.**
    hand was on the ledge under it on the fifth morning for about as long as a hand rests on a thing that is not being
    picked up, and she did not pick it up. **THE OFFER IS STILL UNDATED, UNPICKED AND NOT WITHDRAWN, AND NO PAGE IN THIS
    BATCH SAYS WHAT SHE WAS THINKING, AND NO SUCCESSOR MAY.**
+
+---
+
+## Volume 16, Batch 0002: the ten mornings at days nine hundred and fifty-nine to nine hundred and sixty-eight
+
+**THIRTY-FIVE IN AND THIRTY-FIVE OUT. NOTHING ANSWERED, NOTHING CLOSED, NOTHING GROUPED, NOTHING SUMMED, NOTHING ADVANCED TO A
+FIGURE, AND NO THIRTY-SIXTH ROW CUT FOR THE SCHEDULE, THE LOAD, THE CAP, THE CUSTODY, THE OFFER, THE REGION THAT REFUSES THE
+TEST OR ANYTHING ELSE.**
+
+16. **The thirty-five open questions in general.** Said nothing new. Thirty-five in and out. **THE NINE WHO LIVE AT THE TOP OF THE
+    FOURTH PATH NAMED A ROUTE THEY WILL DEFEND AND IT WAS NOT COUNTED WITH ANYBODY ELSE'S ROUTE AND WAS NOT A THIRTY-SIXTH ROW,
+    AND NAMING A ROUTE IS NOT ANSWERING A QUESTION.**
+18. **The use log and the reason for the fifteen.** **FIFTEEN LINES AND THE SIXTEENTH NOT WRITTEN ON THE MORNING THAT NAMED IT,
+    AND ON THE LAST MORNING OF THIS BATCH THE USE LOG WAS FOUND AT FIFTEEN WITH THE SIXTEENTH UNWRITTEN AND NOT GOING TO BE.**
+19. **The pattern-holder counts and the two rootmarks.** All carried unmoved. Not named in any form. **THE ROOT NAMED NINE PEOPLE
+    AT THE TOP OF THE FOURTH PATH IN ROAN SELK'S MOUTH ON THE FIFTEENTH MORNING OF THE VOLUME, AND NOBODY EXPLAINED WHAT IT IS
+    AND NOBODY IN THAT YARD USED THE WORD ABSORBED IN ANY FORM.**
+20. **The four accounts of the arm and the mark.** **THE MARK FOUR INCHES FORKING TWICE WITH NO SECOND MARK STANDS AND WAS NOT
+    LOOKED AT AND WAS NOT ASKED ABOUT ON ANY OF THE TEN MORNINGS OF THIS BATCH.**
+23. **The times a bookkeeper has said a thing in a yard the engineer of record had not thought of.** **ADVANCED AND NOT SPENT.
+    On the eighteenth morning Sera Quill named the margin out loud and refused to price it, and the man who will refuse in two
+    mornings had not been told, and on the nineteenth morning Auret Sill put the strongest argument for accepting into the yard
+    and he listened to the whole of it and answered none of it. THE THREAD IS OPEN AND WIDER THAN IT WAS.**
+26. **The requests and the section-nine notes.** **FIFTY-THREE AND FIFTY-THREE, NEVER ADDED, NEVER THE SAME LIST, RESTATED ON ONE
+    MORNING OF THIS BATCH AS TWO BOOKS WITH A HEADING OVER EACH AND NO HEADING OVER THE TWO OF THEM TOGETHER.**
+27. **The barrow and the four roads.** **ELEVEN JOURNEYS RESTATED ON FIVE OF THE TEN MORNINGS IN FIVE DIFFERENT WORDS, AND ON THE
+    SIXTEENTH MORNING THE MAN WHO PUSHES IT WAS TOLD THAT A FOURTH TANK UNDER A LEAN-TO WOULD FILL IT TWICE AND HE SAID THAT A
+    NUMBER DOES NOT BECOME A DIFFERENT NUMBER BECAUSE A WOMAN HAS BEEN OUT ALL MORNING, AND ON THE TWENTIETH MORNING IT STOOD
+    WHEEL FIRST AND WAS NOT WHEELED OUT OF THAT YARD BY ANYBODY FOR ANY REASON.**
+28. **The register form and the offer.** **THE OFFER ON THE LOW BOARD IS UNDATED, UNPICKED AND NOT WITHDRAWN ON ALL TEN MORNINGS.
+    A SHEET ARRIVED ON THE SEVENTEENTH MORNING OF THE VOLUME WITH THE CHANCELLOR'S NAME AT THE HEAD OF IT, SETTING DOWN THE SAME
+    TERMS WITH PERMANENCE ATTACHED, AND NOBODY PICKED IT UP, DATED IT, ENTERED IT, WITHDRAWN IT OR FILLED IT IN, AND NOBODY
+    CARRIED IT TO THE LONG TABLE, AND THE FOUR SHEETS ON THAT TABLE ARE FOUR.**
+29. **The form with four lines.** Untouched. Carried out to the step three times behind and not entered and is not going to be.
+31. **The five terms and the twenty-first.** **THE THIRD COLUMN OF THE SHEET OF TERMS STANDS RULED AND EMPTY UNDER A HEADING NOBODY
+    HAS IMPROVED, NO SIXTH TERM WAS WRITTEN, AND THE NINE TERMS THAT CAME UP THE LOW ROAD ARE THE TERMS OF NINE PEOPLE AT THE TOP
+    OF A PATH AND ARE NOT A SIXTH TERM AND WERE NOT ENTERED INTO ANYTHING.**
+32. **The succession ladder.** **ZERO RUNGS CLIMBED ON ALL TEN MORNINGS, THE LADDER NAMED ON FIVE OF THEM, NO PERSON PUT A FOOT ON
+    IT ON ANY OF THEM, AND NO FIGURE PRINTED AGAINST EITHER OF ITS TWO PEOPLE. THESE ARE TEN NEW MORNINGS AND NOT A FINDING ABOUT
+    THE FIFTEEN VOLUMES BEHIND, ON WHICH THE CLOSE FOUND THIS FLOOR MOVED ON FIVE MORNINGS.**
+34. **The not knowns counted as six.** **SIX AT SIX, NO UNIT FOR ANY, AND NO SEVENTH ROW CUT FOR ANYTHING ON ANY OF THE TEN
+    MORNINGS, AND A MAN WHO WANTED TO PUT A PENCIL ON A ROUND HUNDRED WAS REFUSED.**
+
+### The four permanent losses, on these ten mornings
+
+**FOUR BEFORE THIS BATCH AND FOUR AFTER IT, NONE REDUCED, NONE SOFTENED, NONE RECOVERED, NONE RE-NAMED, NONE PRICED, AND NO FIFTH
+ADDED BY ANYBODY FOR ANY REASON.** None of the four is spelled out in any of the ten mornings and none of them is spent a figure
+on. **The first lives as what the engineer of record can and cannot do in front of a yard of thirty people when he is asked to
+appoint somebody, and on the eleventh morning of the volume it is on the page as a capacity and not as a sentence.** The second
+lives as an arrangement and the volume's close found it standing and it stands. **The third lives as Tova Reed's own work: she puts
+herself where she can see the mouth on every morning of this batch, she writes down what she is told instead of asking twice on the
+mornings of the twelfth, the fourteenth and the twentieth, she does not announce that she is doing it, and no hand went on her arm
+at any hour of any of the ten mornings, including the morning a Chancellor stood four feet off her in her own yard and asked her
+for four figures.** The fourth is the thing that is paid and it was not referred to by name on any of them.
+
+### The second place, on these ten mornings
+
+**STILL WITHOUT WATER AND NOT RESTORED, NOT APPORTIONED, NOT DATED, NOT DEFERRED AND NOT DESCRIBED AS TEMPORARY ON ANY OF THE TEN
+MORNINGS, AND NOTHING SIGNED IN THIS BATCH COVERS IT.** It is a line on Tova Reed's own board reading *Seed house to the second
+place. It is on the route. There is no water at it.* It is the second place's neighbour's face in a yard for an hour while the
+board goes up, and nobody asked her anything. It is what Auret Sill says into a yard of thirty people on the eighteenth morning:
+the outer branches get a short measure, and a short measure is not a smaller share of the same thing, it is a different thing and
+it is thinner. It is what the man who will refuse the custody says out loud on the fifteenth morning, that he is certainly not
+going to tell this yard that the terms from the fourth path make the second place any wetter, because they do not and nobody up
+that path has said they do. And on the twentieth morning it is a question put twice by a woman who has come four miles with a
+barrow and answered with nothing. **IT IS A COST ON THE RECORD AND NOT A FIFTH PERMANENT LOSS AND A RECORD IS NOT A WOUND.**
+
+### Three findings this batch adds, none of which is a figure of any series
+
+1. **THE SLIDING READING RETURNED ONE HUNDRED AND THIRTY-TWO SHAPES AND A HUNDRED AND SIXTY-ONE EXCESS ON THE FIRST DRAFT, WITH THE
+   WHOLE-PARAGRAPH READING RETURNING THE SAME NUMBER.** The cause was one closing paragraph per morning carrying the same floors in
+   the same clause order in the same words on eight of ten mornings. **THE REPAIR WAS TO SCATTER AND CUT DOWN, AND THE BATCH NOW
+   RETURNS ZERO AND ZERO. A HOLDER THAT FIXED THE FRAME ONCE HAS NOT FIXED IT, AND A SUCCESSOR THAT MEASURES WILL FIND IT IN ITS
+   OWN FIRST DRAFT.**
+2. **THE PARITY OF THE SPLIT WINDOW HALVES IS A FIGURE-CLASS ERROR AND EVERY MEASUREMENT IN THE LAYER RETURNS CLEAN ON EITHER
+   READING.** Four mornings of this batch had the direction of the pair the wrong way round and printed both figures correctly in
+   both readings, and the only thing that caught it was reading. **IT IS THE DIRECTION AND NOT THE PAIR THAT A WRITER GETS WRONG.**
+3. **A FLOOR NAMED ON EVERY MORNING IN THE SAME WORDS IS NOT A FLOOR NAMED.** The compost line is named on three mornings of this
+   batch, the tap joint on three, the man of about seventy on three, the ladder on five and the door nine hundred yards off on
+   three. **EVERY FLOOR ON EVERY CARD OF THIS BATCH IS UNMOVED ON ALL TEN MORNINGS, AND THE PROOF IS THE ABSENCE OF A MOVE.**

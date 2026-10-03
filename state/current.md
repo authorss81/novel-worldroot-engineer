@@ -1643,3 +1643,94 @@ COUNCIL IS A SINGLE AUTHORITY.**
    hundred and forty-nine, where the letter and the read-aloud numerator are the same figure in two series, is exactly that
    case and was handled by hand, with the letter spelled in the ordinary hundred-range form and the numerator in the
    read-aloud form, in two paragraphs, in two mouths, and never compared.**
+
+---
+
+## 22. Volume 16 Batch 0002, 2026-10-03, and the standings at day nine hundred and sixty-eight
+
+**THE BATCH WROTE TEN MORNINGS AND NOTHING ELSE. IT RESTARTED NO MORNING, WROTE NO PROSE INTO A CLOSED MORNING, MOVED NO
+FIGURE OF ANY SERIES AGAINST ITS OWN RULE, ANSWERED NO THREAD, CLOSED NO THREAD, CUT NO NOT-KNOWN ROW, TOUCHED NO
+CONTROLLER FILE AND CREATED ONE SUCCESSOR.** Its files are `workspace/volume-16/batch-0002/chapter-0746.md` through
+`chapter-0755.md`, its own record is `workspace/volume-16/batch-0002/SELF-CHECK.md`, and its successor is Batch 0003.
+
+### 22a. The measurements, and the unit they were taken at
+
+**THE PARAGRAPH UNIT IS EVERY NON-BLANK LINE BELOW A HEADING, A BLOCK-QUOTE SEPARATOR LINE CARRYING NO WORDS EXCLUDED,
+APPARATUS QUOTE LINES COUNTED AS PARAGRAPHS OF THEIR OWN, HEADINGS EXCLUDED, AND APPARATUS INSIDE THE SCOPE OF BOTH GATES.**
+
+| | |
+|---|---|
+| the figure check | **one hundred and fifty-eight derived figures required in their own morning's body prose, one hundred and fifty-eight present, zero failures** |
+| the batch | **20,740 words across ten files**, per file 2,260, 1,823, 2,105, 1,921, 2,358, 2,006, 2,175, 2,180, 1,996 and 1,916 |
+| the volume so far | **39,442 words across twenty files of forty-five** |
+| the manuscript | **2,070,834 across seven hundred and fifty-five files** |
+| gate one, batch scope | **318 prose paragraphs of thirty words or more, zero exact pairs** |
+| gate one, batch plus all behind | **2,361 paragraphs of thirty words or more, one exact pair, the locked far-end sentence at three occurrences, none of them in this batch** |
+| gate one, whole manuscript | **25,965 paragraphs of thirty words or more, and not one exact pair touches this batch** |
+| the second gate, whole-paragraph | **zero repeated shapes and zero excess** |
+| the second gate, sliding | **12,373 windows at the declared scope, zero repeated shapes and zero excess** |
+| the exact-duplicate sweep | **zero at any paragraph length, literal, in the batch and in the batch against every other file in the manuscript** |
+| the self-collision controls | **twenty-seven and twelve excess sliding windows on the two declared paragraphs, one repeated shape on each, with the whole-paragraph reading silent on both** |
+| the apparatus | **four spent of thirty for the volume, no `Entered` label, and no block on the seventeenth, nineteenth or twentieth morning of the volume** |
+| the lock state | **neither locked figure spoken whole on any morning of this batch, neither in a shortened form, and each of the six load-bearing strings zero across all ten files** |
+| the compost line | **every mention reads paid at thirty-one or as having nothing let out of it, no morning of this batch finds thirty-two, and no figure for a turn appears on any of the ten** |
+| the mechanical sweeps | **zero digits, zero dashes and zero non-ASCII marks in body prose; zero for the six bare words and the apparatus word; zero for the twelve month names, the modal verb excepted; zero for the three unavailable words; zero for the two negation-only words; zero for the figure against the door nine hundred yards off; zero rungs climbed** |
+
+### 22b. The standings at day nine hundred and sixty-eight, which are not a resolution
+
+**THE THIRTY-FIVE ARE THIRTY-FIVE IN AND THIRTY-FIVE OUT. THE FOUR LOSSES ARE FOUR, NONE REDUCED, NONE RECOVERED, NONE
+RE-NAMED AND NONE PRICED, AND NO FIFTH ADDED. THE SECOND PLACE IS STILL WITHOUT WATER AND IS ON A BOARD AS A PLACE ON A
+ROUTE WITH NO WATER AT IT, NO DATE, NO LINE THROUGH IT, NO APPORTIONMENT AND NOTHING SIGNED IN THIS BATCH COVERING IT, AND ON
+THE LAST MORNING OF THIS BATCH IT COST A WOMAN WITH A BARROW AN ANSWER SHE DID NOT GET AND NOBODY FOLLOWED HER DOWN THE
+LANE. THE NETWORK IS UNEVEN WITH A JOINT THAT HAS NOTHING AGAINST IT AND NO OPERATOR AND NOBODY APPOINTED ON ANY OF THESE TEN
+MORNINGS, AND THE TWO PEOPLE AT EITHER END OF IT ARE NOT ON THE PAGE.**
+
+**HE DECLINED TO APPOINT ANYBODY OVER THE JOINT IN A YARD OF ABOUT THIRTY PEOPLE AND SAID THE OTHER HALF OF IT OUT LOOD: THAT
+DECLINING IS NOT A REFUSAL OF THE NETWORK, OF THE SCHEDULE, OF THE LOAD, OF THE FOUR QUIET HOURS OR OF THE SLUICE ROAD'S FIFTH
+HOUR, AND THAT NO LINE OF THE SHEET IS GOING TO BE MOVED TO PAY FOR A JOINT.**
+
+**IONA VEY IS NAMED IN A YARD IN THIS VOLUME FOR THE FIRST TIME, ON A SHEET WITH HER NAME AT THE HEAD OF IT, AND THE SHEET IS
+THE PAPER THAT HAS LAIN ON THE LOW BOARD SINCE BEFORE THE FLOOD WITH ONE LINE ADDED TO IT, AND THE ADDED LINE IS PERMANENCE.
+NOBODY LIFTED THAT SHEET, DATED IT, ENTERED IT, WITHDRAWN IT, WROTE IN THE SPACE AT THE FOOT OF IT OR CARRIED IT TO THE LONG
+TABLE, AND THE OFFER ON THE LOW BOARD IS UNDATED, UNPICKED AND NOT WITHDRAWN AFTER IT. SHE WAS NOT CORNERED, NOT PREVIEWED AND
+NOT DEFEATED, AND NOTHING SHE SAID ON THAT MORNING EXPLAINS THE WOOD.**
+
+**THE MARGIN HAS BEEN NAMED OUT LOUD BY THE WOMAN WHO KEEPS THE FIGURES AND IT HAS NOT BEEN PRICED, AND THE STRONGEST ARGUMENT
+FOR ACCEPTING IS ON THE TABLE IN SOMEBODY ELSE'S MOUTH WHOLE AND UNARGUED, AND THE REFUSAL THAT FALLS IN THE NEXT MORNING IS
+NEITHER SOFTENED BY ANYBODY NOR EXPLAINED AS A MISUNDERSTANDING NOR DEFENDED IN ADVANCE.**
+
+**A SECOND RULED LINE STANDS AT A ROUND HUNDRED AND STAYS BLANK, AND THE WOMAN WHO KEEPS THE BOOK SAID SO BEFORE ANYBODY ASKED
+HER AND REFUSED A MAN WHO WANTED TO PUT A PENCIL ON IT. THE NEAR BOARD CROSSED A ROUND HUNDRED AND WAS NOT MARKED. NINE TERMS
+CAME UP THE LOW ROAD FROM A PLACE THAT WILL KEEP A ROUTE OPEN AND WILL NOT BE COUNTED AND WILL NOT BE WALKED, AND THE MAN WHO
+REFUSES THE CUSTODY SAID OUT LOUD THAT HE DOES NOT KNOW WHAT IT IS AND THAT IT DOES NOT MAKE THE SECOND PLACE ANY WETTER.**
+
+**THE TWENTIETH MORNING ENDS WITH A SHEET FOLDED INTO THE INSIDE OF A MAN'S COAT AND A YARD THAT HAS BEEN TOLD NOTHING. THE NEXT
+MORNING MUST FIND THE REFUSAL MADE IN HIS OWN MOUTH, WITH NOBODY THANKED FOR IT AND NOBODY REBUKED FOR IT.**
+
+**A CLOSE IS NOT A RESOLUTION AND NOBODY IS THANKED. A SCHEDULE IS NOT AN ANSWER. A HAND-OVER IS NOT AN ANSWER. A RECORD IS NOT
+AN ANSWER. A NAMED ROUTE IS NOT AN ANSWER. A ROUND HUNDRED ON AN EMPTY LINE IS NOT A MARK. A MARGIN NAMED IS NOT A CLOSURE. THE
+COUNT OF THE RING IS NOT A SCORE AND ITS TWO COLUMNS ARE NOT ADDED. THE MONTH TURN TURNED A CALENDAR AND NOTHING ELSE.**
+
+### 22c. The three findings this batch adds to this layer
+
+1. **THE SLIDING READING RETURNED ONE HUNDRED AND THIRTY-TWO SHAPES AND A HUNDRED AND SIXTY-ONE EXCESS ON THE FIRST DRAFT, WITH
+   THE WHOLE-PARAGRAPH READING RETURNING THE SAME NUMBER, AND THE CAUSE WAS ONE CLOSING PARAGRAPH PER MORNING CARRYING THE SAME
+   FLOORS IN THE SAME CLAUSE ORDER IN THE SAME WORDS.** The floors were scattered and cut down to what each morning's business
+   touches, which is the same repair the batch behind made to its own first draft, and the batch now returns zero and zero on both
+   readings. **THE DEFECT IS STRUCTURAL AND NOT A MATTER OF TASTE, AND A HOLDER THAT FIXED THE FRAME ONCE HAS NOT FIXED IT.**
+2. **THE PARITY OF THE SPLIT WINDOW HALVES IS A FIGURE-CLASS ERROR AND NEITHER GATE NOR THE FIGURE CHECK CAN SEE IT.** Four mornings
+   of this batch gave the rising half as the one that came on a morning when the falling half was the one that came, and both
+   figures were printed in both readings in every case, so every measurement returned clean and the passage read correctly.
+   **THE BINDING RUN IS: ON AN ODD MORNING THE FALLING HALF IS THE ONE THAT CAME AND THE RISING HALF STOOD, ON AN EVEN MORNING THE
+   OTHER WAY, AND IT IS THE DIRECTION AND NOT THE PAIR THAT A WRITER GETS WRONG.**
+3. **A FLOOR NAMED ON EVERY MORNING IN THE SAME WORDS IS NOT A FLOOR NAMED, AND A RECITAL IS NOT THE PROOF THAT A FLOOR HELD.** The
+   compost line is named on three mornings of this batch, the tap joint on three, the man of about seventy on three, the ladder on
+   five and the door nine hundred yards off on three, each in that morning's own words and its own order. **EVERY FLOOR ON EVERY
+   CARD OF THIS BATCH IS UNMOVED ON ALL TEN MORNINGS, AND THE PROOF IS THE ABSENCE OF A MOVE AND NOT THE RECITAL.**
+
+**AND ONE CONTROL FINDING, WHICH IS A FINDING ABOUT THE GATE AND NOT ABOUT THE PROSE: the first attempt at the declared
+self-collision paragraph filled the gaps between the repeated blocks from a pool smaller than the gaps, the slice truncated
+silently, some gaps came out empty, two adjacent blocks then produced a rotated block, and the paragraph returned eighteen repeated
+shapes and three hundred and sixteen excess instead of one and twenty-seven. THE CONTROLS REPRODUCE AT TWENTY-SEVEN AND TWELVE WITH
+ONE REPEATED SHAPE EACH AND THE WHOLE-PARAGRAPH READING SILENT ON BOTH, AND THAT IS WHAT SETTLES THE NORMALISATION FOR EVERYTHING
+ELSE PUBLISHED IN THIS TABLE.**
