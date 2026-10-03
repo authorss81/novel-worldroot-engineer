@@ -1,6 +1,6 @@
 # Chapter Summaries
 
-**Budget: this file is at fifteen thousand and one hundred and twenty-six words, measured on its own bytes with
+**Budget: this file is at fifteen thousand and one hundred and fifty-three words, measured on its own bytes with
 `len(text.split())`, which is the count any later pass re-derives and which moves with every edit, so the figure is a
 measurement and not a promise. THE BUDGET LINE PREVIOUSLY READ ABOUT THREE THOUSAND EIGHT HUNDRED WORDS AND THAT WAS
 FALSE BY MORE THAN ELEVEN THOUSAND WORDS WHEN THE VOLUME 15 CLOSE OPENED IT, AT FOURTEEN THOUSAND SIX HUNDRED AND
@@ -881,9 +881,10 @@ other morning of the volume, and no shortened form of either sentence on any mor
 **THE GATE FIGURES AT THE UNIT THE CLOSE DECLARED, WHICH IS EVERY NON-BLANK LINE BELOW A HEADING WITH APPARATUS QUOTE
 LINES AS PARAGRAPHS OF THEIR OWN AND HEADINGS EXCLUDED, OVER ALL FORTY-NINE MORNINGS AND NOT OVER A BATCH: 2,664
 paragraphs, of which 1,747 are thirty words or more; the whole-paragraph reading returns 4,911 chunks, 2 repeated shapes
-and 3 excess, both shapes locked; the sliding eighteen-word reading returns 69,744 windows, 20 repeated shapes and 37
+and 3 excess, both shapes locked; the sliding eighteen-word reading returns 69,962 windows, 20 repeated shapes and 37
 excess, being 17 shapes and 34 excess from the two locked sentences and 3 shapes and 3 excess from one standing block
-restated across a file boundary at `chapter-0693.md` and `chapter-0698.md`. Gate one returns one pair inside the volume
+restated across a file boundary at `chapter-0693.md` and `chapter-0698.md`; the 69,744 the close first printed for that
+universe is withdrawn and does not re-derive, and the shape figures stand as a record of the withdrawn reading. Gate one returns one pair inside the volume
 and nineteen pairs touching it and every one of the twenty is the locked far-end sentence at a ratio of exactly one.**
 Both self-collision controls reproduce the last batch's published control figures exactly, which is what settles the
 normalisation for everything else in this paragraph.

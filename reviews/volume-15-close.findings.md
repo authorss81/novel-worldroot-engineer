@@ -103,7 +103,8 @@ ONE OF THE FORTY-NINE CARDS. THE SWEEP THE HOUSE LIST ASKS FOR IS *a sweep for t
 climbed*.**
 
 **THE SWEEP, RUN OVER ALL FORTY-NINE MORNINGS, FINDS THIRTY-SIX PARAGRAPHS ON TWENTY-THREE MORNINGS THAT NAME THE
-LADDER OR A RUNG. OF THOSE THIRTY-SIX, SIX RECORD A CLIMB, ON FIVE MORNINGS, AND FIFTEEN STATE THE STANDING AT ZERO IN
+LADDER OR A RUNG. OF THOSE THIRTY-SIX, SIX RECORD A CLIMB IN SIX PARAGRAPHS, WHICH ARE FIVE CLIMBS ON FIVE MORNINGS,
+BEING THAT ONE ASCENT IS SPLIT ACROSS TWO PARAGRAPHS ON DAY 934, AND FIFTEEN STATE THE STANDING AT ZERO IN
 THEIR OWN WORDS, ON FIFTEEN MORNINGS, AND THE OTHER FIFTEEN ARE NEUTRAL GESTURES — A MAN APPROACHING IT, STOPPING
 SHORT OF IT, LOOKING AT IT, WALKING PAST IT AND WALKING AWAY FROM IT.**
 
@@ -132,7 +133,16 @@ sits inside the eleven acres beside it; there is a low board beside it with an u
 two people who are both standing in that yard. **THAT IS THREAD THIRTY-TWO OF THE THIRTY-FIVE, THE SUCCESSION LADDER,
 WHOSE ZERO-RUNG STREAK ACROSS VOLUME 14 WAS CLOSED AND COUNTED ONCE AT `outline/ending.md` AND MAY BE COUNTED NOWHERE
 ELSE. THE VOLUME BEHIND'S CLOSE LOCK SAYS *the succession ladder was climbed zero rungs* and this volume's pages climb
-it nine times on five mornings.**
+it five times on five mornings.**
+
+**THE COUNT OF FIVE IS THE ONE THAT RE-DERIVES, AND THE FIGURES OF NINE AND SIX ARE WITHDRAWN BY NAME BECAUSE THEY DO
+NOT.** The five are the five rows of the table above, one ascent each: *went up* at `chapter-0718.md:63`, *went up* at
+`chapter-0722.md:81`, *came down the last three rungs backwards* at `chapter-0721.md:79`, *came down half a rung* at
+`chapter-0724.md:83` and *came down two rungs* at `chapter-0726.md:71`. **A FIGURE OF SIX IS WHAT A PARAGRAPH COUNT
+RETURNS AND NOT WHAT A CLIMB COUNT RETURNS, BECAUSE THE DAY 934 ASCENT IS RECORDED ACROSS TWO PARAGRAPHS, `chapter-0721.md:77`
+AND `:79`, WHICH ARE ONE CLIMB AND NOT TWO; A SWEEP THAT COUNTS PARAGRAPHS AND CALLS THEM CLIMBS WILL PRINT SIX. THE NINE
+THIS CLOSE FIRST PRINTED HAS NO DERIVATION AND IS WITHDRAWN AND NAMED.** The five mornings are not in doubt and no
+figure of any series moves with this correction.
 
 **AND NO PAGE DISTINGUISHES TWO LADDERS, AND NO CARD AUTHORISES TWO.** There is one named ladder in forty-nine
 mornings. **If the volume has one ladder, this is a breach of a floor carried on every card of the volume, and it is
@@ -237,7 +247,7 @@ INSIDE THE SCOPE AND AN APPARATUS BLOCK IS ONE PARAGRAPH PER QUOTE LINE.**
 | Reading | Units | Repeated shapes | Excess |
 |---|---|---|---|
 | **whole-paragraph, non-overlapping eighteen-word chunks** | **4,911** | **2** | **3** |
-| **sliding eighteen-word windows at every offset** | **69,744** | **20** | **37** |
+| **sliding eighteen-word windows at every offset** | **69,962 — the 69,744 this file first printed is WITHDRAWN AND DOES NOT RE-DERIVE; see the note under this table** | **20** | **37** |
 
 **EVERY ONE OF THE TWO WHOLE-PARAGRAPH SHAPES AND SEVENTEEN OF THE TWENTY SLIDING SHAPES ARE THE LOCKED SENTENCES, AND
 THE ARITHMETIC IS THE CARD SET'S OWN.** The far-end sentence normalises to thirty-one tokens and yields fourteen
@@ -262,10 +272,42 @@ closed morning. **IT IS THE ONLY NON-LOCKED SHAPE IN THE VOLUME AND IT IS PUBLIS
 ### 6a. The figures in Batch 0005's own file that this close cannot reproduce, withdrawn by name
 
 **THE BATCH'S OWN TABLE PUBLISHED 855 CHUNKS AND 12,301 WINDOWS FOR ITS NINE MORNINGS AND 5,094 CHUNKS AND 72,962
-WINDOWS FOR THE FORTY-NINE. AT THE UNIT DECLARED AT SECTION ONE THE FIGURES ARE 821, 11,725, 4,911 AND 69,744, AND
+WINDOWS FOR THE FORTY-NINE. AT THE UNIT DECLARED AT SECTION ONE THE FIGURES ARE 821, 11,725, 4,911 AND 69,962, AND
 THE FOUR ARE WITHDRAWN BY NAME.** The batch's file already records that its own first edition of those counts could
 not be reproduced at any unit it could guess, and this close has now declared a unit and published a different set
 beside it rather than over it.
+
+### 7a. The sliding window universe is withdrawn, and the rule that replaces it is printed here in full
+
+**THE FIGURE 69,744 IS WITHDRAWN BY NAME. IT WAS CORRECT ON THE MORNING IT WAS MEASURED AND IT DOES NOT COME BACK AT
+THE UNIT THIS FILE DECLARES, AND A FIGURE THAT NO PASS CAN RE-DERIVE MAY NOT BE PUBLISHED AS THE ONE THAT GOVERNS.**
+
+**RE-DERIVED AT THE DECLARED UNIT.** Paragraphs are the non-blank lines of the forty-nine chapter files below their
+headings, with wordless `>` separators excluded, with apparatus quote lines counted as paragraphs of their own, and with
+headings excluded. That returns **2,664 paragraphs**, and **1,747** of them are thirty words or more. Sliding
+eighteen-word windows are then counted per paragraph, a paragraph of *n* normalised tokens yielding *n − 17* windows and
+a paragraph of fewer than eighteen yielding none, and every window is taken at every offset.
+
+| normalisation | windows |
+|---|---|
+| no collapsing of number words or ordinals | **73,759** |
+| number runs and ordinals collapsed to one token | **69,962** |
+| the same, with the apparatus blocks dropped from the scope | 68,557 |
+
+**69,962 IS THE FIGURE THAT GOVERNS AND 73,759 IS PRINTED BESIDE IT SO A SUCCESSOR CAN SEE THE DIFFERENCE THE
+COLLAPING MAKES. EIGHT COMBINATIONS OF HYPHEN HANDLING, `and`-SURVIVAL AND ORDINAL HANDLING WERE RUN AND NONE RETURNS
+69,744.** The prose declaration of the normalisation at section one is itself the fault and is corrected here: it says
+the word *and* is "left alone" in one sentence and, two sentences later, that it "survives only where it stands between
+two figures that are not one figure", which are two different rules, and it never says whether an ordinal collapses.
+**THE RULE THIS FILE USED AND A SUCCESSOR SHOULD USE IS: lower-case the paragraph, split every hyphenated compound on
+the hyphen, drop punctuation, fold case, replace every run of number words and every ordinal with one token, collapse
+whitespace, and take full eighteen-word chunks.**
+
+**THE 20 SHAPES AND THE 37 EXCESS REPRODUCE AND ARE NOT WITHDRAWN, BUT THEY WERE MEASURED AGAINST THE WITHDRAWN
+UNIVERSE AND ARE A RECORD OF THAT READING AND NOT A RE-DERIVATION AT 69,962.** Nothing the sliding gate exists to catch
+moves: the seventeen locked shapes and the three unlocked ones are the same seventeen and three before and after, and
+the whole-paragraph reading at 4,911 chunks is untouched by any of this. A successor that needs the shape figures at
+the corrected universe must run the gate again rather than carry these two numbers into a new volume.
 
 **THE SHAPES AND THE EXCESSES REPRODUCE AND ARE NOT WITHDRAWN: the batch's one whole-paragraph shape and one excess,
 and its three sliding shapes and three excess, and every one of the three is a window of the comfort line.**
@@ -322,19 +364,32 @@ nine and one in nine, and it moves no pair, because the floor is a filter and no
 
 ### 8a. The whole-volume exact-duplicate paragraph sweep, at a floor of eight words beside the gate's thirty
 
-**IT RETURNS SIX REPEATED PARAGRAPHS IN THE FORTY-NINE MORNINGS. THE BATCH'S OWN FILE PUBLISHED FIVE AND THE SIXTH IS
-A FINDING OF THIS CLOSE.**
+**AT A LITERAL EIGHT-WORD FLOOR IT RETURNS FIVE REPEATED PARAGRAPHS IN THE FORTY-NINE MORNINGS, WHICH IS WHAT THE
+BATCH'S OWN FILE PUBLISHED. UNDER THE FULL NUMBER-AND-ORDINAL NORMALISATION IT RETURNS SIX, AND THE SIXTH IS A FINDING
+OF THIS CLOSE. THE TWO FIGURES ARE BOTH CORRECT AND THEY ARE NOT THE SAME SWEEP, SO THE SWEEP IS NAMED IN FULL BELOW AND
+NO LATER PASS SHOULD RUN IT WITHOUT NAMING WHICH OF THE TWO IT IS RUNNING.**
+
+**THE SWEEP, AS NORMALISED: paragraph key = the paragraph lower-cased, hyphens split to spaces, punctuation dropped, every
+run of number words and every ordinal collapsed to one token, whitespace collapsed, and pairs of paragraphs keyed equal
+at eight words or more counted once each.**
 
 1. the comfort line, three times, at `chapter-0687.md`, `chapter-0731.md`, `chapter-0735.md` — a locked figure;
 2. the far-end sentence, twice, at `chapter-0719.md` and `chapter-0735.md` — a locked figure;
 3. *He put his thumb under the second line and left it there*, at `chapter-0689.md` and `chapter-0693.md` — a gesture;
 4. *She put her thumb under the lower line*, at `chapter-0689.md` and `chapter-0693.md` — a gesture;
 5. *He shut the rack and then stood with his hand on the door*, at `chapter-0692.md` and `chapter-0695.md` — a gesture;
-6. ***the aggregate and both limbs of its clause, at `chapter-0719.md` and `chapter-0725.md`, twenty-two words and
-   THIRTEEN NORMALISED TOKENS, AND THE SAME CONSTRUCTION IN TWO DIFFERENT MOUTHS SIX MORNINGS APART: *Four hundred and eighty at the head, the four
-   hundred and seventy-ninth under the line, the four hundred and eighty-first over it* and *Four hundred and
+6. ***the standing three-figure clause, THE FIGURE AT THE HEAD, THE FIGURE UNDER THE LINE AND THE FIGURE OVER IT, at
+   `chapter-0719.md` and `chapter-0725.md`, twenty-two words each and THIRTEEN NORMALISED TOKENS, AND THE SAME
+   CONSTRUCTION IN TWO DIFFERENT MOUTHS SIX MORNINGS APART: *Four hundred and
+   eighty at the head, the four hundred and seventy-ninth under the line, the four hundred and eighty-first over it* and
+   *Four hundred and
    eighty-six at the head, the four hundred and eighty-fifth under the line, the four hundred and eighty-seventh over
-   it*. BOTH FIGURES ARE CORRECT FOR THEIR OWN MORNINGS. THIS IS A STANDING BLOCK RESTATED, IT IS INSIDE ONE BATCH,
+   it*. BOTH FIGURES ARE CORRECT FOR THEIR OWN MORNINGS. THIS ITEM WAS FIRST NAMED *the aggregate and both limbs of
+   its clause*, AND THAT LABEL IS WITHDRAWN AND WRONG: THE WORD *AGGREGATE* IS ON NEITHER PAGE AND IS AT
+   `chapter-0698.md:103` AND `chapter-0708.md` THROUGH `chapter-0718.md`; WHAT THESE TWO PARAGRAPHS SHARE IS THE
+   HEAD / UNDER THE LINE / OVER IT TRIPLE. THE SIXTH IS A NORMALISED NEAR-DUPLICATE AND NOT A LITERAL ONE, BECAUSE THE
+   TWO FIGURES DIFFER, SO A LITERAL SWEEP RETURNS FIVE AND A SUCCESSOR WHO RUNS THE SWEEP AS THE WORD *EXACT* PROMISES
+   WILL GET FIVE. THIS IS A STANDING BLOCK RESTATED, IT IS INSIDE ONE BATCH,
    AND IT SURVIVED THE BATCH-SCOPED SWEEP, THE WHOLE-VOLUME SWEEP THAT THE LAST BATCH PUBLISHED, AND THE SLIDING
    READING AT EVERY SCOPE, BECAUSE IT NORMALISES TO THIRTEEN TOKENS AND THE GATE'S CHUNK IS EIGHTEEN, SO IT CANNOT PRODUCE A SINGLE EIGHTEEN-WORD WINDOW AT ANY SCOPE.**
 
@@ -391,7 +446,7 @@ at section eight b. **All three are published, none is repaired, and none of the
 | **every occurrence of *apologi*** | **5, and every one of the five is inside a negation**: *I have stopped apologising*, *Nobody apologised to her about it*, *I am not going to apologise to anybody for it*, *which she did not apologise for*, and *he did not apologise and was not asked to* |
 | **the two locked sentences' six load-bearing strings** | **exactly one occurrence each on the morning its sentence is spoken whole and zero on every other morning of the forty-nine, and no shortened form of either sentence on any morning at all.** Far-end whole on days 900, 932 and 948; comfort line whole on days 900, 944 and 948; both together only on the first and the last |
 | **the figure standing against the door nine hundred yards off** | **0.** The door is walked past on day 900 and walked past twice on day 948 and read on by nobody; the seventh column is named once, on day 948, in a sentence that says the figure in it does not go back and is not read on any morning of this volume |
-| **the ladder** | **NINE CLIMBS ON FIVE MORNINGS. SEE SECTION TWO. THIS IS THE ONE SWEEP IN THE LIST THAT DID NOT COME BACK CLEAN** |
+| **the ladder** | **FIVE CLIMBS ON FIVE MORNINGS. SEE SECTION TWO. THIS IS THE ONE SWEEP IN THE LIST THAT DID NOT COME BACK CLEAN** |
 | **the ring of bare ground** | unwalked, unmeasured and unpriced on every morning that names it; the one passage with walking language is *walked … without stepping into it* |
 | **the offer on the low board** | undated, unpicked and not withdrawn on every morning that names it; no passage gives it a date |
 | **the man of about seventy** | twenty-nine fetchings, not fetched, and the count of questions put to him is nil and stays nil |
@@ -449,12 +504,12 @@ forbidden to do and which a close that does it is no longer a close.
 | the paragraphs | **2,664 at the declared unit, of which 1,747 are thirty words or more** |
 | gate one | **1 pair inside the volume, the locked far-end sentence at a ratio of one; 19 pairs touching the volume, all nineteen that sentence** |
 | the second gate, whole-paragraph | **4,911 chunks, 2 repeated shapes, 3 excess, both shapes locked** |
-| the second gate, sliding | **69,744 windows, 20 repeated shapes, 37 excess, seventeen shapes and thirty-four excess locked and three and three not** |
+| the second gate, sliding | **69,962 windows at the declared scope under the rule printed at section 7a, 73,759 with no collapsing; 20 repeated shapes, 37 excess, seventeen shapes and thirty-four excess locked and three and three not, measured against the withdrawn universe and standing as a record of that reading** |
 | the self-collision controls | **27 and 12 excess sliding windows on two declared paragraphs, and the whole-paragraph reading silent on the short one** |
-| the exact-duplicate sweep | **6 at a floor of eight words, being two locked figures, three gestures and one standing block** |
+| the exact-duplicate sweep | **6 under the number-and-ordinal normalisation and 5 at a literal eight-word floor, being two locked figures, three gestures and one standing block; both figures are correct and they are not the same sweep** |
 | the sixteen-line sweep | **350 runs at six or more, 25 at eight or more, longest 14** |
 | the apparatus | **13 spent of a ceiling of thirty, 17 unspent, 1 entered label** |
-| the ladder | **no rung climbed on forty-four of the forty-nine mornings, and nine climbs on five, which is the volume's largest defect** |
+| the ladder | **no rung climbed on forty-four of the forty-nine mornings, and five climbs on five mornings, which is the volume's largest defect** |
 | the drawer | **shut at every hour on forty-eight mornings and open at the sixth hour on one** |
 
 **THEY WERE MEASURED ON THE PAGES AS THEY STAND AND NO PAGE WAS ALTERED BY THE PASS THAT MEASURED THEM. THEY ARE NOT A

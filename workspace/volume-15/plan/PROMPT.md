@@ -1,3 +1,5 @@
+Retired phase. The one file this phase was asked for is on disk and complete: `outline/batches/volume-15-cards.md`, and all forty-nine cards it planned have been written in five batches through `../batch-0005/` and closed at `../close/`. There is no work left here, so the runner must not select this phase again. The original prompt follows, preserved verbatim, and everything below it is history.
+
 # Volume 15 card set, *The Root Commons*
 
 **THIS PHASE WRITES ONE FILE, `outline/batches/volume-15-cards.md`, AND IT IS A CARD SET AND IT IS NOT A PLAN AND IT IS NOT A BATCH. IT WRITES NO PROSE.** One card per morning of Volume 15, in morning order, forty-nine of them, one morning each. No card carries a chapter number, no card set prints a chapter range, this phase plans no batch and writes no batch prompt, and no word count or expected-length figure appears anywhere in it. **IT CREATES EXACTLY ONE SUCCESSOR OF ITS OWN, AND IT IS THE FIRST BATCH OF THIS VOLUME'S CARDS.**

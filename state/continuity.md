@@ -1,6 +1,6 @@
 # Continuity
 
-**Budget: this file is at thirteen thousand and six hundred and three words, measured on its own bytes
+**Budget: this file is at thirteen thousand and six hundred and thirty-three words, measured on its own bytes
 with `len(text.split())`, which is the count any later pass re-derives and which moves with every
 edit. **THE BUDGET LINE PREVIOUSLY READ ABOUT FOUR THOUSAND FOUR HUNDRED WORDS AND THAT WAS FALSE BY
 NEARLY NINE THOUSAND WORDS WHEN THE VOLUME 15 CLOSE OPENED IT, AT 12,339 MEASURED, AND IT IS
@@ -804,10 +804,12 @@ morning; and no shortened form of either sentence anywhere in the volume.**
 
 **THE GATE AT THE WHOLE-VOLUME SCOPE, NOT AT A BATCH SCOPE, BECAUSE A BATCH-SCOPED READING IS BLIND TO THE ONE FAILURE
 THIS VOLUME KEEPS MAKING:** the whole-paragraph reading returns **4,911 chunks, 2 repeated shapes and 3 excess, both
-shapes locked**; the sliding reading returns **69,744 windows, 20 repeated shapes and 37 excess, and seventeen of the
+shapes locked**; the sliding reading returns **69,962 windows, 20 repeated shapes and 37 excess, and seventeen of the
 twenty shapes and thirty-four of the thirty-seven excess are the two locked sentences, which is exactly the arithmetic
 the card set printed in advance, and the remaining three shapes and three excess are one standing block, the fourth
-ruled line's clause, in an apparatus block at `chapter-0693.md` and in a mouth at `chapter-0698.md`.** Gate one returns
+ruled line's clause, in an apparatus block at `chapter-0693.md` and in a mouth at `chapter-0698.md`. The 69,744 the
+close first printed for that universe is withdrawn and does not re-derive at the declared unit; the shape figures stand
+as a record of the withdrawn reading**. Gate one returns
 **one pair inside the volume and nineteen touching it and every one of the twenty is the locked far-end sentence at a
 ratio of exactly one.**
 

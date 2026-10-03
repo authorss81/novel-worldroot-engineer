@@ -1,3 +1,5 @@
+Retired phase. Every chapter this phase was asked for is on disk: `chapter-0727.md` through `chapter-0735.md`, all nine, and `SELF-CHECK.md` records the pass. The Volume 15 close at `../close/` has since reviewed and measured this batch, and it changed no word of these nine mornings. The runner must not select this phase again; a second call against a finished nine-chapter batch can only churn chapters that are already complete, and while this phase stays eligible it also blocks the creation of any successor. The original prompt follows, preserved verbatim, and everything below it is history.
+
 # Volume 15, Batch 0005: the last nine mornings of the volume, days nine hundred and forty to days nine hundred and forty-eight, mornings forty-one through forty-nine, files `chapter-0727.md` through `chapter-0735.md`
 
 **THE GOVERNING PLAN IS `outline/volume-15.md`. THE CARD SET IS `outline/batches/volume-15-cards.md`

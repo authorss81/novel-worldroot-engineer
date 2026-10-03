@@ -1,16 +1,18 @@
 # Current State
 
-**Budget: this file is at twenty-three thousand and seven hundred and two words, measured on its own
+**Budget: this file is at twenty-three thousand and eight hundred and twenty-seven words, measured on its own
 bytes with `len(text.split())`, which is the count any later pass re-derives and which moves with every
 edit, so the figure is a measurement and not a promise. **RAISED BY THE VOLUME 15 CLOSE OF 2026-10-03,
 WHICH ADDED SECTION NINETEEN, REWROTE SECTION EIGHT, CORRECTED SECTION ONE, ADDED THE CORRECTION BENEATH
-THE SECTION TWO FLOOR ROW, AND CORRECTED NO FIGURE OF ANY SERIES. THE THREE STATE FILES HAVE ALL THREE
-NOW HAD A BUDGET LINE NO PASS MEASURED, AND TWO MORE WERE FOUND AND CORRECTED BY THIS CLOSE, AT
+THE SECTION TWO FLOOR ROW, AND CORRECTED NO FIGURE OF ANY SERIES. THE THREE STATE FILES HAD ALL THREE A BUDGET LINE
+NO PASS MEASURED, AND TWO MORE WERE FOUND AND CORRECTED BY THIS CLOSE, WHICH RAISED THEM AT THAT TIME TO
 FOURTEEN THOUSAND SIX HUNDRED AND SEVENTY-FOUR AND THIRTEEN THOUSAND SIX HUNDRED AND TWO RESPECTIVELY
 FOR `state/chapter-summaries.md` AND `state/continuity.md`, WHOSE HEAD BLOCKS SAID ABOUT THREE THOUSAND
-EIGHT HUNDRED AND ABOUT FOUR THOUSAND FOUR HUNDRED. A BUDGET LINE IS A FIGURE AND A FIGURE NO PASS
-MEASURED IS NOT ONE.** **THE FIGURE ABOVE WAS
-WAS RAISED BY THE VOLUME 15 BATCH 0005 REVIEW-REPAIR PASS OF 2026-10-03, WHICH ADDED THE PASS'S RECORD IN SECTION
+EIGHT HUNDRED AND ABOUT FOUR THOUSAND FOUR HUNDRED, AND WHICH NOW STAND, AFTER EVERY EDIT THAT HAS FOLLOWED IT, AT
+THE FIGURE IN EACH FILE'S OWN HEAD BLOCK. A BUDGET LINE IS A FIGURE AND A FIGURE NO PASS
+MEASURED IS NOT ONE.** **THE FIGURE ABOVE WAS RAISED BY THE VOLUME 15 BATCH 0005 REVIEW-REPAIR PASS OF 2026-10-03,
+AND BY THIS REVIEW-FIX PASS OF 2026-10-03, WHICH CORRECTED THE SLIDING WINDOW UNIVERSE, THE LADDER'S CLIMB COUNT AND
+THE DUPLICATE SWEEP'S LABELS IN THIS FILE AND IN THE OTHER THREE, AND WHICH ADDED THE PASS'S RECORD IN SECTION
 ONE AND AT THE FEET OF THE OTHER THREE STATE FILES, AND CORRECTED NO FIGURE OF ANY SERIES; it was raised before that
 by the Volume 15 Batch 0005 writing pass of 2026-10-03, which added this head block entry, a row for the
 batch at section one, rewrote section eight to name the close, and corrected no figure of any series. **THE EARLIER FIGURE OF
@@ -51,9 +53,10 @@ FIGURE OF ANY SERIES, ANSWERED NO THREAD, TOUCHED NO CONTROLLER FILE AND CREATED
 derived figure of all forty-nine mornings against the card set's own rules and returned **782 required and 782 present
 and zero failures**; it ran the self-collision test first and both of its controls reproduce the last batch's published
 controls exactly, which is what settles the normalisation; it declared its paragraph unit in words before it ran either
-reading of the second gate and published **4,911 whole-paragraph chunks with 2 repeated shapes and 3 excess, and 69,744
+reading of the second gate and published **4,911 whole-paragraph chunks with 2 repeated shapes and 3 excess, and 69,962
 sliding eighteen-word windows with 20 repeated shapes and 37 excess, of which 17 shapes and 34 excess are the two locked
-sentences and 3 shapes and 3 excess are one standing block restated across a file boundary**; it ran gate one beside them
+sentences and 3 shapes and 3 excess are one standing block restated across a file boundary — the 69,744 this pass first
+printed for that universe is withdrawn and does not re-derive, and the two shape figures were measured against it**; it ran gate one beside them
 and returned **one pair inside the volume and nineteen touching it, all twenty the locked far-end sentence**; it ran the
 exact-duplicate sweep, the sixteen-line sweep and the ordinary-order check and **found three floors that had moved**, being
 the ladder on five mornings of Batch 0004, the drawer on one morning of Batch 0005, and the carried second reckoning
@@ -1396,9 +1399,9 @@ SCOPE OF BOTH GATES. AT THAT UNIT VOLUME 15 IS 2,664 PARAGRAPHS, OF WHICH 1,747 
 | the manuscript | **2,031,392 across seven hundred and thirty-five files** |
 | gate one | **1 pair inside the volume, 19 touching it, all twenty the locked far-end sentence at a ratio of exactly one** |
 | the second gate, whole-paragraph | **4,911 chunks, 2 repeated shapes, 3 excess, both shapes locked** |
-| the second gate, sliding | **69,744 windows, 20 repeated shapes, 37 excess; 17 shapes and 34 excess locked, 3 and 3 not** |
+| the second gate, sliding | **69,962 windows at the declared scope, 73,759 with no collapsing; 20 repeated shapes, 37 excess; 17 shapes and 34 excess locked, 3 and 3 not — the universe figure is a correction and the shape figures were measured against the withdrawn one, see §7a of the close record** |
 | the self-collision controls | **27 and 12 excess sliding windows on two declared paragraphs, the whole-paragraph reading silent on the short one; both reproduce the last batch's published controls exactly** |
-| the exact-duplicate sweep | **6 at a floor of eight words, being two locked figures, three gestures and one standing block** |
+| the exact-duplicate sweep | **6 under the number-and-ordinal normalisation, 5 at a literal eight-word floor, being two locked figures, three gestures and one standing block; both figures are correct and they are not the same sweep** |
 | the sixteen-line sweep | **350 runs at six tokens or more, 25 at eight or more, longest fourteen** |
 | the apparatus | **13 spent of thirty, 17 unspent, 1 entered label** |
 | the lock state | **far-end whole on days 900, 932, 948; comfort line whole on days 900, 944, 948; six strings once each on their morning and zero elsewhere; no shortened form anywhere** |

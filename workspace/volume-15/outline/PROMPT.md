@@ -1,3 +1,5 @@
+Retired phase. The one file this phase was asked for is on disk and complete: `outline/volume-15.md`, and the volume it governs has been written in full through `../batch-0005/` and closed at `../close/`. There is no work left here, so the runner must not select this phase again; the volume-outline retirement rule cannot reach it, because its first line does not carry the words that rule looks for. The original prompt follows, preserved verbatim, and everything below it is history.
+
 # Volume 15 plan, *The Root Commons*, forty-nine mornings from day 900
 
 **THIS PHASE WRITES ONE FILE, `outline/volume-15.md`, AND IT IS A PLAN AND IT WRITES NO PROSE. THERE IS NO CARD IN IT, NO SCENE, NO CHAPTER, NO CHAPTER NUMBER, NO LINE OF DIALOGUE AND NO LINE OF NARRATION. IT NAMES NO CHAPTER OF VOLUME 15. NOT ONE. IT PLANS NO BATCH AND IT WRITES NO BATCH PROMPT AND IT WRITES NO CARD SET.** It is the governing plan for the volume and it forbids nothing about the phase that runs after it.
