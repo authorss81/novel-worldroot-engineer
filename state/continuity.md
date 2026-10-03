@@ -1,14 +1,19 @@
 # Continuity
 
-**Budget: about two thousand eight hundred words. Raised by the review-fix pass of 2026-10-02 and
-raised again by the Volume 14 close of 2026-10-03, whose detail is at
-`reviews/volume-14-close.findings.md`. Read this file whole. The state layer is four files of about
-eleven thousand words together and the archived layer behind it is at
-`reviews/state-archive-2026-10-02/` and is not to be loaded.**
+**Budget: about three thousand four hundred words, and this file is at that figure as measured on its
+own bytes with `len(text.split())`, which moves with every edit. Raised by the review-fix pass of
+2026-10-02, raised again by the Volume 14 close of 2026-10-03, and corrected by the review-fix pass of
+2026-10-03 over that close, which found this budget understated by about five hundred words and the
+stated size of the layer understated by over two thousand, and corrected one count in section
+seven without touching the story, a character or a figure of any series. Read this file whole. The
+state layer is four files of about fourteen thousand seven hundred words together, measured the same
+way in one loop, and the archived layer behind it is at `reviews/state-archive-2026-10-02/` and is
+not to be loaded.**
 
 This file carries the story. Figures and derivations are in `state/current.md`, live threads
 in `state/open-threads.md`, the volume index in `state/chapter-summaries.md`. Last rewritten
-2026-10-03 by the Volume 14 close, which wrote no prose and altered no morning.
+2026-10-03 by the review-fix pass over the Volume 14 close, which wrote no prose and altered no
+morning and moved no character and no figure of any series.
 
 ---
 
@@ -207,8 +212,9 @@ successor that finds one of these in a card has inherited an error and not a rul
     an `Entered` block inside the number: `chapter-0644.md`, `chapter-0652.md`, `chapter-0661.md`
     and `chapter-0685.md`. **A successor inherits four spent and twenty-six unspent.** The label
     `Entered:` stands inside one of the four, at `chapter-0644.md`, and not two.
-15. **THE VOLUME 14 CLOSE, 2026-10-03, ADDED SIX FINDINGS OF ITS OWN AND REPAIRED NONE OF THE SIX.**
-    **THE FIGURE CHECK OVER ALL FORTY-NINE MORNINGS IS 796 DERIVED FIGURES REQUIRED AND 796 MATCHING
+15. **THE VOLUME 14 CLOSE, 2026-10-03, ADDED FOUR FINDINGS OF ITS OWN, NUMBERED FIFTEEN TO EIGHTEEN
+    BELOW, AND REPAIRED NONE OF THE FOUR.** **THE FIGURE CHECK OVER ALL FORTY-NINE MORNINGS IS 796
+    DERIVED FIGURES REQUIRED AND 796 MATCHING
     AND ZERO FAILURES, ON A CASE-INSENSITIVE WHOLE-WORD PHRASE MATCH, AND ZERO FAILURES AGAIN WITH THE
     APPARATUS BLOCKS EXCLUDED.** **THE PLAN'S OWN DAY TABLE, RE-DERIVED CELL BY CELL FROM ITS OWN
     RULES, AGREES ON 759 OF ITS 784 DERIVED FIGURE CELLS AND THE TWENTY-FIVE THAT DIFFER ARE ALL THE

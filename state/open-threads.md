@@ -1,13 +1,17 @@
 # Open Threads
 
-**Budget: about two thousand seven hundred words, raised by the review-fix pass of 2026-10-02 and
-raised again by the Volume 14 close of 2026-10-03, whose detail is at
-`reviews/volume-14-close.findings.md`. Read this file whole. Figures are in
+**Budget: about three thousand two hundred words, and this file is at that figure as measured on its
+own bytes with `len(text.split())`, which moves with every edit. Raised by the review-fix pass of
+2026-10-02, raised again by the Volume 14 close of 2026-10-03, and corrected by the review-fix pass of
+2026-10-03 over that close, which added the two controller items it could not clear, moved the
+Volume 15 plan phase to the directory name this tree uses for one, and corrected three counts below.
+Read this file whole. Figures are in
 `state/current.md`, the story is in `state/continuity.md`, and the archived layer at
 `reviews/state-archive-2026-10-02/` holds the per-thread detail for every row below.**
 
-Last rewritten 2026-10-03 by the Volume 14 close, which wrote no prose, closed none of the
-thirty-five, and re-derived every figure it restated. **Volume 14 is closed.**
+Last rewritten 2026-10-03 by the review-fix pass over the Volume 14 close, which wrote no prose,
+closed none of the thirty-five, moved no figure of any series, and added no thirty-sixth. **Volume 14
+is closed.**
 
 ---
 
@@ -153,10 +157,25 @@ Days 891 to 899, files `chapter-0678.md` to `chapter-0686.md`, the closing batch
    and the script re-prepends the header on every invocation. The phase has no `.done` and no
    `.retired`, so it stays eligible. **Its work is on disk and complete. This pass fixed nothing
    here and recorded it, and the fix belongs to whoever owns the control plane.**
-7. **The earlier review that reported one marker wrong is recorded so no successor repeats the fix.**
+   **AND THE REVIEW OF 2026-10-03 ADDED THE PART THAT MAKES IT BLOCKING RATHER THAN MERELY UNTIDY:
+   the selector takes the first phase prompt in sorted order that carries no marker, and this phase
+   sorts ahead of `workspace/volume-15/outline/`, so once the Volume 14 close carries its marker this
+   phase is what runs next, and a run of it tries to rewrite `outline/batches/volume-14-cards.md`,
+   which is a completed phase's output that no writing or planning phase may edit. The close's own
+   missing marker was the same class of fault and resolves itself, because the control plane writes
+   that marker at the end of its own run. Nothing here may be cleared by touching a marker, and
+   nothing has been.**
+7. **THE DIRECTORY NAME OF THE VOLUME 15 PLAN PHASE WAS WRONG AND IS NOW RIGHT.** The close created
+   it at `workspace/volume-15/plan/`, and `plan/` is this tree's name for the card-set phase, being
+   Volume 14's. **The review-fix pass of 2026-10-03 moved it to `workspace/volume-15/outline/`,**
+   which is what Volumes 11, 13 and 14 called a volume-plan phase, **and pointed the successor at
+   `workspace/volume-15/plan/PROMPT.md`, which sorts after it.** No word of either prompt and no
+   figure in either changed, and the two path references in the state layer and in the close's
+   findings file were corrected with the reason beside them.
+8. **The earlier review that reported one marker wrong is recorded so no successor repeats the fix.**
    `batch-0003` is not closed and is not meant to be; forking `.done` there would close a phase out
    from under the gate running it.
-8. **A whole-batch exact-duplicate paragraph sweep is cheap and neither existing gate does it.**
+9. **A whole-batch exact-duplicate paragraph sweep is cheap and neither existing gate does it.**
    Batch 0005 found two literal duplicate paragraphs inside one file and one paragraph repeated
    three times in another, all from mechanical edits, all invisible to both gates. **Run it before
    publishing a gate figure, and run it at any paragraph length, because the first gate's floor of
@@ -165,16 +184,21 @@ Days 891 to 899, files `chapter-0678.md` to `chapter-0686.md`, the closing batch
    of which two are one paragraph repeated inside one file in closed Batch 0004, at `chapter-0669.md`
    and `chapter-0672.md`. Those two are named open items for the Volume 14 close, which may report a
    defect and may not repair it.**
-9. **THE CLOSING BATCH'S FOUR IN-BETWEEN LOCKED FIGURES ARE SPENT AND BOTH ALLOWANCES ARE AT THEIR
+10. **THE CLOSING BATCH'S FOUR IN-BETWEEN LOCKED FIGURES ARE SPENT AND BOTH ALLOWANCES ARE AT THEIR
    CAP.** Days 891, 893, 894 and 896, at most one on any morning, none on the closing morning, and
-   the closing morning spoke both. **Volume 15 starts with nothing in between spent and may not
-   spend either figure on any morning but its own first and its own last, and may not spend them both
-   on one morning except on those two.** The override of the card set's prohibition on seven cards
+   the closing morning spoke both. **Volume 14 spent six in all and not four, three of each on days
+   884, 887, 891, 893, 894 and 896, and the two that did not fall in the closing batch are the far-end
+   sentence on day 887 and the comfort line on day 884.** **Volume 15 starts with nothing in between
+   spent and may not spend either figure on any morning but its own first and its own last, and may
+   not spend them both on one morning except on those two.** The allowance resets per volume and no
+   remainder crosses the boundary, so the six is a fact about the volume behind and not a debt.
+   The override of the card set's prohibition on seven cards
    is recorded in `workspace/volume-14/batch-0005/SELF-CHECK.md` section two, which is where a reader
    finds the reason.
-10. **THE VOLUME 14 CLOSE'S OWN FINDINGS, 2026-10-03, NONE REPAIRED AND NONE DROPPED.** The full
-    record is `reviews/volume-14-close.findings.md` and the nine named items are at its section 7.
-    **THE TWO THAT A WRITER IN VOLUME 15 IS MOST LIKELY TO WALK INTO ARE THESE.** The first is the
+11. **THE VOLUME 14 CLOSE'S OWN FINDINGS, 2026-10-03, NONE REPAIRED AND NONE DROPPED.** The full
+    record is `reviews/volume-14-close.findings.md` and **the eleven named items are at its section 7,
+    numbered one to eleven.** **THE THREE THAT A WRITER IN VOLUME 15 IS MOST LIKELY TO WALK INTO ARE
+    THESE,** and the heading that said two was wrong on its own face. The first is the
     plan's read-aloud column, which prints the wrong spelling on all twenty-five of its rows and is a
     completed phase's file, so a writer who derives from the table rather than from the rule writes
     the window half's form on every odd morning. The second is the unit of the launder, which is

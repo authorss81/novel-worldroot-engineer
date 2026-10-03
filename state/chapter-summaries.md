@@ -1,6 +1,11 @@
 # Chapter Summaries
 
-**Budget: about one thousand seven hundred words. Read this file whole. The archived layer at
+**Budget: about two thousand five hundred words, and this file is at that figure as measured on its own
+bytes with `len(text.split())`, which moves with every edit. Raised by the review-fix pass of
+2026-10-02, raised again by the Volume 14 close of 2026-10-03, and corrected by the review-fix pass of
+2026-10-03 over that close, which found this budget understated by about seven hundred words and
+corrected one count in section five without touching a morning, a figure of any series or a word
+figure. Read this file whole. The archived layer at
 `reviews/state-archive-2026-10-02/chapter-summaries.md` holds the full per-batch history.**
 
 ---
@@ -137,10 +142,12 @@ time.**
   a sheet nobody else signs**, nobody thanks anybody, **both locked figures are spoken whole**, the
   woman who made the offer walks out alive and standing, and the holding goes on working.
 
-**The four in-between locked figures** fell on days 891, 893, 894 and 896, at most one on any morning
-and none on the closing morning. **Both allowances are at their cap and neither figure may be spent
-on any morning of Volume 15 except its own first and last.** The card set's prohibition on seven
-cards was overridden and the reason is at `workspace/volume-14/batch-0005/SELF-CHECK.md` section two.
+**The closing batch's four in-between locked figures** fell on days 891, 893, 894 and 896, at most
+one on any morning and none on the closing morning, and **Volume 14 spent six in all, three of each,
+the other two falling on days 887 and 884 in Batch 0004.** **Both allowances are at their cap and
+neither figure may be spent on any morning of Volume 15 except its own first and last.** The card
+set's prohibition on seven cards was overridden and the reason is at
+`workspace/volume-14/batch-0005/SELF-CHECK.md` section two.
 
 ---
 
@@ -181,5 +188,6 @@ wrote exactly one successor.**
 the decision queue and which no writing phase may settle; the two series files that place the Aldren
 surrender in Volume 13, which a pass with the standing to edit them owes the correction; the house
 rule that every figure in body prose is spelled, which produced fourteen volumes of recitative
-register and which is a house-style decision a human takes; and the four in-between locked figures
-Volume 14 spent and the cap they reached.
+register and which is a house-style decision a human takes; and the six in-between locked figures
+Volume 14 spent, three of each on days 884, 887, 891, 893, 894 and 896, four of them in its closing
+batch and two not, and the cap they reached.

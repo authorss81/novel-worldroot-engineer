@@ -1,16 +1,22 @@
 # Current State
 
-**Budget: about three thousand four hundred words. Last raised by the review-fix pass of 2026-10-02,
-which added the apparatus correction, the floor that moved on the sheets and the record of that pass,
-and raised again by the Volume 14 close of 2026-10-03, which re-derived every figure in this file
-against the forty-nine mornings and corrected one clause. The detail behind both is at
-`workspace/volume-14/batch-0005/SELF-CHECK.md` and at `reviews/volume-14-close.findings.md` and is
-not repeated here. History is in `reviews/state-archive-2026-10-02/`; measurements belong in
-`reviews/`, which no prompt reads. Read this file whole, and the other three whole.**
+**Budget: about five thousand six hundred words, and this file is at that figure as measured on
+its own bytes with `len(text.split())`, which is the count any later pass re-derives and which moves
+with every edit, so the figure is a measurement and not a promise. Last raised by the review-fix
+pass of 2026-10-02, which added the apparatus correction, the floor that moved on the sheets and the
+record of that pass; raised again by the Volume 14 close of 2026-10-03, which re-derived every figure
+in this file against the forty-nine mornings and corrected one clause; and corrected by the
+review-fix pass of 2026-10-03 over that close, which found this budget understated by about twelve
+hundred words, found one handoff clause standing on its head, and moved no figure of any series. The
+detail behind all three passes is at `workspace/volume-14/batch-0005/SELF-CHECK.md`, at
+`reviews/volume-14-close.findings.md` and at `reviews/volume-14-close-repair.findings.md`, and is not
+repeated here. History is in `reviews/state-archive-2026-10-02/`; measurements belong in `reviews/`,
+which no prompt reads. Read this file whole, and the other three whole.**
 
-Last rewritten 2026-10-03, by the Volume 14 close, which wrote no prose and altered no morning.
-Every figure below is re-derivable from the rule beside it. **Nothing is inherited on trust, and the
-close re-derived rather than appended, so nothing in this file is an append-only residue.**
+Last rewritten 2026-10-03, by the review-fix pass over the Volume 14 close, which wrote no prose and
+altered no morning. Every figure below is re-derivable from the rule beside it. **Nothing is inherited
+on trust, and the close re-derived rather than appended, so nothing in this file is an append-only
+residue.**
 
 ## 1. Where the manuscript is
 
@@ -76,7 +82,11 @@ and a fifth piece of paper is on that table on the closing morning which is a wo
 the refusal written on it in her own hand.** **THE SHEET THAT HAS A SPACE RULED AT THE FOOT OF IT
 AND NOTHING IN THE SPACE IS THE FOURTH OF THE FOUR, BEING THE ONE THAT WAS OFFERED, AND IT IS NOT THE
 FIFTH — the close corrected that clause against `chapter-0686.md`, where the four are counted aloud
-and the fifth is named as her own.** A successor inherits the four as entered and none refused.
+and the fifth is named as her own.** **A successor inherits the four as NONE ENTERED AND NONE REFUSED,
+which is what the closing morning says in Nia Vale's own mouth and not the other way round: *Not one
+of the four entered, not one refused, and no column cut under any of them in this holding's book*
+(`chapter-0686.md`, line 161), and the two lines above this one say the same thing. A handoff that
+inherits the four as entered inherits the opposite of the page, and the page governs.**
 
 ---
 
@@ -202,7 +212,11 @@ she is not cornered and the refusal leaves her standing.
 WROTE NO PROSE AND ALTERED NO MORNING.**
 
 **THE NEXT PHASE IS THE PLAN FOR VOLUME 15, *The Root Commons*, AND ITS PROMPT IS AT
-`workspace/volume-15/plan/PROMPT.md`.** It writes `outline/volume-15.md` and nothing else of substance.
+`workspace/volume-15/outline/PROMPT.md`.** It writes `outline/volume-15.md` and nothing else of
+substance. **The close created it at `workspace/volume-15/plan/`, which is the name this tree gave
+the card-set phase, and the review-fix pass of 2026-10-03 moved the directory to `outline/`, which is
+the name Volumes 11, 13 and 14 gave a volume-plan phase. Its successor is at
+`workspace/volume-15/plan/PROMPT.md` and sorts after it.**
 
 **What the close recorded, so that nothing is inherited as silence:** the record of the refusal is
 Nia Vale's and is nobody else's document; the four losses stand at four; the reach's cost is named
@@ -211,6 +225,15 @@ and not a discovery and not a punishment for anybody; Iona Vey is named once, on
 morning, and is not killed, not in custody and not cornered, and the refusal leaves her standing;
 **the ladder was climbed zero rungs and nobody was asked to choose anything on any of the forty-nine
 mornings of this volume, and that streak is closed and may be counted once and nowhere else.**
+
+**AND TWO PHASES STAND AHEAD OF THAT ONE IN THE QUEUE, WHICH NO WRITING PHASE MAY CLEAR.** The
+selector takes the first phase prompt in sorted order carrying no marker. **`workspace/volume-14/close/`
+carried none when this was written and the control plane writes one at the end of its own run, so it
+resolves itself. `workspace/volume-14/plan/` does not:** it is the Volume 14 card set, its output is
+on disk and complete, and a script's prepended header defeats the guard that would retire it. **It
+sorts ahead of `workspace/volume-15/outline/` and will be selected before it, and a run of it will try
+to rewrite a completed phase's card set.** Nothing in this repository may clear that by touching a
+marker, and nothing has. The detail is at `state/open-threads.md` section four, items six and seven.
 
 **Volume 15 has no plan and no card set on disk.** Its central pressure, its climax and its
 resolution are fixed at `outline/series.md` and `outline/ending.md` and nowhere else, and its forty-nine
@@ -352,3 +375,46 @@ Volume 14 ending lock. Its record is `reviews/volume-14-close.findings.md`.**
   inside `outline/volume-14.md` and two series files still place the Aldren surrender in Volume 13.
   **All six are reported, named and carried, and every one of them is a figure a later pass would
   otherwise inherit as a rule.**
+
+---
+
+## 11. The review-fix pass over the Volume 14 close, 2026-10-03
+
+**An independent review of the close raised nine findings. This pass took all nine, repaired the seven
+that belong to a writing phase, recorded the two that belong to the control plane and reached for
+neither a marker nor a script, changed no morning, wrote no prose, moved no figure of any series, and
+left the manuscript at 1,915,609 words across 686 files. Its record is
+`reviews/volume-14-close-repair.findings.md`.**
+
+- **The one that mattered most was a sentence standing on its head.** Section two of this file ended
+  its paragraph on the sheets by saying a successor inherits the four as *entered and none refused*,
+  which is the opposite of the two lines above it and the opposite of the page: Nia Vale counts them
+  aloud on day 899 and says *Not one of the four entered, not one refused, and no column cut under
+  any of them in this holding's book.* **It is now written as none entered and none refused, with the
+  page quoted beside it, because a handoff that inverts a count is the one defect in this layer that a
+  successor cannot detect on its own.**
+- **The stated budgets of three of the four files were stale by five hundred to twelve hundred words
+  each, and the layer's own size was understated by over two thousand.** All four now print
+  a measured figure and the rule for re-deriving it, and the layer total is printed beside them.
+- **Three counts were wrong where a successor would have read them as rules.** The close's named open
+  items are eleven and were called nine. The three of them a Volume 15 writer is most likely to walk
+  into were headed *two* and are three. And the close's own findings in `state/continuity.md` were
+  called six and are four, being the four numbered items fifteen to eighteen.
+- **The in-between locked figures were labelled four where the volume behind had spent six.** Four is
+  the closing batch's count; the volume's is three of each on days 884, 887, 891, 893, 894 and 896,
+  four of them in the closing batch and two not. Corrected in four places, including the successor's
+  prompt, where an allowance section built on four would have been built on two missing mornings.
+- **The successor's prompt said day 931 was the thirtieth morning of Volume 15.** Day 900 is the
+  first, so day 931 is the thirty-second, and 931 − 900 + 1 = 32. Corrected, and the correction
+  carries the rule: count the days and then add one, because a morning is a day and not a difference,
+  and an off-by-one on a day clock is an off-by-one on every figure built on it.
+- **The successor's directory was named `plan/`, which in this tree is the card-set phase.** Moved to
+  `workspace/volume-15/outline/`, which is what Volumes 11, 13 and 14 called a volume-plan phase, with
+  the successor pointed at `workspace/volume-15/plan/PROMPT.md`, which sorts after it. No word of
+  either prompt and no figure in either changed, and the two stale path references were corrected with
+  the reason beside them.
+- **And two controller faults were recorded and not touched,** because markers are controller-owned:
+  the close's own missing completion marker, which the control plane writes for itself at the end of
+  its run, and the Volume 14 card-set phase, which cannot retire itself and sorts ahead of the
+  successor, so a run of it would try to rewrite a completed phase's card set. **The fix for the
+  second one belongs to the control plane and this pass did not reach for it.**
