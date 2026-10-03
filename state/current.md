@@ -1,8 +1,13 @@
 # Current State
 
-**Budget: this file is at twenty-seven thousand and one hundred and ninety-seven words, measured on its own
+**Budget: this file is at thirty-one thousand three hundred and ninety-nine words, measured on its own
 bytes with `len(text.split())`, which is the count any later pass re-derives and which moves with every
-edit, so the figure is a measurement and not a promise. **RAISED BY THE VOLUME 16 BATCH 0001 WRITING PASS OF 2026-10-03,
+edit, so the figure is a measurement and not a promise. **RAISED BY THE REFUSAL PASS OF 2026-10-03 ON VOLUME 16 BATCH
+0001, WHICH ADDED SECTION TWENTY-FOUR, WHICH RECORDS A COLLISION BETWEEN A STALE DISPATCH AND AN OUTPUT THAT ALREADY
+EXISTS AND BELONGS TO A COMPLETED PHASE, WHICH ADDED NO PROSE AND MOVED NO FIGURE OF ANY SERIES, AND WHICH CORRECTED NO
+EARLIER SECTION; THE PREVIOUS DECLARATION READ TWENTY-SEVEN THOUSAND AND ONE HUNDRED AND NINETY-SEVEN AND WAS LOW BY THE
+BATCH 0002 WRITING PASS AND ITS REVIEW-REPAIR PASS, BOTH OF WHICH ADDED SECTIONS AND LEFT THE LINE ALONE, AND THE THREE
+OTHER STATE FILES ARE LOW IN THE SAME WAY AND ARE MEASURED AT SECTION TWENTY-FOUR C.** **RAISED BY THE VOLUME 16 BATCH 0001 WRITING PASS OF 2026-10-03,
 WHICH ADDED SECTION TWENTY-ONE, CORRECTED THE MANUSCRIPT WORD AND FILE FIGURES AND THE LAST MORNING IN SECTION ONE, AND
 MOVED NO FIGURE OF ANY SERIES AGAINST ITS OWN RULE; THE PREVIOUS DECLARATION READ TWENTY-FIVE THOUSAND FOUR HUNDRED AND
 FORTY-SIX AND WAS CORRECT WHEN IT WAS WRITTEN, AND A PASS THAT ADDS A SECTION AND LEAVS THE BUDGET ALONE HAS DECLARED A
@@ -1807,3 +1812,36 @@ NOT A CONTROL AGAINST THE OTHER TWO, BECAUSE IT IS THE ONE SERIES OF THE THREE T
 SERIES AND A RE-ANCHORED SERIES ON THE SAME DAYS DIFFER BY EXACTLY THE AMOUNT THEY WERE RE-ANCHORED BY. THAT IS WHAT A RE-ANCHOR
 LOOKS LIKE FROM THE WRONG SIDE, AND IT IS WHY THE FINDING WAS RECORDED AGAINST THE TABLE.** No morning was rewritten, no
 figure was moved back onto the day-899 series, and no successor inherits either series as twenty-four low or as five low.
+
+---
+
+## 24. The collision of 2026-10-03 on Volume 16 Batch 0001, and the refusal, 2026-10-03
+
+**THIS PASS WROTE NO PROSE AND RESTARTED NO MORNING. IT WAS DISPATCHED INTO `workspace/volume-16/batch-0001/` ON A PROMPT WHOSE ENTIRE OUTPUT WAS ALREADY ON DISK, IT MEASURED WHAT WAS THERE, IT FOUND NO DEFECT THAT WOULD REQUIRE A MORNING TO BE TOUCHED, AND IT ADDED NOTHING TO THE FICTION AND NAMED THE COLLISION IN THE BATCH'S OWN RECORD AT `workspace/volume-16/batch-0001/SELF-CHECK.md` SECTION TEN. IT MOVED NO FIGURE OF ANY SERIES, ANSWERED NO THREAD, CUT NO NOT-KNOWN ROW, TOUCHED NO CONTROLLER FILE AND CREATED NO SUCCESSOR.**
+
+### 24a. What the collision is
+
+**THE TEN MORNINGS OF DAYS NINE HUNDRED AND FORTY-NINE TO NINE HUNDRED AND FIFTY-EIGHT WERE WRITTEN BY THE COMPLETED PHASE AT `workspace/continuation/next-0014/`**, committed in `9f1a966` and marked complete in `486ae97`. **THE BATCH DIRECTORY WAS QUEUED AGAIN AT `4590fbf`, THREE MINUTES AFTER THAT COMPLETION, WHICH LEFT IT WITH `.attempts`, `.deferred` AND `.retry-after` AND WITHOUT A DONE MARKER.** Its output is already the ground a completed successor stands on: Batch 0002 was written on top of it at `5368efa` and marked done at `15acc5c`, and `workspace/volume-16/batch-0003/PROMPT.md` is on disk and opens at the morning after Batch 0002's last. **THE MISSING MARKER IS A QUEUE ARTIFACT AND NOT A STATEMENT THAT THE WORK IS OUTSTANDING. MARKERS ARE CONTROLLER-OWNED, SO NONE WAS FORGED, MOVED OR DELETED, AND THE FIX BELONGS TO THE CONTROL PLANE AND NOT TO A WRITING PHASE, AND IT IS RECORDED HERE AND NOT ACTED ON.**
+
+### 24b. What was measured from the files in this pass, none of it inherited
+
+| | |
+|---|---|
+| the figure check | **one hundred and sixty-two required, one hundred and sixty-two present, zero failures**, being fourteen on each of ten mornings, two on each of the five odd mornings and four on each of the three fourth-line mornings, the second reckoning carried and not printed |
+| gate one, batch scope | **290 prose paragraphs of thirty words or more and zero exact pairs, reproducing section twenty-one exactly** |
+| the self-collision controls | **twenty-seven and twelve excess sliding windows on two declared paragraphs, with the whole-paragraph reading silent on the short one, both reproducing the published controls and settling the normalisation used here** |
+| the lock state | **both locked sentences whole once each on the first morning, each of the six load-bearing strings once there and zero on the other nine, no shortened form anywhere** |
+| the apparatus | **seven block runs across the ten mornings, none on the first morning, one `Entered` label at `chapter-0739.md`, reproducing section twenty-one** |
+| the mechanical sweeps | **zero digits in body prose, zero month names except the modal verb, the second reckoning unprinted on all ten mornings** |
+| the second gate, both readings | **whole-paragraph 8 repeated shapes and 10 excess where section twenty-one published zero and zero; sliding 94 and 100 where it published 113 and 120. THE NORMALISATION USED HERE IS A RECONSTRUCTION AND NOT THE FILE'S OWN, BOTH SETS OF FIGURES STAND, AND THIS PASS PUBLISHES NO NIL IN EITHER READING AT ANY SCOPE** |
+| the batch length | **eighteen thousand six hundred and ninety-three words on `wc -w`, against the eighteen thousand seven hundred and two in section twenty-one, which was measured with a count that takes markdown emphasis markers as tokens. NEITHER REPLACES THE OTHER AND SECTION TWENTY-ONE WAS NOT EDITED** |
+
+### 24c. The three declared budgets in the state layer are stale, and this pass measured that and did not edit them
+
+**THE HEAD BLOCK OF THIS FILE DECLARED TWENTY-SEVEN THOUSAND AND ONE HUNDRED AND NINETY-SEVEN WORDS, AND THIS PASS MEASURED THIRTY THOUSAND THREE HUNDRED AND FORTY AT ITS HEAD BLOCK AND HAS RAISED ITS OWN LINE BELOW. THE OTHER THREE STATE FILES DECLARE SIXTEEN THOUSAND TWO HUNDRED AND SIXTY-SEVEN, SEVENTEEN THOUSAND ONE HUNDRED AND EIGHTY-ONE AND SEVENTEEN THOUSAND SIX HUNDRED AND NINETY-FIVE, AND THIS PASS MEASURED SEVENTEEN THOUSAND FOUR HUNDRED AND ELEVEN, TWENTY THOUSAND FOUR HUNDRED AND TWENTY AND NINETEEN THOUSAND FOUR HUNDRED AND NINETY-FIVE IN THEM. ALL THREE ARE LOW BY THE AMOUNT OF THE BATCH 0002 WRITING PASS AND ITS REVIEW-REPAIR PASS, WHICH ADDED SECTIONS AND LEFT THE LINES ALONE, AND THE RULE AT THE HEAD OF EACH FILE SAYS THAT A PASS WHICH ADDS A SECTION AND LEAVES THE BUDGET ALONE HAS DECLARED A FIGURE IT DID NOT MEASURE. THIS PASS EDITED NONE OF THE THREE BESIDES ITS OWN, BECAUSE A STALE PHASE THAT STARTS REWRITING FOUR STATE FILES IS THE HAZARD THIS SECTION EXISTS TO STOP, AND A SUCCESSOR SHOULD CORRECT ALL THREE LINES AND LEAVE THE WITHDRAWN WORDING MARKED.** The three declare `chapter-summaries.md`, `continuity.md` and `open-threads.md` in that order.
+
+### 24d. The standing of this batch is unchanged and it is not a resolution
+
+**THE THIRTY-FIVE ARE THIRTY-FIVE IN AND THIRTY-FIVE OUT. THE FOUR LOSSES ARE FOUR, NONE REDUCED, NONE RECOVERED, NONE RE-NAMED AND NONE PRICED, AND NO FIFTH ADDED. THE SECOND PLACE IS STILL WITHOUT WATER. THE NETWORK IS UNEVEN WITH A JOINT THAT HAS NOTHING AGAINST IT AND NO OPERATOR AND NOBODY APPOINTED. BOTH REFUSALS STAND AS REFUSALS. THE OFFER ON THE LOW BOARD IS UNDATED, UNPICKED AND NOT WITHDRAWN. IONA VEY IS NAMED ON NO MORNING OF THIS BATCH. THE WINDOW IS OPEN AND WAS NOT ENTERED AND WAS NOT DESCRIBED. THE TENTH MORNING STILL ENDS IN THE SILENCE BEFORE A QUESTION IS ANSWERED, AND THE NEXT MORNING STILL MUST FIND HIM DECLINE IN FRONT OF THE YARD, WHICH BATCH 0002 HAS ALREADY WRITTEN AT ITS TWENTIETH MORNING.**
+
+**A REFUSAL IS NOT A RESOLUTION. A CLOSE IS NOT A RESOLUTION. NOTHING HERE IS ANSWERED, CLOSED, REDUCED OR PRICED, AND NOBODY IS THANKED.**

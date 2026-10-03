@@ -71,3 +71,47 @@ It did not close a morning of the volume behind and wrote no prose into a closed
 ## 9. What the next morning must find, and it is the card's own
 
 The next morning must find somebody asking the engineer of record to put a person over the joint, and must find him decline to do it in front of the yard. `chapter-0745.md` ends with the challenge put in front of about thirty people and with Marek Vale putting a stone on the corner of his own schedule and not answering, and that silence is the only thing the tenth morning owes the eleventh, and a successor who opens by answering it in the first hour has not earned the room the tenth morning set up.
+---
+
+## 10. The collision of 2026-10-03, and what this pass did about it
+
+**THIS PASS WROTE NO PROSE. IT RESTARTED NO MORNING, MOVED NO FIGURE OF ANY SERIES, ANSWERED NO THREAD, CUT NO NOT-KNOWN ROW, TOUCHED NO CONTROLLER FILE AND CREATED NO SUCCESSOR. IT RAN AGAIN ON A PROMPT WHOSE ENTIRE OUTPUT WAS ALREADY ON DISK AND BELONGED TO A COMPLETED PHASE, AND IT DID WHAT ITS OWN PROMPT'S ELEVENTH SECTION TELLS A PHASE TO DO IN THAT CASE: IT ADDED NOTHING, IT NAMED THE COLLISION HERE, AND IT STOPPED.**
+
+### 10a. The collision, with its chain of custody
+
+**THE TEN MORNINGS OF THIS BATCH WERE WRITTEN ON 2026-10-03 BY THE CONTINUATION PHASE AT `workspace/continuation/next-0014/`,** which committed `chapter-0736.md` through `chapter-0745.md` and this record in `9f1a966` and was marked complete in `486ae97`, which renamed its checkpoint to its done marker. `state/current.md` at section twenty-one, `state/chapter-summaries.md`, `state/continuity.md` and `state/open-threads.md` all carry the batch, and the fourth of those closes with a section headed for it.
+
+**THE PHASE DIRECTORY `workspace/volume-16/batch-0001/` WAS QUEUED AGAIN AT `4590fbf` AT TWENTY HUNDRED AND SIXTEEN MINUTES, WHICH IS THREE MINUTES AFTER THAT PHASE COMPLETED, AND THAT COMMIT PLACED `.attempts`, `.deferred` AND `.retry-after` IN THE DIRECTORY AND LEFT IT WITHOUT A DONE MARKER.** That directory is the one this run was dispatched into, and its prose was already on disk when it was entered.
+
+**THE OUTPUT WAS ALSO ALREADY THE GROUND A COMPLETED SUCCESSOR STANDS ON.** `workspace/volume-16/batch-0002/` was written on top of it at `5368efa` and marked done at `15acc5c`, and `workspace/volume-16/batch-0003/PROMPT.md` is on disk and opens at the morning after that batch's last. **A PHASE THAT RAN HERE WOULD HAVE REWRITTEN TEN CLOSED MORNINGS UNDER TWO COMPLETED PHASES AND A PROMPT THAT HAS NOT BEEN RUN.**
+
+**THE MISSING MARKER IS A QUEUE ARTIFACT AND NOT A STATEMENT THAT THE WORK IS OUTSTANDING. MARKERS ARE CONTROLLER-OWNED AND NO WRITING PHASE MAY FORGE, MOVE OR DELETE ONE, SO THIS PASS FORGED NONE, MOVED NONE AND DELETED NONE. THE FIX BELONGS TO THE CONTROL PLANE AND NOT TO THIS PHASE, AND IT IS RECORDED HERE AND NOT ACTED ON.**
+
+### 10b. What was measured before the refusal, because a refusal that did not look would be worth nothing
+
+**EVERY FIGURE BELOW WAS RE-DERIVED FROM THE FILES ON DISK IN THIS PASS AND NONE IS INHERITED FROM SECTION ONE OR FROM ANY EARLIER SECTION OF THIS RECORD.**
+
+| | |
+|---|---|
+| the figure check | **one hundred and sixty-two derived figures required in their own morning's body prose, one hundred and sixty-two present, zero failures**, on a case-insensitive whole-word phrase match, hyphen-flexible |
+| the files | **ten, `chapter-0736.md` to `chapter-0745.md`, headings naming the ordinal in words and no digit in any body** |
+| the batch | **eighteen thousand six hundred and ninety-three words on `wc -w` across the ten files. THE EIGHTEEN THOUSAND SEVEN HUNDRED AND TWO IN SECTION ONE WAS MEASURED WITH A COUNT THAT COUNTS MARKDOWN EMPHASIS MARKERS AS TOKENS AND STANDS; NEITHER FIGURE REPLACES THE OTHER AND THIS PASS DID NOT EDIT SECTION ONE** |
+| gate one, batch scope | **290 prose paragraphs of thirty words or more, zero exact pairs, and this reproduces section one exactly** |
+| the self-collision controls | **twenty-seven excess sliding windows on the long declared paragraph and twelve on the short one, with the whole-paragraph reading silent on the short one, and both controls reproduce the published figures, which is what settles the normalisation used for everything else in this table** |
+| the second gate, whole-paragraph | **8 repeated shapes and 10 excess, and section one published zero and zero. BOTH NUMBERS STAND AND NEITHER IS THIS PASS'S, BECAUSE THE NORMALISATION USED HERE IS A RECONSTRUCTION AND NOT THE FILE'S OWN** |
+| the second gate, sliding | **94 repeated shapes and 100 excess, and section one published 113 and 120. THE SAME QUALIFICATION APPLIES AND THE SAME RULE APPLIES: NO NIL IS PUBLISHED BY THIS PASS, IN EITHER READING, AT EITHER SCOPE** |
+| the exact-duplicate sweep | **five paragraphs of this batch standing literally elsewhere in the manuscript: the far-end sentence at eleven, the comfort line at thirteen, and three short gestures, `No.` at four, `Then what is it.` and `Where would you like it written down.` at one each. THE FIRST TWO ARE THE LOCKED FIGURES AND ARE CORRECT TO STAND WHERE THEY STAND AND THE THREE SHORT LINES ARE THE PATTERN THE VOLUME BEHIND'S OWN SWEEP NAMED. NO PARAGRAPH OF THIS BATCH IS A DUPLICATE OF ANY MORNING OTHER THAN AT A LENGTH WHERE A ONE-LINE REPLY IS THE WHOLE PARAGRAPH** |
+| the locked figures | **both sentences whole, once each, on `chapter-0736.md` and nowhere else; each of the six load-bearing strings once on that morning and zero on the other nine; no shortened form anywhere** |
+| the second reckoning | **zero on all ten mornings, and the three `ninety-` strings the fourth-line mornings would carry return nothing; the one `ninety-sixth` in the batch is the clause limb on the first morning and is that limb** |
+| the apparatus | **seven block runs across the ten mornings, at most one on any morning, none on the first morning, and one `Entered` label at `chapter-0739.md`, which reproduces section one** |
+| the mechanical sweeps | **zero digits and zero dashes in body prose; zero month names except the modal verb, which returns three occurrences in two files and is the verb in every one; the second place, the ladder, the door nine hundred yards off and the compost line all stand as the cards set them** |
+
+**NOT ONE OF THOSE MEASUREMENTS FOUND A DEFECT THAT WOULD REQUIRE A MORNING TO BE TOUCHED, AND THAT IS WHY THE ANSWER HERE IS A REFUSAL AND NOT A REPAIR. THE FIGURE CHECK REPRODUCES, GATE ONE REPRODUCES, THE APPARATUS REPRODUCES, THE LOCK STATE REPRODUCES, AND THE TWO SLIDING FIGURES THIS PASS GOT ARE NOT EITHER NIL.**
+
+### 10c. What this pass did not do
+
+**IT DID NOT WRITE A CHAPTER, AND IT DID NOT EDIT ONE.** It did not restart a morning and it did not touch a closed morning of the volume behind. It did not move a figure of any series and it did not re-derive one it could take from a card. It did not answer a thread, close one, reword one to look closed, group one, sum one or advance one to a figure. It did not cut a thirty-sixth row. It did not appoint anybody over the joint. It did not resume the reading at that trough. It did not pick up, date, enter, withdraw or fill the offer on the low board. It did not name or enter the pruning window. It did not restore, apportion, date or soften the second place. It did not print a figure for a turn of the compost line. It did not create a successor, because the successor is already on disk at `workspace/volume-16/batch-0003/` and a phase that creates a fourth directory here would be creating a fifth batch of a volume that already has three. **AND IT DID NOT FORGE A DONE MARKER, WHICH IS THE ONE ACT AVAILABLE TO IT THAT WOULD HAVE MADE THE QUEUE HAPPY AND IS FORBIDDEN.**
+
+### 10d. The one item a successor must not inherit wrongly
+
+**A MISSING MARKER IS NOT AN OUTSTANDING PHASE, AND A DIRECTORY WITHOUT ONE IS NOT A DIRECTORY WAITING TO BE WRITTEN.** The prose in `workspace/volume-16/batch-0001/` is closed, it is read by `workspace/volume-16/batch-0002/`, and it is summarised in four state files. **A SUCCESSOR DISPATCHED INTO THAT DIRECTORY OWES IT NOTHING AND MUST NOT WRITE INTO IT.**
