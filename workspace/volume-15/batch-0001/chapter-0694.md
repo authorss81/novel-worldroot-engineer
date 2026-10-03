@@ -68,7 +68,7 @@ The fourth place's man read the launder at about the third hour of the afternoon
 
 He put the pencil behind his ear and left his hand on the stone for a while.
 
-**"That channel's own weight has been read off this stone every morning for nine mornings and I have got them all on my copy sheet in a column, and the highest figure it has ever come down at is the one I read on Friday, and the lowest is the one I read on Friday as well, and it has not done the same thing twice this week."**
+**"That channel's own weight has been read off this stone every morning for eight mornings and I have got them all on my copy sheet in a column, and the highest of the eight is the one I read on Tuesday, and the lowest of the eight is the one I read on Thursday, and Friday's is neither of them, and it has not done the same thing twice this week."**
 
 He looked along the wall at the office end of the middle road.
 
@@ -88,7 +88,7 @@ Nia Vale came along the wall at about the fifth hour and did the two cut figures
 
 She came to the middle table and looked at the shape and then at the wall.
 
-**"Two sheets in this yard with a space ruled at the foot of them and nothing in either space, and one of them has five lines on it and the other one has four terms and a seal, and a third sheet has come up that road with two columns on it and no space at the foot of it at all, and I have stopped being able to count the paper in this holding and I have been doing this for four years."**
+**"Two sheets in this yard with a space ruled at the foot of them and nothing in either space, and one of them has five lines on it in the engineer's own hand and the other one is the fourth of the four on this table, which is the sheet a woman four days north put on it eight mornings ago at the ninth hour and that was refused in one breath, and a third sheet has come up that road with two columns on it and no space at the foot of it at all, and I have stopped being able to count the paper in this holding and I have been doing this for four years."**
 
 Soren Rill came along the inside edge of the eleven acres at dusk with the third place's sheet folded in his coat, and did not go near the ring and did not go near the ladder and did not go near the low board.
 
@@ -104,6 +104,6 @@ Then Kellan Rusk turned the rack key and said it from inside the room.
 
 He shut the rack.
 
-**"Eleven journeys and no twelfth, and fifteen lines in the use log with a clean space above the fifteenth. And for the old man at the end of the north row: twenty-nine fetchings, unfetched, unasked at any hour today. I have said it ten mornings running. I am going to say it on every morning until somebody in this holding tells me to stop, and nobody has, and I am not going to take the telling kindly."**
+**"Eleven journeys and no twelfth, and fifteen lines in the use log with a clean space above the fifteenth. And for the old man at the end of the north row: twenty-nine fetchings, unfetched, unasked at any hour today. I have said it twelve mornings running. I am going to say it on every morning until somebody in this holding tells me to stop, and nobody has, and I am not going to take the telling kindly."**
 
 The two columns were on the middle table at dusk with nothing at the foot of them, and the board in the one room carried two figures under a heading that had not moved, and one hundred and ninety-nine was in its last hundred of its own, and the yard went on working.

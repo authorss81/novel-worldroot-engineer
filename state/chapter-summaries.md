@@ -1,11 +1,14 @@
 # Chapter Summaries
 
-**Budget: about three thousand eight hundred words, raised by the Volume 15 Batch 0001 writing pass of 2026-10-03, which added section six. Budget: about two thousand five hundred words, and this file is at that figure as measured on its own
-bytes with `len(text.split())`, which moves with every edit. Raised by the review-fix pass of
+**Budget: about three thousand eight hundred words, and this file is at that figure as measured on its
+own bytes with `len(text.split())`, which moves with every edit. Raised by the review-fix pass of
 2026-10-02, raised again by the Volume 14 close of 2026-10-03, and corrected by the review-fix pass of
-2026-10-03 over that close, which found this budget understated by about seven hundred words and
-corrected one count in section five without touching a morning, a figure of any series or a word
-figure. Read this file whole. The archived layer at
+2026-10-03 over that close, which found the earlier budget understated by about seven hundred words
+and corrected one count in section five without touching a morning, a figure of any series or a word
+figure. Raised a fourth time by the Volume 15 Batch 0001 writing pass of 2026-10-03, which added
+section six; **that pass's edit re-declared the budget and left the earlier declaration standing
+underneath it, and the review-fix pass over that batch removed the second declaration so that this
+file carries one figure and not two.** Read this file whole. The archived layer at
 `reviews/state-archive-2026-10-02/chapter-summaries.md` holds the full per-batch history.**
 
 ---
@@ -28,16 +31,20 @@ figure. Read this file whole. The archived layer at
 | 12 | 540 to 588 | 49 | 118,058 |
 | 13 | 589 to 637 | 49 | 91,321 |
 | **14** | 638 to 686 | **49** | 116,146 |
-| **15** | 687 to 735 | **10 of 49 written** | **24,133** |
+| **15** | 687 to 735 | **10 of 49 written** | **24,273** |
 | 16 | 736 to 780 | 0 | 0 |
 
-Titles are in `outline/volume-NN.md`. **696 files, 1,939,742 words.** Volumes 01 to 14 are closed.
+Titles are in `outline/volume-NN.md`. **696 files, 1,939,882 words.** Volumes 01 to 14 are closed.
 **Volume 15 is open at ten mornings of forty-nine.**
 The word figure moves with every prose change and is measured per file with `len(text.split())`,
-never by concatenation. **Every one of these figures was re-derived by the Volume 14 close on
-2026-10-03 and every one reproduces to the word.** `wc -w` per file agrees on all 686 files; the
-figure `cat` gives is 1,915,598 and the residual of eleven words is the twelve files that lack an
-EOF newline, eleven of which are followed by another file.
+never by concatenation. **The fourteen Volume 14 figures in this table, the Volume 13 figure and the
+manuscript total as it stood at 1,915,609 across 686 files were re-derived by the Volume 14 close on
+2026-10-03 and every one of those reproduces to the word, and `wc -w` per file agreed with the split
+count on all 686 of them.** The figure `cat` gave that day was 1,915,598 and the residual of eleven
+words is the twelve files that lack an EOF newline, eleven of which are followed by another file.
+**THE VOLUME 15 ROWS WERE ADDED BY A LATER WRITING PASS AND THAT PASS DID NOT RUN THE CLOSE'S SWEEP
+OVER THEM, SO THE RE-DERIVATION ABOVE DOES NOT COVER THEM.** A successor that wants a guarantee over
+the Volume 15 rows must measure them itself and must not read the sentence above as one.
 
 **Volume 14 is the only volume with a plan and a card set, and it is closed.** For it, read
 `outline/volume-14.md`, then the card set, then the batch prompts, then the close prompt.
@@ -197,7 +204,7 @@ batch and two not, and the cap they reached.
 
 ## 6. Volume 15, mornings one to ten, one line each
 
-**Batch 0001, days 900 to 909, files 687 to 696. Twenty-four thousand one hundred and thirty-three
+**Batch 0001, days 900 to 909, files 687 to 696. Twenty-four thousand two hundred and seventy-three
 words. No morning restarted. The successor is `workspace/volume-15/batch-0002/PROMPT.md`.**
 
 - **900**, Wednesday, the thirtieth. **The volume opens on work already in hand, five women from the
@@ -217,7 +224,7 @@ words. No morning restarted. The successor is `workspace/volume-15/batch-0002/PR
   whole word, against a second reckoning at eighty-seventh that is not round.** The count in force
   rises by one and no field is taken and nobody is blamed for a field that waited. **Marek's first
   shape for what this holding will maintain is put into the yard and Soren Rill names what is wrong
-  with it in nine words: it is a list of things and not a shape, and it has no hours in it and no
+  with it in fifty words: it is a list of things and not a shape, and it has no hours in it and no
   people in it.**
 - **903**, Saturday, the third. **The shape goes on one sheet with a ruled space at the foot of it and
   nobody signs.** Soren Rill declines to be bound by it and asks to be neither asked nor blamed for

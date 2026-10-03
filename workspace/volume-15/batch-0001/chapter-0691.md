@@ -38,7 +38,7 @@ He looked at it for a while and did not take it.
 
 Then she said the thing about the sheet on the middle table, and she said it to the wall rather than to him, because the wall is where she speaks when she is saying something she means.
 
-**"I am not going to put a name at the foot of that list, and I am not going to ask anybody to. I have been on that sill eleven mornings this month and there is not one hour of it in that list and not one name of the five of us on it, and that is not a complaint and I am not going to make it one to a man who is holding my bucket."**
+**"I am not going to put a name at the foot of that list, and I am not going to ask anybody to. I have been out on that sill before the light came up this week and the week before, and there is not one hour of it in that list and not one name of the five of us on it, and that is not a complaint and I am not going to make it one to a man who is holding my bucket."**
 
 She took the bucket off him and set it down.
 
@@ -56,7 +56,7 @@ He set the hod down.
 
 The fourth place's man came down at about the second hour of the afternoon and read the launder with the whole yard behind him, because the crew had come in and washed and were standing at the boards, and he read it the way he read it when there was a crowd, which is to say that he read the whole and the window and then the halves in the middle of it and did not care.
 
-**"One thousand and two hundred and ninety-five hundredweight, the four hundred and fifty-fourth of the run, eight on because this morning is an even morning. Window four hundred and twenty-one, rising half two hundred and sixteen, falling half two hundred and five. The upper half moved in the night and the lower one has not moved since Friday and I have stopped apologising for saying them in that order."**
+**"One thousand and two hundred and ninety-five hundredweight, the four hundred and fifty-fourth of the run, eight on because this morning is an even morning. Window four hundred and twenty-one, rising half two hundred and sixteen, falling half two hundred and five. The upper half moved in the night and the lower one has not moved since Saturday and I have stopped apologising for saying them in that order."**
 
 He wiped under the line and then wiped the stone above it where nothing was written.
 
@@ -102,6 +102,6 @@ At dusk, Kellan Rusk said it from inside the one room.
 
 He shut the rack.
 
-**"There is one more standing and it is the one I say last because it is the one that costs me something to say every morning. Twenty-nine fetchings, not fetched, and nothing put to him at any hour of a Sunday. That is eight mornings. It will be nine tomorrow unless a man from an office comes down that lane again."**
+**"There is one more standing and it is the one I say last because it is the one that costs me something to say every morning. Twenty-nine fetchings, not fetched, and nothing put to him at any hour of a Sunday. That is nine mornings. It will be ten tomorrow unless a man from an office comes down that lane again."**
 
 The shape lay on the middle table at dusk with the space at the foot of it still empty, and the seed sack lay on the boards at the north end with five names and five hours on it and a gap for the truth, and a man of about fifty was where he has been every evening since the middle of the month, with his hand on a door frame and nobody going past him, and the yard went on working.

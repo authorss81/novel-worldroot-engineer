@@ -4,7 +4,7 @@
 
 Kellan Rusk put the schedule on the yard wall at about the eighth hour with chalk and a straight edge he had borrowed from the mason, and he did it in the order he wanted it in and not the order it came off the paper from the office, and nobody told him he could not.
 
-> Copied out on the yard wall at the eighth hour in the clerk's own hand, being the office's schedule of the moment set out in the yard's order with the yard's hours ruled under it, and entered in neither of the two other books and not in the one in the rack:
+> Copied out on the yard wall at the eighth hour in the bookkeeper's own hand, being the office's schedule of the moment set out in the yard's order with the yard's hours ruled under it, and entered in neither of the two other books and not in the one in the rack:
 >
 > **The moment.** The last working morning of this month. Not a date, and not to be turned into one by anybody in this yard.
 >
@@ -92,7 +92,7 @@ Kellan Rusk read the three ages off the rack with his back half to the yard beca
 
 He turned round with the book shut.
 
-**"That is three figures and I have said them nine mornings running and I am not going to improve them. The nearest of the four sheets on the long table is a hundred and fifty-three days old, and that figure has nothing to do with these three and I would like somebody in this yard who is good at arithmetic to notice that."**
+**"That is three figures and I have said them seven mornings running and I am not going to improve them. The nearest of the four sheets on the long table is a hundred and fifty-three days old, and that figure has nothing to do with these three and I would like somebody in this yard who is good at arithmetic to notice that."**
 
 Hesta Lyle came out and read the head of the long sheet and the two limbs under it, and she read them to the man from the third place rather than to her own yard.
 

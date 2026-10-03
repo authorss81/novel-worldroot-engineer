@@ -58,7 +58,7 @@ Then the mason asked him a question about the wall, and Harlan answered it, and 
 
 Kellan Rusk came out at the middle of the day and read the three ages off the rack with the door of the one room open behind him and the yard able to hear the whole of it.
 
-**"Register form three hundred and fifty-two days. Charter two hundred and fifty-eight. And in the second ruled line in Silling's own book there is three hundred and forty-six and not a word on it anywhere, and the space above that word is clean, and I have said it ten mornings running and I am not going to change my order because a mason has a visitor at that gate."**
+**"Register form three hundred and fifty-two days. Charter two hundred and fifty-eight. And in the second ruled line in Silling's own book there is three hundred and forty-six and not a word on it anywhere, and the space above that word is clean, and I have said it nine mornings running and I am not going to change my order because a mason has a visitor at that gate."**
 
 He shut the book on his thumb.
 
@@ -112,8 +112,8 @@ Kellan Rusk turned the rack key at dusk, with the door of the one room open abou
 
 He shut the rack and then stood with his hand on the door.
 
-**"And for the old man at the end of the north row, twenty-nine fetchings, unfetched, with nothing put to him at any hour of any day this month. That is eleven mornings. I have said it eleven times, and I have not once had anybody ask me why I keep saying it, and if anybody asks me why I keep saying it I am going to have to think about it."**
+**"And for the old man at the end of the north row, twenty-nine fetchings, unfetched, with nothing put to him at any hour of any day this month. That is thirteen mornings. I have said it thirteen times, and I have not once had anybody ask me why I keep saying it, and if anybody asks me why I keep saying it I am going to have to think about it."**
 
-He shut the rack and put his hand on the door.
+He left the rack shut and put his thumb on the nail the key hangs from, and did not take the key down.
 
 A man of about fifty was still inside the doorway of the one room at dusk with his hand on the frame where he has put it every evening since the middle of the month, and the sill crew had gone up the road, and a mason from the third place had gone down it, and a stone at the north end of a holding of four hundred people carried a weight that had not been on it before, and nobody in that yard had said a word about what it meant, and the yard went on working.

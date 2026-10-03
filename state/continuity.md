@@ -1,12 +1,16 @@
 # Continuity
 
-**Budget: about four thousand four hundred words, raised by the Volume 15 Batch 0001 writing pass of 2026-10-03, which added section eight. Budget: about three thousand four hundred words, and this file is at that figure as measured on its
+**Budget: about four thousand four hundred words, and this file is at that figure as measured on its
 own bytes with `len(text.split())`, which moves with every edit. Raised by the review-fix pass of
-2026-10-02, raised again by the Volume 14 close of 2026-10-03, and corrected by the review-fix pass of
-2026-10-03 over that close, which found this budget understated by about five hundred words and the
-stated size of the layer understated by over two thousand, and corrected one count in section
-seven without touching the story, a character or a figure of any series. Read this file whole. The
-state layer is four files of about fourteen thousand seven hundred words together, measured the same
+2026-10-02, raised again by the Volume 14 close of 2026-10-03, corrected by the review-fix pass of
+2026-10-03 over that close, which found the earlier budget understated by about five hundred words and
+the stated size of the layer understated by over two thousand, and raised a fourth time by the
+Volume 15 Batch 0001 writing pass of 2026-10-03, which added section eight; **that pass's edit
+re-declared the budget and left the earlier declaration standing underneath it, and the review-fix
+pass over that batch removed the second declaration so that this file carries one figure and not two.**
+It corrected one count in section seven without touching the story, a character or a figure of any
+series. Read this file whole. The
+state layer is four files of about twenty thousand seven hundred words together, measured the same
 way in one loop, and the archived layer behind it is at `reviews/state-archive-2026-10-02/` and is
 not to be loaded.**
 
@@ -122,7 +126,7 @@ line on day 900 and said he had four losses and was not going to name them in a 
 and looked at a gauge.** Sera Quill stopped at the second reckoning on two mornings and said out loud
 that a figure which is carried is not a figure that has been published, and stopped saying it after
 day 906. Renn Ashby has not opened his mouth since day 900. Soren Rill named the first shape wrong in
-nine words and then declined to be bound by it and said so in the same breath. Nia Vale declined to
+fifty words and then declined to be bound by it and said so in the same breath. Nia Vale declined to
 put her hand under a second sheet written by somebody else. Hesta Lyle shut the door of the one room
 behind her on day 909, which she has not done in four years. **Nobody thanked anybody on any of the ten
 mornings, and nobody in this holding was asked to choose anything on any of them.**

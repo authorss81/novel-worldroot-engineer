@@ -120,11 +120,11 @@ In the one room, Kellan Rusk shut the rack on the last of the afternoon and said
 
 **"Thirty-nine blanks cut in that board, and the rule underneath them standing open and empty at the thirty-ninth time. Six ruled rows on that shelf against what this holding does not know, and the shelf above the sixth is bare. Nothing goes into this holding's book on a Wednesday. The other two books are fifty-three apiece and have never once been the same list."**
 
-He shut the rack again and the key went into his pocket.
+He shut the rack again and stood with his back to the door of the one room.
 
 **"The barrow carries eleven journeys marked against it and there is no twelfth marking. The use log stops at fifteen lines and the space above the fifteenth is clean. And for the man at the end of the north row there are twenty-nine fetchings, unfetched and unasked, and I have said that in this yard five mornings running and I am not going to stop now for a sheet off an office."**
 
-The key went into his pocket.
+He put the key on its nail in the doorway, which is where it stands every other hour of the day, and stood with his shoulder against the frame until the light came off the top of the wall.
 
 He had said nothing at all since the seventh hour. His hand was still on the frame of the one room doorway at dusk, and the six weeks he asked to be noticed with went on being noticed with by everybody in that yard except himself.
 

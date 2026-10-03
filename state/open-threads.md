@@ -1,10 +1,14 @@
 # Open Threads
 
-**Budget: about four thousand words, raised by the Volume 15 Batch 0001 writing pass of 2026-10-03, which added section six. Budget: about three thousand two hundred words, and this file is at that figure as measured on its
+**Budget: about four thousand two hundred words, and this file is at that figure as measured on its
 own bytes with `len(text.split())`, which moves with every edit. Raised by the review-fix pass of
 2026-10-02, raised again by the Volume 14 close of 2026-10-03, and corrected by the review-fix pass of
 2026-10-03 over that close, which added the two controller items it could not clear, moved the
 Volume 15 plan phase to the directory name this tree uses for one, and corrected three counts below.
+Raised a fourth time by the Volume 15 Batch 0001 writing pass of 2026-10-03, which added section six;
+**that pass's edit re-declared the budget and left the earlier declaration standing underneath it,
+and the review-fix pass over that batch removed the second declaration so that this file carries one
+figure and not two.**
 Read this file whole. Figures are in
 `state/current.md`, the story is in `state/continuity.md`, and the archived layer at
 `reviews/state-archive-2026-10-02/` holds the per-thread detail for every row below.**
@@ -227,6 +231,19 @@ distinct repeated shapes and fifty-three excess paragraph pairs inside itself. A
 is the two locked figures, which are required to be identical to themselves.** **A measure that
 counts standing-item recurrence per morning is the right replacement gate and it does not exist
 yet**; building it is a decision for the pass that owns the gates.
+
+**AND A SECOND REPLACEMENT GATE NOW EXISTS AND WAS RUN ON VOLUME 15 BATCH 0001, AND IT IS CHEAPER
+THAN THE ONE ABOVE.** It matches every non-blank body line against every other within sixteen lines
+of it, in the same file, on the longest shared contiguous token run rather than on whole paragraphs,
+and it reports anything at or above six tokens. **The whole-paragraph sweep cannot see a beat that is
+re-stated in different words, and that is the defect class it missed.** On Batch 0001 it found two
+orphan-copy artifacts the writing pass's gates had published clean past, at eleven and fifteen shared
+tokens inside one scene, and both are repaired. **Run at six tokens it returns forty-three runs across
+ten mornings and every one of them is a stock construction in a character's own voice — *and I am not
+going to*, *the man from the third place*, *it is being asked to maintain five things* — and not a
+re-stated beat, and the run count went down from forty-six at the writing pass's own text. A gate at
+six tokens is a report and not a failure, and a run above six tokens is where this batch's two defects
+sat.**
 
 ---
 

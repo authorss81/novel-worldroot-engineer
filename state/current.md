@@ -1,23 +1,27 @@
 # Current State
 
-**Budget: about seven thousand five hundred words, raised by the Volume 15 Batch 0001 writing pass of
-2026-10-03, which added section twelve and which is at that figure as measured on
-its own bytes with `len(text.split())`, which is the count any later pass re-derives and which moves
-with every edit, so the figure is a measurement and not a promise. Last raised by the review-fix
-pass of 2026-10-02, which added the apparatus correction, the floor that moved on the sheets and the
-record of that pass; raised again by the Volume 14 close of 2026-10-03, which re-derived every figure
-in this file against the forty-nine mornings and corrected one clause; and corrected by the
-review-fix pass of 2026-10-03 over that close, which found this budget understated by about twelve
-hundred words, found one handoff clause standing on its head, and moved no figure of any series. The
+**Budget: about eight thousand three hundred words, and this file is at that figure as
+measured on its own bytes with `len(text.split())`, which is the count any later pass re-derives and
+which moves with every edit, so the figure is a measurement and not a promise. Raised by the Volume 15
+Batch 0001 writing pass of 2026-10-03, which added section twelve; raised again by the review-fix pass
+of 2026-10-02, which added the apparatus correction, the floor that moved on the sheets and the record
+of that pass; raised again by the Volume 14 close of 2026-10-03, which re-derived every figure in this
+file against the forty-nine mornings and corrected one clause; corrected by the review-fix pass of
+2026-10-03 over that close, which found this budget understated by about twelve hundred words, found
+one handoff clause standing on its head, and moved no figure of any series; and raised a fifth time by
+the review-fix pass of 2026-10-03 over Volume 15 Batch 0001, which rewrote section eight, withdrew a
+misclassified figure, added the bare round hundred note and moved no figure of any series. The
 detail behind those passes is at `workspace/volume-14/batch-0005/SELF-CHECK.md`, at
-`reviews/volume-14-close.findings.md` and at `reviews/volume-14-close-repair.findings.md`, and is not
-repeated here. History is in `reviews/state-archive-2026-10-02/`; measurements belong in `reviews/`,
-which no prompt reads. Read this file whole, and the other three whole.**
+`reviews/volume-14-close.findings.md`, at `reviews/volume-14-close-repair.findings.md` and at
+`reviews/volume-15-batch-0001-repair.findings.md`, and is not repeated here. History is in
+`reviews/state-archive-2026-10-02/`; measurements belong in `reviews/`, which no prompt reads. Read
+this file whole, and the other three whole.**
 
-Last rewritten 2026-10-03, by the review-fix pass over the Volume 14 close, which wrote no prose and
-altered no morning. Every figure below is re-derivable from the rule beside it. **Nothing is inherited
-on trust, and the close re-derived rather than appended, so nothing in this file is an append-only
-residue.**
+Last rewritten 2026-10-03, by the review-fix pass over Volume 15 Batch 0001, which wrote no prose,
+restarted no morning, moved no figure of any series and touched no controller file. Before that, by the
+review-fix pass over the Volume 14 close, which wrote no prose and altered no morning. Every figure
+below is re-derivable from the rule beside it. **Nothing is inherited on trust, and the closes
+re-derived rather than appended, so nothing in this file is an append-only residue.**
 
 ## 1. Where the manuscript is
 
@@ -25,8 +29,8 @@ residue.**
 |---|---|
 | **Last morning on disk** | day 909, `workspace/volume-15/batch-0001/chapter-0696.md` |
 | **Volume** | 15 of 16, *The Root Commons*, days 900 to 948, **ten mornings written of forty-nine: the volume is open** |
-| **Manuscript** | 1,939,742 words across 696 chapter files; the per-volume table is at `state/chapter-summaries.md` |
-| **Volume 15 Batch 0001** | 24,133 words across ten files, 687 to 696, days 900 to 909, per file 2,685, 2,252, 2,360, 2,434, 2,466, 2,121, 2,494, 2,348, 2,495 and 2,478 |
+| **Manuscript** | 1,939,882 words across 696 chapter files; the per-volume table is at `state/chapter-summaries.md` |
+| **Volume 15 Batch 0001** | 24,273 words across ten files, 687 to 696, days 900 to 909, per file 2,723, 2,269, 2,359, 2,456, 2,474, 2,121, 2,494, 2,385, 2,507 and 2,485, **re-measured by the review-fix pass of 2026-10-03 over this batch, which changed the writing pass's figures** |
 | **Volume 14 Batch 0005** | 24,440 words across nine files, 678 to 686, days 891 to 899, per file 2,771, 2,320, 2,096, 2,919, 2,482, 2,300, 2,653, 2,961 and 3,938 |
 
 Volumes 01 to 13 are closed at forty-nine mornings each. **Volume 14 is closed.** Volume 15 takes
@@ -211,38 +215,48 @@ she is not cornered and the refusal leaves her standing.
 
 ## 8. The one next phase
 
-**THE CLOSE OF VOLUME 14 IS DONE. IT IS AT `workspace/volume-14/close/`, ITS FINDINGS ARE AT
-`reviews/volume-14-close.findings.md`, AND ITS LOCK IS THE FINAL SECTION OF `outline/ending.md`. IT
-WROTE NO PROSE AND ALTERED NO MORNING.**
+**VOLUME 15 IS OPEN AT TEN MORNINGS OF FORTY-NINE AND ITS PLAN AND ITS CARD SET ARE BOTH ON DISK.**
+`outline/volume-15.md` is the plan, `outline/batches/volume-15-cards.md` is the card set, and the
+first ten mornings are written at `workspace/volume-15/batch-0001/`, files `chapter-0687.md` through
+`chapter-0696.md`, days 900 to 909. **The close of Volume 14 is done and stays done; its findings are
+at `reviews/volume-14-close.findings.md` and its lock is the final section of `outline/ending.md`; it
+wrote no prose and altered no morning.**
 
-**THE NEXT PHASE IS THE PLAN FOR VOLUME 15, *The Root Commons*, AND ITS PROMPT IS AT
-`workspace/volume-15/outline/PROMPT.md`.** It writes `outline/volume-15.md` and nothing else of
-substance. **The close created it at `workspace/volume-15/plan/`, which is the name this tree gave
-the card-set phase, and the review-fix pass of 2026-10-03 moved the directory to `outline/`, which is
-the name Volumes 11, 13 and 14 gave a volume-plan phase. Its successor is at
-`workspace/volume-15/plan/PROMPT.md` and sorts after it.**
+**THE NEXT PHASE IS VOLUME 15 BATCH 0002, DAYS 910 TO 919, AND ITS PROMPT IS AT
+`workspace/volume-15/batch-0002/PROMPT.md`.** It writes `chapter-0697.md` through `chapter-0706.md`
+and nothing else of substance. **Batch 0001 created it and Batch 0001 created nothing after it, and no
+successor-of-successor exists on disk.** **The review-fix pass of 2026-10-03 over Batch 0001 corrected
+that prompt's file range, which it had printed one too low at the top end and had named a completed
+morning as the first of the next batch's ten.**
 
-**What the close recorded, so that nothing is inherited as silence:** the record of the refusal is
-Nia Vale's and is nobody else's document; the four losses stand at four; the reach's cost is named
-and is not softened and is not apportioned; the second place is left without and that is not a death
-and not a discovery and not a punishment for anybody; Iona Vey is named once, on the closing
+**THE PLAN PHASE AND THE CARD-SET PHASE ARE BOTH SPENT AND NEITHER MAY BE RUN AGAIN.** The plan
+lives at `outline/volume-15.md` and the card set at `outline/batches/volume-15-cards.md`, and both are
+complete. **THE REVIEW-FIX PASS OF 2026-10-02 MOVED THE PLAN PHASE OUT OF `workspace/volume-15/plan/`
+INTO `outline/`, BECAUSE `plan/` IS THE NAME THIS TREE GIVES THE CARD-SET PHASE, AND A RUN OF EITHER
+WOULD REWRITE A COMPLETED PHASE'S OUTPUT.**
+
+**What Volume 14's close recorded, so that nothing is inherited as silence:** the record of the
+refusal is Nia Vale's and is nobody else's document; the four losses stand at four; the reach's cost is
+named and is not softened and is not apportioned; the second place is left without and that is not a
+death and not a discovery and not a punishment for anybody; Iona Vey is named once, on the closing
 morning, and is not killed, not in custody and not cornered, and the refusal leaves her standing;
 **the ladder was climbed zero rungs and nobody was asked to choose anything on any of the forty-nine
-mornings of this volume, and that streak is closed and may be counted once and nowhere else.**
+mornings of that volume, and that streak is closed and may be counted once and nowhere else.**
 
-**AND TWO PHASES STAND AHEAD OF THAT ONE IN THE QUEUE, WHICH NO WRITING PHASE MAY CLEAR.** The
-selector takes the first phase prompt in sorted order carrying no marker. **`workspace/volume-14/close/`
-carried none when this was written and the control plane writes one at the end of its own run, so it
-resolves itself. `workspace/volume-14/plan/` does not:** it is the Volume 14 card set, its output is
-on disk and complete, and a script's prepended header defeats the guard that would retire it. **It
-sorts ahead of `workspace/volume-15/outline/` and will be selected before it, and a run of it will try
-to rewrite a completed phase's card set.** Nothing in this repository may clear that by touching a
-marker, and nothing has. The detail is at `state/open-threads.md` section four, items six and seven.
+**AND ONE CONTROLLER ITEM IS STILL OPEN AND NO WRITING PHASE MAY CLEAR IT.** The selector takes the
+first phase prompt in sorted order carrying no marker, and **a phase that cannot retire itself sorts
+ahead of a later one and will be selected again.** `workspace/volume-14/close/` carried no marker when
+this was written and the control plane writes one at the end of its own run, so that one resolves
+itself. **Nothing in this repository may clear a marker by touching it, and nothing has.** The detail
+is at `state/open-threads.md` section four, items six and seven.
 
-**Volume 15 has no plan and no card set on disk.** Its central pressure, its climax and its
-resolution are fixed at `outline/series.md` and `outline/ending.md` and nowhere else, and its forty-nine
-mornings have never been derived. **A volume with forty-nine mornings and no plan has been the
-standing failure of this repository and it is now the front of the queue.**
+**AND THE CONTROLLER FAULTS THE CLOSE'S REPAIR PASS COULD NOT CLEAR ARE CARRIED, NOT FIXED.** The
+close's own missing completion marker, and the Volume 14 card-set phase, which is complete on disk and
+which a script's prepended header defeats. **Both belong to the control plane.**
+
+**Volume 15's central pressure, its climax and its resolution are fixed at `outline/series.md` and
+`outline/ending.md` and are not restated here, and its forty-nine mornings are derived in its own
+plan.**
 
 ---
 
@@ -428,7 +442,7 @@ left the manuscript at 1,915,609 words across 686 files. Its record is
 ## 12. Volume 15 Batch 0001, and the standings at day nine hundred and nine
 
 **TEN MORNINGS WRITTEN, DAYS 900 TO 909, FILES 687 TO 696, IN `workspace/volume-15/batch-0001/`.**
-Twenty-four thousand one hundred and thirty-three words. No morning was restarted and no morning
+Twenty-four thousand two hundred and seventy-three words. No morning was restarted and no morning
 was written twice. **The successor is `workspace/volume-15/batch-0002/PROMPT.md` and it is the only
 one this batch created.**
 
@@ -452,7 +466,7 @@ four figures missing that are on the page; that cost this pass an hour and the f
 | Aggregate | day less four hundred and fifty-two | four hundred and fifty-seven |
 | Its clause | day minus four hundred and fifty-three, day minus four hundred and fifty-one | the four hundred and fifty-sixth out of four hundred and fifty-eighth |
 | Near board | day less 66 | eight hundred and forty-three |
-| Far board | day less 19; always forty-seven from the near one | eight hundred and ninety, **a bare round hundred, and it is the only one this volume's first ten mornings contain** |
+| Far board | day less 19; always forty-seven from the near one | eight hundred and ninety, **which has lost its tail and is a round tens and NOT a round hundred. The far board does not reach a round hundred in this volume until day 919, at exactly nine hundred bare, and the near board on that morning stands at eight hundred and fifty-three and is not round** |
 | Read aloud | numerator one hundred and ninety-six on day 901 plus one on every odd morning after it, spelled **one hundred and** in its range and an ordinary figure from day 909; denominator day less 526, always odd | two hundred of three hundred and eighty-three, **and the numerator is a bare round two hundred with no and and no tail, against a denominator that is not round** |
 | **The two forms in the hundred range** | **the letter takes *a hundred and* on every morning of this volume and the read-aloud numerator takes *one hundred and* while it is in its range. The two sit side by side on days 901, 903, 905 and 907, and a writer who learns one form on one of them and carries it to the other is wrong on every odd morning of the volume** | the letter stands at a hundred and fifty-six days and the numerator left its range this morning |
 | Count in force | rises by one on a fourth-line morning only, being a day congruent to two modulo four; the twelve of them are days 902, 906, 910, 914, 918, 922, 926, 930, 934, 938, 942 and 946, and **every one of the twelve is an even morning, so no fourth-line morning carries a read-aloud figure** | a hundred and fifty-three, twenty-nine taken, a hundred and twenty-four not, **and no field was taken on either of the two fourth-line mornings in this batch and nobody was blamed for a field that waited** |
@@ -464,6 +478,36 @@ four figures missing that are on the page; that cost this pass an hour and the f
 | Compost line | went over to paid at thirty-one on day 873 by a rise in the paid column and not by a discharge, and has not moved since. **Volume 15 schedules no turn in it, and no interval any page states places the next turn inside this volume** | **paid at thirty-one, not discharged** |
 | Count of blanks | thirty-nine, never moved | thirty-nine, and the second rule under them stood empty at the thirty-ninth time, **including on day 901, which is the first of this volume's six return mornings** |
 | Returns | every ninth day, at days 901, 910, 919, 928, 937 and 946. **A return moves no figure in this holding and has not for four years, and no ordinal, no weight and no remaining allowance is printed for one. Day 910 is both a return morning and a fourth-line morning and is the first morning of the next batch** | one return spent, day 901 |
+
+**THE BARE ROUND HUNDRED SITES INSIDE THESE TEN MORNINGS ARE TWO, AND THEY ARE WHOLE FIGURES ON TWO
+MORNINGS AND NOT HALF-FIGURES ON ANY: *one hundred*, the first of the two reckonings, on day 902, and
+*two hundred*, the read-aloud numerator, on day 909.** The third of the volume's three is *nine
+hundred*, the far board, on day 919, which is outside this batch. **The far board at eight hundred and
+ninety on day 909 is a round tens with no tail and is not a round hundred, and the read-fix pass of
+2026-10-03 over this batch withdrew a sentence here that called it one and made it the only one in the
+ten mornings, which would have cost a successor the *and* on day 909's second reckoning. A successor
+that inherits *far board is a bare round hundred* inherits the opposite of the plan and must drop
+nothing.**
+
+**AND THE RUNNING MORNING-COUNTS ARE DERIVED FIGURES AND THE RULE IS PRINTED BESIDE THEM, BECAUSE
+THREE SEPARATE STREAKS WALK THESE MORNINGS AND A SUCCESSOR CANNOT COUNT THEM OFF A CALENDAR.**
+
+- **THE FETCHINGS STREAK. The bookkeeper's count of the mornings on which he has said the twenty-nine
+  fetchings out loud is the day less eight hundred and ninety-five, and the anchor is a closed page:
+  day 899 is four mornings running, at `chapter-0686.md` line 209.** Day 900 is five and day 909 is
+  fourteen. **Five of the ten mornings in this batch stated a figure for it and three of the five were
+  wrong; the review-fix pass of 2026-10-03 corrected days 903, 904, 907, 908 and 909 and left days 900
+  and 902 standing, because those two already agreed with the rule.** Two mornings in the batch state
+  no figure for it and a successor must not infer a break.
+- **THE THREE AGES STREAK. The count of mornings on which the three figures have been read out loud is
+  the day less eight hundred and ninety-nine, and it is local to this volume.** Day 906 is seven and
+  day 908 is nine, and days 907 and 909 state no figure for it.
+- **THE STONE STREAK. The count of mornings on which the fourth place's man has read the launder off
+  the stone is the day less eight hundred and ninety-nine, and it is local to this volume.** Day 902 is
+  three, day 907 is eight, day 908 is nine and day 909 is ten.
+
+**A SUCCESSOR THAT STATES ONE OF THESE COUNTS DERIVES IT AND DOES NOT COUNT IT, AND A SUCCESSOR THAT
+FINDS A MORNING WHICH STATES NONE LEAVES THE STREAK ALONE RATHER THAN READING THE GAP AS A STOP.**
 
 **AND THE MEASUREMENTS THIS BATCH PUBLISHES, WITH THEIR UNIVERSES AND THEIR NORMALISATION.**
 Normalisation in full: numerals and spelled number words both replaced by one token, the word *and*
@@ -504,6 +548,27 @@ ANYWHERE.** The ceiling for the whole volume is thirty, an entered block inside 
 beside it, at most one block on any morning and none on the first morning or the closing morning or
 the major turn morning. **Twenty-six are unspent and this batch spent four, which is a menu and not a
 quota.**
+
+**AND THE REVIEW-FIX PASS OF 2026-10-03 OVER THIS BATCH RE-RAN BOTH GATES AND BOTH SWEEPS AFTER
+REPAIRING SIX MORNINGS, AND PUBLISHES ITS RESULT AND NOT ITS COUNTS.** Self-collision checked first on
+a paragraph built to collide with itself, which returned excess, so a nil is evidence. **Gate two,
+non-overlapping: no repeated shape and no excess. Gate two, sliding eighteen-word windows: no repeated
+shape and no excess. Gate one, paragraphs of thirty words or more against each other: no ordered pair
+at or above the threshold. Against the six hundred and eighty-six mornings behind: no shared window at
+all.** **THE TWO GATE COUNTS IN THE PARAGRAPHS ABOVE ARE THE WRITING PASS'S OWN AND ARE NOT WITHDRAWN
+AND NOT REPRODUCED HERE, because this pass's normalisation is a substitute implementation and a
+substitute count published under the writing pass's names would be a second error. The result is a nil
+in three scopes and the counts belong to whoever re-derives them.**
+
+**AND WHAT THE REPAIR CHANGED, WHICH IS SIX MORNINGS AND NO FIGURE OF ANY SERIES.** It re-derived the
+word counts, the figure check by diffing every number word in every morning against the committed text,
+the mechanical sweeps, the apparatus count and the exact-duplicate sweep. **The number-word diff
+returns one changed word per intended repair and no figure of any series moved: the changes are the
+running morning-counts, the word count of one speech, the weekday one half last moved on, and the
+words *clerk* and *bookkeeper*.** It found the two orphan-copy artifacts the writing pass's own gate
+could not see, at eleven and fifteen shared tokens in one scene, and it replaced them; **the gate's
+duplicate sweep matches whole paragraphs exactly and cannot see a beat that is re-stated in different
+words, which is the defect class a whole-batch sweep on shared token runs catches and this pass ran.**
 
 **THE EXACT-DUPLICATE PARAGRAPH SWEEP, AT ANY PARAGRAPH LENGTH, SCOPED TO THE VOLUME:** no
 paragraph in these ten mornings is repeated inside one file. **One paragraph is repeated inside one

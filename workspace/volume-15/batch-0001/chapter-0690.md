@@ -50,7 +50,7 @@ He wrote one hundred and ninety-seven of three hundred and seventy-seven on the 
 
 Kellan Rusk took his hand off the chalk and looked at what he had written and did not say it again.
 
-**"Two figures,"** he said. **"That is what stopping looks like on a wall. There are two figures on that board and they will be two figures tomorrow morning and the morning after, and the heading over them has not moved and is not going to. Renn Ashby told this yard on the last morning of last month that he had said them at that trough for four years and that he had said them for the last time, and he was not going to make anything of it and he was not going to thank anybody for it."**
+**"Two figures,"** he said. **"That is what stopping looks like on a wall. There are two figures on that board and they will be two figures tomorrow morning and the morning after, and the heading over them has not moved and is not going to. Renn Ashby told this yard on the Tuesday before the month turned that he had said them at that trough for four years and that he had said them for the last time, and he was not going to make anything of it and he was not going to thank anybody for it."**
 
 Renn Ashby did not say a word. He put his hands down at his sides, looked at the two figures on the board for a while, and then went out to the gate and stood at the gate for the rest of that part of the morning without speaking to anybody.
 
@@ -108,8 +108,8 @@ At dusk Kellan Rusk turned the rack key and said it from inside the room, and no
 
 He shut the rack.
 
-**"Nothing goes into this holding's book on a Saturday, and the other two books are fifty-three apiece and took nothing off that shape. Eleven journeys and no twelfth; fifteen lines and a clean space above the fifteenth. For the old man at the end of the north row: twenty-nine fetchings, unfetched, unasked, and I have said it in this yard seven mornings running and I am going to say it on the morning a shape gets signed as well."**
+**"Nothing goes into this holding's book on a Saturday, and the other two books are fifty-three apiece and took nothing off that shape. Eleven journeys and no twelfth; fifteen lines and a clean space above the fifteenth. For the old man at the end of the north row: twenty-nine fetchings, unfetched, unasked, and I have said it in this yard eight mornings running and I am going to say it on the morning a shape gets signed as well."**
 
 The girl from the second place was still at the gate with her bundle under her arm. She had read the sheet on the middle table for a long time and had said nothing about it to anybody, and nobody in that yard had put one word to her about it. In the doorway of the one room the man of about fifty went on being noticed with, and the yard went on working.
 
-He shut the rack and the key went into his pocket.
+The key went onto its nail in the doorway behind him, and he stood in the doorway with his hand on the frame until the light came off the top of the wall.

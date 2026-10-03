@@ -12,7 +12,7 @@ Nia Vale asked him whether the eleven acres were in the shape, and he said the e
 
 Harlan Vetch asked him whether the tap joint at the back of the tap house was in the shape, and Marek said the tap joint was not in the shape, and Harlan said the tap joint has come away wet every morning since the day it went in and has proved nothing about any day of the week whatever, and a shape that leaves a weeping joint out of it is a shape about stonework.
 
-Soren Rill did not interrupt for either of those. He waited until the yard had gone quiet and then he said the thing that made the shape wrong, and he said it in nine words and then he stood with his hands in his coat.
+Soren Rill did not interrupt for either of those. He waited until the yard had gone quiet and then he said the thing that made the shape wrong, and he said it in fifty words and then he stood with his hands in his coat.
 
 **"It is a list of things and not a shape. A list of things has no hours in it and no people in it, and on a morning when two of those five cannot both be done this yard will find out which of them everybody thought was somebody else's."**
 
@@ -52,7 +52,7 @@ The fourth place's man read the launder at about the ninth hour and gave the fig
 
 He wiped under the line with the flat of his hand.
 
-**"The upper half has moved every other morning since Tuesday and the lower half has moved on the ones in between, and both of them are over two hundred, and neither of them is a round figure, and that is the ninth morning I have stood at this stone in a week and the eighth time I have had to stop and think about which one of the two I am about to say."**
+**"The upper half has moved every other morning since Tuesday and the lower half has moved on the ones in between, and both of them are over two hundred, and neither of them is a round figure, and that is the third morning I have stood at this stone this week and the third time I have had to stop and think about which one of the two I am about to say."**
 
 Kellan Rusk read the three ages off the rack in the order of the question he had been asked rather than the order of the shelf.
 

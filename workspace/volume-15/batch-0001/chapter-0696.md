@@ -14,7 +14,7 @@ He put the chalk down on the sill and left it and came back out into the yard an
 
 Somebody at the gate said it was not like the one above it.
 
-**"It is not like the one above it and it is not like anything else on any of these books, and there is no other round figure in this holding that I know of this morning except the far end of the wall, which had one this afternoon last week and does not have it now,"** Kellan Rusk said. **"And the second of the two on that board is three hundred and eighty-three and it is not a round figure and it never will be, because that one goes up by two every time the other one goes up by one."**
+**"It is not like the one above it and it is not like anything else on any of these books, and there is nothing bare written on any one of them this morning except the two hundred and whatever the stone at the far end of that wall says, and I have not been up to that end of the wall yet today,"** Kellan Rusk said. **"And the second of the two on that board is three hundred and eighty-three and it is not a round figure and it never will be, because that one goes up by two every time the other one goes up by one."**
 
 He picked the chalk back up and put it behind the sill.
 
@@ -96,7 +96,7 @@ The fourth place's man read the launder at about the fifth hour and gave it in t
 
 He put his hand flat on the stone and left it there for a while.
 
-**"That stone has stood there longer than the wall and the gate and the rack, and it has never once had a mark on it that was not cut by whoever cut it, and I have been reading off it for nine mornings and it has taken them all without saying one word back."**
+**"That stone has stood there longer than the wall and the gate and the rack, and it has never once had a mark on it that was not cut by whoever cut it, and I have been reading off it for ten mornings and it has taken them all without saying one word back."**
 
 Kellan Rusk read the three ages off the rack at about the sixth hour, standing in the doorway with the key already in his hand because he was going to lock it.
 
@@ -104,12 +104,12 @@ Kellan Rusk read the three ages off the rack at about the sixth hour, standing i
 
 He shut the book and turned the key over.
 
-**"And the book comes round tomorrow, and the rotation comes round tomorrow, and I have never in nine years had a morning with both of those on it and I have never thought about what a clerk does on a morning when two things want the same page."**
+**"And the book comes round tomorrow, and the rotation comes round tomorrow, and I have never in nine years had a morning with both of those on it and I have never thought about what a bookkeeper does on a morning when two things want the same page."**
 
 He stopped with his hand on the door and then said the rest of it from inside the room.
 
 **"Thirty-nine blanks and the second rule open and empty at the thirty-ninth time, and a seed sack on the middle table does not enter one figure into that rack. Nothing is entered in this holding's book on a Friday. The two other books are at fifty-three and fifty-three and they have never once been the same list, and neither of them has ever had a term in it that anybody held charcoal for."**
 
-**"Eleven journeys and no twelfth. Fifteen lines and a clean space above the fifteenth. And the old man at the end of the north row is at twenty-nine fetchings, unfetched, unasked, with nothing put to him at any hour of this day. It is the twelfth morning I have said that and there is a thirteenth tomorrow."**
+**"Eleven journeys and no twelfth. Fifteen lines and a clean space above the fifteenth. And the old man at the end of the north row is at twenty-nine fetchings, unfetched, unasked, with nothing put to him at any hour of this day. It is the fourteenth morning I have said that and there is a fifteenth tomorrow."**
 
 The girl from the second place was still at the gate at dusk with her bundle under her arm, two papers gone up that road and one seed sack on a table and no name at the foot of any of it. Four hundred people were working in that yard and none of them had signed anything. In the doorway of the one room a man of about fifty had his hand on the frame. The four sheets on the long table were exactly where they had been all week, and the yard went on working.

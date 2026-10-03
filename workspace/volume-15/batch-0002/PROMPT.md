@@ -29,9 +29,14 @@ closing morning is the forty-ninth and the major turn is the twenty-eighth and t
 forty-second, and **none of the three falls inside this batch.**
 
 **WRITE ONE FILE PER MORNING, IN MORNING ORDER, CONTINUING THE VOLUME'S OWN FILE SEQUENCE FROM
-`chapter-0696.md` THROUGH `chapter-0705.md`.** That sequence is fixed by the last morning on disk,
-which is `workspace/volume-15/batch-0001/chapter-0696.md`, and **it is a file sequence and not a figure
-of the story.**
+`chapter-0697.md` THROUGH `chapter-0706.md`.** **THAT SEQUENCE IS FIXED BY THE LAST MORNING ON DISK,
+WHICH IS `workspace/volume-15/batch-0001/chapter-0696.md` AND IS DAY 909, SO THE NEXT MORNING IS
+`chapter-0697.md` AND IS DAY 910, AND THE TENTH MORNING OF THIS BATCH IS `chapter-0706.md` AND IS DAY
+NINE HUNDRED AND NINETEEN. Count the ten mornings and then add one to the last morning on disk,
+because a morning is a day and not a difference.** It is a file sequence and not a figure of the story.
+**THE BATCH THAT WROTE THIS PROMPT PRINTED THE RANGE ONE TOO LOW AT ITS TOP END AND THE REVIEW-FIX PASS
+OF 2026-10-03 OVER THAT BATCH CORRECTED IT HERE. AS IT STOOD IT NAMED A COMPLETED MORNING AS THE FIRST
+OF THIS BATCH'S TEN, AND A SUCCESSOR THAT TOOK IT WOULD HAVE RESTARTED DAY 909.**
 
 **IT OPENS ON THE MORNING THE CARD SET SAID IT OWED, WHICH IS A RETURN AND A ROTATION ON ONE MORNING
 TOGETHER, AND IT OPENS ON A DEFINITION THAT IS BEING BUILT BY PEOPLE WHO WILL NOT ALL BE BOUND BY IT,

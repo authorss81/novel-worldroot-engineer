@@ -14,6 +14,14 @@ Ten mornings, days 900 to 909, files `chapter-0687.md` to `chapter-0696.md`, in
 file 2,685, 2,252, 2,360, 2,434, 2,466, 2,121, 2,494, 2,348, 2,495 and 2,478. No morning restarted and
 no morning written twice.
 
+**THE WORD FIGURES IN THE PARAGRAPH ABOVE ARE THE WRITING PASS'S OWN AND THEY NO LONGER REPRODUCE.**
+The review-fix pass of 2026-10-03 over this batch repaired prose in six mornings, and it re-measured:
+**twenty-four thousand two hundred and seventy-three words across the ten, per file 2,723, 2,269, 2,359,
+2,456, 2,474, 2,121, 2,494, 2,385, 2,507 and 2,485, and one million nine hundred and thirty-nine
+thousand eight hundred and eighty-two across the manuscript's six hundred and ninety-six files.**
+**Every other figure in this file is the writing pass's own measurement of the writing pass's own text,
+and this is still a writer's self-check and not a review.**
+
 **THE SUCCESSOR IS `workspace/volume-15/batch-0002/PROMPT.md` AND IT IS THE ONLY ONE THIS BATCH
 CREATED.** This batch did not create a successor of its successor and did not cut the volume.
 

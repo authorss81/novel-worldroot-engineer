@@ -48,15 +48,15 @@ Somebody in the yard asked him whether the office would take a day.
 
 Nobody argued with him, and nobody thanked him for the two days, and nobody asked him a second time about either answer.
 
-Kellan Rusk came out and read the schedule out from the middle table while Corin Dace stood beside it and did not correct him, and the clerk's voice was the clerk's and the order of it was the clerk's.
+Kellan Rusk came out and read the schedule out from the middle table while Corin Dace stood beside it and did not correct him, and the bookkeeper's voice was the bookkeeper's and the order of it was the bookkeeper's.
 
-> The schedule of the office of works, four days north, carried down the middle lane at the eighth hour and read in the yard by the clerk out of the office's own hand, and the turn of the days is not in it and did not move it:
+> The schedule of the office of works, four days north, carried down the middle lane at the eighth hour and read in the yard by the bookkeeper of this holding out of the office's own hand, and the turn of the days is not in it and did not move it:
 >
 > **First.** The moment at which this holding must say in writing what it will maintain and what it will not is the last working morning of this month.
 >
 > **Second.** Nothing in this paper is a date. A date is not a thing the office recognises and not a thing a holding argues with, and any reading of this paper that turns the moment into a day is a reading, and not the paper.
 >
-> **Third.** The writing goes up the lane on the morning after. It is not read at a gate. It is not entered in any book of this holding before the clerk has copied it.
+> **Third.** The writing goes up the lane on the morning after. It is not read at a gate. It is not entered in any book of this holding before the office has copied it.
 >
 > **Fourth.** Nothing in this paper is entered, refused or cut under in the book that stands in the one room, and the second rule under the blanks on that board stands open and empty at the thirty-ninth time.
 
@@ -82,9 +82,9 @@ Harlan Vetch came down off the north end about midday and stood at the tool hous
 
 He looked at the sleeve on Marek's arm where the mark was under the cloth, and then he went back to the wall.
 
-Then he looked at the sleeve on Marek's arm where the mark was under the cloth.
+Marek worked the sill end for another hour and did not turn round, and nobody at that wall asked either of them about it.
 
-**"I have said all of that in this yard on a good many mornings and I am not going to improve on it because an office has sent a man down the lane. The schedule fixes a morning. It does not fix a chisel."**
+**"I have said all of that in this yard on a good many mornings and I am not going to improve on it because an office has sent a man down the lane. A morning up that lane is a morning up that lane, and it is not a chisel."**
 
 Hesta Lyle was at the long sheet at about the second hour of the afternoon with it squared against the wood and her hand flat on the head of it.
 
@@ -92,7 +92,7 @@ Hesta Lyle was at the long sheet at about the second hour of the afternoon with 
 
 She lifted her hand off the head of the sheet.
 
-**"Nobody has improved the heading over the third column of the sheet of terms, and the column itself is ruled and empty, and a man from an office stood in my yard this morning and did not once look at it, which is the correct thing for him to have done. Under two words there are four ruled lines and they are bare. Nobody has written a fifth term, and I would like a clerk who reads things out for a living to notice that."**
+**"Nobody has improved the heading over the third column of the sheet of terms, and the column itself is ruled and empty, and a man from an office stood in my yard this morning and did not once look at it, which is the correct thing for him to have done. Under two words there are four ruled lines and they are bare. Nobody has written a fifth term, and I would like a bookkeeper who reads things out for a living to notice that."**
 
 Soren Rill came in past the gate at about the third hour and went along the inside edge of the eleven acres the way he has gone along it for four years, and did not go near the ring and did not go near the ladder.
 
