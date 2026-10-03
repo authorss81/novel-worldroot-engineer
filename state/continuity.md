@@ -1151,3 +1151,42 @@ It inherited the maintenance schedule with its five lines and no name against li
 **AND THE FINDING THAT IS NOT ABOUT THE PROSE AT ALL, WHICH THE REPAIR PASS PUTS HERE BECAUSE A SUCCESSOR WILL INHERIT IT AS A HABIT: THE DEFECT REPORT THIS BATCH LEFT BEHIND NAMED THE WRONG FILE.** Three files reported a defective rule in `outline/batches/volume-16-cards.md`, which is clean, and the defect was in six of the ten card blocks inside this batch's own successor prompt. **A DEFECT REPORT NAMES A FILE, AND A REPORT THAT NAMES THE WRONG FILE COSTS MORE THAN NO REPORT AT ALL, BECAUSE THE NEXT PASS GOES AND LOOKS AT THE FILE IT WAS SENT TO.** All three reports are corrected, the six card rules are repaired, and the card set was never edited.
 
 **AND ONE THING THAT WAS NEARLY RECORDED AS A FINDING AND WAS NOT.** A reading of `workspace/volume-16/batch-0002/chapter-0753.md` appeared to show that morning carrying the aggregate of a day two mornings later, which would have been a figure defect in a closed morning. **A search by line rather than by reading showed that the figure belongs to `chapter-0755.md` and that `chapter-0753.md` reproduces its own day exactly, AND THE NEAR-MISS IS RECORDED HERE BECAUSE IT IS THE KIND OF THING A PASS RECORDS AS A DEFECT IN A CLOSED MORNING ON THE STRENGTH OF A RECITED LINE, AND A SEARCH IS CHEAPER THAN A FINDINGS FILE.**
+
+---
+
+## Volume 16, Batch 0004: continuity of the ten mornings at days nine hundred and seventy-nine to nine hundred and eighty-eight
+
+**FORTY MORNINGS OF THE SIXTEENTH AND LAST VOLUME ARE ON DISK. THE FIGURE CHECK IS ONE HUNDRED AND FIFTY-EIGHT REQUIRED AND ONE HUNDRED AND FIFTY-EIGHT PRESENT AND ZERO FAILURES. THE PARITY OF THE SPLIT WINDOW HALVES IS CORRECT ON ALL TEN MORNINGS ON A THREE-LINE READING, WHICH NEITHER GATE AND NO FIGURE CHECK CAN SEE.**
+
+### The standing after this batch
+
+| Series | Where it stands on the fortieth morning | Rule |
+|---|---|---|
+| Third launder | **one thousand and four hundred and twenty-one hundredweight, and this is NOT the highest figure of this batch, which is one thousand and four hundred and eighteen hundredweight on the thirty-eighth morning, and neither is the highest of the volume, which falls on the forty-fourth morning** | five less on every odd morning, eight more on every even one, from the day-851 anchor |
+| Ordinal of the run | five hundred and thirty-eighth | day less four hundred and fifty |
+| Window | five hundred and five, rising two hundred and fifty-eight, falling two hundred and forty-seven | day less four hundred and eighty-three |
+| Aggregate and its clause | five hundred and thirty-six; the five hundred and thirty-fifth out of the five hundred and thirty-seventh | day less four hundred and fifty-two |
+| Boards | near nine hundred and twenty-two, far nine hundred and sixty-nine, forty-seven apart | day less sixty-six and day less nineteen |
+| Read aloud | **two hundred and fifteen of four hundred and sixty-one on the thirty-seventh morning, and NO FIGURE FALLS ON ANY EVEN MORNING** | numerator re-anchored at a hundred and ninety-six on day nine hundred and forty-nine |
+| Count in force | **a hundred and seventy-three on the thirty-eighth morning, twenty-nine taken and a hundred and forty-four not, and one hundred and sixteenth on the slate. THE SECOND RECKONING STANDS AT ONE HUNDRED AND THIRD, IS ON NO PAGE, AND IS CARRIED** | rises by one on a fourth-line morning only |
+| Register form | four hundred and thirty-two | day less five hundred and fifty-six |
+| Charter | three hundred and thirty-eight | day less six hundred and fifty |
+| Silling's second ruled line | four hundred and twenty-six, **blank, and a round hundred comes to that line on the forty-first morning and nothing goes on it** | day less five hundred and sixty-two |
+| The letter | two hundred and thirty-five | day less seven hundred and fifty-three |
+
+### What is new on these ten mornings and not on any morning behind them
+
+1. **THE DECIDING AT THE HEAD OF THE CHANNEL STOPPED, AND NOBODY WAS PUT IN ITS PLACE.** Six named people did it in three quarters of an hour in valves, sequence and time, and the water did not stop, and no channel was cut. `chapter-0768.md`, `chapter-0769.md`.
+2. **A CHAIR-LEVEL STANDING HAS EXISTED SINCE THE TWENTY-SECOND MORNING OF THE VOLUME AND IS NOW A STRUCTURE:** the upper gate shut, the middle gate at the width of a hand, a gauge read twice a morning, and no operator. **NOBODY HAS BEEN APPOINTED AND NOBODY WAS ASKED TO BE, AND A MAN WHO ASKED FOR SOMEBODY TO STAND AT THE WHEEL WAS REFUSED BY THE MAN WHO LAYS.**
+3. **THE MAN AT THE HEAD OF THE CHANNEL PUT WHAT HE IS INTO THE FIFTH OF THE RING AND DIVIDED HIS ACCESS, AND HE SAID IT IN A YARD.** `chapter-0771.md`. **WHAT WAS PLACED AND THE PEOPLE HOLDING ENDS OF IT ARE NOT NAMED ON THAT MORNING AND MAY NOT BE NAMED ON ANY MORNING.** **THE ARRANGEMENT IS THAT ANY ONE OF THEM CAN STOP ON ANY MORNING, WITHOUT ASKING HIM, WITHOUT TELLING HIM, WITHOUT A REASON, AND HE CANNOT MAKE THEM GO ON BY WANTING IT.**
+4. **HIS CAPACITY AT A VALVE HAS CHANGED AND IS A PERMANENT LOSS MADE SO BY THAT ACT.** He can still read people and cannot get anything out of two fingers on cold iron. **No morning may say he cannot read anything.**
+5. **IONA VEY IS UNDER PUBLIC CUSTODY, ALIVE, AND WHAT SHE LOST WAS HER ACCESS AND NOT HER RESPONSIBILITY.** She is named, she is asked for nothing, she is put in no room, she answers three things in a yard and walks out. Her responsibility is carried forward and not settled. `chapter-0774.md`. **NOTHING NEW WAS INTRODUCED WITH HER AND NOBODY IN THAT YARD WAS ASKED TO CHOOSE ANYTHING.**
+6. **THE RESULTS WERE READ OUT IN FULL WITH THE FAILURES IN THEM AND THE SECOND PLACE IN THE SAME BREATH**, and the reader refused out loud the framing that a commons quietly covering a city with no water has fixed anything. `chapter-0775.md`.
+
+### The four permanent losses, on these ten mornings
+
+**FOUR BEFORE THIS BATCH AND FOUR AFTER IT, NONE REDUCED, NONE SOFTENED, NONE RECOVERED, NONE RE-NAMED, NONE PRICED, AND NO FIFTH ADDED.** None is spelled out on any of the ten. The first is made permanent by the act on the thirty-sixth morning and was not added by it; the second is multiplied by it and is shown working on the thirty-eighth morning; the third is not touched by it and no hand went on the seed keeper's arm at any hour of any of the ten; the fourth is not named on any of them and is not referred to by name at all.
+
+### The second place, on these ten mornings
+
+**STILL WITHOUT WATER AND NOT RESTORED, NOT APPORTIONED, NOT DATED, NOT DEFERRED, NOT DESCRIBED AS TEMPORARY.** It is a board the seed keeper chalks up herself at half past six on the last morning with nothing against it, it is read out in a yard in the same breath as the flows, a man comes with a season written on a piece of paper and is refused in one sentence by the seed keeper, and at about the eleventh hour he goes out of the gate and nobody stops him. **IT COST SOMEBODY ON THAT MORNING WHO WAS NOT THE MAN WHO REFUSED AND WAS NOT THE PERSON READING, AND THAT WAS THE WOMAN WHOSE WORKING LIFE THE GOOD NUMBERS WERE.**

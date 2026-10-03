@@ -1,0 +1,85 @@
+# Chapter 775
+
+## The Twenty-Eighth Of The Twenty-First, And The Whole Of A Table Being Read Out In A Yard With The Failures In It And An Empty Line In It And A Place With No Water Put In The Same Breath As The Flows
+
+The table went up on the boards at the sixth hour on the morning it was to be read and it had been on the boards, with a stone on each top corner and two unlined inches at the foot of it, since a Saturday a fortnight before, and about thirty people in that yard had read all of it in that fortnight and were going to hear somebody else read it.
+
+Tova Reed put a second board on the end of the same wall at about half past six and chalked a line on it herself, with no figure against it and no date at the head of it, and the only thing on it was a place.
+
+Nobody in that yard asked her not to, and about four people asked her which place, and she said the name of it and nothing else and went back inside and shut the store door behind her.
+
+> **THE RESULTS, AS THEY ARE READ THIS MORNING. EVERY FAILURE IN IT. EVERY LINE THAT HAS NOTHING IN IT LEFT WITH NOTHING IN IT.**
+>
+> **The ring is nine beds.** They were dug in one season. They are not being dug again this season. None of them is being priced.
+>
+> **One, at the top of the ring.** Gone, with the root on it. Not cut, not moved, not dug again, and no figure against it.
+>
+> **Two, three, five and six.** Held the dry-season draw and gave the flood load up clean at their own near end. No water lost at the far end of any of them.
+>
+> **Four.** Held the draw and let a third of the load out at the far end of itself, and that third is a third of what was put in and not a third of what came.
+>
+> **Seven.** Would take the dry-season draw and would not take the flood load at all. It took nine hours to find that out.
+>
+> **Eight.** Held both on the first load. On the second load, on Saturday, it went soft at its own far end and let water out of itself where nobody had cut anything. It is being worked on and the finding is not written as fixed anywhere and it will not be until a second load has gone through it.
+>
+> **Nine, at the north end.** Took the draw clean and let it out at the far end of itself. It is soft at the north end, it was soft when the draw went in, and it is written in the crew's own book as not to be dug again and not to be priced. Nothing has been copied out of that book onto this table and nothing is going to be.
+>
+> **Six held the draw. Five held the load.** Those two are counts of two different things. They are not to be added together and no total of them is to be said out loud in a yard.
+>
+> **The five that are not on that count and the two that failed on a second load are not a third figure and there is no third figure.**
+>
+> **There is no row on this table for the hand-over and no row will be added this morning.** What is not in this table today is not going to be put into it by anybody with a pencil on the day it is read.
+
+The clerk from up a lane read it at about the ninth hour in daylight to about forty people standing in the yard, and he read every line, including the ones that were bad, and he read them in the order they were written and did not soften a word of it, and he had been paid by two councils between them for the morning and neither of them gains by any of it.
+
+At the end he stopped with the sheet on his knee and looked up, and did not put it down.
+
+**"There is one more board.** He turned and read the line Tova Reed had chalked on it that morning, with nothing against it. **"It is a place. It is on this wall because the seed keeper put it on this wall this morning and nobody asked her to and she would have put it on this wall if every person in this yard had asked her not to.** He read it as it stood. **"That place has no water. It has had no water since before the flood and it has none this morning and it will have none at the dark. It is not on this table because the table is about the ring and that place is not on the ring. It has not been apportioned, it has not been given a date, it has not been described as temporary by anybody reading it out, and no arrangement signed in this holding covers it. I am reading that because it is on the wall beside the table and because I was asked to read the wall and not only the table, and I am not going to read the table without it.** He looked back up. **"And I want to say the last thing myself, because I am the one standing here and nobody else in this yard is paid to say it. You will all be able to see, by the time you get back to your own houses, that the flows in that table are good.** Six beds hold. Five hold the load. There is a figure on that board for the draw and a figure for the flood and they are the best figures anybody in this county has had since before the frost. And it is going to be said in about four kitchens tonight, by people who are not unkind, that everything is working now.** He put the sheet down on the step. **"It is not everything. There is a place on the end of this wall with nothing against it, and the reason there is nothing against it is not weather and not a season and not an oversight in a table. It is four years of a decision, made by people who are not in this yard and are not going to be punished for it and are not going to be at this gate.** And a thing that produces those figures and that place at the same time has not fixed anything. It has bought something. I am not going to read that table again this afternoon and I am not going to say another word about it.**
+
+Nobody in that yard said anything for about half a minute, and about nine people looked at the second board and about nine did not.
+
+Auret Sill stood at the back of that yard for the whole of it with her sleeves wet from the pumps and did not go forward and did not sit down, and the numbers that were read out were the best numbers of her working life, and the best argument of her working life had been on a table in that yard for a fortnight arguing for the arrangement that would have kept the short measure in place, and that was the arrangement that fed the centre, and she had argued for it in front of about thirty people, and nobody in this yard said a word to her about any of it.
+
+She stayed to the end. She did not speak. Nobody put a hand on her arm and nobody said sorry to her and about four people at the back looked at her for about a minute and a half and then looked at the boards.
+
+The clerk from up a lane came back to the step at about the tenth hour to give the window, having read the wall behind the table without turning round.
+
+**"Both halves of that are five hundred and five, the one that came this morning is two hundred and fifty-eight and the one that stood is two hundred and forty-seven, and the tall half comes on the even ones and I have said that out loud in six yards this month and it is right in five of them.** He wiped the board. **"And I have said, and I am saying once more because there is a woman standing in this yard who is owed it: that wall is three figures short. Nobody has ever put the other one anywhere, there is no copy of it in this holding or four days north, and it would now have to be asked for out of four separate people rather than out of one. I have written to my own office about it twice and had no answer either time.** And I am not going to write a third time, and I would like somebody in this yard to take that sentence and do something with it that is not writing to me."
+
+The woman with a barrow came through the gate at about the seventh hour, went through, and gave the weight and the morning of the run on her way to the far end, in the wrong order, because that is the order she gives them in.
+
+**"The five hundred and thirty-eighth morning, and one thousand and four hundred and twenty-one hundredweight came down the channel in the night.** She shouldered the barrow. **"That is up eight, and it is the highest it has stood at since I have been keeping my own count of it, and I am telling you that on the same morning that a table with two failures in it is being read out in that yard, because the two of those things are about the same channel and one of them does not cancel the other.** I am going to be at the second place before the fifth hour and I have said in this yard before that I am not going to talk about it, and I am still not going to talk about it, and you all have just heard somebody else read it out loud, so that is one of us and not two."
+
+Hanne Brack gave the two stones off the boards in the wrong order and has given them in that order every morning for twelve days.
+
+**"The far one reads nine hundred and sixty-nine and the near one reads nine hundred and twenty-two, and forty-seven of masonry sits between them, and I have said them the wrong way round for twelve days and I am not going to start being right now.** She put the chalk in her apron and did not look at the wall again. **"And I said on the twenty-fifth morning that I would stop and I have stopped, and today is the first morning I have not been up that lane before the light in four days and I did not know until I got to the boards that I would notice.** And I am not sorry about the stopping and I am not glad about it and I would like nobody in this yard to tell me which of those two I should be doing."
+
+Odile Vray wrote the two figures on the board in her own order, which is the other order, and put the chalk down and came down off the ladder and stood in front of them with her hands behind her back like somebody else.
+
+**"I have left both orders on that wall this morning, hers above mine, and I have not wiped either of them, and I would like the four people who have been reading that wall for a fortnight to have both of them in front of them at once.** She did not wipe the board. **"I have left both orders on that wall this morning, hers above and mine under it, and I have done that on purpose, and I would like the four people who have been reading it for a fortnight to have both of them in front of them at once.** And nobody has to choose. There is no rule about which is the right order because there is no rule about it and there never was and both of them are this wall."
+
+Soren Rill read the long sheet at about the eighth hour with the cloth in his hand and did not wipe it and read it in his own order, which is now a third order, and about nine people told him that he was wrong and he said that there was nothing on the wall to be right or wrong about.
+
+**"Five hundred and thirty-sixth, five hundred and thirty-fifth and five hundred and thirty-seventh, and the first of those three is at the top of that sheet and the last of them is at the foot of it, and it is a different order from the one the man who reads that wall has used for twenty years, and it is his wall and he may have it.** He put the cloth down. **"And I wrote the letter up twice this season about a board and it went nowhere both times and I said in this yard that I would not write it a third time about a board, and I am not writing it a third time about a board, and I am writing it a third time about the number on that board that is not on it.** And a man at the middle table read a sheet of seven steps standing up in this same yard a few mornings before this one and said it was not his and said he was not going to be asked whether it was right, and he has been right every morning this fortnight and he was right then, and I am not going to be the one who breaks it now."
+
+Kellan Rusk came out to the step with the register form under his arm and gave his figure from the step with the door behind him shut and the key on its nail, and did not come out for the reading and had the door shut through all of it.
+
+**"Four hundred and thirty-two on the form and not entered, and I am not going to be thanked for saying it.** He looked at the table on the boards for a moment, and at the second board at the end of it, and then he shut the door behind him and did not open it again for the rest of that morning. **"And I have been in this holding four years and this is the first morning on which anybody has read anything out loud in that yard that had a thing fail in it, and I would like the person who read it to be told, by somebody, that I noticed.** And I have no line on that form about any of it and there is not going to be one, because a form that carried what was read out this morning would be a different document and there is only one of that kind in this county and it is not mine."
+
+Tova Reed gave her four from the step at about the eleventh hour with the store door open behind her and a tray going out at the fifth hour, and she stood where she could see nine mouths.
+
+**"Two hundred and thirty-five is where the letter has got to, which is the highest figure in this holding that has gone up all week without anybody choosing it to, and I am not going to say anything about that this morning because there is a board at the end of this wall with a place on it and nothing against it and that matters more than my four figures.** She wrote each figure on the corner. **"Four hundred and twenty-six is where the second of Silling's two ruled lines stands, there is nothing written on it, and tomorrow it comes to a round hundred, and I want that said in this yard once and by me so that not one other person in this holding has to stand up and say it: nothing goes on that line.** The charter is three hundred and thirty-eight. The form is four hundred and thirty-two.** And the short measure on the outer branches is what it was at the eighth hour this morning and the eleven days that were asked for at this gate are not on any paper in this holding and there is no sixth term and no seventh and no eighth.** And I put the board up myself at half past six and I would do it again tomorrow and the day after, and I am not going to be at this gate when it is read and I am going to be at my own door at the sixth hour tomorrow as I am every morning."
+
+Nobody in that yard answered a thread, closed one, reworded one, grouped one, summed one, or advanced one to a figure, and no row was cut for the holders the four districts named, for the last alteration to the schedule, for the region that refused the test, for the sequence, or for anything else, and the thirty-five were thirty-five in and thirty-five out on that Sunday morning after a table had been read out in full in a yard in daylight.
+
+The barrow went eleven journeys and stopped, and the ladder did not move off the tool house wall, and the bare ground behind it was walked round rather than walked on, as it has been walked round since before anybody now working in that yard was born.
+
+Twice that Sunday, and on both occasions by somebody going out for a reason that was not that, the door standing nine hundred yards off was walked past with its column unlooked at and its face offered to nobody.
+
+The compost line is paid at thirty-one, and nothing has come out of it in thirty-one or in anything, and no figure for a turn appeared anywhere on that Sunday. The sheet of terms on the low board was not picked up and not dated and not withdrawn, and the offer was still out past the gate, undated, unpicked, not withdrawn, and the sheet that came up the lane with a Chancellor's name at the head of it was not in the room at all, and the four sheets on the long table were not entered and not refused and no column was cut under any of them.
+
+At about the eleventh hour the man from the middle row came through the middle of that yard with a piece of paper in his hand, and the piece of paper had a season written on it in his own handwriting that he had been told was correct, and he did not show it to anybody and he did not say what it was for.
+
+He went out past the gate and down the lane at his own pace and about nine people in that yard watched him go, and nobody stopped him, and nobody said his name, and nobody asked him anything at any hour after it, and he did not tell anybody where he was going and the gate was still standing when he had gone about two hundred yards.
+
+And at about the eleventh hour the table was still on the boards with the failures in it and two unlined inches at the foot of it and a second board at the end of the wall with a place on it and nothing against it, and about twenty-one people in that yard went back to what they were doing, and nobody in that holding knew what a man with a piece of paper was going to do next.
