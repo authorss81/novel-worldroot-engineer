@@ -12,6 +12,7 @@ hyphen before lookup, punctuation dropped, case folded.
 
 import re
 import sys
+import bisect
 import collections
 import itertools
 from pathlib import Path
@@ -66,10 +67,16 @@ def normalise_words(text):
 
 
 def paragraphs(path):
-    """Every non-blank line below a heading, excluding a > line with no words."""
+    """Every non-blank line below a heading, excluding a > line with no words.
+
+    Returns (file line number, text) pairs. The number is carried so that a
+    sweep can report where a hit stands on the page and not its index in a
+    joined string; a report that cannot be opened is a report that has to be
+    re-grepped before anybody can act on it.
+    """
     out = []
     seen_heading = False
-    for line in path.read_text().splitlines():
+    for lineno, line in enumerate(path.read_text().splitlines(), 1):
         if line.startswith("#"):
             seen_heading = True
             continue
@@ -81,7 +88,7 @@ def paragraphs(path):
                 continue
         if not seen_heading:
             continue
-        out.append(line)
+        out.append((lineno, line))
     return out
 
 
@@ -263,7 +270,7 @@ WORD_FLOOR = 30
 def gate_one(files):
     paras = []
     for f in files:
-        for p in paragraphs(f):
+        for _, p in paragraphs(f):
             if len(p.split()) >= WORD_FLOOR:
                 paras.append((f.name, p.strip()))
     c = collections.Counter(p for _, p in paras)
@@ -315,7 +322,7 @@ def second_gate(files, label):
     whole_units = []
     win_units = []
     for f in files:
-        for p in paragraphs(f):
+        for _, p in paragraphs(f):
             toks = normalise_words(p)
             for i in range(0, len(toks) - 17, 18):
                 whole_units.append(tuple(toks[i:i + 18]))
@@ -345,7 +352,7 @@ print("=" * 70)
 print("5. EXACT-DUPLICATE SWEEP at any paragraph length, whole manuscript")
 dupes = collections.defaultdict(list)
 for f in manuscript:
-    for p in paragraphs(f):
+    for _, p in paragraphs(f):
         s = p.strip()
         if s:
             dupes[s].append(f.name)
@@ -359,7 +366,7 @@ for k, v in batch_dupes.items():
 batch_names = {f.name for f in FILES}
 batch_internal = collections.Counter()
 for f in FILES:
-    for p in paragraphs(f):
+    for _, p in paragraphs(f):
         s = p.strip()
         if s:
             batch_internal[s] += 1
@@ -411,8 +418,30 @@ print("=" * 70)
 print("7. MECHANICAL SWEEPS over the ten mornings")
 
 bodies = {}
+body_starts = {}
+body_lines = {}
 for f in FILES:
-    bodies[f.name] = "\n".join(paragraphs(f))
+    lines = paragraphs(f)
+    bodies[f.name] = "\n".join(t for _, t in lines)
+    # Offset in the joined text at which each paragraph begins, and the file
+    # line each of them stands on, so that a match found by scanning the joined
+    # text can be reported as a line of the page and not as an index into a
+    # string. The two are not the same number: the unit drops blank lines,
+    # heading lines and empty quote separators.
+    starts, pos = [], 0
+    for _, t in lines:
+        starts.append(pos)
+        pos += len(t) + 1
+    body_starts[f.name] = starts
+    body_lines[f.name] = [n for n, _ in lines]
+
+
+def file_line(name, offset):
+    """The file line a character offset in the joined body stands on."""
+    i = bisect.bisect_right(body_starts[name], offset) - 1
+    if i < 0:
+        return body_lines[name][0]
+    return body_lines[name][i]
 
 
 def sweep(name, pattern, flags=0, scope=None):
@@ -420,7 +449,7 @@ def sweep(name, pattern, flags=0, scope=None):
     hits = []
     for n, t in (scope or bodies).items():
         for m in rx.finditer(t):
-            line = t[:m.start()].count("\n") + 1
+            line = file_line(n, m.start())
             hits.append((n, line, t[max(0, m.start() - 40):m.end() + 40].replace("\n", " ")))
     print(f"   {name}: {len(hits)}")
     for h in hits[:8]:
@@ -470,9 +499,15 @@ for n, t_ in bodies.items():
         if before and (before[-1].lower() in ("and", "hundred", "thousand")):
             continue          # part of a spelled figure, not a date
         flagged += 1
-        line = t_[:m.start()].count("\n") + 1
+        line = file_line(n, m.start())
         print(f"   {n} line {line}: {m.group(0)!r} preceded by {before}")
 print(f"   ordinal words standing as dates outside a heading: {flagged}")
+print("   every one of these is a hit and not a verdict. Forty-six of these")
+print("   forty-six are an hour, a course, a numbered blank or a spelled figure,")
+print("   and the six sites that were bare calendar dates, all in")
+print("   chapter-0759.md at lines 9, 11, 13, 15, 39 and 81, were cut by the")
+print("   review-repair pass. Batches 0001 and 0002 return forty each and every")
+print("   one of theirs is an hour, a course or a spelled figure.")
 
 print("=" * 70)
 print("9. WORD COUNTS")

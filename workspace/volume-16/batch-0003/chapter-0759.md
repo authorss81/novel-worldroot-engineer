@@ -6,13 +6,13 @@ The table went up on the boards at about the seventh hour with a stone on each o
 
 > **THE TEST, BY DISTRICT AND BY REGION, ON ONE SHEET. UNDATED, AND NO HEADING OVER IT.**
 >
-> Fourth place. Nine houses. Tested on the ninth.
+> Fourth place. Nine houses. Tested yesterday.
 >
-> Third place. Six houses. Tested on the ninth.
+> Third place. Six houses. Tested yesterday.
 >
-> The four at the end of the second branch. Four houses. Tested on the tenth.
+> The four at the end of the second branch. Four houses. Tested the day before that.
 >
-> The middle row. Twenty-two houses. Tested on the tenth.
+> The middle row. Twenty-two houses. Tested the day before that.
 >
 > The region three miles up. Eleven houses. Tested on no day.
 >
@@ -36,7 +36,7 @@ Marek Vale came up the lane at about the ninth hour, read the table standing at 
 
 **"I have not turned anything over."**
 
-**"You have read that bottom row four times in about as many minutes and you have not read one of the rows above it once since Tuesday, and I know what you are doing with it because I have been doing it with it for a week.** He put his thumb on the empty fifth column without touching the paper. **"Eleven houses. If those eleven houses had been tested on the ninth along with the fourth place, we would have known by the tenth what those eleven houses are getting. They are not being tested. So they are getting whatever the untested get. That is not a theory, that is what an untested house gets, and I have been in this holding nineteen days and I have never seen anything else."**
+**"You have read that bottom row four times in about as many minutes and you have not read one of the rows above it once since Tuesday, and I know what you are doing with it because I have been doing it with it for a week.** He put his thumb on the empty fifth column without touching the paper. **"Eleven houses. If those eleven houses had been tested yesterday along with the fourth place, we would have known by the dark what those eleven houses are getting. They are not being tested. So they are getting whatever the untested get. That is not a theory, that is what an untested house gets, and I have been in this holding nineteen days and I have never seen anything else."**
 
 He said it in front of about thirty people and he did not say it as a question and he did not ask anybody to agree with it.
 
@@ -78,4 +78,4 @@ Nobody went into the one room except to turn a key, which was done at the sixth 
 
 The barrow went out eleven times and came back eleven times and was stood wheel first in the middle of the yard with the shafts up, and it was not wheeled out of that yard again on that day by anybody for any reason.
 
-And at about the eleventh hour the sheet on the middle table was still lying under the four stones where it has lain since the fourteenth morning, unpicked, undated, unentered, unfilled in at the foot and not withdrawn, and the bottom line of the chalk copy was still ruled with nothing in it, and the yard had spent a whole morning looking at both of those and had put a figure on neither.
+And at about the eleventh hour the sheet on the middle table was still lying under the four stones where it has lain since it was put down, unpicked, undated, unentered, unfilled in at the foot and not withdrawn, and the bottom line of the chalk copy was still ruled with nothing in it, and the yard had spent a whole morning looking at both of those and had put a figure on neither.
