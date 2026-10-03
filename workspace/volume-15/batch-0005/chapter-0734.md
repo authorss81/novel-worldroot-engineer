@@ -1,12 +1,12 @@
 # Chapter 734
 
-## The Seventeenth Of The Twentieth, And A Barrow Left Standing Wheel First In The Mud Because There Was Nowhere To Put It
+## The Seventeenth Of The Twentieth, And A Barrow Standing Wheel First In The Wet From The Second Hour Until The Light Went
 
 Monday was an ordinary morning and nobody in this yard said so. There was nothing on the boards except figures, and a barrow that would not go anywhere.
 
 The barrow came out of the gate end at about the second hour and went round the wall twice and came back and stood in the middle of the yard wheel first in the wet, and it stood there until the light went.
 
-There was nowhere to put it. There is a wall on one side and a boards on the other and a tap house behind that, and the ground between them is the ground people stand on, and four different people in the course of the day considered moving it and moved nothing.
+There was nowhere to put it. There is a wall on one side and boards on the other and a tap house behind that, and the ground between them is the ground people stand on, and four different people in the course of the day considered moving it and moved nothing.
 
 The mason from the third place was on the sill at the fourth course from about the second hour and worked at it until about the seventh without stopping once, and at about the fifth hour somebody asked him whether he was going to finish the course.
 
@@ -66,7 +66,7 @@ A man asked the old man at the end of the north row, in the ordinary way, at abo
 
 There were twenty-nine fetchings against him and none of them fetched and none of them asked, and he was at his own door at dusk with a stick in his hand, and nobody in this holding crossed the yard to look at him.
 
-The use of the things in this yard was written up on a page at about the fourth hour of the afternoon, in a hand that is not a clerk's hand and has not been for a year.
+The use of the things in this yard was written up on a page late in the afternoon, in a hand that is not a clerk's hand and has not been for a year.
 
 > **Kept by the woman who counts bodies for her trade, and not entered in anything else:**
 >

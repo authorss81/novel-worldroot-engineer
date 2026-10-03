@@ -18,11 +18,11 @@ He said who the sheet was before he said what was on it, and he said it to the y
 
 Marek Vale, who was four feet from him, said nothing at all to that, and about six people agreed with him silently and two of them said so out loud and were not answered.
 
-Then the sheet went up, and the crew man read it out in his own order, and he read it as a man reading out what happened and not as a man reading out what it means, and he did not stop at the bad parts and he did not hurry them.
+Then the sheet went up, and the crew man read it out in his own order, and he read it as a man reading out what happened and not as a man reading out what it means, and twice he put his thumb on a line and told the yard to come and look at it instead of saying it out loud.
 
 He read out that nine beds were dug, that six of them held the dry-season draw, and that five of them held the flood load that was put on them afterwards on Tuesday.
 
-**"Six and then five. Nine beds. Those are three numbers and they do not agree with one another and I have not made them agree. One bed at the top of the ring came up in the second hour with the root attached to it and there is no second time for that bed. One bed at the north end took the draw and let the load out at the far end of itself and that end is soft now and will stay soft."**
+**"Those are three numbers and they do not agree with one another and I have not made them agree. There are two lines further down that are not good and I will not read them quickly, and anybody who wants them can come and look at the wall."**
 
 A man at the gate said the word failure out loud.
 
@@ -74,7 +74,7 @@ Odile Vray stood by the rack where it is kept and gave it, and gave it as a diff
 
 Nia Vale came out of the one room at that moment with her cloth over her arm and said a different thing about it, and did not say it loudly.
 
-**"It is a figure that somebody kept in order for a long time and that I keep because it was given to me, and I have never been able to make it smaller and I have never been able to make it mean anything. If the two of you want to go on about it there is not going to be an answer by the light."**
+**"It is a figure somebody has kept in order for years and I hold it because it was handed to me and not because I asked for it, and I have looked at it every morning for eleven weeks without once being able to make it stand for anything. If the two of you want to go on about it there is not going to be an answer by the light."**
 
 Nobody chose between them, and about six people told both of them they were talking nonsense, and Sera Quill came through with the slate under her arm in the middle of it and gave one of her two figures and kept the other.
 

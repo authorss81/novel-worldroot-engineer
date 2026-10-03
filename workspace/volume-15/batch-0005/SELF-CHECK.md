@@ -5,6 +5,11 @@ written, what was measured on this side, and what this side believes it has foun
 by the same normalisation the prompt prints, and the normalisations are written out beside the numbers so that a later
 pass can reproduce them and disagree.**
 
+**AND IT WAS RE-MEASURED AND PARTLY CORRECTED BY THE REVIEW-REPAIR PASS OF 2026-10-03, WHICH FOUND SIX PROSE DEFECTS,
+TWO RULE BREACHES AND FOUR MEASUREMENT CLAIMS THAT DID NOT REPRODUCE. SECTION NINE IS THAT PASS'S RECORD, EVERY FIGURE
+IN SECTIONS ONE TO EIGHT THAT IT MOVED IS MARKED IN PLACE, AND A SUCCESSOR WHO FINDS A NUMBER HERE THAT SECTION NINE
+WITHDRAWS IS LOOKING AT A FIGURE THAT WAS PULLED BY NAME.**
+
 Batch directory: `workspace/volume-15/batch-0005/`. Governing files: `outline/volume-15.md` and
 `outline/batches/volume-15-cards.md`, cards forty-one through forty-nine, which govern. Files written: nine mornings,
 days nine hundred and forty to days nine hundred and forty-eight, `chapter-0727.md` through `chapter-0735.md`. **This
@@ -14,8 +19,10 @@ is the last batch of mornings in Volume 15 and it is followed by a close phase a
 
 ## 1. What was written
 
-Nine mornings, one morning each, in morning order, each one a complete scene. **19,043 words in body prose**, between
-1,678 and 2,390 a morning.
+Nine mornings, one morning each, in morning order, each one a complete scene. **19,140 words in body prose**, between
+1,673 and 2,443 a morning. **The first edition of this line printed 19,043 and a range of 1,678 to 2,390, and both were
+measured before the review-repair pass of 2026-10-03, which added ninety-seven words across six mornings. The figure
+was re-measured per file and 19,140 is the one to re-derive.**
 
 | File | Day | Weekday | Ordinal of the month | Morning | Fourth line | A block |
 |---|---|---|---|---|---|---|
@@ -67,7 +74,7 @@ Nine mornings, one morning each, in morning order, each one a complete scene. **
 
 ---
 
-## 2. The figure check, and the arithmetic behind it, and three figures this batch's prompt got wrong
+## 2. The figure check, and the arithmetic behind it, and three figures this batch's prompt got wrong and a fourth the repair pass found
 
 **THE CARD SET'S OWN ITEM LIST AT ITS SECTION ELEVEN REQUIRES ONE HUNDRED AND FORTY-FOUR DERIVED FIGURES ON THESE NINE
 MORNINGS, AND THE CHECK THIS SIDE RAN WAS STRICTER AND REQUIRED ONE HUNDRED AND SIXTY. ALL ONE HUNDRED AND SIXTY ARE
@@ -118,6 +125,14 @@ carry them against the morning behind.
 does not re-anchor at the month turn and the third launder does not restart at day 941, and the falling half is the
 half that moves on an odd morning, which is four of these nine and not five.
 
+**AND A FOURTH FIGURE IN THE PROMPT IS WRONG IN ITS SPELLING AND WAS FOUND BY THE REPAIR PASS, NOT BY THIS SIDE.** The
+rule on the rotation prints **a hundred and sixty-third** for day nine hundred and forty-six, and the figure in force is
+a cardinal and takes **a hundred and sixty-three**, being the same figure the card and the page both carry. **NO MORNING
+OF THIS BATCH HAS THE SPELLING IN IT AND THE PAGE IS RIGHT.** **AND THE REPAIR PASS COULD NOT CONFIRM THE FIFTH FINDING
+RAISED AGAINST THE PROMPT, WHICH IS RECORDED IN SECTION NINE: the day nine hundred and forty-six cell of the prompt's
+own table prints one hundred and eleventh and ninety-eighth, thirteen apart, which is correct, and the ninety-seventh
+in that table belongs to the day nine hundred and forty-two cell and is correct there.**
+
 ---
 
 ## 3. The gates, with their universes and their normalisation
@@ -130,12 +145,24 @@ full eighteen words.
 readings run over **every body paragraph of the nine files, apparatus blocks INCLUDED**, and both readings are
 published whether they are clean or not.
 
-**SELF-COLLISION CHECKED FIRST, BEFORE EITHER GATE WAS RUN AGAINST A SINGLE MORNING.** On one paragraph of exactly
-forty-four words taken twice: the whole-paragraph reading returns **two chunks, zero shapes and zero excess** and the
-sliding reading returns **twenty-six windows, nine shapes and an excess of nine**. **The sliding reading is therefore
-the sensitive one and the whole-paragraph reading is not**, which is what the batch behind found and what this batch
-confirms at a paragraph of its own. A working gate proves that a shape is real; it does not prove that the absence of
-one means anything, and on a batch that reads its figures aloud it very nearly does not.
+**AND THE PARAGRAPH UNIT ITSELF IS NOW DECLARED IN WORDS, BECAUSE THE REPAIR PASS OF 2026-10-03 COULD NOT REPRODUCE THE
+CHUNK AND WINDOW COUNTS IN THE TABLE BELOW AT ANY UNIT IT COULD GUESS, AND THE FIGURES THAT DID NOT MOVE ARE THE SHAPES
+AND THE EXCESS.** **THE UNIT IS: every non-blank line of a chapter file below its heading, apparatus quote lines
+INCLUDED AND COUNTED AS PARAGRAPHS OF THEIR OWN, headings excluded.** At this unit these nine mornings are four hundred
+and sixteen paragraphs, of which two hundred and ninety-five are thirty words or more. **A close that counts an apparatus
+block as one paragraph instead will get different chunk and window counts and the same shapes, and the unit must be
+printed beside the number for the number to be worth anything.**
+
+**SELF-COLLISION CHECKED FIRST, BEFORE EITHER GATE WAS RUN AGAINST A SINGLE MORNING. THE FIRST EDITION OF THIS PARAGRAPH
+PUBLISHED TWO CHUNKS, ZERO SHAPES AND NINE SHAPES, AND THOSE TWO SETS OF FIGURES COULD NOT BE REPRODUCED AND ARE
+WITHDRAWN. WHAT RE-RUNS, ON A PARAGRAPH OF EXACTLY FORTY-FOUR WORDS TAKEN TWICE, IS THIS: the whole-paragraph reading
+returns four chunks, two shapes and an excess of two, and the sliding reading returns fifty-four windows, twenty-seven
+shapes and an excess of twenty-seven. A second control paragraph of twenty-nine words, taken twice, returns two chunks
+and one shape at the whole-paragraph reading and twenty-four windows and twelve shapes at the sliding reading.** **THE
+SLIDING READING IS THE SENSITIVE ONE AND THE WHOLE-PARAGRAPH READING IS NOT, AND THE SECOND CONTROL SHOWS WHY: a paragraph
+too short to make two chunks returns nothing at all at the whole-paragraph reading while returning a dozen shapes at the
+sliding one.** A working gate proves that a shape is real; it does not prove that the absence of one means anything, and
+on a batch that reads its figures aloud it very nearly does not.
 
 Gate one is measured as the prompt describes it: every prose paragraph of thirty words or more, compared with every
 other in the volume and with every prose paragraph behind it, counting an ordered pair whose word counts are within a
@@ -144,9 +171,14 @@ nine tenths of the shorter paragraph.
 
 | | Gate one | Gate two, whole-paragraph reading | Gate two, SLIDING reading, apparatus INCLUDED |
 |---|---|---|---|
-| the nine mornings of this batch | **0 ordered pairs**, 289 paragraphs of thirty words or more | 841 chunks, **1 shape, 1 excess** | 12,151 windows, **3 shapes, 3 excess** |
-| these nine and the forty behind | **1 ordered pair**, 1,710 paragraphs | 5,011 chunks, **6 shapes, 12 excess** | 72,094 windows, **81 shapes, 153 excess** |
-| these nine, the forty behind, and the whole of Volume 15 | **1 ordered pair, the same one** | 5,011 chunks, **6 shapes, 12 excess** | 72,094 windows, **81 shapes, 153 excess** |
+| the nine mornings of this batch | **0 ordered pairs between two mornings of this batch**, 295 paragraphs of thirty words or more | 855 chunks, **1 shape, 1 excess** | 12,301 windows, **3 shapes, 3 excess** |
+| these nine and the forty behind | **1 ordered pair**, 1,752 paragraphs | 5,094 chunks, **2 shapes, 3 excess** | 72,962 windows, **29 shapes, 46 excess** |
+| these nine, the forty behind, and the whole of Volume 15 | **1 ordered pair, the same one** | 5,094 chunks, **2 shapes, 3 excess** | 72,962 windows, **29 shapes, 46 excess** |
+
+**EVERY FIGURE IN THE THIRD COLUMN AND THE FOURTH COLUMN OF THE SECOND AND THIRD ROWS IS NEW AND EVERY FIGURE THAT WAS
+IN THOSE TWO ROWS BEFORE IS WITHDRAWN BY NAME: five thousand and eleven chunks, six shapes, twelve excess, seventy-two
+thousand and ninety-four windows, eighty-one shapes and one hundred and fifty-three excess.** The narrow row's 841
+chunks, 12,151 windows and 289 paragraphs are withdrawn on the same ground and replaced by the unit declared above.
 
 **AND THE ONE WHOLE-PARAGRAPH SHAPE AND ALL THREE SLIDING SHAPES ON THIS BATCH ARE THE COMFORT LINE, AND NOT ONE OF
 THEM IS ANYTHING ELSE.** It is spoken whole twice inside the batch, on days nine hundred and forty-four and nine
@@ -157,14 +189,32 @@ invisible to that gate and a clean first gate is not evidence about either figur
 
 **AND THE ONE ORDERED PAIR IN THE WIDEST SCOPE IS THE FAR-END LOCKED SENTENCE AGAINST ITS APPEARANCE IN
 `chapter-0719.md` ON DAY NINE HUNDRED AND THIRTY-TWO, AT A RATIO OF EXACTLY ONE, AND IT IS THE LOCKED FIGURE AND IT MAY
-NOT BE REWRITTEN.** The batch publishes no pair inside itself on any reading.
+NOT BE REWRITTEN.** The batch publishes no pair between two of its own mornings on any reading.
+
+**AND THE SLIDING READING OVER THE WHOLE VOLUME, WHICH IS THE ONLY READING THAT SEES A RESTATEMENT AGAINST A MORNING
+BEHIND, RETURNS TWENTY-NINE SHAPES AND ALL TWENTY-NINE ARE ACCOUNTED FOR.** Seventeen of them touch a morning of this
+batch and **every one of the seventeen is a window of one of the two locked sentences**, being three windows of the
+comfort line at its three appearances in this volume and fourteen windows of the far-end sentence at its three. **The
+other twelve are eight windows between `chapter-0693.md` and `chapter-0698.md` and `chapter-0701.md`, being Batch 0001
+against Batch 0002, and four inside Batch 0004 at `chapter-0721.md` and `chapter-0724.md`, and not one of those sixteen
+appearances is a morning of this batch.**
+
+**AND BEFORE THE REPAIR, THE SAME READING AT THIS UNIT RETURNED FORTY-EIGHT CROSS-FILE SHAPES, THIRTY-SIX OF THEM TOUCHING
+A MORNING OF THIS BATCH, AND NINETEEN OF THOSE THIRTY-SIX WERE NOT A LOCKED FIGURE AND WERE THREE STANDING BLOCKS
+RESTATED AGAINST A MORNING BEHIND.** They are `chapter-0726.md` against `chapter-0727.md` in two constructions, being the
+four ages in the bookkeeper's mouth and the head of the long sheet in its own reader's mouth, and `chapter-0725.md`
+against `chapter-0729.md` in the third, being the figure in force in the woman's mouth. **The first edition of this file
+reported that every shape touching this batch was the far-end sentence. All three were reworded on this batch's own
+mornings, no figure of any series moved, and the count touching this batch is seventeen now and every one of the
+seventeen is a locked figure. The lesson is in section nine.**
 
 **THE READ-ALOUD RITUAL, WHICH THE BATCH BEHIND FOUND AT SIX SHAPES ON ITS OWN TEN MORNINGS, WAS REWRITTEN BEFORE THE
 FIRST MORNING WAS FINISHED AND IT RETURNS NO SHAPE AT ALL IN THIS BATCH.** The four odd mornings carry the pair in
-four different constructions and in four different hands, and no two of them begin the same way. **A SUCCESSOR
-READING THE BATCH BEHIND'S FINDING SHOULD NOTICE THAT A NIL ON THE SLIDING READING IS ACHIEVABLE ON A BATCH THAT
-READS ITS FIGURES ALOUD, AND THAT IT IS ACHIEVED BY NOT USING THE SAME CONSTRUCTION TWICE AND NOT BY SUPPRESSING THE
-RITUAL.**
+four different constructions and in four different hands, and no two of them begin the same way. and **the three shapes
+this batch does return are the comfort line's own windows and not one of them comes from the ritual.** **A SUCCESSOR
+READING THE BATCH BEHIND'S FINDING SHOULD NOTICE THAT A NIL FROM THE RITUAL ON THE SLIDING READING IS ACHIEVABLE ON A
+BATCH THAT READS ITS FIGURES ALOUD, AND THAT IT IS ACHIEVED BY NOT USING THE SAME CONSTRUCTION TWICE AND NOT BY
+SUPPRESSING THE RITUAL. A NIL FOR THE WHOLE READING IS NOT WHAT THAT FINDING CLAIMS AND MAY NOT BE INHERITED AS ONE.**
 
 ---
 
@@ -188,7 +238,9 @@ different order before the morning was written, and the order is that person's.*
   the sixth hour and shut where about nine people can watch it shut, with the boards as the stated reason and a form
   in a drawer four miles off as the thing nobody can settle.
 - **the three ages and the letter** were read by seven different people, and **the same four figures were written nine
-  times and cost four rewordings before they came through, which the sliding reading found and the eye did not.**
+  times and cost four rewordings before they came through, which the sliding reading found and the eye did not. The
+  repair pass of 2026-10-03 cost a fifth, on day nine hundred and forty, and the sliding reading over the whole volume
+  is what found that one and not the eye.**
 - **the compost line** was said twice, in two different shapes, by the only person in that yard entitled to explain it,
   and once by a man who asked what thirty-one is and was not answered.
 - **the figure in force and its two halves** fell on the two fourth-line mornings. On day 942 Odile Vray gives it and
@@ -196,7 +248,11 @@ different order before the morning was written, and the order is that person's.*
   nobody chooses between them. On day 946 Nia Vale gives it and says there is nothing to rub out and that she is not
   going to invent a thing to rub, and the girl from the second place reads the same figure off the rack correctly.
 - **the two reckonings** were spoken on both fourth-line mornings and on no other morning in the batch, with the first
-  in body prose and the second named as the one that is carried and is not on a wall and not in anybody's pocket.
+  in body prose on both of them and the second **not printed at all on either of them**, being named as the one that is
+  carried and not on a wall and not in anybody's pocket. **The first edition of this bullet said the second was named
+  as the one that is carried, which is not the same thing, and on day nine hundred and forty-six the second reckoning
+  was in fact printed in the woman's mouth. The repair pass of 2026-10-03 took it off the page and both fourth-line
+  mornings now print one figure and not two.**
 - **the use log with the barrow, the blanks, the sessions and the not knowns** was given once, in one block, on the
   ordinary morning, by the woman who counts bodies for her trade, and eleven is on it and no twelfth line is cut for
   the ring or the load or the charter or the slip in a tray.
@@ -232,12 +288,27 @@ rewritten, one of them appearing three times across three mornings of this volum
 thirty words the sweep returns zero for the prose of this batch.
 
 **THE SIXTEEN-LINE SHARED-TOKEN SWEEP**, matching every non-blank body line against every other within sixteen lines of
-it in the same file on the longest shared contiguous token run: **six runs at six tokens or more and zero at eight or
-more.** The batch behind returned eight and zero and the batch before that returned seventy-four and two, and **the
-figure keeps falling and it keeps falling because this batch ran the sweep as each morning was finished and not at
-the end of it.** Four runs at seven or more tokens were repaired as they arose: a mason's two consecutive figure
-speeches on day 947, a man from the top of the middle road's two identical sentences on day 945, a woman's two
-identical sentences on day 934, and a mason and a woman quoting one another's sentence on day 947.
+it in the same file on the longest shared contiguous token run: **thirty runs at six tokens or more and two at eight or
+more.** **THE FIRST EDITION OF THIS PARAGRAPH PUBLISHED SIX AND ZERO, AND NEITHER FIGURE REPRODUCES; THE FIGURES ABOVE
+ARE THE REPAIR PASS'S, MEASURED AT THE SAME UNIT, WHICH IS EVERY NON-BLANK BODY LINE AGAINST EVERY OTHER WITHIN SIXTEEN
+LINES OF IT IN THE SAME FILE.** The batch behind returned eight and zero and the batch before that returned
+seventy-four and two. **Four runs at seven or more tokens were repaired as the mornings were written in this batch's own
+first draft: a mason's two consecutive figure speeches on day nine hundred and forty-seven, a man from the top of the
+middle road's two identical sentences on day nine hundred and forty-five, a woman's two identical sentences on day nine
+hundred and forty-three, and a mason and a woman quoting one another's sentence on day nine hundred and forty-seven.**
+**AND A FIFTH ITEM WAS LISTED IN THIS RECORD UNTIL 2026-10-03 AND WAS A REPAIR ON DAY NINE HUNDRED AND THIRTY-FOUR,
+WHICH IS A MORNING OF BATCH 0004 AND NOT OF THIS BATCH, AND IT IS REMOVED FROM THIS RECORD RATHER THAN LEFT IN IT, AND
+THE THREE THAT ARE LEFT ARE DAYS OF THIS BATCH.**
+
+**AND THE TWO RUNS THAT REMAIN AT EIGHT TOKENS ARE BOTH A MAN REPEATING ANOTHER MAN'S OWN CLAUSE BACK TO HIM INSIDE ONE
+EXCHANGE, WHICH IS A DEVICE AND NOT A RESTATEMENT OF A STANDING BLOCK.** The first is a man at the gate asserting that
+the eleven households would have spared the ring a hole and the crew man giving him his own clause back before he takes
+it apart. The second is the engineer of record quoting the mason's hour back at him to show that it does not hold. **A
+SUCCESSOR WHO READS THOSE TWO AS COLLISIONS SHOULD READ THEM AS DIALOGUE, AND A SUCCESSOR WHO WANTS A NIL HERE SHOULD
+KNOW THAT THE ONLY WAY TO GET IT IS TO STOP A MAN ANSWERING IN HIS OWN WORDS.** The repair pass also took the two runs
+that stood at eleven and seventeen tokens out of `chapter-0730.md` and `chapter-0729.md` for the same reason, the first
+being a longer mirror of the same clause and the second being the crew man reading his own written sheet back verbatim
+in the same voice on the same morning.
 
 ---
 
@@ -245,13 +316,13 @@ identical sentences on day 934, and a mason and a woman quoting one another's se
 
 | Sweep | Result |
 |---|---|
-| the six bare words in body prose, headings excluded | **0 each**, and *tally* at **0**; the word *chapter* stands nine times in the nine file titles, which are headings and are excluded by the rule |
+| the six bare words in body prose, headings excluded | **0 each**, and *tally* at **0**; the word *chapter* stands nine times in the nine file titles, which are headings and are excluded by the rule. **The first edition of this row published 0 each and there was one *volume* in the body prose of the closing morning, in a sentence about a figure not being read on any morning of this volume. The repair pass of 2026-10-03 put it into the holding and the row is true as it stands.** |
 | the twelve month names | **0**, and the modal verb *may* at **6**, which is not a month |
 | digits in body prose, apparatus blocks included | **0** |
 | dash of any kind, and curly glyph | **0**; straight marks only, and every hyphen in body prose is inside a tens compound, a tens ordinal or one of four compounds this volume already carries in closed prose |
-| the two words the standing arrangement may not be named by, and the third the volume behind returned zero on | **0** on the whole of the field, and no operation in it is described or rehearsed on any morning of this batch |
+| the two words the standing arrangement may not be named by, *anchor* and *rootmark*, and the third word the volume behind returned zero on, *damaged* | **0 each on the whole of Volume 15**, and no operation in either of the two words is described or rehearsed on any morning of this batch. **A sweep for *one ear*, for *deaf* and for *cannot hear* also returns zero on the whole of the volume.** |
 | every occurrence of *discharged* | **2, and both inside a negation** |
-| every occurrence of *apologi* | **0** |
+| every occurrence of *apologi* | **1, and it is inside a negation**, being a man at the gate who did not apologise and was not asked to. **The first edition of this row published 0 and that was wrong; the house rule is the same as the one above it and this occurrence obeys it.** |
 | the six load-bearing strings | **the three far-end strings once each on day 948 and zero on the other eight mornings; the three comfort strings once each on days 944 and 948 and zero on the other seven; and no shortened form on any morning** |
 | the figure standing against the door nine hundred yards off | **0**; the door is walked past twice on the closing morning and read on by nobody |
 | the ladder | **no rung climbed**, and the offer undated, unpicked, not withdrawn and not given a date |
@@ -272,7 +343,9 @@ the second place. The one on day 947 is the use log page, in the hand of the wom
 - ***I am not going to* and *I am not going to be asked*: 2, and both of them in a single speech in the mouth of the
   man who lays for three councils on day 946.** **It stood at thirty-seven across nine characters in the first draft of
   this batch and every one of the other thirty-five was reworded.** The figure is printed because the repair is the
-  finding.
+  finding. **A third one survived into the printed batch in the mouth of the bookkeeper on day nine hundred and
+  forty-four, which put the construction in two mouths and broke the cap of one character, and the repair pass of
+  2026-10-03 reworded that speech. The three that are on the page now are the two above and none other.**
 - ***I would like it noticed* and *I would like it written down*: 0. The whole of *I would like* is **2, and both are
   in Auret Sill's mouth**, which is inside the allowance and outside nobody else's.
 - **No speech in this batch closes by explaining its own restraint**, and no speech was written to.
@@ -280,9 +353,12 @@ the second place. The one on day 947 is the use log page, in the hand of the wom
   paragraphs in the nine mornings was read one at a time and every one of them is an exchange between two different
   speakers. **One run of three consecutive speech paragraphs that were all pure figure delivery, on day 942, was
   broken by an action beat and by a woman waiting for the board to finish turning before she gave the fourth figure.**
-- **nine headings and nine different endings, no two on the same construction, and no morning ending on an accumulation
-  that restates its own figures.** The batch behind's closing phrase returns zero here and the yard-going-on-working
-  construction returns zero here.
+- **nine headings and nine different endings, no morning ending on an accumulation that restates its own figures.** The
+  batch behind's closing phrase returns zero here and the yard-going-on-working construction returns zero here. **The
+  first edition of this row also claimed that no two headings were on the same construction and two of them were, being
+  the results morning and the ordinary morning, which both read *because there was nowhere to put* something. The
+  ordinary morning's heading was rewritten by the repair pass of 2026-10-03 and the row is true as it stands now. A
+  heading is four seconds of work to compare and it is the cheapest craft check in the file.**
 
 ---
 
@@ -340,3 +416,90 @@ in the same yard on three of these mornings with different work and the morning 
 and neither of them says what it costs and not one person in this yard comments on it. **The two questions this
 volume does not touch were not asked, not named, not hinted at, not paraphrased and not answered on any morning of
 this batch, and the closing morning is not a place where either of them was touched.**
+
+---
+
+## 9. The review-repair pass of 2026-10-03, what it changed, what it withdrew, and what it found that this side had not
+
+**A REVIEW OF THIS BATCH WAS RUN ON 2026-10-03 AND THIS PASS IS THE REPAIR OF IT. NO MORNING WAS RESTARTED, NO FIGURE OF
+ANY SERIES WAS MOVED, NO MORNING WAS CUT AND NO MORNING WAS ADDED, AND THE PLOT OF NINE MORNINGS IS UNCHANGED. What
+changed is six sentences of wording, one figure taken off a page where the rule says a carried figure is not printed,
+one speech reworded to put a construction back inside its cap, one heading, and every measurement in this file that did
+not reproduce. Word count moved from 19,043 to 19,140, Volume 15 from 115,686 to 115,783, and the manuscript from
+2,031,295 to 2,031,392 across the same 735 files.**
+
+**THE EIGHT THINGS THE PAGE WAS WRONG IN, ALL OF THEM REPAIRED.**
+
+1. **A carried figure was printed on the page.** On the twelfth of the twelve fourth-line mornings the woman with the
+   slate said the second reckoning out loud, and the rule for both reckonings is that the first goes in body prose and
+   the second is carried and is not printed on the same morning. **It is off the page now, and she still says that she
+   carries the other one, and the morning still stands at one hundred and eleventh.**
+2. **A construction was in two mouths.** The prompt allows *I am not going to* to one character and at most twice in the
+   batch. It stood twice in the mouth of the man who lays for three councils and once more in the mouth of the
+   bookkeeper on the forty-fifth morning. **The bookkeeper's speech was reworded and the count is two in one mouth.**
+3. **A house word was in the body prose of the closing morning**, in a sentence about a figure that is not read on any
+   morning of the book. **It is now the holding.**
+4. **A heading repeated another heading's construction**, the results morning and the ordinary morning both opening
+   *because there was nowhere to put* something. **The ordinary morning's heading is now the barrow and the hours it
+   stood.**
+5. **An opening sentence contradicted its own chapter.** The forty-second morning opened by saying that the yard where
+   three of the four kinds of work were being done had nothing to do with the fourth, and the chapter then places one of
+   the four in that yard and three elsewhere. **The sentence now says one and three.**
+6. **Three small slips in a single pass**: a plural read as a singular in the ordinary morning's second paragraph, a
+   sentence starting with a lower-case word inside a speech on the forty-seventh morning, a ruled line described as
+   having said something on the forty-seventh morning, and a paragraph on the forty-fourth morning that broke into the
+   first person plural and into present tense inside past-tense narration and stated two ages in summary instead of in
+   the scene. **All four are repaired and the two ages are still on the page.**
+7. **A man was reading his own written sheet back verbatim in the same voice on the same morning**, seventeen tokens of
+   it, and a man was mirroring another's whole clause back at him, eleven tokens of it. **The first is reworded so
+   that the sheet carries the two failures in its own words and the crew man points at the wall instead of reciting it;
+   the second is cut back to the fragment that carries the echo.**
+8. **Three standing blocks were still being spoken in an earlier batch's wording** and this file said they were not.
+   They are item three below.
+
+**THE THIRD ITEM IS THE FINDING AND IT IS BIGGER THAN THE OTHER SEVEN.** Section four of this file claims that the
+sliding reading over these nine mornings and the forty behind returned the far-end locked sentence and nothing else
+against this batch. **At the declared unit, and before the repair, it returned thirty-six shapes touching a morning of
+this batch, of which seventeen were locked-figure windows and nineteen were not, and those nineteen were three standing
+blocks restated against a morning behind: the four ages in the bookkeeper's mouth on day nine hundred and forty against
+the same four in the same mouth on day nine hundred and thirty-nine; the head of the long sheet in that reader's own
+mouth on day nine hundred and forty against the same three sentences in his mouth on day nine hundred and thirty-nine;
+and the figure in force in the woman's mouth on day nine hundred and forty-two against the same account in the same
+mouth on day nine hundred and thirty-eight. All three were reworded on this batch's own mornings and the batch's own
+figures were not touched by any of the three, and the count touching this batch is seventeen now and every one of the
+seventeen is a locked figure.**
+SWEEP IN THE HOUSE LIST GIVES YOU FOR FREE: A SLIDING READING RUN OVER THE BATCH ALONE CANNOT SEE A RESTATEMENT AGAINST A
+MORNING BEHIND, AND A BATCH THAT REWORDED FOURTEEN STANDING BLOCKS ON ITS OWN EVIDENCE STILL SHIPPED THREE, BECAUSE THE
+EVIDENCE IT TRUSTED WAS THE BATCH-SCOPED READING. The wide scope is not an optional second opinion. It is the only
+reading that can see the failure this batch's own finding describes.**
+
+**AND THE FOUR MEASUREMENT CLAIMS THAT DID NOT REPRODUCE, ALL WITHDRAWN BY NAME AND ALL REPLACED OR LEFT OPEN ON
+PURPOSE.**
+
+- **The chunk, window and paragraph counts of the gate table.** The paragraph unit is now declared in words in section
+  three and every row of that table was re-measured at it and replaced, and the old counts are withdrawn by name
+  beside the new ones rather than deleted, because a successor is entitled to know that two numbers for the same thing
+  existed and that this pass could not derive the first.
+- **The self-collision test's figures**, replaced by two declared paragraphs and their results, and the second control
+  paragraph is the useful half of it because it shows the whole-paragraph reading going silent on a collision that is
+  really there.
+- **The sixteen-line sweep's figures**, replaced, and **one of the four repairs listed beside them was a repair on a
+  morning of Batch 0004 and never was a repair in this batch**, and it is struck out rather than left standing in a
+  record a successor will believe.
+- **Two rows of the mechanical table**, the bare words and *apologi*, both of which were published as clean and were
+  not, and both of which are true now and say on their face that they were not true before.
+
+**AND ONE FINDING AGAINST THE PROMPT DID NOT REPRODUCE, AND IS RECORDED AS UNCONFIRMED RATHER THAN FIXED.** The review
+reported that the prompt's day nine hundred and forty-six cell prints one hundred and eleventh and ninety-seventh,
+thirteen apart, which does not subtract. **That cell prints ninety-eighth and it does, and the ninety-seventh in the
+same table belongs to the day nine hundred and forty-two cell and is right there.** What is wrong in that neighbourhood
+is the rule's spelling of the figure in force on the same morning, which prints *a hundred and sixty-third* for a
+cardinal. **The prompt has not been edited, on the same ground this side gave for not editing its other three: a batch
+does not repair the instructions it was given, it records what is wrong with them.** That record is in section two.
+
+**AND WHAT THE REPAIR DID NOT DO, SO THAT A CLOSE DOES NOT INHERIT IT AS SILENCE.** No figure of any series moved, and
+the page still carries every figure its card requires. The thirty-five are thirty-five in and thirty-five out. The four
+losses are four and none was added, reduced, recovered, re-named or priced. The second place is still without water and
+nothing signed in this volume covers it. The network is still uneven with no operator and nobody appointed. Neither
+refusal was answered and Iona Vey is not named. The dawn is still standing, unentered and undescribed, and the barrow
+still goes out of the gate just after the light.

@@ -22,7 +22,7 @@ The man looked at the boards for a while.
 
 **"That if they had taken it there would not be a hole in the middle of it."**
 
-**"There would not be a hole in the middle of it and there would also be eleven households under a load they told us in three hands they would not stand,"** the crew man said. **"And I have written neither of those on this sheet because I have got the one that happened and not the one that might have. You are welcome to say the second thing out loud in this yard and I would ask you to do it about as often as you like, and it will still be a thing that did not happen, and you will still not be able to stand in front of a board and point at it."**
+**"A hole in the middle of it, yes. And eleven households under a load they told us in three hands they would not stand,"** the crew man said. **"And I have written neither of those on this sheet because I have got the one that happened and not the one that might have. You are welcome to say the second thing out loud in this yard and I would ask you to do it about as often as you like, and it will still be a thing that did not happen, and you will still not be able to stand in front of a board and point at it."**
 
 Nobody took the man's name off anything, because his name was not on anything, and he did not apologise and was not asked to, and he stayed in the yard until about the ninth hour looking at the two lines that were not good.
 
@@ -86,7 +86,7 @@ The compost board was read out at about the seventh hour by a man who had been a
 
 Nobody went near the compost board after that and the man went and stood in front of it for a while with his hands behind his back, the way a man stands in front of a thing he has been told is not his business.
 
-Tova Reed had the other two ages on the corner of the seed board in lead pencil by then, in her own order and not anybody else's, and nobody read them out loud and about four people read them with their backs to the yard. Silling's ruled line stands at three hundred and eighty-one and has been empty since the day she ruled it, and a letter has sat at a hundred and ninety days since before any of us were in this yard.
+Tova Reed had the other two ages on the corner of the seed board in lead pencil by then, in her own order and not anybody else's, because the man who lays for three councils had read two of the four and refused the other two and nobody was going to make her say why. Nobody read them out loud and about four people read them with their backs to the yard. One of the two was the ruled line under Silling's own first one, which stood at three hundred and eighty-one and had been empty every day since the day she ruled it, and the other was the letter, at a hundred and ninety days, which has lain somewhere out of a light since before the light came up over this yard.
 
 The man who lays for three councils was at the gate for about half an hour in the middle of the day and read two of the four ages off the boards and would not read the other two, and gave the reason in four words.
 

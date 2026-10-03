@@ -78,11 +78,11 @@ The joint in the network with nothing against it was talked about at the gate at
 
 **"There are two people on the branch head and neither of them will tell anybody the state of it and I will not stand here and appoint one of them to a job they have not agreed to and be the man who did it. If you want somebody in charge of that joint you will have to find a person who says they are in charge of it, and that person is not going to be chosen in this yard."**
 
-The door nine hundred yards off was walked past twice on this morning by people going about their own business and was read on by nobody and was offered to nobody, and the figure in the seventh column of the sheet at it did not go back and is not read on any morning of this volume and there is no allowance printed for it anywhere and there is not going to be one.
+The door nine hundred yards off was walked past twice on this morning by people going about their own business and was read on by nobody and was offered to nobody, and the figure in the seventh column of the sheet at it did not go back and is not read on any morning of this holding and there is no allowance printed for it anywhere and there is not going to be one.
 
 The light came late on that morning, at about the eleventh hour, and about six people in this yard had been standing at the gate facing the low road for the better part of an hour before it, and not one of them had gone down the road.
 
-There was something going on out there that can be seen from a gate and cannot be described by anybody who was not in it, and about nine people in this yard had seen it by the time the light was properly up, and not one of them said what it was, and about four of them have said since that they do not know. Not one person in this holding went down that road at any hour of this morning, and not one person in this holding was sent.
+There was something going on out there that can be seen from a gate and cannot be described by anybody who was not in it, and by the time the light was properly up nine people in this yard had seen it, and not one of them said what it was, and about four of them have said since that they do not know. Not one person in this holding went down that road at any hour of this morning, and not one person in this holding was sent.
 
 The yard went on. The mason tied his line along the top of the fourth course and it came out straight, and the tap joint at the back of the tap house wept and held and proved nothing about any morning of the week.
 

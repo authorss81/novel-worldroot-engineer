@@ -2,7 +2,7 @@
 
 ## The Eleventh Of The Twentieth, And A Barrow Of Wet Clay Put Against A Sill By Somebody Who Is Not In This Yard
 
-There were four things being done at the same time on Tuesday and the yard where three of them were being done had nothing to do with the fourth, and that is the plainest sentence anybody in this holding can write about Tuesday.
+There were four things being done at the same time on Tuesday and this yard was where one of them was being done and had nothing to do with the other three, and that is the plainest sentence anybody in this holding can write about Tuesday.
 
 The ring at the gate end came under its load at about the second hour, and the load was not a word for it. The crew man had nine bodies and a book and a length of rope and about four hours before the light went wrong, and the nine bodies went into the low side of the ring in the place the window told them to be.
 

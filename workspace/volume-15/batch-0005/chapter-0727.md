@@ -36,7 +36,7 @@ Somebody at the gate then asked what the run was for.
 
 Nobody said anything for about four seconds, which in this yard is a considerable time.
 
-**"It is an age,"** Kellan Rusk said. **"Three hundred and eighty-four on the form, two hundred and ninety on the charter, three hundred and seventy-eight on the ruled line under Silling's first one with nothing on it ever, and a hundred and eighty-seven on a letter that has been on a shelf since the spring. Four of them and none of them is a date, and the one you gave a carter is the oldest of the four."**
+**"It is an age,"** Kellan Rusk said. **"Four of them, and none of them is a date, and the oldest of the four is the one a carter was given in your own order. Three hundred and eighty-four is how long that form has lain in the drawer with the key on it. Two hundred and ninety is the charter, and there is nothing in it that anybody in this yard could read as a year. The ruled line under Silling's first one is at three hundred and seventy-eight and has never had a mark on it in its life. A hundred and eighty-seven days is a letter lying on a shelf. That is the four of them, and you may write them down in whatever order you want them in, because I am not handing you one."**
 
 **"I will get the timber turned and I will get it turned at my own cost and not out of the fourth place, and I will not be taught arithmetic at this gate by a man who keeps a book in a drawer with the key on a nail."** Perrin Dae put his thumb on the sheet one more time, on the window, and left it there. **"And while I am here, nine hundred and twenty-one hundredweight is the figure at the top of that wall. I have been asked for stone against it twice this week by two men who are not from this holding, and both of them were told the same thing, which is that it is a figure at a wall and not a quantity anybody sells."**
 
@@ -70,7 +70,7 @@ Odile Vray took the schedule off the boards and turned it round, and the window 
 
 Soren Rill came through about the eighth hour and gave the long sheet because he gives it every morning now whether anybody wants it or not, and he read it the other way round this morning.
 
-**"Four hundred and eighty-ninth over the line and four hundred and eighty-seventh under it, and four hundred and eighty-eight at the head. It went up by one in the night and it will go up tomorrow and there is no column cut under it for anything a person might have to answer for."**
+**"Four hundred and eighty-ninth over the line and four hundred and eighty-seventh under it, and four hundred and eighty-eight at the head. It stands a day higher than it stood on Friday and nobody in this yard has ever asked it what for, and there is no column cut under it for a route, or for a paper, or for anything else a person might have to answer for."**
 
 **"Is that the pair at the gate and the top?"** the man from the fourth place's road asked him.
 

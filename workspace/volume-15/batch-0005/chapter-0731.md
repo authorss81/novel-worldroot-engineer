@@ -28,7 +28,7 @@ A mason came to the far end of the table at about the fifth hour, put his thumb 
 
 Kellan Rusk put his hand flat on the cloth at about that hour and said the thing that a paper does not have on it.
 
-**"There is no date at the head of any of these and there is not going to be one put there while I am standing in this yard, and I will say why one more time because it is the last time anybody in this yard needs to hear it from me. A date at the head of a paper makes it a record, and a record wants a column under it, and there is no column cut under any of the four sheets on that table and I am not going to cut one before Saturday."**
+**"There is no date at the head of any of these and there is not going to be one put there while I am standing in this yard, and I will say why one more time because it is the last time anybody in this yard needs to hear it from me. A date at the head of a paper makes it a record, and a record wants a column under it, and there is no column cut under any of the four sheets on that table and I will not be the man who cuts one before Saturday."**
 
 **"You have said that at four places' length this month."**
 

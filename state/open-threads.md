@@ -810,7 +810,9 @@ the morning costs something for it every time, and neither of them says what it 
 comments on it.** The two questions this volume does not touch were not asked, not named, not hinted at, not
 paraphrased and not answered on any of these mornings.
 
-**AND THE THREE FINDINGS THIS BATCH ADDS, WHICH ARE ALL ABOUT THE ORDER OF THE WORK AND NONE ABOUT A FIGURE.**
+**AND THE THREE FINDINGS THIS BATCH ADDS, WHICH ARE ALL ABOUT THE ORDER OF THE WORK AND NONE ABOUT A FIGURE, AND THE
+FOURTH THAT THE REVIEW-REPAIR PASS OF 2026-10-03 ADDED TO FINDING ONE, WHICH IS THE SAME FAILURE ONE SCOPE FURTHER
+OUT.**
 
 **ONE, CHANGING THE ACTOR AND THE ORDER OF A STANDING BLOCK IS NOT ENOUGH AND THE WORDING HAS TO CHANGE AS WELL.**
 This is the batch behind's finding and it has a second half that the batch behind did not reach. Six of these nine
@@ -824,6 +826,23 @@ comfort line's own sliding windows. **A SUCCESSOR WHO HANDS OUT ACTORS AND ORDER
 FIND THIS EXACTLY, AND THE SIXTEEN-LINE SWEEP WILL NOT FIND IT, because a restated wording inside one file is not a
 collision with another file and the sixteen-line sweep only looks inside one file.**
 
+**ONE-A, THE SAME FAILURE ACROSS A FILE BOUNDARY, WHICH FINDING ONE ABOVE COULD NOT SEE AND WHICH THE FOURTEEN REWORDINGS
+DID NOT CLEAR. A READING SCOPED TO A BATCH IS BLIND TO A STANDING BLOCK THAT HAS BEEN RESTATED AGAINST A MORNING BEHIND
+IT.** This batch spent a whole run re-reading itself at batch scope, found seventy-five shapes, reworded fourteen
+standing blocks, published three, and went to the close believing that every shape touching it was the far-end locked
+sentence. **A review of 2026-10-03 had the sliding reading run over the whole of Volume 15 at a declared unit, and it
+returned three more of exactly the same kind on this batch's own mornings, every one of them a speaker using an earlier
+morning's wording: the four ages in the bookkeeper's mouth on day nine hundred and forty against day nine hundred and
+thirty-nine, the head of the long sheet in the long sheet's own reader's mouth on day nine hundred and forty against day
+nine hundred and thirty-nine, and the figure in force in the woman's mouth on day nine hundred and forty-two against day
+nine hundred and thirty-eight. All three were reworded on this batch's mornings and no figure moved. After the repair, every sliding
+shape that touches this batch is a window of one of the two locked figures, being three windows of the comfort line at
+its three appearances in this volume and fourteen of the far-end sentence at its three.** **THE INSTRUCTION THIS OWES THE
+CLOSE IS ONE LINE AND IT IS THE ONE THIS REPOSITORY KEEPING FAILING TO TAKE: RUN THE SLIDING READING OVER THE VOLUME, NOT
+OVER THE BATCH, DECLARE THE PARAGRAPH UNIT IN WORDS BESIDE THE NUMBER, AND READ A SHAPE'S TEXT BEFORE DECIDING WHAT IT
+IS. A BATCH THAT REWORDS ON ITS OWN EVIDENCE WILL ALWAYS BELIEVE IT IS CLEAN, BECAUSE THE FAILURE LIVES ON THE OTHER
+SIDE OF A FILE IT DID NOT OPEN.**
+
 **TWO, A NIL ON THE SLIDING READING IS ACHIEVABLE ON A BATCH THAT READS ITS FIGURES ALOUD, AND IT IS ACHIEVED BY
 VARYING THE CONSTRUCTION AND NOT BY SUPPRESSING THE RITUAL.** The batch behind published six shapes on its own ten
 mornings for the read-aloud ritual and could not get rid of them. **This batch carries the ritual on all four of its
@@ -833,15 +852,21 @@ that treats a nil on this reading as evidence that the ritual has been removed h
 successor that gets shapes there should identify them before it breaks anything, because the shapes that remain on
 this volume are the locked figure and are not to be broken at all.**
 
-**THREE, THREE FIGURES IN A BATCH'S OWN PROMPT CAN BE WRONG AGAINST ITS OWN RULES, AND ALL THREE WERE CAUGHT BY
-DERIVING FROM THE RULE.** **The figure-check total is printed as one hundred and sixty and the prompt's own arithmetic
+**THREE, FOUR FIGURES IN A BATCH'S OWN PROMPT CAN BE WRONG AGAINST ITS OWN RULES, THREE CAUGHT BY THE BATCH AND ONE BY
+THE REPAIR PASS, AND ALL FOUR BY DERIVING FROM THE RULE.** **The figure-check total is printed as one hundred and sixty and the prompt's own arithmetic
 makes one hundred and forty-four; the batch's parity is printed as five odd and four even and it is four odd and five
 even; and day nine hundred and forty-six's ordinal of the run is printed as four hundred and sixtieth and the rule
 makes four hundred and ninety-sixth, which also destroys the prompt's claim that this batch carries two round tens
 ordinals instead of one.** **A writer who had taken any of the three from the prompt would have written wrong text, and
 two of the three would have been caught by nothing except re-deriving the figure from the rule beside it and
 comparing it against the card.** The same prompt also names the wrong morning for the locked figures, which is a
-fourth one of the same class.
+fourth one of the same class, and **the repair pass of 2026-10-03 found a fifth of the same kind in the rule on the
+rotation, which spells the figure in force on the forty-seventh morning as a hundred and sixty-third, which is an
+ordinal where the figure is a cardinal.** **AND ONE FINDING AGAINST THAT PROMPT DID NOT REPRODUCE AND IS RECORDED AS
+UNCONFIRMED: a review reported that the prompt's day nine hundred and forty-six cell prints the wrong second reckoning,
+and that cell prints ninety-eighth and is correct, and the ninety-seventh in the same table belongs to the day nine
+hundred and forty-two cell and is right there. THE PROMPT HAS NOT BEEN EDITED BY ANY PASS, on the ground this batch set
+itself: a batch does not repair the instructions it was given, it records what is wrong with them.**
 
 **AND WHAT THE CLOSE OWES, AND THIS BATCH DID NOT WRITE IT AND DID NOT PREVIEW IT.** The dawn on the closing morning is
 standing and unentered, and nothing on any page of this batch says what is in it, and about six people stood at a gate

@@ -22,7 +22,7 @@ She asked it nine times and got the same answer nine times, and at the end of th
 
 Nobody in this yard asked her what the stroke was for and nobody asked her what the book was for, and a return has not moved a figure in this holding since before the ring went into the ground and it did not move one this morning either, and there is no number printed against it anywhere and there is not going to be one.
 
-On the boards in the one room there are thirty-nine blanks in a column and the second rule under them stands open and empty at the thirty-ninth time, which is what it has said every time it has been looked at.
+On the boards in the one room there are thirty-nine blanks in a column and the second rule under them stands open and empty at the thirty-ninth time, which is where it has been every time anybody has looked at it.
 
 At about the tenth hour the network was read out in this yard for the first time with the parts of it that do not work in it, which was not anybody's idea and came about because a man asked a plain question at the gate and nobody had a sheet.
 
@@ -54,7 +54,7 @@ Nia Vale read it off the rack in the doorway and did not rub anything off anythi
 
 Sera Quill had the slate out before Nia Vale had finished and gave one of her two and kept the other, which is what she does.
 
-**"One hundred and eleventh. That stepped this morning. The ninety-eighth is the one I carry and it is not on the rack and it is not on the sheet the mason read off and it is not in anybody's pocket in this yard, and there is a girl here who counts how many mornings I say a figure on and I have never once pretended to her that I do not know she counts."**
+**"One hundred and eleventh. That stepped this morning. The other one is the one I carry and it is not on the rack and it is not on the sheet the mason read off and it is not in anybody's pocket in this yard, and there is a girl here who counts how many mornings I say a figure on and I have never once pretended to her that I do not know she counts."**
 
 Kellan Rusk gave the window off the face of the register form and not out of his head, and said which way it had gone by putting his thumb on a figure he had written himself nine days ago and comparing.
 
@@ -72,7 +72,7 @@ A man at the gate heard that and put his hand on the near board and said he had 
 
 Harlan Vetch came off the wall faster than he has come off it in eleven weeks.
 
-**"Put it down. The one you have been leaning on all afternoon is eight hundred and eighty hundredweight and it is the nearer stone, and the other one at the top of that wall is nine hundred and twenty-seven hundredweight, and neither of them is a debt and neither of them is an order for stone. and you cannot take a load against a figure because a man wrote it in chalk. If you had asked me in the ordinary way at the gate I would have said the same thing in the same words."**
+**"Put it down. The one you have been leaning on all afternoon is eight hundred and eighty hundredweight and it is the nearer stone, and the other one at the top of that wall is nine hundred and twenty-seven hundredweight, and neither of them is a debt and neither of them is an order for stone. And you cannot take a load against a figure because a man wrote it in chalk. If you had asked me in the ordinary way at the gate I would have said the same thing in the same words."**
 
 **"I have been listening to two men read figures at each other all morning."**
 

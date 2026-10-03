@@ -741,8 +741,8 @@ figures are at `workspace/volume-15/batch-0005/SELF-CHECK.md`, which is not a re
   figure written in it.** The man who owns the sheet is the crew man and the engineer of record's contribution is a
   schedule and four terms and neither of them is on the sheet. **A carter's boy says four miles is not far.** The
   eleventh of the twelve fourth-line mornings: a hundred and sixty-two in force, twenty-nine taken, a hundred and
-  thirty-three not, and one hundred and tenth against ninety-seventh, thirteen apart, and the second is carried and
-  is not in anybody's pocket in this yard. **Odile Vray and Nia Vale give two different accounts of what that figure
+  thirty-three not, and one hundred and tenth, which is the first of the two reckonings and the only one of them on
+  the page, the other being carried and standing thirteen away from it and being in nobody's pocket in this yard. **Odile Vray and Nia Vale give two different accounts of what that figure
   counts and nobody chooses between them.** At dusk a man copies the five numbers onto the back of his own hand and
   copies the empty line too, as an empty line, and writes the words *north branch, no load* beside it with no figure.
 - **943, Thursday the thirteenth of the twentieth.** **The record is read out in a yard and a thing in it is got
@@ -784,8 +784,10 @@ figures are at `workspace/volume-15/batch-0005/SELF-CHECK.md`, which is not a re
   joint with nothing against it and nobody is appointed over it and nobody has asked for the job.** A man puts a
   barrow-load of stone against the near board and Harlan Vetch makes him put it down. The man who lays for three
   councils says out loud that there are two things he will not say in this yard and gives no reason for either.
-  A hundred and sixty-three in force, twenty-nine taken, a hundred and thirty-four not, and one hundred and eleventh
-  against ninety-eighth. **At dusk two people at either end of the empty joint agree between themselves to go and look
+  A hundred and sixty-three in force, twenty-nine taken, a hundred and thirty-four not, and one hundred and eleventh,
+  which is the first of the two reckonings and the only one of them printed on the page, the second being carried and
+  standing thirteen away from it. **A review of 2026-10-03 found the second reckoning in this morning's mouth in the
+  first edition and it was taken off the page; the morning's figures did not move.** **At dusk two people at either end of the empty joint agree between themselves to go and look
   at it on their own time and neither of them says anything about it to the engineer of record, who does not hear it.**
 - **947, Monday the seventeenth of the twentieth.** **An ordinary working morning and nobody says so.** A barrow
   comes out at the second hour and stands wheel first in the middle of the yard all day because there is nowhere to
@@ -812,21 +814,33 @@ figures are at `workspace/volume-15/batch-0005/SELF-CHECK.md`, which is not a re
   one person in this holding was sent.** The yard goes on, and the barrow that stood wheel first for a day and a half
   goes out of the gate just after the light, pushed by a man who gives no reason and is asked for none.
 
-**AND THE MEASUREMENTS THAT GO WITH THEM.** **One hundred and forty-four derived figures required by the card set's own
-item list, and the check this side ran was stricter and required one hundred and sixty, being the boards in the house
-form with the unit on them and the carried second reckoning not counted. One hundred and sixty required, one hundred
-and sixty present, zero failures.** **THE PROMPT FOR THIS BATCH PRINTS THE TOTAL AS ONE HUNDRED AND SIXTY AND ITS OWN
-ARITHMETIC MAKES ONE HUNDRED AND FORTY-FOUR, AND IT ALSO PRINTS THE BATCH'S PARITY AS FIVE ODD AND FOUR EVEN WHEN IT IS
-FOUR ODD AND FIVE EVEN, AND IT PRINTS DAY 946'S ORDINAL AS FOUR HUNDRED AND SIXTIETH WHEN THE RULE MAKES IT FOUR
-HUNDRED AND NINETY-SIXTH. THE RULES AND THE CARDS GOVERNED AND NONE OF THE THREE PROMPT FIGURES IS ON A PAGE.** Gate one
-returns **zero ordered pairs on these nine mornings**; in the widest scope it returns **one**, and it is the far-end
-locked sentence against `chapter-0719.md` at a ratio of exactly one. The whole-paragraph reading returns **841 chunks,
-one shape and one excess**, and the sliding reading, at a declared scope with apparatus included, returns **12,151
-windows, three shapes and three excess, and every one of the three is a window of the comfort line, which is twenty
-words and yields three.** The self-collision test was run first and returned **nine shapes on a forty-four-word
-paragraph taken twice** at the sliding reading and none at the whole-paragraph reading. **The whole-volume
-exact-duplicate sweep returns five at a floor of eight words, three of them in Batch 0001 and the other two the two
-locked sentences.** The sixteen-line sweep returns **six runs at six tokens or more and zero at eight or more**, and
-four runs at seven or more were repaired as the mornings were written. **Three blocks fall, on days 942, 945 and 947,
-against a ceiling of thirty, with one entered label in the volume, and the closing morning carries none.** The batch is
-19,043 words.
+**AND THE MEASUREMENTS THAT GO WITH THEM, AS THEY STAND AFTER THE REVIEW-REPAIR PASS OF 2026-10-03, WHICH REWOUND SIX
+SENTENCES ACROSS SIX MORNINGS, TOOK ONE CARRIED FIGURE OFF THE PAGE AND REWOUND ONE HEADING, AND WITHDREW EVERY CLAIM IN
+THE FIRST EDITION OF THIS PARAGRAPH THAT IT COULD NOT REPRODUCE.** **One hundred and forty-four derived figures required
+by the card set's own item list, and the check that was run was stricter and required one hundred and sixty, being the
+boards in the house form with the unit on them and the carried second reckoning not counted. One hundred and sixty
+required, one hundred and sixty present, zero failures, and the repair pass re-ran the check afterwards and moved no
+figure.** **THE PROMPT FOR THIS BATCH PRINTS THE TOTAL AS ONE HUNDRED AND SIXTY AND ITS OWN ARITHMETIC MAKES ONE HUNDRED
+AND FORTY-FOUR, AND IT ALSO PRINTS THE BATCH'S PARITY AS FIVE ODD AND FOUR EVEN WHEN IT IS FOUR ODD AND FIVE EVEN, AND IT
+PRINTS DAY 946'S ORDINAL AS FOUR HUNDRED AND SIXTIETH WHEN THE RULE MAKES IT FOUR HUNDRED AND NINETY-SIXTH, AND IT SPELLS
+THE FIGURE IN FORCE ON THAT MORNING AS SIXTY-THIRD. THE RULES AND THE CARDS GOVERNED AND NONE OF THE FOUR PROMPT FIGURES
+IS ON A PAGE.** **THE PARAGRAPH UNIT AT THE GATE IS NOW DECLARED IN WORDS, BEING EVERY NON-BLANK LINE BELOW A HEADING WITH
+APPARATUS QUOTE LINES COUNTED AS PARAGRAPHS OF THEIR OWN, AND AT THAT UNIT THESE NINE MORNINGS ARE 416 PARAGRAPHS OF
+WHICH 295 ARE THIRTY WORDS OR MORE.** Gate one returns **zero ordered pairs between two mornings of this batch**; in the
+widest scope it returns **one**, and it is the far-end locked sentence against `chapter-0719.md` at a ratio of exactly
+one. The whole-paragraph reading returns **855 chunks, one shape and one excess**, and the sliding reading, at that
+declared scope with apparatus included, returns **12,301 windows, three shapes and three excess, and every one of the
+three is a window of the comfort line, which is twenty words and yields three.** The self-collision test was run first
+and returns, on a paragraph of forty-four words taken twice, **twenty-seven shapes at the sliding reading and two at the
+whole-paragraph reading**, and a twenty-nine-word control paragraph taken twice returns twelve and one, which is the
+useful half of the test. **The whole-volume exact-duplicate sweep returns five at a floor of eight words, three of them in
+Batch 0001 and the other two the two locked sentences, and that figure reproduces.** The sixteen-line sweep returns
+**thirty runs at six tokens or more and two at eight or more, and both of the two are a man repeating another man's clause
+back to him inside one exchange.** **THE SLIDING READING OVER THE WHOLE VOLUME RETURNS TWENTY-NINE SHAPES, SEVENTEEN OF THEM
+TOUCHING THIS BATCH AND EVERY ONE OF THE SEVENTEEN A WINDOW OF ONE OF THE TWO LOCKED SENTENCES; BEFORE THE REPAIR PASS
+THE SAME READING RETURNED FORTY-EIGHT CROSS-FILE SHAPES, THIRTY-SIX TOUCHING THIS BATCH, NINETEEN OF THEM WINDOWS OF
+THREE STANDING BLOCKS RESTATED AGAINST A MORNING BEHIND, WHICH WERE REWOUND ON THIS BATCH'S OWN MORNINGS.** **Three blocks fall, on days 942, 945 and 947, against a ceiling of thirty, with one entered label
+in the volume, and the closing morning carries none.** The batch is **19,140 words**, the volume is **115,783 across
+forty-nine files**, and the manuscript is **2,031,392 across seven hundred and thirty-five files**, each measured per
+file. **The first edition of this paragraph printed 19,043, 115,686 and 2,031,295, and printed gate figures of 841 chunks
+and 12,151 windows and a sixteen-line figure of six and zero; none of those reproduces and all are withdrawn.**

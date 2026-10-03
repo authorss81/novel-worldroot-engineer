@@ -733,22 +733,47 @@ all pure figure delivery and was broken. And that **three figures in this batch'
 against its own rules**, being the figure-check total, the parity of the batch, and the ordinal of the run on day nine
 hundred and forty-six.
 
+**AND WHAT THE REVIEW-REPAIR PASS OF 2026-10-03 ADDED TO ALL FOUR OF THOSE, WHICH IS THE PART A SUCCESSOR NEEDS.** The
+fourteen rewordings were found with a reading scoped to this batch, and **a reading scoped to a batch cannot see a
+standing block that has been restated against a morning behind it. Run over the whole of Volume 15, the sliding reading
+returned three more of exactly the same kind on this batch's own mornings, all three of them a speaker using an earlier
+morning's wording: the four ages in the bookkeeper's mouth on day nine hundred and forty against day nine hundred and
+thirty-nine, the head of the long sheet in that reader's own mouth on day nine hundred and forty against day nine
+hundred and thirty-nine, and the figure in force in the woman's mouth on day nine hundred and forty-two against day nine
+hundred and thirty-eight. All three were reworded on this batch's mornings and no figure moved. After the repair, every sliding
+shape touching this batch is a window of one of the two locked figures.** The same pass found a carried figure printed
+on the forty-seventh morning, a construction in two mouths, a house word in the closing morning's body prose, two
+headings on one construction, an opening sentence that contradicted its own chapter, four small prose slips, and four
+measurement claims in this batch's own file that did not reproduce, and it withdrew every one of those claims by name.
+**It also could not confirm the fifth finding raised against the prompt, which said the day nine hundred and forty-six
+cell prints the wrong second reckoning, and that cell is correct.** **The standing lesson is that a batch which spends
+a whole run re-reading itself at batch scope will believe it is clean, and the only reading that sees this volume's
+recurring failure is the one scoped to the volume.**
+
 **AND THE THINGS THAT CAME INTO THE HOLDING ON THE THIRTY MORNINGS BEHIND ARE UNCHANGED AND STILL WILL NOT LEAVE.**
 Three lines and a rubbed-out fourth with no name at the foot. Four thousand one hundred and one cans. A notice in
 five hands that is correct in every particular. A refusal with no date on it. A haulage arrangement that has not
 begun. A face that is not a punishment. A woman with a barrow who has not gone back. Four terms and five empty lines
 and a schedule with no name at the top of it. **The next in-between morning for either locked figure in this volume
 was the forty-fifth and it is spent, and the last whole appearances of both locked figures in this volume are on the
-closing morning, and the far-end figure was last spoken in a volume behind on day nine hundred and thirty-two and on
-the closing morning here, and the comfort line was spoken whole on the volume's first morning, on its forty-fifth and
-on its forty-ninth.**
+closing morning. The far-end figure was spoken whole three times in this volume and not in the volume behind it at all:
+on the volume's first morning, on its thirty-third morning, which is day nine hundred and thirty-two at
+`batch-0004/chapter-0719.md` and is in this volume and not in another one, and on its forty-ninth. The comfort line was
+spoken whole on the volume's first morning, on its forty-fifth and on its forty-ninth.** **A state file that says a
+figure was last spoken in an earlier volume when the morning is in this one is a sentence that sends a successor looking
+in the wrong place for a thing that is two batches back on its own shelf.**
 
-**AND THE STATE OF THE GATE, WHICH NO FIGURE IN THIS BATCH'S OWN FILE NOW HIDES.** The sliding reading **does not
-return a nil on a batch that reads its figures aloud and it was made to return one by writing the ritual in a
-different construction on each of the four odd mornings**, not by suppressing it. The four constructions are: the boy
-writes it and says he is not going to read it out; the girl writes it after the boy does not and nobody reads it; a
-mason writes it in his own hand and reads it out because he can read handwriting that is not his own; and a woman
-reads it off the seed board to nobody in particular and does not stop and does not say it again. **A successor that
-gets a nil there has done the work and has not removed the ritual, and a successor that gets shapes there should
-identify them before it breaks anything, because on this volume the shapes that remain are the locked figure and are
-not to be broken at all.**
+**AND THE STATE OF THE GATE, WHICH NO FIGURE IN THIS BATCH'S OWN FILE NOW HIDES.** The sliding reading **returns no
+shape at all out of the read-aloud ritual on a batch that reads its figures aloud, and it was made to return none by
+writing the ritual in a different construction on each of the four odd mornings**, not by suppressing it. **The three
+shapes this batch does return are the comfort line's own windows, and a nil for the whole reading is not what this
+volume has and may not be inherited as one.** The four constructions are: on the
+forty-second morning the boy who carries water writes it and says he is not going to read it out and the girl from the
+second place then reads it off the board to nobody in particular and does not stop; on the forty-fourth morning it is in
+chalk on the corner of the seed board because somebody asked for it there, and a woman reads the two numbers as a
+proportion and is corrected by arithmetic; on the forty-sixth morning a mason writes it in his own hand and reads it
+out because he says he cannot read handwriting that is not his own; and on the forty-eighth morning the water came
+late, the boy gave that as his reason and did not write it, and the girl from the second place wrote it instead and
+nobody read it and nobody thanked the boy for not writing it. **A successor that gets a nil there has done the work and
+has not removed the ritual, and a successor that gets shapes there should identify them before it breaks anything,
+because on this volume the shapes that remain are the locked figure and are not to be broken at all.**

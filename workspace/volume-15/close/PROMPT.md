@@ -24,12 +24,22 @@ hundred to nine hundred and forty-eight, across five batch directories.
 | `batch-0004` | `chapter-0717.md` to `chapter-0726.md` | 930 to 939 | thirty-one to forty |
 | `batch-0005` | `chapter-0727.md` to `chapter-0735.md` | 940 to 948 | forty-one to forty-nine, **the closing morning is the forty-ninth** |
 
-**THE FIGURE ON DISK AT THE TIME OF WRITING, WHICH IS A MEASUREMENT AND NOT A PROMISE: nineteen thousand and
-forty-three words in Batch 0005, one hundred and fifteen thousand six hundred and eighty-six words in
-Volume 15 across forty-nine files, and two million and thirty-one thousand two hundred and ninety-five words across
-seven hundred and thirty-five chapter files in the manuscript.** Every one of those is re-derivable per file with
-`len(text.split())` and none of them is inherited as a result. **A close that finds different figures and does not say
-why has repaired nothing.**
+**THE FIGURE ON DISK WHEN THIS PROMPT WAS WRITTEN, WHICH WAS A MEASUREMENT AND NOT A PROMISE, WAS: nineteen thousand
+and forty-three words in Batch 0005, one hundred and fifteen thousand six hundred and eighty-six words in Volume 15
+across forty-nine files, and two million and thirty-one thousand two hundred and ninety-five words across seven hundred
+and thirty-five chapter files in the manuscript. ALL THREE OF THOSE ARE WITHDRAWN BY NAME BELOW AND NONE OF THEM IS
+CURRENT.** Every one of them was re-derivable per file with `len(text.split())` and a close that finds figures that
+differ from both sets has repaired nothing until it says which set it re-derived and why.
+
+**AND ALL THREE OF THOSE FIGURES WERE MOVED BY THE REVIEW-REPAIR PASS OF 2026-10-03, WHICH REWORDED SIX SENTENCES
+ACROSS SIX MORNINGS AND TOOK ONE CARRIED FIGURE OFF A PAGE AND REWOUND ONE HEADING, AT A COST OF NINETY-SEVEN WORDS.
+THE FIGURES ON DISK NOW ARE: NINETEEN THOUSAND ONE HUNDRED AND FORTY IN BATCH 0005, ONE HUNDRED AND FIFTEEN THOUSAND
+SEVEN HUNDRED AND EIGHTY-THREE IN VOLUME 15 ACROSS FORTY-NINE FILES, AND TWO MILLION AND THIRTY-ONE THOUSAND THREE
+HUNDRED AND NINETY-TWO ACROSS SEVEN HUNDRED AND THIRTY-FIVE CHAPTER FILES.** The per-file figures for Batch 0005 are
+2,443, 2,286, 2,369, 2,289, 1,963, 2,068, 1,931, 1,673 and 2,118, and they are measured per file and never by
+concatenation. **THE BATCH'S OWN FILE IS AT `workspace/volume-15/batch-0005/SELF-CHECK.md` AND ITS SECTION NINE IS THE
+REPAIR PASS'S RECORD, INCLUDING THE FIGURES THAT PASS WITHDREW, AND A CLOSE THAT INHERITS A NUMBER FROM SECTIONS ONE
+TO EIGHT WITHOUT READING SECTION NINE IS INHERITING A PULLED FIGURE.**
 
 ---
 
@@ -56,14 +66,27 @@ licenses: a working gate proves that a shape is real and it does not prove that 
 anything.**
 
 **FOUR, RUN BOTH READINGS OF THE SECOND GATE OVER EVERY BODY PARAGRAPH OF ALL FORTY-NINE MORNINGS, AT A SCOPE WRITTEN
-DOWN BEFORE THE FIRST ONE IS RUN.** The first is non-overlapping whole-paragraph chunks. The second is every sliding
-eighteen-word window at every offset inside each paragraph. **Publish both even when they are clean, and publish the
-scope on the same line as the figure, and state whether apparatus blocks are inside it or outside it.** The batch
-behind this one published a sliding nil at a scope nobody had declared and that nil was withdrawn by name; the batch in
-front of it found twenty-one repeated shapes where the nil had been and had to rewrite fourteen standing blocks.
+DOWN BEFORE THE FIRST ONE IS RUN, AND WRITE THE PARAGRAPH UNIT DOWN IN WORDS BESIDE IT.** The first is non-overlapping
+whole-paragraph chunks. The second is every sliding eighteen-word window at every offset inside each paragraph. **Publish
+both even when they are clean, and publish the scope on the same line as the figure, and state whether apparatus blocks
+are inside it or outside it and whether an apparatus block is one paragraph or one paragraph per quote line.** The batch
+behind this one published a sliding nil at a scope nobody had declared and that nil was withdrawn by name. **THE REAL
+ORDER OF THOSE TWO BATCHES IS THIS AND IT IS THE ORDER, NOT THE OTHER ONE: Batch 0004 published a sliding nil, found it
+false against its own wider scope, and withdrew it by name inside its own file. Batch 0005 then found the standing
+blocks being spoken with the same words in different mouths and reworded fourteen of them. The twenty-one repeated
+shapes belong to Batch 0003's widest-scope row, at forty-six thousand three hundred and forty-four windows and twenty-one
+shapes and forty excess, and they are not Batch 0004's figure and not Batch 0005's.**
 **A NIL FROM THE SLIDING READING ON A VOLUME THAT READS ITS FIGURES ALOUD IS NOT EVIDENCE OF ANYTHING, AND ANY SHAPE
 THAT COMES BACK SHOULD BE IDENTIFIED BEFORE ANYTHING IS BROKEN.** On the reading scope of `batch-0005` the only shapes
-left in the whole of that batch were windows of the comfort line.
+left in the whole of that batch were windows of the comfort line. **AND THE SLIDING READING MUST BE RUN OVER THE WHOLE
+VOLUME AND NOT OVER THE BATCH, BECAUSE A BATCH-SCOPED READING IS BLIND TO THE ONE FAILURE THIS VOLUME KEEPS MAKING. At the
+unit declared in the batch's own file, and after the repair pass of 2026-10-03, the sliding reading over the whole of
+Volume 15 returns twenty-nine shapes; seventeen of them touch a morning of Batch 0005 and every one of the seventeen is a
+window of one of the two locked sentences. Before that repair pass the same reading returned forty-eight cross-file
+shapes, thirty-six of them touching a morning of Batch 0005, and nineteen of those thirty-six were windows of three
+standing blocks that this batch's own mornings were speaking in an earlier batch's wording. A CLOSE THAT FINDS THOSE
+THREE AGAIN HAS FOUND THEM AT A SCOPE IT DID NOT DECLARE OR HAS NOT REWOUND THEM, AND BOTH ARE ITS OWN PROBLEM AND NOT
+THE BATCH'S. THE THREE ARE NAMED IN THE BATCH'S OWN SECTION NINE.**
 
 **FIVE, RUN GATE ONE BESIDE IT AND NOT INSTEAD OF IT: every prose paragraph of thirty words or more, compared with
 every other in the volume and with every prose paragraph behind it, counting an ordered pair whose word counts are
@@ -75,8 +98,8 @@ floor beside the nil, because the comfort line is twenty words and is structural
 **SIX, RUN THE THREE SWEEPS NEITHER GATE RUNS, ALL SCOPED TO THE VOLUME AND NOT TO THE BATCH.**
 
 - **A whole-volume exact-duplicate paragraph sweep at any paragraph length, at a floor of eight words beside the gate's thirty.** On the volume as Batch 0005 left it this returned five, being three inside `batch-0001` and the two locked sentences. **It is the sweep that has found every literal duplicate in the last two volumes and it is cheap.**
-- **The sixteen-line shared-token sweep**, matching every non-blank body line against every other within sixteen lines of it, in the same file, on the longest shared contiguous token run. **A standing block written by a hand is mostly gesture, and a re-stated wording inside one file is not a collision with another file, which is why this sweep is per file and why it must be run over every file rather than over the batch.**
-- **The ordinary order check the two batches behind found: give every standing block a different actor and a different order on each morning it appears, AND GIVE IT A DIFFERENT WORDING.** `batch-0005`'s finding is at section four of its own file and is carried in the last section of `state/open-threads.md`: changing the actor and the order was not sufficient, fourteen rewordings were also needed, and the second gate is what finds them.
+- **The sixteen-line shared-token sweep**, matching every non-blank body line against every other within sixteen lines of it, in the same file, on the longest shared contiguous token run. **A standing block written by a hand is mostly gesture, and a re-stated wording inside one file is not a collision with another file, which is why this sweep is per file and why it must be run over every file rather than over the batch.** `batch-0005` returns thirty runs at six tokens or more and two at eight, and **both of the two are a man repeating another man's own clause back to him inside one exchange, which is a device and not a restatement, and a close that counts them as defects will flatten the dialogue to get a number.** **This sweep cannot see a restatement against a morning in another file at all, which is what the second gate's sliding reading over the whole volume is for, and a close that runs this sweep and stops has not looked at the failure this volume keeps making.**
+- **The ordinary order check the two batches behind found: give every standing block a different actor and a different order on each morning it appears, AND GIVE IT A DIFFERENT WORDING.** `batch-0005`'s finding is at section four of its own file and is carried in the last section of `state/open-threads.md`: changing the actor and the order was not sufficient, fourteen rewordings were also needed, and the second gate is what finds them. **A review added three more of the same kind on 2026-10-03, all of them against a morning behind, all three on `batch-0005`'s own mornings, and the repair is at section nine of that file.**
 
 **SEVEN, RUN EVERY MECHANICAL SWEEP IN THE HOUSE LIST AND PUBLISH EACH RESULT.** For the six bare words, headings
 excluded, and for *tally*. For the twelve month names, where the modal verb is not a month. For the ordinals staying
@@ -146,13 +169,16 @@ WITH NO SINGLE OPERATOR AND NOBODY APPOINTED, AND A SECOND PLACE STILL WITHOUT W
 
 ## 4. THE STATE OF THE GATE, WHICH NO FIGURE IN `batch-0005/SELF-CHECK.md` HIDES
 
-**THE BATCH BEHIND PUBLISHED A FALSE NIL ON THE SLIDING READING AND A REVIEW WITHDREW IT BY NAME. THE BATCH IN FRONT
-OF IT FOUND THE SHAPES, IDENTIFIED THEM AS THE STANDING BLOCKS BEING SPOKEN WITH THE SAME WORDS IN DIFFERENT
-MOUTHS, AND REWROTE FOURTEEN OF THEM.** **A CLOSE THAT FINDS ZERO ON THE SLIDING READING OVER THIS VOLUME MUST FIRST
-CONFIRM THE SCOPE IT RAN AT AND MUST IDENTIFY EVERY SHAPE IT FINDS BEFORE IT BREAKS ANYTHING, BECAUSE ON THIS VOLUME
-THE SHAPES THAT REMAIN ARE THE LOCKED FIGURES AND MAY NOT BE REWRITTEN AT ALL.** The far-end figure was spoken whole
-on four mornings of the volume and the comfort line on four, and the arithmetic for what that produces on the sliding
-reading is printed at the card set's section six.
+**BATCH 0004 PUBLISHED A FALSE NIL ON THE SLIDING READING AND WITHDREW IT BY NAME INSIDE ITS OWN FILE. BATCH 0005 FOUND
+THE STANDING BLOCKS BEING SPOKEN WITH THE SAME WORDS IN DIFFERENT MOUTHS AND REWOUND FOURTEEN OF THEM, AND THEN A REVIEW
+FOUND THREE MORE OF THE SAME KIND AGAINST ITS OWN MORNINGS AND A REPAIR PASS REWOUND THOSE THREE AS WELL.** **THE FALSE
+NIL AND THE FOURTEEN REWORDINGS ARE NOT ONE EVENT SPLIT ACROSS TWO PASSES AND MUST NOT BE DESCRIBED AS ONE. A CLOSE
+THAT FINDS ZERO ON THE SLIDING READING OVER THIS VOLUME MUST FIRST CONFIRM THE SCOPE IT RAN AT AND MUST IDENTIFY EVERY
+SHAPE IT FINDS BEFORE IT BREAKS ANYTHING, BECAUSE ON THIS VOLUME THE SHAPES THAT REMAIN ARE THE LOCKED FIGURES AND MAY
+NOT BE REWRITTEN AT ALL.** **The far-end figure was spoken whole on three mornings of this volume, being its first, its
+thirty-third and its forty-ninth, and the comfort line on three, being its first, its forty-fifth and its forty-ninth;
+the first edition of this paragraph said four and four and it does not, and the arithmetic for what three appearances
+produce on the sliding reading is in the batch's own file beside the measurement.**
 
 ---
 
