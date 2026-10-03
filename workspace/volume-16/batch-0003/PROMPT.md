@@ -57,15 +57,31 @@ Every figure of this volume is one of these, applied to that morning's own day. 
 | its clause | one under and one over the aggregate, being day less four hundred and fifty-three and day less four hundred and fifty-one |
 | the near board | day less sixty-six |
 | the far board | day less nineteen; always forty-seven from the near one; headed nine hundred on all forty-five mornings and therefore never a bare round hundred site |
-| the read aloud | odd mornings only and at the seventh hour; the numerator a hundred and ninety-six in the form *one hundred and* in its range and one more on every odd morning after it; the denominator day less five hundred and twenty-six, always odd, always headed four hundred |
-| the count in force | a fourth-line morning is a day two modulo four; rises by one on one of those mornings and by nothing on any other; twenty-nine taken throughout |
-| the two reckonings | step by one on a fourth-line morning, never agree, are thirteen apart; the first goes in print and **the second is carried and is not printed on any morning that prints the first** |
+| the read aloud | odd mornings only and at the seventh hour; **the numerator is a hundred and ninety-six on day nine hundred and forty-nine, which is this volume's own anchor and the first read-aloud morning in it, and one more on every odd morning after that**; spelled *one hundred and* while in its range and *two hundred and* above it; the denominator day less five hundred and twenty-six, always odd, always headed four hundred |
+| the count in force | a fourth-line morning is a day two modulo four; rises by one on one of those mornings and by nothing on any other; twenty-nine taken throughout; **a hundred and sixty-four at day nine hundred and fifty and one more at each fourth-line morning after it** |
+| the two reckonings | step by one on a fourth-line morning, never agree, are thirteen apart; **the first is one hundred and seventh at day nine hundred and fifty and the second is ninety-fourth, both being this volume's own anchors**; the first goes in print and **the second is carried and is not printed on any morning that prints the first** |
 | the register form | day less five hundred and fifty-six |
 | the charter | day less six hundred and fifty |
 | Silling's second ruled line | day less five hundred and sixty-two, and nothing is written on it on any morning of this volume |
 | the letter | day less seven hundred and fifty-three |
 
-**AND THE PARITY OF THE SPLIT WINDOW HALVES, WHICH IS INVERTED FROM THE VOLUME BEHIND AND IS A FIGURE-CLASS ERROR AND NOT ONLY A SPELLING HAZARD: ON AN ODD MORNING THE FALLING HALF IS THE HALF THAT MOVED AND THE RISING HALF STOOD, AND ON AN EVEN MORNING THE RISING HALF IS THE HALF THAT MOVED AND THE FALLING HALF STOOD. THE BATCH BEHIND YOU HAD FOUR MORNINGS OF THIS WRONG ON ITS FIRST DRAFT AND EVERY GATE AND THE FIGURE CHECK RETURNED CLEAN, BECAUSE BOTH HALVES ARE PRINTED EITHER WAY AND THE ERROR IS IN WHICH ONE YOU SAY CAME. ON YOUR SIXTH MORNING, WHICH IS EVEN, TWO HUNDRED AND FIFTY-ONE CAME AND TWO HUNDRED AND FORTY STOOD.**
+**AND TWO SERIES IN THIS VOLUME ARE ANCHORED HERE AND NOT AT THE DAY-899 STANDINGS IN THE STATE LAYER, AND A WRITER WHO
+RE-DERIVES THEM FROM THOSE STANDINGS WILL WRITE A FIGURE NOBODY MEASURED.** The read-aloud numerator and the two reckonings
+are anchored at this volume's first morning and step from there: the numerator at a hundred and ninety-six on day nine hundred
+and forty-nine, the first reckoning at one hundred and sixth and the second at ninety-third at the same boundary, with the
+count in force anchored separately at a hundred and sixty-three and rising to one hundred and sixty-four at day nine hundred
+and fifty. **The day-899 table behind you prints one hundred and ninety-five for the numerator and ninety-ninth and
+eighty-sixth for the two reckonings, and both are the volume behind's own series and not this volume's, because
+`outline/volume-16.md` re-anchors the numerator and the reckonings at the boundary, as it does not re-anchor the count in
+force, which is continuous from a hundred and sixty-three, and `outline/batches/volume-16-cards.md` prints the re-anchored
+values on the face of every card. THE PAGES BEHIND YOU ALREADY CARRY THE RE-ANCHORED SERIES AND EVERY FIGURE ON THEM
+REPRODUCES: two hundred and one at day nine hundred and fifty-nine through two hundred and five at day nine hundred and
+sixty-seven, and one hundred and seventh at day nine hundred and fifty through one hundred and eleventh at day nine hundred
+and sixty-six. A figure re-derived from the day-899 table and not from the day-949 anchor would be twenty-four high at
+day nine hundred and sixty-nine and would put a twenty-five-figure jump on a board a character writes in chalk every odd
+morning, and **NO SUCCESSOR MAY RE-ANCHOR EITHER SERIES BACK.**
+
+**AND THE PARITY OF THE SPLIT WINDOW HALVES, WHICH IS INVERTED FROM THE VOLUME BEHIND AND IS A FIGURE-CLASS ERROR AND NOT ONLY A SPELLING HAZARD: ON AN ODD MORNING THE FALLING HALF IS THE HALF THAT MOVED AND THE RISING HALF STOOD, AND ON AN EVEN MORNING THE RISING HALF IS THE HALF THAT MOVED AND THE FALLING HALF STOOD. THE BATCH BEHIND YOU HAD FOUR MORNINGS OF THIS WRONG ON ITS FIRST DRAFT AND EVERY GATE AND THE FIGURE CHECK RETURNED CLEAN, BECAUSE BOTH HALVES ARE PRINTED EITHER WAY AND THE ERROR IS IN WHICH ONE YOU SAY CAME. ON YOUR SIXTH MORNING, WHICH IS EVEN, TWO HUNDRED AND FIFTY-ONE CAME AND TWO HUNDRED AND FORTY STOOD. AND ONE MORNING ALREADY ON DISK INVERTS IT DELIBERATELY AND IN A CHARACTER'S MOUTH: at day nine hundred and sixty-two, which is even, Kellan Rusk gave the rising half as the one that came and said out loud that he knew it was the wrong way round, because he had heard her say it the right way round for eleven weeks. **THAT IS A MAN GETTING HIS OWN PAIR BACKWARDS IN FRONT OF THIRTY PEOPLE AND SAYING SO, IT IS NOT A FIGURE ERROR IN THE SERIES, BOTH HALVES ARE CORRECT ON THAT MORNING, AND A SUCCESSOR MAY NOT REPAIR IT, MAY NOT CARRY IT FORWARD AS A STANDING, AND MAY NOT REPORT THE BATCH BEHIND AS HAVING PRINTED THE DIRECTION CORRECTLY ON ALL TEN OF ITS MORNINGS.**
 
 ## 3a. THE ONE THING YOUR BATCH PUTS ITS WEIGHT ON, WHICH IS THE FIRST MORNING
 

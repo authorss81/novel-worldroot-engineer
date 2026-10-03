@@ -1172,8 +1172,28 @@ barrow and answered with nothing. **IT IS A COST ON THE RECORD AND NOT A FIFTH P
    RETURNS ZERO AND ZERO. A HOLDER THAT FIXED THE FRAME ONCE HAS NOT FIXED IT, AND A SUCCESSOR THAT MEASURES WILL FIND IT IN ITS
    OWN FIRST DRAFT.**
 2. **THE PARITY OF THE SPLIT WINDOW HALVES IS A FIGURE-CLASS ERROR AND EVERY MEASUREMENT IN THE LAYER RETURNS CLEAN ON EITHER
-   READING.** Four mornings of this batch had the direction of the pair the wrong way round and printed both figures correctly in
-   both readings, and the only thing that caught it was reading. **IT IS THE DIRECTION AND NOT THE PAIR THAT A WRITER GETS WRONG.**
+   READING.** Four mornings of this batch had the direction of the pair the wrong way round on the first draft and printed both
+   figures correctly in both readings, and the only thing that caught it was reading. **IT IS THE DIRECTION AND NOT THE PAIR
+   THAT A WRITER GETS WRONG. THE FINISHED BATCH PRINTS IT CORRECTLY ON NINE OF ITS TEN MORNINGS AND INVERTS IT ON THE TENTH
+   ON PURPOSE AND INSIDE A CHARACTER'S MOUTH, at day nine hundred and sixty-two in `chapter-0749.md:27`, where Kellan Rusk says
+   the pair from his own head and tells the yard he has it the wrong way round. THAT IS NOT A THREAD AND IT IS NOT PAID AND IT
+   IS NOT TO BE REPAIRED.**
 3. **A FLOOR NAMED ON EVERY MORNING IN THE SAME WORDS IS NOT A FLOOR NAMED.** The compost line is named on three mornings of this
    batch, the tap joint on three, the man of about seventy on three, the ladder on five and the door nine hundred yards off on
    three. **EVERY FLOOR ON EVERY CARD OF THIS BATCH IS UNMOVED ON ALL TEN MORNINGS, AND THE PROOF IS THE ABSENCE OF A MOVE.**
+
+## What the review-repair pass over Volume 16 Batch 0002 settled, and the one item it did not pay
+
+**THE PASS WROTE NO PROSE AND RESTARTED NO MORNING AND MOVED NO FIGURE.** Four items of this layer's record were wrong and are
+repaired, and they are the apparatus count, the batch-scope paragraph figure, the stale handoff table in `state/current.md`
+section one, and the parity claim that the direction held on all ten mornings. The figures are in `state/current.md` section
+twenty-three and in the batch's own self-check.
+
+**AND THE ONE ITEM THAT IS HANDED FORWARD UNPAID IS THE PAIR OF SERIES THAT VOLUME 16 RE-ANCHORS AT ITS BOUNDARY, AND IT IS
+NOT A THREAD ABOUT THE HOLDING AND IS CARRIED HERE ONLY SO THAT NO PASS SPENDS ITS BUDGET ON IT A SECOND TIME.** The read-aloud
+numerator runs from a hundred and ninety-six at day nine hundred and forty-nine and the two reckonings from one hundred and
+sixth and ninety-third at the boundary, both against lower figures in the day-899 table at `state/current.md` section two, which
+is the volume behind's series and not this volume's. **THE GAP IS TWENTY-FOUR ON THE NUMERATOR AND FIVE ON THE FIRST
+RECKONING, THE PAGES AND BOTH SELF-CHECKS AND EVERY CARD AGREE WITH EACH OTHER, AND THE COUNT IN FORCE IS NOT A CONTROL
+AGAINST EITHER BECAUSE IT IS THE ONE SERIES OF THE THREE THAT WAS NOT RE-ANCHORED.** No morning may be rewritten to close the
+gap and no figure may be moved back onto the day-899 series.

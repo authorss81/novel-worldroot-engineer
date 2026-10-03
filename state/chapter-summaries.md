@@ -45,16 +45,17 @@ this file whole. The archived layer at
 | 13 | 589 to 637 | 49 | 91,321 |
 | **14** | 638 to 686 | **49** | 116,146 |
 | **15** | 687 to 735 | **49, all written and closed** | **115,783** |
-| **16** | 736 to 780 | **10 of 45 written** | **18,710** |
+| **16** | 736 to 780 | **20 of 45 written** | **39,442** |
 
-Titles are in `outline/volume-NN.md`. **745 files, 2,050,094 words**, the earlier figure of 735 files and 2,031,392
-words being the state at the close of Volume 15 and withdrawn by name by the Volume 16 Batch 0001 writing pass of
-2026-10-03, which wrote ten files, added 18,702 words and re-measured per file. **Volume 16 takes forty-five mornings and
-not forty-nine, and it takes chapters 736 to 780.** **Volumes 01 to 15 are closed. THE VOLUME 15
+Titles are in `outline/volume-NN.md`. **755 files, 2,070,834 words**, the earlier figure of 745 files and 2,050,094
+words being the state after Volume 16 Batch 0001 and withdrawn by name by the Volume 16 Batch 0002 writing pass of
+2026-10-03, which wrote ten files, added 20,740 words and re-measured per file. That in turn withdrew 735 files and 2,031,392
+words, the state at the close of Volume 15, which the Volume 16 Batch 0001 writing pass had replaced. **Volume 16 takes
+forty-five mornings and not forty-nine, and it takes chapters 736 to 780.** **Volumes 01 to 15 are closed. THE VOLUME 15
 ROW'S EARLIER FIGURES OF THIRTY OF FORTY-NINE WRITTEN AND 75,530 WORDS, AND THE TOTAL'S EARLIER FIGURES OF 716 FILES
 AND 1,991,139 WORDS, ARE WITHDRAWN BY NAME BY THE VOLUME 15 CLOSE OF 2026-10-03, WHICH RE-DERIVED EVERY ROW PER FILE
 AND FOUND THE THIRTEEN ROWS BEHIND VOLUME 15 ALL REPRODUCING.**
-**Volume 15 is closed at forty-nine of forty-nine and Volume 16 is open at ten of forty-five.** **THE VOLUME 15 FIGURE AND THE MANUSCRIPT TOTAL
+**Volume 15 is closed at forty-nine of forty-nine and Volume 16 is open at twenty of forty-five.** **THE VOLUME 15 FIGURE AND THE MANUSCRIPT TOTAL
 WERE RE-DERIVED PER FILE BY THE VERIFICATION PASS OF 2026-10-03 OVER BATCH 0003, WHICH SPENT NINE WORDS
 REPAIRING TWELVE DATE, COUNT AND SPELLING DEFECTS ACROSS SIX MORNINGS AND WITHDRAWS 75,539 AND
 1,991,148 BY NAME; 23,205 IS THE BATCH FIGURE AND THE PER-FILE FIGURES ARE 2,706, 2,311, 1,932, 2,196,

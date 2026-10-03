@@ -1103,5 +1103,32 @@ The four permanent losses are four. The second place is still without water and 
 ### 17d. The three findings this batch adds to this layer
 
 1. **THE SLIDING READING RETURNED ONE HUNDRED AND THIRTY-TWO SHAPES AND A HUNDRED AND SIXTY-ONE EXCESS ON THE FIRST DRAFT OF THIS BATCH, WITH THE WHOLE-PARAGRAPH READING RETURNING THE SAME NUMBER, AND THE CAUSE WAS ONE CLOSING PARAGRAPH PER MORNING CARRYING THE SAME FLOORS IN THE SAME CLAUSE ORDER IN THE SAME WORDS.** The repair was to scatter the floors and cut them down to what each morning's business touches, which is the same repair the batch behind made to its own first draft. **THE BATCH NOW RETURNS ZERO AND ZERO ON BOTH READINGS. A HOLDER THAT FIXED THE FRAME ONCE HAS NOT FIXED IT, AND A SUCCESSOR THAT MEASURES WILL FIND IT IN ITS OWN FIRST DRAFT.**
-2. **THE PARITY OF THE SPLIT WINDOW HALVES IS A FIGURE-CLASS ERROR AND NEITHER GATE NOR THE FIGURE CHECK CAN SEE IT.** Four mornings of this batch gave the rising half as the one that came on a morning when the falling half was the one that came, and both figures were printed in both readings in every case, so every measurement returned clean. **THE BINDING RUN IS: ON AN ODD MORNING THE FALLING HALF IS THE ONE THAT CAME AND THE RISING HALF STOOD, ON AN EVEN MORNING THE OTHER WAY, AND IT IS THE DIRECTION AND NOT THE PAIR THAT A WRITER GETS WRONG.**
+2. **THE PARITY OF THE SPLIT WINDOW HALVES IS A FIGURE-CLASS ERROR AND NEITHER GATE NOR THE FIGURE CHECK CAN SEE IT.** Four mornings of this batch gave the rising half as the one that came on a morning when the falling half was the one that came, and both figures were printed in both readings in every case, so every measurement returned clean. **THE BINDING RUN IS: ON AN ODD MORNING THE FALLING HALF IS THE ONE THAT CAME AND THE RISING HALF STOOD, ON AN EVEN MORNING THE OTHER WAY, AND IT IS THE DIRECTION AND NOT THE PAIR THAT A WRITER GETS WRONG. IT IS PRINTED IN THAT DIRECTION ON NINE OF THE TEN MORNINGS AND NOT ON THE TENTH: at day nine hundred and sixty-two, an even morning, `chapter-0749.md:27` gives the rising half as the one that came, both figures on that morning are correct, and Kellan Rusk says the pair from his own head and names the error himself in his own mouth. THAT IS A CHARACTER GETTING HIS OWN PAIR BACKWARDS AND SAYING SO AND IT IS NOT A BREACH IN THE SERIES, AND A SUCCESSOR MAY NOT CHANGE THAT LINE AND MAY NOT CARRY THE INVERSION FORWARD AS A STANDING.**
 3. **A FLOOR NAMED ON EVERY MORNING IN THE SAME WORDS IS NOT A FLOOR NAMED.** The compost line is named on three mornings of this batch, the tap joint on three, the man of about seventy on three, the ladder on five and the door nine hundred yards off on three, each in that morning's own words and its own order. **EVERY FLOOR ON EVERY CARD OF THIS BATCH IS UNMOVED ON ALL TEN MORNINGS, AND THE PROOF IS THE ABSENCE OF A MOVE AND NOT THE RECITAL.**
+
+---
+
+## 18. The review-repair pass over Volume 16 Batch 0002, 2026-10-03
+
+**NO PROSE WAS WRITTEN AND NO MORNING WAS RESTARTED AND NO FIGURE OF ANY SERIES WAS MOVED.** The full account is at
+`state/current.md` section twenty-three. What belongs in this file is the one thing a successor writing the twenty-first
+morning onward has to carry in its own head before it touches a board, and it is a figure fact and not a plot fact.
+
+**THREE SERIES ARE ANCHORED IN THIS VOLUME AND NOT AT THE DAY-899 STANDINGS, AND TWO OF THE THREE WERE RE-ANCHORED
+DELIBERATELY BY `outline/volume-16.md` WITH THE VALUES PRINTED ON THE FACE OF `outline/batches/volume-16-cards.md`.** The
+read-aloud numerator is **a hundred and ninety-six at day nine hundred and forty-nine** and one more on every odd morning
+after it, reaching two hundred and five at day nine hundred and sixty-seven and two hundred and ten at day nine hundred and
+seventy-seven. The two reckonings stand at **one hundred and sixth and ninety-third at the boundary** and step by one on
+every fourth-line morning, so the first prints 107 at day nine hundred and fifty, 108 at 954, 109 at 958, 110 at 962, 111 at
+966, 112 at 970, 113 at 974 and 114 at 978, and the second reaches **exactly one hundred at day nine hundred and seventy-four**
+and is carried rather than printed on any morning that prints the first. The count in force is **not** re-anchored: it runs
+continuously from a hundred and sixty-three at the boundary to one hundred and sixty-four at day nine hundred and fifty and
+one hundred and seventy-four at the last fourth-line morning of the volume.
+
+**A SUCCESSOR WHO RE-DERIVES THE NUMERATOR OR EITHER RECKONING FROM THE DAY-899 TABLE AT `state/current.md` SECTION TWO
+WILL FIND A GAP OF TWENTY-FOUR AND OF FIVE, AND THAT GAP IS IN THE TABLE.** The pages behind, both self-checks and every card
+agree with each other. **NO FIGURE IS TO BE MOVED BACK ONTO THE DAY-899 SERIES AND NO CLOSED MORNING IS TO BE REWRITTEN TO
+CLOSE THE GAP**, because closing it would destroy the numerator's exit from its own range at exactly two hundred on the ninth
+morning, which is the volume's registered hazard, and would put a twenty-five figure jump on a board a character writes in
+chalk every odd morning. This is recorded in the state layer because a pass that has not read it will spend its budget
+re-deriving the same gap and reach the same wrong conclusion.
