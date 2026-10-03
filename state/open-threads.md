@@ -1,12 +1,13 @@
 # Open Threads
 
-**Budget: about two thousand six hundred words, raised from about two thousand two hundred by the
-review-fix pass of 2026-10-02. Read this file whole. Figures are in
+**Budget: about two thousand seven hundred words, raised by the review-fix pass of 2026-10-02 and
+raised again by the Volume 14 close of 2026-10-03, whose detail is at
+`reviews/volume-14-close.findings.md`. Read this file whole. Figures are in
 `state/current.md`, the story is in `state/continuity.md`, and the archived layer at
 `reviews/state-archive-2026-10-02/` holds the per-thread detail for every row below.**
 
-Last rewritten 2026-10-02 on Batch 0005, the closing batch of Volume 14, and again on the
-review-fix pass over it. **Volume 14 is closed.**
+Last rewritten 2026-10-03 by the Volume 14 close, which wrote no prose, closed none of the
+thirty-five, and re-derived every figure it restated. **Volume 14 is closed.**
 
 ---
 
@@ -66,7 +67,9 @@ needs to avoid breaking one.
 34. The valley of the middle, the pulse, the not knowns counted as six. **Six not knowns at six on the last morning of Volume 14, no unit for any, and no seventh added.**
 35. What the wood keeps, and what it cost. Opened, worked and left open. Said once.
 
-**THE THIRTY-FIVE ARE THIRTY-FIVE OUT OF VOLUME 14. NO CLOSE MAY CLOSE ONE.**
+**THE THIRTY-FIVE ARE THIRTY-FIVE OUT OF VOLUME 14, UNCHANGED ACROSS FIVE BATCHES AND FORTY-NINE
+MORNINGS, AND THAT IS THE ONLY FIGURE THAT MAY BE PUBLISHED FOR THEM. NO CLOSE MAY CLOSE ONE, AND THE
+VOLUME 14 CLOSE CLOSED NONE.**
 
 ---
 
@@ -165,10 +168,20 @@ Days 891 to 899, files `chapter-0678.md` to `chapter-0686.md`, the closing batch
 9. **THE CLOSING BATCH'S FOUR IN-BETWEEN LOCKED FIGURES ARE SPENT AND BOTH ALLOWANCES ARE AT THEIR
    CAP.** Days 891, 893, 894 and 896, at most one on any morning, none on the closing morning, and
    the closing morning spoke both. **Volume 15 starts with nothing in between spent and may not
-   spend either figure on any morning but its own first and its own last.** The override of the
-   card set's prohibition on seven cards is recorded in
-   `workspace/volume-14/batch-0005/SELF-CHECK.md` section two, which is where a reader finds the
-   reason.
+   spend either figure on any morning but its own first and its own last, and may not spend them both
+   on one morning except on those two.** The override of the card set's prohibition on seven cards
+   is recorded in `workspace/volume-14/batch-0005/SELF-CHECK.md` section two, which is where a reader
+   finds the reason.
+10. **THE VOLUME 14 CLOSE'S OWN FINDINGS, 2026-10-03, NONE REPAIRED AND NONE DROPPED.** The full
+    record is `reviews/volume-14-close.findings.md` and the nine named items are at its section 7.
+    **THE TWO THAT A WRITER IN VOLUME 15 IS MOST LIKELY TO WALK INTO ARE THESE.** The first is the
+    plan's read-aloud column, which prints the wrong spelling on all twenty-five of its rows and is a
+    completed phase's file, so a writer who derives from the table rather than from the rule writes
+    the window half's form on every odd morning. The second is the unit of the launder, which is
+    printed with a space on all fifty-three of its occurrences across forty-nine mornings while the
+    rule that governs it says attached, and **a close that "corrects" the state layer to the attached
+    form would be introducing a form that appears on no page.** The third is the compost line, which
+    the plan calls the only figure that moves downward and which went up.
 
 ---
 

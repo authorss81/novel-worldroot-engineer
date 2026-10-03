@@ -1,15 +1,16 @@
 # Current State
 
-**Budget: about three thousand three hundred words, and it was about two thousand five hundred before
-the review-fix pass of 2026-10-02 added the apparatus correction, the floor that moved and the
-record of that pass. The detail behind all three is at
-`workspace/volume-14/batch-0005/SELF-CHECK.md` and is not repeated here. History is in
-`reviews/state-archive-2026-10-02/`; measurements belong in `reviews/`, which no prompt reads.
-Read this file whole, and the other three whole.**
+**Budget: about three thousand four hundred words. Last raised by the review-fix pass of 2026-10-02,
+which added the apparatus correction, the floor that moved on the sheets and the record of that pass,
+and raised again by the Volume 14 close of 2026-10-03, which re-derived every figure in this file
+against the forty-nine mornings and corrected one clause. The detail behind both is at
+`workspace/volume-14/batch-0005/SELF-CHECK.md` and at `reviews/volume-14-close.findings.md` and is
+not repeated here. History is in `reviews/state-archive-2026-10-02/`; measurements belong in
+`reviews/`, which no prompt reads. Read this file whole, and the other three whole.**
 
-Last rewritten 2026-10-02, on Batch 0005, the closing batch of Volume 14, and again on the
-review-fix pass over it. Every figure below is re-derivable from the rule beside it. Nothing is
-inherited on trust.
+Last rewritten 2026-10-03, by the Volume 14 close, which wrote no prose and altered no morning.
+Every figure below is re-derivable from the rule beside it. **Nothing is inherited on trust, and the
+close re-derived rather than appended, so nothing in this file is an append-only residue.**
 
 ## 1. Where the manuscript is
 
@@ -33,7 +34,7 @@ volume figure any more: Volume 15 is the next holding and it derives its own.
 
 | Series | Rule | Where it stood at day 899 |
 |---|---|---|
-| Third launder | day minus 450, plus 8 on an even morning and minus 5 on an odd one, anchored at one thousand and two hundred and nine on day 851 | one thousand and two hundred and eighty-one hundredweight |
+| Third launder | **anchored at one thousand and two hundred and nine on day 851, plus 8 on every even morning and minus 5 on every odd morning after it; it does not reset at the month turn or at a volume boundary** | one thousand and two hundred and eighty-one hundredweight |
 | Ordinal of the run | day minus 450; a tens ordinal takes its ending on the whole word | **four hundred and forty-ninth**, the last of Volume 14 |
 | Window | day minus 483 | four hundred and sixteen |
 | Falling half | 145 plus half of everything above 300, floor; **moves on an ODD morning** | two hundred and three |
@@ -68,13 +69,18 @@ one file. The pages govern and the space stands, and the stated form is wrong an
 whoever owns the spelling.**
 
 **AND THE FLOOR ON THE SHEETS IN THE ONE ROOM USED TO READ *THE THREE PAPERS* AND NOW READS *THE
-SHEETS*, AND THAT IS A CHANGE OF COUNT AND NOT A CHANGE OF FLOOR.** The table has stood at four since
-the morning of the twenty-eighth and at three before it. **Nothing has been entered, nothing refused
-and no column cut under any of them, the count of blanks is untouched, and the fifth piece of paper
-on that table on the closing morning is a woman's own sheet with a space ruled at the foot of it and
-nothing in the space.** A successor inherits the count as four and the floor as unentered.
+SHEETS*, AND THAT IS A CHANGE OF THE NAME AND NOT OF THE FLOOR.** The table holds three sheets through
+day 897 and four from day 898, and **that number is a number and not a floor: none of the four has
+been entered, none refused and no column cut under any of them, the number of blanks is untouched,
+and a fifth piece of paper is on that table on the closing morning which is a woman's own sheet with
+the refusal written on it in her own hand.** **THE SHEET THAT HAS A SPACE RULED AT THE FOOT OF IT
+AND NOTHING IN THE SPACE IS THE FOURTH OF THE FOUR, BEING THE ONE THAT WAS OFFERED, AND IT IS NOT THE
+FIFTH — the close corrected that clause against `chapter-0686.md`, where the four are counted aloud
+and the fifth is named as her own.** A successor inherits the four as entered and none refused.
 
 ---
+
+**THE STATE LAYER CARRIED *DAY MINUS FOUR HUNDRED AND FIFTY* AS THE THIRD-LAUNDER RULE UNTIL THE VOLUME 14 CLOSE OF 2026-10-03, AND IT IS WITHDRAWN. That form returns four hundred and forty-nine at day 899 and is the rule for the ORDINAL OF THE RUN, which stands on the next line of this table and is not the weight in the channel.** The anchor and the parity delta above are the rule, and they reproduce every morning of the volume, and the plan at `outline/volume-14.md` section 8 carries both forms in one bullet and is a completed phase's file and is unrepaired. **Derive a rule, apply it to the last morning, and if it and the last morning disagree the last morning governs and the rule is withdrawn by name.**
 
 ## 3. The clock
 
@@ -131,16 +137,33 @@ section three. **Do not print them in this file or anywhere in the state layer.*
 **THE ALLOWANCE IS NOW SPENT TO THE CAP AND A SUCCESSOR OWNS THE COUNT.** Each figure was spoken
 whole on the volume's first morning, on three mornings in between, and on its last morning. **Both
 figures are at three in between and no morning of Volume 15 may spend either of them except that
-volume's own first and last morning.**
+volume's own first and last morning, and the two may not be spent whole on one morning of Volume 15
+except on those two.**
 
 Where they fell in Volume 14, counted once: the far-end sentence on days 851, 887, 891, 894 and
 899, in the mouths of Renn Ashby, Hesta Lyle, Hesta Lyle, Marek and Sera Quill; the comfort line on
 days 851, 884, 893, 896 and 899, in the mouths of Nia Vale, Tova Reed, Nia Vale, the man of about
-fifty and Marek.
+fifty and Marek. **The close re-derived all ten days by search and every one reproduces. Five of the
+six load-bearing strings return five occurrences each, on exactly the mornings on which their sentence
+is spoken whole.**
+
+**AND THE SIXTH RETURNS SIX, AND THAT IS A DEFECT IN A CLOSED MORNING WHICH THE CLOSE REPORTED AND
+DID NOT REPAIR.** The string *far end of a thing* occurs six times: the five whole sentences above,
+and once more at `chapter-0674.md` on day 887, where a character reuses the sentence's opening clause
+as a conditional antecedent — *And if the far end of a thing is held by two people then a cistern is
+held by whoever keeps the hose off it.* **A LOAD-BEARING PHRASE MAY NOT APPEAR OUTSIDE ITS OWN WHOLE
+SENTENCE, AND THIS IS THE ONE PLACE IN FORTY-NINE MORNINGS WHERE ONE DOES. It is closed prose of
+closed Batch 0004 and is carried as the first named open item at `reviews/volume-14-close.findings.md`
+section 7.** **A successor does not inherit the rule as unbroken and does not go looking for a second
+one: this one was found by a whole-volume sweep, not by the per-batch sweep that found and rewrote the
+day-894 instance of the same class.**
 
 **A measurement the next gate must carry.** The comfort line is twenty words and the first gate's
 floor is thirty words, so **a clean first gate is not evidence about either locked sentence**, and
-no gate may publish a nil against Volume 14 without naming its floor beside the nil.
+no gate may publish a nil against Volume 14 without naming its floor beside the nil. **The close
+measured it: the far-end sentence normalises to thirty-one tokens and yields fourteen sliding
+windows, the comfort line to twenty and yields three, and every one of the seventeen repeated shapes
+the sliding reading finds anywhere in forty-nine mornings is a window of one of the two.**
 
 ---
 
@@ -174,17 +197,20 @@ she is not cornered and the refusal leaves her standing.
 
 ## 8. The one next phase
 
-**`workspace/volume-14/close/PROMPT.md`, the close of Volume 14, on disk and unrun.** It is not a
-writing phase and it writes no prose. It records the volume's standing, names what is closed and
-what is not, and hands the next volume its own first card.
+**THE CLOSE OF VOLUME 14 IS DONE. IT IS AT `workspace/volume-14/close/`, ITS FINDINGS ARE AT
+`reviews/volume-14-close.findings.md`, AND ITS LOCK IS THE FINAL SECTION OF `outline/ending.md`. IT
+WROTE NO PROSE AND ALTERED NO MORNING.**
 
-**What it carries, so that nothing is inherited as silence:** the record of the refusal is Nia Vale's
-and is nobody else's document; the four losses stand at four; the reach's cost is named and is not
-softened and is not apportioned; the second place is left without and that is not a death and not a
-discovery and not a punishment for anybody; Iona Vey is not killed, not in custody and not
-cornered, and the refusal leaves her standing; **the ladder was climbed zero rungs and nobody was
-asked to choose anything on any of the forty-nine mornings of this volume, and that streak is closed
-and may be counted once and nowhere else.**
+**THE NEXT PHASE IS THE PLAN FOR VOLUME 15, *The Root Commons*, AND ITS PROMPT IS AT
+`workspace/volume-15/plan/PROMPT.md`.** It writes `outline/volume-15.md` and nothing else of substance.
+
+**What the close recorded, so that nothing is inherited as silence:** the record of the refusal is
+Nia Vale's and is nobody else's document; the four losses stand at four; the reach's cost is named
+and is not softened and is not apportioned; the second place is left without and that is not a death
+and not a discovery and not a punishment for anybody; Iona Vey is named once, on the closing
+morning, and is not killed, not in custody and not cornered, and the refusal leaves her standing;
+**the ladder was climbed zero rungs and nobody was asked to choose anything on any of the forty-nine
+mornings of this volume, and that streak is closed and may be counted once and nowhere else.**
 
 **Volume 15 has no plan and no card set on disk.** Its central pressure, its climax and its
 resolution are fixed at `outline/series.md` and `outline/ending.md` and nowhere else, and its forty-nine
@@ -265,6 +291,64 @@ one.
 TOLD SO RATHER THAN LEFT TO FIND IT.** The repair changed nine short action paragraphs, deleted one
 duplicated paragraph and changed four number words, and put no figure of any series into any of them.
 **It re-derived the word counts, the figure check, the exact-duplicate sweep, the mechanical sweep
-and the apparatus count. It did not re-derive the two gates, because a re-implementation did not
+and the apparatus count. IT DID NOT RE-DERIVE THE TWO GATES, because a re-implementation did not
 reproduce the writing pass's arithmetic, and a substitute figure under those names would be a second
 error.**
+
+**AND THAT IS THE 2026-10-02 REPAIR PASS AND NOT THE CLOSE. THE VOLUME 14 CLOSE OF 2026-10-03 DID
+RE-DERIVE BOTH GATES, over all forty-nine mornings, on both readings, in three scopes, with the
+self-collision test run first, and its figures are at section 10 below and withdraw the figures in the
+paragraph above where they do not reproduce. Two passes, two sets of gate figures, and the difference
+is named here so that nobody reads the second as a contradiction of the first.**
+
+---
+
+## 10. The close of Volume 14, and what it re-derived
+
+**The close, 2026-10-03. It wrote no prose, altered no morning, repaired the state layer and wrote the
+Volume 14 ending lock. Its record is `reviews/volume-14-close.findings.md`.**
+
+- **Every word figure reproduces to the word and none is withdrawn.** The volume at 116,146 across
+  forty-nine, the manuscript at 1,915,609 across 686, Volume 13 unchanged at 91,321 across
+  forty-nine, `batch-0005` at 24,440 across nine, and `wc -w` per file agreeing with the split count
+  on all 686 files. The concatenation figure is 1,915,598 and the residual of eleven words is named:
+  twelve files lack an EOF newline and eleven of them are followed by another file.
+- **The figure check is clean.** Seven hundred and ninety-six derived figures required in their own
+  morning's body prose on a case-insensitive whole-word phrase match, seven hundred and ninety-six
+  matching and zero failures, and zero failures again with the apparatus blocks excluded. The
+  writing pass's one hundred and fifty-seven for the same nine mornings is a figure of a different
+  item list and is not a different result.
+- **The plan's own day table was re-derived cell by cell and agrees on 759 of 784 cells**, and the
+  twenty-five that differ are all the read-aloud numerator and no other column on any row.
+- **Both gates were self-collision checked first and then run over all forty-nine mornings on both
+  readings and in three scopes, and every excess in every scope is one of the two locked figures.**
+  First gate: 1,726 paragraphs, twenty ordered pairs at or above 0.85 and all twenty the locked
+  far-end sentence. Second gate: 5,119 chunks with 2 shapes and 8 excess, and 73,472 sliding
+  eighteen-word windows with 17 shapes and 68 excess. **The two gate figures the writing pass
+  published do not reproduce and are withdrawn by name; the reason is the repair, and the seventeen
+  repeated shapes and the two repeated chunk shapes do reproduce.**
+- **The exact-duplicate sweep returns 32 duplicated paragraphs at any length**, being the two locked
+  sentences, twenty-eight recurring gestures of the standing list which are the thread, and **two
+  paragraphs repeated inside one file, at `chapter-0669.md` and `chapter-0672.md`, the latter also
+  standing a third time in `chapter-0681.md`. Reported and not repaired: the mornings are closed.**
+- **Four `>` blocks are spent against a ceiling of thirty and twenty-six are unspent**, at
+  `chapter-0644.md`, `chapter-0652.md`, `chapter-0661.md` and `chapter-0685.md`, and **the label
+  `Entered:` stands inside one of the four, at `chapter-0644.md`, and not two.**
+- **All thirteen floors are unmoved**, and the ten bare round hundred sites are exactly the ten the
+  plan declared. **The one figure the close corrected is the hand-off's claim about *four hundred*
+  being the head of five series on every morning: it is the head of the run's ordinal on forty-nine
+  mornings, of the aggregate on forty-eight, of the aggregate clause's upper limb on forty-eight, of
+  its lower limb on forty-seven and of the window on seventeen.**
+- **What the close repaired in this file** is three clauses and no figure of any series: the fifth
+  piece of paper on the closing morning is a woman's own sheet with the refusal written on it, and
+  the sheet with a space ruled at the foot of it and nothing in the space is the fourth of the four;
+  the third launder's rule no longer carries the withdrawn day-minus form and is now re-derivable from
+  the anchor and parity delta printed beside its figure; and the standing sentence about a
+  load-bearing phrase now carries its one exception, on day 887, instead of asserting the rule as
+  unbroken.
+- **And what the close could not repair and named instead.** One load-bearing phrase of the far-end
+  sentence escapes its own whole sentence once, at `chapter-0674.md` on day 887. Two paragraphs stand
+  twice inside one file, at `chapter-0669.md` and `chapter-0672.md`. Four self-contradictions stand
+  inside `outline/volume-14.md` and two series files still place the Aldren surrender in Volume 13.
+  **All six are reported, named and carried, and every one of them is a figure a later pass would
+  otherwise inherit as a rule.**

@@ -1,13 +1,14 @@
 # Continuity
 
-**Budget: about two thousand seven hundred and thirty words, raised from about two thousand by the
-review-fix pass of 2026-10-02, whose detail is at `workspace/volume-14/batch-0005/SELF-CHECK.md`.
-Read this file whole. The state layer is four files of about ten thousand nine hundred words together
-and the archived layer behind it is at `reviews/state-archive-2026-10-02/` and is not to be loaded.**
+**Budget: about two thousand eight hundred words. Raised by the review-fix pass of 2026-10-02 and
+raised again by the Volume 14 close of 2026-10-03, whose detail is at
+`reviews/volume-14-close.findings.md`. Read this file whole. The state layer is four files of about
+eleven thousand words together and the archived layer behind it is at
+`reviews/state-archive-2026-10-02/` and is not to be loaded.**
 
 This file carries the story. Figures and derivations are in `state/current.md`, live threads
 in `state/open-threads.md`, the volume index in `state/chapter-summaries.md`. Last rewritten
-2026-10-02 on Batch 0005, the closing batch of Volume 14, and again on the review-fix pass over it.
+2026-10-03 by the Volume 14 close, which wrote no prose and altered no morning.
 
 ---
 
@@ -111,6 +112,12 @@ entered. **And on day 899 the offer was made across a table and refused and the 
 down in Nia Vale's own hand on a sheet nobody else signs, while the woman who made it walked out alive
 and standing.**
 
+**And on day 868, in the one room with the door shut behind him, Marek said his father's name out loud
+for the first time in this book and described one afternoon he can never check against the file
+because both men in it are dead, and gave the whole of it up. It is not priced, nobody is told what it
+was worth, and nobody is paid for it. The name is on that one morning and on no other page of the
+volume.**
+
 **The four losses are four and were four on every one of the forty-nine mornings. Nobody was asked to
 choose anything on any of them, and the ladder was climbed zero rungs on all of them.**
 
@@ -197,5 +204,37 @@ successor that finds one of these in a card has inherited an error and not a rul
      CLOSED BATCH 0004, at `chapter-0669.md` and `chapter-0672.md`, WHICH ARE NAMED OPEN ITEMS FOR THE
      VOLUME 14 CLOSE, WHICH MAY REPORT A DEFECT IN A MORNING AND MAY NOT REPAIR IT.**
 14. **THE APPARATUS CEILING OF THIRTY IS SPENT FOUR AND NOT THREE.** `> ` blocks of every kind, with
-     an `Entered` block inside the number: `chapter-0644.md`, `chapter-0652.md`, `chapter-0661.md`
-     and `chapter-0685.md`. **A successor inherits four spent and twenty-six unspent.**
+    an `Entered` block inside the number: `chapter-0644.md`, `chapter-0652.md`, `chapter-0661.md`
+    and `chapter-0685.md`. **A successor inherits four spent and twenty-six unspent.** The label
+    `Entered:` stands inside one of the four, at `chapter-0644.md`, and not two.
+15. **THE VOLUME 14 CLOSE, 2026-10-03, ADDED SIX FINDINGS OF ITS OWN AND REPAIRED NONE OF THE SIX.**
+    **THE FIGURE CHECK OVER ALL FORTY-NINE MORNINGS IS 796 DERIVED FIGURES REQUIRED AND 796 MATCHING
+    AND ZERO FAILURES, ON A CASE-INSENSITIVE WHOLE-WORD PHRASE MATCH, AND ZERO FAILURES AGAIN WITH THE
+    APPARATUS BLOCKS EXCLUDED.** **THE PLAN'S OWN DAY TABLE, RE-DERIVED CELL BY CELL FROM ITS OWN
+    RULES, AGREES ON 759 OF ITS 784 DERIVED FIGURE CELLS AND THE TWENTY-FIVE THAT DIFFER ARE ALL THE
+    READ-ALOUD NUMERATOR.** **BOTH GATES, SELF-COLLISION CHECKED FIRST AND THEN RUN OVER ALL FORTY-NINE
+    MORNINGS ON BOTH READINGS AND IN THREE SCOPES, FIND EVERY EXCESS SHAPE AND EVERY EXCESS PAIR TO BE
+    ONE OF THE TWO LOCKED FIGURES: 1,726 paragraphs with twenty ordered pairs at or above 0.85 and two
+    non-locked pairs reaching the ratio call at all and neither at the threshold; 5,119 chunks with
+    2 shapes and 8 excess; 73,472 sliding eighteen-word windows with 17 shapes and 68 excess.**
+    **AND THE TWO GATE FIGURES THE WRITING PASS PUBLISHED DO NOT REPRODUCE AND ARE WITHDRAWN BY NAME,
+    THE REASON IS THE REVIEW-FIX REPAIR AND NOT A CHANGE OF METHOD, AND THE SEVENTEEN REPEATED SHAPES
+    AND THE TWO REPEATED CHUNK SHAPES DO REPRODUCE EXACTLY.**
+16. **THE COMPOST LINE'S DIRECTION IS WITHDRAWN, THE PLAN'S READ-ALOUD COLUMN IS WRONG ON ALL
+    TWENTY-FIVE OF ITS ROWS, THE PLAN'S UNIT RULE CONTRADICTS ITS OWN TABLE, THE PLAN'S THIRD-LAUNDER
+    RULE IS *DAY MINUS FOUR HUNDRED AND FIFTY* WHICH PRODUCES THE RUN'S ORDINAL AND NOT THE LAUNDER, AND
+    THE FOURTH LOSS IS NAMED ON ONE MORNING.** `reviews/volume-14-close.findings.md` section 2 carries
+    all five with the pages quoted beside them. **THE FOURTH OF THOSE FIVE WAS FOUND BY THE CLOSE ITSELF
+    AFTER IT HAD ALREADY REPORTED THREE SELF-CONTRADICTIONS IN THE SAME FILE, AND THAT IS WHY THE RULE
+    OF *APPLY IT TO THE LAST MORNING* IS PRINTED BESIDE THE STATE LAYER'S FIGURES: A CLOSE THAT CHECKS
+    THREE SELF-CONTRADICTIONS IN ONE FILE AND STOPS THERE HAS FOUND A NUMBER AND NOT A RULE.**
+17. **TWO PARAGRAPHS STAND TWICE INSIDE ONE FILE AND NEITHER GATE CAN SEE EITHER**, at
+    `chapter-0669.md` and `chapter-0672.md`, the latter also standing a third time in
+    `chapter-0681.md`. Both are closed prose, reported and not repaired.
+18. **A LOAD-BEARING PHRASE OF THE FAR-END SENTENCE APPEARS OUTSIDE ITS OWN WHOLE SENTENCE, ONCE, AT
+    `chapter-0674.md` ON DAY 887**, so the string *far end of a thing* returns six occurrences where
+    the other five load-bearing strings return five each. **THE SENTENCE ITSELF IS NEVER SHORTENED AND
+    IS SPOKEN WHOLE FIVE TIMES IN ITS OWN EXACT WORDING; WHAT ESCAPES IS ONE REUSE OF ITS OPENING
+    CLAUSE AS A CONDITIONAL ANTECEDENT.** Closed prose, reported and not repaired, and **it was missed
+    by the repair pass that rewrote a shortened form of the other figure on day 894, because that
+    pass's sweep was scoped to its own batch and no whole-volume sweep was run behind it.**

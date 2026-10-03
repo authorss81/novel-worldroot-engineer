@@ -28,7 +28,10 @@
 
 Titles are in `outline/volume-NN.md`. **686 files, 1,915,609 words.** Volumes 01 to 14 are closed.
 The word figure moves with every prose change and is measured per file with `len(text.split())`,
-never by concatenation.
+never by concatenation. **Every one of these figures was re-derived by the Volume 14 close on
+2026-10-03 and every one reproduces to the word.** `wc -w` per file agrees on all 686 files; the
+figure `cat` gives is 1,915,598 and the residual of eleven words is the twelve files that lack an
+EOF newline, eleven of which are followed by another file.
 
 **Volume 14 is the only volume with a plan and a card set, and it is closed.** For it, read
 `outline/volume-14.md`, then the card set, then the batch prompts, then the close prompt.
@@ -141,26 +144,42 @@ cards was overridden and the reason is at `workspace/volume-14/batch-0005/SELF-C
 
 ---
 
-## 5. What the close of Volume 14 owes the next volume
+## 5. What the close of Volume 14 did, and what Volume 15 now owns
 
-- **It may not repair any of the forty-nine mornings.** They are closed to every pass after the one
-  that wrote them, and a close may not edit a closed chapter or close one of the thirty-five.
-- **It may not pay the seed vault again, re-announce it, have anybody discover it, or describe her as
-  having given something up, thank her, apologise to her or put a hand on her arm.** It may not name
-  the fourth loss, recover it, soften it, or add a fifth permanent loss.
-- **It may not recover the Aldren memory, soften the ear, or bring Iona Vey into custody or kill her.**
-  She is named on the page once in this volume, and she is standing.
-- **It may not print a counter for the second rule other than the thirty-ninth time, a bare two hundred
-  for the charter, a bare three hundred for the register form or Silling's ruled line, a bare *a
-  hundred* for the letter, or *three hundred and fifty* in a read-aloud denominator.**
-- **It may not spell a read-aloud numerator in the window half's form, may not read a run on an even
-  morning, may not offer the door nine hundred yards off to anybody in a yard, and may not print an
-  allowance figure for the sixty-six.**
-- **It may not take a field, ask anybody to choose anything, or print a compost line as paid at thirty.**
-- **It may not spend either locked figure whole on any morning but the first and last of its own volume,
-  and may not spend them both on one morning except on those two.**
-- **It may not print a gate measurement it has not checked against a paragraph that must collide with
-  itself first, and may not publish a nil against Volume 14 without naming that gate's floor beside the
-  nil. A whole-batch exact-duplicate paragraph sweep is also owed and no gate does it.**
-- **Volume 15 has no plan and no card set on disk.** Its central pressure, its climax and its
-  resolution are fixed at `outline/series.md` and `outline/ending.md` and nowhere else.
+**THE CLOSE IS DONE. It is at `workspace/volume-14/close/`, its record is
+`reviews/volume-14-close.findings.md`, and its lock is the final section of `outline/ending.md`. It
+wrote no prose, altered no morning, closed none of the thirty-five, repaired the state layer and
+wrote exactly one successor.**
+
+**Volume 15 inherits, and may not contradict:**
+
+- **The record of the refusal is a woman's own sheet and nobody else's document.** The clerk keeps
+  copies and that is his trade and not this. The custody of the caretaker link is refused for the
+  whole of the rest of the book; the link is not destroyed and the network is not taken apart.
+- **The four losses stand at four.** The fourth is paid, once, on day 868, in his own mouth, and
+  its name is on that one morning and on no other page. It may not be named, recovered, softened or
+  priced again, and no fifth may be added by anybody for any reason.
+- **The reach's cost was named out loud at a gate post and is not softened, not apportioned and not
+  described as temporary.** The second place is left without, which is not a death, not a discovery
+  and not a punishment for anybody, and no way round it was discovered and none may be.
+- **Iona Vey is named once, on the closing morning. She is not killed, not in custody, not cornered
+  and not previewed, and the refusal leaves her standing.**
+- **The succession ladder was climbed zero rungs on all forty-nine mornings and nobody was asked to
+  choose anything on any of them. That streak is closed and is counted once, in the lock, and
+  nowhere else.**
+- **The sixty-six does not go back, was not read and was offered to nobody. A morning of a later
+  volume may still walk past that door.**
+- **Neither locked figure may be spent whole on any morning but its own volume's first and last, and
+  they may not be spent both on one morning except on those two.**
+- **Volume 15 has no card set on disk.** Its central pressure, its climax and its resolution are
+  fixed at `outline/series.md` and `outline/ending.md` and nowhere else. **No word-count band, no
+  projection and no length expectation is supplied here for it or for any volume that has not been
+  written, and `outline/volume-14.md` declined to carry one on its face, which is a decision and not
+  an omission.**
+
+**And the four things it may not inherit as silence:** the premise drift, which is the first item in
+the decision queue and which no writing phase may settle; the two series files that place the Aldren
+surrender in Volume 13, which a pass with the standing to edit them owes the correction; the house
+rule that every figure in body prose is spelled, which produced fourteen volumes of recitative
+register and which is a house-style decision a human takes; and the four in-between locked figures
+Volume 14 spent and the cap they reached.
