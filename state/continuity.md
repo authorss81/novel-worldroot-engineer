@@ -16,8 +16,10 @@ not to be loaded.**
 
 This file carries the story. Figures and derivations are in `state/current.md`, live threads
 in `state/open-threads.md`, the volume index in `state/chapter-summaries.md`. Last rewritten
-2026-10-03 by the review-fix pass over the Volume 14 close, which wrote no prose and altered no
-morning and moved no character and no figure of any series.
+2026-10-03 by the review-fix pass over Volume 15 Batch 0003, which wrote no prose, altered one
+morning by one sentence, moved no character and no figure of any series, and closed no thread.
+Before that by the Volume 15 Batch 0003 writing pass, and before that by the review-fix pass over
+the Volume 14 close, which wrote no prose and altered no morning.
 
 ---
 
@@ -445,7 +447,13 @@ not sign and said why.
 **AND WHAT THESE TEN MORNINGS DID TO THE CAST.** Ismay Rooke announced the refusal in about a minute and
 then named the price in the same voice and in the same order three people had used in that yard on the
 Sunday, and he told the engineer of record in public that the question he had been asked was whether it
-was wanted and not whether it was needed. Auret Sill asked for nothing, was given nothing to do with
+was wanted and not whether it was needed. **The five went up the middle road together with him in front
+and he did not stop at the boards, and they went down it in an order the page now states exactly, with
+Auret Sill first and Hanne Brack with her, Perrin Dae and Emrys Dole on up the road behind them, and
+Ismay Rooke past the boards last of the five, not stopping there either; the yard watched them go and did
+not rank them and could not hear what the woman who keeps the pumps said two hundred yards up that road
+to the woman whose house is at the end of it, and did not try.**
+Auret Sill asked for nothing, was given nothing to do with
 what she had said, and asked on her way down the road whether the second place keeps the read-aloud pair,
 and was told no, and said that she had been meaning to say that to somebody for four months. Hanne Brack
 read three lines of the standing at her own table at the second place and did not send them back.

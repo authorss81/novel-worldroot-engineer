@@ -8,7 +8,10 @@ and corrected one count in section five without touching a morning, a figure of 
 figure. Raised a fourth time by the Volume 15 Batch 0001 writing pass of 2026-10-03, which added
 section six; **that pass's edit re-declared the budget and left the earlier declaration standing
 underneath it, and the review-fix pass over that batch removed the second declaration so that this
-file carries one figure and not two.** Read this file whole. The archived layer at
+file carries one figure and not two. Raised a fifth time by the Volume 15 Batch 0003 writing pass of
+2026-10-03, which added section eight, and a sixth time by the review-fix pass over that batch, which
+re-derived the two Volume 15 word figures, corrected the successor note in section eight, and added
+section nine.** Read this file whole. The archived layer at
 `reviews/state-archive-2026-10-02/chapter-summaries.md` holds the full per-batch history.**
 
 ---
@@ -31,11 +34,15 @@ file carries one figure and not two.** Read this file whole. The archived layer 
 | 12 | 540 to 588 | 49 | 118,058 |
 | 13 | 589 to 637 | 49 | 91,321 |
 | **14** | 638 to 686 | **49** | 116,146 |
-| **15** | 687 to 735 | **30 of 49 written** | **75,574** |
+| **15** | 687 to 735 | **30 of 49 written** | **75,615** |
 | 16 | 736 to 780 | 0 | 0 |
 
-Titles are in `outline/volume-NN.md`. **716 files, 1,991,190 words.** Volumes 01 to 14 are closed.
-**Volume 15 is open at thirty mornings of forty-nine.**
+Titles are in `outline/volume-NN.md`. **716 files, 1,991,224 words.** Volumes 01 to 14 are closed.
+**Volume 15 is open at thirty mornings of forty-nine.** **THE TWO VOLUME 15 FIGURES AND THE MANUSCRIPT
+TOTAL WERE RE-DERIVED BY THE REVIEW-FIX PASS OF 2026-10-03 OVER BATCH 0003, WHICH FOUND THE VOLUME 15
+WORD FIGURE UNDERSTATED BY FORTY-ONE WORDS AND THE TOTAL BY THE SAME THIRTY-FOUR WORDS THE REPAIR ADDED
+TO ONE MORNING. THE MORNING COUNT OF THIRTY AND THE FILE COUNT OF SEVEN HUNDRED AND SIXTEEN WERE
+RE-DERIVED TOO AND BOTH STAND.**
 The word figure moves with every prose change and is measured per file with `len(text.split())`,
 never by concatenation. **The fourteen Volume 14 figures in this table, the Volume 13 figure and the
 manuscript total as it stood at 1,915,609 across 686 files were re-derived by the Volume 14 close on
@@ -354,10 +361,27 @@ terms and its third column, and the use log and the reason for the fifteen.**
 
 ## 8. Volume 15, mornings twenty-one to thirty, one line each
 
-**Batch 0003, days 920 to 929, files 707 to 716. Twenty-three thousand one hundred and seventy-three
-words. No morning restarted. This batch created no successor prompt, because the pipeline creates it.
-Day 929 is not the closing morning of the volume and nothing in these ten mornings is written as one,
-and the volume's major turn falls inside them on day 927.**
+**Batch 0003, days 920 to 929, files 707 to 716. Twenty-three thousand two hundred and fourteen words.
+No morning restarted. Day 929 is not the closing morning of the volume and nothing in these ten mornings
+is written as one, and the volume's major turn falls inside them on day 927.**
+
+**THE MORNING NUMBERS ON THIS HEADING WERE RE-DERIVED BY THE REVIEW-FIX PASS OF 2026-10-03 AND THEY
+STAND. Day 920 is the twenty-first morning of this volume and day 929 is the thirtieth, because day 900
+is its first morning and a morning is a day and not a difference, and `chapter-0716.md` is headed *The
+Twenty-Ninth Of The Nineteenth*, which is day 929, and the three batches of this volume are headed
+*Thirtieth Of The Eighteenth* to *Ninth Of The Nineteenth*, *Tenth Of The Nineteenth* to *Nineteenth Of
+The Nineteenth*, and *Twentieth Of The Nineteenth* to *Twenty-Ninth Of The Nineteenth*. A REVIEW THAT
+READ THOSE FOURTY CHAPTERS AND CALLED DAYS 920 TO 929 MORNINGS THIRTY-ONE TO FORTY WAS OFF BY TEN ON
+BOTH ENDS, AND ITS COMPLAINT THAT THIS HEADING MISLABELLED TEN MORNINGS AS TWENTY WAS A COMPLAINT
+AGAINST A CORRECT HEADING. THE NEXT BATCH IS MORNINGS THIRTY-ONE TO FORTY AT DAYS 930 TO 939 AND ITS
+HEADING IS THE ONE THAT HAS TO BE ADDED WHEN IT IS WRITTEN.**
+
+**AND THIS BATCH DID NOT CREATE ITS SUCCESSOR, ON A GROUND THAT IS FALSE, AND THE SUCCESSOR NOW EXISTS.**
+The batch behind this one created its own successor prompt in the same run that wrote its ten mornings,
+and Volume 14 shipped five batches and a close with a prompt on disk before each of them ran. **The
+review-fix pass of 2026-10-03 created `workspace/volume-15/batch-0004/PROMPT.md`, which is mornings
+thirty-one to forty at days 930 to 939 and files 717 to 726, and Volume 15 now has a prompt waiting for
+it instead of stopping at morning thirty of forty-nine.**
 
 - **920**, Tuesday, the twentieth. **The far board has a tail again** at nine hundred and one and nobody
   in that yard says a word about it, and the standing with a neighbour is counted in a doorway with a
@@ -429,3 +453,50 @@ of them to a figure. **A council that keeps no book is not an answer. A notice t
 particular is not an answer. A neighbour saying no to a bridge is not an answer. Four terms that bind
 nobody who does not sign them are not an answer, and the four are the same four that were standing
 before anybody in this holding wrote a word of them, and not a fifth and not a sixth.**
+
+---
+
+## 9. The review-fix pass over Batch 0003, and what it changed and what it did not
+
+**ONE PROSE MORNING WAS TOUCHED AND IT IS `chapter-0714.md`, THE VOLUME'S MAJOR TURN MORNING, AND THE
+TOUCH IS ONE SENTENCE.** The five went up the middle road together with Ismay Rooke in front, and on the
+way down the page named Auret Sill first and Hanne Brack with her and then left the other three
+unaccounted for, **in the one chapter whose force depends on the refusal being exact and in which one of
+the five says his last words *before he went*.** One clause now closes the order: Perrin Dae and Emrys
+Dole go on up the road behind them, and Ismay Rooke comes past the boards last of the five and does not
+stop at the boards that morning either. **The refusal, its price, the two things the five will do
+instead, the engineer of record's answer, the woman with eleven gallons a day and the seven on the sill
+are all untouched, and no figure of any series moved, and the chapter gained thirty-four words.**
+
+**THE THREE FIGURES THAT PROSE TOUCHED ARE NOW 23,214 FOR THE BATCH, 2,753 FOR THAT CHAPTER, 75,615 FOR
+THE VOLUME AND 1,991,224 FOR THE MANUSCRIPT, AND THE EARLIER FIGURES OF 23,173, 23,180, 2,719, 75,574
+AND 1,991,190 ARE WITHDRAWN BY NAME.** Both gates were re-run against the whole batch after the repair:
+**513 prose paragraphs of eight words or more, all distinct, and zero repeated eighteen-word windows
+inside the batch.** The nil still stands.
+
+**FOUR THINGS THE REVIEW FOUND ABOUT THE CRAFT OF THIS BATCH WERE NOT REPAIRED IN THE CHAPTERS AND WERE
+PUT IN THE NEXT BATCH'S PROMPT INSTEAD, BECAUSE THEY ARE BATCH-WIDE AND A PER-CHAPTER REPAIR OF THEM WOULD
+RESTATE THE PROSE.** They are that the batch's texture is stat-recital rather than scene, that nine
+recurring characters share one sentence construction, that all ten mornings close on the same
+accumulation paragraph, and that a heading has grown long enough to name the beat its own morning
+performs. **`workspace/volume-15/batch-0004/PROMPT.md` section six carries the standing brief that fixes
+all four, and section six also says plainly what is not to be changed, which is the figures: the
+bookkeeping in these forty chapters was reproduced independently and it held, and it is not to be
+softened to make the prose easier.**
+
+**AND ONE FIGURE THE BATCH'S OWN SELF-CHECK PUBLISHED WAS NOT REPRODUCED AND IS NOT INHERITED.** It
+reported nine repeated paragraphs inside Volume 15 from a whole-volume exact-duplicate sweep. **Re-run at
+a floor of eight words, Volume 15 returns three repeated paragraphs and all three are inside Batch 0001,
+being a thumb put under a ruled line and left there twice over, a thumb put under the lower line twice,
+and a man shutting the rack and then standing with his hand on the door twice. None is inside this batch
+and none touches the sentence added to `chapter-0714.md`.** The finding the self-check was reaching is
+real and is recorded, and the count is not: **a standing block written by hand is mostly gesture, the
+gate's floor of thirty words cannot see it, and the sweep has to be run rather than the number believed.**
+
+**AND TWO CLAIMS THE REVIEW MADE ARE RECORDED AS NOT TRUE, BECAUSE A LATER PASS WILL MEET THEM AGAIN.**
+The review held that this file's section eight heading mislabelled ten mornings as twenty and that the
+manuscript table was one batch behind, **and both were consequences of its own arithmetic, which placed
+days 920 to 929 at mornings thirty-one to forty instead of twenty-one to thirty.** Its figure checks,
+its duplicate-paragraph nil, its eighteen-word-window nil and its parity checks were all reproduced and
+all stand. **THE ONE FINDING OF ITS THAT WAS NEW AND WAS RIGHT IS THE CRAFT ONE, AND THAT IS THE ONE
+THAT HAS BEEN ACTED ON.**

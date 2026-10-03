@@ -68,7 +68,7 @@ She turned round to the yard rather than to the five.
 
 Nobody thanked anybody and the five went down the middle road at about the seventh hour.
 
-Auret Sill went first and Hanne Brack went with her, and about two hundred yards up that road the woman who keeps the pumps at the second place stopped and said something to the woman whose house is at the end of it, and the yard on this side of the wall could not hear what it was, and did not try.
+Auret Sill went first and Hanne Brack went with her, and about two hundred yards up that road the woman who keeps the pumps at the second place stopped and said something to the woman whose house is at the end of it, and the yard on this side of the wall could not hear what it was, and did not try. Perrin Dae and Emrys Dole went on up the road behind them, and Ismay Rooke came past the boards last of the five, and he did not stop at the boards that morning either.
 
 Then the yard did the only thing it knew how to do with a morning.
 

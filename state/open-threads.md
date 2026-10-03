@@ -8,14 +8,20 @@ Volume 15 plan phase to the directory name this tree uses for one, and corrected
 Raised a fourth time by the Volume 15 Batch 0001 writing pass of 2026-10-03, which added section six;
 **that pass's edit re-declared the budget and left the earlier declaration standing underneath it,
 and the review-fix pass over that batch removed the second declaration so that this file carries one
-figure and not two.**
+figure and not two. Raised a fifth time by the Volume 15 Batch 0002 writing pass of 2026-10-03, which
+added section seven, a sixth time by the Volume 15 Batch 0003 writing pass, which added sections nine and
+ten, and a seventh time by the review-fix pass over that batch, which added section eleven and which
+added a standing for the one relationship this file does not carry and may not number.**
 Read this file whole. Figures are in
 `state/current.md`, the story is in `state/continuity.md`, and the archived layer at
 `reviews/state-archive-2026-10-02/` holds the per-thread detail for every row below.**
 
-Last rewritten 2026-10-03 by the review-fix pass over the Volume 14 close, which wrote no prose,
-closed none of the thirty-five, moved no figure of any series, and added no thirty-sixth. **Volume 14
-is closed.**
+Last rewritten 2026-10-03 by the review-fix pass over Volume 15 Batch 0003, which wrote no prose,
+closed none of the thirty-five, moved no figure of any series, added no thirty-sixth, and added
+section eleven. Before that by the Volume 15 Batch 0003 writing pass, and before that by the Volume 15
+Batch 0002 writing pass, and before that by the review-fix pass over the Volume 14 close, which wrote no
+prose, closed none of the thirty-five, moved no figure of any series, and added no thirty-sixth.
+**Volume 14 is closed.**
 
 ---
 
@@ -503,3 +509,79 @@ be told about.**
    The pages carry all one hundred and sixty and the check returns one hundred and sixty required, one
    hundred and sixty matching and zero failures. **A successor derives the total from the card set's item
    list at its section ten and never from a figure any prompt prints.**
+
+---
+
+## 11. Five findings of the review-fix pass over Volume 15 Batch 0003, named here so that a successor inherits them
+
+**NONE IS REPAIRED IN ANOTHER FILE, NONE IS A THIRTY-SIXTH, AND NONE OF THE THIRTY-FIVE IS ANSWERED,
+CLOSED, GROUPED, SUMMED OR ADVANCED BY THIS SECTION.**
+
+**ONE, THE RELATIONSHIP BETWEEN THE ENGINEER OF RECORD AND THE SEED KEEPER IS NOT CARRIED IN THIS FILE
+AND WAS NOT CARRIED IN IT BEFORE, AND IT IS OWED A STANDING ANYWAY. IT IS NOT A THREAD.** The bible makes
+the seed keeper the slow-burn partner of the engineer of record, with milestones running through Volumes
+Nine to Twelve, and **the word *Marek* stood at zero occurrences in this file at Volume 15 morning forty,
+which means the one relationship this book promised its readers is currently tracked nowhere while the
+book spends thirty pages a batch on a compost line.** **IT IS NOT ADDED TO SECTION TWO AS A THIRTY-SIXTH
+AND IT MAY NOT BE.** The standing rule at section one is not a formality: the thirty-five are thirty-five
+in and thirty-five out, a relationship is not a defect, a refusal is not a closure, and **the moment a
+relationship is numbered it becomes something a later pass may sum, and the first thing any pass would
+sum it into is whether it is resolved, and it is not resolved and may not be made to be.** What the pages
+owe it is a *way of working*, and the standing is this: **two competent people with different duties, in
+the same yard, on the same mornings, each the only person who can do their own part, and the cost of that
+arrangement visible on the page and never spoken about.** **She puts herself where she can see the mouth
+and writes down what she is told instead of asking twice and does not announce that she is doing it. He
+does not ask her twice either. No hand goes on her arm on any morning of this volume, her hearing is not
+healed, not softened, not excused, not thanked for and not made convenient, and no apology for it is
+offered in any room, and the seed work stays with her.** **Neither of them may say what the arrangement
+costs and nobody else in the yard may comment on it, and it may not be resolved in either direction
+inside this volume.** `workspace/volume-15/batch-0004/PROMPT.md` carries this at its section four and
+requires the two of them to be in the same place with different work on at least three of its ten
+mornings, with the morning costing something for it.
+
+**TWO, `NOVEL_SPEC.md` IS OWED A CORRECTION AND THIS PASS DID NOT MAKE IT.** Its *Status* section reads
+that the scaffold is pushed and **no novel prose has been generated yet**, and the manuscript is at seven
+hundred and sixteen chapter files of a seven hundred and eighty chapter book. **THE FILE IS NOT A
+FICTION, BIBLE, OUTLINE, CHAPTER, SUMMARY, CONTINUITY, CHARACTER OR OPEN-THREAD FILE, AND A REPAIR PASS
+THAT WIDENS ITS OWN HAND TO FIX A STATUS LINE HAS STOPPED BEING A REPAIR AND STARTED BEING A CANON PASS.**
+It is recorded here and left alone. **A PASS THAT OWNS THE SPECIFICATION OWES IT ONE LINE, AND ONE LINE
+ONLY, AND IT IS NOT THE SAME PASS THAT TOUCHED THE CHAPTER.**
+
+**THREE, THE CARD SET'S HEADINGS NAME THE WRONG FOURTH-LINE MORNING ON FIVE CARDS AND THE FIGURES ARE
+RIGHT.** The rule is a day congruent to two modulo four and the twelve are at days 902, 906, 910, 914,
+918, 922, 926, 930, 934, 938, 942 and 946, so days 922, 926, 930, 934 and 938 are the sixth, seventh,
+**eighth**, **ninth** and **tenth** of the twelve, and cards twenty-three, twenty-seven, thirty-one,
+thirty-five and thirty-nine are headed seventh, eighth, ninth, eleventh and twelfth. **Each card's own body
+text and each card's own figures are right, the plan's day table is right, and the pages written so far
+are right, because the two batches behind applied the rule and read the body.** **A WRITER WHO TRUSTED A
+HEADING WOULD PUT THE FIGURE IN FORCE ONE TOO HIGH ON DAY 922 AND TWO TOO HIGH ON DAYS 934 AND 938, WOULD
+WRITE A FOURTH-LINE MORNING THAT IS NOT ONE, AND WOULD COUNT THE TWELVE WRONG.** `outline/batches/
+volume-15-cards.md` is a completed phase's file and this pass did not edit it. **The correction is owed by
+a pass that owns the card set, and until it is made the rule and not the heading governs, and that is
+printed in the batch-0004 prompt at its sections three and seven.**
+
+**FOUR, A REVIEW OF THIS BATCH REPORTED ITS TEN MORNINGS AS MORNINGS THIRTY-ONE TO FORTY AND WAS OFF BY
+TEN AT BOTH ENDS, AND A LATER PASS SHOULD NOT SPEND A PHASE RE-DERIVING IT.** **Day 900 is this volume's
+first morning, so day 920 is its twenty-first and day 929 is its thirtieth, and the volume is written to
+its thirtieth morning of forty-nine.** The consequence was that the review reported a correctly labelled
+summary heading as mislabelled and reported the next-phase section of `state/current.md` as one batch
+behind when it was two, and both have been corrected here on their own merits rather than on its. **Its
+other work reproduces: every series advanced by seven across seven days, every parity claim true of the
+day it was made, five hundred and thirteen prose paragraphs all distinct, zero repeated eighteen-word
+windows, and a figure in force of a hundred and fifty-eight with twenty-nine taken on day 926.** **THE
+TICKS THAT FOUND IT ARE COUNT THE DAYS AND THEN ADD ONE, AND READ THE HEADING OF THE LAST MORNING ON
+DISK, AND NEITHER OF THOSE IS THE SAME AS ADDING A BATCH'S LENGTH TO A MORNING NUMBER ALREADY COUNTED.**
+
+**FIVE, THE REVIEW PROMOTED TWO CONTENTS OUT OF THE BATCH'S OWN SELF-CHECK AND ASKED THAT THEY BE PUT
+IN THE CARD SET, AND BOTH ARE ALREADY IN IT, AND WHAT WAS ACTUALLY MISSING WAS A SWEEP AND A WARNING.**
+The first is the rule that a morning says an ordinal date only inside a heading that names an ordinal.
+**That rule is printed twice in `outline/batches/volume-15-cards.md`, at its section three and at its
+spelling six, and the batch behind broke it eight times on six mornings anyway, which is the finding:
+the rule was on the page and nothing looked for it.** The second is that the figure-check total of one
+hundred and sixty was a coincidence and not arithmetic, and **the item list that reproduces is printed in
+full at the card set's section eleven, and what was missing was any warning that a prompt's own total is
+not a source.** **NEITHER IS OWED TO THE CARD SET AND NEITHER NEEDS AN EDIT TO IT.** The sweep that
+catches the first is now in the mechanical list at `state/current.md` and at section five of the
+batch-0004 prompt, and the warning about the second is at section seven of that prompt. **A REVIEW THAT
+MOVES A FINDING INTO A FILE THAT ALREADY GOVERNS IT HAS NOT FOUND A GAP IN THE FILE; IT HAS FOUND A GAP
+IN THE SWEEP, AND THE SWEEP IS WHERE THE FIX GOES.**

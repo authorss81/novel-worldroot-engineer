@@ -10,9 +10,11 @@ a rule by mistake.
 ## 1. What was written
 
 Ten mornings, days 920 to 929, files `chapter-0707.md` to `chapter-0716.md`, in
-`workspace/volume-15/batch-0003/`. **Twenty-three thousand one hundred and eighty words**, per
-file 2,712, 2,311, 1,932, 2,197, 2,460, 2,168, 2,298, 2,719, 1,980 and 2,403. No morning restarted
-and no morning written twice.
+`workspace/volume-15/batch-0003/`. **Twenty-three thousand two hundred and fourteen words**, per
+file 2,712, 2,311, 1,932, 2,197, 2,460, 2,168, 2,298, 2,753, 1,980 and 2,403. No morning restarted
+and no morning written twice. **THE FIGURES FIRST PRINTED HERE WERE TWENTY-THREE THOUSAND ONE HUNDRED AND
+EIGHTY AND PER FILE 2,719, AND THE REVIEW-FIX PASS OF 2026-10-03 ADDED THIRTY-FOUR WORDS TO
+`chapter-0714.md` AND NOTHING ELSE, AND THE FIGURES ABOVE ARE THE RE-MEASURED ONES.**
 
 **THE FILE SEQUENCE WAS TAKEN FROM THE LAST MORNING ON DISK AND NOT FROM A FIGURE IN A PROMPT.** The
 last morning on disk was `workspace/volume-15/batch-0002/chapter-0706.md`, which is day nine hundred
@@ -267,5 +269,28 @@ at the foot of the state layer and is escalated and is not settled, and this bat
 nor inferred from it that anything is retired. The two series files that place a surrender in a volume
 whose mornings do not carry it are owed a correction by a pass with the standing to edit them, and this
 batch did not edit them and did not put the name on any page. Markers are controller-owned and this
-batch forged, moved and deleted none. **And nothing here creates a successor prompt, because the
-pipeline creates it.**
+batch forged, moved and deleted none.
+
+**AND THE LAST SENTENCE OF THIS FILE AS FIRST WRITTEN WAS WRONG, AND IT IS CORRECTED HERE RATHER THAN
+LEFT FOR A SUCCESSOR TO INHERIT.** It read: *nothing here creates a successor prompt, because the
+pipeline creates it.* **THE PIPELINE DOES NOT CREATE IT. THE BATCH BEHIND THIS ONE CREATED
+`workspace/volume-15/batch-0003/PROMPT.md` IN THE SAME RUN THAT WROTE ITS TEN MORNINGS, AND VOLUME
+FOURTEEN SHIPPED FIVE BATCHES AND A CLOSE WITH A PROMPT ON DISK BEFORE EACH OF THEM RAN, AND THIS BATCH
+CREATED NO SUCCESSOR AT ALL AND LEFT VOLUME FIFTEEN STOPPED AFTER ITS THIRTIETH MORNING.** The
+review-fix pass of 2026-10-03 created `workspace/volume-15/batch-0004/PROMPT.md` afterwards, which is
+mornings thirty-one to forty at days 930 to 939 and files 717 to 726. **A SUCCESSOR OF THIS BATCH
+SHOULD TREAT THE PROMPT IT IS RUNNING FROM AS PROOF THAT THE BATCH BEFORE IT CREATED ONE, AND IF THERE
+IS NO PROMPT ON DISK FOR THE NEXT MORNINGS THEN THE VOLUME IS STOPPED AND THE FIX IS TO WRITE THE
+PROMPT.**
+
+**AND THE REVIEW THAT FOLLOWED THIS FILE CONFIRMED THE FIGURES AND THE NILS AND FOUND FOUR FAULTS OF
+CRAFT, AND NONE OF THE FOUR WAS REPAIRED IN THE CHAPTERS.** The batch's texture is stat-recital and not
+scene; nine recurring characters share one sentence construction and are told apart by which figure they
+own; all ten mornings close on an accumulation paragraph that restates the morning; and a heading has
+grown long enough to name the beat its own morning performs. **All four are batch-wide, and a per-chapter
+repair of them would have restated the prose, so all four are answered in
+`workspace/volume-15/batch-0004/PROMPT.md` at its section six, which also says that the figures are not
+to be softened to make the prose easier.** The review also reported these ten mornings as mornings
+thirty-one to forty, which is wrong by ten at both ends: **day 900 is this volume's first morning, day
+920 is its twenty-first and day 929 is its thirtieth.** Its figure checks, its duplicate-paragraph nil,
+its eighteen-word-window nil and its parity checks were reproduced and all stand.
