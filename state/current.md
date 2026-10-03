@@ -1,8 +1,10 @@
 # Current State
 
-**Budget: about seventeen thousand four hundred words, and this file is at that figure as
-measured on its own bytes with `len(text.split())`, which is the count any later pass re-derives and
-which moves with every edit, so the figure is a measurement and not a promise. **THE EARLIER FIGURE OF
+**Budget: about twenty-one thousand words, and this file is above that figure by about four
+thousand as measured on its own bytes with `len(text.split())`, which is the count any later pass
+re-derives and which moves with every edit, so the figure is a measurement and not a promise. **THE FIGURE ABOVE
+WAS RAISED BY THE VOLUME 15 BATCH 0005 WRITING PASS OF 2026-10-03, WHICH ADDED THIS HEAD BLOCK ENTRY, A ROW FOR THE
+BATCH AT SECTION ONE, REWROTE SECTION EIGHT TO NAME THE CLOSE, AND CORRECTED NO FIGURE OF ANY SERIES. **THE EARLIER FIGURE OF
 ABOUT TEN THOUSAND EIGHT HUNDRED AND FORTY WAS ALREADY UNDERSTATED BY ABOUT FOUR THOUSAND SIX HUNDRED
 WORDS WHEN THIS PASS OPENED IT, AT FIFTEEN THOUSAND FOUR HUNDRED AND FIFTEEN MEASURED, AND IT IS
 CORRECTED HERE.** Raised a seventh time by the verification pass of 2026-10-03 over Volume 15 Batch 0003,
@@ -27,7 +29,19 @@ detail behind those passes is at `workspace/volume-14/batch-0005/SELF-CHECK.md`,
 `reviews/state-archive-2026-10-02/`; measurements belong in `reviews/`, which no prompt reads. Read
 this file whole, and the other three whole.**
 
-Last rewritten 2026-10-03, by the **verification pass over Volume 15 Batch 0003, which was itself
+Last rewritten 2026-10-03, by the **Volume 15 Batch 0005 writing pass, which wrote the volume's last nine mornings,
+days nine hundred and forty to days nine hundred and forty-eight, files `chapter-0727.md` through `chapter-0735.md`,
+wrote no prose into any closed morning, moved no figure of any series, and created the one successor, which is the
+volume's close. It found and paid **three figures in its own prompt that were wrong against its own rules and did not
+repair the prompt**, being the figure-check total, printed as one hundred and sixty where the prompt's own arithmetic
+makes one hundred and forty-four; the batch's parity, printed as five odd and four even where the nine days make four
+odd and five even; and the ordinal of the run on day nine hundred and forty-six, printed as four hundred and sixtieth
+where the rule makes four hundred and ninety-sixth, which also destroys the prompt's claim that this batch carries two
+round tens ordinals instead of one. **A fourth of the same class is that the prompt names day nine hundred and
+forty-two for the locked figures and the card set names day nine hundred and forty-four.** Its own measurements are at
+`workspace/volume-15/batch-0005/SELF-CHECK.md` and its per-morning record is the last section of
+`state/chapter-summaries.md`. Before that, by the
+**verification pass over Volume 15 Batch 0003, which was itself
 dispatched against a batch that was already written and complete and which restarted no morning.** It
 found and paid **twelve defects in six mornings, all of them dates, counts or spellings and none of them
 touching a figure of any series**: a window half dated to Friday where the half last moved on Sunday, the
@@ -71,9 +85,11 @@ re-derived rather than appended, so nothing in this file is an append-only resid
 
 | | |
 |---|---|
-| **Last morning on disk** | day 929, `workspace/volume-15/batch-0003/chapter-0716.md` |
-| **Volume** | 15 of 16, *The Root Commons*, days 900 to 948, **thirty mornings written of forty-nine: the volume is open** |
-| **Manuscript** | 1,991,139 words across 716 chapter files, measured per file and never by concatenation; the per-volume table is at `state/chapter-summaries.md`. **The earlier figure of 1,991,148 is withdrawn by the verification pass of 2026-10-03 over Volume 15 Batch 0003, which spent nine words repairing twelve weekday, count and figure-spelling defects across six of the ten mornings and re-measured the batch, the volume and the manuscript per file** |
+| **Last morning on disk** | **day 948, `workspace/volume-15/batch-0005/chapter-0735.md`, and it is the closing morning of the volume** |
+| **Volume** | 15 of 16, *The Root Commons*, days 900 to 948, **forty-nine mornings written of forty-nine: THE VOLUME IS WRITTEN AND IS NOT CLOSED, and the close is the next phase** |
+| **Manuscript** | **2,031,295 words across 735 chapter files**, measured per file and never by concatenation; the per-volume table is at `state/chapter-summaries.md`. **The earlier figure of 1,991,139 across 716 files is withdrawn by the Volume 15 Batch 0005 writing pass of 2026-10-03, which wrote nine files, spent its own prompt's three bad figures against its own rules, and re-measured the batch, the volume and the manuscript per file. The earlier figure of 1,991,148 is withdrawn by the verification pass of 2026-10-03 over Volume 15 Batch 0003 and is not reprinted here** |
+| **Volume 15 Batch 0005** | **19,043 words across nine files, 727 to 735, days 940 to 948, per file 2,367, 2,283, 2,390, 2,247, 1,961, 2,068, 1,930, 1,678 and 2,119, measured per file by the writing pass of 2026-10-03. IT IS NINE MORNINGS AND NOT TEN AND IT IS THE LAST BATCH OF MORNINGS IN THIS VOLUME** |
+| **Volume 15 to date** | **115,686 words across forty-nine files**, measured per file. **Volume 15 Batch 0004** is 20,872 words across ten files, 717 to 726, days 930 to 939, as the review-repair pass over that batch measured it |
 | **Volume 15 Batch 0003** | 23,205 words across ten files, 707 to 716, days 920 to 929, per file 2,706, 2,311, 1,932, 2,196, 2,458, 2,168, 2,298, 2,753, 1,980 and 2,403, **measured by the writing pass over this batch, re-measured by the review-fix pass of 2026-10-03, which added thirty-four words to `chapter-0714.md`, and re-measured again by the verification pass of 2026-10-03, which spent nine words on twelve weekday, count and figure-spelling repairs across six mornings and moved no figure of any series. The batch's own thirty-four-word gain to `chapter-0714.md` stands untouched, and that chapter still holds the volume's major turn on day 927. The earlier figures of 23,214, and of 2,712, 2,197 and 2,460, are withdrawn by name** |
 | **Volume 15 Batch 0002** | 28,052 words across ten files, 697 to 706, days 910 to 919, per file 3,342, 2,767, 2,473, 2,685, 2,650, 2,971, 2,851, 2,725, 2,948 and 2,640, **measured per file by the review-repair pass of 2026-10-03 over this batch, which found this row and the section thirteen figure below it both printing the writing pass's 28,128 while the batch's own self-check and `state/chapter-summaries.md` printed a second and different stale 28,122, and which repaired six weekday clauses and eight other defects across eight of the ten mornings at a cost of seventy-six words** |
 | **Volume 15 Batch 0001** | 24,273 words across ten files, 687 to 696, days 900 to 909, per file 2,723, 2,269, 2,359, 2,456, 2,474, 2,121, 2,494, 2,385, 2,507 and 2,485, **re-measured by the review-fix pass of 2026-10-03 over this batch, which changed the writing pass's figures** |
@@ -261,30 +277,41 @@ she is not cornered and the refusal leaves her standing.
 
 ## 8. The one next phase
 
-**VOLUME 15 IS OPEN AT FORTY MORNINGS OF FORTY-NINE AND ITS PLAN AND ITS CARD SET ARE BOTH ON DISK.**
-`outline/volume-15.md` is the plan, `outline/batches/volume-15-cards.md` is the card set, and the
-first forty mornings are written at `workspace/volume-15/batch-0001/`, `batch-0002/`, `batch-0003/` and
-`batch-0004/`, files `chapter-0687.md` through `chapter-0726.md`, days 900 to 939. **The close of Volume 14 is done and
-stays done; its findings are at `reviews/volume-14-close.findings.md` and its lock is the final section of
-`outline/ending.md`; it wrote no prose and altered no morning.**
+**VOLUME 15 IS WRITTEN AT ALL FORTY-NINE MORNINGS OF FORTY-NINE AND IT IS NOT CLOSED. ITS PLAN AND ITS CARD SET ARE
+BOTH ON DISK.** `outline/volume-15.md` is the plan, `outline/batches/volume-15-cards.md` is the card set, and all
+forty-nine mornings are written at `workspace/volume-15/batch-0001/` through `batch-0005/`, files `chapter-0687.md`
+through `chapter-0735.md`, days 900 to 948, and the last of them is the volume's closing morning. **The close of
+Volume 14 is done and stays done; its findings are at `reviews/volume-14-close.findings.md` and its lock is the final
+section of `outline/ending.md`; it wrote no prose and altered no morning.**
 
-**THE NEXT PHASE IS VOLUME 15 BATCH 0005, DAYS 940 TO 948, MORNINGS FORTY-ONE TO FORTY-NINE, AND ITS PROMPT
-IS ON DISK AT `workspace/volume-15/batch-0005/PROMPT.md`.** It writes `chapter-0727.md` through
-`chapter-0735.md` and nothing else of substance. **IT IS NINE MORNINGS AND NOT TEN, BEING DAYS NINE HUNDRED
-AND FORTY THROUGH NINE HUNDRED AND FORTY-EIGHT, AND IT IS THE LAST BATCH OF MORNINGS IN THIS VOLUME AND
-IS FOLLOWED BY A CLOSE PHASE AND NOT BY ANOTHER BATCH. IT CARRIES THE VOLUME'S CLIMAX ON ITS FORTY-SECOND
-MORNING, ITS SECOND IN-BETWEEN LOCKED FIGURE ON ITS FORTY-FIFTH, THE LAST TWO FOURTH-LINE MORNINGS AT DAYS
-942 AND 946, THE LAST RETURN BESIDE THE LAST OF THEM, AND THE RESOLUTION ON THE FORTY-NINTH.** Batch 0004
-has run and has written `chapter-0717.md` through `chapter-0726.md`, days 930 to 939, mornings thirty-one
-to forty, and its own measurements are at `workspace/volume-15/batch-0004/SELF-CHECK.md`. **THIS SECTION WAS TWO BATCHES STALE UNTIL THE REVIEW-FIX PASS OF
-2026-10-03, WHICH NAMED BATCH 0002 AS THE NEXT PHASE AND THE VOLUME AS OPEN AT TEN MORNINGS, AND A
-SUCCESSOR THAT HAD TRUSTED IT WOULD HAVE REWRITTEN TWO BATCHES OF CLOSED PROSE.** **BATCH 0003 CREATED NO
-SUCCESSOR, ON A GROUND THAT IS FALSE, AND THIS PASS CREATED IT.** The batch behind that one created its
-own successor prompt in the same run that wrote its ten mornings, and Volume 14 shipped five batches and
-a close with a prompt on disk before each of them ran. **A BATCH THAT FINISHES WITHOUT ITS SUCCESSOR ON
-DISK HAS COST THE VOLUME A MORNING, AND NO CONTROLLED PHASE CREATES IT.** **The review-fix pass over
-Batch 0001 corrected that earlier prompt's file range, which it had printed one too low at the top end
-and had named a completed morning as the first of the next batch's ten.**
+**THE NEXT PHASE IS THE CLOSE OF VOLUME 15, AND ITS PROMPT IS ON DISK AT `workspace/volume-15/close/PROMPT.md`.** It
+writes no prose, alters no morning, moves no figure of any series, and writes no chapter file. **It re-derives every
+figure of the volume against its rule, re-runs both readings of the second gate at a declared scope over all
+forty-nine mornings with apparatus included, runs the self-collision test first, runs the whole-volume exact-duplicate
+sweep at a floor of eight words beside the gate's thirty, runs the sixteen-line shared-token sweep over every file,
+runs every mechanical sweep in the list, repairs what it can measure and reports what it cannot, and writes the
+volume's ending lock at the end of `outline/ending.md`.** Batch 0005 has run and has written `chapter-0727.md`
+through `chapter-0735.md`, days 940 to 948, mornings forty-one to forty-nine, and its own measurements are at
+`workspace/volume-15/batch-0005/SELF-CHECK.md`, which is a writer's self-check and not a review.
+
+**AND THE CLOSE IS OWED FOUR THINGS BY NAME AND MAY NOT INHERIT ANY OF THEM AS SILENCE: THE SECOND PLACE IS STILL
+WITHOUT WATER AND THE CHARTER DOES NOT COVER IT; THE THIRTY-FIVE ARE THIRTY-FIVE IN AND THIRTY-FIVE OUT; THE FOUR
+LOSSES ARE FOUR AND NONE IS REDUCED, RECOVERED, RE-NAMED OR PRICED; AND THE PREPARED NETWORK IS UNEVEN AND HAS NO
+SINGLE OPERATOR AND NOBODY WAS APPOINTED.** It is also owed the record of the refusals as refusals and not as
+closures, and the fact that the final pruning window is open and was not entered. **A CLOSE THAT CONSOLATION,
+THAT SUMS THE THIRTY-FIVE, THAT TREATS A PUBLISHED RESULT OR A SIGNATURE AS AN ANSWER, OR THAT ENTERS THE WINDOW HAS
+FAILED.**
+
+**THE PROMPT FOR THIS BATCH CARRIED FOUR CRAFT INSTRUCTIONS THAT CAME IN WITH BATCH 0004 AND ARE STILL BINDING.** A
+figure must change something on the morning it is given or it is not given. The construction nine characters were
+sharing may be used by one character and at most twice in a batch, and no speech may close by explaining its own
+restraint. No morning may end on an accumulation that restates the morning, and the closing phrase the last twenty
+mornings of this volume both ended on may be used at most once in the batch. And a heading names the morning and one
+concrete thing in it and never the morning's turn. **Batch 0005 found that changing the actor and the order of a
+standing block is not sufficient on its own and that the wording of the block has to change with them, and that
+finding is recorded in the last section of `state/open-threads.md` and in its own file at section four.**
+
+**THE PLAN PHASE AND THE CARD-SET PHASE ARE BOTH SPENT AND NEITHER MAY BE RUN AGAIN.** The plan
 
 **AND THE PROMPT AT `batch-0004/PROMPT.md` CARRIES FOUR CRAFT INSTRUCTIONS THAT ARE NEW TO THIS VOLUME
 AND THAT THE BATCH BEHIND DID NOT HAVE.** A figure must change something on the morning it is given or it

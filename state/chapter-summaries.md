@@ -695,3 +695,138 @@ or more and zero at eight or more, and it found the one genuine re-statement thi
 figures in four hands read in the same order on three mornings, and that was broken before either gate was run.
 **Two blocks fall, on days 936 and 939, against a volume ceiling of thirty, and no `Entered` label is used anywhere
 in the volume.** The batch is 20,872 words after this pass.
+
+---
+
+## Volume 15, Batch 0005: the last nine mornings, days 940 to 948, files `chapter-0727.md` to `chapter-0735.md`
+
+**Nine mornings and not ten, being mornings forty-one through forty-nine, days nine hundred and forty to days nine
+hundred and forty-eight, and the last morning of them is the closing morning of the volume. Nineteen thousand and
+forty-three words. This section is the per-morning record; the measurements are at the foot of it and the writer's own
+figures are at `workspace/volume-15/batch-0005/SELF-CHECK.md`, which is not a review.**
+
+- **940, Monday the tenth of the twentieth.** **Four kinds of work are arranged to happen at the same time and the
+  engineer of record's part in it is a schedule and a set of terms and is nine seconds long.** He says in front of the
+  yard that a promise with four hours standing on it is a thing that can be held against a man. **A mason of the third
+  place refuses to be scheduled at all and says that the courses are not days**, and nobody argues with him and nobody
+  thanks him. Perrin Dae reads the charter's age of two hundred and ninety as a date and has two loads of timber
+  standing on his own books since Saturday evening, and gets it turned at his own cost and not out of the fourth
+  place. Harlan Vetch gives the run and the channel and is asked what the run is for and says *because it was kept*.
+  The window is on the back of the schedule in somebody else's pencil. The crew man says that two hundred and
+  thirty-four tells him where to put a spade and that is the whole of what it tells him, against a man who has told
+  the yard what the ring will be at. **Nia Vale will not invent a figure off her rack at the fourth hour for her
+  brother in front of twenty people and the cost of it is that the girl from the second place finishes the rack alone.**
+  The tap joint weeps and proves nothing. A clerk from up a lane goes down the lane without saying what he thinks of
+  the four ages. **At dusk Ismay Rooke, who refused the schedule outright at the second hour, draws a line through
+  the fourth hour in his own chalk and says nothing to anybody.**
+- **941, Tuesday the eleventh of the twentieth.** **The climax, in four places, by four sets of people, and he is in
+  one of the four and not in the other three.** The ring at the gate end goes under the load at the second hour and
+  the crew man runs it with nine bodies and his own book and does not take an hour from anybody. The crossings that
+  exist on the third place's road were cleaned by Emrys Dole and two men and the fourth one was not touched and he
+  gives no reason walking down a hill. Nine people stand on a road four miles off with no gate on it and were not
+  fetched, and the only reason this yard hears of it before dark is that a woman who went up there on her own
+  business came back and said so, **and she says that no word about water has been offered to her place and that
+  nobody is to tell this yard it was.** The far end of the branch is held by two people who are neither of them the
+  engineer of record and neither of them sent word. **A man reads yesterday's window half and is corrected by a
+  mason on the sill, by arithmetic.** A woman at the gate is thanked in front of nine people and is stopped by the
+  woman with the slate for standing in the way of nine bodies. Nobody thanks him and nobody rebukes him and nobody
+  consoles him. **At the tenth hour a woman comes to the gate with a folded paper and hands it to Tova Reed and not
+  to him, and he does not ask.**
+- **942, Wednesday the twelfth of the twentieth.** **The results are published in full, with the failures in them and
+  the refusing region's line printed as a blank.** **A block falls and it is the crew's own record and it carries the
+  one entered label.** Nine beds dug, six held the dry-season draw, five held the flood load, one bed at the top came
+  up with the root on it and will not be there again this season, one bed at the north end let the load out at the far
+  end of itself and is soft. **The line for the region three miles up is empty and is empty because they said no and
+  nobody has gone back, and the crew man says in front of forty people that he will take down in his own hand any
+  figure written in it.** The man who owns the sheet is the crew man and the engineer of record's contribution is a
+  schedule and four terms and neither of them is on the sheet. **A carter's boy says four miles is not far.** The
+  eleventh of the twelve fourth-line mornings: a hundred and sixty-two in force, twenty-nine taken, a hundred and
+  thirty-three not, and one hundred and tenth against ninety-seventh, thirteen apart, and the second is carried and
+  is not in anybody's pocket in this yard. **Odile Vray and Nia Vale give two different accounts of what that figure
+  counts and nobody chooses between them.** At dusk a man copies the five numbers onto the back of his own hand and
+  copies the empty line too, as an empty line, and writes the words *north branch, no load* beside it with no figure.
+- **943, Thursday the thirteenth of the twentieth.** **The record is read out in a yard and a thing in it is got
+  wrong out loud, twice, and both are corrected by arithmetic and neither by an apology.** A man says five of nine is
+  most of them and the crew man gives him the sum back on his fingers. **A man says the eleven households would have
+  spared the ring a hole and is told by the crew man that it would also have put eleven households under a load they
+  refused, and is told that nobody may point at a board for the second thing.** A woman reads the read-aloud pair as
+  a proportion and is told that four hundred and seventeen is not beds and never was, and takes nine, six and five on
+  a slate and turns the slate against her ribs at dusk. Perrin Dae's timber is in no hole and is in no failure. The
+  compost line is paid at thirty-one and thirty-one is not a count of this year. The man who lays for three councils
+  reads two of the four ages and refuses the other two and gives his reason in four words.
+- **944, Friday the fourteenth of the twentieth.** **The terms go on a clean cloth and they are defensible and they are
+  not complete, and the incompleteness is said in that order on purpose.** **The second place is not in them and no
+  clause on that table can be read as covering it and the third sheet was written so that it cannot.** Auret Sill
+  says she will not sign a paper that has her name under it and no second place in it. **The comfort line is spoken
+  whole, once, by the man who lays for three councils, and nobody answers it, nobody softens it, nobody turns it into
+  a lesson about a father and nobody builds anything out of any part of it.** The yard goes on. **Nia Vale stands at
+  the north end of the table for two hours so that a man laying out four sheets has somebody visible to put them in
+  front of, and the cost of that is the rack untended and the girl doing it alone.** A man who said on Saturday that
+  he would sign if the conditions were written reads the four sheets twice and does not sign, and gives the reason:
+  that the fourth term is the shortest line on the table and a reader will not turn the sheet over.
+- **945, Saturday the fifteenth of the twentieth.** **Two hands go on the paper.** Ismay Rooke, a mason of the third
+  place, signs after reading the third sheet twice and says he has not asked the third place and is not going back up
+  that road to ask, and his hat is on a bench at the gate and about nine people watched it. Perrin Dae signs for the
+  fourth place and states the incompleteness in his own mouth before he signs. **A block falls and it is the two of
+  them's own paper and it says that neither of them is signing for the second place and that two hands is not a
+  majority of anything.** A man at the gate says two places have signed and is stopped. The mason from the third
+  place is asked to go up the ladder and does not and gives a reason and was not leaned out. **The ladder is climbed
+  zero rungs and the offer on the low board is still undated and unpicked and not withdrawn.** The man from the top of
+  the middle road asks one question about the window and decides not to put a barrow on the high side of the ring
+  because the low side is where the half went. **There is no copy of the four terms and a man from the fourth place is
+  going to have one written out by hand with no date at the head of it.**
+- **946, Sunday the sixteenth of the twentieth.** **The twelfth and last of the twelve fourth-line mornings and the
+  last return in the volume fall on one morning and neither is made a moment.** The return comes round in the shape
+  of a woman with a ledger and is asked nine times and gets the same answer nine times, and **it moves no figure and
+  no allowance is printed for it.** Thirty-nine blanks and the second rule under them open and empty at the
+  thirty-ninth time. **The network is read out in public from a copy made in a town four counties off, and it is
+  found uneven, with four sections read and a fifth joint where the copy has nothing, and the joint is printed as a
+  joint with nothing against it and nobody is appointed over it and nobody has asked for the job.** A man puts a
+  barrow-load of stone against the near board and Harlan Vetch makes him put it down. The man who lays for three
+  councils says out loud that there are two things he will not say in this yard and gives no reason for either.
+  A hundred and sixty-three in force, twenty-nine taken, a hundred and thirty-four not, and one hundred and eleventh
+  against ninety-eighth. **At dusk two people at either end of the empty joint agree between themselves to go and look
+  at it on their own time and neither of them says anything about it to the engineer of record, who does not hear it.**
+- **947, Monday the seventeenth of the twentieth.** **An ordinary working morning and nobody says so.** A barrow
+  comes out at the second hour and stands wheel first in the middle of the yard all day because there is nowhere to
+  put it. The drawer is opened at the sixth hour and shut in the open and the key goes back on its nail, and the pair
+  of boards is in there and is the reason, and a form in a drawer four miles off is the thing nobody can settle.
+  **A block falls and it is the use log page: barrows out and back eleven, sessions entered seven, things asked for
+  and not known six, and no twelfth line and no seventh line is cut for a ring or a load or a charter or a slip in a
+  tray or a road nobody has walked.** The boy who carries water is told to write the pair and does not, and gives a
+  reason, and the girl writes it instead and nobody thanks either. **The old man at the end of the north row is put one
+  question in the ordinary way and the yard puts nothing else to him at any hour.** At dusk the mason pulls his own
+  line and a boy asks whether that is the end of the wall and is told it is the end of what he has been asked for.
+- **948, Tuesday the eighteenth of the twentieth.** **The closing morning.** A woman from the second place asks for
+  water at the gate in nine words in front of ten people and is given no date, no apology and no promise, and **one of
+  the two who signed says she will not say the thing a second time to a woman with a pail.** A copy of the four
+  terms comes up the lane in a fourth place man's writing with no date at the head of it. **The far-end figure is
+  spoken whole, once, by Marek Vale, to his sister and not to the yard, and she does not answer it and goes on
+  writing.** **The comfort line is spoken whole, once, by the crew man, and nobody answered him and a man who said he
+  had four of his own was told to get on with the fourth column.** Four of the losses are four and there is not going
+  to be a fifth. The joint with nothing against it is still unassigned and two people are still going to look at it.
+  The door nine hundred yards off is walked past twice and read on by nobody. **The light comes late, at about the
+  eleventh hour, and about six people have been standing at the gate facing the low road for the better part of an
+  hour, and there is something going on out there that can be seen from a gate and cannot be described by anybody who
+  was not in it, and not one of them said what it was, and not one person in this holding went down that road and not
+  one person in this holding was sent.** The yard goes on, and the barrow that stood wheel first for a day and a half
+  goes out of the gate just after the light, pushed by a man who gives no reason and is asked for none.
+
+**AND THE MEASUREMENTS THAT GO WITH THEM.** **One hundred and forty-four derived figures required by the card set's own
+item list, and the check this side ran was stricter and required one hundred and sixty, being the boards in the house
+form with the unit on them and the carried second reckoning not counted. One hundred and sixty required, one hundred
+and sixty present, zero failures.** **THE PROMPT FOR THIS BATCH PRINTS THE TOTAL AS ONE HUNDRED AND SIXTY AND ITS OWN
+ARITHMETIC MAKES ONE HUNDRED AND FORTY-FOUR, AND IT ALSO PRINTS THE BATCH'S PARITY AS FIVE ODD AND FOUR EVEN WHEN IT IS
+FOUR ODD AND FIVE EVEN, AND IT PRINTS DAY 946'S ORDINAL AS FOUR HUNDRED AND SIXTIETH WHEN THE RULE MAKES IT FOUR
+HUNDRED AND NINETY-SIXTH. THE RULES AND THE CARDS GOVERNED AND NONE OF THE THREE PROMPT FIGURES IS ON A PAGE.** Gate one
+returns **zero ordered pairs on these nine mornings**; in the widest scope it returns **one**, and it is the far-end
+locked sentence against `chapter-0719.md` at a ratio of exactly one. The whole-paragraph reading returns **841 chunks,
+one shape and one excess**, and the sliding reading, at a declared scope with apparatus included, returns **12,151
+windows, three shapes and three excess, and every one of the three is a window of the comfort line, which is twenty
+words and yields three.** The self-collision test was run first and returned **nine shapes on a forty-four-word
+paragraph taken twice** at the sliding reading and none at the whole-paragraph reading. **The whole-volume
+exact-duplicate sweep returns five at a floor of eight words, three of them in Batch 0001 and the other two the two
+locked sentences.** The sixteen-line sweep returns **six runs at six tokens or more and zero at eight or more**, and
+four runs at seven or more were repaired as the mornings were written. **Three blocks fall, on days 942, 945 and 947,
+against a ceiling of thirty, with one entered label in the volume, and the closing morning carries none.** The batch is
+19,043 words.

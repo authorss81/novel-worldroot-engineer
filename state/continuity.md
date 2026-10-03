@@ -666,3 +666,89 @@ and the normalisation that the gate uses replaces every figure with one token, s
 identify them before breaking anything.** The apparatus also had a genuine repetition across the volume, three separate
 communities' papers closing on the same twenty words, and two of those three papers are now in their own words and the
 batch behind was not touched.
+
+---
+
+## 13. What Volume 15's last nine mornings changed, and what they left standing
+
+**NO MORNING WAS RESTARTED, NO FIGURE OF ANY SERIES WAS MOVED, NO THREAD WAS ANSWERED OR CLOSED, AND NEITHER REFUSAL
+WAS ANSWERED.** The bridge refusal is neither defended nor attacked on any of these nine mornings. The north branch's
+refusal of the flood load was published on day nine hundred and forty-two as an empty line in a table, and was read
+out on day nine hundred and forty-three by a man who tried to make it mean that eleven households would have been
+better off and was refused that reading out loud by the crew man and by nobody else. **A region that refuses a test is
+not a gap that somebody else fills and is not negligence, and a missing region is a blank in a table and not a row.**
+
+**THE VOLUME'S CLIMAX HAPPENED AND IT WAS NOT ONE MAN'S MORNING.** Four kinds of work, four places, four sets of
+people, and the engineer of record was in one of the four. The ring at the gate end was dug and loaded by nine bodies
+under a crew man with his own book. The crossings that exist on the third place's road were cleaned by Emrys Dole and
+two men and the fourth one was not touched. Nine people stood on a road four miles off with no gate on it and were not
+fetched. The far end of the branch was held by two people who are neither of them the engineer of record. **Nobody
+thanked him, nobody rebuked him and nobody consoled him, and a woman who was thanked in front of nine people was
+stopped by the woman with the slate for standing in the way of nine bodies.**
+
+**AND THE RESULTS ARE ON THE RECORD AND THEY ARE NOT GOOD AND THEY ARE NOT SOFTENED.** Nine beds dug, six that held the
+dry-season draw, five that held the flood load, one bed at the top that came up with the root on it and will not be
+there again this season, one bed at the north end that took the draw and let the load out at the far end of itself and
+is soft. **The line for the region three miles up is empty on the sheet that went up on the north boards and it is
+empty because they said no, and the crew man said in front of forty people that he would take down in his own hand any
+figure written in it, and at dusk a man copied the empty line onto the back of his own hand as an empty line and
+wrote the words *north branch, no load* beside it with no figure at all.**
+
+**THE RESOLUTION IS A SIGNATURE AND IT IS TWO HANDS.** The third place's mason signed and did not ask the third
+place; Perrin Dae signed for the fourth place and stated the incompleteness in his own mouth before he signed, which
+is that the second place is not in the paper and that the fourth term is the shortest line on the table and that two
+hands is not a majority of anything. **A man at the gate who said two places have signed was stopped in front of the
+yard. There is no copy of the paper in this holding and a man from the fourth place is going to have one written out
+by hand with no date at the head of it and will take it up the lane in his own cart.** The charter is not a sixth
+term, is not entered under the heading nobody has improved, is not one of the four sheets on the long table, and does
+not change their number from four. The third column of the copy is ruled and empty under a heading nobody has
+improved, and Perrin Dae has had it in his hand on a cart up a lane and did not add a line to it and did not take one
+away.
+
+**WHAT CAME INTO THE HOLDING ON THESE NINE MORNINGS, AND NONE OF IT LEAVES.**
+
+- A schedule of four hours with two of them crossed through in two hands and the third crossed through in chalk at
+  dusk by the man who had refused the schedule outright at the second hour, and a fourth hour standing empty.
+- A published record of the ring, with an empty line in it, on the north boards.
+- A pair of hats on a bench at the gate, and about nine people who watched which of three things happened first.
+- Two hands on four undated terms, and a copy of them in a fourth place man's writing brought up the lane on Tuesday.
+- A joint in the prepared network with nothing against it, printed as a joint with nothing against it, with no
+  operator and nobody appointed, and two people at either end of it who have agreed between themselves to go and look
+  at it on their own time and who have said nothing about it to the engineer of record.
+- A barrow that stood wheel first in the middle of the yard for a day and a half and then went out of the gate.
+- An ink on a sheet three days old and uncovered, because nobody in this holding had anything to put over it.
+- A woman who came four miles up a lane for her own reasons and said out loud that no word about water had been
+  offered to her place, and that nobody is to tell this yard it was.
+- The read-aloud pair on the north board written four times in four different hands by four different people and read
+  out by nobody, and on the fourth of those mornings the water boy did not write it at all because the water came
+  late, and gave that as his reason.
+
+**AND THE FOUR THINGS THIS BATCH HAD TO BE TOLD BY ITS OWN CHECK, WHICH ARE THE BATCH BEHIND'S FINDING WITH A SECOND
+HALF TO IT.** That changing the actor and the order of a standing block is **not enough**, because a block spoken in a
+different mouth with the same words in it is still a restatement, and the sliding reading returned seventy-five shapes
+and an excess of ninety-four on these nine mornings before fourteen rewordings brought it to three, which are the
+comfort line's own windows. That *I am not going to* stood at thirty-seven across nine characters in the first draft
+and is now two in one mouth. That one run of three consecutive speech paragraphs on day nine hundred and forty-two was
+all pure figure delivery and was broken. And that **three figures in this batch's own prompt are wrong on the page
+against its own rules**, being the figure-check total, the parity of the batch, and the ordinal of the run on day nine
+hundred and forty-six.
+
+**AND THE THINGS THAT CAME INTO THE HOLDING ON THE THIRTY MORNINGS BEHIND ARE UNCHANGED AND STILL WILL NOT LEAVE.**
+Three lines and a rubbed-out fourth with no name at the foot. Four thousand one hundred and one cans. A notice in
+five hands that is correct in every particular. A refusal with no date on it. A haulage arrangement that has not
+begun. A face that is not a punishment. A woman with a barrow who has not gone back. Four terms and five empty lines
+and a schedule with no name at the top of it. **The next in-between morning for either locked figure in this volume
+was the forty-fifth and it is spent, and the last whole appearances of both locked figures in this volume are on the
+closing morning, and the far-end figure was last spoken in a volume behind on day nine hundred and thirty-two and on
+the closing morning here, and the comfort line was spoken whole on the volume's first morning, on its forty-fifth and
+on its forty-ninth.**
+
+**AND THE STATE OF THE GATE, WHICH NO FIGURE IN THIS BATCH'S OWN FILE NOW HIDES.** The sliding reading **does not
+return a nil on a batch that reads its figures aloud and it was made to return one by writing the ritual in a
+different construction on each of the four odd mornings**, not by suppressing it. The four constructions are: the boy
+writes it and says he is not going to read it out; the girl writes it after the boy does not and nobody reads it; a
+mason writes it in his own hand and reads it out because he can read handwriting that is not his own; and a woman
+reads it off the seed board to nobody in particular and does not stop and does not say it again. **A successor that
+gets a nil there has done the work and has not removed the ritual, and a successor that gets shapes there should
+identify them before it breaks anything, because on this volume the shapes that remain are the locked figure and are
+not to be broken at all.**
