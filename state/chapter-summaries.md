@@ -1,28 +1,10 @@
 # Chapter Summaries
 
-**Budget: this file is at sixteen thousand and two hundred and sixty-seven words, measured on its own bytes with
-`len(text.split())`, which is the count any later pass re-derives and which moves with every edit, so the figure is a
-measurement and not a promise. RAISED BY THE VOLUME 16 BATCH 0001 WRITING PASS OF 2026-10-03, WHICH ADDED THE TEN MORNINGS
-OF THE SIXTEENTH AND LAST VOLUME AT THE CLOSE OF THIS FILE AND CORRECTED NO FIGURE OF ANY SERIES. THE BUDGET LINE
-PREVIOUSLY READ ABOUT THREE THOUSAND EIGHT HUNDRED WORDS AND THAT WAS
-FALSE BY MORE THAN ELEVEN THOUSAND WORDS WHEN THE VOLUME 15 CLOSE OPENED IT, AT FOURTEEN THOUSAND SIX HUNDRED AND
-SEVENTY-FOUR MEASURED, AND IT IS CORRECTED HERE. THE ERROR WAS CARRIED BY FIVE PASSES AND NONE OF THEM MEASURED THE
-FILE IT WAS PRINTING IN.** Raised by the
-review-fix pass of
-2026-10-02, raised again by the Volume 14 close of 2026-10-03, and corrected by the review-fix pass of
-2026-10-03 over that close, which found the earlier budget understated by about seven hundred words
-and corrected one count in section five without touching a morning, a figure of any series or a word
-figure. Raised a fourth time by the Volume 15 Batch 0001 writing pass of 2026-10-03, which added
-section six; **that pass's edit re-declared the budget and left the earlier declaration standing
-underneath it, and the review-fix pass over that batch removed the second declaration so that this
-file carries one figure and not two. Raised a fifth time by the Volume 15 Batch 0003 writing pass of
-2026-10-03, which added section eight, and a sixth time by the review-fix pass over that batch, which
-re-derived the two Volume 15 word figures, corrected the successor note in section eight, and added
-section nine. Raised a seventh time by the Volume 15 close of 2026-10-03, which added the closing
-section, brought the volume table up to forty-nine of forty-nine and to the manuscript figures measured
-per file, withdrew the stale figures by name, and touched no morning and no figure of any series.** Read
-this file whole. The archived layer at
-`reviews/state-archive-2026-10-02/chapter-summaries.md` holds the full per-batch history.**
+**THIS FILE DECLARES NO LENGTH OF ITSELF, AND THAT IS A RULE AND NOT AN OMISSION.** It used to open with its own word count, and that line was false by more than eleven thousand words when the Volume 15 close opened it and false again by the amount of two later passes, **because a pass that appends a section invalidates the figure it printed in the section before it. THE LINE WAS DELETED ON 2026-10-03 BY THE REVIEW-REPAIR PASS OVER VOLUME 16 BATCH 0001, AND THE SAME LINE WAS DELETED THE SAME DAY FROM `state/current.md`, `state/continuity.md` AND `state/open-threads.md`. MEASURE THIS FILE PER FILE AND NEVER BY CONCATENATING IT WITH ANOTHER: `wc -w state/chapter-summaries.md`.** It measured seventeen thousand four hundred and eleven words when that pass opened it, **and that is a measurement of that pass and not a declaration, because writing this paragraph moved it.**
+
+**THE LATEST PASS TO WRITE IN THIS FILE IS THE REVIEW-REPAIR PASS OF 2026-10-03 OVER VOLUME 16 BATCH 0001. IT ADDED NO MORNING'S SUMMARY, CORRECTED NO FIGURE OF ANY SERIES AND TOUCHED NO CHAPTER FILE; what it corrected was the second-gate measurement carried in `state/current.md` and in `workspace/volume-16/batch-0001/SELF-CHECK.md`, which had two sets of figures and no implementation behind either. Its record is `reviews/volume-16-batch-0001-repair.findings.md`.** The pass before it was the Volume 16 Batch 0001 writing pass, which added the ten mornings of the sixteenth and last volume at the close of this file.
+
+**THE PASS HISTORY OF THIS FILE IS IN THE NUMBERED SECTIONS BELOW AND IN `reviews/`, AND THE FULL PER-BATCH HISTORY IS ARCHIVED AT `reviews/state-archive-2026-10-02/chapter-summaries.md`. Read this file whole.**
 
 ---
 

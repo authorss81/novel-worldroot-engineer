@@ -1,139 +1,12 @@
 # Current State
 
-**Budget: this file is at thirty-one thousand three hundred and ninety-nine words, measured on its own
-bytes with `len(text.split())`, which is the count any later pass re-derives and which moves with every
-edit, so the figure is a measurement and not a promise. **RAISED BY THE REFUSAL PASS OF 2026-10-03 ON VOLUME 16 BATCH
-0001, WHICH ADDED SECTION TWENTY-FOUR, WHICH RECORDS A COLLISION BETWEEN A STALE DISPATCH AND AN OUTPUT THAT ALREADY
-EXISTS AND BELONGS TO A COMPLETED PHASE, WHICH ADDED NO PROSE AND MOVED NO FIGURE OF ANY SERIES, AND WHICH CORRECTED NO
-EARLIER SECTION; THE PREVIOUS DECLARATION READ TWENTY-SEVEN THOUSAND AND ONE HUNDRED AND NINETY-SEVEN AND WAS LOW BY THE
-BATCH 0002 WRITING PASS AND ITS REVIEW-REPAIR PASS, BOTH OF WHICH ADDED SECTIONS AND LEFT THE LINE ALONE, AND THE THREE
-OTHER STATE FILES ARE LOW IN THE SAME WAY AND ARE MEASURED AT SECTION TWENTY-FOUR C.** **RAISED BY THE VOLUME 16 BATCH 0001 WRITING PASS OF 2026-10-03,
-WHICH ADDED SECTION TWENTY-ONE, CORRECTED THE MANUSCRIPT WORD AND FILE FIGURES AND THE LAST MORNING IN SECTION ONE, AND
-MOVED NO FIGURE OF ANY SERIES AGAINST ITS OWN RULE; THE PREVIOUS DECLARATION READ TWENTY-FIVE THOUSAND FOUR HUNDRED AND
-FORTY-SIX AND WAS CORRECT WHEN IT WAS WRITTEN, AND A PASS THAT ADDS A SECTION AND LEAVS THE BUDGET ALONE HAS DECLARED A
-FIGURE IT DID NOT MEASURE.** **RAISED BY THE VOLUME 15 CLOSE OF 2026-10-03,
-WHICH ADDED SECTION NINETEEN, REWROTE SECTION EIGHT, CORRECTED SECTION ONE, ADDED THE CORRECTION BENEATH
-THE SECTION TWO FLOOR ROW, AND CORRECTED NO FIGURE OF ANY SERIES. THE THREE STATE FILES HAD ALL THREE A BUDGET LINE
-NO PASS MEASURED, AND TWO MORE WERE FOUND AND CORRECTED BY THIS CLOSE, WHICH RAISED THEM AT THAT TIME TO
-FOURTEEN THOUSAND SIX HUNDRED AND SEVENTY-FOUR AND THIRTEEN THOUSAND SIX HUNDRED AND TWO RESPECTIVELY
-FOR `state/chapter-summaries.md` AND `state/continuity.md`, WHOSE HEAD BLOCKS SAID ABOUT THREE THOUSAND
-EIGHT HUNDRED AND ABOUT FOUR THOUSAND FOUR HUNDRED, AND WHICH NOW STAND, AFTER EVERY EDIT THAT HAS FOLLOWED IT, AT
-THE FIGURE IN EACH FILE'S OWN HEAD BLOCK. A BUDGET LINE IS A FIGURE AND A FIGURE NO PASS
-MEASURED IS NOT ONE.** **RAISED BY THE VOLUME 16 PLAN OF 2026-10-03, WHICH ADDED SECTION TWENTY, CORRECTED THE LENGTH OF THE FINAL VOLUME IN SECTION EIGHT AND AT THE FEET OF THE OTHER THREE STATE FILES, AND MOVED NO FIGURE OF ANY SERIES; THE PREVIOUS DECLARATION READ TWENTY-THREE THOUSAND EIGHT HUNDRED AND TWENTY-SEVEN AND WAS CORRECT WHEN IT WAS WRITTEN, AND A PASS THAT ADDS A SECTION AND LEAVES THE BUDGET ALONE HAS DECLARED A FIGURE IT DID NOT MEASURE.** **THE FIGURE ABOVE WAS RAISED BY THE VOLUME 15 BATCH 0005 REVIEW-REPAIR PASS OF 2026-10-03,
-AND BY THIS REVIEW-FIX PASS OF 2026-10-03, WHICH CORRECTED THE SLIDING WINDOW UNIVERSE, THE LADDER'S CLIMB COUNT AND
-THE DUPLICATE SWEEP'S LABELS IN THIS FILE AND IN THE OTHER THREE, AND WHICH ADDED THE PASS'S RECORD IN SECTION
-ONE AND AT THE FEET OF THE OTHER THREE STATE FILES, AND CORRECTED NO FIGURE OF ANY SERIES; it was raised before that
-by the Volume 15 Batch 0005 writing pass of 2026-10-03, which added this head block entry, a row for the
-batch at section one, rewrote section eight to name the close, and corrected no figure of any series. **THE EARLIER FIGURE OF
-ABOUT TEN THOUSAND EIGHT HUNDRED AND FORTY WAS ALREADY UNDERSTATED BY ABOUT FOUR THOUSAND SIX HUNDRED
-WORDS WHEN THIS PASS OPENED IT, AT FIFTEEN THOUSAND FOUR HUNDRED AND FIFTEEN MEASURED, AND IT IS
-CORRECTED HERE.** Raised a seventh time by the verification pass of 2026-10-03 over Volume 15 Batch 0003,
-which added section sixteen, corrected this budget, corrected the batch, volume and manuscript word
-figures in section one, and moved no figure of any series; raised a sixth time by
-the Volume 15 Batch 0002 writing pass of 2026-10-03, which added section thirteen, withdrew the
-prompt's figure-check total of one hundred and sixty in favour of one hundred and sixty-five, added
-the nine-hundred bare round hundred at the far board and the gesture finding, and moved no figure of
-any series; raised by the Volume 15
-Batch 0001 writing pass of 2026-10-03, which added section twelve; raised again by the review-fix pass
-of 2026-10-02, which added the apparatus correction, the floor that moved on the sheets and the record
-of that pass; raised again by the Volume 14 close of 2026-10-03, which re-derived every figure in this
-file against the forty-nine mornings and corrected one clause; corrected by the review-fix pass of
-2026-10-03 over that close, which found this budget understated by about twelve hundred words, found
-one handoff clause standing on its head, and moved no figure of any series; and raised a fifth time by
-the review-fix pass of 2026-10-03 over Volume 15 Batch 0001, which rewrote section eight, withdrew a
-misclassified figure, added the bare round hundred note and moved no figure of any series. The
-detail behind those passes is at `workspace/volume-14/batch-0005/SELF-CHECK.md`, at
-`workspace/volume-15/batch-0002/SELF-CHECK.md`, at `workspace/volume-15/batch-0003/SELF-CHECK.md`, at
-`reviews/volume-14-close.findings.md`, at `reviews/volume-14-close-repair.findings.md` and at
-`reviews/volume-15-batch-0001-repair.findings.md`, and is not repeated here. History is in
-`reviews/state-archive-2026-10-02/`; measurements belong in `reviews/`, which no prompt reads. Read
-this file whole, and the other three whole.**
+**THIS FILE DECLARES NO LENGTH OF ITSELF, AND THAT IS A RULE AND NOT AN OMISSION.** Earlier revisions opened with a line stating this file's own word count, and that line was wrong by construction rather than wrong by arithmetic: **every pass that appends a section invalidates it, which is why four passes in a row left the other three state files carrying figures nobody had measured, and why the review of Volume 16 Batch 0001 named the line as a trap rather than as a figure.** **MEASURE ANY OF THE FOUR STATE FILES PER FILE AND NEVER BY CONCATENATION, WHICH MEANS `wc -w state/current.md` AND NOT A `cat` OF SEVERAL OF THEM INTO ONE COUNT.** As of the review-repair pass of 2026-10-03 over Volume 16 Batch 0001 the four measured thirty-one thousand three hundred and ninety-nine, seventeen thousand four hundred and eleven, twenty thousand four hundred and twenty and nineteen thousand four hundred and ninety-five words in `current.md`, `chapter-summaries.md`, `continuity.md` and `open-threads.md` in that order, **and those four are a measurement of that pass and not a declaration, because writing this paragraph moved all four of them.**
 
-**AND AFTER THAT PASS, THE REVIEW-REPAIR PASS OF 2026-10-03 OVER THE SAME BATCH, WHICH FOUND SIX PROSE DEFECTS, TWO RULE
-BREACHES AND FOUR MEASUREMENT CLAIMS THAT DID NOT REPRODUCE, REWOUND SIX SENTENCES ACROSS SIX OF THE NINE MORNINGS, TOOK
-THE CARRIED SECOND RECKONING OFF THE FORTY-SEVENTH MORNING'S PAGE, REWOUND ONE HEADING, REWOUND THREE STANDING BLOCKS
-THAT WERE STILL SPOKEN IN THE WORDING OF A MORNING BEHIND, AND MOVED NO FIGURE OF ANY SERIES.** The batch is 19,140 words
-and was 19,043; Volume 15 is 115,783 and was 115,686; the manuscript is 2,031,392 and was 2,031,295, across the same
-seven hundred and thirty-five files. **The batch's own file records all of it at `workspace/volume-15/batch-0005/SELF-CHECK.md`
-section nine and withdraws by name every figure of its own that did not reproduce.**
+**THE LATEST PASS TO WRITE IN THIS FILE IS THE REVIEW-REPAIR PASS OF 2026-10-03 OVER VOLUME 16 BATCH 0001, AND IT IS AT SECTION TWENTY-FIVE.** It replaced section twenty-four's second-gate figures, and the batch record's, with one set derived from the single implementation at `reviews/gate.py`; it corrected a wrong explanation of a right number at section twenty-four; it removed the self-referential budget line from the head block of all four state files; and it moved no figure of any series, altered no morning, touched no controller file and created no phase. Its record is `reviews/volume-16-batch-0001-repair.findings.md`.
 
-**AND AFTER THAT PASS, THE CLOSE OF VOLUME 15, WHICH RAN ON 2026-10-03 AND WROTE NO PROSE, ALTERED NO MORNING, MOVED NO
-FIGURE OF ANY SERIES, ANSWERED NO THREAD, TOUCHED NO CONTROLLER FILE AND CREATED NO FURTHER PHASE.** It re-derived every
-derived figure of all forty-nine mornings against the card set's own rules and returned **782 required and 782 present
-and zero failures**; it ran the self-collision test first and both of its controls reproduce the last batch's published
-controls exactly, which is what settles the normalisation; it declared its paragraph unit in words before it ran either
-reading of the second gate and published **4,911 whole-paragraph chunks with 2 repeated shapes and 3 excess, and 69,962
-sliding eighteen-word windows with 20 repeated shapes and 37 excess, of which 17 shapes and 34 excess are the two locked
-sentences and 3 shapes and 3 excess are one standing block restated across a file boundary — the 69,744 this pass first
-printed for that universe is withdrawn and does not re-derive, and the two shape figures were measured against it**; it ran gate one beside them
-and returned **one pair inside the volume and nineteen touching it, all twenty the locked far-end sentence**; it ran the
-exact-duplicate sweep, the sixteen-line sweep and the ordinary-order check and **found three floors that had moved**, being
-the ladder on five mornings of Batch 0004, the drawer on one morning of Batch 0005, and the carried second reckoning
-printed on ten of the twelve fourth-line mornings. **IT REPAIRED NONE OF THE THREE, BECAUSE REPAIRING ANY OF THEM MEANS
-WRITING IN A CLOSED MORNING, AND IT PUT ALL THREE IN THE VOLUME 15 LOCK AT `outline/ending.md` SO THAT NO SUCCESSOR
-INHERITS THEM AS STANDING FACTS.** It withdrew nine figures of the last batch's own gate and sweep tables by name and
-printed the figures that replace them beside them, corrected the claim that the locked far-end sentence is not in the
-volume behind, corrected three budget figures in this state layer that no pass had measured, and wrote the Volume 15
-ending lock at the end of `outline/ending.md`. **ITS RECORD IS `reviews/volume-15-close.findings.md`.**
+**THE PASS HISTORY OF THIS FILE IS NOT REPEATED IN THIS BLOCK AND IS IN THREE PLACES INSTEAD.** The numbered sections below carry one section per pass, in the order the passes ran. `reviews/` carries every findings file, including the passes this file does not number. And the two closed volumes whose detail was here and nowhere else are still reachable: the Volume 15 Batch 0005 review-repair record is at `workspace/volume-15/batch-0005/SELF-CHECK.md` section nine, which withdraws by name every figure of its own that did not reproduce, and the Volume 15 close record is at `reviews/volume-15-close.findings.md` and is summarised at section nineteen below. **THE HEAD BLOCK USED TO CARRY A STACK OF ATTRIBUTIONS REACHING BACK THROUGH ELEVEN PASSES, AND IT WAS THE ONLY BLOCK IN THE STATE LAYER THAT GREW WITH EVERY RUN WHILE THE OTHER THREE STOOD STILL. A FILE THAT MUST BE EDITED BY EVERY PASS SHOULD NOT ALSO CARRY A FIGURE THAT EVERY PASS INVALIDATES.**
 
-Last rewritten 2026-10-03, by the **Volume 16 Batch 0001 writing pass, which wrote the first ten mornings of the
-sixteenth and last volume in `workspace/volume-16/batch-0001/`, corrected the manuscript figures in section one, added
-section twenty-one carrying the standings at day nine hundred and fifty-eight, moved no figure of any series against its own
-rule, closed no thread and created one successor. Before that by the **Volume 15 close, which closed the volume, re-derived every figure in this file
-against the forty-nine mornings, corrected the volume's standing in section one and section eight, added section
-nineteen, added the correction beneath the section two floor row so that the day-899 standings are not read as day-948
-standings, corrected this budget and the budgets of the two other state files that were understated by more than twenty
-thousand words between them, moved no figure of any series and created no phase.** Before that, by the **Volume 15 Batch 0005 writing pass, which wrote the volume's last nine mornings,
-days nine hundred and forty to days nine hundred and forty-eight, files `chapter-0727.md` through `chapter-0735.md`,
-wrote no prose into any closed morning, moved no figure of any series, and created the one successor, which is the
-volume's close. It found and paid **three figures in its own prompt that were wrong against its own rules and did not
-repair the prompt**, being the figure-check total, printed as one hundred and sixty where the prompt's own arithmetic
-makes one hundred and forty-four; the batch's parity, printed as five odd and four even where the nine days make four
-odd and five even; and the ordinal of the run on day nine hundred and forty-six, printed as four hundred and sixtieth
-where the rule makes four hundred and ninety-sixth, which also destroys the prompt's claim that this batch carries two
-round tens ordinals instead of one. **A fourth of the same class is that the prompt names day nine hundred and
-forty-two for the locked figures and the card set names day nine hundred and forty-four.** Its own measurements are at
-`workspace/volume-15/batch-0005/SELF-CHECK.md` and its per-morning record is the last section of
-`state/chapter-summaries.md`. Before that, by the
-**verification pass over Volume 15 Batch 0003, which was itself
-dispatched against a batch that was already written and complete and which restarted no morning.** It
-found and paid **twelve defects in six mornings, all of them dates, counts or spellings and none of them
-touching a figure of any series**: a window half dated to Friday where the half last moved on Sunday, the
-round figure at the far board dated four days back where it came round the day before, day 922 called a
-Tuesday, a yesterday called a Tuesday, a figure printed *four thousand and one hundred and one*, a card
-dated into the future, a window half attributed to the half that had just moved, a fourth line dated to
-Friday where it was rubbed off on Tuesday, a deciding sitting dated to Saturday in a heading and in a body
-where the card set puts it on a Thursday, a count of days in a yard that broke a run of three, the same
-Saturday again, and a round figure dated three days back where it was nine. It re-derived all one hundred
-and sixty figures, re-ran both gates on the sliding reading and both sweeps, moved no figure of any
-series, created no successor, and touched no controller file. It also **named four weekday references in
-this batch that look like the same fault and are not, because day 917 was a Saturday and day 910 was a
-Saturday, and a successor that sweeps weekday words will find fourteen and may repair either four of them
-or twelve.** Before that, by the
-**review repair pass over Volume 15 Batch 0002**, which wrote no new
-prose, restarted no morning, moved no figure of any series, created no successor and touched no
-controller file. **It found and paid fourteen findings: six weekday clauses in the window halves that
-named the wrong day on six mornings of nine, the sill called the third hour, an eighteenth morning
-called the fifteenth, the span's arrival dated to Saturday on four sites when the card set puts the
-bridge into the argument on the thirteenth morning, a character's claim to have stopped speaking on a
-morning two chapters show her speaking on, a within-speaker restatement cluster and a staging
-contradiction in `chapter-0697.md`, an addition in `chapter-0706.md` that did not add, and TWO STALE
-WORD FIGURES FOR ONE BATCH IN SIX PLACES.** Before that, by a verification pass over Volume 15 Batch
-0002, **which was itself dispatched against a batch that was already written and did not rewrite a
-morning.** It found the batch's published nil on the sliding reading to be false, repaired three figure
-spellings and six standing blocks in seven mornings, withdrew two false claims from the batch's own
-self-check and from this file, moved no figure of any series, created no successor, and touched no
-controller file. Before that, by the review-fix pass
-over Volume 15 Batch 0003, which wrote no new prose, touched one morning by one sentence, moved no figure
-of any series, created the batch's missing successor prompt, and touched no controller file. Before that,
-by the Volume 15 Batch 0003 writing pass, which wrote ten mornings including the volume's major turn,
-wrote no prose into any closed morning, moved no figure of any series and touched no controller file.
-Before that, by the Volume 15 Batch 0002 writing pass, which wrote no prose into any closed morning,
-moved no figure of any series and touched no controller file.
-Before that, by the
-review-fix pass over Volume 15 Batch 0001, which wrote no prose and altered no morning. Every figure
-below is re-derivable from the rule beside it. **Nothing is inherited on trust, and the closes
-re-derived rather than appended, so nothing in this file is an append-only residue.**
+**Every figure below is re-derivable from the rule beside it. Nothing is inherited on trust, and the closes re-derived rather than appended, so nothing in this file is an append-only residue. Read this file whole, and the other three whole.**
 
 ## 1. Where the manuscript is
 
@@ -1610,12 +1483,12 @@ APPARATUS QUOTE LINES COUNTED AS PARAGRAPHS OF THEIR OWN, HEADINGS EXCLUDED, AND
 | the batch | **18,702 words across ten files**, per file 2,716, 2,316, 1,655, 1,717, 1,738, 1,673, 1,827, 1,808, 1,608 and 1,644 |
 | the volume so far | **18,702 words across ten files of forty-five** |
 | the manuscript | **2,050,094 across seven hundred and forty-five files** |
-| gate one, batch scope | **290 prose paragraphs of thirty words or more, zero exact pairs** |
-| gate one, batch plus Volume 15 | **3,788 paragraphs of thirty words or more, one exact pair, the locked far-end sentence at eight occurrences, being seven closed mornings behind and one here** |
-| the second gate, whole-paragraph | **zero repeated shapes and zero excess** |
-| the second gate, sliding | **11,839 windows at the declared scope, 113 repeated shapes and 120 excess, and no shape above three occurrences** |
-| the exact-duplicate sweep | **zero at any paragraph length, literal and under the number-and-ordinal normalisation** |
-| the self-collision controls | **twenty-seven and twelve excess sliding windows on the two declared paragraphs, with the whole-paragraph reading silent on both, and both figures reproduce the controls the volume behind published** |
+| gate one, batch scope | **290 prose paragraphs of thirty words or more, zero exact pairs — REPRODUCED BY THE REVIEW-REPAIR PASS OF 2026-10-03 AND THE ONLY FIGURE IN THIS TABLE THAT THE REVIEW REPRODUCED FIGURE FOR FIGURE ALONG WITH THE HUNDRED AND FORTY-FIVE AND THE SIX HUNDRED AND SEVEN** |
+| gate one, batch plus Volume 15 | **3,788 paragraphs of thirty words or more, one exact pair, the locked far-end sentence at eight occurrences — WITHDRAWN BY THE REVIEW-REPAIR PASS OF 2026-10-03. AT THE UNIT DECLARED ABOVE THE FIFTY-NINE FILES RETURN 2,037 PARAGRAPHS OF THIRTY WORDS OR MORE AND ONE REPEATED SHAPE AT THREE OCCURRENCES, BEING THE LOCKED FAR-END SENTENCE AT `chapter-0719.md`, `chapter-0735.md` AND `chapter-0736.md`. THE THREE AND THE EIGHT DO NOT REPRODUCE AND ARE NAMED HERE RATHER THAN DELETED** |
+| the second gate, whole-paragraph | **zero repeated shapes and zero excess — WITHDRAWN BY THE REVIEW-REPAIR PASS OF 2026-10-03. THE BATCH RETURNS 829 CHUNKS, 8 REPEATED SHAPES AND 11 EXCESS, AND THE VOLUME ACROSS BOTH BATCHES ON DISK RETURNS 1,754 CHUNKS, 16 SHAPES AND 28 EXCESS. THE NIL WAS WRONG AND NO SUCCESSOR MAY INHERIT IT** |
+| the second gate, sliding | **11,839 windows at the declared scope, 113 repeated shapes and 120 excess, and no shape above three occurrences — WITHDRAWN BY THE REVIEW-REPAIR PASS OF 2026-10-03 AND CORRECTED AT 11,781 WINDOWS, 110 SHAPES AND 117 EXCESS, THE LARGEST STILL AT THREE, WHICH IS THE ONE CLAIM IN THE ROW THAT REPRODUCED** |
+| the exact-duplicate sweep | **zero at any paragraph length, literal and under the number-and-ordinal normalisation — THIS ZERO IS WITHIN THE BATCH AND IS CORRECT. THE SAME SWEEP RUN AGAINST THE WHOLE MANUSCRIPT RETURNS FIVE PARAGRAPHS, BEING THE FAR-END SENTENCE AT ELEVEN, THE COMFORT LINE AT THIRTEEN, AND THREE ONE-LINE REPLIES, AND THE TWO SCOPES ARE NOT IN CONFLICT** |
+| the self-collision controls | **twenty-seven and twelve excess sliding windows on the two declared paragraphs, with the whole-paragraph reading silent on both, and both figures reproduce the controls the volume behind published — WITHDRAWN BY THE REVIEW-REPAIR PASS OF 2026-10-03. THE TWO DECLARED CONTROL PARAGRAPHS WERE NEVER PUT ON DISK, SO NOBODY CAN REBUILD THEM AND NEITHER FIGURE REPRODUCES. THE NORMALISATION THEY DESCRIBE IS NOT IN DOUBT, BECAUSE IT RETURNS THE VOLUME BEHIND'S OWN 2,664 AND 1,747** |
 | the apparatus | **seven spent of thirty for the volume, one `Entered` label, and none on the first morning** |
 | the lock state | **far-end figure whole and comfort line whole on day 949 only; each of the six load-bearing strings once on that morning and zero on the other nine; no shortened form anywhere** |
 | the compost line | **every mention reads paid at thirty-one, no morning of this batch finds thirty-two, and no figure for a turn appears on any of the ten** |
@@ -1661,10 +1534,13 @@ COUNCIL IS A SINGLE AUTHORITY.**
    ordinal and the window on eight of ten mornings, and one paragraph carried the whole floor list on eight of ten
    mornings. **The recitations were redistributed across nine speakers and the floors were scattered into the scene and cut
    down to what each morning's business touches; the figures are unchanged and every one of them is still printed on its own
-   morning.** The batch now returns 113 and 120 with no shape above three. **The volume behind's own published figure of
-   twenty repeated shapes and thirty-seven excess over forty-nine mornings does not reproduce at this unit: run at the
-   settled normalisation, those forty-nine mornings return fifty-eight shapes and a hundred and thirty excess. Both numbers
-   stand and neither is this batch's.**
+   morning.** The batch now returns 113 and 120 with no shape above three. **BOTH FIGURES ARE WITHDRAWN BY THE REVIEW-REPAIR PASS OF 2026-10-03 AND CORRECTED AT 110 SHAPES AND 117 EXCESS ACROSS 11,781 WINDOWS, THE LARGEST STILL AT THREE.** **The volume behind's own published figure of
+   twenty repeated shapes and thirty-seven excess over forty-nine mornings does not reproduce at this unit, and neither does
+   the fifty-eight shapes and a hundred and thirty excess this paragraph once printed in its place: run at the normalisation
+   declared at `reviews/gate.py`, those forty-nine mornings return sixty-seven shapes and a hundred and thirty-nine excess
+   across 73,448 windows. The paragraph counts of that same run do reproduce, at 2,664 and 1,747, which locates the
+   difference in the normalisation and not in the unit. The 58 and the 130 are withdrawn and named here rather than deleted,
+   and neither is this batch's.**
 3. **A FLOOR THAT A MORNING DOES NOT NAME IS NOT A FLOOR THAT HAS MOVED, AND A GATE THAT NORMALISES THE WORDS OUT OF A
    SENTENCE CANNOT SEE TWO FIGURES COLLIDING IN ONE.** The cards print every floor on every morning as a constraint on the
    writer and the volume behind's own mornings do not restate them all and neither does this one; **every floor on every
@@ -1825,23 +1701,55 @@ figure was moved back onto the day-899 series, and no successor inherits either 
 
 ### 24b. What was measured from the files in this pass, none of it inherited
 
+**THE FIGURES IN THIS TABLE WERE WRITTEN BY THE REFUSAL PASS OF 2026-10-03 AND EVERY ONE OF THE FOUR THAT THE REVIEW OF THAT PASS CHALLENGED HAS SINCE BEEN REPLACED BY SECTION TWENTY-FIVE. THEY ARE LEFT HERE UNALTERED BESIDE THE MARKING BECAUSE A PASS THAT SILENTLY EDITS AN EARLIER PASS'S TABLE MAKES THE EARLIER PASS LOOK LIKE IT GOT IT RIGHT. READ SECTION TWENTY-FIVE FOR THE FIGURES THAT GOVERN.**
+
 | | |
 |---|---|
-| the figure check | **one hundred and sixty-two required, one hundred and sixty-two present, zero failures**, being fourteen on each of ten mornings, two on each of the five odd mornings and four on each of the three fourth-line mornings, the second reckoning carried and not printed |
-| gate one, batch scope | **290 prose paragraphs of thirty words or more and zero exact pairs, reproducing section twenty-one exactly** |
-| the self-collision controls | **twenty-seven and twelve excess sliding windows on two declared paragraphs, with the whole-paragraph reading silent on the short one, both reproducing the published controls and settling the normalisation used here** |
+| the figure check | **one hundred and sixty-two required, one hundred and sixty-two present, zero failures**, being fourteen on each of ten mornings, two on each of the five odd mornings and four on each of the three fourth-line mornings, the second reckoning carried and not printed. THE COMPOSITION REPRODUCES AT SECTION TWENTY-FIVE AND THE PRESENCE HALF WAS NOT RE-RUN |
+| gate one, batch scope | **290 prose paragraphs of thirty words or more and zero exact pairs, reproducing section twenty-one exactly. THIS ONE REPRODUCES** |
+| the self-collision controls | **twenty-seven and twelve excess sliding windows on two declared paragraphs, with the whole-paragraph reading silent on the short one, both reproducing the published controls and settling the normalisation used here. WITHDRAWN AT SECTION TWENTY-FIVE: THE TWO DECLARED CONTROL PARAGRAPHS WERE NEVER PUT ON DISK AND NEITHER FIGURE REPRODUCES FOR ANYBODY** |
 | the lock state | **both locked sentences whole once each on the first morning, each of the six load-bearing strings once there and zero on the other nine, no shortened form anywhere** |
 | the apparatus | **seven block runs across the ten mornings, none on the first morning, one `Entered` label at `chapter-0739.md`, reproducing section twenty-one** |
 | the mechanical sweeps | **zero digits in body prose, zero month names except the modal verb, the second reckoning unprinted on all ten mornings** |
-| the second gate, both readings | **whole-paragraph 8 repeated shapes and 10 excess where section twenty-one published zero and zero; sliding 94 and 100 where it published 113 and 120. THE NORMALISATION USED HERE IS A RECONSTRUCTION AND NOT THE FILE'S OWN, BOTH SETS OF FIGURES STAND, AND THIS PASS PUBLISHES NO NIL IN EITHER READING AT ANY SCOPE** |
-| the batch length | **eighteen thousand six hundred and ninety-three words on `wc -w`, against the eighteen thousand seven hundred and two in section twenty-one, which was measured with a count that takes markdown emphasis markers as tokens. NEITHER REPLACES THE OTHER AND SECTION TWENTY-ONE WAS NOT EDITED** |
+| the second gate, both readings | **whole-paragraph 8 repeated shapes and 10 excess where section twenty-one published zero and zero; sliding 94 and 100 where it published 113 and 120. THE NORMALISATION USED HERE IS A RECONSTRUCTION AND NOT THE FILE'S OWN, BOTH SETS OF FIGURES STAND, AND THIS PASS PUBLISHES NO NIL IN EITHER READING AT ANY SCOPE. WITHDRAWN AT SECTION TWENTY-FIVE, WHICH REPLACES ALL FOUR NUMBERS WITH ONE SET FROM ONE IMPLEMENTATION: EIGHT SHAPES AND ELEVEN EXCESS WHOLE-PARAGRAPH AND 110 AND 117 SLIDING. THE EIGHT REPRODUCED, THE TEN WAS ONE LOW** |
+| the batch length | **eighteen thousand six hundred and ninety-three words on `wc -w`, against the eighteen thousand seven hundred and two in section twenty-one, which was measured with a count that takes markdown emphasis markers as tokens. NEITHER REPLACES THE OTHER AND SECTION TWENTY-ONE WAS NOT EDITED. THE ATTRIBUTION IS WRONG AND IS CORRECTED AT SECTION TWENTY-FIVE: BOTH COUNTS SPLIT ON WHITESPACE, SO AN EMPHASIS MARKER WAS NEVER A TOKEN IN EITHER, AND THE NINE WORDS ARE TEN FILES WITH NO END-OF-FILE NEWLINE FUSED AT NINE BOUNDARIES** |
 
 ### 24c. The three declared budgets in the state layer are stale, and this pass measured that and did not edit them
 
-**THE HEAD BLOCK OF THIS FILE DECLARED TWENTY-SEVEN THOUSAND AND ONE HUNDRED AND NINETY-SEVEN WORDS, AND THIS PASS MEASURED THIRTY THOUSAND THREE HUNDRED AND FORTY AT ITS HEAD BLOCK AND HAS RAISED ITS OWN LINE BELOW. THE OTHER THREE STATE FILES DECLARE SIXTEEN THOUSAND TWO HUNDRED AND SIXTY-SEVEN, SEVENTEEN THOUSAND ONE HUNDRED AND EIGHTY-ONE AND SEVENTEEN THOUSAND SIX HUNDRED AND NINETY-FIVE, AND THIS PASS MEASURED SEVENTEEN THOUSAND FOUR HUNDRED AND ELEVEN, TWENTY THOUSAND FOUR HUNDRED AND TWENTY AND NINETEEN THOUSAND FOUR HUNDRED AND NINETY-FIVE IN THEM. ALL THREE ARE LOW BY THE AMOUNT OF THE BATCH 0002 WRITING PASS AND ITS REVIEW-REPAIR PASS, WHICH ADDED SECTIONS AND LEFT THE LINES ALONE, AND THE RULE AT THE HEAD OF EACH FILE SAYS THAT A PASS WHICH ADDS A SECTION AND LEAVES THE BUDGET ALONE HAS DECLARED A FIGURE IT DID NOT MEASURE. THIS PASS EDITED NONE OF THE THREE BESIDES ITS OWN, BECAUSE A STALE PHASE THAT STARTS REWRITING FOUR STATE FILES IS THE HAZARD THIS SECTION EXISTS TO STOP, AND A SUCCESSOR SHOULD CORRECT ALL THREE LINES AND LEAVE THE WITHDRAWN WORDING MARKED.** The three declare `chapter-summaries.md`, `continuity.md` and `open-threads.md` in that order.
+**SUPERSEDED BY SECTION TWENTY-FIVE, WHICH DELETED THE LINES RATHER THAN CORRECTING THEM. THE MEASUREMENTS BELOW ARE KEPT BECAUSE THEY ARE TRUE AND BECAUSE THE REASON THEY WERE STALE IS THE FINDING.** **THE HEAD BLOCK OF THIS FILE DECLARED TWENTY-SEVEN THOUSAND ONE HUNDRED AND NINETY-SEVEN WORDS, AND THIS PASS MEASURED THIRTY THOUSAND THREE HUNDRED AND FORTY AT ITS HEAD BLOCK AND HAS RAISED ITS OWN LINE BELOW. THE OTHER THREE STATE FILES DECLARE SIXTEEN THOUSAND TWO HUNDRED AND SIXTY-SEVEN, SEVENTEEN THOUSAND ONE HUNDRED AND EIGHTY-ONE AND SEVENTEEN THOUSAND SIX HUNDRED AND NINETY-FIVE, AND THIS PASS MEASURED SEVENTEEN THOUSAND FOUR HUNDRED AND ELEVEN, TWENTY THOUSAND FOUR HUNDRED AND TWENTY AND NINETEEN THOUSAND FOUR HUNDRED AND NINETY-FIVE IN THEM. ALL THREE ARE LOW BY THE AMOUNT OF THE BATCH 0002 WRITING PASS AND ITS REVIEW-REPAIR PASS, WHICH ADDED SECTIONS AND LEFT THE LINES ALONE, AND THE RULE AT THE HEAD OF EACH FILE SAYS THAT A PASS WHICH ADDS A SECTION AND LEAVES THE BUDGET ALONE HAS DECLARED A FIGURE IT DID NOT MEASURE. THIS PASS EDITED NONE OF THE THREE BESIDES ITS OWN, BECAUSE A STALE PHASE THAT STARTS REWRITING FOUR STATE FILES IS THE HAZARD THIS SECTION EXISTS TO STOP, AND A SUCCESSOR SHOULD CORRECT ALL THREE LINES AND LEAVE THE WITHDRAWN WORDING MARKED.** The three declare `chapter-summaries.md`, `continuity.md` and `open-threads.md` in that order.
 
 ### 24d. The standing of this batch is unchanged and it is not a resolution
 
 **THE THIRTY-FIVE ARE THIRTY-FIVE IN AND THIRTY-FIVE OUT. THE FOUR LOSSES ARE FOUR, NONE REDUCED, NONE RECOVERED, NONE RE-NAMED AND NONE PRICED, AND NO FIFTH ADDED. THE SECOND PLACE IS STILL WITHOUT WATER. THE NETWORK IS UNEVEN WITH A JOINT THAT HAS NOTHING AGAINST IT AND NO OPERATOR AND NOBODY APPOINTED. BOTH REFUSALS STAND AS REFUSALS. THE OFFER ON THE LOW BOARD IS UNDATED, UNPICKED AND NOT WITHDRAWN. IONA VEY IS NAMED ON NO MORNING OF THIS BATCH. THE WINDOW IS OPEN AND WAS NOT ENTERED AND WAS NOT DESCRIBED. THE TENTH MORNING STILL ENDS IN THE SILENCE BEFORE A QUESTION IS ANSWERED, AND THE NEXT MORNING STILL MUST FIND HIM DECLINE IN FRONT OF THE YARD, WHICH BATCH 0002 HAS ALREADY WRITTEN AT ITS TWENTIETH MORNING.**
 
 **A REFUSAL IS NOT A RESOLUTION. A CLOSE IS NOT A RESOLUTION. NOTHING HERE IS ANSWERED, CLOSED, REDUCED OR PRICED, AND NOBODY IS THANKED.**
+
+---
+
+## 25. The review-repair pass over Volume 16 Batch 0001, 2026-10-03, and the one normalisation this layer now has
+
+**THIS PASS WROTE NO PROSE AND EDITED NO CHAPTER. THE TEN MORNINGS AT `workspace/volume-16/batch-0001/` ARE BYTE-FOR-BYTE AS `workspace/continuation/next-0014/` LEFT THEM. NO DAY, CLOCK, NAME, FLOOR, LOCK, CARD-DIRECTED BEAT, SERIES FIGURE, THREAD OR PLANNED PLOT MOVED, NO MORNING WAS RESTARTED, NO CONTROLLER FILE WAS TOUCHED, NO MARKER WAS FORGED AND NO SUCCESSOR WAS CREATED, AND THE PASS BEFORE THIS ONE'S REFUSAL STANDS. ITS RECORD IS `reviews/volume-16-batch-0001-repair.findings.md`.**
+
+### 25a. What the review found and what this pass paid
+
+**THE REVIEW AT `logs/batch-0001.review.log` FOUND EIGHT THINGS AND THIS PASS PAID FOUR AND DECLINED FOUR. THE REVIEW'S OWN VERDICT WAS THAT THE REFUSAL WAS MANDATED AND COMPLIED WITH EXACTLY, AND THAT WAS RIGHT, AND NONE OF THE EIGHT IS A DEFECT IN THE PROSE.**
+
+1. **PAID, AND IT IS THE ONE THAT MATTERS: THE SECOND GATE HAD TWO SETS OF FIGURES AND NEITHER REPRODUCED.** Section twenty-one published a whole-paragraph nil and 113 and 120 sliding; section twenty-four published 8 and 10 and 94 and 100 and called its own readings reconstructions. **THE IMPLEMENTATION WAS NEVER KEPT, WHICH IS WHY NEITHER SET COULD BE RE-DERIVED, AND A GATE WITH NO IMPLEMENTATION ON DISK IS NOT A MEASUREMENT.** The implementation is now at `reviews/gate.py`, with its paragraph unit and its normalisation in its own header and both readings in the file. **THE UNIT IS CONFIRMED FROM OUTSIDE THIS BATCH: AT IT, THE FORTY-NINE MORNINGS OF THE VOLUME BEHIND RETURN 2,664 PARAGRAPHS OF WHICH 1,747 ARE THIRTY WORDS OR MORE, AND BOTH ARE THE FIGURES ITS OWN CLOSE PUBLISHED, WHILE A BLANK-LINE UNIT RETURNS 419 AND 284 FOR TEN FILES AND IS WHAT THE REFUSAL PASS MEASURED.**
+2. **THE SECOND GATE IS NOT NIL, AND THE NIL AT SECTION TWENTY-ONE WAS WRONG.** At batch scope, **829 chunks, 8 repeated shapes and 11 excess**; at volume scope across both batches on disk, **1,754 chunks, 16 shapes and 28 excess**. The sliding reading returns **11,781 windows, 110 shapes and 117 excess** at batch scope with the largest shape at three, and **25,142 windows, 211 shapes and 250 excess** at volume scope with the largest at five. **THE THREE OCCURRENCE CEILING HOLDS, THE REPEATING SHAPES ARE THREE SPEAKERS' SENTENCE FRAMES AND TWO FLOOR RECITATIONS AND NOT ONE FIGURE OF ANY SERIES, AND NO MORNING WAS TOUCHED FOR ANY OF IT.** The eight shapes are named at section eleven of the batch's own record so that a successor does not have to go and find them.
+3. **PAID: A WRONG EXPLANATION OF A RIGHT NUMBER, WHICH IS THE MORE DANGEROUS HALF OF THE SAME FINDING.** The record said the shorter batch length came from a count that treats markdown emphasis markers as tokens. **Both counts split on whitespace, so the marks opening a spoken line are one token in each and the marker was never in either count. The nine words are ten files that end without an end-of-file newline: one `cat` of the ten fuses the last token of each file onto the first token of the next at nine boundaries.** The governing figure is **18,702, measured one file at a time**, and 18,693 is withdrawn as a concatenation artefact. `reviews/README.md` already carried the rule after a Volume 11 close lost three words the same way.
+4. **PAID: ONE COUNT IN THE EXACT-DUPLICATE SWEEP.** `No.` stands at five closed mornings behind and not at four. Every other count in that row reproduced, the eleven and the thirteen and both singles.
+5. **PAID: THE STATE LAYER'S SELF-REFERENTIAL BUDGET LINES ARE DELETED FROM ALL FOUR FILES, NOT CORRECTED.** A line that states a file's own word count is invalidated by the act of appending to it, which is why four passes in a row left three files stale, and the reviewer's finding is that the fixed point is unstable by construction. **THE HEAD BLOCK OF THIS FILE FELL FROM A HUNDRED AND THIRTY-SEVEN LINES TO NINE. THE FOUR MEASUREMENTS THE REFUSAL PASS TOOK ARE RECORDED ONCE, IN THE HEAD BLOCK AND IN THE REPAIR FINDINGS, AS A MEASUREMENT OF THAT PASS AND NOT AS A DECLARATION.**
+
+### 25b. What this pass declined, and why, in each case
+
+**THE REFUSAL LOOP AND THE MISSING DONE MARKER IN `workspace/volume-16/batch-0001/`. A MARKER IS CONTROLLER-OWNED AND NO WRITING PHASE MAY FORGE ONE, AND FORGING ONE WAS THE ONLY ACT AVAILABLE TO EITHER PASS THAT WOULD HAVE STOPPED THE QUEUE. THE REVIEW IS RIGHT THAT THE PASS WILL BE RE-DISPATCHED AND RIGHT THAT EVERY REPEAT GROWS THE STATE LAYER, AND BOTH ARE PROPERTIES OF THE CONTROL PLANE.**
+
+**THE VERBATIM DUPLICATION IN THE THREE QUEUED BATCH PROMPTS. THE FLOORS BLOCK APPEARS TEN TIMES IN EACH OF `workspace/volume-16/batch-0001/PROMPT.md`, `batch-0002/PROMPT.md` AND `batch-0003/PROMPT.md`, AT ROUGHLY TWENTY-TWO TO TWENTY-EIGHT THOUSAND DUPLICATED BYTES IN EACH. IT IS EMITTED BY THE PLAN PHASE'S PROMPT BUILDER, AND A WRITING PHASE THAT REWRITES A COMPLETED PHASE'S PROMPT LEAVES A FILE NOBODY WROTE AND A SUCCESSOR WOULD WRITE FROM. NAMED, MEASURED AND NOT TOUCHED.**
+
+**`state/phase-ledger.json` STILL READING `phase-000-bootstrap` AGAINST A TWENTY-FILE VOLUME. CONTROLLER-OWNED, REPORTED AGAIN, AND NOT THE NINTH TIME IT HAS BEEN REPORTED. THE REVIEW WORKFLOW PASSING A SUBAGENT AS A PRIMARY AGENT, WHICH FELL BACK TO THE WRITER AT `logs/batch-0001.review.log:1`. WORKFLOW-OWNED.**
+
+**THE REVIEW'S EIGHTH FINDING, WHICH IS THAT `chapter-0738.md`, `chapter-0741.md` AND `chapter-0744.md` ARE THIN. DECLINED, AND THE REASON IS A MEASUREMENT.** This volume declares no length band for its mornings, so there is nothing for three files to be thin against. **BYTE SIZE IS ALSO THE WRONG INSTRUMENT IN THIS HOUSE, BECAUSE EVERY FIGURE IN BODY PROSE IS SPELLED AND A MORNING THAT PRINTS FEWER FIGURES COSTS FEWER BYTES FOR THE SAME SCENE; `chapter-0736.md` IS THE LONGEST AT 2,716 BECAUSE IT OPENS THE VOLUME.** All three have a stated goal, resistance, a change, a beat and a consequence. **ONE NARROWER PART OF THE NOTE SURVIVES AND IS NAMED FOR THE VOLUME 16 CLOSE: THE CLOSING PARAGRAPH OF `chapter-0741.md` IS A FLOOR RECITAL WHERE `chapter-0738.md` AND `chapter-0744.md` BOTH CLOSE ON A PERSON AND A CONSEQUENCE, AND REPAIRING IT MEANS REWRITING THE LAST PARAGRAPH OF A MORNING A COMPLETED SUCCESSOR ALREADY STANDS ON.**
+
+### 25c. The standings are unchanged and this is not a resolution
+
+**THE THIRTY-FIVE ARE THIRTY-FIVE IN AND THIRTY-FIVE OUT. THE FOUR LOSSES ARE FOUR. THE SECOND PLACE IS STILL WITHOUT WATER. THE JOINT STILL HAS NOTHING AGAINST IT AND NO OPERATOR AND NOBODY WAS APPOINTED. BOTH REFUSALS STAND AS REFUSALS. THE OFFER ON THE LOW BOARD IS UNDATED, UNPICKED AND NOT WITHDRAWN. IONA VEY IS NAMED ON NO MORNING OF THIS BATCH. THE WINDOW IS OPEN AND WAS NOT ENTERED AND WAS NOT DESCRIBED. THE MAJOR TURN IS THE TWENTY-FIRST MORNING AT DAY 969 AND IS NOT YET WRITTEN, AND IT IS NOT A FIGURE THIS PASS MOVED.**

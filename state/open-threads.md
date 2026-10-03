@@ -1,36 +1,14 @@
 # Open Threads
 
-**Budget: this file is at seventeen thousand and six hundred and ninety-five words, measured on its own bytes
-with `len(text.split())`, which is the count any later pass re-derives and which moves with every
-edit. **RAISED BY THE VOLUME 16 BATCH 0001 WRITING PASS OF 2026-10-03, WHICH ADDED THE CLOSING SECTION OF THIS FILE, CLOSED
-NO THREAD OF THE THIRTY-FIVE, CUT NO NOT-KNOWN ROW AND MOVED NO FIGURE OF ANY SERIES. THE PREVIOUS DECLARATION READ FIFTEEN
-THOUSAND AND THREE HUNDRED AND TWENTY-SEVEN AND WAS CORRECT WHEN IT WAS WRITTEN; A PASS THAT ADDS A SECTION AND LEAVES THE
-BUDGET ALONE HAS DECLARED A FIGURE IT DID NOT MEASURE.** **THE BUDGET LINE PREVIOUSLY READ ABOUT FOUR THOUSAND TWO HUNDRED WORDS AND THAT WAS FALSE BY
-NEARLY TWELVE THOUSAND WORDS WHEN THE VOLUME 15 CLOSE OPENED IT, AT 13,684 MEASURED, AND IT IS
-CORRECTED HERE. THREE STATE FILES HAVE CARRIED A BUDGET LINE NO PASS MEASURED, AND ALL THREE ARE
-NOW CORRECTED.** Raised by the review-fix pass of
-2026-10-02, raised again by the Volume 14 close of 2026-10-03, and corrected by the review-fix pass of
-2026-10-03 over that close, which added the two controller items it could not clear, moved the
-Volume 15 plan phase to the directory name this tree uses for one, and corrected three counts below.
-Raised a fourth time by the Volume 15 Batch 0001 writing pass of 2026-10-03, which added section six;
-**that pass's edit re-declared the budget and left the earlier declaration standing underneath it,
-and the review-fix pass over that batch removed the second declaration so that this file carries one
-figure and not two. Raised a fifth time by the Volume 15 Batch 0002 writing pass of 2026-10-03, which
-added section seven, a sixth time by the Volume 15 Batch 0003 writing pass, which added sections nine and
-ten, and a seventh time by the review-fix pass over that batch, which added section eleven and which
-added a standing for the one relationship this file does not carry and may not number.**
-Read this file whole. Figures are in
-`state/current.md`, the story is in `state/continuity.md`, and the archived layer at
-`reviews/state-archive-2026-10-02/` holds the per-thread detail for every row below.**
+**THIS FILE DECLARES NO LENGTH OF ITSELF, AND THAT IS A RULE AND NOT AN OMISSION.** It used to open with its own word count, and the figure was false by nearly twelve thousand words when the Volume 15 close opened it and false again by the amount of two later passes, **because a pass that appends a section invalidates the figure it printed in the section before it. THE LINE WAS DELETED ON 2026-10-03 BY THE REVIEW-REPAIR PASS OVER VOLUME 16 BATCH 0001, AND THE SAME LINE WAS DELETED THE SAME DAY FROM THE OTHER THREE STATE FILES. MEASURE THIS FILE PER FILE: `wc -w state/open-threads.md`.** It measured nineteen thousand four hundred and ninety-five words when that pass opened it, **and that is a measurement of that pass and not a declaration, because writing this paragraph moved it.**
 
-Last rewritten 2026-10-03 by the **Volume 16 Batch 0001 writing pass, which wrote the first ten mornings of the
-sixteenth and last volume and closed none of the thirty-five, moved no figure of any series, added no thirty-sixth, cut no
-not-known row, reworded no refusal, and added one closing section and three findings.** Before that by the review-fix pass
-over Volume 15 Batch 0003, which wrote no prose, closed none of the thirty-five, moved no figure of any series, added no
-thirty-sixth, and added section eleven. Before that by the Volume 15 Batch 0003 writing pass, and before that by the Volume
-15 Batch 0002 writing pass, and before that by the review-fix pass over the Volume 14 close, which wrote no prose, closed
-none of the thirty-five, moved no figure of any series, and added no thirty-sixth.
-**Volumes 14 and 15 are closed and Volume 16 is open at ten mornings of forty-five.**
+Figures are in `state/current.md`, the story is in `state/continuity.md`, and the archived layer at `reviews/state-archive-2026-10-02/` holds the per-thread detail for every row below.
+
+**THE LATEST PASS TO WRITE HERE IS THE REVIEW-REPAIR PASS OF 2026-10-03 OVER VOLUME 16 BATCH 0001, WHICH CLOSED NONE OF THE THIRTY-FIVE, ADDED NO THIRTY-SIXTH, CUT NO NOT-KNOWN ROW, REWORDED NO REFUSAL, MOVED NO FIGURE OF ANY SERIES AND TOUCHED NO CHAPTER FILE. ITS RECORD IS `reviews/volume-16-batch-0001-repair.findings.md`.** The pass before it was the Volume 16 Batch 0001 writing pass, which added the closing section and three findings.
+
+**THE TWO CONTROLLER ITEMS THIS FILE CARRIES ARE STILL CARRIED AND WERE REPORTED AGAIN ON 2026-10-03 AND NEITHER WAS CLEARED, BOTH BEING OWNED BY THE CONTROL PLANE: `state/phase-ledger.json` STILL READS `phase-000-bootstrap` AGAINST A TWENTY-FILE VOLUME, AND THE REVIEW WORKFLOW STILL PASSES A SUBAGENT AS A PRIMARY AGENT, WHICH FELL BACK TO THE WRITER AT `logs/batch-0001.review.log:1`.**
+
+**Volumes 14 and 15 are closed and Volume 16 is open at twenty mornings of forty-five. Read this file whole.**
 
 ---
 

@@ -1,38 +1,12 @@
 # Continuity
 
-**Budget: this file is at seventeen thousand and one hundred and eighty-one words, measured on its own bytes
-with `len(text.split())`, which is the count any later pass re-derives and which moves with every
-edit. **RAISED BY THE VOLUME 16 BATCH 0001 WRITING PASS OF 2026-10-03, WHICH ADDED SECTION SIXTEEN, WHICH RECORDS WHAT THE
-FIRST TEN MORNINGS OF THE SIXTEENTH AND LAST VOLUME CHANGED IN THIS HOLDING, AND WHICH CORRECTED NO FIGURE OF ANY SERIES
-AND ANSWERED NO THREAD AND CLOSED NO THREAD. THE PREVIOUS DECLARATION READ FIFTEEN THOUSAND FOUR HUNDRED AND TWENTY AND
-WAS CORRECT WHEN IT WAS WRITTEN; A PASS THAT ADDS A SECTION AND LEAVS THE BUDGET ALONE HAS DECLARED A FIGURE IT DID NOT
-MEASURE.** RAISED BY THE VOLUME 16 PLAN OF 2026-10-03, WHICH ADDED SECTION FIFTEEN AND CORRECTED NO FIGURE OF ANY SERIES. THE
-PREVIOUS DECLARATION READ THIRTEEN THOUSAND SIX HUNDRED AND THIRTY-THREE AND WAS CORRECT WHEN IT WAS WRITTEN; A PASS THAT
-ADDS A SECTION AND LEAVES THE BUDGET ALONE HAS DECLARED A FIGURE IT DID NOT MEASURE.** **THE BUDGET LINE PREVIOUSLY READ ABOUT FOUR THOUSAND FOUR HUNDRED WORDS AND THAT WAS FALSE BY
-NEARLY NINE THOUSAND WORDS WHEN THE VOLUME 15 CLOSE OPENED IT, AT 12,339 MEASURED, AND IT IS
-CORRECTED HERE. A BUDGET LINE THAT NO PASS MEASURED IS NOT A FIGURE.** Raised by the review-fix pass of
-2026-10-02, raised again by the Volume 14 close of 2026-10-03, corrected by the review-fix pass of
-2026-10-03 over that close, which found the earlier budget understated by about five hundred words and
-the stated size of the layer understated by over two thousand, and raised a fourth time by the
-Volume 15 Batch 0001 writing pass of 2026-10-03, which added section eight; **that pass's edit
-re-declared the budget and left the earlier declaration standing underneath it, and the review-fix
-pass over that batch removed the second declaration so that this file carries one figure and not two.**
-It corrected one count in section seven without touching the story, a character or a figure of any
-series. Read this file whole. The
-state layer is four files of about twenty thousand seven hundred words together, measured the same
-way in one loop, and the archived layer behind it is at `reviews/state-archive-2026-10-02/` and is
-not to be loaded.**
+**THIS FILE DECLARES NO LENGTH OF ITSELF, AND THAT IS A RULE AND NOT AN OMISSION.** It used to open with its own word count, and the figure had been wrong by thousands of words for most of the series behind and again by the amount of two later passes, **because a pass that appends a section invalidates the figure it printed in the section before it. THE LINE WAS DELETED ON 2026-10-03 BY THE REVIEW-REPAIR PASS OVER VOLUME 16 BATCH 0001, AND THE SAME LINE WAS DELETED THE SAME DAY FROM THE OTHER THREE STATE FILES. MEASURE THIS FILE PER FILE: `wc -w state/continuity.md`.** It measured twenty thousand four hundred and twenty words when that pass opened it, **and that is a measurement of that pass and not a declaration, because writing this paragraph moved it.**
 
-This file carries the story. Figures and derivations are in `state/current.md`, live threads
-in `state/open-threads.md`, the volume index in `state/chapter-summaries.md`. Last rewritten
-2026-10-03 by the **Volume 16 Batch 0001 writing pass, which wrote the first ten mornings of the sixteenth and last
-volume, days nine hundred and forty-nine to nine hundred and fifty-eight, in `workspace/volume-16/batch-0001/`, added the
-maintenance schedule and the assembly that will not come to the yard and the girl of about seventeen and the bed at the
-top of the ring and the challenge at the gate on day nine hundred and fifty-eight, moved no figure of any series, answered
-no thread, closed no thread, and created one successor.** Before that by the review-fix pass over Volume 15 Batch 0003,
-which wrote no prose, altered one morning by one sentence, moved no character and no figure of any series, and closed no
-thread. Before that by the Volume 15 Batch 0003 writing pass, and before that by the review-fix pass over the Volume 14
-close, which wrote no prose and altered no morning.
+This file carries the story. Figures and derivations are in `state/current.md`, live threads in `state/open-threads.md`, the volume index in `state/chapter-summaries.md`.
+
+**THE LATEST PASS TO WRITE HERE IS THE REVIEW-REPAIR PASS OF 2026-10-03 OVER VOLUME 16 BATCH 0001, WHICH ADDED NO SECTION, ALTERED NO CHARACTER, NO DAY, NO CLOCK, NO NAME AND NO FIGURE OF ANY SERIES, ANSWERED NO THREAD, CLOSED NO THREAD AND TOUCHED NO CHAPTER FILE. ITS RECORD IS `reviews/volume-16-batch-0001-repair.findings.md`.** The pass before it was the Volume 16 Batch 0001 writing pass, which added section sixteen. The archived layer behind this file is at `reviews/state-archive-2026-10-02/` and is not to be loaded.
+
+**Volumes 14 and 15 are closed and Volume 16 is open at twenty mornings of forty-five. Read this file whole.**
 
 ---
 
