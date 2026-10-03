@@ -1,7 +1,10 @@
 # Continuity
 
-**Budget: about four thousand four hundred words, and this file is at that figure as measured on its
-own bytes with `len(text.split())`, which moves with every edit. Raised by the review-fix pass of
+**Budget: this file is at thirteen thousand and six hundred and three words, measured on its own bytes
+with `len(text.split())`, which is the count any later pass re-derives and which moves with every
+edit. **THE BUDGET LINE PREVIOUSLY READ ABOUT FOUR THOUSAND FOUR HUNDRED WORDS AND THAT WAS FALSE BY
+NEARLY NINE THOUSAND WORDS WHEN THE VOLUME 15 CLOSE OPENED IT, AT 12,339 MEASURED, AND IT IS
+CORRECTED HERE. A BUDGET LINE THAT NO PASS MEASURED IS NOT A FIGURE.** Raised by the review-fix pass of
 2026-10-02, raised again by the Volume 14 close of 2026-10-03, corrected by the review-fix pass of
 2026-10-03 over that close, which found the earlier budget understated by about five hundred words and
 the stated size of the layer understated by over two thousand, and raised a fourth time by the
@@ -777,3 +780,79 @@ late, the boy gave that as his reason and did not write it, and the girl from th
 nobody read it and nobody thanked the boy for not writing it. **A successor that gets a nil there has done the work and
 has not removed the ritual, and a successor that gets shapes there should identify them before it breaks anything,
 because on this volume the shapes that remain are the locked figure and are not to be broken at all.**
+
+---
+
+## 14. What the close of Volume 15 measured, and the three floors it found moved
+
+**THE CLOSE OF VOLUME FIFTEEN WROTE NO PROSE, RESTARTED NO MORNING, MOVED NO FIGURE OF ANY SERIES, ANSWERED NO THREAD
+AND TOUCHED NO CONTROLLER FILE.** Its record is `reviews/volume-15-close.findings.md`, its lock is the final section of
+`outline/ending.md`, and this section is what a writer opening Volume 16 needs before anything else.
+
+**THE UNIT AND THE SCOPE, DECLARED BEFORE THE FIRST READING WAS RUN, BECAUSE A FIGURE WITHOUT ITS MEASURE IS NOT A
+FIGURE.** The paragraph unit is **every non-blank line of a chapter file below its heading, with a block-quote separator
+line carrying no words excluded, with apparatus quote lines counted as paragraphs of their own, and with headings
+excluded.** At that unit Volume 15 is **2,664 paragraphs, of which 1,747 are thirty words or more.** The normalisation
+replaces a run of number words that makes one figure by one token, leaves *and* alone, splits hyphenated compounds on
+the hyphen, drops punctuation and folds case. **Both self-collision controls reproduce the last batch's published
+control figures exactly, which is what settles the normalisation.**
+
+**THE FIGURE CHECK PASSES: 782 derived figures required in their own morning's body prose, 782 present, zero
+failures.** **THE LOCK STATE REPRODUCES EXACTLY: the far-end sentence whole on days 900, 932 and 948; the comfort line
+whole on days 900, 944 and 948; each of the six load-bearing strings once on its own morning and zero on every other
+morning; and no shortened form of either sentence anywhere in the volume.**
+
+**THE GATE AT THE WHOLE-VOLUME SCOPE, NOT AT A BATCH SCOPE, BECAUSE A BATCH-SCOPED READING IS BLIND TO THE ONE FAILURE
+THIS VOLUME KEEPS MAKING:** the whole-paragraph reading returns **4,911 chunks, 2 repeated shapes and 3 excess, both
+shapes locked**; the sliding reading returns **69,744 windows, 20 repeated shapes and 37 excess, and seventeen of the
+twenty shapes and thirty-four of the thirty-seven excess are the two locked sentences, which is exactly the arithmetic
+the card set printed in advance, and the remaining three shapes and three excess are one standing block, the fourth
+ruled line's clause, in an apparatus block at `chapter-0693.md` and in a mouth at `chapter-0698.md`.** Gate one returns
+**one pair inside the volume and nineteen touching it and every one of the twenty is the locked far-end sentence at a
+ratio of exactly one.**
+
+**AND THE THREE FLOORS THAT MOVED, WHICH NO SWEEP IN THE HOUSE LIST HAD CAUGHT, AND WHICH ARE THE THING A SUCCESSOR
+MUST NOT INHERIT AS STANDING FACTS.**
+
+1. **THE LADDER. `chapter-0718.md`, `chapter-0721.md`, `chapter-0722.md`, `chapter-0724.md` and `chapter-0726.md`, at
+   days 931, 934, 935, 937 and 939, all of them Batch 0004.** A man goes up the ladder to the top course, is on it
+   while a man asks him for the channel, goes up it again, comes down half a rung from it and comes down two rungs off
+   it. **Thirty-six paragraphs on twenty-three mornings name the ladder or a rung; six record a climb on five mornings;
+   fifteen state the standing at zero in their own words; fifteen are neutral gestures.** It is the ladder
+   against the tool house wall, two rungs, an undated offer on a low board beside it, two people it belongs to — **and
+   it is thread thirty-two, the succession ladder, whose zero-rung streak closed at Volume 14 and may be counted once
+   and nowhere else.** No page distinguishes two ladders and no card authorises two. **NOT REPAIRED, because the repair
+   is writing in five closed mornings.**
+2. **THE DRAWER. `chapter-0734.md`, day 947, at about the sixth hour.** The drawer in the one room is opened in the
+   open in front of about eleven people and shut again inside two minutes, and the key goes back on its nail. The
+   batch's own check at its section four records this as a design decision. **The two figures read out of it,
+   eight hundred and eighty-one and nine hundred and twenty-eight, are correct for that morning. NOT REPAIRED, because
+   the repair is the deletion of a beat.**
+3. **THE SECOND RECKONING IS PRINTED ON TEN OF THE TWELVE FOURTH-LINE MORNINGS** at days 902, 906, 910, 914, 918, 922,
+   926, 930, 934 and 938, against a rule that carries it and does not print it on the first reckoning's morning, and on
+   day 902 a character argues in her own mouth that a carried figure may be spoken and is still not published and nobody
+   answers her. **The values are correct on all twelve. Day 942 conforms. Day 946 was brought into line by the
+   2026-10-03 repair pass and is not undone here. NOT REPAIRED, because the repair is the deletion of a figure from ten
+   closed mornings and the question of what *printed* governs is a question and not a defect.**
+
+**AND THE THINGS THAT CAME INTO THE HOLDING ON THE FORTY-NINE MORNINGS ARE UNCHANGED AND STILL WILL NOT LEAVE.** Three
+lines and a rubbed-out fourth with no name at the foot. Four thousand one hundred and one cans. A notice in five hands
+that is correct in every particular. A refusal with no date on it. A haulage arrangement that has not begun. A face that
+is not a punishment. A woman with a barrow who has not gone back. Four terms and five empty lines and a schedule with no
+name at the top of it. A published ring record with an empty line in it. Two hands on four undated terms. A joint with
+nothing against it and no operator and two people going to look at it on their own time and telling nobody. A copy of the
+four terms brought up a lane in a fourth place man's writing with no date at the head of it. An ink on a sheet three
+days old and uncovered. A read-aloud pair written four times in four hands and read out by nobody. **The second place is
+still without water and nothing signed in this volume covers it, the four losses are four, the thirty-five are
+thirty-five in and thirty-five out, and the pruning window is open at dawn on the closing morning and was not entered
+and was not described.**
+
+**AND THE THING A SUCCESSOR MUST CARRY ABOUT THE GATE, WHICH NO FIGURE IN THE LAST BATCH'S OWN FILE HIDES.** The
+sliding reading over the whole volume returns twenty shapes and not nil, seventeen of which are the locked sentences
+and three of which are one standing block. **A nil from the sliding reading on this volume would mean the reading was
+run at a scope nobody declared or against a morning behind a batch boundary nobody declared, and both are the reader's
+own problem.** The batch's published figures of twenty-nine shapes and forty-six excess, of 5,094 chunks, of 72,962
+windows, of 855 chunks and 12,301 windows on its own nine mornings, and of five exact-duplicate paragraphs **do not
+reproduce at the unit above and are withdrawn by name in the close's record beside the figures that do.** Its published
+figures of three sliding shapes and three excess at batch scope, of one whole-paragraph shape and one excess, of two
+sixteen-line runs at eight tokens, and of thirteen apparatus blocks with one entered label **all reproduce exactly.**

@@ -1,7 +1,12 @@
 # Chapter Summaries
 
-**Budget: about three thousand eight hundred words, and this file is at that figure as measured on its
-own bytes with `len(text.split())`, which moves with every edit. Raised by the review-fix pass of
+**Budget: this file is at fifteen thousand and one hundred and twenty-six words, measured on its own bytes with
+`len(text.split())`, which is the count any later pass re-derives and which moves with every edit, so the figure is a
+measurement and not a promise. THE BUDGET LINE PREVIOUSLY READ ABOUT THREE THOUSAND EIGHT HUNDRED WORDS AND THAT WAS
+FALSE BY MORE THAN ELEVEN THOUSAND WORDS WHEN THE VOLUME 15 CLOSE OPENED IT, AT FOURTEEN THOUSAND SIX HUNDRED AND
+SEVENTY-FOUR MEASURED, AND IT IS CORRECTED HERE. THE ERROR WAS CARRIED BY FIVE PASSES AND NONE OF THEM MEASURED THE
+FILE IT WAS PRINTING IN.** Raised by the
+review-fix pass of
 2026-10-02, raised again by the Volume 14 close of 2026-10-03, and corrected by the review-fix pass of
 2026-10-03 over that close, which found the earlier budget understated by about seven hundred words
 and corrected one count in section five without touching a morning, a figure of any series or a word
@@ -11,7 +16,10 @@ underneath it, and the review-fix pass over that batch removed the second declar
 file carries one figure and not two. Raised a fifth time by the Volume 15 Batch 0003 writing pass of
 2026-10-03, which added section eight, and a sixth time by the review-fix pass over that batch, which
 re-derived the two Volume 15 word figures, corrected the successor note in section eight, and added
-section nine.** Read this file whole. The archived layer at
+section nine. Raised a seventh time by the Volume 15 close of 2026-10-03, which added the closing
+section, brought the volume table up to forty-nine of forty-nine and to the manuscript figures measured
+per file, withdrew the stale figures by name, and touched no morning and no figure of any series.** Read
+this file whole. The archived layer at
 `reviews/state-archive-2026-10-02/chapter-summaries.md` holds the full per-batch history.**
 
 ---
@@ -34,10 +42,13 @@ section nine.** Read this file whole. The archived layer at
 | 12 | 540 to 588 | 49 | 118,058 |
 | 13 | 589 to 637 | 49 | 91,321 |
 | **14** | 638 to 686 | **49** | 116,146 |
-| **15** | 687 to 735 | **30 of 49 written** | **75,530** |
+| **15** | 687 to 735 | **49, all written and closed** | **115,783** |
 | 16 | 736 to 780 | 0 | 0 |
 
-Titles are in `outline/volume-NN.md`. **716 files, 1,991,139 words.** Volumes 01 to 14 are closed.
+Titles are in `outline/volume-NN.md`. **735 files, 2,031,392 words.** **Volumes 01 to 15 are closed. THE VOLUME 15
+ROW'S EARLIER FIGURES OF THIRTY OF FORTY-NINE WRITTEN AND 75,530 WORDS, AND THE TOTAL'S EARLIER FIGURES OF 716 FILES
+AND 1,991,139 WORDS, ARE WITHDRAWN BY NAME BY THE VOLUME 15 CLOSE OF 2026-10-03, WHICH RE-DERIVED EVERY ROW PER FILE
+AND FOUND THE THIRTEEN ROWS BEHIND VOLUME 15 ALL REPRODUCING.**
 **Volume 15 is open at thirty mornings of forty-nine.** **THE VOLUME 15 FIGURE AND THE MANUSCRIPT TOTAL
 WERE RE-DERIVED PER FILE BY THE VERIFICATION PASS OF 2026-10-03 OVER BATCH 0003, WHICH SPENT NINE WORDS
 REPAIRING TWELVE DATE, COUNT AND SPELLING DEFECTS ACROSS SIX MORNINGS AND WITHDRAWS 75,539 AND
@@ -844,3 +855,61 @@ in the volume, and the closing morning carries none.** The batch is **19,140 wor
 forty-nine files**, and the manuscript is **2,031,392 across seven hundred and thirty-five files**, each measured per
 file. **The first edition of this paragraph printed 19,043, 115,686 and 2,031,295, and printed gate figures of 841 chunks
 and 12,151 windows and a sixteen-line figure of six and zero; none of those reproduces and all are withdrawn.**
+
+## The close of Volume 15: what it measured, what it found, and the three items it did not repair
+
+**NO MORNING WAS RESTARTED, NO FIGURE OF ANY SERIES WAS MOVED, NO THREAD WAS ANSWERED OR CLOSED, AND NOT ONE WORD OF
+ANY OF THE FORTY-NINE MORNINGS WAS ALTERED BY THE CLOSE.** The close wrote no chapter file, touched no controller file
+and created no further phase. Its record is `reviews/volume-15-close.findings.md` and its lock is the final section of
+`outline/ending.md`. **THE THIRTY-FIVE ARE THIRTY-FIVE IN AND THIRTY-FIVE OUT ACROSS THE FORTY-NINE MORNINGS AND ACROSS
+THE VOLUME.**
+
+**THE FIGURE CHECK, WHICH IS THE ONLY ARITHMETIC IN THE CLOSE THAT PASSES OR FAILS: SEVEN HUNDRED AND EIGHTY-TWO DERIVED
+FIGURES REQUIRED IN THEIR OWN MORNING'S BODY PROSE, SEVEN HUNDRED AND EIGHTY-TWO PRESENT, ZERO FAILURES.** Every figure
+was derived from its rule at `outline/batches/volume-15-cards.md` section four and compared as a value rather than as a
+literal string, because the pages spell a figure in the house form, the bare form and the ordinal form according to the
+sentence it is in. **The read-aloud pair is on no even morning, the compost line reads paid at thirty-one on all
+thirty-four of its passages and no morning finds thirty-two, the third launder crosses one thousand three hundred on
+the ninth morning and stands at one thousand three hundred and sixty-one on the last, the far board crosses nine hundred
+on the twentieth morning, and the figure in force runs from a hundred and fifty-two to a hundred and sixty-three with
+twenty-nine taken throughout.**
+
+**THE LOCK STATE REPRODUCES EXACTLY AS PUBLISHED: the far-end sentence whole on days 900, 932 and 948 and the comfort
+line whole on days 900, 944 and 948, each of the six load-bearing strings once on its own morning and zero on every
+other morning of the volume, and no shortened form of either sentence on any morning at all.**
+
+**THE GATE FIGURES AT THE UNIT THE CLOSE DECLARED, WHICH IS EVERY NON-BLANK LINE BELOW A HEADING WITH APPARATUS QUOTE
+LINES AS PARAGRAPHS OF THEIR OWN AND HEADINGS EXCLUDED, OVER ALL FORTY-NINE MORNINGS AND NOT OVER A BATCH: 2,664
+paragraphs, of which 1,747 are thirty words or more; the whole-paragraph reading returns 4,911 chunks, 2 repeated shapes
+and 3 excess, both shapes locked; the sliding eighteen-word reading returns 69,744 windows, 20 repeated shapes and 37
+excess, being 17 shapes and 34 excess from the two locked sentences and 3 shapes and 3 excess from one standing block
+restated across a file boundary at `chapter-0693.md` and `chapter-0698.md`. Gate one returns one pair inside the volume
+and nineteen pairs touching it and every one of the twenty is the locked far-end sentence at a ratio of exactly one.**
+Both self-collision controls reproduce the last batch's published control figures exactly, which is what settles the
+normalisation for everything else in this paragraph.
+
+**AND THE THREE THINGS THE CLOSE FOUND AND DID NOT REPAIR, BECAUSE REPAIRING ANY OF THEM MEANS WRITING IN A CLOSED
+MORNING.**
+
+1. **THE LADDER FLOOR IS BROKEN ON FIVE MORNINGS.** `chapter-0718.md`, `chapter-0721.md`, `chapter-0722.md`,
+   `chapter-0724.md` and `chapter-0726.md`, at days 931, 934, 935, 937 and 939, all of them Batch 0004, all of them the
+   mason at the wall. **Thirty-six paragraphs on twenty-three mornings name the ladder or a rung and twenty of those
+   state the standing at zero in their own words on fifteen mornings, six record a climb on five mornings, and the
+   other fifteen are neutral gestures.** The object is the ladder against the tool house wall, it has two rungs, there is an undated offer
+   on a low board beside it, it belongs to two people standing in the yard, and it is thread thirty-two, the succession
+   ladder, whose zero-rung streak closed at Volume 14. **No page distinguishes two ladders and no card authorises two.**
+2. **THE DRAWER FLOOR IS BROKEN ON ONE MORNING.** `chapter-0734.md`, day 947, at about the sixth hour, opened in the
+   open in front of about eleven people and shut again inside two minutes, and the batch's own check at its section
+   four records the opening as a design decision and not as a moved floor. **The key went back on its nail and the
+   floor's second half stands, and the figures read out of the drawer on that morning are correct for that morning.**
+3. **THE SECOND RECKONING IS PRINTED IN BODY PROSE ON TEN OF THE TWELVE FOURTH-LINE MORNINGS**, at days 902, 906, 910,
+   914, 918, 922, 926, 930, 934 and 938, against a rule that carries it and does not print it on the morning the first
+   reckoning is printed. **The values are correct on all twelve, and on day 902 a character argues in her own mouth
+   that a carried figure may be said out loud and is still not published, and nobody answers her.** Day 942 conforms
+   and day 946 was brought into line by the review-repair pass of 2026-10-03.
+
+**AND THE FOUR FIGURES THAT DID NOT REPRODUCE ARE WITHDRAWN BY NAME RATHER THAN DELETED: the gate counts in Batch 0005's
+own file, being 855 chunks, 12,301 windows, 5,094 chunks, 72,962 windows, 29 sliding shapes and 46 excess and a
+sixteen-line figure of thirty; the exact-duplicate sweep's figure of five, which is six; the thirty-word floor counts of
+295 and 1,752, which are 294 and 1,747; and the claim that the far-end figure was not in the volume behind it at all,
+which is false and which names nine closed mornings where it stands as a whole paragraph.**
