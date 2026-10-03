@@ -564,3 +564,87 @@ back. Four terms and five empty lines and a schedule with no name at the top of 
 in-between morning for either locked figure in the whole volume is the thirty-third, being day nine
 hundred and thirty-two, and the one after it the forty-fifth, and both are in `batch-0004`, so nothing
 about the locked sentences changed and nothing about them is inherited as spent.**
+
+---
+
+## 12. What Volume 15's fourth ten mornings changed, and what it left standing
+
+**NO MORNING WAS RESTARTED, NO FIGURE OF ANY SERIES WAS MOVED, NO THREAD WAS ANSWERED OR CLOSED, AND THE BRIDGE
+IS STILL REFUSED.** The refusal, its price, the two things the five will do instead, the engineer of record's answer
+and the face that is not a punishment are all exactly as section ten of this file records them. **The second place
+is still without water, is not described as temporary, is not apportioned and is not covered by anything signed in
+this volume, and on day 930 a woman in this yard told a clerk from up the lane, in six words, that a place with no
+water in it is not a stop on a haulage road, and that this is a fact about a cart and not a complaint.**
+
+**WHAT CAME INTO THE HOLDING ON THESE TEN MORNINGS, AND NONE OF IT LEAVES.**
+
+- **Four terms in four hands with five short empty lines at the foot of them and nothing at the top, and a woman who
+  tried to put a date on it on day 931 and was stopped by Kellan Rusk, because a date makes a record and a record
+  wants a column under it, and a worse record is the one those four asked for.**
+- **A register form that exists in a drawer four miles up the lane with a different count on it, and nobody in either
+  place can say which of the two is the copy, and a man who buys took his lime elsewhere over it.**
+- **A slip three weeks old in a tray up that lane carrying a wrong copy of this holding's window.** It came on day 937 and
+  it is still wrong, and **this holding cannot correct it**, because a record of a correction wants a column and no
+  column is cut under any of the four sheets. Odile Vray's answer to the whole thing is one sentence: this yard does
+  not take itself apart at the fourth hour to correct a slip in a tray.
+- **A quarter turn of a sluice opened by a man who buys at the ninth hour of day 935, and an hour gone out of nine
+  men's book, and about a third of a load of lime gone soft.** Odile Vray's word for it is that it was not spoiled,
+  it was had. The crew man told the man he was owed both facts and was not getting an apology with them.
+- **A ring of replacement seedhearts in the ground at the gate end of the wall, planted on day 934 by the crews who
+  will run it, with a hole that closed in the rain at the seventh hour of the evening.** **The ring of bare ground is
+  a different object, was not walked, not measured and not priced, and no page in this batch says the two are one.**
+- **A stone in the third course of the sill that a mason from the third place laid and would not have laid, and told
+  a yard about, and did not take out.**
+- **The far end of the head of the branch is held by two people and neither of them is the engineer of record,** being
+  the man who lays for three councils and the woman who keeps the common key at the second place, because the small
+  council's own second thing was a set of hours at that branch with two people on it and that was reached on day 926
+  and named on day 927. **The far-end locked sentence was spoken once in this batch, whole, on day 932, and is the
+  first of the two in-between appearances the allowance permits. The comfort line is absent in every form on all ten
+  mornings, and the next appearance of either locked figure in the whole volume is the forty-fifth morning, being day
+  nine hundred and forty-four, which is in `batch-0005`.**
+- **The man who lays for three councils has stopped laying for one of the three.** He put his hod down on the stack
+  on day 933, empty, and gave the reason twice to a man who came down the road to ask about it, and it was a trade
+  reason and not a moral one, and nobody in that yard said anything about it and nobody thanked him and nobody blamed
+  him. **The yard was ten bodies on that morning instead of eleven and the fourth course at the gate end did not go
+  in, and the reason given was a count of broken stones on the ground and not a count on any sheet.**
+- **The north branch, three miles up, eleven households, Isel Lowen, and a paper in three hands, and a refusal of
+  the flood load spoken on day 936 and not overruled and not delayed and not softened and not put in anybody else's
+  mouth.** A man at the gate got as far as the word *brought* and Auret Sill stopped him in eleven words by saying
+  what that word means. **Kellan Rusk refused to enter it on the register form and no column was cut for it, and
+  Nia Vale said out loud that a block was on the boards that afternoon and that she knows which door it did not go
+  through.** The crew carried the load on forty feet of the wall at the gate end anyway, and that wall is a different
+  object and not a shorter version of the same one.
+- **The route eleven households named on day 939, in two hands, on their own paper: up off the dry branch past the
+  second bend, along the high side of the third place's road above the wall, stopping at the head of the lane, and
+  not coming down past a gate. There is no gate on it and no holding on it and nobody standing on it that has not
+  asked to be standing on it.** **THE ROUTE IS NOT THE ONE THE ENGINEER OF RECORD PREFERS, AND HIS OWN SHEET WITH
+  TWO PLACE NAMES ON IT IS STILL IN HIS COAT AND WAS CARRIED AS FAR AS SOREN RILL'S HOUSE AND NO FURTHER, AND NOBODY
+  IN THIS YARD ARGUED FOR IT AFTER THE HOUSEHOLD HAD SPOKEN.**
+- **A stool outside the gate, out of the wind, that nobody sat on, and the low board's offer undated, unpicked, not
+  withdrawn and not signed, and one man's hand flat on it for a while and a reason given out loud, which is that the
+  terms are not written anywhere and that if they were he would read them twice and probably sign.**
+- **The season's water at four thousand one hundred and one cans by hand since the spring, larger than it was a
+  fortnight ago, in Auret Sill's own words and her own sheet, with no reason offered and none asked for twice.**
+
+**AND THE FIGURES THAT CAME BACK WRONG WERE MINE AND ARE CORRECTED.** Day 939 was first written with the ordinal of
+the run as four hundred and ninetieth, which belongs to day nine hundred and forty, and it is four hundred and
+eighty-ninth. Two window halves on day 931 were first printed in a shortened form and are now in the house figure
+form. Two recounts of the girl from the second place's own mornings in this yard were first written as ordinals of
+the month, which the batch behind's finding forbids in body prose, and are now cardinals: **on day 934 she is twenty-five
+mornings into her counting in this yard and on day 938 she is on her twenty-ninth.** She arrived on day nine hundred
+and ten and both figures agree with that.
+
+**AND THE THREE THINGS THIS BATCH HAD TO BE TOLD BY ITS OWN CHECK.** That the four standing figures of paper were
+written five times in the same order and that both gates missed it until the sliding reading ran at the end and the
+sixteen-line sweep found the one that mattered. That a figure belonging to a fourth-line morning had been written into
+day 937 by Sera Quill because it was in the plan, and it is cut. And that the construction nine characters were sharing
+stood at twenty-seven across six characters in the first draft of this batch and is now two, both of them the
+bookkeeper, who is the only character in the batch that uses it.
+
+**AND THE THINGS THAT CAME INTO THE HOLDING ON THE TEN MORNINGS BEHIND ARE UNCHANGED AND STILL WILL NOT LEAVE.**
+Three lines and a rubbed-out fourth with no name at the foot. Four thousand one hundred and one cans. A notice in
+five hands that is correct in every particular. A refusal with no date on it. A haulage arrangement that has not
+begun. A face that is not a punishment. A woman with a barrow who has not gone back. Four terms and five empty lines
+and a schedule with no name at the top of it. **And the next in-between morning for either locked figure in the whole
+volume is the forty-fifth, and the two last fourth-line mornings are days 942 and 946, and both are in `batch-0005`,
+so nothing about the locked sentences changed and nothing about them is inherited as spent.**

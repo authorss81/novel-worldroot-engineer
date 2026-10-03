@@ -672,3 +672,72 @@ place is still without water and is still not described as temporary and is stil
 ARRANGEMENT OF PEOPLE WHO MAY LET GO IS STILL NOT NAMED, IS STILL NOT AVAILABLE IN BODY PROSE, AND THE
 MORNING THE COUNCIL REFUSED IS STILL NOT PERMITTED TO USE IT AS THE ARGUMENT FOR THE REFUSAL, WHICH THE
 TEN MORNINGS BEHIND THIS PASS STILL DO NOT.**
+
+---
+
+## What Volume 15 Batch 0004 advanced, and what it left open, and the one finding it adds
+
+**THE THIRTY-FIVE ARE THIRTY-FIVE IN AND THIRTY-FIVE OUT ACROSS THESE TEN MORNINGS.** None was answered, closed,
+reworded to look closed, grouped, summed, advanced to a figure or used as a symbol. **A region refusing a flood load
+is not a closure. A community naming a route is not a closure. A slip three weeks old in a tray that this holding cannot
+correct is not a closure, and a record of it is not an answer.** The two refusals on the record are both unanswered:
+the bridge refusal from three mornings behind this batch is neither defended nor attacked, and the north branch's
+refusal of the flood load was said once on day 936 and has not been put back on any agenda by anybody.
+
+**ADVANCED ONCE, BY NOBODY CLOSED:**
+
+- **The definition.** Four terms in four hands with five empty lines, and it is on the record that a paper with a
+  date at the top of it becomes a record and a record wants a column. **The four are now known to be undated on
+  purpose by somebody who was caught trying to date them, which is one step further than they were on day 929.**
+- **The coalition's own test of itself.** Two things from four places at a gate, and now a second refusal from a
+  fifth place three miles up, and **the two refusals are of different kinds and the yard has not pretended they are
+  the same.** The first refused a bridge. The second refused a load, and refused a smaller figure of it, and
+  refused it in its own mouths.
+- **The network at its far end.** It is held by two people who are neither of them the engineer of record, and
+  nobody in this holding can read it, and one of the two had come four miles with one number and could not find the
+  other. **The cost of that arrangement is on the page and neither of the two of them has said what it is.**
+- **The maintenance of what exists.** Eleven bodies before the light became ten on day 933 and the fourth course did
+  not go in, **and the reason given was a count of stones on the ground rather than a count on a sheet, which is
+  the first time in this volume that a trade's figure has beaten a standing sheet in an argument somebody cared
+  about.**
+- **The seed ring.** It is in the ground at the gate end, and the dry-season draw has been run on it and an hour of
+  it has been lost to a man opening a sluice, and **the results are in a crew's own book and are not tidied and have
+  not been published and no result has been announced.**
+- **The wild-root side.** It is not in this yard, it has not been represented by anybody in this holding, it was
+  not asked anything on day 938, and on day 939 it named its own route in its own mouth in two hands and the route
+  does not come down past a gate. **The engineer of record's own sheet with two place names on it is in a drawer in
+  a house four miles away and he has not asked for it back.**
+
+**AND NOTHING NEW WAS OPENED.** No final enemy was named and none was previewed and none is owed. No fifth permanent
+loss was added for anybody. No existing loss was reduced, recovered, re-named or priced, and the thing that is paid
+is referred to nowhere in these ten mornings. **The arrangement of people who may let go was used once, on day 933,
+and was not named, and no operation in either of the two words was rehearsed or described.** Tova Reed's hearing was
+not healed, softened, excused, thanked for, made convenient or apologised for, and no hand went on her arm, and the
+seed work stayed with her and appears on three mornings as her own arrangement of her own work without being
+announced: she writes down what she is told, she does not ask twice, she puts herself where she can see the mouth,
+and on day 934 she and the engineer of record moved a tray between them in the rain and neither of them can say
+afterwards which of the two of them did it. **The second place is still without water and is still not described as
+temporary and is still not apportioned.** The six not knowns are still six and no seventh ruled row was cut for the
+ring, for the load, for the refusal, for the region that refuses the test, for the route a community named or for
+the compass's own sheet.
+
+**AND THE ONE FINDING THIS BATCH ADDS, WHICH IS ABOUT THE ORDER OF THE WORK AND NOT ABOUT A FIGURE.**
+
+**THE FIGURES WERE CHECKED AGAINST THEIR RULES AND THE THREE MORNINGS WHOSE STANDING ORDER WAS DECIDED BEFORE THE
+MORNING WAS WRITTEN CAME THROUGH THE SLIDING READING WITHOUT A REPAIR, AND THE THREE WHOSE ORDER WAS DECIDED AFTER
+COST TWO REPAIRS EACH.** Six mornings, six and not a law, and it is the cheapest thing in this file.
+
+**THE UNDERLYING FAULT IS THAT FOUR FIGURES OF STANDING PAPER HAVE A NATURAL ORDER AND A MAN WHO KEEPS THEM HAS ONE
+ORDER, AND THE ORDER IS THE ORDER HE READS THEM IN.** The whole-paragraph gate cannot see a repeated order because it
+matches whole paragraphs, and the sliding gate missed two thirds of the repeats because a restated block inside one
+file is not a collision with another file, and **the sixteen-line shared-token sweep is what found the one that
+actually mattered.** So the order of work a successor should copy is this: **choose the actor and the order for every
+standing block before the morning is written, write the sixteen-line sweep as the morning is written and not at the
+end of the batch, and do not trust a nil from either gate on a batch whose standing blocks were handed out as they
+came.**
+
+**AND ONE FIGURE WAS WRITTEN INTO A MORNING THAT WAS NOT ENTITLED TO IT.** On day 937 Sera Quill gave both of the two
+reckonings, which belong to the fourth-line mornings, and the pair she gave were day 926's values. It is cut and she
+now gives nothing and says that she steps on the mornings she steps on and that this is not one of them. **A figure
+that is in the plan is not on the morning, and a writer who reaches for one because the table has it will reach for
+one the morning has not earned.** The figure check caught it and not the eye.

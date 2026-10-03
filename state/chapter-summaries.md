@@ -590,3 +590,103 @@ either locked figure.** The whole-volume exact-duplicate paragraph sweep returns
 inside Volume 15 and all five are two-word gestures in Batch 0001. The sixteen-line token sweep inside
 this batch returns five runs at six tokens or more and none at eight. **Two blocks fall here, on days 924
 and 929, against a volume ceiling of thirty, and no `Entered` label is used.** The batch is 23,205 words.
+
+---
+
+## Volume 15, Batch 0004: the fourth ten mornings, days 930 to 939, files `chapter-0717.md` to `chapter-0726.md`
+
+- **930, Friday the thirtieth of the nineteenth.** The four terms written in four hands land on the middle table
+  under a stone Odile Vray puts there on purpose. **The eighth fourth-line morning: a hundred and fifty-nine in
+  force, twenty-nine taken, a hundred and thirty not, and one hundred and seventh against ninety-fourth, the second
+  named as the one Sera Quill carries.** A clerk who has walked a mile and a quarter in his own boots disputes the
+  charter figure of two hundred and eighty days against his own office's copy of three hundred and two, and Kellan
+  Rusk refuses to certify either and tells him whose paper it is, **and the clerk goes up the lane and fills in his
+  own number, and this holding's stays inside the one room.** Marek Vale rules an hour off the bottom of his own
+  schedule and gives it to the woman who keeps the common key at the second place, who will use it for the road and
+  not for the water. No field is taken.
+- **931, Saturday the first of the twentieth.** **The volume's second month turn, and it turns a calendar and nothing
+  else.** The frame over the read-aloud run has not moved and a man says it is up a month and the girl from the
+  second place writes the heading out again exactly as it stands. A woman tries to put a date at the top of the crew's
+  four terms and is stopped, because a date makes a record and a record wants a column. **A man who buys finds that
+  the register form exists in his own drawer with a different count on it, and nobody can say which is the copy, and
+  he takes his lime somewhere else and the yard loses the sill's lime for a day.** Read aloud, two hundred and eleven
+  of four hundred and five, written and read by nobody.
+- **932, Sunday the second of the twentieth.** **The first of the two in-between locked figures. The far-end sentence
+  is spoken whole, once, by Marek Vale at the head of the branch, and is not spoken again on any morning of this
+  batch in any form.** The far end of the branch passes to two people who are neither of them him, because the
+  council's own second thing was a set of hours at that branch with two people on it, and one of them had a hod and
+  one of them had one number and could not find the other. **He cannot tell them what the branch is doing from inside
+  himself, says so in nine words, and sends them to a man on a wall.** A mason from the third place tells a yard
+  about a stone he laid and would not have laid and does not take it out. No block falls and no read-aloud figure is
+  on this morning.
+- **933, Monday the third of the twentieth.** **One of the people lets go.** The man who lays for three councils puts
+  his hod down on the stack and stops laying for one of the three, because he cannot be in two places at the last
+  hour of the light, and nobody in that yard says anything about it and nobody asks him why twice. **The fourth
+  course at the gate end does not go in**, and the reason is the man with the hod's own count of broken stones,
+  which is smaller than the sheet and smaller than the wall wants. The yard is ten bodies instead of eleven. Odile
+  Vray gives the floors in one speech. Auret Sill gives the season's water in her own words, four thousand one
+  hundred and one, larger than a fortnight ago, with no reason offered.
+- **934, Tuesday the fourth of the twentieth.** **The ring of replacement seedhearts goes into the ground at the gate
+  end by the crews who will run it, on the ninth fourth-line morning: a hundred and sixty in force, twenty-nine
+  taken, a hundred and thirty-one not, and one hundred and eighth against ninety-fifth.** The mason from the third
+  place is right about the water at that end of the wall and is not given the hour, and Marek Vale counts the bodies
+  in the rain and does not change the sheet and says one body is short and that the hour was there before the mason
+  came up the road. **A hundred and sixty-one and thirty-two are not on this morning and day 934's figure in force
+  is a hundred and sixty, because the card's heading said eleventh and the card's body said ninth and the body
+  governs.** The crew man digs the uphill side first and does not say where he got that.
+- **935, Wednesday the fifth of the twentieth.** **The dry-season draw, as a real draw, run by the crews who will keep
+  the ring.** At the ninth hour the man who buys opens a further quarter turn of a sluice with his hand on the
+  wheel, and about forty minutes pass before anybody notices, and **an hour is gone out of nine men's book and there
+  is no way of putting it back and Odile Vray says it was not spoiled, it was had.** Auret Sill refuses to have a
+  minute moved because it makes a column look tidier. The crew man tells the man who buys that the drainage would
+  have saved half the lime and would not have saved the hour, and that he is owed both facts. Nothing is published
+  and no result is announced. The compost line is paid at thirty-one and not discharged in thirty-one or in anything.
+- **936, Thursday the sixth of the twentieth.** **One region says in its own mouth that it will not be put under the
+  flood load.** Isel Lowen comes down the north branch path with two men and a paper in three hands, one of them
+  hers, and says it once and does not say it again for anybody. **A block falls here and it is that region's own
+  paper.** A man at the gate gets as far as the word *brought* and Auret Sill stops him in eleven words by saying
+  what that word means. Nobody in this holding says the word deferred, the refusal is not overruled and is not
+  softened and is not put in anybody else's mouth, and Kellan Rusk will not put it on the register form and no
+  column is cut for it. The crew carry the load on forty feet of the wall at the gate end anyway.
+- **937, Friday the seventh of the twentieth.** **The only return morning in this batch and it moves nothing.**
+  Thirty-nine blanks and the second rule open and empty at the thirty-ninth time. The north branch's refusal is not
+  put back on the agenda by anybody and one woman is answered twice. **A slip three weeks old turns up in a tray four miles
+  up the lane carrying a wrong copy of this holding's window**, and there is nowhere in this holding to correct it
+  because a record of a correction wants a column and no column is cut under any of the four sheets. Odile Vray holds
+  it down with her hand and will not take the room apart at the fourth hour to fix a slip in a tray. Read aloud, two
+  hundred and fourteen of four hundred and eleven, written and read by nobody.
+- **938, Saturday the eighth of the twentieth.** **The tenth fourth-line morning: a hundred and sixty-one in force,
+  twenty-nine taken, a hundred and thirty-two not, and one hundred and ninth against ninety-sixth.** The wild-root
+  side is not in the yard. **Soren Rill refuses, out loud and in front of the yard, to carry the engineer of record's
+  route up the lane**, puts it in his coat, and says that nobody in this yard is going up there and that nobody is
+  going to say one word about a choice. A woman counts fourteen people in the yard and is told that the figure in
+  force is not a count of people. A stool goes outside the gate out of the wind and nobody sits on it. The one person
+  who could sign the low board's offer puts his hand flat on it and does not take it down and gives the reason,
+  which is that the terms are not written anywhere. **The ladder is climbed zero rungs.**
+- **939, Sunday the ninth of the twentieth.** **The community names the route it will defend, in its own mouth, in two
+  hands, and it is not the route the engineer of record prefers.** It comes up off the dry branch, goes along the high
+  side of the third place's road and stops at the head of the lane, and **there is no gate on it and no holding on
+  it and nobody standing on it that has not asked to be standing on it.** A block falls here and it is their paper. The
+  engineer of record's sheet stays in his coat and a man who was about to argue for it is stopped, and his preference
+  is not argued for by anybody on his behalf afterwards. A man from the north row says the far board should change
+  because a household has said where it will stand, and Nia Vale tells him that a figure does not go and come because
+  somebody said a thing in a yard. Read aloud, two hundred and fifteen of four hundred and thirteen. Nobody in that
+  yard says thank you.
+
+**AND THE MEASUREMENTS THAT GO WITH THEM, WHICH THE FIGURES ABOVE DO NOT CARRY.** **One hundred and sixty-five
+derived figures required in their own mornings, one hundred and sixty-five present, zero failures**, on a
+case-insensitive whole-word phrase match, being one hundred and forty across the ten mornings, ten across the five odd
+mornings and fifteen across the three fourth-line mornings. Both gates return nil against these ten mornings on both
+readings in every scope that includes them: **912 whole-paragraph chunks with zero shapes and zero excess against
+13,060 sliding eighteen-word windows with zero shapes and zero excess on their own**, and **zero ordered pairs on
+gate one on their own ten mornings and on their ten with the ten behind**, out of 338 and 564 paragraphs of thirty
+words or more. In the widest scope, being these ten, the twenty behind them and the whole of Volume 14, **the first
+gate returns twelve ordered pairs and every one of the five that touch this batch is the far-end locked sentence
+against its earlier appearances at a ratio of exactly one**, and **the sliding reading returns seventeen shapes and
+an excess of forty-eight and every one of the seventeen is that same locked sentence.** The whole-volume
+exact-duplicate paragraph sweep returns three repeated paragraphs inside Volume 15 at a floor of eight words and all
+three are in Batch 0001, and none touches this batch. The sixteen-line token sweep returns eight runs at six tokens
+or more and zero at eight or more, and it found the one genuine re-statement this batch had, which was four standing
+figures in four hands read in the same order on three mornings, and that was broken before either gate was run.
+**Two blocks fall, on days 936 and 939, against a volume ceiling of thirty, and no `Entered` label is used anywhere
+in the volume.** The batch is 20,870 words.

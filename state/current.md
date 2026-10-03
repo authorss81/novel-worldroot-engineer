@@ -261,16 +261,22 @@ she is not cornered and the refusal leaves her standing.
 
 ## 8. The one next phase
 
-**VOLUME 15 IS OPEN AT THIRTY MORNINGS OF FORTY-NINE AND ITS PLAN AND ITS CARD SET ARE BOTH ON DISK.**
+**VOLUME 15 IS OPEN AT FORTY MORNINGS OF FORTY-NINE AND ITS PLAN AND ITS CARD SET ARE BOTH ON DISK.**
 `outline/volume-15.md` is the plan, `outline/batches/volume-15-cards.md` is the card set, and the
-first thirty mornings are written at `workspace/volume-15/batch-0001/`, `batch-0002/` and `batch-0003/`,
-files `chapter-0687.md` through `chapter-0716.md`, days 900 to 929. **The close of Volume 14 is done and
+first forty mornings are written at `workspace/volume-15/batch-0001/`, `batch-0002/`, `batch-0003/` and
+`batch-0004/`, files `chapter-0687.md` through `chapter-0726.md`, days 900 to 939. **The close of Volume 14 is done and
 stays done; its findings are at `reviews/volume-14-close.findings.md` and its lock is the final section of
 `outline/ending.md`; it wrote no prose and altered no morning.**
 
-**THE NEXT PHASE IS VOLUME 15 BATCH 0004, DAYS 930 TO 939, MORNINGS THIRTY-ONE TO FORTY, AND ITS PROMPT
-IS AT `workspace/volume-15/batch-0004/PROMPT.md`.** It writes `chapter-0717.md` through `chapter-0726.md`
-and nothing else of substance. **THIS SECTION WAS TWO BATCHES STALE UNTIL THE REVIEW-FIX PASS OF
+**THE NEXT PHASE IS VOLUME 15 BATCH 0005, DAYS 940 TO 948, MORNINGS FORTY-ONE TO FORTY-NINE, AND ITS PROMPT
+IS ON DISK AT `workspace/volume-15/batch-0005/PROMPT.md`.** It writes `chapter-0727.md` through
+`chapter-0735.md` and nothing else of substance. **IT IS NINE MORNINGS AND NOT TEN, BEING DAYS NINE HUNDRED
+AND FORTY THROUGH NINE HUNDRED AND FORTY-EIGHT, AND IT IS THE LAST BATCH OF MORNINGS IN THIS VOLUME AND
+IS FOLLOWED BY A CLOSE PHASE AND NOT BY ANOTHER BATCH. IT CARRIES THE VOLUME'S CLIMAX ON ITS FORTY-SECOND
+MORNING, ITS SECOND IN-BETWEEN LOCKED FIGURE ON ITS FORTY-FIFTH, THE LAST TWO FOURTH-LINE MORNINGS AT DAYS
+942 AND 946, THE LAST RETURN BESIDE THE LAST OF THEM, AND THE RESOLUTION ON THE FORTY-NINTH.** Batch 0004
+has run and has written `chapter-0717.md` through `chapter-0726.md`, days 930 to 939, mornings thirty-one
+to forty, and its own measurements are at `workspace/volume-15/batch-0004/SELF-CHECK.md`. **THIS SECTION WAS TWO BATCHES STALE UNTIL THE REVIEW-FIX PASS OF
 2026-10-03, WHICH NAMED BATCH 0002 AS THE NEXT PHASE AND THE VOLUME AS OPEN AT TEN MORNINGS, AND A
 SUCCESSOR THAT HAD TRUSTED IT WOULD HAVE REWRITTEN TWO BATCHES OF CLOSED PROSE.** **BATCH 0003 CREATED NO
 SUCCESSOR, ON A GROUND THAT IS FALSE, AND THIS PASS CREATED IT.** The batch behind that one created its
@@ -1143,3 +1149,93 @@ four items and already says that the figures are not to be softened to make the 
 it is the one successor this batch is allowed to have. **Creating a second one would be a second successor
 and creating a successor of its successor would be a third, and this pass did neither and created no
 directory.**
+
+---
+
+## 17. Volume 15 Batch 0004, the fourth ten mornings, and the standings at day nine hundred and thirty-nine
+
+**TEN MORNINGS WRITTEN, DAYS NINE HUNDRED AND THIRTY TO DAYS NINE HUNDRED AND THIRTY-NINE, FILES `chapter-0717.md`
+THROUGH `chapter-0726.md`, MORNINGS THIRTY-ONE THROUGH FORTY. NO MORNING OF AN EARLIER BATCH WAS RESTARTED, NO
+FIGURE OF ANY SERIES WAS MOVED, NO THREAD WAS ANSWERED OR CLOSED, AND THE VOLUME'S MAJOR TURN, WHICH IS THE
+TWENTY-EIGHTH MORNING, IS BEHIND THIS BATCH AND WAS NOT REOPENED, RESCUED, APOLOGISED FOR OR PREVIEWED.**
+
+**THE FIGURES, EVERY ONE OF THEM DERIVED FROM ITS RULE AND NOT FROM THE FIGURE ON ANY PAGE, AND THE DAY COLUMN IS
+AN INDEX AND NOT A CUTTING SHEET.**
+
+| Day | Weekday | Third launder | Ordinal of the run | Window, rising of falling | Aggregate and its clause | Boards, near of far | Read aloud | Fourth line | The two reckonings | Register form | Charter | Second ruled line | The letter |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 930 | Friday | one thousand and three hundred and thirty-four hundredweight | four hundred and eightieth | two hundred and twenty-nine of two hundred and eighteen | four hundred and seventy-eight, clause four hundred and seventy-seventh out of four hundred and seventy-ninth | eight hundred and sixty-four of nine hundred and eleven | none, an even morning | a hundred and fifty-nine in force, twenty-nine taken, a hundred and thirty not | one hundred and seventh and ninety-fourth | three hundred and seventy-four | two hundred and eighty | three hundred and sixty-eight | a hundred and seventy-seven |
+| 931 | Saturday | one thousand and three hundred and twenty-nine hundredweight | four hundred and eighty-first | two hundred and twenty-nine of two hundred and nineteen | four hundred and seventy-nine, clause four hundred and seventy-eighth out of four hundred and eightieth | eight hundred and sixty-five of nine hundred and twelve | two hundred and eleven of four hundred and five | none | none | three hundred and seventy-five | two hundred and eighty-one | three hundred and sixty-nine | a hundred and seventy-eight |
+| 932 | Sunday | one thousand and three hundred and thirty-seven hundredweight | four hundred and eighty-second | two hundred and thirty of two hundred and nineteen | four hundred and eighty, clause four hundred and seventy-ninth out of four hundred and eighty-first | eight hundred and sixty-six of nine hundred and thirteen | none, an even morning, and it carries a locked figure | none | none | three hundred and seventy-six | two hundred and eighty-two | three hundred and seventy | a hundred and seventy-nine |
+| 933 | Monday | one thousand and three hundred and thirty-two hundredweight | four hundred and eighty-third | two hundred and thirty of two hundred and twenty | four hundred and eighty-one, clause four hundred and eightieth out of four hundred and eighty-second | eight hundred and sixty-seven of nine hundred and fourteen | two hundred and twelve of four hundred and seven | none | none | three hundred and seventy-seven | two hundred and eighty-three | three hundred and seventy-one | a hundred and eighty |
+| 934 | Tuesday | one thousand and three hundred and forty hundredweight | four hundred and eighty-fourth | two hundred and thirty-one of two hundred and twenty | four hundred and eighty-two, clause four hundred and eighty-first out of four hundred and eighty-third | eight hundred and sixty-eight of nine hundred and fifteen | none, an even morning | a hundred and sixty in force, twenty-nine taken, a hundred and thirty-one not | one hundred and eighth and ninety-fifth | three hundred and seventy-eight | two hundred and eighty-four | three hundred and seventy-two | a hundred and eighty-one |
+| 935 | Wednesday | one thousand and three hundred and thirty-five hundredweight | four hundred and eighty-fifth | two hundred and thirty-one of two hundred and twenty-one | four hundred and eighty-three, clause four hundred and eighty-second out of four hundred and eighty-fourth | eight hundred and sixty-nine of nine hundred and sixteen | two hundred and thirteen of four hundred and nine | none | none | three hundred and seventy-nine | two hundred and eighty-five | three hundred and seventy-three | a hundred and eighty-two |
+| 936 | Thursday | one thousand and three hundred and forty-three hundredweight | four hundred and eighty-sixth | two hundred and thirty-two of two hundred and twenty-one | four hundred and eighty-four, clause four hundred and eighty-third out of four hundred and eighty-fifth | eight hundred and seventy of nine hundred and seventeen | none, an even morning | none | none | three hundred and eighty | two hundred and eighty-six | three hundred and seventy-four | a hundred and eighty-three |
+| 937 | Friday | one thousand and three hundred and thirty-eight hundredweight | four hundred and eighty-seventh | two hundred and thirty-two of two hundred and twenty-two | four hundred and eighty-five, clause four hundred and eighty-fourth out of four hundred and eighty-sixth | eight hundred and seventy-one of nine hundred and eighteen | two hundred and fourteen of four hundred and eleven | none | none | three hundred and eighty-one | two hundred and eighty-seven | three hundred and seventy-five | a hundred and eighty-four |
+| 938 | Saturday | one thousand and three hundred and forty-six hundredweight | four hundred and eighty-eighth | two hundred and thirty-three of two hundred and twenty-two | four hundred and eighty-six, clause four hundred and eighty-fifth out of four hundred and eighty-seventh | eight hundred and seventy-two of nine hundred and nineteen | none, an even morning | a hundred and sixty-one in force, twenty-nine taken, a hundred and thirty-two not | one hundred and ninth and ninety-sixth | three hundred and eighty-two | two hundred and eighty-eight | three hundred and seventy-six | a hundred and eighty-five |
+| 939 | Sunday | one thousand and three hundred and forty-one hundredweight | four hundred and eighty-ninth | two hundred and thirty-three of two hundred and twenty-three | four hundred and eighty-seven, clause four hundred and eighty-sixth out of four hundred and eighty-eighth | eight hundred and seventy-three of nine hundred and twenty | two hundred and fifteen of four hundred and thirteen | none | none | three hundred and eighty-three | two hundred and eighty-nine | three hundred and seventy-seven | a hundred and eighty-six |
+
+**THE FIGURE CHECK FOR THESE TEN MORNINGS IS ONE HUNDRED AND SIXTY-FIVE AND IT IS ONE HUNDRED AND SIXTY-FIVE
+PRESENT WITH ZERO FAILURES**, being fourteen on every morning, two more on each of the five odd mornings, and five on
+each of the three fourth-line mornings at days 930, 934 and 938. **THE TOTAL IS DERIVED FROM THE ITEM LIST AT THE
+CARD SET'S SECTION ELEVEN AND NOT FROM ANY PROMPT'S FIGURE. A SUCCESSOR WITH TWO FOURTH-LINE MORNINGS GETS ONE
+HUNDRED AND SIXTY AND ONE WITH FOUR GETS ONE HUNDRED AND SEVENTY.**
+
+**AND THE WITHDRAWN HEADINGS STAY WITHDRAWN AND THE THREE OF THEM THAT TOUCH THIS BATCH WERE THE RULE AND NOT THE
+HEADING.** Cards thirty-one, thirty-five and thirty-nine are headed ninth, eleventh and twelfth and their own bodies
+say eighth, ninth and tenth. **Day 930 carries a hundred and fifty-nine in force and not a hundred and sixty, day 934
+a hundred and sixty and not a hundred and sixty-one, and day 938 a hundred and sixty-one and not a hundred and
+sixty-two.** A successor that trusted a heading would be one too high on all three.
+
+**THE PARITY WAS APPLIED ON ALL TEN MORNINGS AND FIVE OF THEM ARE EVEN AND FIVE ODD, AND DAY 931 IS THE MORNING
+WHERE THE BATCH BEHIND'S ORDER WOULD HAVE BEEN WRONG: IT IS A MONTH TURN AND THE FALLING HALF MOVED AND THE RISING
+HALF STOOD.** The frame over the read-aloud run reads of a month nine months back on day 931 exactly as it reads on
+every other morning of this volume, and a man in that yard says the heading is up a month and is told, on the page,
+that it is not.
+
+**THE LOCKED FIGURES. The far-end sentence was spent once, whole, on day 932, its thirty-third morning, and it is
+the first of the two in-between appearances the allowance permits, and it is the only whole appearance of either
+locked sentence in this batch. THE COMFORT LINE IS ABSENT IN EVERY FORM ON ALL TEN MORNINGS AND NONE OF ITS THREE
+LOAD-BEARING STRINGS RETURNS ANYTHING ON ANY MORNING OF THIS BATCH.** Day 932 carries no apparatus block of any kind,
+is an even morning, and has no read-aloud figure on it, so a locked figure is not printed inside apparatus. **THE
+MEASUREMENT THAT GOES WITH IT: the comfort line is twenty words and the far-end sentence is thirty-one, and the
+first gate's floor is thirty words, so a clean first gate is not evidence about either figure and any nil published
+against this batch must name that floor beside the nil.**
+
+**THE APPARATUS IS TWO BLOCKS, ON DAYS 936 AND 939, AT MOST ONE ON A MORNING, AND NO `Entered` LABEL ANYWHERE IN
+VOLUME FIFTEEN.** A block was available on days 933, 936 and 939 and two fell. The one on day 936 is the north
+branch's own paper in three hands, which is that region's own paper and not a document anybody in this holding enters,
+and the one on day 939 is the two hands that came up the lane. **That brings Volume 15 to ten blocks of every kind
+against a ceiling of thirty, and twenty unspent, and a menu is not a quota.**
+
+**THE OTHER STANDING BLOCKS DID NOT MOVE.** The compost line is paid at thirty-one and not discharged in thirty-one
+or in anything, and it was said once in these ten mornings, in six words, by the only person in that yard entitled to
+explain it. Thirty-nine blanks and the second rule under them open and empty at the thirty-ninth time, on the one
+return morning in this batch, which is day 937, and the return moved nothing. Four sheets on the long table, none
+entered, none refused, no column cut under any of them. The mark four inches forking twice. The use log at fifteen
+lines, the barrow at eleven journeys, seven sessions entered, fifty-three requests against fifty-three notes. Zero
+rungs climbed and the offer on the low board undated, unpicked and not withdrawn. Twenty-nine fetchings of the man of
+about seventy, not fetched. **The second place is still without water, is not described as temporary and is not
+apportioned, and no morning of this batch finds a way round it.**
+
+**AND THE THINGS THAT CAME INTO THIS HOLDING ON THESE TEN MORNINGS, WHICH ARE STANDING AND WHICH WILL NOT LEAVE.**
+Four terms in four hands with five short empty lines at the foot and nothing at the top, and a woman who tries to
+put a date on it and is stopped because a date makes a record. A clerk from up the lane who walked a mile and a
+quarter in his own boots and filled in three hundred and two days where this holding says two hundred and eighty.
+A register form that exists in a drawer four miles off with a different count on it, and nobody knows which is the
+copy. A slip three weeks old in a tray up that lane carrying a wrong copy of this holding's window, which this holding
+cannot correct because there is no column under any of its four sheets. A quarter turn of a sluice and a cart of
+lime gone soft, and an hour gone out of nine men's book that nobody can put back. A ring of replacement seedhearts
+in the ground at the gate end, planted by the crews who will run it, and the crew man who told the man who buys
+that the drainage would have saved half the lime and would not have saved the hour. A stone in a course that a mason
+from the third place laid and would not have laid and told a yard about and did not take out. **A region of eleven
+households on the north branch, three miles up, saying in its own mouth on day 936 that it will not be put under the
+flood load, in three hands, on its own paper, and not overruled and not delayed and not softened and not put back on
+any agenda.** A stool outside the gate that nobody sat on. The engineer of record's own sheet with two place names
+on it, which Soren Rill refused to carry up the lane and put in a drawer in his own house. And the route eleven
+households named on day 939, which does not come down past a gate.
+
+**AND WHAT IS OWED THE NEXT MORNING, WHICH IS NINE MORNINGS AND NOT TEN.** Batch 0005 is days 940 to 948, mornings
+forty-one to forty-nine, files `chapter-0727.md` through `chapter-0735.md`, and its prompt is on disk at
+`workspace/volume-15/batch-0005/PROMPT.md`. **It carries the volume's climax on its forty-second morning, and it is
+the last batch of mornings in this volume, and it is followed by a close phase and not by another batch.**
