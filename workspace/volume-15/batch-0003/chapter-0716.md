@@ -2,7 +2,7 @@
 
 ## The Twenty-Ninth Of The Nineteenth, And Four Terms Written In Four Different Hands On The Back Of A Clean Sheet By People Who Will Do The Work And Who Will Not Sign It, And A Schedule That Is Not An Order And Five Short Lines At The Foot Of It With Nothing In Any Of Them
 
-Three men went out of this yard at the seventh hour with shovels and a barrow and a rope and came back at about the fifth hour of the afternoon, and that is the fourth day this month that has happened and it will go on happening until there is no silt in a branch four miles off.
+Three men went out of this yard at the seventh hour with shovels and a barrow and a rope and came back at about the fifth hour of the afternoon, and it has happened on enough mornings this month to be a habit and it will go on happening until there is no silt in a branch four miles off.
 
 The work in this yard was on the crossings that exist, and about nine people were on them at the same time, and nobody in this yard was asked to be on one.
 
@@ -66,7 +66,7 @@ She looked at it for a moment longer.
 
 Odile Vray gave the whole of the day in one paragraph at about the sixth hour and gave it in the arithmetic of five women and three men, which is the only arithmetic she has ever used.
 
-**"Seven bodies on the sill at the fifth hour. Three on the wall at the sixth. Two on the sluice and one on the boards at the seventh, and that is me. One man on the tenth hour who cannot be anywhere else at the tenth hour. Three men four miles each way with a barrow and a rope at the fourth, which is the fourth day of that this month. One boy with two cans at the second hour, and that is not free, and it has not been free since the spring."**
+**"Seven bodies on the sill at the fifth hour. Three on the wall at the sixth. Two on the sluice and one on the boards at the seventh, and that is me. One man on the tenth hour who cannot be anywhere else at the tenth hour. Three men four miles each way with a barrow and a rope at the fourth, and that hour is not on the schedule and never has been. One boy with two cans at the second hour, and that is not free, and it has not been free since the spring."**
 
 She put her hand down on the boards.
 

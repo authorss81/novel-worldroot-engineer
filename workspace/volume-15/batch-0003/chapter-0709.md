@@ -68,7 +68,7 @@ She came out of the doorway and stopped.
 
 Ismay Rooke had his hands on the pipe behind the tap house joint before anybody asked him about it.
 
-**"It is weeping at the second hour and I do not know what that is called where the water has come from, and I have been in this yard two mornings and I have already heard two different explanations of it from two people who were not going to be here when it fails."**
+**"It is weeping at the second hour and I do not know what that is called where the water has come from, and I have been stood in this yard long enough now to have heard two different explanations of it from two people who were not going to be here when it fails."**
 
 He took his hands off the pipe and wiped them on the same cloth the man of the north row with the cough wipes his hands on, which nobody remarked on.
 

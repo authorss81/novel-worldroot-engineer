@@ -18,7 +18,7 @@ The yard had heard him and the yard said nothing, and a woman carrying a barrow 
 
 Odile Vray gave the window to nobody who had asked her for it and she gave it at the boards while she was cutting the day into four, which she does before light with a stick of charcoal on the back of a seed sack and not on anything that belongs to anybody.
 
-**"Two hundred and twenty-four of the upper half, and two hundred and thirteen of the lower, and four hundred and thirty-seven of it altogether, and I have given them to you in the order I care about them, which is the one that moved this morning first, and the upper one has not shifted since Sunday because the upper one only moves on the even mornings and this is one of them."**
+**"Two hundred and twenty-four of the upper half, and two hundred and thirteen of the lower, and four hundred and thirty-seven of it altogether, and I have given them to you in the order I care about them, which is the one that moved this morning first, and the lower one has not shifted since Monday because the lower one only moves on the odd mornings and this is not one of them."**
 
 She put the charcoal down and picked up the trowel.
 

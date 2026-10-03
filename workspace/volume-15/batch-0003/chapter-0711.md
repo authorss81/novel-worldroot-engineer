@@ -12,7 +12,7 @@ It had no seal on it and it had no clerk's hand and it had nothing on it that a 
 >
 > We have weighed it against what it buys, which is two things, and what it does not do, which is five things, and what it costs, which is sixteen bodies for twenty-two mornings and a mile of dry ground between the bodies and the stone.
 >
-> We will give our answer at the sixth hour at your gate, on the third morning counting from the one this was written on.
+> We will give our answer at the sixth hour at your gate, on the third morning counting from the morning this was put on your table.
 >
 > We ask this holding for nothing before then. We are not asking for a figure to be altered and we will not be moved by one, and if every figure in your yard is altered before that morning the answer will be the same answer.
 >
@@ -114,7 +114,7 @@ The girl from the second place said the man at the end of the north row on her w
 
 **"Twenty-nine fetchings, not fetched, nothing asked at any hour. And I have now been in this yard fifteen days and that house is the only thing in it I have counted every single morning, and I do not think anybody here would understand that as interesting, so I am telling it to the wall."**
 
-Odile Vray put her hand on the pipe behind the tap house joint and left it there while she said it, which is what the woman from the second place did yesterday and which nobody in that yard had seen twice in nine years.
+Odile Vray put her hand on the pipe behind the tap house joint and left it there while she said it, which is what the woman from the second place did on Wednesday, and which nobody in that yard had seen twice in nine years.
 
 **"It stands. I have felt it every day since I got here and I am going to stop saying it now, because a thing I say every morning stops being a thing I have checked and becomes a thing I have promised, and I would rather leave it where it is."**
 

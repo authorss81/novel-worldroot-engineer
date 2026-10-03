@@ -52,7 +52,7 @@ Sera Quill said the letter from the boards and did not consult anything.
 
 Then she took the slate out from under her arm, and she said the two on it, and she put it away again.
 
-**"One hundred and sixth, and ninety-third, thirteen apart, and they have gone a step since Saturday because they step on the mornings they step on and not on any other. And the ninety-third is the one I carry and it is not in the rack and it is not on a wall and it is not on a sheet. I am not going to say why I have stopped saying the rest of it out loud, and I have told this yard twice that the answer is the same every morning and I am not going to tell it a third time on a Monday."**
+**"One hundred and sixth, and ninety-third, thirteen apart, and they have gone a step since Thursday because they step on the mornings they step on and not on any other. And the ninety-third is the one I carry and it is not in the rack and it is not on a wall and it is not on a sheet. I am not going to say why I have stopped saying the rest of it out loud, and I have told this yard twice that the answer is the same every morning and I am not going to tell it a third time on a Monday."**
 
 The girl from the second place read the figure in force off the rack at the sixth hour and read it correctly, which nobody in that yard had expected, because she has been in this yard seventeen days.
 
