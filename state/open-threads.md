@@ -1,8 +1,11 @@
 # Open Threads
 
-**Budget: this file is at fifteen thousand and three hundred and twenty-seven words, measured on its own bytes
+**Budget: this file is at seventeen thousand and six hundred and ninety-five words, measured on its own bytes
 with `len(text.split())`, which is the count any later pass re-derives and which moves with every
-edit. **THE BUDGET LINE PREVIOUSLY READ ABOUT FOUR THOUSAND TWO HUNDRED WORDS AND THAT WAS FALSE BY
+edit. **RAISED BY THE VOLUME 16 BATCH 0001 WRITING PASS OF 2026-10-03, WHICH ADDED THE CLOSING SECTION OF THIS FILE, CLOSED
+NO THREAD OF THE THIRTY-FIVE, CUT NO NOT-KNOWN ROW AND MOVED NO FIGURE OF ANY SERIES. THE PREVIOUS DECLARATION READ FIFTEEN
+THOUSAND AND THREE HUNDRED AND TWENTY-SEVEN AND WAS CORRECT WHEN IT WAS WRITTEN; A PASS THAT ADDS A SECTION AND LEAVES THE
+BUDGET ALONE HAS DECLARED A FIGURE IT DID NOT MEASURE.** **THE BUDGET LINE PREVIOUSLY READ ABOUT FOUR THOUSAND TWO HUNDRED WORDS AND THAT WAS FALSE BY
 NEARLY TWELVE THOUSAND WORDS WHEN THE VOLUME 15 CLOSE OPENED IT, AT 13,684 MEASURED, AND IT IS
 CORRECTED HERE. THREE STATE FILES HAVE CARRIED A BUDGET LINE NO PASS MEASURED, AND ALL THREE ARE
 NOW CORRECTED.** Raised by the review-fix pass of
@@ -20,12 +23,14 @@ Read this file whole. Figures are in
 `state/current.md`, the story is in `state/continuity.md`, and the archived layer at
 `reviews/state-archive-2026-10-02/` holds the per-thread detail for every row below.**
 
-Last rewritten 2026-10-03 by the review-fix pass over Volume 15 Batch 0003, which wrote no prose,
-closed none of the thirty-five, moved no figure of any series, added no thirty-sixth, and added
-section eleven. Before that by the Volume 15 Batch 0003 writing pass, and before that by the Volume 15
-Batch 0002 writing pass, and before that by the review-fix pass over the Volume 14 close, which wrote no
-prose, closed none of the thirty-five, moved no figure of any series, and added no thirty-sixth.
-**Volume 14 is closed.**
+Last rewritten 2026-10-03 by the **Volume 16 Batch 0001 writing pass, which wrote the first ten mornings of the
+sixteenth and last volume and closed none of the thirty-five, moved no figure of any series, added no thirty-sixth, cut no
+not-known row, reworded no refusal, and added one closing section and three findings.** Before that by the review-fix pass
+over Volume 15 Batch 0003, which wrote no prose, closed none of the thirty-five, moved no figure of any series, added no
+thirty-sixth, and added section eleven. Before that by the Volume 15 Batch 0003 writing pass, and before that by the Volume
+15 Batch 0002 writing pass, and before that by the review-fix pass over the Volume 14 close, which wrote no prose, closed
+none of the thirty-five, moved no figure of any series, and added no thirty-sixth.
+**Volumes 14 and 15 are closed and Volume 16 is open at ten mornings of forty-five.**
 
 ---
 
@@ -1024,3 +1029,71 @@ ELSE'S MOUTH. THE REFUSAL OF IT IS THE MAJOR TURN AND IT IS NOT A CLOSURE OF ANY
 ANSWERED IN ITS OWN FILE, AND IT NAMED THE WORD FOR THE SECOND OF THEM ONCE AND ONCE ONLY, AT ITS SECTION FOUR, AND ITS
 CARD PHASE IS INSTRUCTED NOT TO CARRY IT. A PLAN THAT NAMES A PROHIBITION ONCE AND THEN USES IT AS A SUBJECT HAS USED IT
 AS A SUBJECT.**
+
+---
+
+## What Volume 16 Batch 0001 advanced, what it left open, and the three findings it adds
+
+**TEN MORNINGS, DAYS 949 TO 958, WRITTEN 2026-10-03. THIRTY-FIVE IN AND THIRTY-FIVE OUT. NO ROW CUT FOR ANY OF THEM, NO
+SIXTH NOT-KNOWN ADDED, NO NOT-KNOWN ANSWERED, NO REFUSAL REWORDED TO LOOK CLOSED, AND NO FIGURE PUBLISHED FOR THEM OTHER
+THAN THIRTY-FIVE IN AND THIRTY-FIVE OUT.**
+
+### The threads this batch touched, by number, and what each one is now
+
+1. **Whose order it is.** Not asked, not named, not hinted at. Untouched.
+2. **Whether the telling is still going on.** Untouched. Nobody in these ten mornings says anything about it.
+4. **The corridor in the pan.** Untouched. The sheet claiming it is still in a drawer that was shut at every hour.
+6. **The ring of bare ground inside the eleven acres.** **UNWALKED, UNMEASUREED AND UNPRICED ON ALL TEN MORNINGS, AND A BOY STOOD AT THE EDGE OF IT ON THE THIRD MORNING AND DECIDED NOT TO AND WENT AND DID SOMETHING ELSE INSTEAD, WHICH IS NOT A FOOT AND IS NOT A TAPE AND IS NOT A PRICE.**
+10. **The blank columns of the well house door.** **WALKED PAST ON FOUR OF THE TEN MORNINGS, READ ON NONE, OFFERED TO NOBODY, AND NO REMAINING ALLOWANCE FIGURE PRINTED FOR IT ANYWHERE IN THIS BATCH. THE SIXTY-SIX DOES NOT GO BACK AND WAS NOT READ.**
+11. **The man of about seventy.** **TWENTY-NINE FETCHINGS, NOT FETCHED ON ANY OF THE TEN MORNINGS, THE COUNT OF QUESTIONS PUT TO HIM NIL AT EVERY HOUR AND STAYING NIL.**
+13. **The man of the north row with the cough.** The four ruled lines under two words were bare on the mornings that touched them and nothing was put on any of them.
+16. **The thirty-five open questions in general.** Said nothing new. Thirty-five in and out.
+18. **The use log and the reason for the fifteen.** **FIFTEEN LINES ON THE MORNINGS THAT NAMED IT, THE SIXTEENTH NOT WRITTEN, AND ON ONE MORNING THE MAN WHO KEEPS IT WENT HOME AN HOUR EARLY AND LEFT IT AT FIFTEEN FOR NOBODY TO COME BACK AND FIND.**
+19. **The pattern-holder counts and the two rootmarks.** All carried unmoved. Not named in any form.
+20. **The four accounts of the arm and the mark.** **THE MARK FOUR INCHES FORKING TWICE WITH NO SECOND MARK IS ON MAREK VALE'S INSIDE LEFT FOREARM ON THE FIRST MORNING OF THIS VOLUME AND HE DID NOT LOOK AT IT AT ANY HOUR AND NOBODY ASKED HIM ABOUT IT. NO SECOND MARK IN ANYBODY'S HAND.**
+23. **The times a bookkeeper has said a thing in a yard the engineer of record had not thought of.** **NOT ADVANCED AND NOT SPENT. Kellan Rusk opened the one room at the step on day nine hundred and fifty-six and offered to read from memory what is behind the shut drawer, and Marek Vale's own answer was to have the girl of about seventeen listen, and neither of them said the thing the thread is waiting for. THE THREAD IS OPEN AND WIDER THAN IT WAS.**
+26. **The requests and the section-nine notes.** **FIFTY-THREE AND FIFTY-THREE ON THE MORNINGS THAT NAMED THEM, NEVER ADDED, NEVER THE SAME LIST, AND A CHARACTER ON ONE MORNING STATED THE OTHER HALF OF IT OUT LOUD, being that a hundred and thirty-five not taken is not a gap in this holding but a hundred and thirty-five people who were not asked to be on a list.**
+27. **The barrow and the four roads.** **ELEVEN JOURNEYS ON THE MORNINGS THAT NAMED IT, RESTATED AND NEVER RAISED, AND ON ONE MORNING THE MAN WHO PUSHES IT SAID OUT LOUD THAT HE WAS NOT GOING TO MAKE IT TWELVE AND NOBODY TOLD HIM HE HAD TO, AND ON ANOTHER HE SAID THE FOURTH HOUR OF THE MIDDLE OF THE DAY IS NOT A TIME TO BE PUSHING A BARROW ANYWHERE AND SAID IT TO NOBODY.**
+28. **The register form and the offer.** **THE OFFER ON THE LOW BOARD IS UNDATED, UNPICKED AND NOT WITHDRAWN ON ALL TEN MORNINGS, AND ON THE FIFTH MORNING A HAND CAME NEAR THE LEDGE UNDER IT AND DID NOT PICK IT UP, AND AURET SILL'S DEMAND THAT LINE FIVE OF THE SCHEDULE SAY THE SECOND PLACE IS NOT ON IT WAS GRANTED OUT LOUD AND TWICE AND NOTHING WAS DATED AND NOBODY DATED IT.**
+29. **The form with four lines.** Untouched. The form was carried out to the step three times in this batch and was not entered and is not going to be.
+31. **The five terms and the twenty-first.** **THE THIRD COLUMN OF THE SHEET OF TERMS WAS RULED AND EMPTY UNDER A HEADING NOBODY HAS IMPROVED ON THE MORNINGS THAT NAMED IT, AND NO SIXTH TERM WAS WRITTEN, AND THE MAINTENANCE SCHEDULE IS NOT A SIXTH TERM AND SAYS NOTHING OF THE KIND, AND AURET SILL WROTE LINE FIVE OF IT ON A COPY IN HER OWN BOOK AS SHE SAID SHE WOULD.**
+32. **The succession ladder.** **ZERO RUNGS CLIMBED ON ALL TEN MORNINGS, THE LADDER NAMED ON THREE OF THEM, NO PERSON PUT A FOOT ON IT, AND NO FIGURE PRINTED AGAINST EITHER OF ITS TWO PEOPLE. THESE ARE TEN NEW MORNINGS AND NOT A FINDING ABOUT THE FIFTEEN VOLUMES BEHIND, ON WHICH THE CLOSE FOUND THIS FLOOR MOVED ON FIVE MORNINGS.**
+34. **The not knowns counted as six.** **SIX AT SIX, NO UNIT FOR ANY, AND NO SEVENTH ROW CUT FOR ANYTHING ON ANY OF THE TEN MORNINGS.**
+
+### The four permanent losses, on these ten mornings
+
+**FOUR BEFORE THIS BATCH AND FOUR AFTER IT, NONE REDUCED, NONE SOFTENED, NONE RECOVERED, NONE RE-NAMED, NONE PRICED, AND
+NO FIFTH ADDED BY ANYBODY FOR ANY REASON.** None of the four is spelled out in any of the ten mornings and none of them
+is spent a figure on. The first lives as what Marek Vale can and cannot do at a board in front of people, and it is the
+first morning of the volume on which he says the sentence about the far end of a thing out loud in a yard rather than to
+one person. The second lives as an arrangement, and the volume behind's close found it standing and it stands. **The
+third lives as Tova Reed's own work and no hand went on her arm on any of the ten mornings, and on the third morning her
+hearing was not mentioned at all, and on the eighth a man asked her a question from twenty feet off at the seed house
+door and she answered it once.** The fourth is the thing that is paid and it was not referred to by name on any of them.
+
+### The second place, on these ten mornings
+
+**STILL WITHOUT WATER AND NOT RESTORED, NOT APPORTIONED, NOT DATED, NOT DEFERRED AND NOT DESCRIBED AS TEMPORARY ON ANY OF
+THE TEN MORNINGS, AND NOTHING SIGNED IN THIS BATCH COVERS IT.** It is named as a place with no water on Tova Reed's seed
+route on the third morning, and as four houses at the end of the second branch. It is line five of the maintenance
+schedule, in his own hand and in a copy in Auret Sill's own book. It is the absence of a line on the sheet that came up the
+low road, which Marek Vale looked for twice and said out loud that he had looked. It is the cost Sera Quill put on the
+record about four households at the end of her branch who cannot read a line. It is what Hanne Brack would not talk about
+in front of a yard on the fifth morning. **IT IS A COST ON THE RECORD AND NOT A FIFTH PERMANENT LOSS AND A RECORD IS NOT A
+WOUND.**
+
+### Three findings this batch adds, none of which is a figure of any series
+
+1. **THE BATCH PROMPT'S COUNT OF ITS OWN ODD MORNINGS IS WRONG BY ONE AND ITS FIGURE-CHECK TOTAL IS THEREFORE WRONG BY TWO.**
+   Days 949 to 958 carry five odd mornings and not six, so the batch's own item list makes one hundred and sixty-two and
+   not one hundred and sixty-four. **THE THIRTY-ONE AND THE SEVEN HUNDRED AND TWENTY AND THE ONE HUNDRED AND SIXTY-FIVE ALL
+   STAND AND NONE IS AFFECTED, AND THE PROMPT IS A COMPLETED PHASE'S FILE AND IS NOT REPAIRED HERE.**
+2. **A VERBAL GESTURE HAS NOW APPEARED IN TWO CONSECUTIVE MORNINGS IN A FORM THAT NEITHER IS A DUPLICATE AND BOTH READ AS
+   ONE.** *That is two hundred* and *that is two hundred* stand on days 951 and 957 in the mouths of two different people
+   about two different figures, and at the declared normalisation the exact-duplicate sweep returns zero and the sliding
+   sweep returns zero on that shape. **A GATE THAT NORMALISES THE WORDS OUT OF A SENTENCE CANNOT SEE TWO FIGURES COLLIDING
+   IN A SENTENCE, AND THE COLLISION ON DAY 949 IS EXACTLY THAT CASE AND WAS HANDLED BY HAND.**
+3. **THE OFFER ON THE LOW BOARD WAS NEARER A HAND THAN IT HAS EVER BEEN AND NOBODY WILL EVER BE ABLE TO TELL.** Odile Vray's
+   hand was on the ledge under it on the fifth morning for about as long as a hand rests on a thing that is not being
+   picked up, and she did not pick it up. **THE OFFER IS STILL UNDATED, UNPICKED AND NOT WITHDRAWN, AND NO PAGE IN THIS
+   BATCH SAYS WHAT SHE WAS THINKING, AND NO SUCCESSOR MAY.**

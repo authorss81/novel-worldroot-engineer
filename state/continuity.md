@@ -1,8 +1,12 @@
 # Continuity
 
-**Budget: this file is at fifteen thousand four hundred and twenty words, measured on its own bytes
+**Budget: this file is at seventeen thousand and one hundred and eighty-one words, measured on its own bytes
 with `len(text.split())`, which is the count any later pass re-derives and which moves with every
-edit. **RAISED BY THE VOLUME 16 PLAN OF 2026-10-03, WHICH ADDED SECTION FIFTEEN AND CORRECTED NO FIGURE OF ANY SERIES. THE
+edit. **RAISED BY THE VOLUME 16 BATCH 0001 WRITING PASS OF 2026-10-03, WHICH ADDED SECTION SIXTEEN, WHICH RECORDS WHAT THE
+FIRST TEN MORNINGS OF THE SIXTEENTH AND LAST VOLUME CHANGED IN THIS HOLDING, AND WHICH CORRECTED NO FIGURE OF ANY SERIES
+AND ANSWERED NO THREAD AND CLOSED NO THREAD. THE PREVIOUS DECLARATION READ FIFTEEN THOUSAND FOUR HUNDRED AND TWENTY AND
+WAS CORRECT WHEN IT WAS WRITTEN; A PASS THAT ADDS A SECTION AND LEAVS THE BUDGET ALONE HAS DECLARED A FIGURE IT DID NOT
+MEASURE.** RAISED BY THE VOLUME 16 PLAN OF 2026-10-03, WHICH ADDED SECTION FIFTEEN AND CORRECTED NO FIGURE OF ANY SERIES. THE
 PREVIOUS DECLARATION READ THIRTEEN THOUSAND SIX HUNDRED AND THIRTY-THREE AND WAS CORRECT WHEN IT WAS WRITTEN; A PASS THAT
 ADDS A SECTION AND LEAVES THE BUDGET ALONE HAS DECLARED A FIGURE IT DID NOT MEASURE.** **THE BUDGET LINE PREVIOUSLY READ ABOUT FOUR THOUSAND FOUR HUNDRED WORDS AND THAT WAS FALSE BY
 NEARLY NINE THOUSAND WORDS WHEN THE VOLUME 15 CLOSE OPENED IT, AT 12,339 MEASURED, AND IT IS
@@ -21,10 +25,14 @@ not to be loaded.**
 
 This file carries the story. Figures and derivations are in `state/current.md`, live threads
 in `state/open-threads.md`, the volume index in `state/chapter-summaries.md`. Last rewritten
-2026-10-03 by the review-fix pass over Volume 15 Batch 0003, which wrote no prose, altered one
-morning by one sentence, moved no character and no figure of any series, and closed no thread.
-Before that by the Volume 15 Batch 0003 writing pass, and before that by the review-fix pass over
-the Volume 14 close, which wrote no prose and altered no morning.
+2026-10-03 by the **Volume 16 Batch 0001 writing pass, which wrote the first ten mornings of the sixteenth and last
+volume, days nine hundred and forty-nine to nine hundred and fifty-eight, in `workspace/volume-16/batch-0001/`, added the
+maintenance schedule and the assembly that will not come to the yard and the girl of about seventeen and the bed at the
+top of the ring and the challenge at the gate on day nine hundred and fifty-eight, moved no figure of any series, answered
+no thread, closed no thread, and created one successor.** Before that by the review-fix pass over Volume 15 Batch 0003,
+which wrote no prose, altered one morning by one sentence, moved no character and no figure of any series, and closed no
+thread. Before that by the Volume 15 Batch 0003 writing pass, and before that by the review-fix pass over the Volume 14
+close, which wrote no prose and altered no morning.
 
 ---
 
@@ -969,3 +977,91 @@ are thirty words or more, and its first gate returns one pair inside the volume 
 locked far-end sentence at a ratio of exactly one.** The sliding eighteen-word reading returned 69,962 windows, twenty
 shapes and thirty-seven excess, **and the shapes were measured against a universe that was afterwards withdrawn, so a
 successor that needs the shapes must run the gate again and may not carry them forward.**
+
+---
+
+## 16. What Volume 16's first ten mornings changed, and what they left standing
+
+**TEN MORNINGS WRITTEN 2026-10-03, DAYS 949 TO 958, FILES `chapter-0736.md` TO `chapter-0745.md`, EIGHTEEN THOUSAND SEVEN
+HUNDRED AND TEN WORDS. NOTHING WAS RESOLVED, NOTHING WAS ANSWERED, NO FIGURE OF ANY SERIES WAS MOVED BY ANYONE BUT ITS
+OWN RULE, AND NO THREAD WAS CLOSED.**
+
+### 16a. The new material this batch puts into the holding, and who it belongs to
+
+1. **THE MAINTENANCE SCHEDULE, WHICH IS THE FIRST DOCUMENT OF THE WHOLE FINAL VOLUME TO EXIST AS A SHEET IN THE WORLD.** It
+   is five lines, undated, and it is not a command: line one is the morning with the north end of the ring first and the
+   draw before anything is asked for at this end; line two is four hours in the middle of the day with nothing going in
+   and the sluice wheel not turned; line three is the load in two stages read between them by somebody other than the man
+   who put it on; line four is the head of the channel looked at by whoever goes, with **no name against that line**;
+   line five is that the second place is not on the sheet. **IT WAS PUT ON THE MIDDLE TABLE ON DAY 950 UNDER FOUR STONES
+   OFF THE SEED BENCHES, IT WAS SETTLED AS TO FORM AND NOT AS TO ORDER ON DAY 958, AND IT CARRIES NO DATE AT THE HEAD OF
+   IT ON ANY MORNING AND NO MORNING IN THIS VOLUME PUTS ONE THERE.** **THE DISAGREEMENT BETWEEN THE TWO COUNCILS ABOUT
+   THE ORDER OF LINES TWO AND THREE IS WRITTEN ONTO THE SHEET IN A SECOND HAND, WHICH IS THE FIRST TIME IN FIFTEEN
+   VOLUMES THAT A SHEET IN THIS HOLDING CARRIES A DISAGREEMENT ON IT INSTEAD OF CARRYING A SETTLEMENT.**
+2. **THE FOURTH-HOUR CLAUSE ON LINE ONE.** A man of the households on the sluice road put a fifth hour on line one in his
+   own hand, and said out loud that he has refused nothing, and Marek Vale said in the yard that the sluice road had
+   refused nothing. **A REFUSAL OF A TIME IS NOT A REFUSAL OF THE SCHEDULE AND WAS NOT WRITTEN UP AS ONE.**
+3. **THE SHEET THAT CAME UP THE LOW ROAD, which belongs to an assembly of nine at eleven paths and not to this holding.**
+   Its man is **Roan Selk**, who walked two hours and took three days over it, would not sit down, held the two far
+   corners himself, and gave four things and stopped. It says eleven paths walked, six meetings, nine hands at the
+   meeting where the path figures were read, **no branch opened on the paths by anybody since the middle of the summer**,
+   and twice asked to come to a yard by a man who will not come to a yard. **THE ASSEMBLY HAS AGREED TO NOTHING AND
+   ROAN SELK PUT THAT IN WRITING IN HIS OWN HAND TO BE SENT DOWN THE ROAD FOUR DAYS LATE.**
+4. **THE FOUR ACCOUNTS OF THE LETTER, given out loud in one yard on day 953 by four people who do not have it**, being the
+   man who lays for three councils, Perrin Dae at the fourth place, Hanne Brack from the second place and the clerk from
+   up a lane on foot. **THE LETTER WENT OUT OF ITS RANGE ON THAT MORNING AT EXACTLY TWO HUNDRED AND DOES NOT COME BACK
+   DOWN, AND TOVA REED WROTE IT IN THE ORDINARY WAY AND SAID WHY.**
+5. **THE GIRL OF ABOUT SEVENTEEN FROM THE SLUICE ROAD**, who came inside the gate on day 956 for the first time in her
+   life because a form was said to be in here, and who was given a figure by Sera Quill to look at, and who wrote three
+   window figures on the back of her hand from forty feet up a wall, and who said at the gate post that a figure was a
+   very small thing to have come inside a gate for. **She is not named and she is not a thread.**
+6. **THE BED AT THE TOP OF THE RING, which came up with the root on it on day 957 and is not there again this season.** It
+   was not dug again, not cut at, not moved and not priced, and the crew man wrote it down before he wrote a figure and
+   would not let nine people make a verdict out of one bed. **A FAILURE IN THE RING IS NOT A FIFTH LOSS AND THE FOUR ARE
+   FOUR AFTER THAT MORNING.**
+7. **THE CHALLENGE AT THE GATE ON DAY 958**, that there is one man in four counties who could put somebody over the joint,
+   put in front of about thirty people, and Marek Vale put a stone on the corner of his own schedule and did not answer.
+   **THE NEXT MORNING MUST FIND HIM DECLINE IN FRONT OF THE YARD, AND THE TENTH MORNING HAS NOT YET DONE IT.**
+
+### 16b. What the batch changed in the arrangements and in the people's work
+
+- **Marek Vale said the far-end figure out loud in the yard on day 949, in front of about twenty people, having said it to
+  one person in four years.** It is the first of the two allowed appearances in the volume's first morning and the volume
+  has three more, one of them the thirty-seventh morning, one the forty-second and one the last. **He did not appoint
+  anybody over the joint and he did not say the joint is his.**
+- **He handed the gauge to his sister Nia Vale on day 952 and did not take it back, and she read it out loud once and then
+  again, and put it down on the boards and left it there.** His contribution that morning was the schedule and the
+  sequence. **HE IS THE MAN WHO REFUSES THE CUSTODY AND HE IS THE MAN WHO GAVE THE INSTRUMENT AWAY, AND NEITHER IS THE
+  SAME ACT AS THE OTHER.**
+- **Sera Quill said out loud, once, in front of about nine people, the cost of the schedule, which is that four households
+  at the end of her branch cannot read a line and are now worked to by whoever in that yard can.** Marek Vale did not
+  answer her, she did not wait, and nobody chose between them. **HER SAYING IT IS NOT A CLOSURE AND NOT AN ANSWER AND NOT
+  A FIGURE OF ANY SERIES, AND IT IS THE FIRST TIME ANYBODY IN THIS HOLDING HAS PUT A PRICE ON THE ENGINEER OF RECORD'S OWN
+  DECISION OUT LOUD.**
+- **Kellan Rusk offered on day 956 to read out from memory what is behind the drawer, at the step, in front of anybody, and
+  said twice that this is not the drawer.** The drawer was shut at every hour of that morning and of every other morning
+  of this batch and the key was on its nail at every hour. **OFFERING TO READ WHAT IS BEHIND IT IS NOT OPENING IT AND
+  NOT ONE FIGURE IN THIS HOLDING IS ENTERED INTO IT.**
+- **Nobody thanked anybody on any of the ten mornings, nobody apologised, and no figure for a turn of the compost line
+  appears on any of them.**
+
+### 16c. What the batch inherited and left untouched
+
+The four permanent losses are four. The second place is still without water and no line of the schedule covers it and
+line five says so in words. The pruning window is open and was not entered, not described and not named. Iona Vey is
+named on no morning of this batch. The thirty-five are thirty-five in and thirty-five out. The two questions were not
+asked, not named, not hinted at and not paraphrased. The light on the low road was not described and nobody in this
+holding went down that road and nobody was sent. The offer on the low board is undated, unpicked and not withdrawn and a
+hand came near its ledge on the fifth morning and did not pick it up. The ladder was not climbed on any of the ten
+mornings and the drawer was not opened on any of the ten mornings, and **those two standings are standings for these ten
+unwritten-behind mornings and are not a finding about the fifteen volumes behind, on which the close found both floors
+moved.**
+
+### 16d. The one finding this batch adds about the layer it was written from
+
+**THE BATCH PROMPT COUNTS SIX ODD MORNINGS AMONG DAYS 949 TO 958 AND THERE ARE FIVE, AT 949, 951, 953, 955 AND 957, AND
+ITS FIGURE-CHECK TOTAL OF ONE HUNDRED AND SIXTY-FOUR IS THEREFORE TWO TOO HIGH.** The one hundred and sixty-two that the
+cards require and that this batch printed is the figure, and the prompt is a completed phase's file and is not repaired
+here. **THE THIRTY-ONE AND THE SEVEN HUNDRED AND TWENTY AND THE ONE HUNDRED AND SIXTY-FIVE FIGURES IN THE PROMPT ALL
+STAND AND NONE OF THEM IS AFFECTED BY THIS, AND A SUCCESSOR THAT INHERITS ONE HUNDRED AND SIXTY-FOUR FROM THE PROMPT
+INHERITS A FIGURE NOBODY MEASURED.**

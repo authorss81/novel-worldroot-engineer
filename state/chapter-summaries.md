@@ -1,8 +1,10 @@
 # Chapter Summaries
 
-**Budget: this file is at fifteen thousand and one hundred and fifty-three words, measured on its own bytes with
+**Budget: this file is at sixteen thousand and two hundred and sixty-seven words, measured on its own bytes with
 `len(text.split())`, which is the count any later pass re-derives and which moves with every edit, so the figure is a
-measurement and not a promise. THE BUDGET LINE PREVIOUSLY READ ABOUT THREE THOUSAND EIGHT HUNDRED WORDS AND THAT WAS
+measurement and not a promise. RAISED BY THE VOLUME 16 BATCH 0001 WRITING PASS OF 2026-10-03, WHICH ADDED THE TEN MORNINGS
+OF THE SIXTEENTH AND LAST VOLUME AT THE CLOSE OF THIS FILE AND CORRECTED NO FIGURE OF ANY SERIES. THE BUDGET LINE
+PREVIOUSLY READ ABOUT THREE THOUSAND EIGHT HUNDRED WORDS AND THAT WAS
 FALSE BY MORE THAN ELEVEN THOUSAND WORDS WHEN THE VOLUME 15 CLOSE OPENED IT, AT FOURTEEN THOUSAND SIX HUNDRED AND
 SEVENTY-FOUR MEASURED, AND IT IS CORRECTED HERE. THE ERROR WAS CARRIED BY FIVE PASSES AND NONE OF THEM MEASURED THE
 FILE IT WAS PRINTING IN.** Raised by the
@@ -43,13 +45,16 @@ this file whole. The archived layer at
 | 13 | 589 to 637 | 49 | 91,321 |
 | **14** | 638 to 686 | **49** | 116,146 |
 | **15** | 687 to 735 | **49, all written and closed** | **115,783** |
-| 16 | 736 to 780 | 0 | 0 |
+| **16** | 736 to 780 | **10 of 45 written** | **18,710** |
 
-Titles are in `outline/volume-NN.md`. **735 files, 2,031,392 words.** **Volumes 01 to 15 are closed. THE VOLUME 15
+Titles are in `outline/volume-NN.md`. **745 files, 2,050,094 words**, the earlier figure of 735 files and 2,031,392
+words being the state at the close of Volume 15 and withdrawn by name by the Volume 16 Batch 0001 writing pass of
+2026-10-03, which wrote ten files, added 18,702 words and re-measured per file. **Volume 16 takes forty-five mornings and
+not forty-nine, and it takes chapters 736 to 780.** **Volumes 01 to 15 are closed. THE VOLUME 15
 ROW'S EARLIER FIGURES OF THIRTY OF FORTY-NINE WRITTEN AND 75,530 WORDS, AND THE TOTAL'S EARLIER FIGURES OF 716 FILES
 AND 1,991,139 WORDS, ARE WITHDRAWN BY NAME BY THE VOLUME 15 CLOSE OF 2026-10-03, WHICH RE-DERIVED EVERY ROW PER FILE
 AND FOUND THE THIRTEEN ROWS BEHIND VOLUME 15 ALL REPRODUCING.**
-**Volume 15 is open at thirty mornings of forty-nine.** **THE VOLUME 15 FIGURE AND THE MANUSCRIPT TOTAL
+**Volume 15 is closed at forty-nine of forty-nine and Volume 16 is open at ten of forty-five.** **THE VOLUME 15 FIGURE AND THE MANUSCRIPT TOTAL
 WERE RE-DERIVED PER FILE BY THE VERIFICATION PASS OF 2026-10-03 OVER BATCH 0003, WHICH SPENT NINE WORDS
 REPAIRING TWELVE DATE, COUNT AND SPELLING DEFECTS ACROSS SIX MORNINGS AND WITHDRAWS 75,539 AND
 1,991,148 BY NAME; 23,205 IS THE BATCH FIGURE AND THE PER-FILE FIGURES ARE 2,706, 2,311, 1,932, 2,196,
@@ -914,3 +919,33 @@ own file, being 855 chunks, 12,301 windows, 5,094 chunks, 72,962 windows, 29 sli
 sixteen-line figure of thirty; the exact-duplicate sweep's figure of five, which is six; the thirty-word floor counts of
 295 and 1,752, which are 294 and 1,747; and the claim that the far-end figure was not in the volume behind it at all,
 which is false and which names nine closed mornings where it stands as a whole paragraph.**
+
+---
+
+## Volume 16, Batch 0001: the first ten mornings, days nine hundred and forty-nine to nine hundred and fifty-eight, files `chapter-0736.md` to `chapter-0745.md`
+
+**TEN MORNINGS OF THE SIXTEENTH AND LAST VOLUME, WRITTEN 2026-10-03, EIGHTEEN THOUSAND SEVEN HUNDRED AND TEN WORDS ACROSS TEN FILES, PER FILE 2,716, 2,316, 1,655, 1,717, 1,738, 1,673, 1,827, 1,816, 1,608 AND 1,644. THE MANUSCRIPT IS TWO MILLION FIFTY THOUSAND ONE HUNDRED AND TWO WORDS ACROSS SEVEN HUNDRED AND FORTY-FIVE FILES. NO MORNING OF THIS BATCH IS THE MAJOR TURN, THE CLIMAX, THE FINAL IRREVERSIBLE ACT, THE RESOLUTION OR THE LAST MORNING.**
+
+| Morning | Day | Weekday | File | One line |
+|---|---|---|---|---|
+| one | 949 | Wednesday | `chapter-0736.md` | The volume opens on work in hand: the boy who carries water sets two cans on the tap house sill, the girl from the second place writes the pair on the north board under a frame nine months old and reads them out to nobody, the four ages go on the corner of the seed board in Tova Reed's own order, and at about the ninth hour Marek Vale says the far-end figure out loud in front of twenty people and the man who lays for three councils says the comfort line, and nobody is thanked and nobody is appointed over the joint. |
+| two | 950 | Thursday | `chapter-0737.md` | The maintenance schedule goes on the middle table under four stones and is not an order and carries no name; Sera Quill gives a hundred and sixty-four in force and one hundred and seventh and keeps the other; Ismay Rooke puts his thumb on line four and is told the hole is the point of it. |
+| three | 951 | Friday | `chapter-0738.md` | The ring's nine beds are counted in front of thirty people and not re-dug; the crew man reads six that held the draw, five that held the load, one gone with the root on it and one soft at the north end; Tova Reed puts the seed route on the boards with a place on it that has no water. |
+| four | 952 | Saturday | `chapter-0739.md` | The crew applies the real dry-season draw while Marek Vale hands the gauge to his sister and does not take it back; the crew's own book records the soft north bed that took the draw clean and let it out at the far end of itself; Perrin Dae reads a copy of the schedule that has no date on it. |
+| five | 953 | Sunday | `chapter-0740.md` | Four people account for the letter in four yards and the letter is in none of their hands and has left its range at exactly two hundred; Odile Vray puts a hand on the ledge under the offer on the low board and takes it off without picking it up. |
+| six | 954 | Monday | `chapter-0741.md` | A man of the sluice road puts a fifth hour on the first line in his own hand and refuses nothing, and Marek Vale says so in the yard so that it cannot be written up as a refusal; the four bodies of households and the two councils are counted and not added. |
+| seven | 955 | Tuesday | `chapter-0742.md` | A return morning that moves nothing, and a man who has walked two hours up the low road unrolls a sheet on the boards for an assembly that will not come to the yard and agrees to nothing; Sera Quill tells a stranger what a return is for and says it once. |
+| eight | 956 | Wednesday | `chapter-0743.md` | A girl of seventeen comes inside the gate for the first time in her life to see what a figure looks like; Sera Quill gives her one and tells her the difference between what went in and what is still there; Kellan Rusk offers to read what is behind the shut drawer without opening it; Sera Quill says the cost of the schedule out loud and nobody chooses between her and Marek Vale. |
+| nine | 957 | Thursday | `chapter-0744.md` | The bed at the top of the ring comes up with the root on it and is not there again this season, and the crew man writes it down before he writes a figure and will not let nine people make a verdict out of one bed; the read-aloud numerator comes out of its range at exactly two hundred; the region three miles up refuses the test a fourth time and is neither defended nor attacked. |
+| ten | 958 | Friday | `chapter-0745.md` | The schedule is settled as to form and not as to order, the two councils' disagreement about the order of two lines is written onto the sheet under them in a second hand, there is no date at the head of it, and a man at about the eleventh hour says there is one man in four counties who could put somebody over that joint, and Marek Vale puts a stone on the corner of his own schedule and does not answer. |
+
+**AND WHAT THE BATCH OWES THE NEXT ONE, which is its own card's clause and not an invention: somebody asking the engineer of
+record to put a person over the joint, and him declining to do it in front of the yard. The tenth morning ends in the
+silence before the question is answered, and a successor who answers it in its own first hour has taken the room the tenth
+morning spent nine mornings setting up.**
+
+**AND THE THREE FINDINGS THE BATCH ADDS ARE AT `workspace/volume-16/batch-0001/SELF-CHECK.md` SECTION SEVEN, and the
+first of them is that the batch prompt's own count of its odd mornings is wrong by one and its figure-check total is
+therefore wrong by two, one hundred and sixty-four standing against the one hundred and sixty-two the cards and this
+batch both carry.**
+
