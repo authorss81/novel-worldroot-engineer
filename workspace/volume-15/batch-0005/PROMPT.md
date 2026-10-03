@@ -28,13 +28,14 @@ this batch; the climax is the forty-second and it falls inside this batch, with 
 forty-first and all four happening on the forty-second, in four places, by four sets of people, none of them waiting on
 him. **THE CLIMAX IS NOT A SCENE OF ONE MAN AND IT MAY NOT BE WRITTEN AS ONE.**
 
-**WRITE ONE FILE PER MORNING, IN MORNING ORDER, CONTINUING THE VOLUME'S OWN FILE SEQUENCE FROM `chapter-0726.md`
-THROUGH `chapter-0734.md`.** **THAT SEQUENCE IS FIXED BY THE LAST MORNING ON DISK, WHICH IS
+**WRITE ONE FILE PER MORNING, IN MORNING ORDER, CONTINUING THE VOLUME'S OWN FILE SEQUENCE AFTER `chapter-0726.md`
+THROUGH `chapter-0735.md`, WHICH ARE NINE FILES AND NOT EIGHT.** **THAT SEQUENCE IS FIXED BY THE LAST MORNING ON
+DISK, WHICH IS
 `workspace/volume-15/batch-0004/chapter-0726.md` AND IS DAY 939, SO THE NEXT MORNING IS `chapter-0727.md` AND IS DAY
 940, AND THE NINTH MORNING OF THIS BATCH IS `chapter-0735.md` AND IS DAY NINE HUNDRED AND FORTY-EIGHT. COUNT THE NINE
 MORNINGS AND THEN ADD ONE TO THE LAST MORNING ON DISK, BECAUSE A MORNING IS A DAY AND NOT A DIFFERENCE. THE WHOLE
-VOLUME IS FIFTY FILES AND THIS BATCH IS FILES TWENTY-SEVEN TO THIRTY-FIVE OF THEM, AND VOLUME FIFTEEN TAKES CHAPTERS
-687 TO 735.**
+VOLUME IS FORTY-NINE FILES AND THIS BATCH IS FILES FORTY-ONE TO FORTY-NINE OF THEM, AND VOLUME FIFTEEN TAKES
+CHAPTERS 687 TO 735, WHICH IS FORTY-NINE FILES AND NOT FIFTY.
 
 **AND THIS BATCH CARRIES, IN ORDER, FOUR KINDS OF WORK ARRANGED TO HAPPEN AT THE SAME TIME, ALL FOUR HAPPENING, THE
 RESULTS PUBLISHED IN FULL WITH THE FAILURES AND THE REFUSING REGION'S GAP IN THEM, A SECOND REGION SIGNING, A SECOND
@@ -254,19 +255,32 @@ returns twenty-seven shapes and an excess of twenty-seven.
 every hyphenated compound split on the hyphen before lookup; punctuation dropped; case folded; every chunk a full
 eighteen words.**
 
-**RUN IT ON BOTH READINGS AND PUBLISH BOTH EVEN WHEN THEY ARE CLEAN.** The first is non-overlapping whole-paragraph
-chunks. **The second is every sliding eighteen-word window at every offset inside each paragraph. The batch behind
-measured, on its own ten mornings, 912 chunks with zero shapes and zero excess against 13,060 sliding windows with
-zero shapes and zero excess, and on its ten mornings with the ten behind 1,613 chunks with zero shapes and zero excess
-against 22,941 sliding windows with zero shapes and zero excess, and in the widest scope 2,642 chunks with two shapes
-and an excess of five against 37,275 sliding windows with seventeen shapes and an excess of forty-eight, AND EVERY ONE
-OF THOSE SEVENTEEN SHAPES AND BOTH OF THOSE TWO IS THE FAR-END LOCKED SENTENCE AGAINST ITS EARLIER APPEARANCES. RUN THE
-SLIDING READING OR DO NOT PUBLISH A NIL.** And the first gate runs beside it and is not replaced by it: every prose
-paragraph of thirty words or more, compared with every other in the volume and with every prose paragraph behind it,
-counting an ordered pair whose word counts are within a factor of one and a quarter where the sequence ratio is at or
-better than the house threshold. **The batch behind returned zero ordered pairs on its own ten mornings and on its
-ten mornings with the ten behind, and twelve in the widest scope, of which the five that touch it are the locked
-sentence at a ratio of exactly one. It publishes no pair.**
+**RUN IT ON BOTH READINGS AND PUBLISH BOTH EVEN WHEN THEY ARE CLEAN, AND PUBLISH THE SCOPE WITH THEM.** The first is
+non-overlapping whole-paragraph chunks. **The second is every sliding eighteen-word window at every offset inside each
+paragraph.**
+
+**THE BATCH BEHIND PUBLISHED A SLIDING NIL THAT A REVIEW HAVE WITHDRAWN BY NAME, AND THE FIGURE TO REPRODUCE IS NOT
+THE ONE IT PRINTED. IT MEASURED, ON ITS OWN TEN MORNINGS, 912 whole-paragraph chunks with zero shapes and zero excess
+against a sliding reading it published as thirteen thousand and sixty windows with zero shapes and zero excess. THE
+SLIDING HALF OF THAT IS WRITTEN BACK. Re-run at a declared scope it returns thirteen thousand and ninety-two windows
+and six shapes with an excess of eighteen, and on its ten mornings with the ten behind twenty-seven thousand two
+hundred and eighty-seven windows and twenty-seven shapes with an excess of fifty-eight.** Two causes, and a successor
+needs both. **THE SCOPE WAS UNDECLARED: the gate had been run with `>` apparatus blocks silently excluded, and it is
+now run over every body paragraph with apparatus INCLUDED, at both readings, so no successor has to guess which one
+was measured.** And **THE SIX SHAPES, AND ALL TWENTY-SEVEN IN THE SECOND SCOPE, ARE THE READ-ALOUD FIGURES RITUAL**,
+the standing construction by which the day's figures are read up at the boards on every morning, which collides across
+mornings for one reason only: **the normalisation replaces every figure with one token, so five mornings on which one
+sentence is spoken about five different sets of numbers are identical to this gate and different to a reader.**
+**SO A NIL FROM THE SLIDING READING ON A BATCH THAT READS ITS FIGURES ALOUD IS NOT EVIDENCE OF ANYTHING, AND A
+SUCCESSOR THAT GETS SHAPES HERE SHOULD CHECK WHAT THEY ARE BEFORE IT BREAKS ANYTHING.**
+
+**RUN THE SLIDING READING OR DO NOT PUBLISH A NIL, AND WHEN YOU DO PUBLISH ONE, NAME THE SCOPE ON THE SAME LINE.**
+And the first gate runs beside it and is not replaced by it: every prose paragraph of thirty words or more, compared
+with every other in the volume and with every prose paragraph behind it, counting an ordered pair whose word counts are
+within a factor of one and a quarter where the sequence ratio is at or better than the house threshold. **The batch
+behind returned zero ordered pairs on its own ten mornings and on its ten mornings with the ten behind, and twelve in
+the widest scope, of which the five that touch it are the locked sentence at a ratio of exactly one. It publishes no
+pair.**
 
 **AND THE SWEEP NEITHER GATE RUNS, WHICH IS CHEAP AND WHICH HAS FOUND EVERY LITERAL DUPLICATE IN THE LAST TWO
 VOLUMES: A WHOLE-VOLUME EXACT-DUPLICATE PARAGRAPH SWEEP AT ANY PARAGRAPH LENGTH, SCOPED TO THE VOLUME AND NOT TO THIS

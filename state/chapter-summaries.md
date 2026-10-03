@@ -676,17 +676,22 @@ and 929, against a volume ceiling of thirty, and no `Entered` label is used.** T
 **AND THE MEASUREMENTS THAT GO WITH THEM, WHICH THE FIGURES ABOVE DO NOT CARRY.** **One hundred and sixty-five
 derived figures required in their own mornings, one hundred and sixty-five present, zero failures**, on a
 case-insensitive whole-word phrase match, being one hundred and forty across the ten mornings, ten across the five odd
-mornings and fifteen across the three fourth-line mornings. Both gates return nil against these ten mornings on both
-readings in every scope that includes them: **912 whole-paragraph chunks with zero shapes and zero excess against
-13,060 sliding eighteen-word windows with zero shapes and zero excess on their own**, and **zero ordered pairs on
-gate one on their own ten mornings and on their ten with the ten behind**, out of 338 and 564 paragraphs of thirty
-words or more. In the widest scope, being these ten, the twenty behind them and the whole of Volume 14, **the first
-gate returns twelve ordered pairs and every one of the five that touch this batch is the far-end locked sentence
-against its earlier appearances at a ratio of exactly one**, and **the sliding reading returns seventeen shapes and
-an excess of forty-eight and every one of the seventeen is that same locked sentence.** The whole-volume
+mornings and fifteen across the three fourth-line mornings. **The whole-paragraph reading returns nil against these ten
+mornings on both readings in every scope that includes them, being 912 whole-paragraph chunks with zero shapes and zero
+excess, and gate one returns zero ordered pairs on their own ten mornings and on their ten with the ten behind, out of
+346 and 337 paragraphs of thirty words or more including and excluding apparatus, and 695 and 678 on the twenty mornings. The first edition published 338 and 564, which do not reproduce at the declared scope, and they are not reprinted here. THE SLIDING READING DOES NOT RETURN A NIL AND THE FIGURE OF A NIL
+THAT WAS PUBLISHED FOR IT IS WITHDRAWN BY NAME: at a declared scope, being every body paragraph with `>` apparatus
+blocks included, it returns 13,092 windows and six shapes with an excess of eighteen on these ten mornings, and
+27,287 windows and twenty-seven shapes with an excess of fifty-eight on the twenty mornings, and every one of those
+shapes in both scopes is the read-aloud figures ritual, which collides across mornings only because the normalisation
+replaces every figure with one token.** In the widest scope, being these ten, the twenty behind them and the whole of
+Volume 14, **the first gate returns twelve ordered pairs and every one of the five that touch this batch is the
+far-end locked sentence against its earlier appearances at a ratio of exactly one**, and **of the sliding shapes in
+that scope the fourteen that touch this batch are that same locked sentence and the seventeen are the read-aloud
+ritual, and there is no third kind.** The whole-volume
 exact-duplicate paragraph sweep returns three repeated paragraphs inside Volume 15 at a floor of eight words and all
 three are in Batch 0001, and none touches this batch. The sixteen-line token sweep returns eight runs at six tokens
 or more and zero at eight or more, and it found the one genuine re-statement this batch had, which was four standing
 figures in four hands read in the same order on three mornings, and that was broken before either gate was run.
 **Two blocks fall, on days 936 and 939, against a volume ceiling of thirty, and no `Entered` label is used anywhere
-in the volume.** The batch is 20,870 words.
+in the volume.** The batch is 20,872 words after this pass.

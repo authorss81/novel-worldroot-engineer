@@ -24,11 +24,11 @@ She turned it over and put her finger on one line of it and left it there, and t
 >
 > We will not take a smaller figure of it and we will not take a bigger one. A person who comes up this path in the spring with a number will get the same words on that morning, in the same mouth, and not in the mouth of whoever wrote the number down.
 >
-> **We ask this holding for nothing today and we have not asked it for anything since the paper came down that lane four terms ago. We are not asking for a figure to be altered and we will not be moved by one, and if every figure in your yard is altered before the water comes we will say the same thing.**
+> **We ask this holding for nothing today and we have not asked it for anything since the paper came down that lane four terms ago. Put a different number on that wall in the morning if you like. It will not move a household, and it will not make the ground above us any firmer than it already is, and we will be standing on that branch saying this same thing.**
 >
-> This paper is ours and it is not a record of yours, and it is not to be entered anywhere.
+> It belongs to the eleven of us and not to the wall, and it goes back up the branch with us tonight and it does not lie in any book in this yard.
 >
-> Three hands are on it. There is no clerk and there is no book.
+> Three hands are on it. Nobody here keeps a book.
 
 Marek Vale did not argue with her and did not ask her to explain and did not ask whether she understood what the load was.
 
@@ -94,4 +94,4 @@ Isel Lowen and her two men went back up the north branch path before the light w
 
 The man who owns the load stood at the gate end of the wall at about the seventh hour and asked Marek Vale whether somebody was going to walk up that path and tell them that the load had gone on, and Marek said that it was not his paper and it was not his news, and that if eleven households were to be told anything about a load then they were the ones to do it in their own mouths or not at all.
 
-Then the crew took their tools off that wall about an hour later and walked up the path together without talking, and the forty feet at the gate end stood in the dark with the load on it, and up the north branch path three miles off there were eleven households that had said no that afternoon in their own mouths, and there was nobody on that path carrying anything back down it.
+They came off that wall about an hour after dark, nine of them, and left the forty feet at the gate end standing in the wet with the flood load sitting on it. Three miles off, up the north branch path, eleven households had said no that afternoon in their own mouths, and nothing went down that path that night carrying anything at all.

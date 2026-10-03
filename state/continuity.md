@@ -648,3 +648,21 @@ begun. A face that is not a punishment. A woman with a barrow who has not gone b
 and a schedule with no name at the top of it. **And the next in-between morning for either locked figure in the whole
 volume is the forty-fifth, and the two last fourth-line mornings are days 942 and 946, and both are in `batch-0005`,
 so nothing about the locked sentences changed and nothing about them is inherited as spent.**
+
+**AND THE REPAIR PASS OVER THE TEN MORNINGS BEHIND, 2026-10-03, WHICH A SUCCESSOR MUST NOT RE-LEARN.** Six review
+findings, all reproduced before anything was touched, all six paid. **A clause repeated inside one speech on day 939 is
+cut. The day 936 closing is rebuilt because two mornings had closed on the same frame. And on day 930 the falling half
+of the window is said not to have moved since yesterday morning and not since the morning before last, because day 930
+is an even morning and the falling half last moved on day 929.** No figure of any series moved, no morning was
+restarted, and the thread count is unchanged at thirty-five in and thirty-five out.
+
+**AND THE ONE THING A SUCCESSOR MUST CARRY ABOUT THE GATE, WHICH NO FIGURE IN THE BATCH BEHIND'S OWN FILE NOW HIDES.**
+**The sliding reading was published as a nil over the ten mornings and that nil is withdrawn by name.** At a declared
+scope, every body paragraph with apparatus blocks included, it returns six shapes across the ten mornings and
+twenty-seven across the twenty, and **every one of them is the read-aloud figures ritual and not one of them is a
+repeated sentence.** The figures are read up at the boards on every morning in the same words about different numbers,
+and the normalisation that the gate uses replaces every figure with one token, so it cannot tell those mornings apart.
+**A sliding nil on a batch that reads its figures aloud means nothing, and a successor that gets shapes there should
+identify them before breaking anything.** The apparatus also had a genuine repetition across the volume, three separate
+communities' papers closing on the same twenty words, and two of those three papers are now in their own words and the
+batch behind was not touched.

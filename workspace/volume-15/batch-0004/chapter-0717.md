@@ -90,7 +90,7 @@ He wiped his hands down his thighs.
 
 Then somebody at the boards asked him for the window, and he gave it, and then a man from the north row with the cough asked him which half of it had moved in the night, and got an answer he had clearly expected.
 
-**"Four hundred and forty-seven of it. The one over the top is two hundred and twenty-nine and it is the one that went. Two hundred and eighteen underneath and it has not moved since the morning before last, which was a day this yard did nothing at all to."**
+**"Four hundred and forty-seven of it. The one over the top is two hundred and twenty-nine and it is the one that went. Two hundred and eighteen underneath and it has not moved since yesterday morning, which was a day this yard did nothing at all to."**
 
 The man said he had thought the other one went, and Harlan Vetch told him he would be right tomorrow morning and wrong again by noon, and that a figure that changes hands every night is not one anybody ought to have an opinion about over a barrow at eleven in the morning.
 

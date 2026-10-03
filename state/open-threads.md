@@ -741,3 +741,22 @@ reckonings, which belong to the fourth-line mornings, and the pair she gave were
 now gives nothing and says that she steps on the mornings she steps on and that this is not one of them. **A figure
 that is in the plan is not on the morning, and a writer who reaches for one because the table has it will reach for
 one the morning has not earned.** The figure check caught it and not the eye.
+
+**AND THE SIXTH FINDING OF THE REPAIR PASS OVER THE TEN MORNINGS BEHIND, WHICH IS A THREAD ABOUT THE CRAFT AND NOT
+ABOUT THE HOLDING, AND IT IS THE ONE A SUCCESSOR IS MOST LIKELY TO REPEAT.** Two separate communities' papers, twelve
+days apart, ended on the identical twenty-word sentence *this paper is ours and it is not a record of yours, and it is
+not to be entered anywhere*, and the batch behind's gate could not see it because the gate was measuring prose and had
+never said whether apparatus was inside its scope. **THE THREE COMMUNITIES WERE REFUSING IN THEIR OWN MOUTHS, WHICH IS
+THIS VOLUME'S WHOLE SUBJECT, AND THREE PAPERS ENDING ON THE SAME TWENTY WORDS IS NOT THE SAME AS THREE COMMUNITIES
+REFUSING IN THEIR OWN MOUTHS. It is one sentence in three mouths.** The third paper is in a completed batch and was not
+touched. **A successor writing a second refusal in a second mouth must not reach for the first refusal's wording, and
+the standing rule this leaves is: a refusal repeated in two mouths is a device, and a refusal repeated word for word in
+two mouths is a paste-up.** The sliding gate will not catch it at eighteen words inside an apparatus block that the
+scope excluded, which is the whole of the lesson.
+
+**AND THE COMPANION LESSON FROM THE SAME PASS, WHICH IS THE ORDER OF WORK AGAIN.** The batch behind ran its sliding
+gate after the batch was written and published a nil. Re-run at a declared scope, the same reading returned shapes.
+**THE ORDER THAT WOULD HAVE CAUGHT IT IS TO RUN THE READING AS EACH MORNING IS FINISHED, AT A SCOPE THAT IS WRITTEN
+DOWN BEFORE THE FIRST MORNING, NOT AT THE END OF THE BATCH AGAINST A SCOPE NOBODY NAMED.** Three batches running now,
+and every one of the three failures this pass and the last one found came from the same place: a gate run late, or a
+figure published without the scope that produced it.

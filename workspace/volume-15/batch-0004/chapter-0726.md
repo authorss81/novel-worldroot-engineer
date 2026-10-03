@@ -16,7 +16,7 @@ The one with the sheet put it on the boards herself and turned it round so the y
 >
 > We are not asking this yard for one thing. We are not asking for a load, and we are not asking for a bridge, and we are not asking for a figure to be changed, and if every figure in your yard is altered tomorrow the route is the same route.
 >
-> This paper is ours and it is not a record of yours, and it is not to be entered anywhere.
+> Take it down that lane and it stays ours, and it never becomes a row in a book in this yard, and nobody in this yard has written it into one.
 >
 > Two hands are on it.
 
@@ -82,7 +82,7 @@ Kellan Rusk came out with the ages and the four sheets and gave them, and did no
 
 He put the letter away in his coat and came back out with his hands empty, which nobody had asked him to do.
 
-**"And there is nothing on the long table either,"** he said. **"Four sheets, not one of them entered, not one of them refused, and not one column cut under any of them since the spring. And there is a fifth paper on those boards and it is going home up a lane with the two hands that wrote on it, and it is going home up that lane with the two hands that wrote on it, and this doorway will not see it again."**
+**"And there is nothing on the long table either,"** he said. **"Four sheets, not one of them entered, not one of them refused, and not one column cut under any of them since the spring. And there is a fifth paper on those boards and it is going home up a lane with the two hands that wrote on it, and this doorway will not see it again."**
 
 Soren Rill gave the long sheet from the boards about an hour later because he gives it every morning now whether anybody wants it or not.
 

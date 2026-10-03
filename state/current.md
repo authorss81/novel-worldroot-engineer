@@ -1239,3 +1239,58 @@ households named on day 939, which does not come down past a gate.
 forty-one to forty-nine, files `chapter-0727.md` through `chapter-0735.md`, and its prompt is on disk at
 `workspace/volume-15/batch-0005/PROMPT.md`. **It carries the volume's climax on its forty-second morning, and it is
 the last batch of mornings in this volume, and it is followed by a close phase and not by another batch.**
+
+---
+
+## 18. The repair pass over Volume 15 Batch 0004, 2026-10-03
+
+**A REVIEW RAN OVER THE TEN MORNINGS OF BATCH 0004 AND ITS SIX FINDINGS WERE ALL REPRODUCED AGAINST THE FILES BEFORE
+ANYTHING WAS TOUCHED, AND ALL SIX ARE PAID. NO MORNING WAS RESTARTED, NO FIGURE OF ANY SERIES WAS MOVED, NO THREAD WAS
+ANSWERED, CLOSED, ADVANCED OR REWORDED, AND THE VOLUME'S MAJOR TURN, ITS CLIMAX AND ITS RESOLUTION ARE UNTOUCHED,
+BECAUSE NOT ONE OF THE SIX TOUCHED A PLOT. THE WORD COUNTS MOVE AND NOTHING ELSE DOES.**
+
+**THE TWO PROSE FAULTS, BOTH INSIDE THIS BATCH, AND BOTH BELOW THE GATE FLOORS, WHICH IS WHY NEITHER GATE COULD SEE
+EITHER.** A clause was stated twice inside one breath in Kellan Rusk's last speech on day 939, fourteen words repeated
+and standing under both the thirty-word paragraph floor and the eighteen-word window. **The second clause is cut.**
+Two mornings closed on the same frame, days 932 and 936, both opening the last paragraph with the crew coming off
+their work and going up the path together. **The day 936 closing is rebuilt** and now closes on nothing going down the
+north branch path that night. Day 932 keeps its rope going back on its nail.
+
+**THE DATE FAULT, AND IT WAS THE ONLY ONE OF ITS KIND IN THE TEN MORNINGS.** On day 930 the falling half of the window
+was said not to have moved *since the morning before last*. **Day 930 is an even morning, so the falling half stood and
+the rising half rose, and the falling half last moved on day 929.** Day 928 was the return morning, which is where the
+gloss about a day this yard did nothing at all to belongs. **It now reads *since yesterday morning*,** and the gloss
+stays because `chapter-0716.md` has Harlan Vetch not doing the window at all that morning until he is asked twice.
+**The figures on day 930 are untouched and are right.**
+
+**THE SCOPE FAULT, WHICH IS THE LARGEST OF THE SIX AND THE ONE WITH A LEGACY.** The batch's sliding gate was published
+as a nil over its ten mornings and **the scope it had been measured at was never declared.** Run at the declared wider
+scope, being every body paragraph with `>` apparatus blocks included, it is not a nil: **thirteen thousand and ninety-
+two windows and six shapes with an excess of eighteen on the ten mornings, twenty-seven thousand two hundred and
+eighty-seven and twenty-seven shapes with an excess of fifty-eight on the twenty mornings.** **EVERY ONE OF THOSE
+SHAPES IN BOTH SCOPES IS THE READ-ALOUD FIGURES RITUAL,** the standing construction by which the day's figures are read
+up at the boards, which collides across mornings for one reason only: **the normalisation replaces every figure with one
+token, so five mornings on which one sentence is spoken about five different sets of numbers are identical to that
+gate and different to a reader.** **THE THIRTEEN THOUSAND AND SIXTY FIGURE IS WITHDRAWN BY NAME AND IS NOT REPRINTED.**
+
+**AND THE WIDER SCOPE FOUND A REAL FAULT THAT THE NARROWER ONE COULD NOT SEE, AND IT IS PAID.** The day 936
+north-branch paper and the day 939 lane paper both closed on the identical twenty-word sentence *this paper is ours and
+it is not a record of yours, and it is not to be entered anywhere*, **and the same sentence stands in the day 924 paper
+in the batch behind, so three separate communities' papers were ending on the same twenty words.** The batch behind is
+completed and was not touched. **The day 939 paper refuses entry in its own words now, and the day 936 paper carries the
+north branch's own version of the same three refusals and its own three hands.** At the declared scope the sliding
+reading now returns, at both apparatus readings, only the read-aloud ritual in both scopes and nothing else.
+
+**AND THE TWO FAULTS IN THE SUCCESSOR PROMPT ARE PAID, AND THEY ARE THE CLASS THAT MADE AN EARLIER DISPATCH STALE.**
+The prompt for batch 0005 named its own file range as running from `chapter-0726.md` through `chapter-0734.md`, which is
+eight files, while stating in the same breath that its first file is `chapter-0727.md` and its ninth is
+`chapter-0735.md`; and it called the volume fifty files and itself files twenty-seven to thirty-five of them.
+**VOLUME FIFTEEN IS FORTY-NINE MORNINGS, `chapter-0687.md` THROUGH `chapter-0735.md` INCLUSIVE, AND BATCH 0005 IS FILES
+FORTY-ONE TO FORTY-NINE OF THEM.** All three are corrected in place. **The prompt also republished the withdrawn
+sliding nil as the figures to reproduce, and that republication is corrected**, because a successor reads the prompt
+before it reads the batch behind and would otherwise have reproduced a figure this pass withdrew. The prompt's own
+downstream figures were checked and are sound.
+
+**AND WHAT A SUCCESSOR SHOULD CARRY OUT OF THIS, IN ONE LINE. A SLIDING NIL ON A BATCH THAT READS ITS FIGURES ALOUD IS
+NOT EVIDENCE OF ANYTHING: get shapes, name what they are, and only then decide whether to break them. And publish the
+scope on the same line as the figure, because a nil with a hidden scope is not a result.**

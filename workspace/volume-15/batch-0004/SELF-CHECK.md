@@ -13,7 +13,7 @@ days nine hundred and thirty to days nine hundred and thirty-nine, `chapter-0717
 
 ## 1. What was written
 
-Ten mornings, one morning each, in morning order, each one a complete scene. **20,870 words in body prose**, between
+Ten mornings, one morning each, in morning order, each one a complete scene. **20,872 words in body prose after the repair pass, which cut fourteen words from one speech and added sixteen in the two apparatus closings and the rebuilt last paragraph**, between
 1,841 and 2,400 a morning.
 
 | File | Day | Weekday | Ordinal of the month | Morning | Fourth line | A block |
@@ -104,12 +104,45 @@ the month and are now cardinals, on the finding at section seven.
 
 Normalisation in full: numerals and spelled number words both replaced by one token; the word *and* left alone; every
 hyphenated compound split on the hyphen before lookup; punctuation dropped; case folded; every chunk required to be a
-full eighteen words.
+full eighteen words. The idiom *a hundred* is folded to *one hundred* before lookup, because the holding writes it
+both ways and it is one number and not two.
+
+**THE SCOPE OF BOTH GATES, WHICH WAS NOT STATED ANYWHERE IN THE FIRST EDITION OF THIS FILE AND IS THE WHO OF THE
+REPAIR.** Both readings run over **every body paragraph of the ten files, apparatus blocks INCLUDED.** A `>` apparatus
+block is quoted document text and not the writer's prose, but it is carried in the same files, it is read by the same
+yards, and the first edition ran the sliding reading with it silently excluded and then published the result as a bare
+nil. **THE SCOPE IS NOW THE WIDER ONE AND EVERY FIGURE BELOW IS PUBLISHED AT BOTH READINGS, INCLUDING AND EXCLUDING
+APPARATUS, so that no successor has to guess which one was measured.** Apparatus keeps its own separate accounting in
+section six, where its block count, its `Entered` label and its digit sweep are all held.
+
+**AND WHAT THE WIDER SCOPE FOUND, WHICH THE NARROWER ONE COULD NOT SEE, STATED PLAINLY BECAUSE A NIL WITH A HIDDEN
+SCOPE IS NOT A RESULT.** At first edition this file published *thirteen thousand and sixty sliding windows, zero
+shapes* for the ten mornings of this batch. **That figure is WITHDRAWN. Under the declared normalisation and the
+declared wider scope the sliding reading returns thirteen thousand and ninety-two windows and SIX shapes, and it was
+run twice, once including apparatus and once excluding it, and it returns the same six either way, which is the proof
+that the shapes are not in the apparatus.** The same withdrawal applies to the second scope row. **EVERY ONE OF THE
+SIX SHAPES IS THE READ-ALOUD FIGURES RITUAL** spoken on the last five mornings, and the batch is not a duplicate for
+the reason given at the foot of this section. The prior 13,060 figure could not be reproduced and is not reprinted.
+
+**AND THE SAME HONESTY IS APPLIED TO THE TWO PARAGRAPH COUNTS IN THE FIRST GATE COLUMN, WHICH ARE MEASUREMENTS AND NOT
+RESULTS.** This file first published three hundred and thirty-eight paragraphs of thirty words or more on the ten
+mornings and five hundred and sixty-four on the twenty. **AT THE DECLARED SCOPE NEITHER REPRODUCES: the figures are three
+hundred and forty-six and three hundred and thirty-seven on the ten mornings, apparatus included and excluded, and six
+hundred and ninety-five and six hundred and seventy-eight on the twenty, and both pairs are printed in the table rather
+than the pair that could not be reproduced.** **The result that column carries, which is zero ordered pairs, DOES
+reproduce, and it reproduces at every one of the four readings, so the batch's claim against that gate stands and only
+its bookkeeping did not.** A successor should count its paragraphs at a scope it has written down and should not
+inherit either pair of figures from this file.
 
 **SELF-COLLISION CHECKED FIRST, BEFORE EITHER GATE WAS RUN AGAINST A SINGLE MORNING.** On one paragraph of exactly
 forty-four words taken twice: the whole-paragraph reading returns **four windows, zero shapes and zero excess** and
-the sliding reading returns **seventy-one windows, twenty-seven shapes and twenty-seven excess**. **A nil from this
-batch is therefore evidence and not an artefact.**
+the sliding reading returns **seventy-one windows, twenty-seven shapes and twenty-seven excess**. **The sliding reading
+is therefore sensitive, and that is the whole of what this paragraph licenses. IT DOES NOT LICENSE A NIL, AND THE
+FIRST EDITION OF THIS FILE USED IT AS IF IT DID.** The first edition read a nil off this gate and called it evidence
+because the gate had been shown capable of returning a result, and a gate that can return twenty-seven on a paragraph
+taken twice is equally a gate that can return six on five mornings that are not the same paragraph. **A working gate
+proves that a shape is real. It does not prove that the absence of a shape means anything, and on this batch the two
+are different questions, because this batch reads different figures in the same words five mornings running.**
 
 Gate one is measured as the prompt describes it: every prose paragraph of thirty words or more, compared with every
 other in the volume and with every prose paragraph behind it, counting an ordered pair whose word counts are within a
@@ -117,18 +150,27 @@ factor of one and a quarter where the longest shared contiguous normalised token
 nine tenths of the shorter paragraph. **That threshold was calibrated against Batch 0003 first, and it returns zero
 ordered pairs on that batch's own ten mornings, which is the figure Batch 0003 published.**
 
-| | Gate one | Gate two, whole-paragraph reading | Gate two, SLIDING reading |
-|---|---|---|---|
-| the ten mornings of this batch | **0 ordered pairs**, 338 prose paragraphs of thirty words or more | 912 chunks, **0 shapes, 0 excess** | 13,060 windows, **0 shapes, 0 excess** |
-| these ten and the ten behind | **0 ordered pairs**, 564 paragraphs | 1,613 chunks, **0 shapes, 0 excess** | 22,941 windows, **0 shapes, 0 excess** |
-| these ten, the ten behind, and the whole of Volume 14 | 12 ordered pairs, **all five that touch this batch at a ratio of exactly one and all five the far-end locked sentence against its earlier appearances**, and **zero of the other seven touches a morning of this batch** | 2,642 chunks, 2 shapes, 5 excess | 37,275 windows, 17 shapes, 48 excess |
+| | Gate one | Gate two, whole-paragraph reading | Gate two, SLIDING reading, apparatus INCLUDED | the same, apparatus EXCLUDED |
+|---|---|---|---|---|
+| the ten mornings of this batch | **0 ordered pairs** at both apparatus readings, 346 paragraphs of thirty words or more including apparatus and 337 excluding | 912 chunks, **0 shapes, 0 excess** | 13,092 windows, **6 shapes, 18 excess** | 12,813 windows, **6 shapes, 18 excess** |
+| these ten and the ten behind | **0 ordered pairs** at both readings, 695 paragraphs including apparatus and 678 excluding | 1,613 chunks, **0 shapes, 0 excess** | 27,287 windows, **27 shapes, 58 excess** | 26,720 windows, **27 shapes, 58 excess** |
+| these ten, the ten behind, and the whole of Volume 14 | 12 ordered pairs, **all five that touch this batch at a ratio of exactly one and all five the far-end locked sentence against its earlier appearances**, and **zero of the other seven touches a morning of this batch** | 2,642 chunks, 2 shapes, 5 excess | 133,494 windows, 108 shapes, 229 excess | 131,865 windows, 78 shapes, 191 excess |
 
-**AND EVERY ONE OF THE SEVENTEEN SLIDING SHAPES AND BOTH OF THE TWO WHOLE-PARAGRAPH SHAPES IN THE WIDEST SCOPE IS
-THE FAR-END LOCKED SENTENCE AGAINST ITS EARLIER APPEARANCES, AND NOT ONE IS ANYTHING ELSE.** A successor can check
-this in one line: the shapes that touch this batch are the ones whose token run contains *far end of a thing*. That
-is sixteen sliding shapes and one whole-paragraph shape for a single whole appearance, and **the card set's own
-arithmetic at its section six predicts seventeen sliding shapes and two whole-paragraph shapes at four appearances**,
-so one appearance producing sixteen and one is inside the prediction and is not a defect.
+**AND THE SIX SHAPES IN THE FIRST ROW, AND ALL TWENTY-SEVEN IN THE SECOND ROW, ARE THE READ-ALOUD FIGURES RITUAL, AND
+NOT ONE OF THEM IS ANYTHING ELSE.** It is the construction by which Harlan Vetch reads the day's figures up at the
+boards on every morning, and it collides across mornings for one reason and one reason only: **the normalisation
+replaces every figure with one token, so five mornings on which the same sentence is spoken about five different sets
+of numbers are identical to this gate and are different to a reader.** The figures are the content of those mornings
+and they were derived from their own rules and checked morning by morning, which is the only thing that can protect
+them. **THE FIRST EDITION OF THIS FILE PUBLISHED A NIL HERE AND THE NIL WAS AN ARTEFACT OF ITS OWN NORMALISATION.**
+
+**AND IN THE WIDEST SCOPE, EVERY SLIDING SHAPE THAT TOUCHES A MORNING OF THIS BATCH IS ONE OF TWO ACCOUNTED
+CONSTRUCTIONS, AND A SUCCESSOR CAN CHECK IT IN ONE LINE.** The shapes touching this batch are **fourteen windows of
+the far-end locked sentence against its earlier appearances, and seventeen of the read-aloud ritual**, and there is no
+third kind. The far-end count is inside the card set's own arithmetic at its section six, which predicts seventeen
+sliding shapes at four whole appearances. The rest of the widest scope belongs to the volume behind and does not
+touch this batch: **the comfort line runs in six files of Volume 14 and in `chapter-0687.md` at the head of this
+volume, and is absent from all ten mornings of this batch, exactly as section two states.**
 
 **THE FLOOR BESIDE ANY NIL: the comfort line is twenty words and the far-end sentence is thirty-one, and the first
 gate's floor is thirty words, so the comfort line is structurally invisible to that gate and a clean first gate is
@@ -393,3 +435,63 @@ two of his five appearances, and proposed naming the unnamed man at the low boar
 first is a cast decision and not a finding, and the second would introduce a named character on the last morning he
 could be introduced, which is worse than the device. **A reviewer may report a device and a repair pass need not agree
 that it is one.**
+
+---
+
+## 11. A second review of this batch, what it found, and what was paid on this pass
+
+A second review ran over these same ten mornings and returned six findings. **This side independently reproduced every
+one of them against the files before touching anything, and all six were real. **All six are paid in full on this pass.**
+No morning was restarted, no figure was moved, no
+thread was advanced, and the volume's climax, its major turn and its resolution are untouched, because none of the
+six touched a plot.**
+
+**THE TWO PROSE FAULTS INSIDE THIS BATCH, BOTH PAID, AND BOTH ARE THE CLASS SECTION TEN ALREADY NAMED.**
+
+- **A clause was stated twice inside one breath**, on day 939, in Kellan Rusk's last speech: *it is going home up a
+  lane with the two hands that wrote on it, and it is going home up that lane with the two hands that wrote on it*. The
+  repeat is fourteen words and it stands **below both gate floors**, the thirty-word paragraph floor and the eighteen-
+  word window, which is exactly why neither gate could see it and exactly why the sixteen-line sweep in section five is
+  the sweep that exists. **The second clause is cut. Nothing else in the speech moved.**
+- **Two of the ten mornings closed on the same frame**, days 932 and 936, both of them opening the last paragraph with
+  the crew coming off their work and going up the path together. Eight of the ten closings are distinct and these were
+  the last two residues of the pattern an earlier review named. **The day 936 closing is rebuilt** and now opens on the
+  crew coming off the wall after dark and closes on nothing going down the north branch path that night. The day 932
+  closing is untouched, including the rope going back on its nail, which is the better sentence of the two.
+
+**THE DATE FAULT, PAID, AND IT WAS THE ONLY ONE OF ITS KIND IN THE BATCH.** On day 930 the narration said the falling
+half of the window *has not moved since the morning before last*. **Day 930 is an even morning, so the falling half
+stood and the rising half rose, and the falling half last moved on day 929.** Day 928 was the return morning and the
+gloss about a day this yard did nothing at all to belongs to day 928 and not to day 929. The pair is confirmed in
+`chapter-0716.md`, which gives two hundred and eighteen under and two hundred and twenty-eight over on day 929 and has
+the falling half as the one that went. **It now reads *since yesterday morning*,** and the gloss stays, because
+`chapter-0716.md` has Harlan Vetch not doing the window at all that morning until he is asked for it twice, so a day
+this yard did nothing at all to it is true of yesterday. **The figures on day 930 are untouched and are right.**
+
+**THE SCOPE FAULT, PAID AT SECTION THREE, AND IT IS THE LARGEST OF THE SIX.** The sliding gate was published as a nil
+over the ten mornings. Re-run at a declared scope and a declared normalisation it is not a nil, and the first edition
+of this file did not say which scope it had measured. **The scope is now declared, both readings are now published, the
+withdrawn figures are withdrawn by name, and every surviving shape is named and accounted for.** The wider scope also
+found something the narrower one could not see, and it is a real fault and it is paid: **the day 936 north-branch
+paper and the day 939 lane paper both closed on the identical twenty-word sentence *this paper is ours and it is not a
+record of yours, and it is not to be entered anywhere*, and the same sentence stands in the day 924 paper in the batch
+behind, so three separate communities' papers were ending on the same twenty words.** The batch behind is a completed
+batch and was not touched. **The day 939 paper now refuses entry in its own words, and the day 936 paper now carries
+the north branch's own version of the same three refusals and its own three hands.** The declared sliding reading then
+returns, at both apparatus readings, **six shapes across this batch's ten mornings and twenty-seven across this batch
+and the one behind, every one of them the read-aloud figures ritual, not one of them in the apparatus and not one of
+them a repeated sentence.**
+
+**THE TWO FAULTS IN THE SUCCESSOR PROMPT, PAID, AND THEY ARE THE CLASS AN EARLIER PASS NAMED ON A DISPATCH.** The
+prompt for batch 0005 named its own file range as running from `chapter-0726.md` through `chapter-0734.md`, which is
+eight files, and stated in the same breath that its first file is `chapter-0727.md` and its ninth is `chapter-0735.md`.
+It also called the volume fifty files and this batch files twenty-seven to thirty-five of them. **Volume fifteen is
+forty-nine mornings, `chapter-0687.md` to `chapter-0735.md` inclusive, and batch 0005 is files forty-one to forty-nine
+of them.** All three are corrected in place and the prompt's own downstream figures were checked and are sound.
+
+**AND THE ONE THIS SIDE DID NOT PAY, WHICH IS RECORDED AND NOT DECLINED.** The review's minor point about the ten
+closings sharing a frame is paid above for the two mornings it names. What remains is that this volume's closings lean
+on accumulation, and two mornings of this batch still end on the crew's own work rather than on the thing the morning
+was about. **That is a habit of the volume and not a fault in these ten files, and breaking it inside a repair pass
+would change ten endings to fix a pattern the volume has been running since day 900.** It is left to the close phase,
+which is the phase that ends the volume and is therefore the only phase with standing to end it differently.
