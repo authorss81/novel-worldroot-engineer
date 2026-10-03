@@ -2,7 +2,7 @@
 
 ## The Twenty-Fourth Of The Twenty-First, And A Man Going Down Into A Bed At The Fifth Of The Ring That Four Men Had Dug And A Load Test Had Found, And What It Cost Him In Front Of Everybody, And What It Cannot Ever Be Again
 
-He chose the fifth of the ring himself and he chose it out loud in a yard of about thirty people at about the sixth hour, and he chose it because four men had dug it and a load test had found it, and he said so, and nobody in that yard thanked him for choosing and nobody asked him why that one.
+He chose the fifth of the ring himself and he chose it out loud in a yard of about thirty people at about the sixth hour, and he chose it because four men had dug it and a load test had found it, and he said so, and nobody there thanked him for choosing and nobody asked him why that one.
 
 He said it like a man reading off a list of the parts of a job.
 
@@ -18,7 +18,7 @@ At about the eighth hour somebody asked the boy who carries water to go and get 
 
 Nobody went.
 
-When it was over he could not get up off the gravel and four men got him up off it, and he stood in the yard for about a minute and a half with his hands on nothing and did not say anything to anybody, and then he went and sat on the middle table, which is a thing he has not done in this holding in four years, and about four people saw him do it and about twenty-one did not.
+When it was over he could not get up off the gravel and four men got him up off it, and he stood in the yard for about a minute and a half with his hands on nothing and did not say anything to anybody, and then he went and sat on the middle table, which is a thing he has not done in this holding in four years, and four or five people saw him do it and about twenty-one did not.
 
 Then he said the part that matters, and he said it standing up off the table because the man who lays for three councils told him to, and he said it to about thirty people and not to any one of them.
 
@@ -34,7 +34,7 @@ That was a man from the fourth place and he asked it in a completely ordinary vo
 
 **"That is done. It cannot be undone and it is not going to be somebody else's job to reverse, and nobody is to go to my wife or my sister or the seed house and ask them whether it can be put back, because the answer is no and it is no whatever anybody asks.** He stopped and started again. **"And that is the last morning on which there was one man at this holding who could feel that whole thing at once. It is not a punishment and it is not a sacrifice and nobody is to write it down as either of those words. It is a capacity and it is going to be a capacity for the rest of what is left to me."**
 
-Nobody in that yard said that anything had been won.
+Nobody there said that anything had been won.
 
 The man who lays for three councils asked the only question anybody asked all afternoon and he asked it to a mason.
 
@@ -54,9 +54,9 @@ At about the third hour she came out of the store on her own and stood where she
 
 Nobody put a hand on her arm at any hour of that day and about four people were watching to see whether one would.
 
-She gave her four from the step with the tray out and the north door open behind her, and she gave them in the order she gave them in the morning the man at the middle table said no, which nobody in that yard could have told you and nobody asked her about.
+She gave her four from the step with the tray out and the north door open behind her, and she gave them in the order she gave them in the morning the man at the middle table said no, which nobody in the yard could have told you and nobody asked her about.
 
-**"The letter is at two hundred and thirty-one. The charter is three hundred and thirty-four. The ruled line under Silling's second one is four hundred and twenty-two, and it is blank, and there is a round hundred coming to that line in five mornings and I have said that out loud in four yards this week so that nobody in this holding has to be surprised by it.** She wrote each one on the corner. **"And the form is four hundred and thirty-two, and the man at the door has already said that figure out loud today, and those are two figures and not one, and I am not going to add them together and neither is anybody else.** And a table is going to be read out in a yard in about a week with everything in it that failed, and it is going to have that place on it, because I put it there this morning before anybody asked me to."
+**"The letter is at two hundred and thirty-one. The charter is three hundred and thirty-four. The ruled line under Silling's second one is four hundred and twenty-two, and it is blank, and tomorrow morning it will be four hundred and twenty-three and blank as well, and I have said that out loud in four yards this week so that nobody in this holding has to be surprised by a number they have not seen before.** She wrote each one on the corner. **"And the form is four hundred and twenty-eight, and that is the figure the man at the door carries on his own book and has never once taken off mine, and those are two figures and not one, and I am not going to add them together and neither is anybody else.** And a table is going to be read out in a yard in about a week with everything in it that failed, and it is going to have that place on it, because I put it there this morning before anybody asked me to."
 
 The crew man with his own book came down off the ring at about the fourth hour and gave the two stones off the boards himself, because the boy who carries water was holding the other end of nothing and had both hands full.
 

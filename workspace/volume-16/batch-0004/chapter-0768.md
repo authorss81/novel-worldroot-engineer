@@ -2,11 +2,11 @@
 
 ## The Twenty-First Of The Twenty-First, And Six People Stopping The Deciding In Three Quarters Of An Hour While The Water Went On Going Down The Same Channel It Had Been Going Down Since Before Any Of Them Were Born
 
-Roan Selk came up the low road at about the sixth hour with mud to the knee and the roll of the sheet of seven steps back inside his coat where it had been all night, and he gave two figures at the gate to the boy who carries water before he had taken his coat off, and he gave them in a different order from anybody else in that yard.
+Roan Selk came up the low road at about the sixth hour with mud to the knee and his roll of the copy back inside his coat where it had been all night, and he gave two figures at the gate to the boy who carries water before he had taken his coat off, and he gave them in a different order from anybody else there.
 
 **"Five hundred and thirty-first morning of the run, and one thousand and four hundred and four hundredweight came down the channel in the night. That is the smaller one by five, and it comes down five on every morning with an odd number on it and up eight on every morning with an even one, and I have watched it from the top of the fourth path for four days and I am not going to pretend I worked out which is which.** He pulled the coat off one arm. **"I will tell you what I could see from down there and it is not much. I could see the water. I could not see the end of anything, and I am not going to describe a view to nine people who came from a yard with a wall in it."**
 
-He put the roll on the middle table and did not unroll it, and nobody in that yard unrolled it, and it lay there all day with the four stones from the schedule on the edge of the same table nine inches from it.
+He put the roll on the middle table and did not unroll it, and nobody in the yard unrolled it, and it lay there all day with the four stones from the schedule on the edge of the same table nine inches from it.
 
 The upper gate was shut at about the sixth hour and stayed shut, and the middle gate was opened to the width of a hand and left there, and the gauge was read and the reading said out loud before anything else whatever happened, and the draw was left standing for the length of a slow cup and no longer, and the gauge was read a second time and both readings were said out loud with nothing added to either of them.
 
@@ -14,7 +14,7 @@ The upper gate was shut at about the sixth hour and stayed shut, and the middle 
 
 Then it went on. The water did not stop. The water went down the same channel it had gone down since before any of the six of them were born, at the same rate to within what Nia Vale could hold on a gauge in a rising wind, and anybody standing at the north end of that yard at about the seventh hour could have put a hand in it and would have felt it move.
 
-Six of them did it and Marek Vale was not one of the six and was not on the road and was not sent for and did not come. He was at the north end of the ring at a quarter past six with a crew and a bucket and he stayed there until about the ninth hour, and about four people in that yard noticed that he was not at the gate for the whole of it and about twenty-one did not.
+Six of them did it and Marek Vale was not one of the six and was not on the road and was not sent for and did not come. He was at the north end of the ring at a quarter past six with a crew and a bucket and he stayed there until about the ninth hour, and about four people there noticed that he was not at the gate for the whole of it and about twenty-one did not.
 
 > **WHAT WAS DONE TO THE HEAD OF THE CHANNEL THIS MORNING, IN THE ORDER IT WAS DONE, BY SIX PEOPLE. NOT BY HIM.**
 >
@@ -32,7 +32,7 @@ Six of them did it and Marek Vale was not one of the six and was not on the road
 >
 > **What it is.** Stopping the deciding and leaving the water running. That is all it is and it is not the same as having emptied a channel and it is not the same as having finished anything.
 
-Nobody signed that sheet and nobody put his name on it, and it went up on the boards with a stone on the top corner, and about nine people read it and about four of them read the fourth line twice.
+Nobody signed that sheet and nobody put his name on it, and it went up on the boards with a stone on the top corner, and about nine people read it and four or five of them read the fourth line twice.
 
 Emrys Dole said one thing about it at the middle gate, with his hand on the wheel, to a mason and not to the yard.
 
@@ -40,11 +40,11 @@ Emrys Dole said one thing about it at the middle gate, with his hand on the whee
 
 **"What do you call it, then."**
 
-**"I call it a Wednesday.** He let the wheel go. **"No. I call it what the sheet says it is, because a man who invents a word for it on a Monday will have invented six of them by the middle of next month and then none of them will fit anything."**
+**"I call it a Sunday.** He let the wheel go. **"No. I call it what the sheet says it is, because a man who invents a word for it on a Monday will have invented six of them by the middle of next month and then none of them will fit anything."**
 
 Sera Quill came back into that yard at about the seventh hour and nobody asked her for the slate and nobody asked her for anything at all, and she stood at the wall for about eleven minutes doing nothing, and then a woman from the middle row asked her whether the count in force had moved, and Sera Quill said that it moved on the mornings it moved on and not on the mornings it did not, and that she would be at the boards when it moved, and the woman asked her which mornings were those.
 
-**"You have known the answer to that for four years and you have not liked it,"** Sera Quill said, **"because it is the same answer either way and it has nothing to do with what you did or did not do this week.** And she took the slate out after that and looked at the front of it and put it back in her apron without showing it to anybody, and about four people in that yard were watching the slate and not the woman.
+**"You have known the answer to that for four years and you have not liked it,"** Sera Quill said, **"because it is the same answer either way and it has nothing to do with what you did or did not do this week.** And she took the slate out after that and looked at the front of it and put it back in her apron without showing it to anybody, and about four people were watching the slate and not the woman.
 
 Nia Vale read the gauge twice and gave the second reading to about fourteen people standing at the north end, in an order in which the water came last.
 
@@ -68,4 +68,4 @@ In the one room the blanks on the wall stood at thirty-nine with the rule under 
 
 Nobody cut a column on the seed board this morning to show what has come out of a compost line that has not come out of anything.
 
-And at about the eleventh hour the deciding had been stopped for a length of time four people in that yard could say out loud and the water was still going down the same channel at the same rate, and nobody at the boards could have told you the water was different, and nobody was thanked, and the roll of seven steps was still lying unrolled on the middle table nine inches from four stones with nobody's hand on either of them.
+And at about the eleventh hour the deciding had been stopped for a length of time four people in that yard could say out loud and the water was still going down the same channel at the same rate, and nobody at the boards could have told you the water was different, and nobody was thanked, and the roll of the copy was still lying rolled up on the middle table nine inches from four stones with nobody's hand on either of them.

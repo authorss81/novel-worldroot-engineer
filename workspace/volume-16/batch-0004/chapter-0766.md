@@ -20,7 +20,7 @@ The crew man with his own book wrote it in the book where the crew keeps it, and
 >
 > Written by four of the five of us at the north end. The mason from the third place did not sign it and said that he came to lay the courses and not to sign for water, and that is his reason and he gave it out loud and nobody argued with it and it stands on this sheet exactly as he said it.
 
-It went up on the boards at about the ninth hour with a stone on the top corner, and about twenty people read it before the light was properly on the wall, and the reading of it in that yard was not one voice.
+It went up on the boards at about the ninth hour with a stone on the top corner, and about twenty people read it before the light was properly on the wall, and the reading of it among them was not one voice.
 
 A mason from the third place wanted the third line of the schedule taken off the table before the day was out, on the ground that a bed which fails on a Friday has failed for the week and the reading out is on the ninth day.
 
@@ -66,11 +66,11 @@ Tova Reed gave her four from the step of the seed house in the order she has giv
 
 **"Four hundred and twenty-three on the form, and that is the same figure the man at the door has just said out loud and the two of them are not to be added together, and I have watched three people in this yard try it this week. Three hundred and twenty-nine on the charter, which is the oldest of them and which nobody has ever read out. Four hundred and seventeen on the ruled line under Silling's second one, and it is blank, and it is going to be blank tomorrow at four hundred and eighteen with nothing on it either. And the letter is at two hundred and twenty-six.** She put the corner of the board down against her hip. **"I have said the last of those five times now and I am not going to keep saying it to a yard that has not once written it down."**
 
-Four people in that yard heard the number and about eleven wrote nothing at all, and the count of people in this holding who have ever written one of those four down is the same as it was yesterday.
+Four people at the boards heard the number and about eleven wrote nothing at all, and the count of people in this holding who have ever written one of those four down is the same as it was yesterday.
 
 The barrow went eleven journeys on that Friday and stopped, and the man pushing it stood with the shafts up at the north end of the yard for a while looking at a sheet on a board before he went and got a hod.
 
-Nobody in that yard entered the one room except to shut the drawer, and the key went back on its nail. Thirty-nine blanks were on the wall and the rule beneath them stood open at the thirty-ninth time and had done since the wall was drawn.
+Nobody in the yard entered the one room except to shut the drawer, and the key went back on its nail. Thirty-nine blanks were on the wall and the rule beneath them stood open at the thirty-ninth time and had done since the wall was drawn.
 
 Nobody went near the ladder against the tool house wall, and the ring of bare ground behind it took nobody's boot and nobody's tape and nobody's price.
 

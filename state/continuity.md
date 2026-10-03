@@ -4,9 +4,9 @@
 
 This file carries the story. Figures and derivations are in `state/current.md`, live threads in `state/open-threads.md`, the volume index in `state/chapter-summaries.md`.
 
-**THE LATEST PASS TO WRITE HERE IS THE REVIEW-REPAIR PASS OF 2026-10-03 OVER VOLUME 16 BATCH 0003, WHICH ADDED SECTION NINETEEN-B'S FOURTH FINDING, ALTERED NO CHARACTER, NO DAY, NO CLOCK, NO NAME AND NO FIGURE OF ANY SERIES, ANSWERED NO THREAD, CLOSED NO THREAD, AND TOUCHED ONE CHAPTER FILE IN SIX PLACES, ALL SIX OF THEM BARE CALENDAR DATES IN ONE MORNING. ITS RECORD IS `reviews/volume-16-batch-0003-repair.findings.md`.** The pass before it was the Volume 16 Batch 0003 writing pass, which added section nineteen. The pass before that was the review-repair pass over Volume 16 Batch 0001, which added no section here. The archived layer behind this file is at `reviews/state-archive-2026-10-02/` and is not to be loaded.
+**THE LATEST PASS TO WRITE HERE IS THE REVIEW-REPAIR PASS OF 2026-10-03 OVER VOLUME 16 BATCH 0004, WHICH ADDED SECTION TWENTY, ALTERED NO CHARACTER, NO DAY, NO CLOCK, NO NAME AND NO FIGURE OF ANY SERIES, ANSWERED NO THREAD, CLOSED NO THREAD, AND TOUCHED NINE OF THE TEN CHAPTER FILES IN SIX OF THEM FOR A NAMED DEFECT. IT CORRECTED A READ-ALOUD PAIR PRINTED AGAINST THE WRONG MORNING BY TWO AND A ROUND HUNDRED PRINTED AS STILL TO COME ON A LINE THAT HAS NONE LEFT IN THIS VOLUME. ITS RECORD IS `reviews/volume-16-batch-0004-repair.findings.md`.** The pass before it was the Volume 16 Batch 0004 writing pass, which added section nineteen. The pass before that was the review-repair pass over Volume 16 Batch 0003, which added section nineteen-b. The archived layer behind this file is at `reviews/state-archive-2026-10-02/` and is not to be loaded.
 
-**Volumes 14 and 15 are closed and Volume 16 is open at thirty mornings of forty-five. Read this file whole.**
+**Volumes 14 and 15 are closed and Volume 16 is open at forty mornings of forty-five. Read this file whole.**
 
 ---
 
@@ -1167,11 +1167,11 @@ It inherited the maintenance schedule with its five lines and no name against li
 | Window | five hundred and five, rising two hundred and fifty-eight, falling two hundred and forty-seven | day less four hundred and eighty-three |
 | Aggregate and its clause | five hundred and thirty-six; the five hundred and thirty-fifth out of the five hundred and thirty-seventh | day less four hundred and fifty-two |
 | Boards | near nine hundred and twenty-two, far nine hundred and sixty-nine, forty-seven apart | day less sixty-six and day less nineteen |
-| Read aloud | **two hundred and fifteen of four hundred and sixty-one on the thirty-seventh morning, and NO FIGURE FALLS ON ANY EVEN MORNING** | numerator re-anchored at a hundred and ninety-six on day nine hundred and forty-nine |
+| Read aloud | **two hundred and fourteen of four hundred and fifty-nine on the thirty-seventh morning, and two hundred and fifteen of four hundred and sixty-one on the thirty-ninth, and NO FIGURE FALLS ON ANY EVEN MORNING. THE THIRTY-SEVENTH WAS PRINTED HERE FOR THE THIRTY-NINTH AND IS CORRECTED: THE THIRTY-SEVENTH MORNING IS DAY NINE HUNDRED AND EIGHTY-FIVE AND CARRIES TWO HUNDRED AND FOURTEEN OF FOUR HUNDRED AND FIFTY-NINE** | numerator re-anchored at a hundred and ninety-six on day nine hundred and forty-nine, on odd mornings only, denominator day less five hundred and twenty-six |
 | Count in force | **a hundred and seventy-three on the thirty-eighth morning, twenty-nine taken and a hundred and forty-four not, and one hundred and sixteenth on the slate. THE SECOND RECKONING STANDS AT ONE HUNDRED AND THIRD, IS ON NO PAGE, AND IS CARRIED** | rises by one on a fourth-line morning only |
 | Register form | four hundred and thirty-two | day less five hundred and fifty-six |
 | Charter | three hundred and thirty-eight | day less six hundred and fifty |
-| Silling's second ruled line | four hundred and twenty-six, **blank, and a round hundred comes to that line on the forty-first morning and nothing goes on it** | day less five hundred and sixty-two |
+| Silling's second ruled line | four hundred and twenty-six, **blank, and NOTHING GOES ON IT ON ANY OF THE REMAINING FIVE MORNINGS. THE ROUND HUNDRED ON THAT LINE WAS FOUR HUNDRED ON DAY NINE HUNDRED AND SIXTY-TWO, THE FOURTEENTH MORNING OF THE VOLUME, SEVENTEEN MORNINGS BEFORE THIS BATCH OPENED, AND THAT WAS THE ONLY ONE IT REACHES IN THIS VOLUME. THE FIVE HUNDRED IS DAY ONE THOUSAND AND SIXTY-TWO** | day less five hundred and sixty-two |
 | The letter | two hundred and thirty-five | day less seven hundred and fifty-three |
 
 ### What is new on these ten mornings and not on any morning behind them
@@ -1190,3 +1190,18 @@ It inherited the maintenance schedule with its five lines and no name against li
 ### The second place, on these ten mornings
 
 **STILL WITHOUT WATER AND NOT RESTORED, NOT APPORTIONED, NOT DATED, NOT DEFERRED, NOT DESCRIBED AS TEMPORARY.** It is a board the seed keeper chalks up herself at half past six on the last morning with nothing against it, it is read out in a yard in the same breath as the flows, a man comes with a season written on a piece of paper and is refused in one sentence by the seed keeper, and at about the eleventh hour he goes out of the gate and nobody stops him. **IT COST SOMEBODY ON THAT MORNING WHO WAS NOT THE MAN WHO REFUSED AND WAS NOT THE PERSON READING, AND THAT WAS THE WOMAN WHOSE WORKING LIFE THE GOOD NUMBERS WERE.**
+
+---
+
+## Volume 16, Batch 0004: the review-repair pass of 2026-10-03, and the four things that changed on the page
+
+**FIFTEEN FINDINGS PAID AND FOUR FOUND. NO FIGURE OF ANY SERIES WAS MOVED AND THE FIGURE CHECK IS ONE HUNDRED AND FIFTY-EIGHT REQUIRED, ONE HUNDRED AND FIFTY-EIGHT PRESENT AND ZERO FAILURES, BEFORE AND AFTER.**
+
+1. **AN OBJECT WAS IN TWO PLACES ON ONE MORNING AND THE REPAIR GAVE IT A COPY.** On day nine hundred and eighty Roan Selk carried the sheet of seven steps out past the gate at the fifth hour and did not come back into the yard that day, and at the ninth hour four people in that yard read the seven steps off the sheet on the boards. **What he carried was a copy. The original never left the boards, which is why Kellan Rusk could be asking that morning what happens to seven steps on a sheet on a wall when a bed goes soft, and why Perrin Dae could be arguing on the next morning that one line of it binds anybody.** The copy is what comes back and lies rolled on the middle table for four mornings. `chapter-0767.md`, `chapter-0768.md`.
+2. **THE ROLL ON THE MIDDLE TABLE WAS ROLLED AND UNROLLED IN THE SAME CHAPTER.** It went down rolled and nobody unrolled it at the sixth hour of day nine hundred and eighty-one and the closing line of that morning said it was lying unrolled. It is rolled on all four mornings it stands there, and it was put down five mornings before the man who looked at it said so. `chapter-0768.md`, `chapter-0773.md`.
+3. **THREE FIGURES IN MOUTHS WERE WRONG AND ONE OF THEM WAS A CLAIM ABOUT ANOTHER MOUTH.** The seed keeper gave the register form on day nine hundred and eighty-four as four hundred and thirty-two, which is day nine hundred and eighty-eight's figure, and said the man at the door had already said that figure out loud today, and he says four hundred and twenty-eight from the step an hour after she has spoken. `chapter-0771.md`, against `chapter-0775.md`.
+4. **THE PUBLIC ACCOUNTING OF THE RING DID NOT ADD UP UNDER ANY READING AND NOW DOES.** Nine beds, six that held the draw, five that held the load, and a residual that could not be derived from either count. **The table now states the basis of each count in its own words and the residual is three and four and both are derivable from the nine lines above them.**
+
+**AND TWO FINDINGS THAT ARE ABOUT THE LAYER RATHER THAN THE PAGE: THE READ-ALOUD PAIR OF TWO HUNDRED AND FIFTEEN OF FOUR HUNDRED AND SIXTY-ONE BELONGS TO THE THIRTY-NINTH MORNING AND NOT THE THIRTY-SEVENTH, WHICH CARRIES TWO HUNDRED AND FOURTEEN OF FOUR HUNDRED AND FIFTY-NINE; AND SILLING'S SECOND RULED LINE HAS NO ROUND HUNDRED LEFT IN THIS VOLUME, WHICH IS A FACT ABOUT THE SERIES AND NOT A CHANGE TO IT.**
+
+**THE WORD COUNTS AFTER THE PROSE MOVED: THE BATCH 27,401, THE VOLUME 85,178, THE MANUSCRIPT 2,116,570 ACROSS 775 FILES. THE 27,273, THE 85,050 AND THE 2,116,442 ARE WITHDRAWN BY NAME.**

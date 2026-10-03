@@ -2,7 +2,7 @@
 
 ## The Twenty-Third Of The Twenty-First, And A Woman Standing At A Gate Asking For Something To Be Decided And Finding Out In Front Of Everybody That There Is Nothing There To Decide It
 
-She came in through that gate on foot at about the eighth hour with the same clerk from up a lane a pace behind her carrying nothing, and about four people in that yard knew her before anybody said a word, and the clerk did not sit down and did not put his hat anywhere.
+She came in through that gate on foot at about the eighth hour with the same clerk from up a lane a pace behind her carrying nothing, and about four people knew her before anybody said a word, and the clerk did not sit down and did not put his hat anywhere.
 
 She went to the middle table first, because she always goes to the middle table first, and the roll of paper was still lying on it nine inches from four stones, and she put her own hand flat on the wood beside the roll and left it there.
 
@@ -12,7 +12,7 @@ She went to the middle table first, because she always goes to the middle table 
 
 **"Lift the short measure on the outer branches for eleven days.** She said it the way she reads the line off her own paper. **"Not a season. Not a term. Eleven days, and the lifting written on the sheet of terms under the third column where it is ruled and empty, and nobody's name on it and no council able to reopen a branch, and at the end of the eleven days the short measure goes back exactly as it is this morning and nobody in this holding has to agree to anything afterwards.** She took her hand off the table. **"That is the whole of what I have come for and I have come four days early because I would rather be refused in a yard than answered in a letter."**
 
-About nine people in that yard looked at the board with the third column ruled and empty under it, and about four of them looked at the four stones.
+About nine people there looked at the board with the third column ruled and empty under it, and about four of them looked at the four stones.
 
 **"That has to be decided at the head of the channel,"** the clerk from up a lane said, from about six feet off, in the voice of a man reading a line he is also carrying. **"Not here. Not at the middle table. At the head."**
 
@@ -42,9 +42,9 @@ Emrys Dole came down off the wall and stood about ten feet from her and did not 
 >
 > **Who wrote this sheet.** The clerk from up a lane, because she did not ask him to and he said he would, and neither of the two of them has signed it.
 
-Iona Vey read it standing up, the whole of it, twice, and about nine people in that yard watched her do it and nobody said anything while she was doing it.
+Iona Vey read it standing up, the whole of it, twice, and about nine people at the boards watched her do it and nobody said anything while she was doing it.
 
-Then she asked the question that has been standing in that yard since before the flood and that nobody in it had ever been able to put to her face to face.
+Then she asked the question that has been standing in this yard since before the flood and that nobody in it had ever been able to put to her face to face.
 
 **"Who took it off her."**
 

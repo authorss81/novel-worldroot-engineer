@@ -4,7 +4,7 @@
 
 The thing nobody said out loud on that Monday, and the thing about nine people said out loud on the middle road and about twenty-one did not say anywhere, is that there is now no operator at the head of the channel and there has not been one since the sixth hour on the day before, and that this is visible.
 
-Not a figure on a wall. Visible. You can stand in that yard at any hour of that day and look at the middle gate standing at the width of a hand with nobody's hand on the wheel, and you can look at the boards and see the valve sheet on them with a stone on the top corner, and you can look at the middle table and see a roll of paper that has not been unrolled since it was put down, and between those three things there is not one person doing anything at the head of that channel, and any man, woman or child in that yard could walk up to it and put a hand on it.
+Not a figure on a wall. Visible. You can stand in the yard at any hour of that day and look at the middle gate standing at the width of a hand with nobody's hand on the wheel, and you can look at the boards and see the valve sheet on them with a stone on the top corner, and you can look at the middle table and see a roll of paper that has not been unrolled since it was put down, and between those three things there is not one person doing anything at the head of that channel, and any man, woman or child there could walk up to it and put a hand on it.
 
 About four people did walk up to it. One of them was a mason from the third place who stood at the middle gate for about a minute and a half and put his hand on the wheel and did not move it, and then went and laid a course.
 
@@ -34,7 +34,7 @@ Sera Quill had the slate out before the seventh hour and gave the count the way 
 
 **"Nothing,"** Sera Quill said. **"That is exactly why I give you two figures and let you look at both of them and work out which you would rather have had, and today you would rather have had one, and it has been moving up one at a time all week for reasons that have nothing to do with anybody in this yard.** She put the slate in her apron. **"Put a person at that gate if the district can find one. It will not move this by one and it will not move it by anything, and you may both of those be true on the same morning, which is the part that is hard."**
 
-Nobody at the boards was appointed over the head of the channel on that Monday, and nobody was asked to be, and about four people in that yard said the words *somebody has to* and got as far as the rest of the sentence, and stopped.
+Nobody at the boards was appointed over the head of the channel on that Monday, and nobody was asked to be, and about four people there said the words *somebody has to* and got as far as the rest of the sentence, and stopped.
 
 The boy who carries water came in off the sluice road at about the sixth hour with two buckets and gave the weight to a mason before he had put the buckets down.
 
