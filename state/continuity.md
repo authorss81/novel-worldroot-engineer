@@ -1,6 +1,6 @@
 # Continuity
 
-**Budget: about three thousand four hundred words, and this file is at that figure as measured on its
+**Budget: about four thousand four hundred words, raised by the Volume 15 Batch 0001 writing pass of 2026-10-03, which added section eight. Budget: about three thousand four hundred words, and this file is at that figure as measured on its
 own bytes with `len(text.split())`, which moves with every edit. Raised by the review-fix pass of
 2026-10-02, raised again by the Volume 14 close of 2026-10-03, and corrected by the review-fix pass of
 2026-10-03 over that close, which found this budget understated by about five hundred words and the
@@ -92,6 +92,40 @@ one line, and came back on day 890 with a figure of his own still shut in his ca
 named on the page of this series for the first time, put four defensible terms on the long table,
 was refused in one breath, said *then it is refused*, and walked out through the gate alive,
 unmolested and standing.**
+
+**Volume 15 adds three people and none of them is an antagonist.**
+
+**CORIN DACE**, about forty-five, the schedule clerk of the office four days north. He walked two days
+to the gate on day 901 to say one moment out loud in a yard rather than leave it on paper, he does not
+sit down, he does not ask for anything, and he was not argued with and was not thanked. **He fixes
+nothing and he carries nothing and he is not a door anybody in this holding will be offered.** A man
+from the third place and a man from the second place also came up that lane inside these ten mornings,
+and a mason from the third place was allowed to stand at the gate and watch a wall being laid and was
+not allowed onto the sill, and neither of them is a new enemy.
+
+**ODILE VRAY**, who keeps the common key at the second place, leads the sill crew and came back into
+Volume 15's mornings as the person who does the arithmetic. She cut the day's labour into four by
+herself before light with a piece of charcoal on the back of a seed sack, she wrote her crew's hours on
+a second seed sack and **kept both pieces of paper in her own box and gave neither of them away**, she
+said she would be bound by the definition the day it says the fifth hour and not before, and she
+drafted the first set of terms anybody in this holding will sign nothing on, on the back of that sack,
+in charcoal, on day 909. **She is not a clerk and she is not an instrument and she was not thanked.**
+
+**THE GIRL OF ABOUT TWENTY-TWO FROM THE SECOND PLACE** stays at the gate with her bundle for eight
+mornings, carries two papers up that road and asks this holding for nothing, and on day 905 asks
+Kellan Rusk to write a thing up so that nine households will have it before Thursday, and is refused
+for his reasons and not hers.
+
+**AND WHAT THESE TEN MORNINGS DID TO THE CAST.** Harlan Vetch spoke the far-end sentence once, at the
+tool house end of the wall, and said he would not say it again this year. **Marek spoke the comfort
+line on day 900 and said he had four losses and was not going to name them in a yard, and then went
+and looked at a gauge.** Sera Quill stopped at the second reckoning on two mornings and said out loud
+that a figure which is carried is not a figure that has been published, and stopped saying it after
+day 906. Renn Ashby has not opened his mouth since day 900. Soren Rill named the first shape wrong in
+nine words and then declined to be bound by it and said so in the same breath. Nia Vale declined to
+put her hand under a second sheet written by somebody else. Hesta Lyle shut the door of the one room
+behind her on day 909, which she has not done in four years. **Nobody thanked anybody on any of the ten
+mornings, and nobody in this holding was asked to choose anything on any of them.**
 
 ---
 
@@ -244,3 +278,30 @@ successor that finds one of these in a card has inherited an error and not a rul
     CLAUSE AS A CONDITIONAL ANTECEDENT.** Closed prose, reported and not repaired, and **it was missed
     by the repair pass that rewrote a shortened form of the other figure on day 894, because that
     pass's sweep was scoped to its own batch and no whole-volume sweep was run behind it.**
+
+---
+
+## 8. What Volume 15's first ten mornings established, for the mornings behind them
+
+**THE VOLUME IS ABOUT A DEFINITION AND THE DEFINITION IS BEING BUILT BY PEOPLE WHO WILL NOT ALL BE
+BOUND BY IT, AND THE FIRST TEN MORNINGS PUT IT ON PAPER TWICE AND UNSIGNED BOTH TIMES.**
+
+The office's schedule fixes **the last working morning of the month in which these mornings fall**, and
+that moment cannot be moved and is not a date. A schedule went up on the yard wall on day 906 with four
+hours ruled under it and a rule that nobody signs an hour and nobody is fetched for an hour. A third
+place wrote down two answers to the same question in two columns with no mark under them and sent it
+back up the road, and **the holding has not chosen between them and has not been asked to.**
+
+**THE SECOND PLACE IS STILL WITHOUT WATER AND THIS VOLUME MAY NOT RESTORE IT.** Three mornings of
+these ten name it flatly and none of them offers a way round it. A reach cost it water, the cost was
+named out loud at a gate post in the volume behind, and no way round it has been found on any morning
+behind this batch.
+
+**AND THE STANDING BLOCKS ARE BEING DELIVERED BY DIFFERENT PEOPLE IN DIFFERENT ORDERS.** The launder
+and the window are read by the fourth place's man in four different orders across the ten mornings. The
+three ages are read by Kellan Rusk in the order of the shelf, the order he wants them in, the order
+they were made, the order of a list being tested, and the order of a question. The wall, the gate line,
+the compost line, the drawer and the four sheets belong to Nia Vale and she counts them differently
+each morning. The long sheet belongs to Hesta Lyle. The slate belongs to Sera Quill. **A later morning
+that recites one of these in the words of any morning behind this one has written a figure that will
+come back, and the sliding gate will find it.**

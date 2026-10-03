@@ -1,6 +1,6 @@
 # Open Threads
 
-**Budget: about three thousand two hundred words, and this file is at that figure as measured on its
+**Budget: about four thousand words, raised by the Volume 15 Batch 0001 writing pass of 2026-10-03, which added section six. Budget: about three thousand two hundred words, and this file is at that figure as measured on its
 own bytes with `len(text.split())`, which moves with every edit. Raised by the review-fix pass of
 2026-10-02, raised again by the Volume 14 close of 2026-10-03, and corrected by the review-fix pass of
 2026-10-03 over that close, which added the two controller items it could not clear, moved the
@@ -227,3 +227,53 @@ distinct repeated shapes and fifty-three excess paragraph pairs inside itself. A
 is the two locked figures, which are required to be identical to themselves.** **A measure that
 counts standing-item recurrence per morning is the right replacement gate and it does not exist
 yet**; building it is a decision for the pass that owns the gates.
+
+---
+
+## 6. What Volume 15 Batch 0001 did to the thirty-five, and what it did not do
+
+**THIRTY-FIVE IN AND THIRTY-FIVE OUT, ACROSS TEN MORNINGS, AND THAT IS THE ONLY FIGURE THAT MAY BE
+PUBLISHED FOR THEM.** This batch answered none, closed none, reworded none to look closed, grouped
+none, summed none and advanced none to a figure. **No row was added and no row was renumbered, and no
+sixth not-known row and no fortieth blank was cut for the schedule, the definition, the load test, the
+charter or anything else.** A provisional charter is not an answer. A shape on a table that nobody
+signed is not an answer. A declining to be bound by a shape is not a closure.
+
+**FOUR ADVANCED, AND THE ADVANCING IS ALL THAT HAPPENED TO THEM.**
+
+1. **THE TIMES A BOOKKEEPER HAS SAID A THING IN A YARD THE ENGINEER OF RECORD HAD NOT THOUGHT OF.**
+   Advanced on day 905: a thing asked to be maintained and not told when to maintain it is a wish, and
+   the crew's hours are on the back of a seed sack and not in this holding's book. **The bookkeeper
+   refused to write it up when asked to, because the moment he carries it up that lane he is its author
+   for the rest of his life in a holding of four hundred people, and nobody thanked him for it and he
+   is not an instrument and he was not made one.**
+2. **THE REGISTER FORM AND THE OFFER, AND THE OFFER ON THE LOW BOARD.** Advanced by being held: the
+   offer is undated, unpicked and not withdrawn on all ten mornings, the register form was read out on
+   all ten, and **no sheet on the long table was entered, refused or cut under on any of them, and the
+   two sheets drafted in these ten mornings are on the middle table and are not one of the four.**
+3. **THE FIVE TERMS OF THE EARLIER SHEET AND OF THE OTHER, AND THE THIRD COLUMN RULED AND EMPTY UNDER A
+   HEADING NOBODY HAS IMPROVED.** Advanced by being held and named: the third column is ruled and empty
+   on day 901 and on day 906, the four ruled lines under two words are bare on both, **no fifth term was
+   written and no heading was improved, and the terms Odile Vray drafted on day 909 are not a fifth
+   term and were not entered under that heading by anybody.**
+4. **THE USE LOG AND THE REASON FOR THE FIFTEEN, THE BARROW, THE SEVEN SESSIONS, THE TWO BOOKS AT
+   FIFTY-THREE AND FIFTY-THREE, AND THE BOARD IN THE ONE ROOM.** Advanced by being read out and held:
+   fifteen lines and a clean space above the fifteenth, eleven journeys and no twelfth, seven sessions
+   and no eighth entered on any of the ten, the two books never once the same list, thirty-nine blanks
+   and the second rule under them standing open and empty at the thirty-ninth time **including on day
+   901, which is a return morning.** **No field was taken on either of the two fourth-line mornings and
+   nobody in this yard was blamed for a field that waited.**
+
+**AND THE MAN OF ABOUT SEVENTY STANDS AT TWENTY-NINE FETCHINGS, IS NOT FETCHED, AND NOTHING WAS PUT
+TO HIM AT ANY HOUR OF ANY OF THESE TEN MORNINGS.** The count of questions this holding has put to him
+is nil and stays nil. **The thirty-morning interval behind him is withdrawn by name and only the
+standing was carried; this batch did not re-derive it and did not write a date from it.**
+
+**AND WHAT THIS BATCH DELIBERATELY DID NOT SETTLE, BECAUSE IT IS NOT OURS TO SETTLE.** The premise
+drift between the specification and the manuscript is recorded at the foot of this state layer and is
+escalated and is unsettled, and this batch neither settled it nor inferred from it that anything is
+retired. **The two series files that place a surrender in a volume whose mornings do not carry it are
+owed a correction by a pass with the standing to edit them; this batch did not edit them and did not
+put the name on any page.** Markers are controller-owned and this batch forged, moved and deleted none.
+**The control-plane matters recorded in section four above, items six and seven, are untouched and were
+not cleared.**

@@ -1,6 +1,7 @@
 # Current State
 
-**Budget: about five thousand six hundred words, and this file is at that figure as measured on
+**Budget: about seven thousand five hundred words, raised by the Volume 15 Batch 0001 writing pass of
+2026-10-03, which added section twelve and which is at that figure as measured on
 its own bytes with `len(text.split())`, which is the count any later pass re-derives and which moves
 with every edit, so the figure is a measurement and not a promise. Last raised by the review-fix
 pass of 2026-10-02, which added the apparatus correction, the floor that moved on the sheets and the
@@ -8,7 +9,7 @@ record of that pass; raised again by the Volume 14 close of 2026-10-03, which re
 in this file against the forty-nine mornings and corrected one clause; and corrected by the
 review-fix pass of 2026-10-03 over that close, which found this budget understated by about twelve
 hundred words, found one handoff clause standing on its head, and moved no figure of any series. The
-detail behind all three passes is at `workspace/volume-14/batch-0005/SELF-CHECK.md`, at
+detail behind those passes is at `workspace/volume-14/batch-0005/SELF-CHECK.md`, at
 `reviews/volume-14-close.findings.md` and at `reviews/volume-14-close-repair.findings.md`, and is not
 repeated here. History is in `reviews/state-archive-2026-10-02/`; measurements belong in `reviews/`,
 which no prompt reads. Read this file whole, and the other three whole.**
@@ -22,13 +23,16 @@ residue.**
 
 | | |
 |---|---|
-| **Last morning on disk** | day 899, `workspace/volume-14/batch-0005/chapter-0686.md` |
-| **Volume** | 14 of 16, *The White Mercy*, days 851 to 899, **forty-nine mornings written of forty-nine: the volume is closed** |
-| **Manuscript** | 1,915,609 words across 686 chapter files; the per-volume table is at `state/chapter-summaries.md` |
-| **Batch 0005** | 24,440 words across nine files, 678 to 686, days 891 to 899, per file 2,771, 2,320, 2,096, 2,919, 2,482, 2,300, 2,653, 2,961 and 3,938 |
+| **Last morning on disk** | day 909, `workspace/volume-15/batch-0001/chapter-0696.md` |
+| **Volume** | 15 of 16, *The Root Commons*, days 900 to 948, **ten mornings written of forty-nine: the volume is open** |
+| **Manuscript** | 1,939,742 words across 696 chapter files; the per-volume table is at `state/chapter-summaries.md` |
+| **Volume 15 Batch 0001** | 24,133 words across ten files, 687 to 696, days 900 to 909, per file 2,685, 2,252, 2,360, 2,434, 2,466, 2,121, 2,494, 2,348, 2,495 and 2,478 |
+| **Volume 14 Batch 0005** | 24,440 words across nine files, 678 to 686, days 891 to 899, per file 2,771, 2,320, 2,096, 2,919, 2,482, 2,300, 2,653, 2,961 and 3,938 |
 
 Volumes 01 to 13 are closed at forty-nine mornings each. **Volume 14 is closed.** Volume 15 takes
 chapters 687 to 735 and Volume 16 takes 736 to 780, and `outline/ending.md` is the lock on both.
+**`outline/volume-15.md` and `outline/batches/volume-15-cards.md` are both on disk, and Volume 15's
+first ten mornings are written.**
 
 ---
 
@@ -418,3 +422,99 @@ left the manuscript at 1,915,609 words across 686 files. Its record is
   its run, and the Volume 14 card-set phase, which cannot retire itself and sorts ahead of the
   successor, so a run of it would try to rewrite a completed phase's card set. **The fix for the
   second one belongs to the control plane and this pass did not reach for it.**
+
+---
+
+## 12. Volume 15 Batch 0001, and the standings at day nine hundred and nine
+
+**TEN MORNINGS WRITTEN, DAYS 900 TO 909, FILES 687 TO 696, IN `workspace/volume-15/batch-0001/`.**
+Twenty-four thousand one hundred and thirty-three words. No morning was restarted and no morning
+was written twice. **The successor is `workspace/volume-15/batch-0002/PROMPT.md` and it is the only
+one this batch created.**
+
+**EVERY FIGURE BELOW WAS RE-DERIVED FROM ITS RULE BY THE WRITING PASS AGAINST
+`outline/volume-15.md` SECTION 10A AND AGAINST THE CARD SET, AND THE FIGURE CHECK RETURNS ONE
+HUNDRED AND SIXTY DERIVED FIGURES REQUIRED IN THEIR OWN MORNINGS AND ONE HUNDRED AND SIXTY MATCHING
+AND ZERO FAILURES**, on a case-insensitive whole-word phrase match: one hundred and forty across the
+ten mornings, ten across the five odd mornings, and ten across the two fourth-line mornings. **A
+checker that builds its own number words from a tens table gets *fiftieth* wrong and will report
+four figures missing that are on the page; that cost this pass an hour and the finding is at
+`workspace/volume-15/batch-0001/SELF-CHECK.md` section four.**
+
+| Series | Rule | Where it stood at day 909 |
+|---|---|---|
+| Third launder | **anchored at one thousand and two hundred and nine on day 851, plus eight on every even morning and minus five on every odd morning after it; no restart at a month turn or at a volume boundary** | one thousand and two hundred and ninety-six hundredweight, **and it crossed one thousand three hundred on day 908 for the first time in the run, against a rule that said it never would, and nobody in the yard made anything of it** |
+| Ordinal of the run | day less four hundred and fifty | four hundred and fifty-ninth |
+| Window | day less four hundred and eighty-three; does not re-anchor at a month turn | four hundred and twenty-six |
+| Falling half | 145 plus half of everything above three hundred, floor; **moves on an ODD morning** | two hundred and eight |
+| Rising half | the window less the falling half; **moves on an EVEN morning** | two hundred and eighteen |
+| **The parity flip at the boundary** | **Volume 14 opened on an odd morning and moved the falling half first. Volume 15 opens on an even morning, so on day 900 the RISING half is the half that moves and the FALLING half is the figure that has not moved. This is inverted from the volume behind and it is the standing spelling hazard of the volume** | both halves are over two hundred on every morning of this volume and neither is round |
+| Aggregate | day less four hundred and fifty-two | four hundred and fifty-seven |
+| Its clause | day minus four hundred and fifty-three, day minus four hundred and fifty-one | the four hundred and fifty-sixth out of four hundred and fifty-eighth |
+| Near board | day less 66 | eight hundred and forty-three |
+| Far board | day less 19; always forty-seven from the near one | eight hundred and ninety, **a bare round hundred, and it is the only one this volume's first ten mornings contain** |
+| Read aloud | numerator one hundred and ninety-six on day 901 plus one on every odd morning after it, spelled **one hundred and** in its range and an ordinary figure from day 909; denominator day less 526, always odd | two hundred of three hundred and eighty-three, **and the numerator is a bare round two hundred with no and and no tail, against a denominator that is not round** |
+| **The two forms in the hundred range** | **the letter takes *a hundred and* on every morning of this volume and the read-aloud numerator takes *one hundred and* while it is in its range. The two sit side by side on days 901, 903, 905 and 907, and a writer who learns one form on one of them and carries it to the other is wrong on every odd morning of the volume** | the letter stands at a hundred and fifty-six days and the numerator left its range this morning |
+| Count in force | rises by one on a fourth-line morning only, being a day congruent to two modulo four; the twelve of them are days 902, 906, 910, 914, 918, 922, 926, 930, 934, 938, 942 and 946, and **every one of the twelve is an even morning, so no fourth-line morning carries a read-aloud figure** | a hundred and fifty-three, twenty-nine taken, a hundred and twenty-four not, **and no field was taken on either of the two fourth-line mornings in this batch and nobody was blamed for a field that waited** |
+| The two reckonings | step by one on every fourth-line morning; the second is carried, not printed as a published figure | one hundred and first and eighty-eighth, thirteen apart. **The first stood at exactly one hundred on day 902, which gives *one hundredth* with the ending on the whole word, and that is the only whole round hundred ordinal in the volume so far** |
+| Register form | day less 556 | three hundred and fifty-three days |
+| Charter | day less 650 | two hundred and fifty-nine days |
+| Silling's second ruled line | day less 562 | three hundred and forty-seven days, and nothing written on it |
+| The letter | day less 753 | a hundred and fifty-six days |
+| Compost line | went over to paid at thirty-one on day 873 by a rise in the paid column and not by a discharge, and has not moved since. **Volume 15 schedules no turn in it, and no interval any page states places the next turn inside this volume** | **paid at thirty-one, not discharged** |
+| Count of blanks | thirty-nine, never moved | thirty-nine, and the second rule under them stood empty at the thirty-ninth time, **including on day 901, which is the first of this volume's six return mornings** |
+| Returns | every ninth day, at days 901, 910, 919, 928, 937 and 946. **A return moves no figure in this holding and has not for four years, and no ordinal, no weight and no remaining allowance is printed for one. Day 910 is both a return morning and a fourth-line morning and is the first morning of the next batch** | one return spent, day 901 |
+
+**AND THE MEASUREMENTS THIS BATCH PUBLISHES, WITH THEIR UNIVERSES AND THEIR NORMALISATION.**
+Normalisation in full: numerals and spelled number words both replaced by one token, the word *and*
+left alone, every hyphenated compound split on the hyphen before lookup, punctuation dropped, case
+folded, every chunk a full eighteen words.
+
+**SELF-COLLISION CHECKED FIRST, BEFORE EITHER GATE WAS RUN AGAINST A SINGLE MORNING.** On a
+paragraph built to collide with itself: the first gate returns a ratio of exactly one on every
+construction tried, and the sliding reading returns seventy-two excess windows on that paragraph
+taken twice, so a nil from this batch's gate is evidence and not an artefact.
+
+**GATE ONE**, every prose paragraph of thirty words or more, against every other in the volume and
+against every prose paragraph of the forty-nine mornings behind, counting an ordered pair whose word
+counts are within a factor of one and a quarter where the sequence ratio is at or better than the
+house threshold: **zero ordered pairs, in all three scopes.** The forty-nine behind on their own
+return zero as well. **Gate one is clean on this volume's first ten mornings and publishes no pair.**
+
+**GATE TWO, BOTH READINGS, AND THE SLIDING READING IS THE ONE THAT COUNTS.** Over these ten
+mornings alone: one thousand and seventy-four non-overlapping whole-paragraph chunks, **zero repeated
+shapes and zero excess**, and fifteen thousand seven hundred and eighteen sliding eighteen-word
+windows, **zero repeated shapes and zero excess**. Over these ten mornings together with the
+forty-nine behind: six thousand two hundred and thirty-nine chunks with five repeated shapes and
+twelve excess, and ninety thousand one hundred and twenty-six sliding windows with ninety-three
+repeated shapes and one hundred and sixty-nine excess, **and every one of those ninety-three shapes
+and every one of those five is entirely inside the forty-nine closed mornings behind and none of them
+touches a morning of this volume.** They are reported and not repaired, because those mornings are
+closed.
+
+**AND THE FLOOR THAT GOES WITH ANY NIL PUBLISHED AGAINST THE TWO LOCKED FIGURES: THE COMFORT LINE
+IS TWENTY WORDS AND THE FAR-END SENTENCE IS THIRTY-ONE, AND THE FIRST GATE'S FLOOR IS THIRTY WORDS,
+SO THE COMFORT LINE IS STRUCTURALLY INVISIBLE TO THAT GATE AND A CLEAN FIRST GATE IS NOT EVIDENCE
+ABOUT EITHER FIGURE.** Both figures were spent whole on day 900, this volume's first morning, which
+is the whole of this batch's allowance, and **none of the six load-bearing strings returns anything
+on any of the other nine mornings.**
+
+**APPARATUS: FOUR BLOCKS IN TEN MORNINGS, ON DAYS 901, 903, 906 AND 909, AND NO ENTERED LABEL
+ANYWHERE.** The ceiling for the whole volume is thirty, an entered block inside that number and not
+beside it, at most one block on any morning and none on the first morning or the closing morning or
+the major turn morning. **Twenty-six are unspent and this batch spent four, which is a menu and not a
+quota.**
+
+**THE EXACT-DUPLICATE PARAGRAPH SWEEP, AT ANY PARAGRAPH LENGTH, SCOPED TO THE VOLUME:** no
+paragraph in these ten mornings is repeated inside one file. **One paragraph is repeated inside one
+file across the wider scope and it is `chapter-0669.md` in the volume behind, which is closed prose,
+is a named open item for the Volume 14 close, and is not repaired here.** The remaining repeated body
+lines across the wider scope are the two locked sentences and the standing gestures, and the standing
+gestures are the thread.
+
+**MECHANICAL SWEEPS, ALL CLEAN:** the six bare words at zero in body prose; the twelve month names at
+zero except the modal verb *may*; zero digits in body prose; zero unavailable words including the two
+that would name the standing arrangement, the third the volume behind returned zero on, and every
+string the volume behind returned zero on; every occurrence of *discharged* inside a negation; zero
+rung climbed on the ladder; and no figure printed against the door nine hundred yards off, which is
+walked past on day 900 and read by nobody and offered to nobody.

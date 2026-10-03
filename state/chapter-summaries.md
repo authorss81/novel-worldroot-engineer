@@ -1,6 +1,6 @@
 # Chapter Summaries
 
-**Budget: about two thousand five hundred words, and this file is at that figure as measured on its own
+**Budget: about three thousand eight hundred words, raised by the Volume 15 Batch 0001 writing pass of 2026-10-03, which added section six. Budget: about two thousand five hundred words, and this file is at that figure as measured on its own
 bytes with `len(text.split())`, which moves with every edit. Raised by the review-fix pass of
 2026-10-02, raised again by the Volume 14 close of 2026-10-03, and corrected by the review-fix pass of
 2026-10-03 over that close, which found this budget understated by about seven hundred words and
@@ -28,10 +28,11 @@ figure. Read this file whole. The archived layer at
 | 12 | 540 to 588 | 49 | 118,058 |
 | 13 | 589 to 637 | 49 | 91,321 |
 | **14** | 638 to 686 | **49** | 116,146 |
-| 15 | 687 to 735 | 0 | 0 |
+| **15** | 687 to 735 | **10 of 49 written** | **24,133** |
 | 16 | 736 to 780 | 0 | 0 |
 
-Titles are in `outline/volume-NN.md`. **686 files, 1,915,609 words.** Volumes 01 to 14 are closed.
+Titles are in `outline/volume-NN.md`. **696 files, 1,939,742 words.** Volumes 01 to 14 are closed.
+**Volume 15 is open at ten mornings of forty-nine.**
 The word figure moves with every prose change and is measured per file with `len(text.split())`,
 never by concatenation. **Every one of these figures was re-derived by the Volume 14 close on
 2026-10-03 and every one reproduces to the word.** `wc -w` per file agrees on all 686 files; the
@@ -191,3 +192,79 @@ rule that every figure in body prose is spelled, which produced fourteen volumes
 register and which is a house-style decision a human takes; and the six in-between locked figures
 Volume 14 spent, three of each on days 884, 887, 891, 893, 894 and 896, four of them in its closing
 batch and two not, and the cap they reached.
+
+---
+
+## 6. Volume 15, mornings one to ten, one line each
+
+**Batch 0001, days 900 to 909, files 687 to 696. Twenty-four thousand one hundred and thirty-three
+words. No morning restarted. The successor is `workspace/volume-15/batch-0002/PROMPT.md`.**
+
+- **900**, Wednesday, the thirtieth. **The volume opens on work already in hand, five women from the
+  second place out on the sill before light, and both locked figures are spent whole on this one
+  morning.** A schedule comes down with the seed and the lime, it is correct in every particular and
+  nobody here can put a finger on anything wrong with it, and **the moment it fixes is a moment and
+  not a date and cannot be moved.** Harlan Vetch speaks the far-end figure at the tool house end of
+  the wall and Marek speaks the comfort line and nobody thanks either of them.
+- **901**, Thursday, the first. **The first month turn of the volume, and it turns a calendar and
+  nothing else: the frame over the run does not move on it.** The first of the six returns, with the
+  count of blanks at thirty-nine and the second rule under them standing open and empty at the
+  thirty-ninth time. **Corin Dace, the office's schedule clerk, walks two days to say the moment out
+  loud in a yard and will not be argued with**, and the schedule is read into the yard in the clerk's
+  order, not the office's. The read-aloud pair is written and read by nobody.
+- **902**, Friday, the second. **The first fourth-line morning of the volume, and the first figure
+  of the whole volume's run to stand at exactly a round hundred: one hundredth, with the ending on the
+  whole word, against a second reckoning at eighty-seventh that is not round.** The count in force
+  rises by one and no field is taken and nobody is blamed for a field that waited. **Marek's first
+  shape for what this holding will maintain is put into the yard and Soren Rill names what is wrong
+  with it in nine words: it is a list of things and not a shape, and it has no hours in it and no
+  people in it.**
+- **903**, Saturday, the third. **The shape goes on one sheet with a ruled space at the foot of it and
+  nobody signs.** Soren Rill declines to be bound by it and asks to be neither asked nor blamed for
+  it; Nia Vale declines because she writes one sheet in this holding and it is her own. The read-aloud
+  pair is chalked on the board and Renn Ashby lets it be chalked and says nothing.
+- **904**, Sunday, the fourth. **Maintenance as work and not as a clause, on a morning nobody is
+  watching.** Five women from the second place lay sill, sluice and gauge, the arithmetic is done out
+  loud, **Marek is given a bucket and reads the gauge board by being told what it says**, and the load
+  falls on the crew while his own contribution is the hours and the terms. Odile Vray writes her crew's
+  hours on the back of a seed sack in charcoal and keeps them.
+- **905**, Monday, the fifth. **Kellan Rusk says a thing in a yard the engineer of record had not
+  thought of, and it is about hours and not about the wood: a thing you are asked to maintain and not
+  told when to maintain it is a wish.** The girl from the second place asks him to write it up and
+  carry it up the lane and he refuses, because the moment he does he is its author for the rest of his
+  life in a holding of four hundred people. **Nobody thanks him and he is not made an instrument.**
+  Tova Reed puts herself where she can see the mouths, writes down what she is told, asks nothing
+  twice and announces nothing, and no hand goes on her arm and nobody apologises to her in any room,
+  and the seed work stays with her.
+- **906**, Tuesday, the sixth. **The second fourth-line morning: a hundred and fifty-three in force,
+  one hundred and first against eighty-eighth, thirteen apart.** The schedule goes up on the yard wall
+  as a schedule in the yard's own order with four hours ruled under it, and a man from the third place
+  is given two different answers to the same question by Soren Rill and by Harlan Vetch, **and neither
+  answer is corrected, neither is withdrawn, no third answer is offered, and Marek declines to
+  arbitrate between them.** The third place writes the two answers down in two columns with no mark
+  under them and sends it back up the road.
+- **907**, Wednesday, the seventh. **The read-aloud numerator at one hundred and ninety-nine, the last
+  morning inside its own hundred, and Kellan Rusk notices that it and the age of the letter are two
+  figures in the same hundred taking two different house forms and keeps both houses.** The pair is
+  written and read by nobody and the heading over it does not move. **Hesta Lyle says once that there
+  is a rule in a book four days north that says that channel will never carry what it is carrying
+  now.**
+- **908**, Thursday, the eighth. **The third launder comes down at one thousand and three hundred and
+  one hundredweight, above a figure the run's own rule said it never would pass, and nobody in that
+  yard makes anything of it and nobody is told what it means.** One body short of five on the sill and
+  the morning is simply short one pair of hands. **Marek says he will not draft this holding's terms,
+  because the moment the engineer of record drafts them the yard will have handed its own work to a
+  man from an office.**
+- **909**, Friday, the ninth. **The read-aloud numerator at exactly two hundred, bare, with no and and
+  no tail, against a denominator of three hundred and eighty-three that is not round, and the far board
+  at eight hundred and ninety, which has lost its tail.** **Odile Vray drafts a set of terms on the
+  back of a second seed sack in charcoal, put on the middle table and not the long table, and they are
+  the terms of five bodies and not of a holding and are not any of the terms that get signed anywhere
+  in this volume.** Kellan Rusk says the book comes round tomorrow and the rotation comes round
+  tomorrow, and that he has never in nine years had a morning with both of those on it.
+
+**THE THIRTY-FIVE ARE THIRTY-FIVE IN AND THIRTY-FIVE OUT ACROSS THESE TEN MORNINGS.** This batch
+advanced four of them and answered, closed, reworded-to-look-closed, grouped, summed or advanced none
+of them to a figure. **The four advanced are the times a bookkeeper has said a thing in a yard the
+engineer of record had not thought of, the register form and the offer on the low board, the sheet of
+terms and its third column, and the use log and the reason for the fifteen.**
