@@ -1,8 +1,10 @@
 # Continuity
 
-**Budget: this file is at thirteen thousand and six hundred and thirty-three words, measured on its own bytes
+**Budget: this file is at fifteen thousand four hundred and twenty words, measured on its own bytes
 with `len(text.split())`, which is the count any later pass re-derives and which moves with every
-edit. **THE BUDGET LINE PREVIOUSLY READ ABOUT FOUR THOUSAND FOUR HUNDRED WORDS AND THAT WAS FALSE BY
+edit. **RAISED BY THE VOLUME 16 PLAN OF 2026-10-03, WHICH ADDED SECTION FIFTEEN AND CORRECTED NO FIGURE OF ANY SERIES. THE
+PREVIOUS DECLARATION READ THIRTEEN THOUSAND SIX HUNDRED AND THIRTY-THREE AND WAS CORRECT WHEN IT WAS WRITTEN; A PASS THAT
+ADDS A SECTION AND LEAVES THE BUDGET ALONE HAS DECLARED A FIGURE IT DID NOT MEASURE.** **THE BUDGET LINE PREVIOUSLY READ ABOUT FOUR THOUSAND FOUR HUNDRED WORDS AND THAT WAS FALSE BY
 NEARLY NINE THOUSAND WORDS WHEN THE VOLUME 15 CLOSE OPENED IT, AT 12,339 MEASURED, AND IT IS
 CORRECTED HERE. A BUDGET LINE THAT NO PASS MEASURED IS NOT A FIGURE.** Raised by the review-fix pass of
 2026-10-02, raised again by the Volume 14 close of 2026-10-03, corrected by the review-fix pass of
@@ -858,3 +860,112 @@ windows, of 855 chunks and 12,301 windows on its own nine mornings, and of five 
 reproduce at the unit above and are withdrawn by name in the close's record beside the figures that do.** Its published
 figures of three sliding shapes and three excess at batch scope, of one whole-paragraph shape and one excess, of two
 sixteen-line runs at eight tokens, and of thirteen apparatus blocks with one entered label **all reproduce exactly.**
+
+
+---
+
+## 15. The Volume 16 plan of 2026-10-03, and what it changed in this holding and what it did not
+
+**THE PLAN WROTE NO PROSE, RESTARTED NO MORNING, ALTERED NO CLOSED MORNING, MOVED NO FIGURE OF ANY SERIES, ANSWERED NO
+THREAD AND TOUCHED NO CONTROLLER FILE. ITS FILE IS `outline/volume-16.md`. ITS ONE SUCCESSOR IS ITS CARD SET, PROMPTED AT
+`workspace/volume-16/plan/PROMPT.md`, AND `outline/batches/volume-16-cards.md` IS NOT ON DISK.**
+
+**AND THE SPLIT IS THE FIRST THING TO BE READ AT THIS BOUNDARY.** The volume-planning phase was asked for the outline, the
+card set and the first batch's prompt. **IT WROTE THE OUTLINE AND STOPPED.** Forty-five cards at the density this holding
+writes in is more prose than one call delivers, and a phase that had attempted both would have delivered half of each. The
+plan prints the split on its own face in bold and calls it a split and not a gap, and the successor it creates is the card
+set, **so the first batch of this volume's cards is one phase further on and is not something any phase has been told to
+do by a prompt that does not exist yet.**
+
+**THE LENGTH OF THE FINAL VOLUME, WHICH TWO PLACES IN THIS STATE LAYER HAD WRONG AND WHICH ARE NOW CORRECTED IN PLACE WITH
+THE WITHDRAWN WORDING LEFT AND MARKED.** `outline/series.md:6` says the first fifteen volumes run forty-nine mornings and
+the final one runs forty-five, for seven hundred and eighty in all. **THE CLOSE BEHIND AND SECTION EIGHT OF THIS FILE BOTH
+SAID FORTY-NINE FOR THE SIXTEENTH AND WERE WRONG BY FOUR.** The correction is in `state/current.md` section eight and in
+the closing section of `state/open-threads.md`, and it is recorded here because **a figure nobody had measured was the
+figure that was wrong, and the Volume 15 lock at the end of `outline/ending.md` had it right while the state layer did
+not.**
+
+**THE CLOCK, DERIVED AND CHECKED ON THE BOUNDARY ON BOTH SIDES, AND IT HOLDS.** Day 948 is a Tuesday, the eighteenth of
+the twentieth, and is the last morning of the volume behind. Day 949 is a Wednesday, the nineteenth of the twentieth, and
+is the first morning of this one. Two month turns, on day 961 and day 991, being the thirteenth and forty-third mornings,
+neither a fourth-line morning. Eleven fourth-line mornings, being the days congruent to two modulo four, all even, so not
+one carries a read-aloud figure. Twenty-three odd mornings, so twenty-three read-aloud mornings. Five returns, at days
+955, 964, 973, 982 and 991, one of which is also a fourth-line morning and one of which is also a month turn.
+
+**THE FIGURES WERE GENERATED FROM THE RULES AND THEN COMPARED BACK AGAINST THEM, CELL BY CELL, AND THE SAME GENERATOR WAS
+RUN AGAINST THE LAST DAY OF THE VOLUME BEHIND AND RETURNED THAT VOLUME'S OWN CLOSING FIGURES EXACTLY.** Six hundred and
+seventy-five figure cells and one hundred and thirty-five calendar cells were checked and every one agrees. The day table
+in the plan carries forty-five rows and it is arithmetic and not a cutting sheet.
+
+**AND THE THREE FIGURES A PLAN OF THIS VOLUME GETS WRONG, ALL THREE OF WHICH ARE NOW FIXED ON THE FACE OF THE PLAN.**
+
+1. **THE THIRD LAUNDER'S MAXIMUM FALLS ON THE PENULTIMATE MORNING AND NOT ON THE LAST.** The run closes on an odd morning
+   and an odd morning falls, so the highest value in this volume is one thousand and four hundred and twenty-seven on the
+   forty-fourth morning and the last morning reads one thousand and four hundred and twenty-two. **Fifteen volumes of this
+   holding closed on an even morning and the maximum was the last morning every time, and a writer carrying that habit
+   into the final volume will be wrong on the last page of the book.**
+2. **THE RUN LANDS ON A BARE ROUND HUNDRED IN THE THOUSANDS FOR THE FIRST TIME IN FIFTEEN VOLUMES**, at exactly one
+   thousand four hundred on the twenty-sixth morning, and no page behind it ever printed one because the run stepped over
+   one thousand three hundred without landing on it. **The form is bare, with no `and` in it, and the plan derives it
+   once and names it.**
+3. **ON THE FIRST MORNING THE LETTER AND THE READ-ALOUD NUMERATOR ARE THE SAME FIGURE IN TWO SERIES**, both at a hundred
+   and ninety-six, and they part company on the next morning and never agree again.
+
+**AND THE TWO FIGURES BEHIND THAT A PLAN OF THIS VOLUME WOULD HAVE INHERITED WRONG.** The in-between locked figures spent
+behind are **one of each and not three**, on days 932 and 944, and the cap in this volume is two. And the figure check of
+the volume behind is 794 in its plan and 782 in its close, **and the difference of twelve is explained on the face of
+neither file; this volume's own figure check is 731, derived from this volume's own item list for forty-five mornings,
+twenty-three odd mornings and eleven fourth-line mornings, and neither number may be inherited.**
+
+**AND THE ONE STORY DERIVATION THE PLAN DECLARED RATHER THAN INHERITED, WHICH IS THE ONLY PLACE IT MADE ONE.** The
+contract's sealed chamber, caretaker link, terminal and Deep Archive are not objects in this holding, and the plan coins
+no name for any of them; **the head of the launder is the place where what goes down the channel is decided, and that is
+the whole of what the contract's machinery is.** The plan prints the mapping in full, marks it as its one story decision,
+and allows the card phase to move it once and apply the move everywhere. **The other two things the plan fixed rather
+than inherited are the closing book, which is not named because the bare word is on the house list, and the difference
+between the light on the low road and the light in the channel, which a closing image may not blur.**
+
+**AND THE THREE FLOORS THE CLOSE BEHIND FOUND MOVED, WHICH THE PLAN DID NOT REPAIR AND DID NOT INHERIT.** The ladder and
+the drawer get a **fresh standing for this volume's own forty-five unwritten mornings** and that standing is not a claim
+about the fifteen behind them. The second reckoning's printing is **settled for this volume only**, carried and not printed
+on a morning that prints the first, and that settles nothing about the ten closed mornings behind. **A PLAN THAT INHERITS
+AN UNSETTLED FIGURE AS A FLOOR HAS INHERITED A QUESTION, AND THIS PLAN TOOK THE THREE AS QUESTIONS AND ANSWERED THEM FOR
+THE MORNINGS THAT DO NOT EXIST YET.**
+
+**AND THE THINGS THAT CAME INTO THE HOLDING BEHIND ARE UNCHANGED AND STILL WILL NOT LEAVE, AND THIS VOLUME MAY NOT CHANGE
+ANY OF THEM.** Three lines and a rubbed-out fourth with no name at the foot. Four thousand one hundred and one cans. A
+notice in five hands. A refusal with no date on it. A haulage arrangement that has not begun. A face that is not a
+punishment. A woman with a barrow who has not gone back. Four terms and five empty lines and a schedule with no name at
+the top of it. A published ring record with an empty line in it. Two hands on four undated terms. A joint with nothing
+against it and no operator and two people going to look at it on their own time and telling nobody. A copy of the four
+terms in a fourth place man's writing with no date at the head of it. An ink on a sheet three days old and uncovered. A
+read-aloud pair written four times in four hands and read out by nobody. **The second place is still without water,
+nothing signed in the volume behind covers it, this volume may not restore it, apportion it, put a date on it or let
+anything it signs quietly cover it, the four losses are four with no fifth to be added by anybody, and the thirty-five
+are thirty-five in and thirty-five out.**
+
+**AND THE RELATIONSHIP IS NOT A THREAD, NOT A FIGURE AND NOT ON ANY BOARD, AND IT WAS NOT RESOLVED IN EITHER DIRECTION
+ON ANY MORNING OF THE VOLUME BEHIND AND MAY NOT BE RESOLVED BY A PLAN.** The plan carries it as an arrangement and not as
+a line: separate work, separate travel, a standing expectation that either may refuse a project, her hearing permanently
+damaged in one ear and not healed by the ending, the seed work staying with her as her own and not announced. **NO HAND
+GOES ON HER ARM, AND THE PLAN ADDED NO FIGURE TO THAT ARRANGEMENT AND TOOK NONE AWAY FROM IT.**
+
+**AND IONA VEY IS THE FIXED ANTAGONIST OF THE SERIES AND THIS IS THE VOLUME THAT PUTS HER UNDER PUBLIC CUSTODY.** A sweep
+for her name across the volume behind's forty-nine mornings returns zero, **so this volume names her, and the naming is
+not a new antagonist and not a preview and not a reversal of the refusal behind.** She is not new, she is not killed, and
+what she loses here is her access and not her life and not her responsibility.
+
+**AND THE TWO QUESTIONS THIS VOLUME DOES NOT TOUCH WERE NOT ASKED, NOT NAMED, NOT HINTED AT, NOT PARAPHRAPSED AND NOT
+ANSWERED IN THE PLAN, AND THE PLAN NAMED THE WORD FOR THE SECOND OF THEM ONCE, AT ITS SECTION FOUR, AND INSTRUCTED THE
+CARD PHASE NOT TO CARRY IT.** The plan also recorded a finding about itself: the claim in `outline/volume-15.md` that the
+state layer carries a stale count of that question's silence **returns no copy of the count in any of the four state
+files, in any wording**, so the claim is not a stale figure but a claim about a figure that is not there.
+
+**AND THE GATE FIGURES HANDED FORWARD CARRY THEIR UNIVERSES AND THEIR NORMALISATION AND THEIR DECLARED PARAGRAPH UNIT, AND
+NONE OF THEM IS A MEASUREMENT OF ANYTHING AHEAD.** The declared unit is every non-blank line below a heading, a
+block-quote separator line carrying no words excluded, apparatus quote lines counted as paragraphs of their own, headings
+excluded, apparatus inside the scope of both gates. **At that unit the volume behind is 2,664 paragraphs, of which 1,747
+are thirty words or more, and its first gate returns one pair inside the volume and nineteen touching it, all twenty the
+locked far-end sentence at a ratio of exactly one.** The sliding eighteen-word reading returned 69,962 windows, twenty
+shapes and thirty-seven excess, **and the shapes were measured against a universe that was afterwards withdrawn, so a
+successor that needs the shapes must run the gate again and may not carry them forward.**
