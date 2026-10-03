@@ -2,7 +2,7 @@
 
 ## The Twenty-Ninth Of The Eighteenth, And An Offer Made Across A Table, And A Refusal, And A Woman Writing It Down In Her Own Hand
 
-There were about eleven people standing round the middle table at the seventh hour on the last morning, and Renn Ashby opened the book on it and put his thumb in and read out what was written there.
+There were nine people standing round the middle table at the seventh hour on the last morning, and Renn Ashby opened the book on it and put his thumb in and read out what was written there.
 
 Nobody in that yard told him to hurry and nobody told him to stop.
 
@@ -148,7 +148,7 @@ She came up the wall.
 
 **"Nearest the gate, where you are standing, the stone says eight hundred and thirty-three. Walk the wall away from me to the tool house and it says eight hundred and eighty. Forty-seven of wall is the whole of the difference and it has been the whole of the difference since the wall went up."**
 
-She wiped the two of them in turn and left both of them standing.
+She wiped each of the two in turn and neither of them was touched by the cloth.
 
 **"The drawer behind this end is shut and has been shut every hour of the four years anybody here can remember. One key, one nail, in the doorway behind you, and it will be on that nail tonight."**
 
@@ -184,11 +184,11 @@ At dusk Soren Rill came in past the tool house and went along the inside edge of
 
 **"Nobody in this holding has been climbed in on by anybody in four years, and nobody climbed anything this morning while a woman stood at that table with a ruled space on it and room in the space for one."**
 
-He put one hand flat on the low board and did not touch what was lying on it.
+He laid one hand flat on the low board itself, well clear of what was lying on it.
 
 **"The ladder belongs to two people who are both in this yard and there is no figure set against either of them here or in that office, and there was none set against either of them at ten o'clock this morning while that space was lying open on the table."**
 
-He put his hands in his coat and left them there.
+He took his hand off the board and stood with his back to it.
 
 **"What is on that low board has never been dated and has never been picked up and has not been taken back. The ring of bare ground inside the eleven acres took no boot today and no tape and no price."**
 

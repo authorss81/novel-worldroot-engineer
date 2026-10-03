@@ -72,7 +72,7 @@ She went the other way up the wall with the cloth over her shoulder.
 
 **"Near the gate the stone says eight hundred and twenty-nine. Away at the tool house it says eight hundred and seventy-six. There is forty-seven of wall between those two ends and there has never been any other difference between them whatever, and a drawer is let into the stone behind the near one and it is shut."**
 
-She folded the cloth over her arm and stood with it.
+She stood at the end of the wall with the cloth doubled across her forearm and did not use it on anything.
 
 **"One key, one nail, inside the one room doorway, and it was on that nail at six this morning."**
 
@@ -80,7 +80,7 @@ She stopped at the long table and stood with the cloth in both hands and did not
 
 **"The first of these is a hundred and forty-two days old. The middle one is shut on its fold. The third has a name and a seal on it and there is not one thing in it anybody in this yard could call wrong."**
 
-She wiped round all three and folded the cloth over her arm.
+She wiped round the three of them and folded the cloth across her forearm and left them where they lay.
 
 **"Not one entered, not one refused, no column cut under any of them, and two other books on that rack at fifty-three apiece which have never once been the same list and neither of them took Wednesday."**
 

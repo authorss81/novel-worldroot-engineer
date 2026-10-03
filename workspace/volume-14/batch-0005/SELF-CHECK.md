@@ -5,12 +5,19 @@ was written, what was measured, and what was rewritten. Every figure below is re
 `outline/volume-14.md` sections seven to nine and from `state/current.md` section two. Nothing here
 is inherited on trust.
 
+**IT LIVES HERE BESIDE THE NINE MORNINGS IT DESCRIBES AND NOT UNDER `reviews/`, WHICH IS THE
+REVIEW-CONVENTION PATH, AND AN INDEPENDENT REVIEW ASKED FOR THAT MOVE.** It was committed under
+that path by a save step that swept it in with the prose. **A successor takes no figure from this
+file as a review.**
+
 **THE BATCH EXISTS.** Nine mornings, one morning each, days eight hundred and ninety-one to eight
 hundred and ninety-nine inclusive, in `workspace/volume-14/batch-0005/chapter-0678.md` through
-`chapter-0686.md`. Twenty-four thousand four hundred and eleven words, per file 2,793, 2,320,
-2,096, 2,919, 2,463, 2,298, 2,635, 2,954 and 3,933. The file sequence continues the volume's own
-sequence from `chapter-0677.md`. No morning was restarted and none was split or merged. **This is
-the last morning of the last batch of the fourteenth volume.**
+`chapter-0686.md`. **Twenty-four thousand four hundred and forty words as the pages stand after the
+repair pass at section nine, per file 2,771, 2,320, 2,096, 2,919, 2,482, 2,300, 2,653, 2,961 and
+3,938; the writing pass measured 24,411 before that pass and the difference is twenty-nine words of
+repaired prose.** The file sequence continues the volume's own sequence from `chapter-0677.md`. No
+morning was restarted and none was split or merged. **This is the last morning of the last batch of
+the fourteenth volume.**
 
 ---
 
@@ -39,11 +46,15 @@ letter; and *paid at thirty-one* on all nine.
    the page governs, as it has been for four batches.** All five of this batch's read-aloud
    mornings print *one hundred and ninety-one* through *one hundred and ninety-five*. `outline/
    volume-14.md` is a completed phase's file and remains unrepaired.
-2. **The unit of the launder.** The plan and `state/current.md` both print `hundredweight` attached
-   to the figure with no space. **A sweep for the attached form across all forty-nine mornings of
-   this volume returns zero: every page on disk prints a space, and the pages govern.** This batch
-   prints the spaced form, as the forty mornings behind it do. **The stated house form and the
-   house practice disagree, and the practice is forty-nine to nothing.**
+2. **The unit of the launder.** The plan's rule at its section seven says *attached directly to the
+   number and with no hyphen and no space*, **and the plan's own day table prints the spaced form on
+   every one of its forty-nine rows.** **A sweep for the attached form across all forty-nine
+   mornings of this volume returns zero and a sweep across the plan's table returns zero, so the
+   plan contradicts itself in one file; this batch prints the spaced form, as the forty mornings
+   behind it do.** **The stated rule and the house practice disagree, and the practice is
+   forty-nine to nothing.** The writing pass also wrote here that `state/current.md` printed the
+   attached form. **It does not, and the review found that sentence contradicting the file it sat
+   in; it is corrected at `state/current.md` section two and here.**
 3. **The compost line.** It is **paid at thirty-one on all nine mornings and is never printed as
    having fallen, dropped, gone down or been discharged.** Getting the check to pass cost two
    rephrasings of the sentence around the figure, because the ritual phrasing is the standing
@@ -182,9 +193,18 @@ phase's independent report is `logs/batch-0005.review.log`, and this file does n
 ## 5. THE APPARATUS AND THE HOUSE RULES
 
 **One block was spent in the whole batch, and it is the one the cards mandate: the third document's
-`Entered` block on day 898, carrying the four terms.** None falls on the morning of the refusal and
-none falls twice on any morning. **The volume's ceiling of thirty blocks now stands at three spent
-and twenty-seven unspent.**
+block on day 898, carrying the four terms.** Its lead-in records that it was entered against the
+clerk's hand, and **it carries no `Entered:` label inside the block.** None falls on the morning of
+the refusal and none falls twice on any morning.
+
+**THE VOLUME'S CEILING OF THIRTY BLOCKS STANDS AT FOUR SPENT AND TWENTY-SIX UNSPENT, AND THE WRITING
+PASS PUBLISHED THREE AND TWENTY-SEVEN.** The review counted the blocks and the pages are against it:
+a block is one run of `>` lines, with an `Entered` block inside the number and not beside it, and the
+four are at `chapter-0644.md`, `chapter-0652.md`, `chapter-0661.md` and `chapter-0685.md`. **Three of
+the four are behind this batch and were never counted in it.** Of the four, two are entries, at
+`chapter-0644.md` and `chapter-0685.md`, one per morning, and the other two are returns carried up
+the fen road and put away. The rule is not in doubt: Volume 12 carries sixteen blocks and Volume 13
+carries none, and the plan records both.
 
 A mechanical sweep of the nine files for the house prose rules returns **zero problems**: no digit
 in body prose or apparatus, no curly glyph, no dash of any kind, no tab, no line ending in a space,
@@ -192,10 +212,17 @@ no unbalanced quotation or bold marker, no paragraph over a hundred and twenty w
 mean paragraph above the house ceiling of eighty-five. Per-morning means run from 34.2 to 39.6 and
 the largest paragraph in the batch is a hundred and seventeen. No month name and no month number
 appears anywhere; *of this month* is used instead, and the read-aloud frame of a month nine months
-back does not move on any morning of the batch. The bare words *volume*, *batch*, *chapter*,
+back does not move on any morning of the batch. **The only matches on a twelve-name sweep are the
+modal verb *may*, in two files, and not a month.** The bare words *volume*, *batch*, *chapter*,
 *seat*, *fieldbook* and *tally* are absent from every body paragraph, and *panel* is not used at
 all. Nine mornings end on nine different opening words and no morning ends on a paragraph in which
 every sentence opens with a negation-form word.
+
+**THE HOUSE COUNTS ONE YARD AS NINE PEOPLE, AND THIS BATCH PRINTED ELEVEN IN THREE OF ITS NINE
+MORNINGS WHILE PRINTING NINE IN THE SAME HOUR.** The review found it. **The count is settled on nine
+for all nine mornings of this batch**, the forty mornings behind carry nine twenty-nine times and
+eleven twice, and the two older mouths that print eleven are in closed batches and are left as they
+were printed.
 
 **A line about there being no panel in that yard was cut from the closing morning and replaced with
 a line inside the world.** The house allows *panel* only to say that there is none, and the allowed
@@ -258,3 +285,64 @@ and this is now the end of Volume 14 rather than the middle of it.**
 **The two series files still place the surrender of the fourth loss in Volume 13, and Volume 13's
 forty-nine mornings do not carry the name.** This batch neither edited them nor may, and the
 payment stands where the plan put it, on day 868 in `chapter-0655.md`.
+
+---
+
+## 9. THE REVIEW-FIX PASS OVER THIS BATCH, AND WHAT IT CHANGED
+
+**An independent review of the commit that wrote this batch returned eight items. Six were applied,
+one was recorded and escalated, and one is not this pass's to settle. No morning was restarted, no
+scene was rewritten, no figure of any series was altered, no locked figure moved and no planned plot
+was touched.**
+
+1. **The apparatus ledger was wrong and is now right.** It published three spent and twenty-seven
+   unspent against a volume that carries four blocks. Corrected here, at `state/current.md` section
+   two and in `workspace/volume-14/close/PROMPT.md` section three. **Three of the four blocks are
+   behind this batch.**
+2. **The note on the unit of the launder contradicted the file it sat in**, saying `state/current.md`
+   printed the attached form when a sweep of that file returns zero attached forms. Corrected in
+   both places, and the plan's own self-contradiction is now named: its rule says attached and its
+   day table prints the space, forty-nine rows out of forty-nine.
+3. **A paragraph stood twice inside `chapter-0678.md`**, fifteen and sixteen words long, which is
+   under the first gate's thirty-word floor and under the exact-duplicate sweep's notice at the time
+   of writing. The general one is kept and the counted one is gone.
+4. **Three mornings counted one yard as eleven people and then as nine in the same hour.** Settled on
+   nine across the batch, and the rule is written into `state/current.md` for the next volume.
+5. **Five literal duplicate paragraphs below the gate's floor** were rewritten with a different verb
+   and a different sentence order, one pair of which sat in the same file eight lines apart.
+6. **The state layer dropped a floor without recording it.** The row that used to carry *the three
+   papers unentered, unrefused and uncolumned with about nine inches of bare board either side* now
+   carries *the sheets on the long table*, with the count behind it at four since the morning of the
+   twenty-eighth, and the reason is recorded in `state/current.md` section two. **No floor moved: the
+   four are unentered, unrefused and uncolumned, and the count of blanks is untouched by them.**
+7. **This file was filed as a review.** Moved out of `reviews/` to here, and every reference to it in
+   the state layer and in the close prompt follows it.
+8. **The premise drift and the two series files are escalated, not fixed.** They are the first item
+   in the decision queue at `state/open-threads.md` and now carry the date they were escalated on.
+
+**THE FIGURE CHECK WAS RE-RUN OVER ALL NINE MORNINGS AFTER THE REPAIR AND EVERY FIGURE IN THE
+PROMPT'S DAY TABLE IS STILL ON ITS OWN MORNING.** The table's cells are not all single printed
+strings, and the check has to be read with that in mind: the four cells that do not appear as one
+phrase are the count in force and the two reckonings on days 894 and 898, which the pages carry as
+separate sentences. **Every figure inside those four is present on its own morning** — a hundred and
+fifty in force with twenty-nine taken and a hundred and twenty-one not, and ninety-eighth and
+eighty-fifth thirteen apart, on day 894; a hundred and fifty-one in force with twenty-nine taken and
+a hundred and twenty-two not, and ninety-ninth and eighty-sixth thirteen apart, on day 898 — and the
+independent review reached the same conclusion on the same four. Nothing else in the table is
+missing and nothing in it was altered.
+
+**THE EXACT-DUPLICATE SWEEP, RUN OVER ALL FORTY-NINE MORNINGS AT ANY LENGTH, RETURNS THIRTY-TWO
+DUPLICATE BODY LINES, AND NONE OF THEM IS INSIDE THIS BATCH.** Two are the two locked sentences at
+five appearances each, and three of each of those five are in this batch. Twenty-eight are recurring
+gestures of the standing list, thirteen of which touch this batch and fifteen of which are wholly
+inside closed mornings, and `state/open-threads.md` section five holds that the standing list is the
+thirty-five and that cutting a gesture is cutting a thread's visibility, so they stand. **Two are a
+paragraph repeated inside one file of closed Batch 0004, at `chapter-0669.md` and `chapter-0672.md`,
+and they are named open items for the Volume 14 close, which may report a defect in a morning and may
+not repair it. This pass did not touch a closed batch and did not touch a file outside Batch 0005.**
+
+**THE TWO GATE FIGURES IN SECTION THREE ARE NOT RE-DERIVED HERE AND ARE MARKED AS PRE-REPAIR.** A
+re-implementation of both gates was attempted and did not reproduce the writing pass's arithmetic, so
+no substitute figure is published under those names. A successor that owns the gates inherits the
+universe figures as the writing pass measured them and the repair as the reason a fresh reading will
+not land on them.

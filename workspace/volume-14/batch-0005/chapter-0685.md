@@ -140,7 +140,7 @@ She stood over the three sheets that had been lying on the long table for a hund
 
 **"The sheet at the near end of that table is a hundred and forty-five days old today and about nine inches of board stand clear at either end of it. Next to it, folded shut on its fold. Then the signed and sealed and named one, which nobody in this yard can find a fault in. And now the printed sheet that came down the lane this morning, with a space ruled at the foot of it for a name and nothing yet written in the space.**"
 
-She folded the cloth over her arm and stood with it.
+She kept the cloth doubled in both hands where it was and did not go near the seal.
 
 **"Not one of the four has been entered, and the one that has been entered today is not one of those four, and I would like a yard that keeps figures straight to notice the difference."**
 

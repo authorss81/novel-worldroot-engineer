@@ -1,12 +1,15 @@
 # Current State
 
-**Budget: about two thousand five hundred words. History is in
+**Budget: about three thousand three hundred words, and it was about two thousand five hundred before
+the review-fix pass of 2026-10-02 added the apparatus correction, the floor that moved and the
+record of that pass. The detail behind all three is at
+`workspace/volume-14/batch-0005/SELF-CHECK.md` and is not repeated here. History is in
 `reviews/state-archive-2026-10-02/`; measurements belong in `reviews/`, which no prompt reads.
 Read this file whole, and the other three whole.**
-**Read this file whole, and the other three whole.**
 
-Last rewritten 2026-10-02, on Batch 0005, the closing batch of Volume 14. Every figure below is
-re-derivable from the rule beside it. Nothing is inherited on trust.
+Last rewritten 2026-10-02, on Batch 0005, the closing batch of Volume 14, and again on the
+review-fix pass over it. Every figure below is re-derivable from the rule beside it. Nothing is
+inherited on trust.
 
 ## 1. Where the manuscript is
 
@@ -14,8 +17,8 @@ re-derivable from the rule beside it. Nothing is inherited on trust.
 |---|---|
 | **Last morning on disk** | day 899, `workspace/volume-14/batch-0005/chapter-0686.md` |
 | **Volume** | 14 of 16, *The White Mercy*, days 851 to 899, **forty-nine mornings written of forty-nine: the volume is closed** |
-| **Manuscript** | 1,915,580 words across 686 chapter files; the per-volume table is at `state/chapter-summaries.md` |
-| **Batch 0005** | 24,411 words across nine files, 678 to 686, days 891 to 899, per file 2,793, 2,320, 2,096, 2,919, 2,463, 2,298, 2,635, 2,954 and 3,933 |
+| **Manuscript** | 1,915,609 words across 686 chapter files; the per-volume table is at `state/chapter-summaries.md` |
+| **Batch 0005** | 24,440 words across nine files, 678 to 686, days 891 to 899, per file 2,771, 2,320, 2,096, 2,919, 2,482, 2,300, 2,653, 2,961 and 3,938 |
 
 Volumes 01 to 13 are closed at forty-nine mornings each. **Volume 14 is closed.** Volume 15 takes
 chapters 687 to 735 and Volume 16 takes 736 to 780, and `outline/ending.md` is the lock on both.
@@ -48,8 +51,8 @@ volume figure any more: Volume 15 is the next holding and it derives its own.
 | The letter | day minus 753 | a hundred and forty-six days |
 | Compost line | went over to paid at thirty-one on day 873 by a rise in the paid column and not by a discharge, and has not moved since | **paid at thirty-one, not discharged** |
 | Count of blanks | thirty-nine, never moved | thirty-nine, and the second rule under them stood empty at the thirty-ninth time |
-| Floors, all unmoved | see the rule | the mark four inches forking twice; the use log at fifteen lines; the barrow at eleven journeys; seven sessions entered; the requests and the section-nine notes at fifty-three and fifty-three; the ladder climbed zero rungs; the ring of bare ground unwalked, unmeasured and unpriced; the low-board offer undated, unpicked and not withdrawn; the drawer shut at every hour with its key on its nail; the man of about seventy at twenty-nine fetchings, not fetched and asked nothing; the door nine hundred yards off walked past and read on none |
-| Apparatus | thirty blocks for Volume 14 | **three spent, twenty-seven unspent** |
+| Floors, all unmoved | see the rule | the mark four inches forking twice; the use log at fifteen lines; the barrow at eleven journeys; seven sessions entered; the requests and the section-nine notes at fifty-three and fifty-three; the ladder climbed zero rungs; the ring of bare ground unwalked, unmeasured and unpriced; **the sheets on the long table unentered, unrefused and uncolumned, and the count behind that floor is four since the morning of the twenty-eighth**; the low-board offer undated, unpicked and not withdrawn; the drawer shut at every hour with its key on its nail; the man of about seventy at twenty-nine fetchings, not fetched and asked nothing; the door nine hundred yards off walked past and read on none |
+| Apparatus | thirty blocks for Volume 14; a block is one run of `>` lines, and an `Entered` block is inside that number and not beside it | **four spent, twenty-six unspent**, at `chapter-0644.md`, `chapter-0652.md`, `chapter-0661.md` and `chapter-0685.md` |
 
 **THE TWO BARE ROUND HUNDREDS INSIDE DAYS 891 TO 899 WERE THE FALLING HALF AT EXACTLY TWO HUNDRED
 ON DAYS 893 AND 894**, against a rising half that was not round on either, and no other series
@@ -57,10 +60,19 @@ printed one on any of those nine mornings. The rising half's own pair sat on day
 is behind this volume's last nine.
 
 **AND THE UNIT OF THE LAUNDER IS PRINTED WITH A SPACE ON EVERY PAGE OF THIS VOLUME, WHICH IS NOT
-WHAT THE HOUSE FORM SAYS.** The plan and this file both print `hundredweight` attached with no
-space; a sweep for the attached form across all forty-nine mornings returns zero. **The pages
-govern and the space stands, and the stated form is wrong and is owed to whoever owns the
-spelling.**
+WHAT THE HOUSE FORM SAYS.** The plan's own rule says *attached directly to the number and with no
+hyphen and no space*, and its own day table prints the spaced form on every one of its forty-nine
+rows, as does this file and every morning on disk. **A sweep for the attached form returns zero
+across all forty-nine mornings and zero across the plan's table, so the plan contradicts itself in
+one file. The pages govern and the space stands, and the stated form is wrong and is owed to
+whoever owns the spelling.**
+
+**AND THE FLOOR ON THE SHEETS IN THE ONE ROOM USED TO READ *THE THREE PAPERS* AND NOW READS *THE
+SHEETS*, AND THAT IS A CHANGE OF COUNT AND NOT A CHANGE OF FLOOR.** The table has stood at four since
+the morning of the twenty-eighth and at three before it. **Nothing has been entered, nothing refused
+and no column cut under any of them, the count of blanks is untouched, and the fifth piece of paper
+on that table on the closing morning is a woman's own sheet with a space ruled at the foot of it and
+nothing in the space.** A successor inherits the count as four and the floor as unentered.
 
 ---
 
@@ -185,8 +197,8 @@ standing failure of this repository and it is now the front of the queue.**
 
 **Batch 0005, 2026-10-02, days 891 to 899, `chapter-0678.md` to `chapter-0686.md`. Nine new
 mornings, the closing batch of Volume 14, no morning restarted.** The per-morning record is at
-`state/chapter-summaries.md` section 4, the measurements at
-`reviews/volume-14-batch-0005.findings.md`.
+`state/chapter-summaries.md` section 4, the writer's own measurements at
+`workspace/volume-14/batch-0005/SELF-CHECK.md`.
 
 - **Four in-between locked figures were spent, two of each, taking both allowances to their cap for
   the first time in the volume**, on days 891, 893, 894 and 896, at most one on any morning, none
@@ -195,17 +207,35 @@ mornings, the closing batch of Volume 14, no morning restarted.** The per-mornin
   those cards later inherits the reason. The closing morning carries both figures, as the card
   set's recorded resolution of the plan's own contradiction requires.
 - **The one `Entered` block of the batch is the third document's, on the terms, on day 898.** Three
-  blocks spent in the whole volume and twenty-seven of the ceiling unspent.
+  blocks were spent behind it and it is the fourth of the volume, so **four are spent in the whole
+  volume and twenty-six of the ceiling are unspent.** The block's own lead-in records that it was
+  entered against the clerk's hand; **it carries no `Entered:` label inside it, and the volume's
+  other `Entered` block, at `chapter-0644.md`, does.** Both are one per morning and no morning
+  carries two.
 - **Twenty-three repeated eighteen-word shapes inside the batch and fifty-three excess paragraph
-  pairs were found by the gates and rewritten**, and the batch as written carries **no duplicate
-  shape of any kind inside itself on either scope** and none against the forty mornings behind
-  that is not a locked figure.
+  pairs were found by the gates and rewritten**, and the batch carries **no duplicate shape of any
+  kind inside itself on either scope** and none against the forty mornings behind that is not a
+  locked figure.
 - **Two literal duplicate paragraphs inside one file, and one paragraph repeated three times in
-  another, were found by a whole-batch exact-duplicate sweep that neither gate runs.** All three
-  are repaired, and the sweep is the cheap addition a successor should make.
+  another, were found by a whole-batch exact-duplicate sweep that neither gate runs.** All three are
+  repaired, and the sweep is the cheap addition a successor should make. **The repair pass found five
+  more of the same class below the gate's thirty-word floor, and a sweep of all forty-nine mornings
+  at any length returns thirty-two duplicate body lines and none of them inside this batch: the two
+  locked sentences, twenty-eight recurring gestures of the standing list, which are the thread, and
+  **two paragraphs repeated inside one file in closed Batch 0004, at `chapter-0669.md` and
+  `chapter-0672.md`, NAMED AS OPEN ITEMS FOR THE CLOSE, WHICH MAY REPORT A DEFECT IN A MORNING AND
+  MAY NOT REPAIR IT.**
 - **Four banned bare words were found and cut**, and one permitted use of *panel* was cut anyway.
 - **A shortened form of a locked figure was found on day 894 and rewritten.** A load-bearing phrase
   may not appear outside its own whole sentence.
+- **THE REPAIR PASS OVER THIS BATCH, 2026-10-02.** An independent review of the writing commit found
+  eight items and no morning was restarted. Two were wrong published numbers and are corrected above:
+  the apparatus, which is four spent and not three, and the unit note, which called this file attached
+  where this file prints it spaced. Six were prose: a paragraph standing twice in `chapter-0678.md`,
+  five literal duplicates below the gate's floor, and one yard counted as nine and then as eleven in
+  the same hour, **which is settled on nine for all nine mornings and is the standing count for the
+  next volume.** **No figure of any series, no locked figure, no plot movement and no morning's
+  ending was altered.** Item by item at `workspace/volume-14/batch-0005/SELF-CHECK.md` section nine.
 - **What happened in the yard:** the name the arithmetic had chosen was found standing in the second
   place's own mouth and not discovered; a man refused his own refusal and nobody thanked him; a bare
   two hundred landed and nobody read past it; the reach went out east at the fourth hour and the
@@ -230,3 +260,11 @@ every offset, fourteen thousand three hundred and thirteen units, seventeen exce
 locked figures. **Zero duplicate shapes inside the batch on either scope.** Both gates were checked
 against a paragraph built to collide with itself first, and the sliding reading was again the larger
 one.
+
+**THE TWO GATE FIGURES ABOVE ARE THE WRITING PASS'S OWN AND PREDATE THE REPAIR, AND A SUCCESSOR IS
+TOLD SO RATHER THAN LEFT TO FIND IT.** The repair changed nine short action paragraphs, deleted one
+duplicated paragraph and changed four number words, and put no figure of any series into any of them.
+**It re-derived the word counts, the figure check, the exact-duplicate sweep, the mechanical sweep
+and the apparatus count. It did not re-derive the two gates, because a re-implementation did not
+reproduce the writing pass's arithmetic, and a substitute figure under those names would be a second
+error.**

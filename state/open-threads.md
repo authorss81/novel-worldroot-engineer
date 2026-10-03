@@ -1,10 +1,12 @@
 # Open Threads
 
-**Budget: about two thousand two hundred words. Read this file whole. Figures are in
+**Budget: about two thousand six hundred words, raised from about two thousand two hundred by the
+review-fix pass of 2026-10-02. Read this file whole. Figures are in
 `state/current.md`, the story is in `state/continuity.md`, and the archived layer at
 `reviews/state-archive-2026-10-02/` holds the per-thread detail for every row below.**
 
-Last rewritten 2026-10-02 on Batch 0005, the closing batch of Volume 14. **Volume 14 is closed.**
+Last rewritten 2026-10-02 on Batch 0005, the closing batch of Volume 14, and again on the
+review-fix pass over it. **Volume 14 is closed.**
 
 ---
 
@@ -123,10 +125,15 @@ Days 891 to 899, files `chapter-0678.md` to `chapter-0686.md`, the closing batch
    against the bible or to retire the bible and re-specify the novel. One factual error sits inside
    that decision and was left alone for the same reason: the `Status` paragraph at the foot of
    `NOVEL_SPEC.md` still says no novel prose has been generated after 1.89 million words.
+   **ESCALATED TO THE OPERATOR on 2026-10-02 by the review-fix pass over Batch 0005, which asked
+   that it be settled before Volume 15's plan is written and not inside a writing phase. Fourteen
+   volumes are on disk against the same specification, Volume 15 has no plan, and every batch since
+   Volume 01 has inherited the drift rather than resolved it. NO WRITING PHASE MAY SETTLE IT AND
+   THIS PASS CHANGED NO PLOT, NO OUTLINE AND NO CHARACTER.**
 2. **`outline/series.md` and `outline/ending.md` both place the Aldren surrender in Volume 13, and
    Volume 13 does not carry it.** Volume 14's plan decided where it is paid and left both files
    alone, and the payment stands where the page put it, on day 868 in `chapter-0655.md`. A pass
-   with standing owes them the correction.
+   with standing owes them the correction. **Escalated with item one on the same date.**
 3. **`state/phase-ledger.json` reads `phase-000-bootstrap`, `planned`, `attempts: 0`** while
    fourteen volumes are written. It is controller-owned and no code path references it.
 4. **The batch markers.** Markers are not forged, moved or deleted by a writing phase, and the
@@ -149,13 +156,19 @@ Days 891 to 899, files `chapter-0678.md` to `chapter-0686.md`, the closing batch
 8. **A whole-batch exact-duplicate paragraph sweep is cheap and neither existing gate does it.**
    Batch 0005 found two literal duplicate paragraphs inside one file and one paragraph repeated
    three times in another, all from mechanical edits, all invisible to both gates. **Run it before
-   publishing a gate figure.**
+   publishing a gate figure, and run it at any paragraph length, because the first gate's floor of
+   thirty words hides everything shorter.** **It has now been run over all forty-nine mornings of
+   Volume 14 at any length and returns thirty-two duplicate body lines, none of them inside Batch 0005,
+   of which two are one paragraph repeated inside one file in closed Batch 0004, at `chapter-0669.md`
+   and `chapter-0672.md`. Those two are named open items for the Volume 14 close, which may report a
+   defect and may not repair it.**
 9. **THE CLOSING BATCH'S FOUR IN-BETWEEN LOCKED FIGURES ARE SPENT AND BOTH ALLOWANCES ARE AT THEIR
    CAP.** Days 891, 893, 894 and 896, at most one on any morning, none on the closing morning, and
    the closing morning spoke both. **Volume 15 starts with nothing in between spent and may not
    spend either figure on any morning but its own first and its own last.** The override of the
    card set's prohibition on seven cards is recorded in
-   `reviews/volume-14-batch-0005.findings.md` section two, which is where a reader finds the reason.
+   `workspace/volume-14/batch-0005/SELF-CHECK.md` section two, which is where a reader finds the
+   reason.
 
 ---
 

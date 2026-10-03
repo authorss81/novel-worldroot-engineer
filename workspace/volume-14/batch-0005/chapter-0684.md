@@ -2,7 +2,7 @@
 
 ## The Twenty-Seventh Of The Eighteenth, And A Sheet Coming Up The Fen Road In The Office's Own Hand That Nobody In This Yard Was Able To Call Wrong
 
-Renn Ashby read the pair at the seventh hour on the Sunday and about eleven people were standing round the middle table because a Sunday in this yard has always been the morning with nowhere to be.
+Renn Ashby read the pair at the seventh hour on the Sunday and nine people were standing round the middle table because a Sunday in this yard has always been the morning with nowhere to be.
 
 **"Of this month, and here they are: one hundred and ninety-four of three hundred and seventy-one."**
 
@@ -84,7 +84,7 @@ She folded the cloth once over her forearm.
 
 **"There are two figures cut into that wall and the one at the tool house end is the elder of the pair: eight hundred and seventy-eight, at about the height of a man's shoulder. Forty-seven of masonry back toward the gate brings you to eight hundred and thirty-one."**
 
-She wiped the two of them in turn and left both of them standing.
+She ran the cloth along the masonry under each of the two figures in turn and the two of them stood.
 
 **"The drawer behind this one is shut and has been shut all day, and its key is on a single nail in the one room doorway where it will be tonight."**
 
@@ -96,7 +96,7 @@ She turned the cloth over in her hands.
 
 **"The second of them is shut on its fold. The third is signed and sealed and named. And a rider came up the fen road this morning with a fourth sheet in his hand carrying the same two marks on the wax that the third one carries, and I am not going to say what that makes and nobody else in this yard is going to say it either."**
 
-She wiped round all three and folded the cloth over her arm.
+She wiped round the three that had lain there since before she came and stopped short of the fourth.
 
 **"Not one entered, not one refused, no column cut under any of them, and the paper that came up the road this morning has not been entered either and there is no column in this holding to enter it under."**
 
@@ -138,7 +138,7 @@ Soren Rill came the inside edge of the eleven acres at dusk and stood at the low
 
 **"Nobody in this holding has been on the top of anything in four years. There is nothing on that low board that has ever been dated, and nobody has picked it up and nobody has carried it back to whoever left it, and there is a ring of bare ground inside the eleven acres that has taken no boot of mine today and no tape and no price."**
 
-He put his hands in his coat and left them there.
+He got his hands back into his coat, and none of them went near the board.
 
 **"And a correct paper came up the fen road today and it is the fourth one out of that office that this yard has not been able to find a fault in, and I have stopped saying what that is worth and I am going to start saying what it is worth, which is that it is worth a yard its whole attention on the morning it arrives."**
 

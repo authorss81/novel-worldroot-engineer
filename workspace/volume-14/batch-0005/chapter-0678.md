@@ -2,15 +2,13 @@
 
 ## The Twenty-First Of The Eighteenth, And A Name That Was Standing In Somebody Else's Mouth Before Anyone Here Had Said It
 
-At the seventh hour on the Monday Renn Ashby put his thumb into the book at the middle table, and read out what was written there, in front of about eleven people who have heard him do it four hundred times.
+At the seventh hour on the Monday Renn Ashby put his thumb into the book at the middle table, and read out what was written there, in front of nine people who have heard him do it four hundred times.
 
 **"The heading over this has not moved since before I came, so it is a heading of a month nine months back and it stays that way, and here are the two figures under it: one hundred and ninety-one of three hundred and sixty-five. Of this month."**
 
 He got off his heel in front of the yard and nobody in it has ever remarked on that.
 
-He got off his heel in front of nine people and nobody in that yard has ever remarked on it.
-
-The clerk had the copy sheet out on the middle table before the yard was properly up, and he had it face up, which he does not do, and about eleven people were round that table by the time he began.
+The clerk had the copy sheet out on the middle table before the yard was properly up, and he had it face up, which he does not do, and nine people were round that table by the time he began.
 
 **"I am going to read this out because it goes up on the ordinary day with the rest of the copies and this is the last morning it is going to be a private piece of paper in my coat,"** he said. **"It is not this holding's hand. It is a woman's from the second place, and it went into mine on Friday and it has been in mine since Friday, and I have not altered a word of it."**
 

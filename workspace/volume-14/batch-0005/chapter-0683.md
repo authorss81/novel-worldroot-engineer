@@ -112,7 +112,7 @@ Soren Rill came in from the gate at about the seventh hour and went to the low b
 
 **"Go and look at that ladder if you want the whole of it. Nobody has been up it and nobody in this yard is standing underneath it waiting to be asked."**
 
-He put one hand flat on the low board and did not touch what was lying on it.
+He rested the flat of his hand on the low board itself and kept it there, clear of the paper.
 
 **"What is lying there has been lying there four years. It has never told anybody when it arrived, nobody has picked it up to look at it, and nobody has carried it back to whoever left it. Both of those people are in this holding and there is not one figure in this yard set against either of them."**
 

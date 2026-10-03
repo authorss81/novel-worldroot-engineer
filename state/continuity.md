@@ -1,12 +1,13 @@
 # Continuity
 
-**Budget: about two thousand words. Read this file whole. The state layer is four files of
-about ten thousand words together and the archived layer behind it is at
-`reviews/state-archive-2026-10-02/` and is not to be loaded.**
+**Budget: about two thousand seven hundred and thirty words, raised from about two thousand by the
+review-fix pass of 2026-10-02, whose detail is at `workspace/volume-14/batch-0005/SELF-CHECK.md`.
+Read this file whole. The state layer is four files of about ten thousand nine hundred words together
+and the archived layer behind it is at `reviews/state-archive-2026-10-02/` and is not to be loaded.**
 
 This file carries the story. Figures and derivations are in `state/current.md`, live threads
 in `state/open-threads.md`, the volume index in `state/chapter-summaries.md`. Last rewritten
-2026-10-02 on Batch 0005, the closing batch of Volume 14.
+2026-10-02 on Batch 0005, the closing batch of Volume 14, and again on the review-fix pass over it.
 
 ---
 
@@ -28,7 +29,9 @@ that keeps a wall, a gate, a launder, a book and thirty-five unresolved question
 internally consistent and competently written, and it is not the book the spec, the bible and the
 series file specify.
 **This pass did not change the planned plot and did not attempt to.** The drift is first in the
-decision queue at `state/open-threads.md`, and **a later pass, or a human, owns it.** Two
+decision queue at `state/open-threads.md`, **where it was escalated to the operator on 2026-10-02 by
+the review-fix pass over Batch 0005, with the note that it should be settled before Volume 15's plan
+is written and that no writing phase may settle it**, and **a later pass, or a human, owns it.** Two
 things follow. **The bible is still authoritative and still describes a story that has not been
 written; do not treat the manuscript as evidence that the premise is retired.** And **Iona Vey
 is the fixed antagonist of the series: not new, not killed, not in custody at the end. No new
@@ -174,12 +177,25 @@ successor that finds one of these in a card has inherited an error and not a rul
 10. **The six bare words *volume*, *batch*, *chapter*, *seat*, *fieldbook* and *panel* are not in body
      prose.** **Batch 0005 found four, *volume* twice and *seat* twice, all cut, and cut one permitted
      use of *panel* as well.**
-11. **`reviews/volume-14-batch-0005.findings.md` is a writer self-check and not a review**, headed as
-     one, and it is committed with the nine mornings it describes.
-12. **THE UNIT OF THE LAUNDER IS PRINTED WITH A SPACE AND THE HOUSE FORM SAYS IT IS ATTACHED.**
-     The plan prints `hundredweight` with no space and every page of the volume prints it with a
-     space; a sweep for the attached form across all forty-nine mornings returns zero. **The pages
-     govern and the space stands.**
+11. **`workspace/volume-14/batch-0005/SELF-CHECK.md` IS A WRITER SELF-CHECK AND NOT A REVIEW**, headed
+    as one, and it now lives beside the nine mornings it describes rather than under `reviews/`,
+    which is the review-convention path. **A successor takes no figure from it as a review.**
+12. **THE UNIT OF THE LAUNDER IS PRINTED WITH A SPACE, AND THE PLAN CONTRADICTS ITSELF ABOUT IT.**
+     The plan's rule at its section seven says *attached directly to the number and with no hyphen
+     and no space*, and the plan's own day table prints the spaced form on every one of its
+     forty-nine rows, as does the state layer and every page of the volume. **A sweep for the
+     attached form returns zero across the mornings and zero across the plan's table. The pages
+     govern and the space stands, and the rule is owed a correction by whoever owns the outline.**
 13. **A WHOLE-BATCH EXACT-DUPLICATE PARAGRAPH SWEEP FOUND TWO LITERAL DUPLICATE PARAGRAPHS INSIDE ONE
      FILE AND ONE PARAGRAPH REPEATED THREE TIMES IN ANOTHER, AND NEITHER GATE SEES A PARAGRAPH
-     AGAINST ITSELF.** Every writer should run that sweep before publishing a gate figure.
+     AGAINST ITSELF.** Every writer should run that sweep before publishing a gate figure. **The
+     repair pass over Batch 0005 ran it again over all forty-nine mornings at any length and found
+     five more inside that batch, all below the gate's thirty-word floor and all repaired. **A sweep
+     of the whole volume returns thirty-two duplicate body lines and none of them inside Batch 0005:
+     the two locked sentences, twenty-eight recurring gestures of the standing list which section five
+     of `state/open-threads.md` says are the thread, and TWO PARAGRAPHS REPEATED INSIDE ONE FILE IN
+     CLOSED BATCH 0004, at `chapter-0669.md` and `chapter-0672.md`, WHICH ARE NAMED OPEN ITEMS FOR THE
+     VOLUME 14 CLOSE, WHICH MAY REPORT A DEFECT IN A MORNING AND MAY NOT REPAIR IT.**
+14. **THE APPARATUS CEILING OF THIRTY IS SPENT FOUR AND NOT THREE.** `> ` blocks of every kind, with
+     an `Entered` block inside the number: `chapter-0644.md`, `chapter-0652.md`, `chapter-0661.md`
+     and `chapter-0685.md`. **A successor inherits four spent and twenty-six unspent.**

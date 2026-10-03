@@ -22,11 +22,11 @@
 | 11 | 491 to 539 | 49 | 143,305 |
 | 12 | 540 to 588 | 49 | 118,058 |
 | 13 | 589 to 637 | 49 | 91,321 |
-| **14** | 638 to 686 | **49** | 116,117 |
+| **14** | 638 to 686 | **49** | 116,146 |
 | 15 | 687 to 735 | 0 | 0 |
 | 16 | 736 to 780 | 0 | 0 |
 
-Titles are in `outline/volume-NN.md`. **686 files, 1,915,580 words.** Volumes 01 to 14 are closed.
+Titles are in `outline/volume-NN.md`. **686 files, 1,915,609 words.** Volumes 01 to 14 are closed.
 The word figure moves with every prose change and is measured per file with `len(text.split())`,
 never by concatenation.
 
@@ -106,7 +106,7 @@ time.**
 
 ## 4. Volume 14, mornings forty-one to forty-nine, and the close
 
-**Batch 0005, days 891 to 899, files 678 to 686.** 24,411 words. **This batch closes Volume 14.**
+**Batch 0005, days 891 to 899, files 678 to 686.** 24,440 words. **This batch closes Volume 14.**
 
 - **891**, Monday, the twenty-first. The clerk reads a copy sheet on which the second place's refusal
   is in the second place's own mouth. **The far-end figure is spoken whole for the second time in
@@ -137,7 +137,7 @@ time.**
 **The four in-between locked figures** fell on days 891, 893, 894 and 896, at most one on any morning
 and none on the closing morning. **Both allowances are at their cap and neither figure may be spent
 on any morning of Volume 15 except its own first and last.** The card set's prohibition on seven
-cards was overridden and the reason is at `reviews/volume-14-batch-0005.findings.md` section two.
+cards was overridden and the reason is at `workspace/volume-14/batch-0005/SELF-CHECK.md` section two.
 
 ---
 
