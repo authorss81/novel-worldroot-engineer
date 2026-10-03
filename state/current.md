@@ -1,8 +1,12 @@
 # Current State
 
-**Budget: about eight thousand three hundred words, and this file is at that figure as
+**Budget: about ten thousand eight hundred and forty words, and this file is at that figure as
 measured on its own bytes with `len(text.split())`, which is the count any later pass re-derives and
-which moves with every edit, so the figure is a measurement and not a promise. Raised by the Volume 15
+which moves with every edit, so the figure is a measurement and not a promise. Raised a sixth time by
+the Volume 15 Batch 0002 writing pass of 2026-10-03, which added section thirteen, withdrew the
+prompt's figure-check total of one hundred and sixty in favour of one hundred and sixty-five, added
+the nine-hundred bare round hundred at the far board and the gesture finding, and moved no figure of
+any series; raised by the Volume 15
 Batch 0001 writing pass of 2026-10-03, which added section twelve; raised again by the review-fix pass
 of 2026-10-02, which added the apparatus correction, the floor that moved on the sheets and the record
 of that pass; raised again by the Volume 14 close of 2026-10-03, which re-derived every figure in this
@@ -12,14 +16,16 @@ one handoff clause standing on its head, and moved no figure of any series; and 
 the review-fix pass of 2026-10-03 over Volume 15 Batch 0001, which rewrote section eight, withdrew a
 misclassified figure, added the bare round hundred note and moved no figure of any series. The
 detail behind those passes is at `workspace/volume-14/batch-0005/SELF-CHECK.md`, at
+`workspace/volume-15/batch-0002/SELF-CHECK.md`, at
 `reviews/volume-14-close.findings.md`, at `reviews/volume-14-close-repair.findings.md` and at
 `reviews/volume-15-batch-0001-repair.findings.md`, and is not repeated here. History is in
 `reviews/state-archive-2026-10-02/`; measurements belong in `reviews/`, which no prompt reads. Read
 this file whole, and the other three whole.**
 
-Last rewritten 2026-10-03, by the review-fix pass over Volume 15 Batch 0001, which wrote no prose,
-restarted no morning, moved no figure of any series and touched no controller file. Before that, by the
-review-fix pass over the Volume 14 close, which wrote no prose and altered no morning. Every figure
+Last rewritten 2026-10-03, by the Volume 15 Batch 0002 writing pass, which wrote ten mornings, wrote
+no prose into any closed morning, moved no figure of any series and touched no controller file.
+Before that, by the
+review-fix pass over Volume 15 Batch 0001, which wrote no prose and altered no morning. Every figure
 below is re-derivable from the rule beside it. **Nothing is inherited on trust, and the closes
 re-derived rather than appended, so nothing in this file is an append-only residue.**
 
@@ -27,16 +33,17 @@ re-derived rather than appended, so nothing in this file is an append-only resid
 
 | | |
 |---|---|
-| **Last morning on disk** | day 909, `workspace/volume-15/batch-0001/chapter-0696.md` |
-| **Volume** | 15 of 16, *The Root Commons*, days 900 to 948, **ten mornings written of forty-nine: the volume is open** |
-| **Manuscript** | 1,939,882 words across 696 chapter files; the per-volume table is at `state/chapter-summaries.md` |
+| **Last morning on disk** | day 919, `workspace/volume-15/batch-0002/chapter-0706.md` |
+| **Volume** | 15 of 16, *The Root Commons*, days 900 to 948, **twenty mornings written of forty-nine: the volume is open** |
+| **Manuscript** | 1,967,997 words across 706 chapter files; the per-volume table is at `state/chapter-summaries.md` |
+| **Volume 15 Batch 0002** | 28,128 words across ten files, 697 to 706, days 910 to 919, per file 3,432, 2,769, 2,476, 2,681, 2,657, 2,971, 2,841, 2,723, 2,950 and 2,628, **measured by the writing pass of 2026-10-03 over this batch** |
 | **Volume 15 Batch 0001** | 24,273 words across ten files, 687 to 696, days 900 to 909, per file 2,723, 2,269, 2,359, 2,456, 2,474, 2,121, 2,494, 2,385, 2,507 and 2,485, **re-measured by the review-fix pass of 2026-10-03 over this batch, which changed the writing pass's figures** |
 | **Volume 14 Batch 0005** | 24,440 words across nine files, 678 to 686, days 891 to 899, per file 2,771, 2,320, 2,096, 2,919, 2,482, 2,300, 2,653, 2,961 and 3,938 |
 
 Volumes 01 to 13 are closed at forty-nine mornings each. **Volume 14 is closed.** Volume 15 takes
 chapters 687 to 735 and Volume 16 takes 736 to 780, and `outline/ending.md` is the lock on both.
 **`outline/volume-15.md` and `outline/batches/volume-15-cards.md` are both on disk, and Volume 15's
-first ten mornings are written.**
+first twenty mornings are written.**
 
 ---
 
@@ -583,3 +590,137 @@ that would name the standing arrangement, the third the volume behind returned z
 string the volume behind returned zero on; every occurrence of *discharged* inside a negation; zero
 rung climbed on the ladder; and no figure printed against the door nine hundred yards off, which is
 walked past on day 900 and read by nobody and offered to nobody.
+
+---
+
+## 13. Volume 15 Batch 0002, and the standings at day nine hundred and nineteen
+
+**TEN MORNINGS WRITTEN, DAYS 910 TO 919, FILES 697 TO 706, IN `workspace/volume-15/batch-0002/`.**
+Twenty-eight thousand one hundred and twenty-eight words, per file 3,432, 2,769, 2,476, 2,681, 2,657,
+2,971, 2,841, 2,723, 2,950 and 2,628. No morning was restarted and no morning was written twice.
+**The successor is `workspace/volume-15/batch-0003/PROMPT.md` and it is the only one this batch
+created.**
+
+**AND THE PROMPT'S OWN TOTAL OF ONE HUNDRED AND SIXTY DERIVED FIGURES IS WITHDRAWN BY NAME, AND THE
+FIGURE THAT GOVERNS IS ONE HUNDRED AND SIXTY-FIVE.** The prompt prints fourteen figures on every
+morning, two more on each of the five odd mornings, and ten more across the three fourth-line
+mornings. **THE CARD SET REQUIRES FIVE FIGURES ON EVERY FOURTH-LINE MORNING, BEING THE FIGURE IN
+FORCE, THE TAKEN FIGURE, THE NOT FIGURE AND THE TWO RECKONINGS, AND THREE MORNINGS AT FIVE IS FIFTEEN
+AND NOT TEN.** One hundred and forty plus ten plus fifteen is one hundred and sixty-five. **THE FIGURE
+CHECK RETURNS ONE HUNDRED AND SIXTY-FIVE REQUIRED IN THEIR OWN MORNINGS, ONE HUNDRED AND SIXTY-FIVE
+MATCHING AND ZERO FAILURES**, on a case-insensitive whole-word phrase match, and zero failures again
+with the two apparatus blocks excluded.
+
+**AND THE HOUSE SPELLING FINDING FROM THE BATCH BEHIND WAS APPLIED BEFORE A MORNING WAS TOUCHED AND IT
+DID NOT FIRE ONCE.** A round tens ordinal drops the final letter of the cardinal and takes *ieth*, and
+this batch carries *four hundred and sixtieth* and *four hundred and sixty-ninth*, both of which agree
+with that rule when the rule is applied to the last morning of the batch behind.
+
+| Series | Rule | Where it stood at day 919 |
+|---|---|---|
+| Third launder | **anchored at one thousand and two hundred and nine on day 851, plus eight on every even morning and minus five on every odd morning after it; no restart at a month turn or at a volume boundary** | one thousand and three hundred and eleven hundredweight, **above one thousand three hundred on all ten mornings and nobody in the yard remarked on it, asked what it meant, or was told** |
+| Ordinal of the run | day less four hundred and fifty | four hundred and sixty-ninth |
+| Window | day less four hundred and eighty-three; does not re-anchor at a month turn | four hundred and thirty-six |
+| Rising half | the window less the falling half; **moves on an EVEN morning** | two hundred and twenty-three |
+| Falling half | 145 plus half of everything above 300, floor; **moves on an ODD morning** | two hundred and thirteen |
+| **The parity, and it held on all ten** | **five even mornings and five odd ones in this batch, and on every one of the five even mornings the pages say the rising half is the half that moved and on every one of the five odd mornings they say the falling half moved. A successor inherits the rule and not the volume behind's order** | both halves are over two hundred on every morning of this volume and neither is round |
+| Aggregate | day less four hundred and fifty-two | four hundred and sixty-seven |
+| Its clause | day minus four hundred and fifty-three, day minus four hundred and fifty-one | the four hundred and sixty-sixth out of four hundred and sixty-eighth |
+| Near board | day less 66 | eight hundred and fifty-three, **not round** |
+| Far board | day less 19; always forty-seven from the near one | **nine hundred, bare, with no and and no tail, on the last morning of this batch, against a near board of eight hundred and fifty-three which is not round. THIS IS THE THIRD AND LAST OF THE VOLUME'S THREE BARE ROUND HUNDRED SITES AND THE FIRST OF THEM HEADED BY *NINE HUNDRED*, and there is no half-figure site anywhere in this volume** |
+| Read aloud | numerator one hundred and ninety-six on day 901 plus one on every odd morning after it, **now out of its own hundred and in the ordinary figure form, never a form of its own**; denominator day less 526, always odd | two hundred and five of three hundred and ninety-three, **written on the five odd mornings of this batch and read aloud by nobody on any of them** |
+| **The only figure in the hundred range in this batch** | **the letter, on all ten mornings, at *a hundred and*. The numerator left its range on day 909 and never came back to it, so the two no longer sit side by side in the same range and a writer who carries the old form onto the numerator is wrong on every odd morning of the rest of the volume** | the letter stands at a hundred and sixty-six days |
+| Count in force | rises by one on a fourth-line morning only; the twelve of them are days 902, 906, 910, 914, 918, 922, 926, 930, 934, 938, 942 and 946, and every one is an even morning | a hundred and fifty-six, twenty-nine taken, a hundred and twenty-seven not, **after three rises in this batch at days 910, 914 and 918, and no field was taken on any of the three and nobody was blamed for a field that waited** |
+| The two reckonings | step by one on a fourth-line morning; the second is carried | one hundred and fourth and ninety-first, thirteen apart |
+| Register form | day less 556 | three hundred and sixty-three days |
+| Charter | day less 650 | two hundred and sixty-nine days |
+| Silling's second ruled line | day less 562 | three hundred and fifty-seven days, and nothing written on it |
+| The letter | day less 753 | a hundred and sixty-six days |
+| Compost line | no turn is scheduled inside this volume and **no morning of this batch found the board reading thirty-two** | **paid at thirty-one, not discharged**, said on all ten mornings and in a different set of words on each |
+| Count of blanks | thirty-nine, never moved | thirty-nine, and the second rule under them stood open and empty at the thirty-ninth time **on both return mornings, being days 910 and 919** |
+| Returns | every ninth day, at days 901, 910, 919, 928, 937 and 946 | **two spent, days 901 and 910 and 919, and day 910 carried a return and a rotation together for the first time in this volume and neither waited for the other. No ordinal, no weight and no remaining allowance is printed for one** |
+
+**THE MEASUREMENTS THIS BATCH PUBLISHES, WITH THEIR UNIVERSES AND THEIR NORMALISATION.** Normalisation
+in full: numerals and spelled number words both replaced by one token, the word *and* left alone,
+every hyphenated compound split on the hyphen before lookup, punctuation dropped, case folded, every
+chunk a full eighteen words.
+
+**SELF-COLLISION CHECKED FIRST, BEFORE EITHER GATE WAS RUN AGAINST A SINGLE MORNING.** On a paragraph
+built to collide with itself: the first gate returns a ratio of exactly one on every construction
+tried, and the sliding reading returns seventy-four excess windows on that paragraph taken twice, so a
+nil from this batch is evidence and not an artefact.
+
+**GATE ONE**, every prose paragraph of thirty words or more, against every other in the volume and
+against every prose paragraph behind it: **zero ordered pairs, in all three scopes**, and the highest
+ratio anywhere inside these ten mornings is 0.7273. **THE FLOOR BESIDE ANY NIL: the comfort line is
+twenty words and the far-end sentence is thirty-one, and the first gate's floor is thirty words, so
+the comfort line is structurally invisible to that gate and a clean first gate is not evidence about
+either figure.** Neither locked figure was spent on any morning of this batch and **none of the six
+load-bearing strings returns anything on any of these ten mornings.** The next in-between morning in
+the whole volume is the thirty-third and the one after it is the forty-fifth.
+
+**GATE TWO, BOTH READINGS, AND THE SLIDING READING IS THE ONE THAT COUNTS.** Over these ten mornings
+alone: **1,244 non-overlapping whole-paragraph chunks with no repeated shape and no excess, and 18,192
+sliding eighteen-word windows with no repeated shape and no excess.** With the ten mornings behind:
+2,293 chunks with no shape and no excess, and 33,450 sliding windows with five shapes and nine excess.
+With the volume behind's closing nine as well: 3,320 chunks with four shapes and seven excess, and
+47,891 sliding windows with forty-seven shapes and eighty-five excess. **NOT ONE REPEATED SLIDING SHAPE
+IN ANY OF THE THREE SCOPES TOUCHES A MORNING OF THIS BATCH.** The six gate-one ordered pairs in the
+widest scope are all at a ratio of one and are all inside three closed paragraphs of the volume
+behind, which are named open items for that volume's close and are reported and not repaired.
+
+**AND ONE COUNT TO BE CAREFUL WITH, WHICH IS A FINDING AND NOT A CONTRADICTION.** Batch 0001 published
+a nil on the sliding reading over its own ten mornings. Run with this batch's normalisation, those same
+ten mornings return five shapes and nine excess. **The result is a nil and the result is not withdrawn,
+and neither is this count, because two normalisers are not one gate.** The figure a successor needs is
+the third column: zero shapes touching this batch, on either reading, in any scope.
+
+**AND THE FINDING THIS BATCH ADDS, WHICH IS THE SAME CLASS OF FAULT AS THE ONE THE BATCH BEHIND
+PRINTED, AND IT IS ABOUT WHAT A STANDING BLOCK IS MADE OF.** **The whole-volume exact-duplicate
+paragraph sweep at any length returns five repeated paragraphs inside Volume 15 and every one of the
+five is a two-word gesture standing in Batch 0001**, one of them five times in ten mornings. No
+paragraph in these ten mornings is repeated inside one file. **A STANDING BLOCK WRITTEN BY HAND IS MOSTLY
+GESTURE, AND A GATE THAT MATCHES WHOLE PARAGRAPHS INVISIBLY FINDS A TWO-WORD GESTURE THAT APPEARS FIVE
+TIMES IN TEN MORNINGS.** The sweep was therefore run again on shared contiguous token runs between any
+two non-blank body lines within sixteen lines of each other in the same file, and it returns ninety
+runs at six tokens or more and thirteen at eight or more, and every one of the thirteen is a stock
+construction in a character's own voice and not a re-stated beat. **Two genuine re-statements were found
+that way and cut**: a standing block of the man at the end of the north row said twice inside fifteen
+lines on day 910, and a standing block of the door said twice on day 919.
+
+**APPARATUS: TWO BLOCKS IN TEN MORNINGS, ON DAYS 912 AND 916, AND NO ENTERED LABEL ANYWHERE.** **A
+BLOCK WAS CUT FROM DAY 915, WHERE THE CARD SET SAYS NO BLOCK FALLS, AND THE DOCUMENT IT CARRIED WAS PUT
+INTO ITS OWN AUTHOR'S MOUTH IN HER OWN ORDER INSTEAD.** Six are spent in the volume and twenty-four of
+the ceiling of thirty are unspent.
+
+**MECHANICAL SWEEPS, ALL CLEAN.** The six bare words at zero and the seventh the plan adds, *tally*,
+at zero after one cut on day 911; the twelve month names at zero and the modal verb *may* at zero; zero
+digits in body prose; zero dashes and zero curly glyphs; zero for the two words that would name the
+standing arrangement, the third the volume behind returned zero on, and every string the volume behind
+returned zero on; **every one of the seven occurrences of *discharged* inside a negation** and the one
+occurrence of *apologi* inside a negation, it having been outside one on first writing and having been
+cut back into one; zero rung climbed on the ladder; no figure printed against the door nine hundred
+yards off; no paragraph with an odd number of quotation marks, five having been closed after a rewrite
+left them open; and no morning ending on a paragraph in which every sentence opens with a negation-form
+word, two having been rewritten on days 911 and 912.
+
+**AND TWO FINDINGS THE STATE LAYER OWES A SUCCESSOR, BOTH FOUND BY THE BATCH BEHIND AND NEITHER
+REPAIRED.**
+
+1. **THE FIGURE-CHECK TOTAL IN THE PROMPT THAT GENERATED BATCH 0002 WAS ONE HUNDRED AND SIXTY AND THE TRUE
+   TOTAL WAS ONE HUNDRED AND SIXTY-FIVE.** The prompt printed fourteen figures on every morning, two more
+   on each of the five odd mornings and ten more across the three fourth-line mornings. **The card set
+   requires five figures on every fourth-line morning and that batch had three of them, and three at five
+   is fifteen and not ten.** A successor that derives the total from a figure any prompt prints will be
+   wrong by a multiple of five and will chase four or five false positives on every morning. **Derive it
+   from the card set's item list at its section ten, which is the only source that reproduces.**
+2. **FIVE CARD HEADINGS IN `outline/batches/volume-15-cards.md` NAME THE WRONG POSITION AMONG THE TWELVE
+   FOURTH-LINE MORNINGS, WHILE THE SAME CARDS' BODY TEXT NAMES IT RIGHT, AND THE FIGURES IN BOTH ARE
+   RIGHT.** Checked against the rule, the twelve are at days 902, 906, 910, 914, 918, 922, 926, 930, 934,
+   938, 942 and 946. **Card twenty-three, day 922, is the sixth and is headed the seventh. Card
+   twenty-seven, day 926, is the seventh and is headed the eighth. Card thirty-one, day 930, is the eighth
+   and is headed the ninth. Card thirty-five, day 934, is the ninth and is headed the eleventh. Card
+   thirty-nine, day 938, is the tenth and is headed the twelfth.** Cards three, seven, eleven, fifteen and
+   nineteen are right in their headings, and cards forty-three and forty-seven carry no competing label or
+   carry the right one. **THE HEADING IS WITHDRAWN BY NAME, THE BODY TEXT AND THE FIGURES GOVERN, AND THE
+   CARD SET IS A COMPLETED PHASE'S FILE THAT NO WRITING PHASE MAY EDIT.**

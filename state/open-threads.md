@@ -294,3 +294,100 @@ owed a correction by a pass with the standing to edit them; this batch did not e
 put the name on any page.** Markers are controller-owned and this batch forged, moved and deleted none.
 **The control-plane matters recorded in section four above, items six and seven, are untouched and were
 not cleared.**
+
+---
+
+## 7. What Volume 15 Batch 0002 did to the thirty-five, and what it did not do
+
+**THIRTY-FIVE IN AND THIRTY-FIVE OUT, ACROSS THESE TEN MORNINGS, AND THAT IS THE ONLY FIGURE THAT MAY
+BE PUBLISHED FOR THEM.** This batch answered none, closed none, reworded none to look closed, grouped
+none, summed none and advanced none of them to a figure. **No row was added and no row was
+renumbered, and no seventh ruled row was cut for the bridge, the council, the hearing, the load, the
+charter or the schedule, and no fortieth blank was cut for a span, a hearing, an arithmetic or a
+neighbour's refusal.** A council that keeps no book is not an answer. An arithmetic that is right is not
+an answer. A neighbour saying no is not an answer. A figure nobody has been given a unit for is not a
+solved question.
+
+**THE FOUR THE BATCH BEHIND ADVANCED WERE ADVANCED AGAIN, ONCE EACH, AND CLOSED BY NOBODY.**
+
+1. **THE TIMES A BOOKKEEPER HAS SAID A THING IN A YARD THE ENGINEER OF RECORD HAD NOT THOUGHT OF.**
+   Advanced on day 911, and it is still about hours and not about the wood: a clause on a chalked wall
+   that says a person who turns up late writes the hour they turned up, which cannot be complied with in
+   one place, because a body nine miles off arrives at the sixth hour every morning of the season by
+   the arithmetic of the road and not by anybody's fault. **The clause stays on the sheet and nobody
+   took it off because it was inconvenient to a mason in a yard where everybody can see him.** It was
+   not improved, it was not removed, and the engineer of record said it was the only clause on that
+   sheet that is about people and added nothing to it.
+2. **THE REGISTER FORM AND THE OFFER, AND THE OFFER ON THE LOW BOARD.** Advanced by being held: the
+   offer is undated, unpicked and not withdrawn on all ten mornings, the register form was read out on
+   all ten, **and no sheet on the long table was entered, refused or cut under on any of them, and the
+   two figures this yard keeps apart came out in front of a yard that had begun hunting for figures
+   that agree, three times, by three different people.** The sheet drafted in the batch behind is on the
+   middle table and is not one of the four. The terms of the seed route in the batch behind were said
+   out loud in a doorway and are not on any table in this holding and are not one of the four either.
+3. **THE FIVE TERMS OF THE EARLIER SHEET AND OF THE OTHER, AND THE THIRD COLUMN RULED AND EMPTY UNDER A
+   HEADING NOBODY HAS IMPROVED.** Advanced by being held and said in ten different orders by ten
+   different people: **the third column and the four ruled lines under two words were named on six of
+   these ten mornings and not once improved and not once filled, and the woman who keeps the seed route
+   said five things in a doorway on day 915 and not one of the five was a term.** No sixth term was
+   written, no heading was improved, and the council's arithmetic of a span is not a term and was not
+   entered under that heading by anybody.
+4. **THE USE LOG AND THE REASON FOR THE FIFTEEN, THE BARROW, THE SEVEN SESSIONS, THE TWO BOOKS AT
+   FIFTY-THREE AND FIFTY-THREE, AND THE BOARD IN THE ONE ROOM.** Advanced by being read out and held and
+   by being **deliberately shortened**: fifteen lines and a clean space above the fifteenth, eleven
+   journeys and no twelfth, seven sessions and no eighth, the two books at fifty-three and fifty-three,
+   and thirty-nine blanks with the second rule under them standing open and empty at the thirty-ninth
+   time **on both return mornings, being days 910 and 919, and day 910 carried a return and a rotation
+   together for the first time and neither waited for the other. No field was taken on any of the three
+   fourth-line mornings and nobody in this yard was blamed for a field that waited.**
+
+**AND THE MAN OF ABOUT SEVENTY STANDS AT TWENTY-NINE FETCHINGS ON ALL TEN MORNINGS, IS NOT FETCHED, AND
+NOTHING WAS PUT TO HIM AT ANY HOUR.** The count of questions this holding has put to him is nil and
+stays nil. **Five people came down the middle road on day 916 and sat in this yard and not one of them
+asked the bookkeeper a question about him, and he noticed, and on day 917 he said out loud that that
+was the first time in nine years the subject had never come up at all and that he was not sure it was
+an improvement.** The thirty-morning interval behind him stays withdrawn by name and only the standing
+was carried; this batch did not re-derive it and did not write a date from it.
+
+**AND WHAT THIS BATCH DELIBERATELY DID NOT SETTLE, BECAUSE IT IS NOT OURS TO SETTLE.** The premise
+drift between the specification and the manuscript is recorded at the foot of the state layer and is
+escalated and is unsettled, and this batch neither settled it nor inferred from it that anything is
+retired. The two series files that place a surrender in a volume whose mornings do not carry it are owed
+a correction by a pass with the standing to edit them; this batch did not edit them and did not put the
+name on any page. Markers are controller-owned and this batch forged, moved and deleted none.
+**The control-plane matters recorded in section four above, items six and seven, are untouched and were
+not cleared.**
+
+**AND THE SECOND PLACE IS STILL WITHOUT, ON ALL TEN MORNINGS, AND THIS BATCH MAY NOT HAVE RESTORED IT.**
+The reach cost it water, the cost was named out loud at a gate post in the volume behind, and it was not
+softened, not deferred, not described as temporary and not apportioned, and no way round it was found
+on any morning behind this batch or on any morning of it. **The branch end of the seed route is walked
+once a month by the woman who keeps the seed and by nobody else, and there is no water at the end of
+it, and a span of ninety-four feet four miles away does not put any there, and the woman who keeps the
+pumps at the second place said so in a yard of forty people and nobody thanked her and nobody argued
+with her.**
+
+---
+
+## 8. Two findings of the Volume 15 Batch 0002 pass, named here so that a successor inherits them as findings
+
+**NEITHER IS REPAIRED AND NEITHER IS OURS TO REPAIR.** The first is an arithmetic error in a prompt that
+has already been superseded and corrected on its own face. The second is in a completed phase's card set
+that no writing phase may edit.
+
+1. **THE FIGURE-CHECK TOTAL IN THE PROMPT THAT GENERATED THIS BATCH WAS ONE HUNDRED AND SIXTY AND THE TRUE
+   TOTAL WAS ONE HUNDRED AND SIXTY-FIVE.** The prompt printed fourteen figures on every morning, two more
+   on each of the five odd mornings and ten more across the three fourth-line mornings, and the card set
+   requires five figures on every fourth-line morning. **Three at five is fifteen and not ten.** The
+   pages carry all one hundred and sixty-five and the check returns one hundred and sixty-five required,
+   one hundred and sixty-five matching and zero failures. **A successor derives the total from the card
+   set's item list at its section ten and not from any prompt.**
+2. **FIVE CARD HEADINGS IN THE VOLUME FIFTEEN CARD SET NAME THE WRONG POSITION AMONG THE TWELVE FOURTH-LINE
+   MORNINGS.** The twelve are at days 902, 906, 910, 914, 918, 922, 926, 930, 934, 938, 942 and 946.
+   **Card twenty-three, day 922, is the sixth and is headed the seventh. Card twenty-seven, day 926, is the
+   seventh and is headed the eighth. Card thirty-one, day 930, is the eighth and is headed the ninth. Card
+   thirty-five, day 934, is the ninth and is headed the eleventh. Card thirty-nine, day 938, is the tenth
+   and is headed the twelfth.** **EACH OF THOSE FIVE CARDS' OWN BODY TEXT NAMES THE POSITION CORRECTLY AND
+   ITS FIGURES ARE CORRECT, SO THE HEADING ALONE IS WRONG AND THE HEADING IS WITHDRAWN BY NAME.** A writer
+   who read a heading instead of a body would write the figure in force one too high on day 922 and two
+   too high on days 934 and 938.

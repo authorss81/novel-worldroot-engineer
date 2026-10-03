@@ -275,3 +275,77 @@ advanced four of them and answered, closed, reworded-to-look-closed, grouped, su
 of them to a figure. **The four advanced are the times a bookkeeper has said a thing in a yard the
 engineer of record had not thought of, the register form and the offer on the low board, the sheet of
 terms and its third column, and the use log and the reason for the fifteen.**
+
+## 7. Volume 15, mornings eleven to twenty, one line each
+
+**Batch 0002, days 910 to 919, files 697 to 706. Twenty-eight thousand one hundred and twenty-eight
+words. No morning restarted. The successor is `workspace/volume-15/batch-0003/PROMPT.md`. Day 919 is
+not the closing morning of the volume and nothing in these ten mornings is written as one.**
+
+- **910**, Saturday, the tenth. **A return and a fourth-line morning on the same morning for the first
+  time, and neither one waits for the other.** A girl from the second place asks what a return is for
+  and is given the standing answer and no better one, and says she will take it up the lane and come
+  back if anybody up there has a better one, and does not come back. **A hundred and fifty-four in
+  force, one hundred and second against eighty-ninth, thirteen apart, and no field taken and nobody
+  blamed for a field that waited.**
+- **911**, Sunday, the eleventh. **The four households with two signatures at the foot of them are
+  reached unevenly and the unevenness is given as miles and cart days and not as a fault of anybody's
+  character**; one of the four was not reached at all and one is at the end of a dry branch. The crews'
+  hours are put in the yard's own arithmetic by the people who will do the hours, out loud, against a
+  seed sack, and go into a box and not into a book. **The read-aloud numerator is two hundred and one,
+  the ordinary form, written by the girl from the second place and read by nobody.**
+- **912**, Monday, the twelfth. **The bridge enters as arithmetic and not as a preference**, on the
+  engineer of record's own sheet: a span of ninety-four feet at the crossing below the second place's
+  branch, a loaded barrow at full for the load it will stand and a flood load for the one it will not,
+  sixteen bodies for twenty-two working mornings, and eleven mornings of season. The clerk who walked
+  two days up a lane brings the office's line, which is line nine of nine and is marked as nothing, and
+  is not argued with and is not thanked.
+- **913**, Tuesday, the thirteenth. **The price of the span falls on the crews who will do the work and
+  not on the office that wants it, in the figures of the five women who will do it**, out loud at the
+  boards: the fifth hour gone for twenty-two mornings, the seventh hour with nobody in it, the tenth
+  hour not happening at all, four feet of silt, and a barrow that cannot cross a mile of dry ground in
+  the wet. The office is paying in stone and the crews are paying in mornings and nobody has to be
+  wrong. **The engineer of record does not offer to absorb it and is not thanked for noticing it.**
+- **914**, Wednesday, the fourteenth. **The second fourth-line morning, and a stone comes up at the
+  third course of the north sill at the sixth hour on a morning nobody was watching it**, found with the
+  side of a thumb and the noise of a man clearing his throat under a floor. The repair is the crew's
+  and the cost is the crew's, and the rotation comes round at the seventh hour and does not wait for
+  it. **A hundred and fifty-five in force, one hundred and third against ninety, and the first morning
+  on which the woman with the slate says her two numbers and gives no reason for stopping.**
+- **915**, Thursday, the fifteenth. **The seed route is put in the volume's business with the woman who
+  keeps it, and it is work and not a kindness**, and she says five things out loud in her own doorway
+  to nine people and says the fifth one twice word for word, and nobody improves either telling and
+  nobody asks her whether she is sure. **No hand goes on her arm on any morning, no apology for how she
+  works is offered in any room, and the seed work stays where it was.**
+- **916**, Friday, the sixteenth. **The small council is named in its own hand on its own paper:**
+  five people from four places, none of them from this holding, no book and no clerk, agreement and not
+  a vote, eleven meetings in four years and one of them cost the third place a culvert. **The engineer
+  of record is not on it, is not offered a place at it, and says in a yard that he would resign from it
+  inside a week if he were.** It has come to hear a span at ninety-four feet and will hear the man who
+  wants it and the crew that would build it separately, and it asks first about the lifted sill.
+- **917**, Saturday, the seventeenth. **One question put twice to two people at two different hours of
+  one morning, and two answers that were both true.** The man in a stone room before light says the
+  gauge is read wrong by a foot in a high week and that he has not asked the woman who reads it
+  because that conversation is not his to have had; the woman at the boards says being able to get
+  there and being able to build there are two different questions and that a span four miles off does
+  not put a stone back under the north sill. **They are not reconciled and neither is corrected.**
+- **918**, Sunday, the eighteenth. **The council's own arithmetic on the span is read out in the yard and
+  is right in every particular and contains no decision**: what it buys, which is two things and only
+  two; what it does not do, which is five things; and what it costs, which is sixteen bodies for
+  twenty-two mornings and a walk nobody will put a figure on. A man at the gate offers a better figure
+  and is told no, with the reason. **A hundred and fifty-six in force, one hundred and fourth against
+  ninety-first, and no field taken, and no third option offered on the morning by anybody.**
+- **919**, Monday, the nineteenth. **The far board is at exactly nine hundred, bare, with no tail,
+  against a near board at eight hundred and fifty-three which is not round, on the second return
+  morning of the volume**, and the book comes back off its shelf and moves nothing. **The second place
+  says it will not put nine bodies on that crossing, and the price of a neighbour's standing is put in
+  a figure: sixteen less nine is seven, and seven is one and a half on a sill face for twenty-two
+  mornings**, and the woman who does that arithmetic also says what the second place has been given
+  and what it has not. **The girl from the second place reads the stone, writes the read-aloud pair for
+  the last time, and goes up the road with two papers and no name at the foot of anything.**
+
+**THE THIRTY-FIVE ARE THIRTY-FIVE IN AND THIRTY-FIVE OUT ACROSS THESE TEN MORNINGS.** This batch
+advanced four of them and answered, closed, reworded-to-look-closed, grouped, summed or advanced none
+of them to a figure. **The four advanced are the times a bookkeeper has said a thing in a yard the
+engineer of record had not thought of, the register form and the offer on the low board, the sheet of
+terms and its third column, and the use log and the reason for the fifteen.**

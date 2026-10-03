@@ -97,7 +97,12 @@ named on the page of this series for the first time, put four defensible terms o
 was refused in one breath, said *then it is refused*, and walked out through the gate alive,
 unmolested and standing.**
 
-**Volume 15 adds three people and none of them is an antagonist.**
+**Volume 15 has added eight people and none of them is an antagonist. Three of the eight are on the
+gate and in the yard of this holding, and the other five are the small council, whose membership the
+volume names on its seventeenth morning and whose arithmetic it puts in front of the yard on its
+nineteenth. The council is a body, it keeps no book, and it is not an enemy of anybody in this yard; it
+is the thing this volume is about, which is whether a coalition that has just proved it can refuse can
+also maintain. The five are named at section nine.**
 
 **CORIN DACE**, about forty-five, the schedule clerk of the office four days north. He walked two days
 to the gate on day 901 to say one moment out loud in a yard rather than leave it on paper, he does not
@@ -309,3 +314,66 @@ the compost line, the drawer and the four sheets belong to Nia Vale and she coun
 each morning. The long sheet belongs to Hesta Lyle. The slate belongs to Sera Quill. **A later morning
 that recites one of these in the words of any morning behind this one has written a figure that will
 come back, and the sliding gate will find it.**
+
+---
+
+## 9. What Volume 15's second ten mornings established, for the mornings behind them
+
+**THE BRIDGE IS IN THE ARGUMENT AS ARITHMETIC AND IT HAS BEEN PRICED TWICE BY TWO PEOPLE WHO WILL NOT
+PAY FOR IT.** It is a span of ninety-four feet at the crossing below the second place's branch. The
+office's paper wants it for a flood load the span will not stand; the engineer of record's own sheet
+puts the load it will stand, which is a loaded barrow at full, on the face of it, in his own hand and
+not in a small one. **Sixteen bodies for twenty-two working mornings, nine of them from the second
+place, and eleven working mornings in the season, at three cartloads of stone a day bought four days
+north.** Nobody in this holding has decided anything about it and nobody has been asked to choose.
+
+**THE SMALL COUNCIL IS NAMED AND IT IS FIVE PEOPLE FROM FOUR PLACES AND NONE OF THEM IS FROM THIS
+HOLDING.** **Ismay Rooke**, mason, of the third place, who had been standing at this gate for eight
+days watching a wall being laid and had not been allowed onto the sill. **Auret Sill**, who keeps the
+pumps at the second place. **Hanne Brack**, of the second place, whose household is at the end of the
+branch that has run dry since the spring. **Emrys Dole**, who carries on the third place's road.
+**Perrin Dae**, who keeps the lime and the timber at the fourth place. **It keeps no book, it has no
+clerk, it decides by agreement and not by vote, it has never taken a vote, and it has met eleven times
+in four years, nine of them deciding nothing, one breaking up without a decision, and one costing the
+third place a culvert and its road a winter. The engineer of record is not on it and was not given a
+place at it and said in a yard that if he were he would resign from it inside a week. The bookkeeper of
+this holding is not on it either. Its list of itself is on its own paper and is in no book and no rack
+here.**
+
+**THE SECOND PLACE'S NINE BODIES ARE NOT COMING, AND THE PRICE OF THAT WAS PUT IN A FIGURE AND NOT IN
+FAVOUR.** Sixteen minus nine is seven, and seven is one and a half on a sill face and a broken day
+every day for twenty-two mornings. **That is the whole of the cost of a neighbour's standing as this
+holding priced it, and the woman who did the pricing added that the second place has been given five
+women on a sill at the fifth hour every morning since the days turned, and a bucket, and a mason who
+laid a sill face in the wet in the dark in the week the frost came, and has not had a bucket of its
+own since the spring.** Nobody thanked anybody. The four households with two signatures at the foot of
+them were reached unevenly on a Sunday and the unevenness was given as roads and hours and not as a
+fault of anybody's character, and one of the four was not reached at all.
+
+**AND WHAT THESE TEN MORNINGS DID TO THE CAST.** Kellan Rusk said the standing of the holding in a
+different order on every one of the ten, shortened it on four of them on purpose, and on day 914 told
+the yard in his own mouth that he was not going to present a thing which had not changed as news.
+**Sera Quill said her two numbers and stopped, and on day 917 said the second one was all she had and
+gave no reason, and nobody asked her for one.** Harlan Vetch went and read the compost line off the
+board for the first time in this month on three mornings, then stopped and said he would rather say a
+wrong thing out loud than the right thing off a nail. **Renn Ashby said one sentence on day 917, at a
+trough, about not saying two things and not telling anybody first, and filled his bucket and went back
+down the row, and nobody asked him a second question.** Nia Vale counted the three ages off the rack
+in a doorway and proved she could and said so. **Tova Reed said five things out loud in her own doorway
+to nine people, said the fifth one twice word for word, and nobody improved it and nobody asked her
+whether she was sure.** Odile Vray priced a span out of her own crew's figures on a sack in her own box
+and then went and told one household with a lamp herself, and said the cost of that in her own words and
+was thanked by nobody. **The girl from the second place learned to read the stone and the board, wrote
+the read-aloud pair four odd mornings out of the five, read three ages off the rack and the figure in
+force off the rack, asked three questions that nobody had prepared an answer to, and went up the road
+on the tenth morning of the batch with two papers and no name at the foot of anything.** Nobody in this
+holding thanked anybody on any of the ten mornings and nobody was asked to choose anything on any of
+them.
+
+**AND THE THINGS THAT CAME INTO THE MORNINGS AND WILL NOT LEAVE.** A span of ninety-four feet and its
+arithmetic. Five people and a council with no clerk. A woman who keeps the pumps at the place that has
+none. A man who lays for three councils and has told this yard twice that an unmeasured thing is an
+unmade decision. A line ruled under two words on a wall in chalk that one place on the map cannot keep,
+and which nobody took off the sheet because it was inconvenient. A stone at the far end of the wall
+that came round to nine hundred with nothing on the end of it. A clerk who came two days up a lane and
+would not be argued with and was not thanked. A wall with nine hundred on it and nothing at the end.
