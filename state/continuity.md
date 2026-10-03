@@ -380,6 +380,26 @@ and which nobody took off the sheet because it was inconvenient. A stone at the 
 that came round to nine hundred with nothing on the end of it. A clerk who came two days up a lane and
 would not be argued with and was not thanked. A wall with nine hundred on it and nothing at the end.
 
+**AND WHAT THE REVIEW REPAIR PASS OF 2026-10-03 SETTLED IN THESE TEN MORNINGS, WHICH A SUCCESSOR MUST
+NOT HAVE TO RE-DERIVE.** **THE SPAN CAME UP THE LANE ON MONDAY THE TWELFTH, AT THE NINTH HOUR, AND NOT ON
+SATURDAY AND NOT ON A SUNDAY.** The card set places the bridge in the argument as arithmetic on the
+thirteenth morning of the volume and that is day nine hundred and twelve, a Monday, and
+`chapter-0699.md` puts the engineer's own sheet on the middle table at the ninth hour that morning, and
+**four pages had dated the same arrival to Saturday or to yesterday, including one that dated a copy
+sheet Corin Dace left on the step to a day he was not in this yard.** **THE TWO HALVES OF THE WINDOW
+ALTERNATE, SO EXACTLY ONE OF THEM MOVES ON EVERY MORNING, AND THEREFORE ON EVERY MORNING OF THIS VOLUME
+THE HALF THAT STOOD LAST MOVED THE DAY BEFORE.** Nine of these ten mornings carry the clause in some
+form and all nine now agree with that rule; six of the nine were wrong and named a day two or three back.
+
+**AND THREE DATES THAT THREE CHARACTERS NOW STAND BEHIND, WHICH A SUCCESSOR MAY RELY ON.** The sill
+came up at the third course at the sixth hour on **Wednesday the fourteenth**, and the sluice has been
+shut since that morning, which is where the silt that came in four feet deep came in. **The ring of bare
+ground was called an unmade decision by the mason from the third place at the gate on TUESDAY THE
+THIRTEENTH, and he has said so from that Tuesday and not from a Wednesday.** **Sera Quill said the two
+reckonings out loud on the tenth, the fourteenth and the eighteenth and gave the rest of what she says
+about them on the tenth, and she has said since the tenth that she stopped giving the rest, and that is
+the day she names and no other.**
+
 ---
 
 ## 10. What Volume 15's third ten mornings established, for the mornings behind them

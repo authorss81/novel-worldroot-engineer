@@ -58,7 +58,7 @@ She put her hand flat on the boards to count on and found she did not need to.
 
 She put her hand out flat, not touching anything.
 
-**"The sluice is shut two days. Two days is two mornings of the seventh hour in which nobody reads the gauge and nobody counts the pin, and the gauge does not care and the water does not care and the silt does care, because silt comes in whenever the sluice is shut and it came in four feet deep on Saturday and it will be closer to five by the time we have the stone back in."**
+**"The sluice is shut two days. Two days is two mornings of the seventh hour in which nobody reads the gauge and nobody counts the pin, and the gauge does not care and the water does not care and the silt does care, because silt comes in whenever the sluice is shut and it came in four feet deep on Wednesday and it will be closer to five by the time we have the stone back in."**
 
 She held up two fingers and then put them down again.
 

@@ -18,7 +18,7 @@ Somebody at the gate said that the water had got in from the far side.
 
 Then she did the arithmetic, and she did it fast, because it was before light and there was no time to be careful.
 
-**"We are four bodies on this face today and we were going to be four on the face and two on the sluice and me on the chain, and now we are all four on the face and the sluice is shut and the chain is not going anywhere this morning. So the third hour's work is not going to happen and it is going to happen tomorrow or it is not going to happen in this weather."**
+**"We are four bodies on this face today and we were going to be four on the face and two on the sluice and me on the chain, and now we are all four on the face and the sluice is shut and the chain is not going anywhere this morning. So the fifth hour's work is not going to happen and it is going to happen tomorrow or it is not going to happen in this weather."**
 
 She stood up and looked along the sill.
 
@@ -46,7 +46,7 @@ Sera Quill came up the middle road with the slate and put it on the boards and o
 
 Somebody at the gate said that she had said it every fourth-line morning for a week.
 
-**"I have said it for a week and I said it on Tuesday and I stopped saying it on Wednesday of last week and this is the first fourth-line morning since, and a yard does not get an explanation from me for free,"** she said, and closed the slate and carried it back down the middle road.
+**"I have said it for a week and I last said it on Saturday morning and I stopped saying the rest then, and a yard does not get an explanation from me for free,"** she said, and closed the slate and carried it back down the middle road.
 
 The mason from the third place read the stone at about the seventh hour, in the order of a man who has watched somebody do it four times and has counted the words.
 
@@ -98,7 +98,7 @@ He turned and looked down the wet sill.
 
 Hesta Lyle came out at about the seventh hour with her sheet squared and read it in the order of a woman who has been interrupted and is not going to say so.
 
-**"Four hundred and sixty-first under the line, four hundred and sixty-two at the head of it, four hundred and sixty-third over it, and the fourth not due. And a man came up this lane on Saturday with a line about a span and he has not been in my room and he is not going to be, and my sheet has three figures on it and a fourth that is not due and that is the whole of my sheet."**
+**"Four hundred and sixty-first under the line, four hundred and sixty-two at the head of it, four hundred and sixty-third over it, and the fourth not due. And a man came up this lane on Monday with a line about a span and he has not been in my room and he is not going to be, and my sheet has three figures on it and a fourth that is not due and that is the whole of my sheet."**
 
 Then the girl from the second place asked about the low board by the gate, and nobody had prepared for it and nobody answered her for about a minute and a half.
 

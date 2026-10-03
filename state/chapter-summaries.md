@@ -34,15 +34,19 @@ section nine.** Read this file whole. The archived layer at
 | 12 | 540 to 588 | 49 | 118,058 |
 | 13 | 589 to 637 | 49 | 91,321 |
 | **14** | 638 to 686 | **49** | 116,146 |
-| **15** | 687 to 735 | **30 of 49 written** | **75,615** |
+| **15** | 687 to 735 | **30 of 49 written** | **75,539** |
 | 16 | 736 to 780 | 0 | 0 |
 
-Titles are in `outline/volume-NN.md`. **716 files, 1,991,224 words.** Volumes 01 to 14 are closed.
+Titles are in `outline/volume-NN.md`. **716 files, 1,991,148 words.** Volumes 01 to 14 are closed.
 **Volume 15 is open at thirty mornings of forty-nine.** **THE TWO VOLUME 15 FIGURES AND THE MANUSCRIPT
 TOTAL WERE RE-DERIVED BY THE REVIEW-FIX PASS OF 2026-10-03 OVER BATCH 0003, WHICH FOUND THE VOLUME 15
 WORD FIGURE UNDERSTATED BY FORTY-ONE WORDS AND THE TOTAL BY THE SAME THIRTY-FOUR WORDS THE REPAIR ADDED
 TO ONE MORNING. THE MORNING COUNT OF THIRTY AND THE FILE COUNT OF SEVEN HUNDRED AND SIXTEEN WERE
-RE-DERIVED TOO AND BOTH STAND.**
+RE-DERIVED TOO AND BOTH STAND. THEY WERE RE-DERIVED A SECOND TIME BY THE REVIEW REPAIR PASS OF
+2026-10-03 OVER BATCH 0002, WHICH FOUND THAT EVERY FIGURE IN THIS PARAGRAPH AND IN THE TABLE ABOVE IT
+WAS BUILT ON A STALE BATCH 0002 FIGURE, AND THE THREE FIGURES THAT ARE WITHDRAWN BY NAME BELOW ARE
+28,128, 28,122 AND 75,615, AND THE EARLIER WITHDRAWAL OF 1,991,190 AND 1,991,224 IS ALSO WITHDRAWN
+AGAIN BECAUSE A FIGURE CANNOT BE WITHDRAWN AND REPUBLISHED IN THE SAME BREATH.**
 The word figure moves with every prose change and is measured per file with `len(text.split())`,
 never by concatenation. **The fourteen Volume 14 figures in this table, the Volume 13 figure and the
 manuscript total as it stood at 1,915,609 across 686 files were re-derived by the Volume 14 close on
@@ -285,11 +289,15 @@ terms and its third column, and the use log and the reason for the fifteen.**
 
 ## 7. Volume 15, mornings eleven to twenty, one line each
 
-**Batch 0002, days 910 to 919, files 697 to 706. Twenty-eight thousand one hundred and twenty-two
-words, per file 3,415, 2,765, 2,472, 2,681, 2,659, 2,971, 2,851, 2,723, 2,950 and 2,635. No morning
-restarted and no morning written twice; the writing pass of 2026-10-03 measured 28,128 and the
-verification pass of 2026-10-03 measured 28,122 after repairing three figure spellings and six
-standing blocks, and the difference of six words is the whole of that repair's cost. The successor is
+**Batch 0002, days 910 to 919, files 697 to 706. Twenty-eight thousand and fifty-two words, per file
+3,342, 2,767, 2,473, 2,685, 2,650, 2,971, 2,851, 2,725, 2,948 and 2,640, measured per file and never by
+concatenation. No morning restarted and no morning written twice. **THREE FIGURES FOR THIS ONE BATCH
+HAVE NOW STOOD IN THE STATE LAYER AND ALL THREE ARE NOW WITHDRAWN BY NAME: 28,128, printed by the
+writing pass and still standing in `state/current.md` at two places until this pass; 28,122, printed by
+the verification pass and still standing here and in the batch's own self-check; and the twenty-eight
+thousand and fifty-two words on the page.** The repairs that moved the figure were six weekday clauses
+in the window halves, five other dated or added defects, and a restatement cluster in `chapter-0697.md`,
+and the cost was seventy-six words. The successor is
 `workspace/volume-15/batch-0003/PROMPT.md`. Day 919 is not the closing morning of the volume and
 nothing in these ten mornings is written as one.**
 
@@ -474,9 +482,12 @@ are all untouched, and no figure of any series moved, and the chapter gained thi
 
 **THE THREE FIGURES THAT PROSE TOUCHED ARE NOW 23,214 FOR THE BATCH, 2,753 FOR THAT CHAPTER, 75,615 FOR
 THE VOLUME AND 1,991,224 FOR THE MANUSCRIPT, AND THE EARLIER FIGURES OF 23,173, 23,180, 2,719, 75,574
-AND 1,991,190 ARE WITHDRAWN BY NAME.** Both gates were re-run against the whole batch after the repair:
-**513 prose paragraphs of eight words or more, all distinct, and zero repeated eighteen-word windows
-inside the batch.** The nil still stands.
+AND 1,991,190 ARE WITHDRAWN BY NAME. THE TWO VOLUME FIGURES AND THE TOTAL IN THAT SENTENCE ARE
+THEMSELVES WITHDRAWN BY THE BATCH 0002 REPAIR PASS OF 2026-10-03, WHICH FOUND ALL THREE BUILT ON A
+STALE BATCH 0002 FIGURE, AND THE FIGURES THAT GOVERN ARE 23,214, 2,753, 75,539 AND 1,991,148. THE BATCH
+0003 FIGURES STOOD.** Both gates were re-run against the whole batch after that repair and again after
+the Batch 0002 repair: **zero repeated eighteen-word windows inside the batch on the sliding reading,
+and zero on the whole-paragraph reading.** The nil still stands.
 
 **FOUR THINGS THE REVIEW FOUND ABOUT THE CRAFT OF THIS BATCH WERE NOT REPAIRED IN THE CHAPTERS AND WERE
 PUT IN THE NEXT BATCH'S PROMPT INSTEAD, BECAUSE THEY ARE BATCH-WIDE AND A PER-CHAPTER REPAIR OF THEM WOULD

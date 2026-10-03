@@ -38,7 +38,7 @@ Harlan Vetch came down off the tool house end at about the seventh hour and read
 
 **"One thousand and three hundred and two hundredweight, and it came down five lighter because today is an odd morning. The four hundred and sixty-third of the run.**"
 
-**"Window four hundred and thirty. The half that fell in the night is the falling one, at two hundred and ten. The other half, two hundred and twenty, is where it has been since Friday morning and it will be there Monday morning."**
+**"Window four hundred and thirty. The half that fell in the night is the falling one, at two hundred and ten. The other half, two hundred and twenty, is where it has been since Monday morning and it will be a different figure before this time tomorrow."**
 
 He shifted the hod on his shoulder.
 

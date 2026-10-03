@@ -14,7 +14,7 @@ Then he said the thing he had come up that lane to say, which was that he was no
 
 The girl from the second place read the stone off the copy sheet with the pencil behind her ear, because Kellan Rusk was inside with the clerk and had left the door open and the copy sheet on the step.
 
-**"One thousand and three hundred and seven hundredweight, eight on, even morning,"** she said, **"and the four hundred and sixty-second of the run. The window is four hundred and twenty-nine. It went up, so two hundred and twenty of it is the half that moved and two hundred and nine of it is the half that has not moved since Friday. Boards: eight hundred and forty-six at the gate end, eight hundred and ninety-three at the far one, forty-seven between."**
+**"One thousand and three hundred and seven hundredweight, eight on, even morning,"** she said, **"and the four hundred and sixty-second of the run. The window is four hundred and twenty-nine. It went up, so two hundred and twenty of it is the half that moved and two hundred and nine of it is the half that has not moved since Sunday. Boards: eight hundred and forty-six at the gate end, eight hundred and ninety-three at the far one, forty-seven between."**
 
 She put the pencil back behind her ear and went and stood by the gate, and nobody thanked her, and nobody told her she had read it wrongly, and she had not.
 
@@ -68,7 +68,7 @@ She wiped the cloth down her arm.
 
 She turned the end sheet over with two fingers and left it face down.
 
-**"The youngest of those four is a hundred and fifty-nine days old and the letter this holding keeps by itself is a hundred and fifty-nine days old too, and for four years I have said those are two figures, and I am saying it again today because a span of ninety-four feet came up that lane yesterday and half this yard has started hunting for numbers that agree."**
+**"The youngest of those four is a hundred and fifty-nine days old and the letter this holding keeps by itself is a hundred and fifty-nine days old too, and for four years I have said those are two figures, and I am saying it again today because a span of ninety-four feet came up that lane this morning and half this yard has started hunting for numbers that agree."**
 
 The mason from the third place, who had been allowed to stand at the gate a week ago and watch a wall being laid and had not been allowed onto the sill, read the compost line off the board at the gate end without being asked, because he was standing in front of it.
 

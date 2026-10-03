@@ -22,11 +22,20 @@ detail behind those passes is at `workspace/volume-14/batch-0005/SELF-CHECK.md`,
 `reviews/state-archive-2026-10-02/`; measurements belong in `reviews/`, which no prompt reads. Read
 this file whole, and the other three whole.**
 
-Last rewritten 2026-10-03, by a verification pass over Volume 15 Batch 0002, **which was dispatched
-against a batch that was already written and did not rewrite a morning.** It found the batch's published
-nil on the sliding reading to be false, repaired three figure spellings and six standing blocks in seven
-mornings, withdrew two false claims from the batch's own self-check and from this file, moved no figure
-of any series, created no successor, and touched no controller file. Before that, by the review-fix pass
+Last rewritten 2026-10-03, by the **review repair pass over Volume 15 Batch 0002**, which wrote no new
+prose, restarted no morning, moved no figure of any series, created no successor and touched no
+controller file. **It found and paid fourteen findings: six weekday clauses in the window halves that
+named the wrong day on six mornings of nine, the sill called the third hour, an eighteenth morning
+called the fifteenth, the span's arrival dated to Saturday on four sites when the card set puts the
+bridge into the argument on the thirteenth morning, a character's claim to have stopped speaking on a
+morning two chapters show her speaking on, a within-speaker restatement cluster and a staging
+contradiction in `chapter-0697.md`, an addition in `chapter-0706.md` that did not add, and TWO STALE
+WORD FIGURES FOR ONE BATCH IN SIX PLACES.** Before that, by a verification pass over Volume 15 Batch
+0002, **which was itself dispatched against a batch that was already written and did not rewrite a
+morning.** It found the batch's published nil on the sliding reading to be false, repaired three figure
+spellings and six standing blocks in seven mornings, withdrew two false claims from the batch's own
+self-check and from this file, moved no figure of any series, created no successor, and touched no
+controller file. Before that, by the review-fix pass
 over Volume 15 Batch 0003, which wrote no new prose, touched one morning by one sentence, moved no figure
 of any series, created the batch's missing successor prompt, and touched no controller file. Before that,
 by the Volume 15 Batch 0003 writing pass, which wrote ten mornings including the volume's major turn,
@@ -44,9 +53,9 @@ re-derived rather than appended, so nothing in this file is an append-only resid
 |---|---|
 | **Last morning on disk** | day 929, `workspace/volume-15/batch-0003/chapter-0716.md` |
 | **Volume** | 15 of 16, *The Root Commons*, days 900 to 948, **thirty mornings written of forty-nine: the volume is open** |
-| **Manuscript** | 1,991,224 words across 716 chapter files; the per-volume table is at `state/chapter-summaries.md` |
+| **Manuscript** | 1,991,148 words across 716 chapter files, measured per file and never by concatenation; the per-volume table is at `state/chapter-summaries.md` |
 | **Volume 15 Batch 0003** | 23,214 words across ten files, 707 to 716, days 920 to 929, per file 2,712, 2,311, 1,932, 2,197, 2,460, 2,168, 2,298, 2,753, 1,980 and 2,403, **measured by the writing pass over this batch and re-measured by the review-fix pass of 2026-10-03, which added thirty-four words to `chapter-0714.md`; that chapter also holds the volume's major turn on day 927** |
-| **Volume 15 Batch 0002** | 28,128 words across ten files, 697 to 706, days 910 to 919, per file 3,432, 2,769, 2,476, 2,681, 2,657, 2,971, 2,841, 2,723, 2,950 and 2,628, **measured by the writing pass of 2026-10-03 over this batch** |
+| **Volume 15 Batch 0002** | 28,052 words across ten files, 697 to 706, days 910 to 919, per file 3,342, 2,767, 2,473, 2,685, 2,650, 2,971, 2,851, 2,725, 2,948 and 2,640, **measured per file by the review-repair pass of 2026-10-03 over this batch, which found this row and the section thirteen figure below it both printing the writing pass's 28,128 while the batch's own self-check and `state/chapter-summaries.md` printed a second and different stale 28,122, and which repaired six weekday clauses and eight other defects across eight of the ten mornings at a cost of seventy-six words** |
 | **Volume 15 Batch 0001** | 24,273 words across ten files, 687 to 696, days 900 to 909, per file 2,723, 2,269, 2,359, 2,456, 2,474, 2,121, 2,494, 2,385, 2,507 and 2,485, **re-measured by the review-fix pass of 2026-10-03 over this batch, which changed the writing pass's figures** |
 | **Volume 14 Batch 0005** | 24,440 words across nine files, 678 to 686, days 891 to 899, per file 2,771, 2,320, 2,096, 2,919, 2,482, 2,300, 2,653, 2,961 and 3,938 |
 
@@ -621,10 +630,14 @@ walked past on day 900 and read by nobody and offered to nobody.
 ## 13. Volume 15 Batch 0002, and the standings at day nine hundred and nineteen
 
 **TEN MORNINGS WRITTEN, DAYS 910 TO 919, FILES 697 TO 706, IN `workspace/volume-15/batch-0002/`.**
-Twenty-eight thousand one hundred and twenty-eight words, per file 3,432, 2,769, 2,476, 2,681, 2,657,
-2,971, 2,841, 2,723, 2,950 and 2,628. No morning was restarted and no morning was written twice.
-**The successor is `workspace/volume-15/batch-0003/PROMPT.md` and it is the only one this batch
-created.**
+Twenty-eight thousand and fifty-two words, per file 3,342, 2,767, 2,473, 2,685, 2,650, 2,971, 2,851,
+2,725, 2,948 and 2,640, measured per file and never by concatenation. No morning was restarted and no
+morning was written twice. **AND THE TWO FIGURES THAT STOOD HERE UNTIL THE REVIEW-REPAIR PASS OF
+2026-10-03 ARE BOTH WITHDRAWN BY NAME, AND THE THIRD THAT STOOD IN TWO OTHER FILES IS ALSO WITHDRAWN:
+this section printed the writing pass's twenty-eight thousand one hundred and twenty-eight, the batch's
+own self-check and `state/chapter-summaries.md` printed twenty-eight thousand one hundred and
+twenty-two, and neither is the figure on the page.** The successor is
+`workspace/volume-15/batch-0003/PROMPT.md` and it is the only one this batch created.
 
 **AND THE PROMPT'S OWN TOTAL OF ONE HUNDRED AND SIXTY DERIVED FIGURES IS WITHDRAWN BY NAME, AND THE
 FIGURE THAT GOVERNS IS ONE HUNDRED AND SIXTY-FIVE.** The prompt prints fourteen figures on every

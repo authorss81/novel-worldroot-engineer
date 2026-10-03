@@ -40,9 +40,9 @@ Perrin Dae put a folded sheet on the middle table and opened it and squared it w
 >
 > **Agreed.** We do not vote and we do not write.
 
-Emrys Dole read the two launders off the copy sheet that Corin Dace had left on the step on Saturday, standing at the gate with the other four behind him, and then Ismay Rooke read the rest, and neither of them made a thing of it.
+Emrys Dole read the two launders off the copy sheet that Corin Dace had left on the step on Monday, standing at the gate with the other four behind him, and then Ismay Rooke read the rest, and neither of them made a thing of it.
 
-**"Four hundred and sixty-sixth of the run,"** Emrys Dole said. **"One thousand and three hundred and thirteen hundredweight, eight on, because this is an even morning. The window is four hundred and thirty-three, rising half two hundred and twenty-two and falling half two hundred and eleven, and the upper one is the one that moved in the night because this is an even morning, and the lower one has stood since Tuesday."**
+**"Four hundred and sixty-sixth of the run,"** Emrys Dole said. **"One thousand and three hundred and thirteen hundredweight, eight on, because this is an even morning. The window is four hundred and thirty-three, rising half two hundred and twenty-two and falling half two hundred and eleven, and the upper one is the one that moved in the night because this is an even morning, and the lower one has stood since Thursday."**
 
 Then, before Ismay Rooke could take it, Emrys Dole said the rest himself.
 
@@ -94,7 +94,7 @@ The mason from the third place who had been reading figures off a stone all morn
 
 He turned the paper over in his hands and did not offer it to anybody in the yard.
 
-**"I said that from this gate on Wednesday and nobody asked me to. I am saying it again now that I am on a piece of paper, because a paper is a different place to say a thing from than a gate is."**
+**"I said that from this gate on Tuesday and nobody asked me to. I am saying it again now that I am on a piece of paper, because a paper is a different place to say a thing from than a gate is."**
 
 Then he said the other thing, and the yard heard the difference between the two.
 
@@ -128,7 +128,7 @@ At dusk the five of them went back up the middle road together and the paper wen
 
 The four sheets and the drawer were read out by the woman who owns them and the rest of the standing by the man who owns the rest of it, and neither of the two pretended that was a division anybody had agreed.
 
-**"Thirty-nine blanks. The rule under them open and empty at the thirty-ninth time. Five people came down a road today and it did not open, and a council of five wrote a list of themselves and it did not open, and a span of ninety-four feet came up that lane on Saturday and it did not open. Fifteen lines in the use log with a clean space above the fifteenth. The barrow at eleven. Seven sessions. Six ruled rows, and nobody has cut a seventh for a council. The two lower books, fifty-three and fifty-three."**
+**"Thirty-nine blanks. The rule under them open and empty at the thirty-ninth time. Five people came down a road today and it did not open, and a council of five wrote a list of themselves and it did not open, and a span of ninety-four feet came up that lane on Monday and it did not open. Fifteen lines in the use log with a clean space above the fifteenth. The barrow at eleven. Seven sessions. Six ruled rows, and nobody has cut a seventh for a council. The two lower books, fifty-three and fifty-three."**
 
 He went back in without a word.
 

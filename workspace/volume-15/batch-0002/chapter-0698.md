@@ -30,7 +30,7 @@ Somebody at the gate said that it belonged in the book.
 
 **"It does not belong in that book and I am not going to say that book is not a good book,"** she said. **"It belongs in a box, and I have a box, and there have been one in my own box for two years. If it goes up that lane it stops being my crew's hours and starts being a claim, and a claim gets argued with, and the first man who argues with it will not be the man who has to be on the sill at the fifth hour."**
 
-At about the ninth hour a boy came down the middle road from the fourth household with two signatures at the foot of the message and asked, as he had been asked to ask, what the four households were being asked for and in which month.
+At about the ninth hour a boy came down the middle road from one of the four households with two signatures at the foot of the message and asked, as he had been asked to ask, what the four households were being asked for and in which month.
 
 Odile Vray told him and told him the road.
 
@@ -56,7 +56,7 @@ A boy ran down the middle road at about the eleventh hour with the figures off t
 
 **"One thousand and two hundred and ninety-nine hundredweight, and it is five down on this morning because this morning is an odd one. That is the four hundred and sixty-first of the run.**"
 
-**"Now the window, which is four hundred and twenty-eight, and I will give you the halves the other way round from how I gave them yesterday. Two hundred and nine of it moved in the night and that is the falling half, and two hundred and nineteen of it has not moved since Friday, and that is the rising half. On an odd morning the lower one goes. I had that backwards twice this week and I am not going to be the man who keeps count."**
+**"Now the window, which is four hundred and twenty-eight, and I will give you the halves the other way round from how I gave them yesterday. Two hundred and nine of it moved in the night and that is the falling half, and two hundred and nineteen of it has not moved since Saturday, and that is the rising half. On an odd morning the lower one goes. I had that backwards twice this week and I am not going to be the man who keeps count."**
 
 She put the hand back on the sluice and the water went two inches and then an inch and then two.
 

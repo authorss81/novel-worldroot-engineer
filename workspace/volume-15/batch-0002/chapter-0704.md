@@ -124,7 +124,7 @@ Sera Quill wrote the two figures on the slate at the north end at about the seve
 
 **"Two hundred and four of three hundred and ninety-one,"** she said to the slate, and then she put the slate back on the boards.
 
-For about an hour there were three figures on one board in that yard, which has never happened in four years, and none of the three was read out.
+For about an hour there were three figures on one board in that yard, which has never happened in four years, and not one of the three was entered in anything.
 
 Then Renn Ashby came up the north row to fill a bucket at the trough and stopped, which he has not done in this yard since the first day after the days turned, and said one sentence to the boards and to nobody.
 

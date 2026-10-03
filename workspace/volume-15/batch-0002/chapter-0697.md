@@ -90,13 +90,13 @@ She put the pen cap back on and then took it off again.
 
 She set the pen down beside the sheet and left it there.
 
-She squared it against her hip.
+She put her hip against the edge of the table and waited.
 
-**"And two other places in this holding are empty this morning and I am going to say them in the order I would say them if nobody had asked me anything. There is a third column on the sheet of terms with lines ruled under it, and not one word over the top of those lines has ever been put better by anybody. Under two words on another sheet there are four ruled lines and every one of them is bare."**
+**"And I am not going to rule a fifth line under either of those two places, and I have wanted to since the day the days turned, and a woman who wants to rule a line under a blank is a woman who has stopped believing that the blank is the point."**
 
 She left her hand on the corner of the sheet while she said it.
 
-**"Three figures under a head of four hundred, the fourth not due, and a road is not a reason. A book came round off a shelf this morning and a book does not improve a heading."**
+**"Three figures under a head of four hundred and the fourth not due, and a book came round off a shelf this morning and a book does not improve a heading."**
 
 Then the thing that made the morning, which was not a figure and was not on anybody's sheet.
 
@@ -136,9 +136,7 @@ He went back inside with the book open in his hand.
 
 He put his thumb under the second line once more, out of nine years of habit.
 
-**"That is the whole of them and I have said them the same way every morning this month without once improving them. What I would ask of anybody in this yard is that they notice that not one of the three has the smallest thing to do with four households and a road."**
-
-Then, from the step, in the voice he uses when he has already said the thing he came out to say and is saying the other one:
+Then, from inside the doorway, in the voice he uses when he has already said the thing he came out to say and is saying the other one:
 
 **"Seven sessions in this holding's book and no eighth, and that has not moved in four years. Six ruled rows on the shelf, and nobody has cut a seventh for anything that came up this month, and a boy came up a road with a question instead of a sheet, which is not the same thing and is not a worse thing either."**
 
@@ -146,9 +144,9 @@ He looked out at the middle road and then back at the door.
 
 **"And a man on the north row whose figure is twenty-nine fetchings, which is a thing I go on saying because the figure is the standing and the standing is the only part of it I am certain of."**
 
-He looked out at the middle road.
+He said the rest of it with his thumb still under the second line, and nobody at the boards came to ask him for it again.
 
-**"And the man on the north row, whose figure is twenty-nine fetchings. He has not been fetched. Nothing has been asked of him at any hour today, and nothing has been asked of him about the book coming back off its shelf either, because a thing that turns up every ninth day is not a thing a man of seventy is asked about."**
+**"He has not been fetched. Nothing has been asked of him at any hour today, and nothing has been asked of him about the book coming back off its shelf either, because a thing that turns up every ninth day is not a thing a man of seventy is asked about."**
 
 Soren Rill walked the inside edge of the eleven acres at dusk with his hands behind his back, and stopped where he always stops, which is short of the ring by the width of a man, short of the ladder by a yard, and short of the low board by nothing at all.
 

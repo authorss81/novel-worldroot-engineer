@@ -16,7 +16,7 @@ She put her hand flat on the stone and left it there.
 
 Harlan Vetch was at the far end at about the ninth hour and said the other figures there without stopping, because he has forty minutes of wall and a hod.
 
-**"Eight hundred and fifty-three at the gate end, nine hundred at this end, and the top four courses are the only ones I have laid since Wednesday, and I laid them on Wednesday and Thursday and Friday and Saturday and Sunday, and that is not a round number of courses and I am not going to give it one."**
+**"Eight hundred and fifty-three at the gate end, nine hundred at this end, and the top four courses are the only ones I have laid since Wednesday, and I laid them on Wednesday and Thursday and Friday and Saturday and Sunday, and that is not a round number of mornings and I am not going to give it one."**
 
 He shifted the hod.
 
@@ -36,7 +36,7 @@ Somebody at the gate asked what it was worth.
 
 Odile Vray did the arithmetic out loud and against the boards with her hand, not on a sack, because it was not hers to write down.
 
-**"Sixteen bodies for twenty-two mornings, and nine of them are not coming. That is seven. And seven is two on the sill face and one on the sluice and one on the wall at the tool house end and me and the chain, and two on the sill face is half of what a sill face takes, so it is one and a half on the sill face and it is a broken day every day for twenty-two mornings."**
+**"Sixteen bodies for twenty-two mornings, and nine of them are not coming. That is seven. And seven is two on the sill face and one on the sluice and one on the gauge and one on the wall at the tool house end and me on the chain, and two on the sill face is half of what a sill face takes, so it is one and a half on the sill face and it is a broken day every day for twenty-two mornings."**
 
 She took her hand off the boards.
 
@@ -66,7 +66,7 @@ The girl from the second place walked down to the far end of the wall at about t
 
 **"One thousand and three hundred and eleven hundredweight, down five, odd morning. Four hundred and sixty-ninth of the run.**"
 
-**"Window four hundred and thirty-six. Two hundred and thirteen of it is the lower half and it fell in the night. Two hundred and twenty-three is the upper and it has not moved since Saturday. Near board eight hundred and fifty-three. Far board nine hundred. Forty-seven of masonry between them, and I am the first person to say that number today and I have said it four times this week."**
+**"Window four hundred and thirty-six. Two hundred and thirteen of it is the lower half and it fell in the night. Two hundred and twenty-three is the upper and it has not moved since Sunday. Near board eight hundred and fifty-three. Far board nine hundred. Forty-seven of masonry between them, and I am the first person to say that number today and I have said it four times this week."**
 
 The fourth place's man was standing at the near end and he listened to all of it without saying anything at all, which from him is a speech.
 

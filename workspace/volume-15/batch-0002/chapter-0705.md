@@ -10,7 +10,7 @@ Before he got to that, he read the stone, because he had been at this gate two d
 
 **"One thousand and three hundred and sixteen hundredweight, up eight, even morning. Four hundred and sixty-eighth of the run.**"
 
-**"Window four hundred and thirty-five. Two hundred and twelve of that is the half which has not moved since Friday. The other, two hundred and twenty-three, went in the night. On an even morning it is the upper half that goes, and I have that right now after getting it wrong twice this week, and I am a keeper of lime and timber and I do not know what I am doing at that stone."**
+**"Window four hundred and thirty-five. Two hundred and twelve of that is the half which has not moved since Saturday. The other, two hundred and twenty-three, went in the night. On an even morning it is the upper half that goes, and I have that right now after getting it wrong twice this week, and I am a keeper of lime and timber and I do not know what I am doing at that stone."**
 
 Hesta Lyle came out into the middle of it with her sheet under her arm and read three figures to five people and a yard.
 
@@ -92,7 +92,7 @@ Sera Quill came up the middle road with the slate and said two numbers and shut 
 
 Somebody said that she had stopped saying the other thing about the second one.
 
-**"I stopped on Wednesday of last week and I am not starting again because a council has come down a road,"** she said, and went back down the middle road.
+**"I stopped on Saturday morning and I am not starting again because a council has come down a road,"** she said, and went back down the middle road.
 
 The rotation came round at the seventh hour and the girl from the second place read it off the rack with Kellan Rusk standing inside the door and not coming out, because he had told her at the sixth hour that he would let her read it and had not said anything else about it.
 
@@ -154,6 +154,6 @@ He was quiet for a moment.
 
 He put his back to the door and stood there.
 
-**"And the row at the north end, and the man on it. Twenty-nine fetchings. Nobody has put a question to him at any hour today, nobody has fetched him, and he has not been part of one conversation this month. That is the fifteenth morning and there is a sixteenth tomorrow."**
+**"And the row at the north end, and the man on it. Twenty-nine fetchings. Nobody has put a question to him at any hour today, nobody has fetched him, and he has not been part of one conversation this month. That is the eighteenth morning and there is a nineteenth tomorrow."**
 
 The five of them went back up the middle road and the arithmetic went with them and this holding has one copy of nothing, and the council had said that it would come back and say what it costs, and nobody in that yard thanked any of them for anything, and the yard went on working.

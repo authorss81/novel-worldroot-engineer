@@ -375,12 +375,13 @@ with her.**
 
 ---
 
-## 8. Three findings of the Volume 15 Batch 0002 pass, named here so that a successor inherits them as findings
+## 8. Six findings of the Volume 15 Batch 0002 passes, named here so that a successor inherits them as findings
 
-**THE THIRD WAS FOUND BY THE VERIFICATION PASS OF 2026-10-03 AND THE FIRST TWO WERE NOT REPAIRED BECAUSE
-NEITHER IS OURS TO REPAIR. THE THIRD IS REPAIRED IN THE MORNINGS AND WHAT FOLLOWS IS THE RECORD.** The
-first is an arithmetic error in a prompt that has already been superseded and corrected on its own face.
-The second is in a completed phase's card set that no writing phase may edit.
+**THE FIRST THREE ARE INHERITED AND THE LAST THREE ARE NEW. THE REVIEW REPAIR PASS OF 2026-10-03 ADDED
+FOUR TO THIS LIST AND PAID THEM ALL. The first is an arithmetic error in a prompt that has already been
+superseded and corrected on its own face. The second is in a completed phase's card set that no writing
+phase may edit. The third is repaired in the mornings. The fourth, fifth and sixth were found by the
+review repair pass and are named here because the classes are the ones a successor will meet first.**
 
 1. **THE FIGURE-CHECK TOTAL IN THE PROMPT THAT GENERATED THIS BATCH WAS ONE HUNDRED AND SIXTY AND THE TRUE
    TOTAL WAS ONE HUNDRED AND SIXTY-FIVE.** The prompt printed fourteen figures on every morning, two more
@@ -414,6 +415,40 @@ The second is in a completed phase's card set that no writing phase may edit.
    that ruled line on day 906, and a document's clause is not a clerk's standing block.** **A SUCCESSOR
    THAT FINDS THOSE THREE SHOULD LEAVE THEM AND SAY WHY, AND A SUCCESSOR THAT FINDS A SLIDING COUNT IT
    DID NOT EXPECT SHOULD GO AND READ THE PARAGRAPH BEFORE IT REACHES FOR THE NORMALISER.**
+4. **THE BOTH GATES ARE NIL AND A CHAPTER CAN STILL SAY THE SAME STANDING ITEM TWICE BY ONE SPEAKER, AND
+   THIS IS THE LIMIT OF THE APPARATUS AND IT IS NOT FIXABLE BY RUNNING IT AGAIN.** On day 910 a woman with
+   four things and one of them late gave the third column ruled and empty and the four ruled lines under two
+   words bare, and gave them again six lines later in different words, and gave the aggregate and *a road
+   is not a reason* twice in the same morning; a bookkeeper gave the three derived ages and the request
+   that nobody notice they have nothing to do with four households and a road **in the same construction
+   twice**, gave the twenty-nine fetchings twice, and looked out at the middle road twice. **THE SIX PAIRS
+   MEASURED 0.098 TO 0.717 ON THE FIRST GATE AND PRODUCED NO SHAPE ON EITHER READING OF THE SECOND, BECAUSE
+   A RESTATEMENT IN DIFFERENT WORDS SHARES NO EIGHTEEN-WORD RUN.** All of it is repaired. **A SUCCESSOR
+   THAT WANTS THE APPARATUS TO CATCH THIS CLASS HAS TO COUNT A STANDING BLOCK'S OCCURRENCES INSIDE ONE
+   MORNING AND BY ONE SPEAKER, WHICH NEITHER GATE NOR THE EXACT-DUPLICATE SWEEP DOES, AND THE CHEAPEST
+   STANDING PROXY IS: FOR EVERY SPEAKER IN A MORNING, LIST THE STANDING BLOCKS AND CHECK THAT NONE APPEARS
+   TWICE.**
+5. **A CHARACTER'S CLAIM ABOUT WHEN SHE LAST SPOKE CAN BE CONTRADICTED BY HER OWN PAGE TWO CHAPTERS
+   EARLIER, AND NO FIGURE CHECK WILL SEE IT BECAUSE A BEAT IS NOT A FIGURE OF ANY SERIES.** She said on day
+   914 that she had stopped saying the rest of it on a Wednesday of the previous week and that the morning
+   was the first fourth-line morning since, and on day 918 that she had stopped on the same Wednesday. **She
+   says the two reckonings on days 910, 914 and 918, and on day 910 she gives the rest of it as well, so
+   both claims are false and the fourth-line mornings are at days congruent to two modulo four and the day
+   she names is not one of them.** **THE FIXTURE IS THE ROTATION ITSELF: THE TWELVE FOURTH-LINE MORNINGS
+   ARE DAY TWO MODULO FOUR, AND ANY CHARACTER WHO CLAIMS TO HAVE SAID SOMETHING ON ONE OF THEM CAN BE CHECKED
+   AGAINST THAT SINGLE CONGRUENCE.**
+6. **THREE WORD FIGURES FOR ONE BATCH STOOD IN THE STATE LAYER AT ONCE AND NONE OF THEM WAS THE FIGURE ON
+   THE PAGE.** The writing pass published 28,128 and that figure was still standing in `state/current.md` at
+   two places, including the manuscript total built on it, after the verification pass had published 28,122
+   and corrected the same batch; the verification pass's 28,122 was standing in `state/chapter-summaries.md`
+   and in the batch's own `SELF-CHECK.md`. **The two figures disagreed with each other, which is the
+   condition a reader is told to distrust, and here it was the true state: they were two snapshots of one
+   batch at two different moments and the newer one was itself already out of date by the third.** **THE
+   RULE THIS REPO ALREADY HAS AND DID NOT APPLY IS THE ONE IN `reviews/README.md`: MEASURE PER FILE AND
+   NEVER BY CONCATENATION, AND RE-MEASURE AFTER THE PROSE MOVES.** All three are now withdrawn by name and
+   the figures that govern are 28,052 for the batch, 75,539 for the volume and 1,991,148 for the
+   manuscript, all measured per file. **A SUCCESSOR THAT FINDS A FIGURE QUOTED IN THREE FILES MUST
+   RE-MEASURE IT AND MUST NOT TRUST THAT TWO FILES AGREEING IS CORROBORATION.**
 
 ---
 
