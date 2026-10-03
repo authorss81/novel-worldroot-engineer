@@ -34,11 +34,15 @@ section nine.** Read this file whole. The archived layer at
 | 12 | 540 to 588 | 49 | 118,058 |
 | 13 | 589 to 637 | 49 | 91,321 |
 | **14** | 638 to 686 | **49** | 116,146 |
-| **15** | 687 to 735 | **30 of 49 written** | **75,539** |
+| **15** | 687 to 735 | **30 of 49 written** | **75,530** |
 | 16 | 736 to 780 | 0 | 0 |
 
-Titles are in `outline/volume-NN.md`. **716 files, 1,991,148 words.** Volumes 01 to 14 are closed.
-**Volume 15 is open at thirty mornings of forty-nine.** **THE TWO VOLUME 15 FIGURES AND THE MANUSCRIPT
+Titles are in `outline/volume-NN.md`. **716 files, 1,991,139 words.** Volumes 01 to 14 are closed.
+**Volume 15 is open at thirty mornings of forty-nine.** **THE VOLUME 15 FIGURE AND THE MANUSCRIPT TOTAL
+WERE RE-DERIVED PER FILE BY THE VERIFICATION PASS OF 2026-10-03 OVER BATCH 0003, WHICH SPENT NINE WORDS
+REPAIRING TWELVE DATE, COUNT AND SPELLING DEFECTS ACROSS SIX MORNINGS AND WITHDRAWS 75,539 AND
+1,991,148 BY NAME; 23,205 IS THE BATCH FIGURE AND THE PER-FILE FIGURES ARE 2,706, 2,311, 1,932, 2,196,
+2,458, 2,168, 2,298, 2,753, 1,980 AND 2,403.** **THE TWO VOLUME 15 FIGURES AND THE MANUSCRIPT
 TOTAL WERE RE-DERIVED BY THE REVIEW-FIX PASS OF 2026-10-03 OVER BATCH 0003, WHICH FOUND THE VOLUME 15
 WORD FIGURE UNDERSTATED BY FORTY-ONE WORDS AND THE TOTAL BY THE SAME THIRTY-FOUR WORDS THE REPAIR ADDED
 TO ONE MORNING. THE MORNING COUNT OF THIRTY AND THE FILE COUNT OF SEVEN HUNDRED AND SIXTEEN WERE
@@ -515,3 +519,74 @@ days 920 to 929 at mornings thirty-one to forty instead of twenty-one to thirty.
 its duplicate-paragraph nil, its eighteen-word-window nil and its parity checks were all reproduced and
 all stand. **THE ONE FINDING OF ITS THAT WAS NEW AND WAS RIGHT IS THE CRAFT ONE, AND THAT IS THE ONE
 THAT HAS BEEN ACTED ON.**
+
+---
+
+## 10. The verification pass over Batch 0003, and what it changed in these ten mornings
+
+**THIS PASS WROTE NO NEW MORNING AND RESTARTED NO MORNING. IT TOUCHED SIX OF THE TEN ON DATES, COUNTS AND
+ONE SPELLING, SPENT NINE WORDS, AND MOVED NO FIGURE OF ANY SERIES. THE SUMMARIES IN SECTION EIGHT ABOVE
+STAND AS WRITTEN AND EVERY BEAT THEY NAME IS STILL ON THE PAGE.**
+
+**THE THINGS A SUCCESSOR NEEDS FROM THESE TEN MORNINGS, IN ONE PLACE, WITH THE DATES FIXED.**
+
+- **920, Tuesday the twentieth.** The far board takes a tail again at nine hundred and one and nobody in
+  the yard treats it as an event. **The round figure came round on Monday the nineteenth.** A standing is
+  counted in a doorway with a pencil and comes to three things, and a fourth line is written and rubbed
+  out in front of nine people, **because a Thursday is not a standing** — that is day 916, and the walk
+  with the lamp cost two hours of it. A reader from the second place reads the stones aloud to a woman
+  who keeps pumps at a place that has none and is told not to thank her.
+- **921, Wednesday the twenty-first.** **A fall on an odd morning**, the halves given the wrong way up by
+  a man on a wall and corrected by a woman with a can, twice in a week. The season's water is named as
+  water and not as weather: four thousand one hundred and one cans filled by hand since the spring, and
+  no date for it, on the middle table and not the long one.
+- **922, Thursday the twenty-second.** The five sit behind a shut door from before light until after dark
+  and **the decision is reached and not announced.** The sixth of the twelve fourth-line mornings: a
+  hundred and fifty-seven in force, twenty-nine taken, one hundred and twenty-eight not, and one hundred
+  and fifth against ninety-second, the second of the two carried and not published. **The door opens
+  after dark and nobody in this yard learns anything.**
+- **923, Friday the twenty-third.** The last morning on which an order could still go up that road and
+  come back down as stone, and the order does not go, **and the card for it goes up the middle road at the
+  eighth hour of the evening with nothing in the bed of the cart.** A man at the gate says he would put a
+  body on that crossing himself and says he knows it would not help. **Nine is not coming, so seven.**
+- **924, Saturday the twenty-fourth.** The council's notice on the council's own paper, in five hands,
+  correct in every particular, asking for nothing and not to be entered anywhere, naming an hour, a gate
+  and a morning by counting forward from the morning it was written on. **A block falls here.**
+- **925, Sunday the twenty-fifth.** Three of the five come up the middle road and say out loud what
+  refusing costs, in the council's own mouth and before the refusal lands: a neighbour, a season, a face
+  that is not a punishment. **A man at the gate is stopped by a woman with a barrow before he finishes
+  the first four words of a thank you.** The boy who carries water writes the read-aloud pair badly on
+  the north board.
+- **926, Monday the twenty-sixth.** The council has decided and the yard does not know. Three men go four
+  miles with shovels and come back with an empty barrow, **the fourth day of that and the third worth
+  it.** The seventh of the twelve fourth-line mornings: a hundred and fifty-eight in force, twenty-nine
+  taken, one hundred and twenty-nine not, and one hundred and sixth against ninety-third.
+- **927, Tuesday the twenty-seventh.** **The volume's major turn, and it is a refusal.** Five people say
+  out loud at the sixth hour at that gate that they will not have the bridge, with no date on it and no
+  vote, and they name the price before and again afterwards and neither time soften it. The engineer of
+  record says the span is wanted and by him, that the gauge will go on being read a foot out from the
+  near bank, and that the span would not have survived a flood, and says the flood finding is his own.
+  **Nobody thanks the five and two people who began to are stopped. Seven bodies lay the sill at a
+  quarter past seven. No block falls on this morning and no field is taken and nobody is asked to
+  choose anything.**
+- **928, Wednesday the twenty-eighth.** **A return falls and moves nothing.** Four lines and three
+  signatures come **down** the middle road in the girl from the second place's own mouth: four women on a
+  sill for money, one man with a barrow for money, and one person who moved up a road and has not gone
+  back. **The refusal is neither defended nor attacked in this yard and a man who begins to attack the
+  second place is answered by the second place.**
+- **929, Thursday the twenty-ninth.** Maintenance work going on inside the cost, on the crossings that
+  exist, and four terms written in four hands by the people who will do the work, with five short lines
+  ruled at the foot and nothing in any of them. **The engineer of record brings a schedule with four
+  hours under it, refuses to put his name at the top of it, and says the two objects on that table are
+  two objects. A mason from the third place puts his hand flat on the paper, does not sign, and says one
+  true thing about a branch.** A block falls here.
+
+**AND THE MEASUREMENTS THAT GO WITH THEM, WHICH THE FIGURES IN SECTION TEN ABOVE DO NOT CARRY.** Both
+gates return nil against these ten mornings on both readings in every scope that includes them, and no
+repeated shape in the widest scope touches them. The first gate returns zero ordered pairs on these ten
+mornings, on these ten with the ten behind, and on these ten with the twenty behind; **and the comfort
+line is twenty words against that gate's floor of thirty, so a clean first gate is not evidence about
+either locked figure.** The whole-volume exact-duplicate paragraph sweep returns five repeated paragraphs
+inside Volume 15 and all five are two-word gestures in Batch 0001. The sixteen-line token sweep inside
+this batch returns five runs at six tokens or more and none at eight. **Two blocks fall here, on days 924
+and 929, against a volume ceiling of thirty, and no `Entered` label is used.** The batch is 23,205 words.

@@ -18,7 +18,7 @@ The yard had heard him and the yard said nothing, and a woman carrying a barrow 
 
 Odile Vray gave the window to nobody who had asked her for it and she gave it at the boards while she was cutting the day into four, which she does before light with a stick of charcoal on the back of a seed sack and not on anything that belongs to anybody.
 
-**"Two hundred and twenty-four of the upper half, and two hundred and thirteen of the lower, and four hundred and thirty-seven of it altogether, and I have given them to you in the order I care about them, which is the one that moved this morning first, and the upper one has not shifted since Friday because the upper one only moves on the even mornings and this is one of them."**
+**"Two hundred and twenty-four of the upper half, and two hundred and thirteen of the lower, and four hundred and thirty-seven of it altogether, and I have given them to you in the order I care about them, which is the one that moved this morning first, and the upper one has not shifted since Sunday because the upper one only moves on the even mornings and this is one of them."**
 
 She put the charcoal down and picked up the trowel.
 
@@ -94,7 +94,7 @@ Kellan Rusk came out of the one room at about the sixth hour and gave two things
 
 He put the book down on the step where anybody could see it and did not open it.
 
-**"Four days ago there was a stone on this wall that came round to a round figure, and yesterday a place four miles off said no to nine bodies, and this morning a woman in a doorway took a fourth line off her own sheet. Not one of those three things went into that room. If I stand in that doorway and read six more figures at the people in it, then in a month somebody will say that the holding's own record heard about them, and it will not have heard about them, and I will have made the lie myself and it will have been done in my own voice."**
+**"Yesterday a stone on this wall came round to a round figure and a place four miles off said no to nine bodies, and this morning a woman in a doorway took a fourth line off her own sheet. Not one of those three things went into that room. If I stand in that doorway and read six more figures at the people in it, then in a month somebody will say that the holding's own record heard about them, and it will not have heard about them, and I will have made the lie myself and it will have been done in my own voice."**
 
 He left the book on the step and went and sat down beside it.
 

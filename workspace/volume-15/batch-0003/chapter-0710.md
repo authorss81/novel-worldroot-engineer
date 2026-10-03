@@ -14,7 +14,7 @@ She drew the line under the third load and left her hand on it.
 
 Perrin Dae, who keeps the lime and the timber at the fourth place and had come up the middle road with the other four and gone home again and come back, said the other half of it and said it in the voice of a man pricing timber.
 
-**"She has it right and she has it right for the wrong reason, which is usual. I have sent stone down that road eleven times and I have never once had a cart turn round at the top of it because a yard was slow, and if this yard wants three cartloads a morning after this one then somebody in this yard is going to have to have ordered them yesterday, and yesterday was Tuesday, and today is Friday."**
+**"She has it right and she has it right for the wrong reason, which is usual. I have sent stone down that road eleven times and I have never once had a cart turn round at the top of it because a yard was slow, and if this yard wants three cartloads a morning after this one then somebody in this yard is going to have to have ordered them yesterday, and yesterday was Thursday, and today is Friday."**
 
 Odile Vray said the whole of what the span would have cost this month, in the figures of the people who would have done it, and she said it without any temper in it at all, which several people in that yard had not expected.
 
@@ -90,7 +90,7 @@ The girl from the second place walked the north row on her way out and stopped a
 
 Nia Vale said the two that are hers on her way in and then stopped, which she has not done.
 
-**"The key was on its nail at the sixth hour and the drawer was shut and there is nothing in it. And the four sheets on that table are four, none entered, none refused, no column cut under any of them, and there is a sheet with three lines and a rubbed out fourth on it on the middle table and a sheet with four thousand and one hundred and one on it on the middle table, and both of those are this holding's own business and neither one of them is going on the long table."**
+**"The key was on its nail at the sixth hour and the drawer was shut and there is nothing in it. And the four sheets on that table are four, none entered, none refused, no column cut under any of them, and there is a sheet with three lines and a rubbed out fourth on it on the middle table and a sheet with four thousand one hundred and one on it on the middle table, and both of those are this holding's own business and neither one of them is going on the long table."**
 
 She put her hand flat on the end sheet and did not touch it.
 

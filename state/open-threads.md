@@ -637,3 +637,38 @@ catches the first is now in the mechanical list at `state/current.md` and at sec
 batch-0004 prompt, and the warning about the second is at section seven of that prompt. **A REVIEW THAT
 MOVES A FINDING INTO A FILE THAT ALREADY GOVERNS IT HAS NOT FOUND A GAP IN THE FILE; IT HAS FOUND A GAP
 IN THE SWEEP, AND THE SWEEP IS WHERE THE FIX GOES.**
+
+---
+
+## What the verification pass over Volume 15 Batch 0003 left open, and the one item it declined to repair
+
+**THE THIRTY-FIVE ARE THIRTY-FIVE IN AND THIRTY-FIVE OUT ACROSS THOSE TEN MORNINGS AND ACROSS THIS PASS
+AS WELL.** The pass advanced none of them to a figure, answered none, closed none, grouped none and summed
+none, and a refusal is still not a closure and a corrected weekday is not an answer to anything. **The
+four threads the batches behind advanced were advanced once more and are closed by nobody.**
+
+**ONE ITEM WAS FOUND AND WAS DELIBERATELY NOT REPAIRED, AND IT IS HANDED ON RATHER than dropped.**
+`chapter-0709.md` has a mason from the third place say, on day 922, *I have been in this yard two
+mornings*, and three pages in this batch and one in the batch behind put him in this yard on more
+mornings than that: he stands at the gate end of the wall on day 920 and `chapter-0707.md` calls that the
+fourth morning he has stood there, he is behind a shut door in this yard on day 917 in `chapter-0704.md`,
+he is in it again on day 925 in `chapter-0712.md` and he comes down the middle road on day 926 in
+`chapter-0713.md`. **IT WAS NOT REPAIRED BECAUSE NO RULE AND NO CARD FIXES HOW MANY MORNINGS HE HAS BEEN
+IN THIS YARD, BECAUSE THE FIGURE IS A CHARACTER'S OWN SELF-DESCRIPTION RATHER THAN A FIGURE OF ANY
+SERIES, AND BECAUSE A PASS THAT REPAIRS WHAT IT CANNOT MEASURE REPAIRS THE MANNER IN WHICH IT MEASURES.**
+**A SUCCESSOR MAY LEAVE IT. A SUCCESSOR MAY ALSO CUT THE CLAIM RATHER THAN THE FIGURE, since the
+sentence that carries it also carries his two best lines, and the two are separable.**
+
+**AND THE FOUR WEEKDAY REFERENCES THIS PASS FOUND CORRECT ARE A TRAP AND ARE NAMED AS ONE.**
+`chapter-0713.md`, `chapter-0714.md` and `chapter-0715.md` refer nine times to a Saturday. **Five of the
+nine were wrong and were repaired; four are right, because day 917 and day 910 were both Saturdays and
+both are on the page in the batch behind.** A mechanical sweep that repairs every weekday word it finds
+in this batch will damage four sound references, and the tick that separates them is not the word but the
+day: **read the card set for the day the sentence is on, not the sentence.**
+
+**AND NOTHING NEW WAS OPENED.** No final enemy was named and none was previewed, no fifth permanent loss
+was added for anybody, no existing loss was reduced or recovered or re-named or priced, and the second
+place is still without water and is still not described as temporary and is still not apportioned. **THE
+ARRANGEMENT OF PEOPLE WHO MAY LET GO IS STILL NOT NAMED, IS STILL NOT AVAILABLE IN BODY PROSE, AND THE
+MORNING THE COUNCIL REFUSED IS STILL NOT PERMITTED TO USE IT AS THE ARGUMENT FOR THE REFUSAL, WHICH THE
+TEN MORNINGS BEHIND THIS PASS STILL DO NOT.**

@@ -502,3 +502,65 @@ with no name at the foot. Four thousand one hundred and one cans. A notice in fi
 in every particular. A refusal with no date on it. A haulage arrangement that has not begun because the
 fourth place has not yet looked at its own road. A face that is not a punishment. A woman with a barrow
 who has not gone back. Four terms and five empty lines and a schedule with no name at the top of it.
+
+---
+
+## 11. What the verification pass over Volume 15's third ten mornings changed, and what it left standing
+
+**NO MORNING WAS RESTARTED, NO FIGURE OF ANY SERIES MOVED, NO THREAD WAS ANSWERED OR CLOSED, AND THE
+BRIDGE IS STILL REFUSED.** The pass was dispatched against the batch-0003 prompt against a batch that was
+already written, and it verified rather than rewrote. **The refusal, its price, the two things the five
+will do instead, the engineer of record's answer, the woman with eleven gallons a day and the seven on the
+sill are all exactly as section ten of this file records them, and the cost of the refusal is still a
+neighbour, a season's water and a face, and the face is still Auret Sill's own and still not a punishment.**
+
+**WHAT THE TWELVE REPAIRS DID TO THE RECORD ARE DATES, AND FOUR OF THEM WERE BEING CARRIED BY CHARACTERS
+WHO SPEAK ABOUT THEM AFTERWARDS.**
+
+- **The far board's round figure is dated once and now carries one date.** It read eight hundred and
+  ninety-nine on Sunday the eighteenth and nine hundred on Monday the nineteenth, and `chapter-0706.md`
+  says so in its own mouth. `chapter-0707.md` had it four days back and `chapter-0715.md` had it three
+  days back; both now say **the day before it stands nearest, and nine days**, which is Monday the
+  nineteenth in both cases. **A successor that needs the date of the round figure wants Monday the
+  nineteenth and not any other.**
+
+- **The five's deciding sitting is dated once and now carries one date.** It is **Thursday the
+  twenty-second**, behind a shut door in the tool house from before light until after dark, which is
+  `chapter-0709.md`, and the card set says the decision is reached on that morning. `chapter-0713.md` had
+  it on Saturday in its heading and in its body and now says Thursday in both. **THE SATURDAY OF DAY 917
+  IS A DIFFERENT SATURDAY AND IS NOT WITHDRAWN: on that one the engineer of record was heard behind a
+  shut door in this yard, and `chapter-0704.md` has it, and `chapter-0713.md`, `chapter-0714.md` and
+  `chapter-0715.md` all still refer to it correctly. THE SATURDAY OF DAY 910 IS ALSO STANDING, being the
+  evening a man announced at dusk that he had two things he was keeping back, which is
+  `chapter-0697.md`, and `chapter-0714.md` still refers to it correctly.** A successor that sweeps the
+  word *Saturday* across this batch will find nine and **four of the nine are correct and five were not.**
+
+- **The window halves are dated once and now carry the weekday of the half's last move.** The rising
+  half last moved before day 920 on **Sunday the eighteenth** and the falling half last moved before day
+  924 on **Friday the twenty-third**. `chapter-0707.md` and `chapter-0711.md` had both wrong in the way
+  the batch behind's `chapter-0702.md` and `chapter-0703.md` fix the house phrasing, and both now agree
+  with them.
+
+- **The card for the cartloads went up on Friday the twenty-third at the eighth hour of the evening**,
+  which is how `chapter-0710.md` closes its morning, and `chapter-0711.md` now says so instead of
+  dating it into a future that had already gone.
+
+- **The fourth line was rubbed off Nia Vale's own sheet on Tuesday the twentieth**, in this yard, in a
+  doorway with nine people in it, and `chapter-0712.md` now says Tuesday.
+
+- **The girl from the second place's count of her own mornings in this yard is now fourteen, fifteen,
+  sixteen and seventeen on days 923, 924, 925 and 926**, which puts her arrival at day 910 and holds the
+  run the three earlier mornings had already established. **She is the reader of the read-aloud pair and
+  of the fourth-line figure in force, and both of those were correct and neither moved.**
+
+- **The season's water is four thousand one hundred and one cans and is printed in that spelling
+  everywhere in this batch**, as `chapter-0708.md` and `chapter-0714.md` had it.
+
+**AND THE THINGS THAT CAME INTO THE HOLDING ON THESE TEN MORNINGS ARE UNCHANGED AND STILL WILL NOT
+LEAVE.** Three lines and a rubbed-out fourth with no name at the foot. Four thousand one hundred and one
+cans. A notice in five hands that is correct in every particular. A refusal with no date on it. A haulage
+arrangement that has not begun. A face that is not a punishment. A woman with a barrow who has not gone
+back. Four terms and five empty lines and a schedule with no name at the top of it. **And the next
+in-between morning for either locked figure in the whole volume is the thirty-third, being day nine
+hundred and thirty-two, and the one after it the forty-fifth, and both are in `batch-0004`, so nothing
+about the locked sentences changed and nothing about them is inherited as spent.**

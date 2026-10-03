@@ -46,7 +46,7 @@ Odile Vray said it instead, at the boards, in the plainest words she could find.
 
 She knocked her knuckle twice on the boards.
 
-**"And I will say the part that is mine and not the bookkeeper's. Three days ago a stone on this wall came round to a round figure and did not open that rule. Yesterday five people said no at that gate and it did not open that rule. And this morning a woman stood at these boards and read four lines off her own place to forty people and it did not open that rule."**
+**"And I will say the part that is mine and not the bookkeeper's. Nine days ago a stone on this wall came round to a round figure and did not open that rule. Yesterday five people said no at that gate and it did not open that rule. And this morning a woman stood at these boards and read four lines off her own place to forty people and it did not open that rule."**
 
 She drew her hand back down her apron.
 

@@ -294,3 +294,78 @@ to be softened to make the prose easier.** The review also reported these ten mo
 thirty-one to forty, which is wrong by ten at both ends: **day 900 is this volume's first morning, day
 920 is its twenty-first and day 929 is its thirtieth.** Its figure checks, its duplicate-paragraph nil,
 its eighteen-word-window nil and its parity checks were reproduced and all stand.
+---
+
+## 9. A LATER PASS DISPATCHED AGAINST THIS BATCH AGAIN, 2026-10-03, and what it did instead of writing
+
+**THIS BATCH WAS RE-DISPATCHED AFTER IT WAS ALREADY WRITTEN, REVIEWED AND REPAIRED, AND THE PASS THAT
+RECEIVED IT RESTARTED NO MORNING.** Ten mornings, `chapter-0707.md` to `chapter-0716.md`, days 920 to 929,
+were on disk, with this file and with `workspace/volume-15/batch-0004/PROMPT.md`, before that pass began.
+The prompt it carried stated that the last morning on disk was `chapter-0706.md` and is day 919, and
+named `chapter-0715.md` as its tenth morning and as day 929, which is its own arithmetic wrong by one
+because seven hundred and six plus nine is seven hundred and sixteen. **BOTH FIGURES IN THAT PROMPT ARE
+WITHDRAWN BY NAME AND THE PAGE ON DISK GOVERNS.** The controller-owned markers in this directory were not
+forged, moved or deleted.
+
+**What the pass did instead of writing: it re-derived all one hundred and sixty figures and found all one
+hundred and sixty on their own morning in the house spelling with zero failures; it re-ran both gates on
+the sliding reading and beside it the first gate; it ran the two sweeps the gates do not run; it ran every
+mechanical sweep; and it found and paid twelve defects in six mornings.** The word figures in sections one
+and below are therefore **withdrawn and re-measured, and the figures that govern are 23,205 for the batch
+and per file 2,706, 2,311, 1,932, 2,196, 2,458, 2,168, 2,298, 2,753, 1,980 and 2,403.** The thirty-four
+words the review-fix pass added to `chapter-0714.md` stand untouched, and no figure of any series moved.
+
+**THE TWELVE, ALL DATES, COUNTS OR SPELLINGS.** A window half dated Friday where the rising half last
+moved on Sunday the eighteenth. The round figure at the far board dated four days back on day 920 and three
+days back on day 928, where it came round on Monday the nineteenth. Day 922 called a Tuesday. A yesterday
+called a Tuesday. The season's water printed *four thousand and one hundred and one*. A card dated into a
+future that had already gone. A window half attributed to the upper half on a morning whose own preceding
+paragraph had said the upper half moved, where the true half and the true day are the lower and Friday the
+twenty-third. A fourth line dated to Friday where it was rubbed off on Tuesday the twentieth. A deciding
+sitting dated to Saturday in a heading and in a body, where the card set at card twenty-three puts it on
+Thursday the twenty-second. A count of days in a yard that broke a run of fourteen, fifteen, sixteen.
+
+**AND THE FINDING THAT IS WORTH MORE THAN ANY OF THE TWELVE, WHICH IS THAT FOUR OF THE WEEKDAY WORDS IN
+THIS BATCH ARE RIGHT AND MUST NOT BE TOUCHED.** **Day 917 was a Saturday and the engineer of record was
+heard behind a shut door in this yard that morning, which is `chapter-0704.md` in the batch behind, and
+day 910 was a Saturday and a man announced at dusk on it that he had two things he was keeping back,
+which is `chapter-0697.md`.** Nine references to a Saturday stand in these ten mornings, five of them were
+wrong and were repaired and **four of them are correct and are still correct.** The fault was never
+carelessness with weekdays. **It was four dates that were never checked against the card set, and a
+sweep on the word repairs four sound references to get at them. The tick is the day, not the word.**
+
+**THE GATES, RE-RUN AFTER THE REPAIRS, WITH THE FLOOR BESIDE ANY NIL.** These ten mornings alone: 1,027
+non-overlapping whole-paragraph eighteen-word chunks, zero repeated shapes, zero excess; 14,415 sliding
+eighteen-word windows, zero repeated shapes, zero excess. With the ten behind: 2,271 and 32,501, zero and
+zero on both. With the twenty behind: 3,347 and 48,012, zero and zero on the first, and three shapes and
+three excess on the second. In the widest scope, with the twenty behind and the volume behind's closing
+nine: 4,382 chunks with four shapes and seven excess, and 62,424 windows with forty-nine shapes and
+eighty-three excess, **and not one of those shapes touches a morning of this batch.** First gate: **zero
+ordered pairs on these ten mornings, on these ten with the ten behind, and on these ten with the twenty
+behind; three in the widest scope, all at a ratio of one, all the volume behind's far-end locked sentence
+against itself.** **THE FLOOR: the comfort line is twenty words and the far-end sentence is thirty-one,
+against the first gate's floor of thirty, so the comfort line is structurally invisible to that gate and a
+clean first gate is not evidence about either locked figure.**
+
+**THE TWO SWEEPS THE GATES DO NOT RUN, BOTH SCOPED TO THE VOLUME.** Whole-volume exact-duplicate paragraph
+sweep at any length: five repeated paragraphs inside Volume 15, every one a two-word or three-word gesture,
+every one in Batch 0001, none in this batch. Sixteen-line token sweep inside this batch: **five runs at
+six tokens or more and zero at eight or more**, against the ninety and thirteen the batch behind returned
+on the same sweep, and all five are the numeral-normalised openings of two standing blocks on one morning.
+**The count is falling and a successor that finds its own count high should look at what the runs are
+before it cuts anything.**
+
+**THE MECHANICAL SWEEPS, ALL CLEAN.** Zero digits in body prose. Zero for each of the six bare words and
+for *tally*. Zero month names. Zero curly glyphs and no dash of any kind. Zero paragraphs with an odd
+number of quotation marks. Zero for the six load-bearing strings and for either locked sentence whole.
+Zero for the figure standing against the door nine hundred yards off. No rung climbed. Every *discharged*
+inside a negation and the one *apologi* inside a negation. No ordinal date in any body. No morning ends
+on a paragraph whose every sentence opens with a negation-form word. **Two blocks, on days 924 and 929,
+at most one on a morning, no `Entered` label, none on the major turn morning, eight in Volume 15 against
+a ceiling of thirty.**
+
+**AND ONE ITEM WAS FOUND AND LEFT, AND IT IS NAMED IN `state/open-threads.md`.** A mason from the third
+place says on day 922 that he has been in this yard two mornings, and the pages put him in it on more.
+It was not repaired because no rule and no card fixes that count, because it is a character's own
+self-description and not a figure of any series, and because a pass that repairs what it cannot measure
+repairs the manner in which it measures.

@@ -6,7 +6,7 @@ They had asked the yard to be at the boards at about the eighth hour and about t
 
 Hanne Brack spoke first and she had the end of a dry branch behind her and she spoke about the standing, not about the water.
 
-**"That woman in your doorway crossed a fourth line off her own sheet on Friday morning and I would like to say that I have read the three lines that were left, because they came up the road on a girl with a bundle and I read them at my own table and I did not send them back."**
+**"That woman in your doorway crossed a fourth line off her own sheet on Tuesday morning and I would like to say that I have read the three lines that were left, because they came up the road on a girl with a bundle and I read them at my own table and I did not send them back."**
 
 She did not have the paper and nobody asked her for it.
 

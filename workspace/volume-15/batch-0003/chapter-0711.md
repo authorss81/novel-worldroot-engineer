@@ -34,7 +34,7 @@ She put one finger on the middle of the page without picking it up.
 
 A man at the gate said that it was a week's work for a paper, and Odile Vray said the days, and the man said he was not asking about the days.
 
-**"Then ask somebody else,"** she said. **"I have got four cartloads of silt in my head and a card is going up that road on Friday and I am not the woman to explain anything to anybody this morning."**
+**"Then ask somebody else,"** she said. **"I have got four cartloads of silt in my head and a card went up that road last night and I am not the woman to explain anything to anybody this morning."**
 
 Then the man at the gate said that there were five names on it and that he had never in his life known five people who all meant the same thing, and about nine people in that yard looked at him, and nobody said what he had not finished saying, and nobody said it after him either, and he said the rest of it into the ground.
 
@@ -60,7 +60,7 @@ Tova Reed had the window on the corner of the seed board by the eighth hour and 
 
 She put the pencil down on the edge of the bench.
 
-**"The upper one has not been in the same place since Friday and that is a week now and I have watched four people say the same sentence about it in four different orders and not one of them has ever said which half of it moved. So I am the fourth and I am saying it and if it is wrong I would like to be told, because I write it down."**
+**"The lower one has not been in the same place since Friday, which is two mornings now, and I have watched four people say the same sentence about it in four different orders and not one of them has ever said which half of it moved. So I am the fourth and I am saying it and if it is wrong I would like to be told, because I write it down."**
 
 Nobody told her and nobody said that she was right.
 

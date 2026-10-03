@@ -72,7 +72,7 @@ Ismay Rooke had his hands on the pipe behind the tap house joint before anybody 
 
 He took his hands off the pipe and wiped them on the same cloth the man of the north row with the cough wipes his hands on, which nobody remarked on.
 
-**"Shut drawer, key on the nail at the sixth hour. I have not seen inside it and I would not, and I have laid stone for twenty-six years and I have never once broken a drawer to see what was in it and I am not starting on a Tuesday in a yard I do not work in."**
+**"Shut drawer, key on the nail at the sixth hour. I have not seen inside it and I would not, and I have laid stone for twenty-six years and I have never once broken a drawer to see what was in it and I am not starting on a Thursday in a yard I do not work in."**
 
 The man of the north row with the cough read the compost line off the gate board on his way to the fourth hour and read it as a man reads a thing he has decided to be the plainest thing available.
 

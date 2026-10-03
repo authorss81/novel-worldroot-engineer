@@ -1,6 +1,6 @@
 # Chapter 713
 
-## The Twenty-Sixth Of The Nineteenth, And An Ordinary Monday On Which Five People Decided Something Behind A Door On Saturday And Three Of This Holding's Own Went Down Four Miles With Shovels And Came Back With An Empty Barrow
+## The Twenty-Sixth Of The Nineteenth, And An Ordinary Monday On Which Five People Decided Something Behind A Door On Thursday And Three Of This Holding's Own Went Down Four Miles With Shovels And Came Back With An Empty Barrow
 
 The five went up the middle road before the light and the door was shut by the sixth hour, and the yard did not gather at the gate to watch them go, because there is nothing in this yard to gather for at six in the morning on a Monday.
 
@@ -54,7 +54,7 @@ Then she took the slate out from under her arm, and she said the two on it, and 
 
 **"One hundred and sixth, and ninety-third, thirteen apart, and they have gone a step since Saturday because they step on the mornings they step on and not on any other. And the ninety-third is the one I carry and it is not in the rack and it is not on a wall and it is not on a sheet. I am not going to say why I have stopped saying the rest of it out loud, and I have told this yard twice that the answer is the same every morning and I am not going to tell it a third time on a Monday."**
 
-The girl from the second place read the figure in force off the rack at the sixth hour and read it correctly, which nobody in that yard had expected, because she has been in this yard sixteen days.
+The girl from the second place read the figure in force off the rack at the sixth hour and read it correctly, which nobody in that yard had expected, because she has been in this yard seventeen days.
 
 **"A hundred and fifty-eight in force. Twenty-nine taken. A hundred and twenty-nine not."**
 
@@ -94,7 +94,7 @@ The drawer and the key went to the boy who carries water on his way out, and he 
 
 Ismay Rooke came down the middle road at about the ninth hour on his way back to the third place and stopped in the yard long enough to say one thing, and he said it with his back to the tool house.
 
-**"There are two things I am not going to say. One of them is what five of us said behind a shut door on Saturday, and I am not going to say it here and I am not going to say it to him first, and there is a man in this yard who would be entitled to hear it before anybody else and he is going to hear it last."**
+**"There are two things I am not going to say. One of them is what five of us said behind a shut door on Thursday, and I am not going to say it here and I am not going to say it to him first, and there is a man in this yard who would be entitled to hear it before anybody else and he is going to hear it last."**
 
 He shifted the tape on his shoulder.
 
