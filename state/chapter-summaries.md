@@ -31,11 +31,11 @@ file carries one figure and not two.** Read this file whole. The archived layer 
 | 12 | 540 to 588 | 49 | 118,058 |
 | 13 | 589 to 637 | 49 | 91,321 |
 | **14** | 638 to 686 | **49** | 116,146 |
-| **15** | 687 to 735 | **10 of 49 written** | **24,273** |
+| **15** | 687 to 735 | **30 of 49 written** | **75,574** |
 | 16 | 736 to 780 | 0 | 0 |
 
-Titles are in `outline/volume-NN.md`. **696 files, 1,939,882 words.** Volumes 01 to 14 are closed.
-**Volume 15 is open at ten mornings of forty-nine.**
+Titles are in `outline/volume-NN.md`. **716 files, 1,991,190 words.** Volumes 01 to 14 are closed.
+**Volume 15 is open at thirty mornings of forty-nine.**
 The word figure moves with every prose change and is measured per file with `len(text.split())`,
 never by concatenation. **The fourteen Volume 14 figures in this table, the Volume 13 figure and the
 manuscript total as it stood at 1,915,609 across 686 files were re-derived by the Volume 14 close on
@@ -349,3 +349,83 @@ advanced four of them and answered, closed, reworded-to-look-closed, grouped, su
 of them to a figure. **The four advanced are the times a bookkeeper has said a thing in a yard the
 engineer of record had not thought of, the register form and the offer on the low board, the sheet of
 terms and its third column, and the use log and the reason for the fifteen.**
+
+---
+
+## 8. Volume 15, mornings twenty-one to thirty, one line each
+
+**Batch 0003, days 920 to 929, files 707 to 716. Twenty-three thousand one hundred and seventy-three
+words. No morning restarted. This batch created no successor prompt, because the pipeline creates it.
+Day 929 is not the closing morning of the volume and nothing in these ten mornings is written as one,
+and the volume's major turn falls inside them on day 927.**
+
+- **920**, Tuesday, the twentieth. **The far board has a tail again** at nine hundred and one and nobody
+  in that yard says a word about it, and the standing with a neighbour is counted in a doorway with a
+  pencil by the woman who owns the four sheets, and **it comes to three things, and a fourth one is
+  written and then rubbed off the paper in front of nine people because a Thursday is not a standing,
+  and it is not replenished and nobody promises that it will be.**
+- **921**, Wednesday, the twenty-first. **Auret Sill, who keeps the pumps at a place that has none,
+  stands in this yard and names the season's water as the second thing the refusal will cost, out of
+  her own sheet in her own figures, and says out loud that the figure is arithmetic and road and not
+  temper.** Nobody applauds her and she is given nothing to do with it, the sheet goes on the middle
+  table and nowhere else, and the girl from the second place says the second place does not keep the
+  read-aloud pair either.
+- **922**, Thursday, the twenty-second, **the sixth of the twelve fourth-line mornings and no read-aloud
+  figure on it, being an even morning.** Five people sit behind a shut door from the sixth hour until
+  after dark and **the decision is reached inside the sitting and is not announced to this yard**, and
+  the yard does not wait for it. A hundred and fifty-seven in force, one hundred and fifth against
+  ninety-second. **The bookkeeper gives three figures out of the standing and refuses the rest out loud
+  on purpose, because a shut door in a yard makes everything else in it feel like it needs saying.**
+- **923**, Friday, the twenty-third, **the last morning on which an order could still go up that road and
+  come back down as stone**, three cartloads and four days of road deciding it at the fourth hour. The
+  work that would have gone into the span is put on the page as work in the figures of the people who
+  would do it, **nobody in that yard asks for it to stop and nobody is blamed for wanting it, and a man
+  says he would put a body on the crossing himself and says in the same breath that it would not do
+  any good.** The cart goes back up the road with paper on it and no stone in the bed.
+- **924**, Saturday, the twenty-fourth. **The council's own notice comes up the middle road in five hands
+  and it is correct in every particular**, and it asks this holding for nothing and says it will not be
+  moved by an altered figure. **Nia Vale reads it twice, finds nothing wrong with it, says so out loud
+  before anybody starts, and does not put it on the long table.** A man at the gate begins to say that
+  somebody in it does not mean it and gets as far as two words.
+- **925**, Sunday, the twenty-fifth. **Three of the five stand in this yard and say out loud what
+  refusing costs, in their own mouths, in three registers, and the cost is named in full before the
+  refusal lands and is not softened once it is named.** The face belongs to the woman who keeps the
+  pumps and she says it is not a punishment. **A man at the gate begins to thank the five and is stopped
+  by a woman with a bucket in one sentence about a second place that is still without water.**
+- **926**, Monday, the twenty-sixth, **the seventh of the twelve fourth-line mornings.** Five people go up
+  the road before light and shut the door and **the yard works an ordinary Monday without knowing**, and
+  three men go four miles each way with shovels and come back with an empty barrow. A hundred and
+  fifty-eight in force, one hundred and sixth against ninety-third. **The man of the north row with the
+  cough says out loud that he knows about four ruled lines in a book in this yard that have nothing on
+  them, and asks for none of them.**
+- **927**, Tuesday, the twenty-seventh. **THE VOLUME'S MAJOR TURN, AND IT IS A REFUSAL.** At the sixth
+  hour at this gate, in the mason from the third place's own mouth, **five people refuse the span of
+  ninety-four feet**, and the refusal is not softened, not qualified, not postponed and not explained
+  away as a misunderstanding, and it is not conditional on any figure being altered. **The engineer of
+  record says the span is wanted and by him, and says that the far bank of that crossing is the bank the
+  gauge is on and that the woman at the second place will go on reading it about a foot out, and says
+  that the span would not have survived a flood off that branch and that that finding is his own.**
+  Nobody in this holding is asked to agree with anybody and no field is taken, **a woman with eleven
+  gallons a day in her kitchen stops a man who begins to thank the five**, and no block of any kind falls
+  on this morning.
+- **928**, Wednesday, the twenty-eighth, **a return morning and the only one in this batch, and the book
+  moves nothing and the blanks stand at thirty-nine and the second rule is opened for the thirty-ninth
+  time.** Four lines and three signatures come **down** the middle road in the girl from the second
+  place's own mouth, and **the only thing standing between a neighbour and this holding after a refusal
+  is a woman with a barrow who moved up a road and has not gone back.** The refusal is neither defended
+  nor attacked in this yard, and a man who begins to attack the second place is answered by the second
+  place.
+- **929**, Thursday, the twenty-ninth. **Maintenance work going on inside the cost, on the crossings that
+  exist**, and four crews put on a clean sheet what they will and will not hold, **in four hands, in the
+  four standing terms, with five short lines ruled at the foot of it and nothing written in any of
+  them.** The sheet binds nobody who does not sign it and it is on the middle table and not the long
+  one, **the engineer of record brings a schedule with four hours ruled under it, puts it beside it, and
+  refuses to put his name at the top of either**, and a mason from the third place puts his hand flat on
+  the paper and does not sign.
+
+**THE THIRTY-FIVE ARE THIRTY-FIVE IN AND THIRTY-FIVE OUT ACROSS THESE TEN MORNINGS.** This batch
+advanced four of them and answered, closed, reworded-to-look-closed, grouped, summed or advanced none
+of them to a figure. **A council that keeps no book is not an answer. A notice that is correct in every
+particular is not an answer. A neighbour saying no to a bridge is not an answer. Four terms that bind
+nobody who does not sign them are not an answer, and the four are the same four that were standing
+before anybody in this holding wrote a word of them, and not a fifth and not a sixth.**

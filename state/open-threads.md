@@ -391,3 +391,115 @@ that no writing phase may edit.
    ITS FIGURES ARE CORRECT, SO THE HEADING ALONE IS WRONG AND THE HEADING IS WITHDRAWN BY NAME.** A writer
    who read a heading instead of a body would write the figure in force one too high on day 922 and two
    too high on days 934 and 938.
+
+---
+
+## 9. What Volume 15 Batch 0003 did to the thirty-five, and what it did not do
+
+**THIRTY-FIVE IN AND THIRTY-FIVE OUT, ACROSS THESE TEN MORNINGS, AND THAT IS THE ONLY FIGURE THAT MAY
+BE PUBLISHED FOR THEM.** This batch answered none, closed none, reworded none to look closed, grouped
+none, summed none and advanced none of them to a figure. **No row was added and no row was renumbered,
+and no seventh ruled row was cut for the notice, for the haulage arrangement, for the refusal, for the
+face or for the terms, and no fortieth blank was cut for any of them.** **A council that keeps no book is
+not an answer. A notice that is correct in every particular is not an answer. A neighbour saying no to a
+bridge is not an answer. Four terms that bind nobody who does not sign them are not an answer. A refusal
+is not a closure and a face is not a wound.**
+
+**THE FOUR THE BATCH BEHIND ADVANCED WERE ADVANCED AGAIN, ONCE EACH, AND CLOSED BY NOBODY.**
+
+1. **THE TIMES A BOOKKEEPER HAS SAID A THING IN A YARD THE ENGINEER OF RECORD HAD NOT THOUGHT OF.**
+   Advanced on day 926 and again on day 923, and it is still about hours and not about the wood: **a
+   bookkeeper refused, out loud in a yard, to read six figures when three would do, on the grounds that
+   a holding's own record did not hear about a shut door and that standing in a doorway reading eight
+   figures at people who have to work turns a wrong place into a right one.** The engineer of record
+   said on day 929 that this is the kind of thing a crew does and is not a kind of thing a book does.
+   **He was not thanked for it and he was not made an instrument and he was not asked to write it up.**
+2. **THE REGISTER FORM AND THE OFFER, AND THE OFFER ON THE LOW BOARD.** Advanced by being held: the
+   offer is undated, unpicked and not withdrawn on all ten mornings, the register form was read out on
+   all ten, **and no sheet on the long table was entered, refused or cut under on any of them.** Three
+   sheets went through that yard in this batch and none of them was one of the four: a sheet of three
+   lines with a rubbed-out fourth, the second place's four thousand one hundred and one, and the crew's
+   four terms. **The bookkeeper said out loud on day 929 that a sheet with four hands on it and five
+   empty lines under it is the first sheet he has seen through that room in nine years that did not have
+   a name at the top of it by the end of the week, and that he is not going to predict anything about it
+   and is going to walk past it every morning and see.**
+3. **THE FIVE TERMS OF THE EARLIER SHEET AND OF THE OTHER, AND THE THIRD COLUMN RULED AND EMPTY UNDER A
+   HEADING NOBODY HAS IMPROVED.** Advanced by being held and named: **the third column and the four ruled
+   lines under two words were named on five of these ten mornings and not once improved and not once
+   filled.** The council's notice of the day before its answer was **not a term and was not entered
+   under that heading by anybody**, and the crew's four terms of day 929 **are the four standing terms
+   restated in other mouths and are not a fifth and not a sixth**, and the woman who keeps the four
+   sheets said so out loud on the same morning before anybody else had said it.
+4. **THE USE LOG AND THE REASON FOR THE FIFTEEN, THE BARROW, THE SEVEN SESSIONS, THE TWO BOOKS AT
+   FIFTY-THREE AND FIFTY-FIVE-THREE, AND THE BOARD IN THE ONE ROOM.** Advanced by being read out and held
+   and **deliberately shortened on five mornings**, once to three figures, once to nine words with no
+   reason given and the fact announced, and once to nothing at all. **Fifteen lines with a clean space
+   above the fifteenth, eleven journeys and no twelfth, seven sessions and no eighth, the two books never
+   once the same list, thirty-nine blanks with the second rule standing open at the thirty-ninth time on
+   day 928, which is the batch's only return morning.** **No field was taken on either of the two
+   fourth-line mornings and nobody was blamed for a field that waited, and the rotation came round twice
+   while a shut door stood in the yard and did not wait for it.**
+
+**AND THE MAN OF ABOUT SEVENTY STANDS AT TWENTY-NINE FETCHINGS ON ALL TEN MORNINGS, IS NOT FETCHED, AND
+NOTHING WAS PUT TO HIM AT ANY HOUR.** The count of questions this holding has put to him is nil and stays
+nil. **A young woman from the second place counted that house every morning of this batch for sixteen
+days without knowing what she was counting and said so out loud to a wall.** Three people passed that row
+on their way up and down that road in this batch and none of them stopped at it. The thirty-morning
+interval behind him stays withdrawn by name and only the standing was carried.
+
+**AND THE DOOR NINE HUNDRED YARDS OFF WAS WALKED PAST ON ALL TEN MORNINGS AND READ ON NONE AND OFFERED
+TO NOBODY, and the figure in its seventh column does not go back and was not read and no remaining
+allowance was printed for it on any of them.**
+
+**AND THE RING OF BARE GROUND WAS NOT WALKED, NOT MEASURED AND NOT PRICED ON ANY OF THESE TEN MORNINGS**,
+and a man who lays for three councils said out loud that an unmeasured thing is not an innocent thing and
+that somebody put a tape on it one day and that he would rather somebody said it to his face than went
+up the road with it.
+
+**AND WHAT THIS BATCH DELIBERATELY DID NOT SETTLE, BECAUSE IT IS NOT OURS TO SETTLE.** The premise drift
+between the specification and the manuscript is recorded at the foot of this state layer and is escalated
+and is unsettled, and this batch neither settled it nor inferred from it that anything is retired. **The
+two series files that place a surrender in a volume whose mornings do not carry it are owed a correction
+by a pass with the standing to edit them; this batch did not edit them and did not put the name on any
+page.** Markers are controller-owned and this batch forged, moved and deleted none. **The control-plane
+matters recorded in section four above, items six and seven, are untouched and were not cleared.**
+
+**AND THE SECOND PLACE IS STILL WITHOUT, ON ALL TEN MORNINGS, AND THIS BATCH DID NOT RESTORE IT, FIND A
+WAY ROUND IT, APPORTION IT OR DESCRIBE IT AS SOMETHING A PAPER WILL SOLVE.** The reach cost it water, the
+cost was named out loud at a gate post in the volume behind, and it was not softened, not deferred, not
+described as temporary and not apportioned. **Four thousand one hundred and one cans were carried by hand
+in this batch and the number is larger than it was a fortnight ago and nobody explained it and nobody was
+made to feel about it, and a woman who keeps the pumps at that place said in a yard of forty people that
+she will not give a date and would rather the yard had a thing it could count than a thing it could only
+be told about.**
+
+---
+
+## 10. Three findings of the Volume 15 Batch 0003 pass, named here so that a successor inherits them
+
+**NONE IS REPAIRED IN ANOTHER FILE AND NONE IS OURS TO REPAIR.**
+
+1. **THE FIGURES WERE ALL CHECKED AGAINST THEIR RULES AND THE MORNINGS STILL CARRIED EIGHT ORDINAL DAYS
+   OF THE MONTH IN BODY PROSE.** The card set says a morning says an ordinal date only inside a heading
+   that names an ordinal, and **a sweep of the twenty mornings behind this batch returns zero occurrences
+   of one anywhere in body prose**, and this batch wrote *the twenty-seventh*, *the twenty-eighth* and
+   *the thirtieth of the nineteenth* eight times in prose and in one apparatus lead-in. **All nine are
+   cut from this batch and the sweep is now in `state/current.md` section fourteen.** **The house form
+   for naming a moment is an hour, a place and a count of mornings, and the council's own notice now
+   names its morning by counting forward from the morning it was written on.** A second thing in the same
+   class is in the same finding: **a document in this holding does not carry a date unless somebody has
+   written one on it, and nobody on the crew's sheet of four terms had.**
+2. **THE SIXTEEN-LINE SHARED-TOKEN SWEEP HAS NOW FOUND A GENUINE RE-STATEMENT THAT NEITHER GATE SAW FOR
+   THE THIRD TIME, AND IT IS THE SAME CLASS EVERY TIME.** On day 922 a woman said the two of her numbers
+   and the distance between them and said both again inside eight lines in her next speech, and **the
+   whole-paragraph gate cannot see it because the two statements are in different paragraphs, and the
+   sliding gate did not see it either on that morning's own figures**, and it was the sweep that found
+   it. **A writer who restates a standing block must run this sweep before running either gate.**
+3. **THE FIGURE-CHECK TOTAL FOR THIS BATCH IS ONE HUNDRED AND SIXTY AND IT IS RIGHT BY COINCIDENCE, AND
+   THE COINCIDENCE IS A TRAP FOR A SUCCESSOR.** The prompt printed fourteen figures on every morning, two
+   more on each of the five odd mornings and ten across the two fourth-line mornings, and the card set
+   requires five on every fourth-line morning. **Two fourth-line mornings at five each happens to be ten,
+   which is why the prompt's figure is not wrong this time and was wrong last time with three of them.**
+   The pages carry all one hundred and sixty and the check returns one hundred and sixty required, one
+   hundred and sixty matching and zero failures. **A successor derives the total from the card set's item
+   list at its section ten and never from a figure any prompt prints.**

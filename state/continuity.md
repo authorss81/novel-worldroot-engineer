@@ -377,3 +377,100 @@ unmade decision. A line ruled under two words on a wall in chalk that one place 
 and which nobody took off the sheet because it was inconvenient. A stone at the far end of the wall
 that came round to nine hundred with nothing on the end of it. A clerk who came two days up a lane and
 would not be argued with and was not thanked. A wall with nine hundred on it and nothing at the end.
+
+---
+
+## 10. What Volume 15's third ten mornings established, for the mornings behind them
+
+**THE BRIDGE IS REFUSED AND THE REFUSAL STANDS, AND IT WAS THE COUNCIL'S DECISION REACHED AND
+ANNOUNCED BY THE COUNCIL AT THE SIXTH HOUR AT THIS GATE ON DAY NINE HUNDRED AND TWENTY-SEVEN.** Five
+people from four places, none of them from this holding, refuse a span of ninety-four feet at the
+crossing below the second place's branch. **The refusal is not softened, not qualified, not postponed
+and not explained away as a misunderstanding, it carries no date on which it will be reconsidered, it
+was not put to a vote because that council has never taken one, and it is not conditional on any figure
+in this holding being altered.** **Nobody in this holding thanked the council on the morning it refused
+or on any of the ten mornings, and two people who began to were stopped, one on the morning before the
+refusal by a woman with a bucket and one on the morning itself by a woman with eleven gallons a day in
+her kitchen.** **No field was taken on any of the ten mornings and no individual was asked to choose
+anything on any of them. No block of any kind falls on the refusal morning, because the record of it is
+the council's and not a document anybody in this holding enters.**
+
+**AND THE ENGINEER OF RECORD DID NOT WIN IT AND DID NOT CONCEDE IT.** He said the span is wanted and by
+him, in front of about forty people. He said the far bank of that crossing is the bank the gauge is on
+and that the woman at the second place who reads it will go on reading it about a foot out in a high
+week because the near bank is the only bank there is. And he said the span would not have survived a
+flood off that branch, and said that the finding is his own and was in his own hand before the council
+read it. **He was asked afterwards whether he agreed with the council and he said that two facts are not
+a vote and that he had not been given one and was not going to take one.** **He was not thanked, not
+rebuked and not consoled, and the yard went on laying the sill at about a quarter past seven with seven
+bodies on it.**
+
+**AND THE ALTERNATIVE IS NOT A UNIVERSAL SOLUTION AND WAS NOT OFFERED AS ONE.** The council named two
+things it will do at two places, a haulage arrangement out of the fourth place on the days the road will
+take a barrow and a set of hours at the head of the branch, and **it said in its own mouth that these are
+less than a bridge and that the woman carrying the cans will carry the same number of cans.** The span
+is not built and is not half built and no stone belonging to it is within four days of road in either
+direction.
+
+**AND THE COST WAS NAMED IN FULL BEFORE THE REFUSAL LANDED, IN THREE MOUTHS, ON DAY NINE HUNDRED AND
+TWENTY-FIVE.** The standing with a neighbour, the season's water, and a face. **The standing was
+counted on day 920 with a pencil in a doorway and came to three things with a fourth written and rubbed
+off in front of nine people, because a Thursday is not a standing, and it was not replenished on any of
+the ten mornings and nobody promised that it would be.** The season's water was a sheet in Auret Sill's
+own hand, four thousand one hundred and one cans filled by hand since the spring, and it went on the
+middle table and nowhere else. The face was Auret Sill's own and she said it was not a punishment and
+that she was asking the yard not to make it larger than it was.
+
+**AND THE COST WAS PAID THE MORNING AFTER, BY PEOPLE WHO ARE NOT IN THIS YARD.** Four lines and three
+signatures came **down** the middle road in the girl from the second place's own mouth, and they said
+that four women on a sill at the fifth hour are work and money and not affection, that one man with a
+barrow is work and money and not affection, that the second place will not send anybody to dig the
+branch, and that there is a house at the end of the branch with a man in it and a nephew in it who came
+to them from the fourth place in the spring and has not gone back. **Take the money out of it and there
+is one person, and he is not even theirs.** **The refusal was neither defended nor attacked in this yard
+on that morning, and a man who began to attack the second place was answered by the second place.**
+
+**AND THE DEFINITION IS NOW A SHEET OF FOUR TERMS IN FOUR HANDS WITH FIVE EMPTY LINES AT THE FOOT OF
+IT, AND IT BINDS NOBODY WHO DOES NOT SIGN IT.** The four are the four standing terms, restated in the
+mouths of the people who will do the work, on the middle table and not the long one. **No fifth term and
+no sixth term was written, and the third column of the sheet of terms stays ruled and empty under a
+heading nobody has improved, and the four ruled lines under two words stay bare.** The engineer of
+record brought a schedule with four hours ruled under it, put it beside the terms, said it is not an
+order because there is nobody in it who has to do anything in it, **refused to put his name at the top
+of the four, gave the reason once and did not give it twice, and said he would like the yard to keep
+the two things two different objects because in a month one of them will be used as an argument against
+the other and they will not fit.** A mason from the third place put his hand flat on the paper and did
+not sign and said why.
+
+**AND WHAT THESE TEN MORNINGS DID TO THE CAST.** Ismay Rooke announced the refusal in about a minute and
+then named the price in the same voice and in the same order three people had used in that yard on the
+Sunday, and he told the engineer of record in public that the question he had been asked was whether it
+was wanted and not whether it was needed. Auret Sill asked for nothing, was given nothing to do with
+what she had said, and asked on her way down the road whether the second place keeps the read-aloud pair,
+and was told no, and said that she had been meaning to say that to somebody for four months. Hanne Brack
+read three lines of the standing at her own table at the second place and did not send them back.
+Emrys Dole brought four miles of dry ground to a yard that puts its figures on stone and could not get
+it onto a stone. Perrin Dae read the compost line in a lime and timber man's words and then did not
+comment on the paper he had put his own hand on. **Nia Vale counted the standing and rubbed a line off
+her own sheet in front of nine people, read the council's notice and said out loud before anybody started
+that nothing in it was wrong, and said on four mornings that the four sheets on the long table are four
+and this morning was the first morning it very nearly became five and it did not.** Odile Vray stopped a
+man with a bucket from thanking the five people who were about to cost her crew the only work it has
+this month, and put her own hands on the pipe behind the tap house joint and said that feeling a thing is
+not the same as knowing it and that she was tired of a yard deciding a thing is sound because somebody
+touched it. **Harlan Vetch was corrected on a parity by a woman with a can and asked to be corrected
+again, and said he would rather say a wrong thing out loud than the right thing off a nail.** Kellan
+Rusk cut the standing down to three figures out loud on purpose, refused to give one of the three ages as
+a figure at the front of a sentence, and shut a rack and opened it again. **Tova Reed said the two of
+thirteen apart and thirteen apart since before she came and said it twice inside eight lines, and the
+second was cut.** The boy who carries water wrote the read-aloud pair twice and wrote it badly and then
+wrote it better and nobody in either yard said which. **The man of the north row with the cough said out
+loud that he knows about four ruled lines in a book in this yard with nothing on them, and asked for
+none of them.** Nobody thanked anybody on any of the ten mornings and nobody was asked to choose anything
+on any of them.
+
+**AND THE THINGS THAT CAME INTO THE MORNINGS AND WILL NOT LEAVE.** Three lines and a rubbed-out fourth,
+with no name at the foot. Four thousand one hundred and one cans. A notice in five hands that is correct
+in every particular. A refusal with no date on it. A haulage arrangement that has not begun because the
+fourth place has not yet looked at its own road. A face that is not a punishment. A woman with a barrow
+who has not gone back. Four terms and five empty lines and a schedule with no name at the top of it.
