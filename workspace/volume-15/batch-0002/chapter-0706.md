@@ -86,7 +86,7 @@ He put the key on its nail at the sixth hour and stood looking at the drawer for
 
 Soren Rill read the long sheet and the four sheets in one walk at about the third hour, in the order of a man who has been asked to be precise this week by people from four places.
 
-**"Four hundred and sixty-seven at the head, four hundred and sixty-sixth under the line, four hundred and sixty-eighth over it, and the fourth not due. And four sheets on this table, none entered, none refused, no column cut under any of them, and a piece of paper on the middle table with nine hundred feet on it has not gone near any of these four and neither has a council of five."**
+**"Under the line four hundred and sixty-sixth, over it four hundred and sixty-eighth, and the head of the sheet four hundred and sixty-seven, and the fourth of the four is not due. And four sheets on this table, none entered, none refused, no column cut under any of them, and a piece of paper on the middle table with nine hundred feet on it has not gone near any of these four and neither has a council of five."**
 
 He put his hand flat on the end sheet without touching it.
 

@@ -42,7 +42,7 @@ He closed the cover without putting the thumb in it.
 
 Sera Quill came up the middle road with the slate and put it on the boards and opened it and said two figures and stopped.
 
-**"One hundred and third and ninety. Thirteen apart, and I have not said the rest of it this morning."**
+**"One hundred and third and ninetieth. Thirteen apart, and I have not said the rest of it this morning."**
 
 Somebody at the gate said that she had said it every fourth-line morning for a week.
 
@@ -98,7 +98,7 @@ He turned and looked down the wet sill.
 
 Hesta Lyle came out at about the seventh hour with her sheet squared and read it in the order of a woman who has been interrupted and is not going to say so.
 
-**"Four hundred and sixty-two at the head, four hundred and sixty-first under the line, four hundred and sixty-third over it, and the fourth not due. And a man came up this lane on Saturday with a line about a span and he has not been in my room and he is not going to be, and my sheet has three figures on it and a fourth that is not due and that is the whole of my sheet."**
+**"Four hundred and sixty-first under the line, four hundred and sixty-two at the head of it, four hundred and sixty-third over it, and the fourth not due. And a man came up this lane on Saturday with a line about a span and he has not been in my room and he is not going to be, and my sheet has three figures on it and a fourth that is not due and that is the whole of my sheet."**
 
 Then the girl from the second place asked about the low board by the gate, and nobody had prepared for it and nobody answered her for about a minute and a half.
 

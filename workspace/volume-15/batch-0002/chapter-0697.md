@@ -100,7 +100,7 @@ She left her hand on the corner of the sheet while she said it.
 
 Then the thing that made the morning, which was not a figure and was not on anybody's sheet.
 
-A boy came up the middle road at about the ninth hour from the second place on foot, and he was not the boy who came on the fourth day of this month, and he stood at the gate for a while before he asked anything.
+A boy came on foot out of the second place at about the ninth hour and stood at the gate for a while before he asked anybody for anything.
 
 He wanted to know what the four households with two signatures at the foot of them were being asked for, and by whom, and in which month.
 

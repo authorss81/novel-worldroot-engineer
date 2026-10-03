@@ -14,7 +14,7 @@ Before he got to that, he read the stone, because he had been at this gate two d
 
 Hesta Lyle came out into the middle of it with her sheet under her arm and read three figures to five people and a yard.
 
-**"Four hundred and sixty-six at the head, four hundred and sixty-fifth under the line, four hundred and sixty-seventh over it, and the fourth not due,"** she said, and went back inside, and did not wait to be asked anything else, which is not rudeness and is only a woman with three figures who has been asked for them eleven times this month.
+**"Four hundred and sixty-six at the head, four hundred and sixty-seventh over the line, four hundred and sixty-fifth under it, and nothing on the fourth,"** she said, and went back inside, and did not wait to be asked anything else, which is not rudeness and is only a woman with three figures who has been asked for them eleven times this month.
 
 **"Everything that is in this is ours. We did not take one of these numbers off a shelf in your one room and we did not take one off the paper of the office four days north. If you think a figure is wrong, then one of five of us has counted wrong, and you are entitled to say which figure and to say it to the person who counted it."**
 

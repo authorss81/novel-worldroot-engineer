@@ -50,7 +50,7 @@ Then, before Ismay Rooke could take it, Emrys Dole said the rest himself.
 
 Hesta Lyle came out with her sheet and read three figures at a council of five who had asked her for them, which is the first time in four years that anybody has asked her for them.
 
-**"Four hundred and sixty-four at the head, four hundred and sixty-third under the line, four hundred and sixty-fifth over it, and the fourth is not due."**
+**"Four hundred and sixty-fifth over the line, four hundred and sixty-four at the head of it, and four hundred and sixty-third under. Three figures, and the fourth one is not mine to give you this morning."**
 
 She set her hand flat on the top of it.
 

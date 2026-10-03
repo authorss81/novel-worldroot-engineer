@@ -285,9 +285,13 @@ terms and its third column, and the use log and the reason for the fifteen.**
 
 ## 7. Volume 15, mornings eleven to twenty, one line each
 
-**Batch 0002, days 910 to 919, files 697 to 706. Twenty-eight thousand one hundred and twenty-eight
-words. No morning restarted. The successor is `workspace/volume-15/batch-0003/PROMPT.md`. Day 919 is
-not the closing morning of the volume and nothing in these ten mornings is written as one.**
+**Batch 0002, days 910 to 919, files 697 to 706. Twenty-eight thousand one hundred and twenty-two
+words, per file 3,415, 2,765, 2,472, 2,681, 2,659, 2,971, 2,851, 2,723, 2,950 and 2,635. No morning
+restarted and no morning written twice; the writing pass of 2026-10-03 measured 28,128 and the
+verification pass of 2026-10-03 measured 28,122 after repairing three figure spellings and six
+standing blocks, and the difference of six words is the whole of that repair's cost. The successor is
+`workspace/volume-15/batch-0003/PROMPT.md`. Day 919 is not the closing morning of the volume and
+nothing in these ten mornings is written as one.**
 
 - **910**, Saturday, the tenth. **A return and a fourth-line morning on the same morning for the first
   time, and neither one waits for the other.** A girl from the second place asks what a return is for

@@ -14,7 +14,7 @@ Then he said the thing he had come up that lane to say, which was that he was no
 
 The girl from the second place read the stone off the copy sheet with the pencil behind her ear, because Kellan Rusk was inside with the clerk and had left the door open and the copy sheet on the step.
 
-**"One thousand and three hundred and seven hundredweight, eight on, even morning,"** she said, **"and the four hundred and sixty-second of the run. The window is four hundred and twenty-nine. It went up, so two hundred and twenty of it is the half that moved and two hundred and eight and one of it is the half that has not moved since Friday. Boards: eight hundred and forty-six at the gate end, eight hundred and ninety-three at the far one, forty-seven between."**
+**"One thousand and three hundred and seven hundredweight, eight on, even morning,"** she said, **"and the four hundred and sixty-second of the run. The window is four hundred and twenty-nine. It went up, so two hundred and twenty of it is the half that moved and two hundred and nine of it is the half that has not moved since Friday. Boards: eight hundred and forty-six at the gate end, eight hundred and ninety-three at the far one, forty-seven between."**
 
 She put the pencil back behind her ear and went and stood by the gate, and nobody thanked her, and nobody told her she had read it wrongly, and she had not.
 
@@ -60,7 +60,7 @@ Soren Rill stood at the middle table with the coat buttoned and read the five li
 
 Nia Vale did the boards at about the eleventh hour and read the three ages off the rack in the doorway with the door open behind her, because she had asked and been told she might and because she can count.
 
-**"Register form three hundred and fifty-six days, charter two hundred and sixty-two days, and a figure on the second ruled line in Silling's own book at three hundred and fifty and nothing written on it. I read them in that order and not in the order he reads them and they came out the same, and I have said for four years that anybody can count, and this morning is the first time anybody has let me prove it on a shelf."**
+**"Register form three hundred and fifty-six days, charter two hundred and sixty-two days, and the second ruled line in Silling's own book is at three hundred and fifty with nothing written on it. I read them in that order and not in the order he reads them and they came out the same, and I have said for four years that anybody can count, and this morning is the first time anybody has let me prove it on a shelf."**
 
 She wiped the cloth down her arm.
 

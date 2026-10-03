@@ -56,7 +56,7 @@ A boy ran down the middle road at about the eleventh hour with the figures off t
 
 **"One thousand and two hundred and ninety-nine hundredweight, and it is five down on this morning because this morning is an odd one. That is the four hundred and sixty-first of the run.**"
 
-**"Now the window, which is four hundred and twenty-eight, and I will give you the halves the other way round from how I gave them yesterday. Two hundred and eight and one of it moved in the night and that is the falling half, and two hundred and nineteen of it has not moved since Friday, and that is the rising half. On an odd morning the lower one goes. I had that backwards twice this week and I am not going to be the man who keeps count."**
+**"Now the window, which is four hundred and twenty-eight, and I will give you the halves the other way round from how I gave them yesterday. Two hundred and nine of it moved in the night and that is the falling half, and two hundred and nineteen of it has not moved since Friday, and that is the rising half. On an odd morning the lower one goes. I had that backwards twice this week and I am not going to be the man who keeps count."**
 
 She put the hand back on the sluice and the water went two inches and then an inch and then two.
 
@@ -100,7 +100,7 @@ The girl from the second place was still at the gate at dusk and she had not gon
 
 At dusk the whole of the holding's standing came out of the one room in one breath and in the reverse of the order it usually comes out in, because a Sunday is long and a man standing in a doorway at dusk on a Sunday will try something.
 
-**"The window is four hundred and twenty-eight, and the halves of it are two hundred and nineteen and two hundred and eight and one. The aggregate over this morning is four hundred and fifty-nine, and under the line four hundred and fifty-eighth, over the line four hundred and sixtieth. Boards, eight hundred and forty-five of eight hundred and ninety-two. Register form three hundred and fifty-five days, charter two hundred and sixty-one, and Silling's ruled line three hundred and forty-nine with nothing on it. The letter, a hundred and fifty-eight days."**
+**"The window is four hundred and twenty-eight, and the halves of it are two hundred and nineteen and two hundred and nine. The aggregate over this morning is four hundred and fifty-nine, and under the line four hundred and fifty-eighth, over the line four hundred and sixtieth. Boards, eight hundred and forty-five of eight hundred and ninety-two. Register form three hundred and fifty-five days, charter two hundred and sixty-one, and Silling's ruled line three hundred and forty-nine with nothing on it. The letter, a hundred and fifty-eight days."**
 
 He leaned on the door frame.
 

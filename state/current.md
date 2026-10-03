@@ -22,13 +22,17 @@ detail behind those passes is at `workspace/volume-14/batch-0005/SELF-CHECK.md`,
 `reviews/state-archive-2026-10-02/`; measurements belong in `reviews/`, which no prompt reads. Read
 this file whole, and the other three whole.**
 
-Last rewritten 2026-10-03, by the review-fix pass over Volume 15 Batch 0003, which wrote no new prose,
-touched one morning by one sentence, moved no figure of any series, created the batch's missing
-successor prompt, and touched no controller file. Before that, by the Volume 15 Batch 0003 writing pass,
-which wrote ten mornings including the volume's major turn, wrote no prose into any closed morning,
-moved no figure of any series and touched no controller file. Before that, by the Volume 15 Batch 0002
-writing pass, which wrote no prose into any closed morning, moved no figure of any series and touched no
-controller file.
+Last rewritten 2026-10-03, by a verification pass over Volume 15 Batch 0002, **which was dispatched
+against a batch that was already written and did not rewrite a morning.** It found the batch's published
+nil on the sliding reading to be false, repaired three figure spellings and six standing blocks in seven
+mornings, withdrew two false claims from the batch's own self-check and from this file, moved no figure
+of any series, created no successor, and touched no controller file. Before that, by the review-fix pass
+over Volume 15 Batch 0003, which wrote no new prose, touched one morning by one sentence, moved no figure
+of any series, created the batch's missing successor prompt, and touched no controller file. Before that,
+by the Volume 15 Batch 0003 writing pass, which wrote ten mornings including the volume's major turn,
+wrote no prose into any closed morning, moved no figure of any series and touched no controller file.
+Before that, by the Volume 15 Batch 0002 writing pass, which wrote no prose into any closed morning,
+moved no figure of any series and touched no controller file.
 Before that, by the
 review-fix pass over Volume 15 Batch 0001, which wrote no prose and altered no morning. Every figure
 below is re-derivable from the rule beside it. **Nothing is inherited on trust, and the closes
@@ -673,7 +677,9 @@ nil from this batch is evidence and not an artefact.
 
 **GATE ONE**, every prose paragraph of thirty words or more, against every other in the volume and
 against every prose paragraph behind it: **zero ordered pairs, in all three scopes**, and the highest
-ratio anywhere inside these ten mornings is 0.7273. **THE FLOOR BESIDE ANY NIL: the comfort line is
+ratio anywhere inside these ten mornings is 0.7576, re-measured by the verification pass of 2026-10-03
+over this batch, which counted 401 such paragraphs where the writing pass counted 403 and which
+therefore reports a slightly different maximum and the same result. **THE FLOOR BESIDE ANY NIL: the comfort line is
 twenty words and the far-end sentence is thirty-one, and the first gate's floor is thirty words, so
 the comfort line is structurally invisible to that gate and a clean first gate is not evidence about
 either figure.** Neither locked figure was spent on any morning of this batch and **none of the six
@@ -681,20 +687,66 @@ load-bearing strings returns anything on any of these ten mornings.** The next i
 the whole volume is the thirty-third and the one after it is the forty-fifth.
 
 **GATE TWO, BOTH READINGS, AND THE SLIDING READING IS THE ONE THAT COUNTS.** Over these ten mornings
-alone: **1,244 non-overlapping whole-paragraph chunks with no repeated shape and no excess, and 18,192
+alone: **1,249 non-overlapping whole-paragraph chunks with no repeated shape and no excess, and 18,157
 sliding eighteen-word windows with no repeated shape and no excess.** With the ten mornings behind:
-2,293 chunks with no shape and no excess, and 33,450 sliding windows with five shapes and nine excess.
-With the volume behind's closing nine as well: 3,320 chunks with four shapes and seven excess, and
-47,891 sliding windows with forty-seven shapes and eighty-five excess. **NOT ONE REPEATED SLIDING SHAPE
-IN ANY OF THE THREE SCOPES TOUCHES A MORNING OF THIS BATCH.** The six gate-one ordered pairs in the
-widest scope are all at a ratio of one and are all inside three closed paragraphs of the volume
-behind, which are named open items for that volume's close and are reported and not repaired.
+2,325 chunks with no shape and no excess, and 33,668 sliding windows with three shapes and three
+excess. With the volume behind's closing nine as well: 3,360 chunks with four shapes and seven excess,
+and 48,080 sliding windows with forty-nine shapes and eighty-three excess. **THE THREE SHAPES IN THE
+MIDDLE ROW ARE ONE CONSTRUCTION AND ARE NAMED IN THE FINDING BELOW; EVERY OTHER SHAPE IN THE BOTTOM ROW
+IS INSIDE A CLOSED MORNING.** The three gate-one ordered pairs in the widest scope are all at a ratio
+of one and are all inside three closed paragraphs of the volume behind, which are named open items for
+that volume's close and are reported and not repaired.
+
+**AND THE NIL ABOVE IS THE ONE THE SLIDING READING HAD TO BE RUN TO PRODUCE, AND IT WAS NOT TRUE WHEN
+THE WRITING PASS PUBLISHED IT.** **THE WRITING PASS OF THIS BATCH RECORDED NO REPEATED SHAPE AND NO
+EXCESS ON THE SLIDING READING OVER ITS OWN TEN MORNINGS. THAT NIL WAS FALSE. THE SLIDING READING
+RETURNED TWELVE SHAPES AND THIRTY-TWO EXCESS, AND EVERY ONE OF THE TWELVE CAME FROM A SINGLE PARAGRAPH:
+THE AGGREGATE AND ITS CLAUSE, PRINTED IN IDENTICAL WORDING ON DAYS 914, 916, 918 AND 919.** All four
+paragraphs passed the whole-paragraph duplicate sweep, because all four differ in their tails, and all
+four differ from one another as paragraphs and are not duplicates of one another. **THE ONLY THING THAT
+SAW IT WAS THE SLIDING READING, AND THE WHOLE-PARAGRAPH READING AND THE EXACT-DUPLICATE SWEEP WERE BOTH
+BLIND TO IT.** That is the argument the card set makes for the sliding reading, made a second time and
+now inside this volume's own manuscript.
+
+**AND WHAT THE REPAIR WAS, AND IT IS THE FINDING A SUCCESSOR NEEDS.** Four mornings carried the same
+eighteen-word run in the same order, given by three different readers to three different audiences.
+**Each of the four now carries that actor's own order of the three figures and that actor's own
+wording**, and the four orders are under-head-over, over-head-under, head-over-under and under-over-head.
+**The same pass found and repaired two standing blocks restated from the ten mornings behind**: a boy's
+arrival at the gate on day 910, which had opened with the same construction as the arrival on day 900,
+and the three derived ages on day 912, which had been given in the same construction as the same three
+figures on day 909. **THE THIRD CROSS-BATCH SHAPE IS LEFT STANDING AND IS A JUDGEMENT AND NOT AN OVERSIGHT.**
+Three shapes and three excess remain against the ten mornings behind, and all three are one construction:
+a character on day 911 reads the clause of the fourth ruled line under two words aloud out of the sheet
+it is written on, and the same clause is the standing text of that ruled line in the apparatus block on
+day 906. **THE CLAUSE IS THE TEXT ON A DOCUMENT AND NOT A CLERK'S STANDING BLOCK, AND A MAN READING HIS
+OWN SHEET ALOUD WHO PARAPHRASES IT WOULD BE MISQUOTING IT.** A successor that finds those three shapes
+should leave them and say why.
+
+**AND THE FIGURES, WHICH WERE ALSO WRONG IN THREE PLACES AND ARE NOW RIGHT.** The verification pass of
+2026-10-03 re-derived all one hundred and sixty-five from the card set's item list and found **three
+printed in a different form**: the falling half on days 911 and 912 stood as a sum in words and not as
+the figure, and the second reckoning on day 914 stood as a bare cardinal and not as an ordinal. All three
+now stand in the card's spelling and **the pass returns one hundred and sixty-five required and one
+hundred and sixty-five matching and no failure, which is the figure the writing pass claimed and could
+not have been measuring, because three of them were not on the page.**
 
 **AND ONE COUNT TO BE CAREFUL WITH, WHICH IS A FINDING AND NOT A CONTRADICTION.** Batch 0001 published
 a nil on the sliding reading over its own ten mornings. Run with this batch's normalisation, those same
 ten mornings return five shapes and nine excess. **The result is a nil and the result is not withdrawn,
-and neither is this count, because two normalisers are not one gate.** The figure a successor needs is
-the third column: zero shapes touching this batch, on either reading, in any scope.
+and neither is this count, because two normalisers are not one gate.** **AND THE FIGURE THIS PARAGRAPH
+USED TO GIVE A SUCCESSOR, WHICH WAS ZERO SHAPES TOUCHING THIS BATCH ON EITHER READING IN ANY SCOPE, WAS
+FALSE AND IS WITHDRAWN BY NAME.** It is replaced by the measured line above: zero inside this batch's own
+ten mornings on both readings, and three against the ten mornings behind, and those three are the
+document clause that is named and left standing.
+
+**AND ONE MORE THING THIS PARAGRAPH OUGHT TO HAVE SAID AND DID NOT, WHICH THE REPAIR NOW SAYS.** **A
+NORMALISER IS NOT THE ONLY THING THAT CAN HIDE A STANDING BLOCK, AND THE VARIANCE BETWEEN TWO IMPLEMENTATIONS
+IS NOT PROOF THAT EITHER IS RIGHT.** The writing pass and this pass agree on the figure check and disagree
+on the sliding reading, and the writing pass was the one that was wrong about its own manuscript. **A
+SUCCESSOR THAT READS A DISCREPANCY BETWEEN TWO COUNTS AS A SIGNATURE OF NORMALISER VARIANCE HAS A TOOL FOR
+EXPLAINING AWAY EVERY DISCREPANCY AND WILL USE IT ON THE ONE THAT MATTERS.** Run the sliding reading,
+and if it fires, go and read the paragraph before reaching for the normaliser.
 
 **AND THE FINDING THIS BATCH ADDS, WHICH IS THE SAME CLASS OF FAULT AS THE ONE THE BATCH BEHIND
 PRINTED, AND IT IS ABOUT WHAT A STANDING BLOCK IS MADE OF.** **The whole-volume exact-duplicate

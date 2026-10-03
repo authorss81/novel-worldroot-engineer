@@ -375,19 +375,23 @@ with her.**
 
 ---
 
-## 8. Two findings of the Volume 15 Batch 0002 pass, named here so that a successor inherits them as findings
+## 8. Three findings of the Volume 15 Batch 0002 pass, named here so that a successor inherits them as findings
 
-**NEITHER IS REPAIRED AND NEITHER IS OURS TO REPAIR.** The first is an arithmetic error in a prompt that
-has already been superseded and corrected on its own face. The second is in a completed phase's card set
-that no writing phase may edit.
+**THE THIRD WAS FOUND BY THE VERIFICATION PASS OF 2026-10-03 AND THE FIRST TWO WERE NOT REPAIRED BECAUSE
+NEITHER IS OURS TO REPAIR. THE THIRD IS REPAIRED IN THE MORNINGS AND WHAT FOLLOWS IS THE RECORD.** The
+first is an arithmetic error in a prompt that has already been superseded and corrected on its own face.
+The second is in a completed phase's card set that no writing phase may edit.
 
 1. **THE FIGURE-CHECK TOTAL IN THE PROMPT THAT GENERATED THIS BATCH WAS ONE HUNDRED AND SIXTY AND THE TRUE
    TOTAL WAS ONE HUNDRED AND SIXTY-FIVE.** The prompt printed fourteen figures on every morning, two more
    on each of the five odd mornings and ten more across the three fourth-line mornings, and the card set
-   requires five figures on every fourth-line morning. **Three at five is fifteen and not ten.** The
-   pages carry all one hundred and sixty-five and the check returns one hundred and sixty-five required,
-   one hundred and sixty-five matching and zero failures. **A successor derives the total from the card
-   set's item list at its section ten and not from any prompt.**
+   requires five figures on every fourth-line morning. **Three at five is fifteen and not ten.** **The
+   pages now carry all one hundred and sixty-five and the check returns one hundred and sixty-five required,
+   one hundred and sixty-five matching and zero failures, and it did not when this item was first written:
+   the falling half on days 911 and 912 stood on the page as a sum in words and not as the figure, and the
+   second reckoning on day 914 stood as a bare cardinal and not as an ordinal.** **A successor derives the
+   total from the card set's item list at its section ten and not from any prompt, and a successor that
+   prints a figure as a sum in words is not reporting a variant.**
 2. **FIVE CARD HEADINGS IN THE VOLUME FIFTEEN CARD SET NAME THE WRONG POSITION AMONG THE TWELVE FOURTH-LINE
    MORNINGS.** The twelve are at days 902, 906, 910, 914, 918, 922, 926, 930, 934, 938, 942 and 946.
    **Card twenty-three, day 922, is the sixth and is headed the seventh. Card twenty-seven, day 926, is the
@@ -397,6 +401,19 @@ that no writing phase may edit.
    ITS FIGURES ARE CORRECT, SO THE HEADING ALONE IS WRONG AND THE HEADING IS WITHDRAWN BY NAME.** A writer
    who read a heading instead of a body would write the figure in force one too high on day 922 and two
    too high on days 934 and 938.
+3. **THE SLIDING GATE WAS RUN, IT FIRED, AND THE BATCH'S OWN RECORD SAID IT HAD NOT BEEN RUN.** The writing
+   pass published no repeated shape and no excess on the sliding reading over its own ten mornings. **That
+   nil was false: twelve shapes and thirty-two excess, every one of them from the aggregate and its clause
+   printed in identical wording on days 914, 916, 918 and 919.** All four paragraphs passed the
+   whole-paragraph duplicate sweep, because all four differ in their tails. **THE ONLY THING THAT SAW IT WAS
+   THE SLIDING READING.** Each of the four now carries its own reader's own order and its own wording, and
+   two standing blocks restated from Batch 0001 were repaired at the same time, being a boy's arrival at the
+   gate on day 910 and the three derived ages on day 912. **Three shapes and three excess remain against
+   Batch 0001 and are left standing on purpose: a character on day 911 reads the clause of the fourth ruled
+   line under two words aloud out of the sheet it is written on, and the same clause is the standing text of
+   that ruled line on day 906, and a document's clause is not a clerk's standing block.** **A SUCCESSOR
+   THAT FINDS THOSE THREE SHOULD LEAVE THEM AND SAY WHY, AND A SUCCESSOR THAT FINDS A SLIDING COUNT IT
+   DID NOT EXPECT SHOULD GO AND READ THE PARAGRAPH BEFORE IT REACHES FOR THE NORMALISER.**
 
 ---
 
