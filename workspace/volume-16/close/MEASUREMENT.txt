@@ -86,13 +86,20 @@
 ==============================================================================
 3. THE FIGURE CHECK. EVERY FIGURE DERIVED FROM ITS OWN RULE APPLIED TO ITS OWN DAY, REQUIRED AS A WHOLE PHRASE IN THAT MORNING'S BODY PROSE
    the volume's own item list, derived here and inherited from no file: 14 x 45 mornings + 2 x 23 odd mornings + 5 x 11 fourth-line mornings = 731
-   required present: 720; required absent: 11 (the second reckoning, section 8d); failures: 8
+   required present: 720; required absent: 11 (the second reckoning, section 8d); failures: 15
+     FAIL chapter-0753.md: aggregate -> 'five hundred and fourteen'
      FAIL chapter-0759.md: ordinal of the run -> 'five hundred and twenty-second'
+     FAIL chapter-0765.md: aggregate -> 'five hundred and twenty-six'
+     FAIL chapter-0766.md: aggregate -> 'five hundred and twenty-seven'
+     FAIL chapter-0767.md: aggregate -> 'five hundred and twenty-eight'
      FAIL chapter-0768.md: aggregate -> 'five hundred and twenty-nine'
      FAIL chapter-0770.md: aggregate -> 'five hundred and thirty-one'
      FAIL chapter-0771.md: aggregate -> 'five hundred and thirty-two'
      FAIL chapter-0772.md: aggregate -> 'five hundred and thirty-three'
+     FAIL chapter-0773.md: aggregate -> 'five hundred and thirty-four'
      FAIL chapter-0774.md: aggregate -> 'five hundred and thirty-five'
+     FAIL chapter-0775.md: aggregate -> 'five hundred and thirty-six'
+     FAIL chapter-0777.md: aggregate -> 'five hundred and thirty-eight'
      FAIL chapter-0778.md: aggregate -> 'five hundred and thirty-nine'
      FAIL chapter-0780.md: aggregate -> 'five hundred and forty-one'
    figures present in a heading or an apparatus block but NOT in body prose: 0
@@ -128,7 +135,8 @@
    paragraphs at the declared unit, the manuscript: 34505
    Volume 16 scope: 1297 prose paragraphs of 30 words or more, 0 exact pairs
    whole manuscript scope: 26573 paragraphs of 30 words or more, 41 exact pairs, 1 touching Volume 16
-     TOUCHES VOLUME 16 x12: chapter-0736.md | **"The far end of a thing is held by two people and neither of them is me, and n | the locked far-end sentence, spent whole by design
+     TOUCHES VOLUME 16 x12 in 1 file(s) of this volume: chapter-0736.md | **"The far end of a thing is held by two people and neither of them is me, and n | the locked far-end sentence, spent whole by design
+       x12 IS AN OCCURRENCE COUNT OVER ALL 780 MANUSCRIPT FILES AND NOT A FILE COUNT. The volume behind spends it as well.
    Volume 16 scope: whole-paragraph reading 4597 units, 36 shapes, 50 excess; sliding eighteen-word reading 69087 windows, 620 shapes, 679 excess
    whole manuscript scope: whole-paragraph reading 102606 units, 2014 shapes, 5403 excess; sliding eighteen-word reading 1589813 windows, 47169 shapes, 122407 excess
    Volume 16 scope, every shape identified before anything is broken: 14 windows of the far-end sentence, 3 windows of the comfort line, 0 whole-paragraph chunks of the far-end sentence, 0 whole-paragraph chunks of the comfort line, and 639 that are none of those four
@@ -537,9 +545,17 @@
      chapter-0780.md line 69: 'tenth' | before ['and', 'at', 'the'] after ['and', 'gave', 'the']
         middle gate at the sixth hour and at the seventh and at the tenth and gave the three numbers out loud each time, and they wer
 ==============================================================================
-9b. THE EIGHT FIGURES OF THE FIGURE CHECK THAT ARE PRESENT IN THE WRONG FORM, NAMED BY FILE AND BY LINE, AND NOT REPAIRED
+9b. THE 15 FIGURES OF THE FIGURE CHECK THAT ARE PRESENT IN THE WRONG FORM, NAMED BY FILE AND BY LINE, AND NOT REPAIRED
+   chapter-0753.md line 71, day 966, morning 18: the aggregate is 514 and the page prints the ordinal where the series is a cardinal:
+      **"Five hundred and thirteenth under the line, five hundred and fourteenth at the head, five hundred and fifteenth over the line."**
    chapter-0759.md line 27, day 972, morning 24: the ordinal of the run is 522 and the page prints a cardinal where the series is an ordinal:
       **"Nine beds in this book, and five hundred and twenty-two mornings of this run, and one thousand and three hundred and ninety-seven hundredw
+   chapter-0765.md line 57, day 978, morning 30: the aggregate is 526 and the page prints the ordinal where the series is a cardinal:
+      **"Five hundred and twenty-fifth underneath, five hundred and twenty-seventh on top, and five hundred and twenty-sixth at the head of it. First time in four days and I am not going to be humble about
+   chapter-0766.md line 55, day 979, morning 31: the aggregate is 527 and the page prints the ordinal where the series is a cardinal:
+      **"Five hundred and twenty-seventh is the figure at the head of that sheet. The one with the rule beneath it is t
+   chapter-0767.md line 55, day 980, morning 32: the aggregate is 528 and the page prints the ordinal where the series is a cardinal:
+      seventh under the line, five hundred and twenty-ninth over it, and the one at the head is five hundred and twenty-eighth,**" the boy said. **"And I am not the man who reads that wall, I am the man who
    chapter-0768.md line 55, day 981, morning 33: the aggregate is 529 and the page prints the ordinal where the series is a cardinal:
       **"The five hundred and twenty-eighth is the figure with the rule under it, the five hundred and twenty-ninth stands at the top of that sheet, and the five hundred and thirtieth is at the fo
    chapter-0770.md line 81, day 983, morning 35: the aggregate is 531 and the page prints the ordinal where the series is a cardinal:
@@ -548,13 +564,20 @@
       **"It goes five hundred and thirty-second at the top of that sheet, five hundred and thirty-first at the bottom of it, an
    chapter-0772.md line 45, day 985, morning 37: the aggregate is 533 and the page prints the ordinal where the series is a cardinal:
       **"Five hundred and thirty-third sits at the head of that sheet, five hundred and thirty-second under the rule, a
+   chapter-0773.md line 39, day 986, morning 38: the aggregate is 534 and the page prints the ordinal where the series is a cardinal:
+      **"The top figure on that sheet is five hundred and thirty-fourth. Under the rule it is the five hundred and thirty-third, above the rule the fiv
    chapter-0774.md line 63, day 987, morning 39: the aggregate is 535 and the page prints the ordinal where the series is a cardinal:
       **"Five hundred and thirty-fifth is what that wall carries, five hundred and thirty-fourth is under the rule, and
+   chapter-0775.md line 63, day 988, morning 40: the aggregate is 536 and the page prints the ordinal where the series is a cardinal:
+      **"Five hundred and thirty-sixth, five hundred and thirty-fifth and five hundred and thirty-seventh, and the firs
+   chapter-0777.md line 49, day 990, morning 42: the aggregate is 538 and the page prints the ordinal where the series is a cardinal:
+      **"Five hundred and thirty-eighth at the head of the long sheet, the five hundred and thirty-seventh under the ru
    chapter-0778.md line 21, day 991, morning 43: the aggregate is 539 and the page prints the ordinal where the series is a cardinal:
       **"Five hundred and thirty-ninth, five hundred and thirty-eighth, five hundred and fortieth.** She said them unde
    chapter-0780.md line 41, day 993, morning 45: the aggregate is 541 and the page prints the ordinal where the series is a cardinal:
       **"Five hundred and forty-first is at the head of that sheet, and under the rule it says the five hundred and for
-   the eight are a FORM and not a VALUE. Every one of the eight values is correct for its day and correct against the plan's own day table, and not one figure of any series was moved to pay for them.
+   all 15 are a FORM and not a VALUE: 14 aggregates printed as ordinals where the plan's item list asks for a cardinal, and 1 ordinal of the run printed as a cardinal. Every one of the 15 values is correct for its day and correct against the plan's own day table, and not one figure of any series was moved to pay for them.
+   THE FIRST RECKONING OF THIS REPAIR PUBLISHED EIGHT AND IS WITHDRAWN BY NAME. It counted presence with a plain substring test, and a cardinal spelled four, six or seven is a PREFIX of the ordinal spelled the same way, so a morning that printed the aggregate only in the ordinal form passed the one check that exists to catch a figure in the wrong form. The seven the substring test could not see are the seven aggregates ending in four, six, seven and eight, and the eighth of the withdrawn eight, the ordinal of the run at `chapter-0759.md:27`, SURVIVES THE CORRECTION UNCHANGED.
 ==============================================================================
 10. THE SIX LOCKED FIGURES AND THE TWO ALLOWED FIGURES, AND WHAT THE VOLUME SPENDS
    the third launder's maximum stands on day 992 (chapter-0779.md, morning 44) and not on the last morning, because the volume closes on an odd morning and an odd morning falls

@@ -278,7 +278,12 @@ def pair_rows(day, text):
     manufacture the very defect it is looking for.
     """
     fall, rise = D.halves(day)
-    cands = sorted({D.cardinal(fall), D.cardinal(rise)}, key=len, reverse=True)
+    # The tiebreak on the string is not decoration. Both cardinals are the same
+    # length on most days, and a stable sort over a SET is ordered by the hash seed,
+    # so the two rows of the demonstration swapped places between runs and the raw
+    # output was not byte-reproducible. A measurement that cannot be re-read
+    # identically is not a measurement.
+    cands = sorted({D.cardinal(fall), D.cardinal(rise)}, key=lambda s: (-len(s), s))
     odd = D.morning(day) % 2 == 1
     mover = D.cardinal(fall) if odd else D.cardinal(rise)
     stander = D.cardinal(rise) if odd else D.cardinal(fall)
@@ -390,6 +395,22 @@ print(f"   the volume's own item list, derived here and inherited from no file: 
       f"mornings + 5 x {item_total['fourth_line']} fourth-line mornings = "
       f"{item_total['total']}")
 
+def present_as_printed(haystack, phrase):
+    """A required figure counts as present only when it stands as a whole figure.
+
+    THE PLAIN SUBSTRING TEST THIS REPLACES WAS WRONG, AND IT WAS WRONG IN THE
+    DIRECTION THIS CHECK EXISTS TO CATCH. A CARDINAL SPELLED WITH *FOUR*, *SIX*
+    OR *SEVEN* IS A PREFIX OF THE ORDINAL SPELLED THE SAME WAY, so
+    *five hundred and fourteen* was found inside *five hundred and fourteenth*,
+    *twenty-six* inside *twenty-sixth*, *thirty-eight* inside *thirty-eighth*, and
+    a morning that printed the aggregate only in the ordinal form PASSED A CHECK
+    THAT EXISTS TO CATCH A FIGURE IN THE WRONG FORM. The boundary below is the
+    whole of the correction: the phrase must not run on into another letter.
+    """
+    return re.search(re.escape(re.sub(r"\s+", " ", phrase.lower())) + r"(?![a-z])",
+                     re.sub(r"\s+", " ", haystack)) is not None
+
+
 req_present = req_absent = 0
 failures, outside_body = [], []
 PATH_OF = {f.name: f for f in V16_FILES}
@@ -398,8 +419,8 @@ for day in range(D.VOL_FIRST_DAY, D.VOL_LAST_DAY + 1):
     full = V16_TEXT[name]
     body = "\n".join(t for _, t in body_of(PATH_OF[name])).lower()
     for series, phrase, wanted in D.figures_for(day):
-        hit_full = phrase in full
-        hit_body = phrase in body
+        hit_full = present_as_printed(full, phrase)
+        hit_body = present_as_printed(body, phrase)
         if wanted:
             req_present += 1
             if not hit_full:
@@ -580,18 +601,24 @@ for k, v in v16_pairs:
     print("     PAIR x%d:" % v, k[:110])
 man_paras, man_pairs = gate_one(ALL_FILES)
 LOCKED_PARA = {" ".join(normalise_words(x)) for x in (FAR_END, COMFORT)}
-names = {}
+# The name is a REPORT OF WHERE THE PARAGRAPH STANDS, so every file carrying it is
+# collected. A last-write-wins dict printed one of the twelve and made the choice by
+# iteration order, which is not a measurement.
+names = collections.defaultdict(list)
 for k, v in man_pairs:
     for n, p in v16_paras:
         if p == k:
-            names[k] = n
-touching = [(names.get(k), v, k) for k, v in man_pairs if k in names]
+            names[k].append(n)
+touching = [(sorted(set(names.get(k, []))), v, k) for k, v in man_pairs if k in names]
 print(f"   whole manuscript scope: {len(man_paras)} paragraphs of {WORD_FLOOR} words "
       f"or more, {len(man_pairs)} exact pairs, {len(touching)} touching Volume 16")
 for n, v, k in touching:
     locked = ("the locked far-end sentence, spent whole by design"
               if " ".join(normalise_words(k)) in LOCKED_PARA else "NOT A LOCKED FIGURE")
-    print(f"     TOUCHES VOLUME 16 x{v}: {n} | {k[:80]} | {locked}")
+    print(f"     TOUCHES VOLUME 16 x{v} in {len(n)} file(s) of this volume: "
+          f"{', '.join(n)} | {k[:80]} | {locked}")
+    print(f"       x{v} IS AN OCCURRENCE COUNT OVER ALL {len(ALL_FILES)} MANUSCRIPT "
+          f"FILES AND NOT A FILE COUNT. The volume behind spends it as well.")
 
 shapes16, figs16 = second_gate(V16_FILES, "Volume 16 scope", show_shapes=False)
 shapesM, figsM = second_gate(ALL_FILES, "whole manuscript scope", show_shapes=False)
@@ -1025,9 +1052,10 @@ for r in residual:
     print(f"     {r[0]} line {r[1]}: {r[2]!r} | before {r[3]} after {r[4]}")
     print(f"        {r[5][:150]}")
 
-hr("9b. THE EIGHT FIGURES OF THE FIGURE CHECK THAT ARE PRESENT IN THE WRONG FORM, "
-   "NAMED BY FILE AND BY LINE, AND NOT REPAIRED")
-for n, series, phrase, day in failures:
+wrong_form = failures
+hr(f"9b. THE {len(wrong_form)} FIGURES OF THE FIGURE CHECK THAT ARE PRESENT IN THE "
+   "WRONG FORM, NAMED BY FILE AND BY LINE, AND NOT REPAIRED")
+for n, series, phrase, day in wrong_form:
     pth = PATH_OF[n]
     val = D.aggregate(day) if series == "aggregate" else D.ordinal_of_run(day)
     other = D.ordinal(val) if series == "aggregate" else D.cardinal(val)
@@ -1040,9 +1068,21 @@ for n, series, phrase, day in failures:
                   f"{'the ordinal where the series is a cardinal' if series == 'aggregate' else 'a cardinal where the series is an ordinal'}:")
             print(f"      {line[max(0, i - 90):i + 110]}")
             break
-print(f"   the eight are a FORM and not a VALUE. Every one of the eight values is "
-      f"correct for its day and correct against the plan's own day table, and not "
-      f"one figure of any series was moved to pay for them.")
+agg_wrong = sum(1 for f in wrong_form if f[1] == "aggregate")
+print(f"   all {len(wrong_form)} are a FORM and not a VALUE: {agg_wrong} aggregates "
+      f"printed as ordinals where the plan's item list asks for a cardinal, and "
+      f"{len(wrong_form) - agg_wrong} ordinal of the run printed as a cardinal. "
+      f"Every one of the {len(wrong_form)} values is correct for its day and "
+      f"correct against the plan's own day table, and not one figure of any series "
+      f"was moved to pay for them.")
+print("   THE FIRST RECKONING OF THIS REPAIR PUBLISHED EIGHT AND IS WITHDRAWN BY "
+      "NAME. It counted presence with a plain substring test, and a cardinal "
+      "spelled four, six or seven is a PREFIX of the ordinal spelled the same way, "
+      "so a morning that printed the aggregate only in the ordinal form passed the "
+      "one check that exists to catch a figure in the wrong form. The seven the "
+      "substring test could not see are the seven aggregates ending in four, six, "
+      "seven and eight, and the eighth of the withdrawn eight, the ordinal of the "
+      "run at `chapter-0759.md:27`, SURVIVES THE CORRECTION UNCHANGED.")
 
 hr("10. THE SIX LOCKED FIGURES AND THE TWO ALLOWED FIGURES, AND WHAT THE VOLUME "
    "SPENDS")

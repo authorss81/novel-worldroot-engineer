@@ -101,7 +101,7 @@
 | items required by the volume's own list | **731** |
 | of those, required present in that morning's own body prose | **720** |
 | of those, required ABSENT, being the second reckoning on the eleven fourth-line mornings under section 8d of the plan | **11** |
-| **failures** | **8, and all eight are a FORM and not a value — see section 5** |
+| **failures** | **15, and all fifteen are a FORM and not a value — see section 5** |
 | figures found in a heading or an apparatus block but not in body prose | **0** |
 
 **THE SECOND RECKONING WAS CHECKED FOR ABSENCE AND NOT FOR PRESENCE, AS IT MUST BE, AND ALL ELEVEN ARE ABSENT. A SWEEP FOR THE ELEVEN VALUES IT TAKES, STANDING ALONE AND NOT INSIDE A LARGER FIGURE, RETURNS SEVEN HITS IN THE VOLUME AND EVERY ONE OF THE SEVEN IS A LIMB OF AN AGGREGATE CLAUSE IN THE FOUR HUNDREDS, WHICH IS A COLLISION IN THE SWEEP AND NOT A PRINTING OF THE RECKONING.**
@@ -122,22 +122,33 @@
 
 ---
 
-## 5. THE EIGHT FIGURES THAT ARE PRESENT IN THE WRONG FORM, NAMED BY FILE AND BY LINE, AND NOT REPAIRED
+## 5. THE FIFTEEN FIGURES THAT ARE PRESENT IN THE WRONG FORM, NAMED BY FILE AND BY LINE, AND NOT REPAIRED
 
 **EVERY VALUE IS CORRECT FOR ITS DAY AND CORRECT AGAINST THE PLAN'S OWN DAY TABLE. NOT ONE FIGURE OF ANY SERIES WAS MOVED TO PAY FOR ANY OF THEM. WHAT IS WRONG IS THE FORM THE FIGURE IS SPOKEN IN, AND A FIGURE GROUP CAN BE ASSIGNED CORRECTLY AND MISDESCRIBED AT THE SAME TIME, WHICH IS THE FINDING THE BATCH'S OWN THIRTEENTH FINDING NAMED AND THIS IS THE SAME CLASS ONE LEVEL UP.**
 
-| File | Line | Day | Morning | What the series requires | What the page prints |
-|---|---|---|---|---|---|
-| `chapter-0759.md` | 27 | 972 | 24 | the ordinal of the run is an ordinal, **five hundred and twenty-second** | **five hundred and twenty-two mornings of this run** — a cardinal where the series is an ordinal |
-| `chapter-0768.md` | 55 | 981 | 33 | the aggregate is a cardinal, **five hundred and twenty-nine** | **the five hundred and twenty-ninth stands at the top of that sheet** — the ordinal where the series is a cardinal |
-| `chapter-0770.md` | 81 | 983 | 35 | **five hundred and thirty-one** | **five hundred and thirty-first** |
-| `chapter-0771.md` | 75 | 984 | 36 | **five hundred and thirty-two** | **five hundred and thirty-second** |
-| `chapter-0772.md` | 45 | 985 | 37 | **five hundred and thirty-three** | **five hundred and thirty-third** |
-| `chapter-0774.md` | 63 | 987 | 39 | **five hundred and thirty-five** | **five hundred and thirty-fifth** |
-| `chapter-0778.md` | 21 | 991 | 43 | **five hundred and thirty-nine** | **Five hundred and thirty-ninth, five hundred and thirty-eighth, five hundred and fortieth** |
-| `chapter-0780.md` | 41 | 993 | 45 | **five hundred and forty-one** | **Five hundred and forty-first is at the head of that sheet** |
+**THE FIRST RECKONING OF THIS CLOSE PUBLISHED EIGHT OF THESE AND IS WITHDRAWN BY NAME, AND THE REASON IS THE INSTRUMENT RATHER THAN THE PAGES.** The figure check asked whether a required figure was present with `phrase in text`, which finds *five hundred and fourteen* inside *five hundred and fourteenth* and *twenty-six* inside *twenty-sixth* and *thirty-eight* inside *thirty-eighth*, because a cardinal spelled with **four**, **six** or **seven** is a PREFIX of the ordinal spelled the same way. **THE CHECK THEREFORE PASSED A MORNING THAT PRINTED THE AGGREGATE ONLY IN THE ORDINAL FORM, WHICH IS THE ONE DEFECT THE CHECK WAS BUILT TO CATCH, AND IT WAS BLIND TO EVERY VALUE ENDING IN THOSE THREE SPELLINGS.** The count is now fifteen and the test carries a word boundary; the eight are a subset of the fifteen and every one of the eight locations, values and quotations below is unchanged.
 
-**NONE WAS REPAIRED, BECAUSE REPAIRING ANY OF THEM MEANS WRITING IN A CLOSED MORNING AND A CLOSE THAT IMPROVES A MORNING BY WRITING IN IT IS NO LONGER A CLOSE. THE COST OF EACH IS ONE ORDINAL ENDING OR ONE CARDINAL IN A CLOSED MORNING AND NONE OF THE EIGHT MOVES A FIGURE OF ANY SERIES IF IT IS PAID.**
+| File | Line | Day | Morning | What the series requires | What the page prints | |
+|---|---|---|---|---|---|---|
+| `chapter-0753.md` | 71 | 966 | 18 | the aggregate is a cardinal, **five hundred and fourteen** | **five hundred and fourteenth at the head** — the ordinal where the series is a cardinal | *new* |
+| `chapter-0759.md` | 27 | 972 | 24 | the ordinal of the run is an ordinal, **five hundred and twenty-second** | **five hundred and twenty-two mornings of this run** — a cardinal where the series is an ordinal | |
+| `chapter-0765.md` | 57 | 978 | 30 | **five hundred and twenty-six** | **five hundred and twenty-sixth at the head of it** | *new* |
+| `chapter-0766.md` | 55 | 979 | 31 | **five hundred and twenty-seven** | **Five hundred and twenty-seventh is the figure at the head of that sheet** | *new* |
+| `chapter-0767.md` | 55 | 980 | 32 | **five hundred and twenty-eight** | **the one at the head is five hundred and twenty-eighth** | *new* |
+| `chapter-0768.md` | 55 | 981 | 33 | **five hundred and twenty-nine** | **the five hundred and twenty-ninth stands at the top of that sheet** — the ordinal where the series is a cardinal | |
+| `chapter-0770.md` | 81 | 983 | 35 | **five hundred and thirty-one** | **five hundred and thirty-first** | |
+| `chapter-0771.md` | 75 | 984 | 36 | **five hundred and thirty-two** | **five hundred and thirty-second** | |
+| `chapter-0772.md` | 45 | 985 | 37 | **five hundred and thirty-three** | **five hundred and thirty-third** | |
+| `chapter-0773.md` | 39 | 986 | 38 | **five hundred and thirty-four** | **The top figure on that sheet is five hundred and thirty-fourth** | *new* |
+| `chapter-0774.md` | 63 | 987 | 39 | **five hundred and thirty-five** | **five hundred and thirty-fifth** | |
+| `chapter-0775.md` | 63 | 988 | 40 | **five hundred and thirty-six** | **Five hundred and thirty-sixth, five hundred and thirty-fifth and five hundred and thirty-seventh** | *new* |
+| `chapter-0777.md` | 49 | 990 | 42 | **five hundred and thirty-eight** | **Five hundred and thirty-eighth at the head of the long sheet** | *new* |
+| `chapter-0778.md` | 21 | 991 | 43 | **five hundred and thirty-nine** | **Five hundred and thirty-ninth, five hundred and thirty-eighth, five hundred and fortieth** | |
+| `chapter-0780.md` | 41 | 993 | 45 | **five hundred and forty-one** | **Five hundred and forty-first is at the head of that sheet** | |
+
+**THE `chapter-0780.md:41` ROW IS THE ONE ROW WHERE THE SAME LINE ALSO CARRIES THE TWO CLAUSE LIMBS, AND THE CLAUSE LIMBS ARE NOT PART OF THIS FINDING.** The plan's item list asks for the aggregate as a cardinal and asks for the limb under the line and the limb over it as ordinals (`derive.py` lines 235 to 237), and the page prints *five hundred and forty-first* for the aggregate and *five hundred and fortieth* out of *five hundred and forty-second* for the clause. **THE MISDESCRIBED FIGURE ON THAT LINE IS THE AGGREGATE, WHICH IS AN ORDINAL WHERE THE SERIES IS A CARDINAL, AND THE CLAUSE IS CORRECT AS IT STANDS.**
+
+**NONE WAS REPAIRED, BECAUSE REPAIRING ANY OF THEM MEANS WRITING IN A CLOSED MORNING AND A CLOSE THAT IMPROVES A MORNING BY WRITING IN IT IS NO LONGER A CLOSE. THE COST OF EACH IS ONE ORDINAL ENDING OR ONE CARDINAL IN A CLOSED MORNING AND NONE OF THE FIFTEEN MOVES A FIGURE OF ANY SERIES IF IT IS PAID.**
 
 ---
 
@@ -166,7 +177,7 @@
 
 | Reading | Volume 16 scope | whole manuscript scope, for comparison and not a measurement of this volume |
 |---|---|---|
-| gate one, thirty-word floor | **1,297 paragraphs, 0 exact pairs** | **26,573 paragraphs, 41 exact pairs, of which ONE touches Volume 16 and that one is the locked far-end sentence, at a ratio of exactly one, in twelve files** |
+| gate one, thirty-word floor | **1,297 paragraphs, 0 exact pairs** | **26,573 paragraphs, 41 exact pairs, of which ONE touches Volume 16 and that one is the locked far-end sentence. The twelve is a file count and it comes from the exact-duplicate sweep at section 8, which prints `DUP x12 in 12 files`, and NOT from this gate's own line, whose twelve is an occurrence count over all 780 files. Inside this volume the sentence stands as a whole paragraph once, at `chapter-0736.md`.** |
 | the second gate, whole-paragraph | **4,597 units, 36 shapes, 50 excess, and none of the thirty-six is a locked figure** | **102,606 units, 2,014 shapes, 5,403 excess** |
 | the second gate, sliding eighteen-word | **69,087 windows, 620 shapes, 679 excess** | **1,589,813 windows, 47,169 shapes, 122,407 excess** |
 
@@ -336,7 +347,7 @@
 
 **A CLOSE THAT REPORTS A DEFECT AND LEAVES IT ON THE PAGE MUST SAY SO IN THE LOCK, BECAUSE A STATE FILE THAT RECORDS ONLY THE FINDING WILL BE INHERITED AS A FLOOR THAT HELD.**
 
-1. **EIGHT FIGURES ARE PRESENT IN THE WRONG FORM.** Seven aggregates printed as ordinals and one ordinal of the run printed as a cardinal, on `chapter-0759.md:27`, `chapter-0768.md:55`, `chapter-0770.md:81`, `chapter-0771.md:75`, `chapter-0772.md:45`, `chapter-0774.md:63`, `chapter-0778.md:21` and `chapter-0780.md:41`. Every value is correct. Section 5.
+1. **FIFTEEN FIGURES ARE PRESENT IN THE WRONG FORM.** Fourteen aggregates printed as ordinals and one ordinal of the run printed as a cardinal, on `chapter-0753.md:71`, `chapter-0759.md:27`, `chapter-0765.md:57`, `chapter-0766.md:55`, `chapter-0767.md:55`, `chapter-0768.md:55`, `chapter-0770.md:81`, `chapter-0771.md:75`, `chapter-0772.md:45`, `chapter-0773.md:39`, `chapter-0774.md:63`, `chapter-0775.md:63`, `chapter-0777.md:49`, `chapter-0778.md:21` and `chapter-0780.md:41`. Every value is correct. **THE FIRST RECKONING OF THIS CLOSE PUBLISHED EIGHT OF THE FIFTEEN, BECAUSE ITS OWN PRESENCE TEST FOUND A CARDINAL SPELLED FOUR, SIX OR SEVEN INSIDE THE ORDINAL SPELLED THE SAME WAY, AND IT WAS BLIND TO EVERY VALUE ENDING IN THOSE THREE SPELLINGS.** Section 5.
 2. **THE SLIDING READING OVER THE WHOLE VOLUME RETURNS SIX HUNDRED AND THREE UNLOCKED SHAPES IN FIVE HUNDRED AND SIXTY-THREE FAMILIES**, being the volume's own standing blocks restated in the same words across mornings. Closed prose. Section 7.
 3. **THE SAME SEVEN-WORD LINE STANDS TWICE, AT `chapter-0735.md:55` AND `chapter-0736.md:43`**, in a closed morning of the volume behind and in the first morning of this volume. It is seven words, it is below the eighteen-word window both gates run on, and it is neither a boundary line in either file. Section 8.
 4. **SIX HUNDRED AND THREE SLIDING SHAPES ARE THE VOLUME'S OWN STANDING BLOCKS, AND THE FIGURES THEY CARRY DIFFER WHILE THE WORDS AROUND THEM DO NOT.** *The compost board at the back of the tap house read paid at thirty-one* opens on four mornings, *Kellan Rusk came out to the step with the register form under his arm* on seven, *no column cut under any of them* in thirteen places on twelve mornings, and *Tova Reed had the four ages on the corner of the seed board* on eight. Closed prose, and the word *verbatim* is withdrawn: what repeats is an opening clause under a collapsing normalisation and not a whole paragraph. Sections 7 and 8.
@@ -346,7 +357,7 @@
 
 8. **THE LAST MORNING OF THE BOOK CONTRADICTS ITSELF ABOUT THE LOW ROAD, AND IT IS THE MORNING THE OPEN WINDOW IS MEASURED ON.** `chapter-0780.md:7` says *Not one person in this holding was on that road at any hour of that morning, and nobody here sent anybody onto it.* `chapter-0780.md:5` puts a man on that road before the light and at the top of it at about the fourth hour, and `chapter-0780.md:49` has the same man say *I was up that low road before the light and I am going to be up it again before the light.* **THE PAGE NEVER SAYS WHOSE MEMBERSHIP IS NOT IN THE HOLDING. A FIGURE CHECK CANNOT SEE IT, A PARITY READING CANNOT SEE IT, NEITHER GATE CAN, AND THE SENTENCE THAT WAS SUPPOSED TO CERTIFY NON-ENTRY IS THE ONE THAT IS CONTRADICTED.** Closed prose, reported, not repaired. **THE CONSEQUENCE FOR THIS CLOSE'S OWN FIFTH OWED ITEM IS THAT NON-ENTRY IS NOT MEASURED FROM THAT LINE AND IS NOT MEASURED AT ALL: what is measured is that the window is open, that nobody described it, that nobody named it, and that one man went to the top of that road before the light.**
 
-**NONE OF THE EIGHT WAS REPAIRED IN A MORNING. FIVE ARE IN CLOSED PROSE AND REPAIRING THEM MEANS WRITING IN A CLOSED MORNING. TWO ARE IN `outline/volume-16.md`, WHICH IS A COMPLETED PHASE'S FILE AND IS OWED A CORRECTION BY A PASS WITH THE STANDING TO EDIT IT. THE SEVENTH IS AN INSTRUMENT AND NOT A PAGE, AND IT IS REPAIRED IN THE HARNESS AT `workspace/volume-16/close/verify_close.py` AND PRINTED IN SECTION 9, AND NO PAGE WAS TOUCHED TO PAY FOR IT.**
+**NONE OF THE EIGHT WAS REPAIRED IN A MORNING. SIX ARE IN CLOSED PROSE AND REPAIRING THEM MEANS WRITING IN A CLOSED MORNING. ONE IS IN `outline/volume-16.md`, WHICH IS A COMPLETED PHASE'S FILE AND IS OWED A CORRECTION BY A PASS WITH THE STANDING TO EDIT IT. THE EIGHTH IS AN INSTRUMENT AND NOT A PAGE, AND IT IS REPAIRED IN THE HARNESS AT `workspace/volume-16/close/verify_close.py` AND PRINTED IN SECTION 9, AND NO PAGE WAS TOUCHED TO PAY FOR IT.**
 
 ---
 
@@ -365,7 +376,17 @@
 
 **AND THE ONE THING THE REVIEW NAMED THAT REQUIRED A RULING RATHER THAN A FIX: that the harness held a literal name in a sweep pattern. THE PATTERN HAS BEEN REMOVED AND THE INSTRUMENT REPLACED, BECAUSE THIS CLOSE MAY NOT PRINT THAT NAME ANYWHERE AND A FILE IT CREATES IS NOT AN EXEMPT PLACE. THE REPLACEMENT PRINTS EVERY CAPITALISED WORD STANDING MID-SENTENCE IN THE FORTY-FIVE MORNINGS — ONE HUNDRED AND ELEVEN OF THEM — AND THE NAME IS NOT AMONG THEM, WHICH IS A STRONGER MEASUREMENT THAN A SWEEP, BECAUSE IT CAN BE CHECKED WITHOUT BEING GIVEN THE WORD.**
 
+---
 
+## 13b. A SECOND REVIEW AGAINST THIS RECORD, AND THE ONE FIGURE IT FOUND THAT WAS NOT A FINDING BUT A BLIND SPOT IN THE INSTRUMENT THAT PRODUCED THE FINDINGS
+
+**RUN 2026-10-04 AGAINST THIS RECORD, THE LOCK, THE FOUR STATE SECTIONS AND THIS HARNESS. NO MORNING WAS ALTERED. EVERY FIGURE BELOW WAS RE-DERIVED FROM THE PAGES.**
+
+1. **THE FIGURE CHECK'S PRESENCE TEST HAD NO WORD BOUNDARY, AND A CARDINAL SPELLED FOUR, SIX OR SEVEN IS A PREFIX OF THE ORDINAL SPELLED THE SAME WAY.** `phrase in text` therefore found *five hundred and fourteen* inside *five hundred and fourteenth*, *twenty-six* inside *twenty-sixth*, *twenty-seven* inside *twenty-seventh*, *twenty-eight* inside *twenty-eighth*, *thirty-four* inside *thirty-fourth*, *thirty-six* inside *thirty-sixth* and *thirty-eight* inside *thirty-eighth*. **THE CHECK WAS THEREFORE PASSING EVERY MORNING THAT PRINTED THE AGGREGATE ONLY IN THE ORDINAL FORM, WHICH IS THE ONE DEFECT THE CHECK EXISTS TO CATCH, AND IT WAS BLIND TO EVERY VALUE ENDING IN THOSE THREE SPELLINGS WHILE BEING EXACT ON EVERY VALUE ENDING IN NINE, ONE, TWO, THREE OR FIVE, WHERE THE TWO SPELLINGS DIVERGE AT THE FINAL LETTER. THAT IS WHY THE WITHDRAWN EIGHT WERE PRECISELY THE SEVEN AGGREGATES ENDING IN NINE, ONE, TWO, THREE AND FIVE PLUS THE ONE ORDINAL OF THE RUN. The count is 15, not 8.** The test now carries `(?![a-z])` and the count is driven by the failure list rather than typed, so it cannot drift from the table above again. **EVERY OTHER FIGURE IN THIS RECORD IS UNCHANGED, AND `MEASUREMENT.txt` DIFFERS FROM ITS PREDECESSOR ON THIS SECTION, ON THE FIGURE-CHECK LINE AND ON THE TWO LINES BELOW, AND NOWHERE ELSE.**
+2. **THE GATE-ONE LINE NAMED ONE FILE FOR A PARAGRAPH THAT STANDS TWELVE TIMES, AND CHOSE IT BY ITERATION ORDER.** `names[k] = n` is a last-write-wins assignment over a loop, so `chapter-0736.md` was whichever of the volume's own carriers came last, not a report of where the paragraph stands. It now collects every carrier. **THE FIGURE TWELVE IS ALSO A FILE COUNT, BUT IT COMES FROM THE EXACT-DUPLICATE SWEEP AT SECTION 8, WHICH PRINTS `DUP x12 in 12 files`, AND NOT FROM THE GATE-ONE LINE THE LOCK CITED. THE LOCK ROW HAS BEEN REWRITTEN TO NAME THE UNIT, THE SCOPE AND THE LINE THAT SUPPORTS IT.**
+3. **THE RAW OUTPUT WAS NOT BYTE-REPRODUCIBLE ACROSS PYTHON HASH SEEDS.** The parity reading sorted a two-element SET by length alone, and on most days both cardinals are the same length, so the two rows of the demonstration swapped places between runs and a reviewer checking reproduction would get a spurious four-line diff. The sort now breaks the tie on the string. **THREE SEEDS GIVE THREE IDENTICAL FILES, AND A MEASUREMENT THAT CANNOT BE RE-READ IDENTICALLY IS NOT A MEASUREMENT.**
+
+**AND THE ONE REVIEW RULING THAT WAS DECLINED: that the `chapter-0780.md:41` row of section 5 quotes the wrong clause, on the ground that *Five hundred and forty-first is at the head of that sheet* is the correctly formed ordinal and that the defect is *the five hundred and forty-second is the one above the rule*. IT IS DECLINED AGAINST THE PLAN.** The item list at `outline/volume-16.md` section 10a and `derive.py` lines 235 to 237 ask for the aggregate as a cardinal and for both clause limbs as ordinals, and the page prints an ordinal for the aggregate and ordinals for both limbs. **THE MISDESCRIBED FIGURE IS THE AGGREGATE, THE QUOTED CLAUSE IS THE OFFENDING ONE, AND THE CLAUSE LIMBS ARE CORRECT AS THEY STAND.** The row was already right and was left as it stands, with the reasoning printed above it so that the next reader does not have to re-derive it.
 
 ---
 

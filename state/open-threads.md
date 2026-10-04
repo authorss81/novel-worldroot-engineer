@@ -1310,17 +1310,17 @@ PUBLISHED RESULTS, FOR THE REGION THAT REFUSES THE TEST, FOR THE SEQUENCE, OR FO
 
 ### The thirty-five, and the only figure that may be published for them
 
-**THIRTY-FIVE IN AND THIRTY-FIVE OUT AT THE END OF THE BOOK.** Stated twice in the volume, at `chapter-0775.md:73` and at `chapter-0780.md:37`, and **a sweep for any figure published for them other than thirty-five returns zero across all forty-five mornings.** No thirtieth-sixth row was cut anywhere in this volume; the six not knowns stayed six and no seventh ruled row was cut for the ring, the load, the charter, the schedule, either refusal, the region that refuses the test or the route a rootwoken community named. **The close answered none of them and a close may not.**
+**THIRTY-FIVE IN AND THIRTY-FIVE OUT AT THE END OF THE BOOK, stated at `chapter-0775.md:73` and `chapter-0780.md:37`, and a sweep for any figure published for them other than thirty-five returns zero across all forty-five mornings.** No thirtieth-sixth row was cut; the six not knowns stayed six and no seventh ruled row was cut for the ring, the load, the charter, the schedule, either refusal, the region that refuses the test or the route a rootwoken community named. **The close answered none of them and a close may not.**
 
 - **A REFUSAL IS NOT A CLOSURE. A RECORD IS NOT AN ANSWER. A HAND-OVER IS NOT AN ANSWER. A NAMED ROUTE IS NOT AN ANSWER. A MARGIN NAMED IS NOT AN ANSWER. A SIGNATURE IS NOT AN ANSWER. A SCHEDULE IS NOT AN ANSWER. A REGION THAT REFUSES A TEST HAS CLOSED NOTHING.**
 
 ### The four losses
 
-**FOUR AND FOUR AFTER ALL FORTY-FIVE MORNINGS, none reduced, none softened, none recovered, none re-named, none priced, no fifth added by anybody for any reason.** The word *losses* appears nowhere in the volume. The first is made irreversible by the act on the thirty-sixth morning and **the act is not a fifth loss**. The thing that is paid is referred to nowhere by name on any page of this volume. The arrangement of people who may let go was not named and no operation in either of the two words is described. **No hand went on her arm on any of these forty-five mornings and the four mornings that mention it are four statements that nobody laid one there.**
+**FOUR AND FOUR AFTER ALL FORTY-FIVE MORNINGS, none reduced, none softened, none recovered, none re-named, none priced, no fifth added.** The word *losses* appears nowhere in the volume, the thing that is paid is named nowhere on any page of it, and **no hand went on her arm on any of these forty-five mornings — the four that mention it are four statements that nobody laid one there.** The first is made irreversible by the act on the thirty-sixth morning and **the act is not a fifth loss.**
 
 ### The second place
 
-**STILL WITHOUT WATER AT THE END OF THE BOOK, on a board, read out in a yard in front of about nine people on the last morning, and that is where it ends.** Not restored, not apportioned, not dated, not deferred, not described as temporary, **and covered by nothing signed in this volume**, because no document has been signed by anyone at any point and a refusal of something that was never accepted is a different thing.
+**STILL WITHOUT WATER AT THE END OF THE BOOK, on a board, read out in a yard in front of about nine people on the last morning, and that is where it ends.** Not restored, not apportioned, not dated, not deferred, not described as temporary, **and covered by nothing**, because no document has been signed by anyone at any point and a refusal of something that was never accepted is a different thing.
 
 ### The open external pressure
 
@@ -1328,14 +1328,9 @@ PUBLISHED RESULTS, FOR THE REGION THAT REFUSES THE TEST, FOR THE SEQUENCE, OR FO
 
 ### The eight findings the close left, unrepaired, so that they are not inherited as floors that held
 
-1. **Eight figures printed in the wrong form, every value correct** — `chapter-0759.md:27`, `chapter-0768.md:55`, `chapter-0770.md:81`, `chapter-0771.md:75`, `chapter-0772.md:45`, `chapter-0774.md:63`, `chapter-0778.md:21`, `chapter-0780.md:41`.
-2. **Six hundred and three unlocked sliding shapes at whole-volume scope, in five hundred and sixty-three families**, against a nil published by all five batches at batch scope.
-3. **A seven-word line stands twice, at `chapter-0735.md:55` and `chapter-0736.md:43`,** below the gate window and at neither file's boundary.
-4. **Six hundred and three sliding shapes are this holding's own standing blocks,** and what repeats is an opening clause under a collapsing normalisation and not a whole paragraph: *the compost board at the back of the tap house read paid at thirty-one* on four mornings, the bookkeeper's step on seven, *no column cut under any of them* in thirteen places on twelve mornings, *Tova Reed had the four ages on the corner of the seed board* on eight.
-5. **The phrase *nine minutes* twice on `chapter-0774.md`,** as an elapsed duration and not as the name of a capacity.
-6. **`outline/volume-16.md`'s own prose contradicts its own day table on both reckonings,** and the eleven pages agree with the table and not with the prose.
-7. **The house's own `Entered`-label sweep returns a false zero** on the house's own printed form `> **Entered**`.
-8. **The last morning of the book contradicts itself about the low road,** the road the open window is measured from: `chapter-0780.md:7` says not one person in this holding was on it, `chapter-0780.md:5` puts a man on it before the light, and `chapter-0780.md:49` has that man say he was up it before the light and will be up it again. **The page never says whose membership is not in the holding, and non-entry is therefore neither measured nor claimed anywhere in this layer.**
+**FIFTEEN FIGURES IN THE WRONG FORM WITH EVERY VALUE CORRECT, at fourteen aggregates printed as ordinals and the ordinal of the run printed as a cardinal, listed with file and line at `state/current.md` section 31d; SIX HUNDRED AND THREE UNLOCKED SLIDING SHAPES AT WHOLE-VOLUME SCOPE IN FIVE HUNDRED AND SIXTY-THREE FAMILIES, against a nil all five batches published at batch scope, and those same shapes being this holding's own standing blocks, so what repeats is an opening clause under a collapsing normalisation and not a whole paragraph; A SEVEN-WORD LINE STANDING TWICE, at `chapter-0735.md:55` AND `chapter-0736.md:43`, below the gate window and at neither file's boundary; THE PHRASE *NINE MINUTES* TWICE ON `chapter-0774.md`, a duration and not the name of a capacity; `outline/volume-16.md`'S OWN PROSE CONTRADICTING ITS OWN DAY TABLE ON BOTH RECKONINGS, with the eleven pages agreeing with the table; THE HOUSE'S OWN `Entered`-LABEL SWEEP RETURNING A FALSE ZERO ON THE HOUSE'S OWN PRINTED FORM `> **Entered**`; AND THE LAST MORNING CONTRADICTING ITSELF ABOUT THE LOW ROAD — `chapter-0780.md:7` says not one person in this holding was on it, `:5` puts a man on it before the light and `:49` has that man say he was up it before the light and will be up it again.**
+
+**NONE OF THE EIGHT WAS REPAIRED ON A PAGE, because repairing one means writing in a closed morning; the `Entered` sweep was repaired in the instrument. The consequence that matters here is the eighth: the page never says whose membership is not in the holding, so non-entry on that road is neither measured nor claimed anywhere in this layer.**
 
 ### The three that were never this holding's to settle
 
