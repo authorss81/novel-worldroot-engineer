@@ -1304,3 +1304,45 @@ It inherited the plate at the head of the channel, which nobody was put over and
 ### 23c. What this section does not do
 
 **IT SETTLES NOTHING IN THE MANUSCRIPT. NO MORNING IS AFFECTED BY ANYTHING ABOVE, THE PREMISE DRIFT AT SECTION ONE OF THIS FILE IS STILL FIRST IN THE DECISION QUEUE AND IS STILL UNSETTLED, AND THERE IS NO PHASE AFTER THE CLOSE OF VOLUME SIXTEEN. THE CARD SET IS THE ONE PHASE THAT STILL EXISTS ON DISK AND ITS OUTPUT IS COMPLETE.**
+
+---
+
+## 24. The series close of 2026-10-04, and the three items that were never this holding's to settle, of which two are now settled
+
+**THIS PASS WROTE NO PROSE AND ALTERED NO MORNING. IT SETTLED NOTHING IN THE MANUSCRIPT. IT PAID TWO FILE-LEVEL DEFECTS THAT A PASS BEFORE IT NAMED AND OWED, AND IT MEASURED THE BOOK AT A SCOPE NO PASS HAD RUN AN INSTRUMENT AT. ITS RECORD IS `reviews/series-close.findings.md` AND ITS RAW OUTPUT IS `workspace/series-close/MEASUREMENT.txt`.**
+
+### 24a. The premise drift, still first in the queue, and now measured at the scope of the whole book
+
+**`Worldroot` AND `Rootway` BOTH RETURN ZERO ACROSS ALL SEVEN HUNDRED AND EIGHTY MORNINGS. The specification carries *Worldroot* once, `outline/series.md` eleven *Rootway*, `outline/ending.md` four and ten, `bible/premise.md` two and five, `bible/world.md` five, `bible/themes.md` one and one. THE BIBLE IS AUTHORITATIVE AND DESCRIBES A STORY THAT WAS NOT WRITTEN, AND THE MANUSCRIPT IS NOT EVIDENCE THAT THE PREMISE IS RETIRED.**
+
+**IT IS UNCHANGED IN KIND FROM WHAT SECTION ONE OF THIS FILE HAS SAID SINCE THE EARLY VOLUMES. IT IS CHANGED IN ONE RESPECT ONLY, AND THAT RESPECT IS WHY IT IS REPEATED HERE: it has now been measured across the entire finished manuscript rather than across a batch, and a human deciding between re-planning against the bible and retiring the bible is deciding against a figure and not against an impression.**
+
+**A HUMAN DECIDES. NO PASS MAY RETIRE THE PREMISE, NO PASS MAY RETIRE THE BIBLE, AND NO PASS MAY ADD THE WORD TO A CLOSED MORNING.**
+
+### 24b. The two series files, PAID
+
+**THE THREE THAT WERE NEVER THIS HOLDING'S TO SETTLE WERE THE PREMISE DRIFT, THE TWO SERIES FILES PLACING A SURRENDER IN A VOLUME WHOSE MORNINGS DO NOT CARRY IT, AND THE CHAPTER RANGE IN THE FIRST LINE OF `outline/ending.md`. TWO OF THE THREE ARE FILE-LEVEL DEFECTS OWED TO A PASS WITH THE STANDING TO EDIT THOSE FILES, AND THIS PASS HAS THE STANDING AND HAS PAID BOTH. THE THIRD IS A HUMAN DECISION AND IS STILL NOT SETTLED.**
+
+| the defect | the correction | the evidence it was corrected against |
+|---|---|---|
+| `outline/series.md:307` gave Volume 13's climax as the surrender, and `outline/series.md:310` repeated it in the Power line | both now name **Volume 14, day 868, `chapter-0655.md`**, and state the Volume 13 nil beside the correction | a case-insensitive sweep for `aldren` across Volume 13's forty-nine mornings returns **zero**; the name is on four pages of the book and the fourth is `chapter-0655.md`, in his own mouth |
+| `outline/ending.md:39` said *the specific Aldren memory he surrendered in Volume 13* | now names **Volume 14, day 868, `chapter-0655.md`**, and repeats the nil | the same sweep |
+| `outline/ending.md:3` read *the immediate climax in Chapters 756–773* | now reads **the major turn on Chapter 756, the climax on Chapter 767, the final irreversible act on Chapter 771, the resolution on Chapter 777, and a full aftermath through 780** | `outline/batches/volume-16-cards.md` section seven, which is the only file in the repository that owns the placement; the old range began the climax on the major turn and ended it three mornings before the resolution |
+
+**NO LOCK WAS APPENDED TO `outline/ending.md` AND NO CANON CONSTRAINT WAS ALTERED. A seventeenth lock would name a seventeenth volume and there is none, so the correction sits inside the canon-constraint text and this section is where it is recorded.**
+
+### 24c. What is now continuous that was not stated, and it belongs to every volume
+
+**THE DAY MAP IS `day = chapter + 213`, AND NO FILE IN THIS REPOSITORY PRINTED IT UNTIL THIS PASS. It holds on 188 of the book's 193 dated headings. The five that disagree are all in Volumes Two and Three: `chapter-0129.md` 571 against 342, `chapter-0144.md` 601 against 357, `chapter-0159.md` 631 against 372, `chapter-0178.md` 661 against 391, `chapter-0204.md` 361 against 417.**
+
+**AND `month(d) = 4 + (d − 451) // 30`, WHICH THIS LAYER PRINTS AS THE CLOCK, RETURNS A MONTH BELOW ONE FOR ANY DAY BEFORE 361. NO MORNING BEFORE CHAPTER 148 CAN BE DATED FROM IT. Every figure in this layer that is day-minus arithmetic is re-derivable at its day; the calendar that would let a reader date a morning is not re-derivable for the first 147 mornings, and that is a fact about the calendar and not about any morning.**
+
+**AND TWO DATED HEADINGS USE CARDINALS WHERE THE REST USE ORDINALS, both dates right: `chapter-0618.md` and `chapter-0626.md`, days 831 and 839.**
+
+**ALL SEVEN ARE CLOSED HEADINGS. REPORTED AND NOT REPAIRED.**
+
+### 24d. What this pass did not settle, and did not touch
+
+**THE MANUSCRIPT. EVERY CLOSED MORNING. THE BIBLE. `outline/volume-16.md` sections 9 and 10a, whose rule errors are a volume-plan repair and not a series close. THE THIRTY-FIVE, WHICH ARE THIRTY-FIVE IN AND THIRTY-FIVE OUT. THE FOUR LOSSES, WHICH ARE FOUR. THE SECOND PLACE, WHICH IS STILL WITHOUT WATER AND IS READ OFF A BOARD ON THE LAST MORNING OF THE BOOK. THE PRUNING WINDOW, WHICH IS OPEN AND WAS NOT ENTERED, DESCRIBED OR NAMED.**
+
+**AND THE WHOLE-BOOK GATE IS THE ONE MEASUREMENT THAT OUGHT TO CHANGE HOW A REVIEWER READS EVERY EARLIER NIL IN THIS FILE: across all 780 mornings the sliding eighteen-token reading returns 1,583,587 windows and 37,892 repeated shapes and 77,594 excess, against 69,087 and 679 in the one volume ever measured at volume scope. THAT IS FIVE TIMES THE RATE PER THOUSAND WINDOWS, AND EVERY CLEAN NIL EVER PUBLISHED IN THIS MANUSCRIPT WAS A BATCH-SCOPED NIL. A batch that published a clean nil did not lie; it measured the wrong universe.**

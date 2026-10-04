@@ -304,10 +304,10 @@ The series must show the cost of a new stage in ordinary scenes. A stronger capa
 - **Central pressure:** The original covenant must be made public before the first White Mercy pruning phase begins, but the evidence lives in Marek's most private memory.
 - **Starting state:** The network is plural on paper, but the Crown can still weaponize the Engine's stored pattern memory.
 - **Major turn:** The Deep Archive proves the First Continuity covenant explicitly forbade permanent binding and that later leaders removed the restriction. A neutral Rootwright repeats the read through a separate anchor, while a dated seed-house ledger and a surviving maintenance log independently corroborate the relay record.
-- **Volume climax:** Marek surrenders one irreplaceable Aldren memory containing the edited record as public evidence. The independent read and two external records make the claim verifiable, but he loses that single memory and can never revisit it himself.
+- **Volume climax:** The claim is made public and made verifiable by the independent read and the two external records. **The surrender of the Aldren memory is NOT paid in this volume: a case-insensitive sweep for the name across Volume 13's forty-nine mornings returns ZERO, and the pages govern.** **The surrender is paid on day 868 in Volume 14, at `chapter-0655.md`, in his own mouth, and it is the fourth of the four permanent losses and not a fifth.** He loses that single memory and can never revisit it himself.
 - **Concrete resolution:** A public mandate requires distributed limits, but Iona calls Marek a traitor and starts the first White Mercy pruning phase at dawn: a limited, announced core test. The full operation remains scheduled for the final volumes.
 - **Next question:** What does Marek become when the mystery that organized his life is finally answered?
-- **Power:** Stage 7; public accountability costs him one irreplaceable Aldren memory, while continuous Deep Archive access remains available until the final rootmark transfer.
+- **Power:** Stage 7; public accountability costs him one irreplaceable Aldren memory, **paid on day 868 in Volume 14 and not in this one**, while continuous Deep Archive access remains available until the final rootmark transfer.
 - **Antagonist:** Iona's final ideological and material escalation.
 - **Relationship:** Tova supports the public sacrifice but refuses to define love as permission to suffer for it.
 
