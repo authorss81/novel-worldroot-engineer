@@ -1,6 +1,6 @@
 # Ending Outline: The Worldroot Engineer
 
-This document fixes the final destination before chapter prose is drafted. The final volume is Chapters 736–780, with the immediate climax in Chapters 756–773 and a full aftermath through 780. The details may be staged in prose, but the choices and outcomes below are canon constraints.
+This document fixes the final destination before chapter prose is drafted. The final volume is Chapters 736–780, with the major turn on Chapter 756, the climax on Chapter 767, the final irreversible act on Chapter 771, the resolution on Chapter 777, and a full aftermath through 780. The details may be staged in prose, but the choices and outcomes below are canon constraints.
 
 ## Final external conflict: The White Mercy
 
@@ -36,7 +36,7 @@ Iona is not killed. She is cut off from the Engine and placed under public custo
 
 Marek and Tova are partners in both senses: romantic and practical, but not interchangeable. Tova does not leave seed politics to become his support. Marek does not ask her to anchor his final operation without informed consent. Their shared life includes separate workrooms, travel, disagreement, and the expectation that either can refuse a project.
 
-The relationship has no cure-all ending. Tova's hearing remains partially damaged from the memory work in Volume 08. The earlier public-evidence cost is permanent: Marek can no longer revisit the specific Aldren memory he surrendered in Volume 13. After the rootmark transfer, he also loses continuous regional awareness but feels any directly connected anchor's stress more sharply, so he must sometimes disconnect from the network rather than push through its pain. They build a life around those costs rather than pretending the victory erased them.
+The relationship has no cure-all ending. Tova's hearing remains partially damaged from the memory work in Volume 08. The earlier public-evidence cost is permanent: Marek can no longer revisit the specific Aldren memory he surrendered **in Volume 14, on day 868, at `chapter-0655.md`, and not in Volume 13, whose forty-nine mornings do not carry the name.** After the rootmark transfer, he also loses continuous regional awareness but feels any directly connected anchor's stress more sharply, so he must sometimes disconnect from the network rather than push through its pain. They build a life around those costs rather than pretending the victory erased them.
 
 Sera survives and loses her professional title. She becomes an archive steward under the Root Commons, where her knowledge is useful because it is no longer private authority. Soren represents wild-root refusal inside the new structure. Nia remains a traveling coordinator and does not return permanently to Lantern Reach. Kellan lives under a monitored charter and testifies about Crown coercion. Halden retires from the Assembly after publicly withdrawing his blanket veto, apologizes to the Thornwild council, and teaches inspection protocols with a local veto. Tarin is captured while destroying the last Engine relay; he gives records-based testimony under guard, receives no pardon, and refuses to join the commons. Lissa Vale works beside Marek in the seed house after the final crisis without declaring the abandonment forgiven; the old wound becomes a condition they both maintain rather than a debt Marek can erase.
 

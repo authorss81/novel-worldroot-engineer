@@ -1,0 +1,253 @@
+==============================================================================
+1. THE CONTRACT MAP
+==============================================================================
+chapter files on disk: 780
+first chapter number: 1   last: 780
+duplicated chapter numbers: NONE
+missing chapter numbers in 1..780: NONE
+stray chapter numbers above 780: NONE
+
+ vol  files  first   last  batches
+   1     49      1     49  batch-0001, batch-0002, batch-0003, batch-0004, batch-0005
+   2     49     50     98  batch-0001, batch-0002, batch-0003, batch-0004, batch-0005
+   3     49     99    147  batch-0001, batch-0002, batch-0003, batch-0004, batch-0005
+   4     49    148    196  batch-0001, batch-0002, batch-0003, batch-0004, batch-0005
+   5     49    197    245  batch-0001, batch-0002, batch-0003, batch-0004, batch-0005
+   6     49    246    294  batch-0001, batch-0002, batch-0003, batch-0004, batch-0005
+   7     49    295    343  batch-0001, batch-0002, batch-0003, batch-0004, batch-0005
+   8     49    344    392  batch-0001, batch-0002, batch-0003, batch-0004, batch-0005
+   9     49    393    441  batch-0001, batch-0002, batch-0003, batch-0004, batch-0005
+  10     49    442    490  batch-0001, batch-0002, batch-0003, batch-0004, batch-0005
+  11     49    491    539  batch-0001, batch-0002, batch-0003, batch-0004, batch-0005
+  12     49    540    588  batch-0001, batch-0002, batch-0003, batch-0004
+  13     49    589    637  batch-0001, batch-0002, batch-0003, batch-0004, batch-0005
+  14     49    638    686  batch-0001, batch-0002, batch-0003, batch-0004, batch-0005
+  15     49    687    735  batch-0001, batch-0002, batch-0003, batch-0004, batch-0005
+  16     45    736    780  batch-0001, batch-0002, batch-0003, batch-0004, batch-0005
+
+sum of per-volume file counts: 780
+contract: 15 volumes of 49 and a final volume of 45, for 780 in all
+15 x 49 + 45 = 780
+volumes whose length does not match the contract: NONE
+every volume contiguous in chapter numbers: YES
+
+==============================================================================
+2. THE CLOCK, RUN FROM ITS OWN RULE, COMPARED AGAINST EVERY DATED HEADING
+==============================================================================
+rule: day 451 is a Tuesday, the first of the fourth month, months run thirty
+weekday(d) = [Tuesday..Monday][(d - 451) mod 7]
+day of month(d) = (d - 451) mod 30 + 1        month(d) = 4 + (d - 451) // 30
+
+AND THE DAY MAP THE CHAPTER NUMBERS GIVE, WHICH NO FILE STATES AS A RULE:
+day = chapter + 213. It is verified below against the dated headings, and a
+reading that takes it on trust instead is not a reading.
+
+chapters whose heading names a day of month and a month: 193
+chapters whose heading names no date at all: 581
+headings matching the pattern but with an ordinal outside one to thirty: 6
+
+THE MAP IS NOT ASSUMED. It is read back out of the headings themselves: day =
+451 + 30 * (month - 4) + (day of month - 1), and the offset between that day and
+the chapter number is counted across every dated heading in the book.
+
+  distinct offsets (day less chapter) across 193 dated headings: 6
+    offset   213: 188 headings
+    offset   442: 1 headings
+    offset   457: 1 headings
+    offset   472: 1 headings
+    offset   483: 1 headings
+    offset   157: 1 headings
+
+
+THE FIVE DATED HEADINGS THAT DISAGREE WITH THE MAP, WHICH IS EVERY ONE OF
+THEM IN VOLUMES TWO AND THREE AND NONE OF THEM IN THE THIRTEEN BEHIND:
+    chapter-0129.md: chapter 129 reads as day 571, the map gives 342, the heading is 'The First Of The Eighth'
+    chapter-0144.md: chapter 144 reads as day 601, the map gives 357, the heading is 'The First Of The Ninth'
+    chapter-0159.md: chapter 159 reads as day 631, the map gives 372, the heading is 'The First Of The Tenth'
+    chapter-0178.md: chapter 178 reads as day 661, the map gives 391, the heading is 'The First Of The Eleventh'
+    chapter-0204.md: chapter 204 reads as day 361, the map gives 417, the heading is 'The First Of The First'
+
+THE HEADINGS THAT MATCH THE SHAPE BUT CARRY SOMETHING ELSE:
+    chapter-0032.md: 'The Name Of The President'  ('name' of 'president')
+    chapter-0064.md: 'The Order Of The Work'  ('order' of 'work')
+    chapter-0239.md: 'The Sixteenth Of The Month'  ('sixteenth' of 'month')
+    chapter-0266.md: 'The Top Of The Valley'  ('top' of 'valley')
+    chapter-0618.md: 'The Twenty-One Of The Sixteenth, And A Pin Taken Out Of A Gate After Three Weeks'  ('twenty-one' of 'sixteenth')
+    chapter-0626.md: 'The Twenty-Nine Of The Sixteenth, And A Man Shown A Rack And Asked A Question With No Rule Behind It'  ('twenty-nine' of 'sixteenth')
+
+**TWO OF THOSE ARE DATED HEADINGS USING CARDINALS WHERE THE OTHER HUNDRED AND
+EIGHTY-ODD USE ORDINALS, AND BOTH DATES ARE RIGHT: chapter-0618.md reads *The
+Twenty-One Of The Sixteenth* and chapter-0626.md reads *The Twenty-Nine Of The
+Sixteenth*, being days 831 and 839. THE HOUSE FORM IS THE ORDINAL. REPORTED AND
+NOT REPAIRED, BOTH MORNINGS BEING CLOSED.**
+
+AND THE CLOCK AS PRINTED IN THE STATE LAYER IS NOT REACHABLE BACKWARD:
+month(d) = 4 + (d - 451) // 30 returns a month below one for any day before 361,
+so the printed calendar has no months of its own before that day and no morning
+in this manuscript can be dated from it.
+
+day 451 falls on chapter 238 and day 993 on chapter 780
+day 361 falls on chapter 148 , the earliest day the printed calendar reaches
+and the ordinal of the run, day - 450, stands at 543 on the last morning, which is
+the figure chapter 780 reads out on its own page.
+
+==============================================================================
+3. THE WORD FIGURES, PER FILE AND NEVER BY CONCATENATION
+==============================================================================
+manuscript: 2130297 words across 780 files, len(text.split()) per file
+  volume  1:  49 files,  166022 words
+  volume  2:  49 files,  141818 words
+  volume  3:  49 files,  142952 words
+  volume  4:  49 files,  141727 words
+  volume  5:  49 files,  144846 words
+  volume  6:  49 files,  146883 words
+  volume  7:  49 files,  140227 words
+  volume  8:  49 files,  139423 words
+  volume  9:  49 files,  141658 words
+  volume 10:  49 files,  141223 words
+  volume 11:  49 files,  143305 words
+  volume 12:  49 files,  118058 words
+  volume 13:  49 files,   91321 words
+  volume 14:  49 files,  116146 words
+  volume 15:  49 files,  115783 words
+  volume 16:  45 files,   98905 words
+  sum of volumes one to fifteen: 2031392
+  volume sixteen: 98905
+  reconciliation: 2031392 + 98905 = 2130297
+
+published figures this measurement is checked against:
+  state/current.md 31a and state/chapter-summaries.md final table:
+  2,130,297 across 780; volumes one to fifteen 2,031,392; volume sixteen 98,905
+  measured total minus published: 0
+  measured one-to-fifteen minus published: 0
+  measured sixteen minus published: 0
+  files lacking an EOF newline: 75, which is the named residual
+
+per-volume sixteen, per file, for the record:
+  2716, 2316, 1655, 1717, 1738, 1673, 1827, 1808, 1608, 1644, 2260, 1823, 2105, 1921, 2358, 2006, 2175, 2180, 1996, 1916, 2481, 1892, 1843, 1735, 1694, 1642, 1895, 1607, 1757, 1789, 2377, 2440, 2238, 2370, 2853, 3090, 2768, 2749, 3011, 3505, 2721, 3199, 2397, 1983, 3427
+
+==============================================================================
+4. THE PREMISE DRIFT, MEASURED ACROSS ALL SEVEN HUNDRED AND EIGHTY FILES
+==============================================================================
+  'Rootway' in the manuscript: 0 across 0 files
+  'Worldroot' in the manuscript: 0 across 0 files
+  'rootway' in the manuscript: 0 across 0 files
+  'worldroot' in the manuscript: 0 across 0 files
+
+  NOVEL_SPEC.md: Worldroot 1, Rootway 0
+  outline/series.md: Worldroot 1, Rootway 11
+  outline/ending.md: Worldroot 4, Rootway 10
+  bible/premise.md: Worldroot 2, Rootway 5
+  bible/world.md: Worldroot 0, Rootway 5
+  bible/themes.md: Worldroot 1, Rootway 1
+
+the standing, which this measurement confirms and does not resolve:
+NOVEL_SPEC.md, bible/ and outline/series.md specify The Worldroot Engineer.
+The word Worldroot is on no page of seven hundred and eighty mornings and
+neither is Rootway. The bible is authoritative and describes a story that was
+not written. THE MANUSCRIPT IS NOT EVIDENCE THAT THE PREMISE IS RETIRED AND
+THIS IS A HUMAN DECISION AND NOT A WRITING ONE.
+
+==============================================================================
+5. THE TWO CORRECTIONS THE CLOSE OF THE SIXTEENTH OWED THE TWO SERIES FILES
+==============================================================================
+  'Aldren', case-insensitive, across all 780 files: 4 files
+    chapter-0002.md  /  day 215
+    chapter-0059.md  /  day 272
+    chapter-0108.md  /  day 321
+    chapter-0655.md  /  day 868
+  and inside Volume 13's own forty-nine mornings, chapters 589 to 637: 0 files, which is the nil ending.md's Volume 13 lock records
+  and inside Volume 14's forty-nine mornings: 1 files, being chapter-0655.md at day 868
+
+  series.md:307 places the surrender at Volume 13's climax.
+  ending.md:39 says 'the specific Aldren memory he surrendered in Volume 13'.
+  Volume 13's forty-nine mornings do not carry the name and Volume 14's carry
+  it once, in his own mouth, on day 868. BOTH WERE OWED A CORRECTION BY A PASS
+  WITH THE STANDING AND BOTH WERE CORRECTED IN THIS PASS AGAINST THE PAGE.
+
+  ending.md's first line also carries 'the immediate climax in Chapters
+  756-773 and a full aftermath through 780'. Measured against the card set's
+  own placement, which is the only file in this repository that owns it:
+    major turn               morning 21, day 969, chapter 756   -> chapter range in ending.md line 1 says INSIDE 756-773
+    climax                   morning 32, day 980, chapter 767   -> chapter range in ending.md line 1 says INSIDE 756-773
+    final irreversible act   morning 36, day 984, chapter 771   -> chapter range in ending.md line 1 says INSIDE 756-773
+    resolution               morning 42, day 990, chapter 777   -> chapter range in ending.md line 1 says OUTSIDE 756-773
+    last morning             morning 45, day 993, chapter 780   -> chapter range in ending.md line 1 says OUTSIDE 756-773
+  chapter 756 is the MAJOR TURN and not the climax, and chapter 773 is three
+  mornings after the resolution has already begun, so the range is wrong at
+  both ends. IT WAS CORRECTED IN THIS PASS AGAINST THE CARD SET'S PLACEMENT,
+  AND THE SHAPE OF THE VOLUME AND NOT ONE OF ITS FIGURES WAS TOUCHED.
+
+==============================================================================
+6. THE NAMED FINDINGS OF THE CLOSE OF THE SIXTEENTH, RE-CHECKED
+==============================================================================
+  finding three: a seven-word line standing twice, at chapter-0735.md:55 and
+  chapter-0736.md:43
+    chapter-0735.md line 43: '**"You have had something to say about those three figures every morning for eleven weeks.'
+    chapter-0735.md line 55: '**"Where would you like it written down."**'
+    chapter-0736.md line 43: '**"Where would you like it written down."**'
+    chapter-0736.md line 55: '**"Three hundred and ninety-three on the form. Two hundred and ninety-nine on the charter,'
+  finding five: the phrase 'nine minutes' twice on chapter-0774.md
+    chapter-0774.md:63  **"Five hundred and thirty-fifth is what that wall carries, five hundred and thirty-fourth is under 
+    chapter-0774.md:69  And at about the eleventh hour the fourth sheet of terms had three of the four five lines ruled and 
+  finding eight: the last morning contradicts itself about the low road
+    chapter-0780.md:5  Roan Selk came up the low road before the light on the last of those mornings and got to the top of it at abou
+    chapter-0780.md:49  **"Five hundred and ten between them. Two hundred and fifty came down this morning and two hundred and sixty s
+    the sentence that certifies non-entry is at line 7 and is contradicted at
+    line 5 and again at line 49. Reported by the close and not repaired then.
+  finding two and four: unlocked sliding shapes at whole-volume scope
+    re-run at instrument 7 below, which widens the scope to the manuscript.
+
+==============================================================================
+7. BOTH GATES, BOTH READINGS, AT WHOLE-MANUSCRIPT SCOPE
+==============================================================================
+THIS IS THE FIRST TIME EITHER GATE HAS BEEN RUN AT THE SCOPE OF THE WHOLE
+BOOK. EVERY NIL PUBLISHED BY A BATCH IN THIS MANUSCRIPT WAS A BATCH-SCOPED
+NIL, AND THE CLOSE OF THE SIXTEENTH MEASURED THAT A BATCH-SCOPED READING IS
+BLIND TO A STANDING BLOCK THAT CROSSES A BATCH BOUNDARY.
+
+the self-collision control is run first, because a nil published by an
+instrument that has not been shown to see anything is not a nil.
+
+  control A, identical paragraph twice: True
+  control chunk shapes: 28
+  control sliding shapes: 11
+
+normalising every paragraph of all 780 files. This is the slow part.
+  paragraphs at the declared unit: 34096, of which 26613 are thirty words or more
+
+GATE ONE: thirty words or more, similarity at or above 0.85, ordered pairs
+  exact long-paragraph repeats inside the manuscript: 46
+    6 copies, 35 words: 'this is a record and not an argument and the sentence is off this note for that '
+    2 copies, 78 words: '#5 the record of this route is #1 record it is kept at this end and a copy of it'
+    2 copies, 43 words: 'it is more than the repair cost and the repair is standing and the #2 things are'
+    2 copies, 49 words: 'nothing is to be attempted again by the engineer of record until a person has as'
+    2 copies, 30 words: 'a number of days is not entered a number of days would be a promise and a promis'
+    2 copies, 45 words: 'third week thursday take the branch at the upper collar the whole of it and dres'
+    2 copies, 31 words: 'the standing rule about the engineer of record in force satisfied on the third o'
+    2 copies, 35 words: 'under the last line in the same chalk and the same hand and the only sentence on'
+    2 copies, 31 words: 'and in the next row which is the older row and the row nobody has read with a ru'
+    2 copies, 34 words: 'the standing rule about the engineer of record in force satisfied on the third o'
+
+GATE TWO, whole-paragraph units of eighteen tokens
+  units: 29585, repeated shapes: 721, excess: 2251
+
+GATE TWO, sliding eighteen-token windows, the reading the house calls larger
+  windows: 1583587, repeated shapes: 37892, excess: 77594
+  families by first six tokens: 27665
+       65 shapes  'came round at the second hour'
+       61 shapes  'round at the second hour and'
+       55 shapes  'he gave the reason first and'
+       54 shapes  'at the second hour and was'
+       52 shapes  'of the #4 bodies of households'
+       50 shapes  'gave the reason first and the'
+       49 shapes  'the second hour and was worked'
+       48 shapes  'the rota came round at the'
+       45 shapes  'rota came round at the second'
+       45 shapes  'the aggregate of the #4 bodies'
+       45 shapes  'aggregate of the #4 bodies of'
+       42 shapes  'in his own hand at about'
+
+  THIS IS A MEASUREMENT OF THE MANUSCRIPT AND NOT A FINDING ABOUT ANY ONE
+  VOLUME. NO PASS HAS PUBLISHED ONE BEFORE AND NO BATCH NIL IS A WHOLE-BOOK
+  NIL, AND THE CLOSE OF THE SIXTEENTH ALREADY DEMONSTRATED THE DIFFERENCE.

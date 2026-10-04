@@ -1339,3 +1339,37 @@ PUBLISHED RESULTS, FOR THE REGION THAT REFUSES THE TEST, FOR THE SEQUENCE, OR FO
 ### The next phase, named here so that it is not inherited as silence
 
 **THERE IS NONE.** The close of Volume 16 is the last phase of the sixteen and of the series. **A close that finishes by naming a next phase has invented one, and a series that hands forward a phase instead of a state has handed forward a plan and not a book.**
+
+---
+
+## What the series close of 2026-10-04 leaves standing at the end of the manuscript
+
+**THIS SECTION SUPERSEDES THE TWO SECTIONS ABOVE IT ON THREE POINTS ONLY, AND SAYS WHICH, because a standing list that contradicts itself is worse than one that is out of date. The earlier sections stand as the record of what each pass believed when it wrote them. Its record is `reviews/series-close.findings.md`, its raw output is `workspace/series-close/MEASUREMENT.txt`, and it wrote no prose and altered no morning.**
+
+### 1. The thirty-five, and the four, and the second place, and the window
+
+**UNCHANGED AND MEASURED AGAIN. THE THIRTY-FIVE ARE THIRTY-FIVE IN AND THIRTY-FIVE OUT AT THE END OF THE BOOK AND NO THIRTIETH-SIXTH ROW WAS EVER CUT FOR ANYTHING. THE FOUR LOSSES ARE FOUR AND FOUR: none reduced, none softened, none recovered, none re-named, none priced, and no fifth added by anybody for any reason. THE SECOND PLACE IS STILL WITHOUT WATER AND IS READ OFF A BOARD ON THE LAST MORNING OF THE BOOK. THE PRUNING WINDOW IS OPEN AND WAS NOT ENTERED, DESCRIBED OR NAMED, AND A SWEEP FOR *PRUNING*, *PRUNED* AND *MERCY* RETURNS ZERO ACROSS ALL FORTY-FIVE MORNINGS. THIS CLOSE ANSWERED NOTHING.**
+
+### 2. THE SEVEN CLOSED-MORNING DEFECTS THIS PASS ADDED, NONE REPAIRED
+
+1. **FIVE DATED HEADINGS DISAGREE WITH THE BOOK'S OWN DAY MAP**, and the map is `day = chapter + 213` on 188 of 193 dated headings: `chapter-0129.md`, `chapter-0144.md`, `chapter-0159.md`, `chapter-0178.md` and `chapter-0204.md`. Every one is in Volume Two or Volume Three and none is in the thirteen volumes behind them.
+2. **TWO DATED HEADINGS USE CARDINALS FOR THE DAY OF MONTH** where a hundred and eighty-odd use ordinals, both dates right: `chapter-0618.md` and `chapter-0626.md`.
+3. **THE PRINTED CLOCK HAS NO MONTHS BEFORE DAY 361.** This is a defect in this layer and in the calendar it prints, not in any morning, and it is the reason item one was never found before.
+4. **FORTY-SIX PARAGRAPHS OF THIRTY WORDS OR MORE STAND MORE THAN ONCE IN THE WHOLE BOOK.** The largest is one of thirty-five words standing six times, and the next two are a pair at thirty-one and a pair at thirty-four words, all three the same standing rule about the engineer of record.
+5. **THE SLIDING EIGHTEEN-TOKEN READING AT WHOLE-MANUSCRIPT SCOPE RETURNS 1,583,587 WINDOWS, 37,892 REPEATED SHAPES AND 77,594 EXCESS**, which is 49.0 excess per thousand windows against the 9.8 of the only volume ever measured at volume scope. **This is a standing-block class and not a copy-paste class, and it is the same class the close of the sixteenth measured six hundred and three times in forty-five mornings.**
+6. **THE TWO LOCK CHECKS REPRODUCE EXACTLY**: the seven-word line at `chapter-0735.md:55` and `chapter-0736.md:43`, and *nine minutes* at `chapter-0774.md:63` and `:69`.
+7. **THE LAST MORNING'S CONTRADICTION ABOUT THE LOW ROAD REPRODUCES EXACTLY**, at `chapter-0780.md:5` and `:49` against `:7`.
+
+**ALL SEVEN ARE CLOSED PROSE AND NONE IS A FIGURE. A REPAIR PASS THAT ONLY RE-DERIVES FIGURES IS NOT A REVIEW AND A REPAIR PASS THAT REWRITES A CLOSED MORNING IS NOT A REPAIR. THEY ARE REPORTED AND CARRIED, AND THE ONLY PASS THAT COULD TOUCH ONE IS A HUMAN ONE.**
+
+### 3. THE THREE THAT WERE NEVER THIS HOLDING'S TO SETTLE, OF WHICH TWO ARE NOW PAID
+
+**THE SECTION ABOVE NAMED THREE: THE PREMISE DRIFT, THE TWO SERIES FILES PLACING A SURRENDER IN A VOLUME WHOSE MORNINGS DO NOT CARRY IT, AND THE CHAPTER RANGE IN THE FIRST LINE OF `outline/ending.md`. IT ALSO RECORDED THAT THE CLOSE OF VOLUME SIXTEEN EDITED NONE OF THEM. THAT IS TRUE OF THAT CLOSE AND IS NOT TRUE OF THE LAYER NOW.**
+
+**PAID ON 2026-10-04, against the page, in three places: `outline/series.md:307`, `outline/series.md:310` and `outline/ending.md:39` now place the surrender on day 868 in Volume 14 at `chapter-0655.md` and state the Volume 13 nil beside the correction. PAID IN ONE MORE PLACE: `outline/ending.md:3` now carries the card set's own placement, the major turn on Chapter 756, the climax on 767, the final irreversible act on 771 and the resolution on 777. NO LOCK WAS APPENDED AND NO CANON CONSTRAINT WAS ALTERED.**
+
+**STILL NOT SETTLED, AND IT IS THE ONLY THING IN THE REPOSITORY THAT NO PASS CAN SETTLE: THE PREMISE DRIFT. `Worldroot` and `Rootway` both return zero across all 780 mornings and the specification, the bible, the series outline and the ending all carry them. A HUMAN DECIDES WHETHER TO RE-PLAN WHAT IS LEFT AGAINST THE BIBLE OR TO RETIRE THE BIBLE AND RE-SPECIFY THE NOVEL. NO PASS MAY RETIRE THE PREMISE, NO PASS MAY RETIRE THE BIBLE, AND NO PASS MAY ADD THE WORD TO A CLOSED MORNING.**
+
+### The next phase, named here so that it is not inherited as silence
+
+**THERE IS NO BATCH AND THERE IS NO VOLUME. THERE IS ONE SUCCESSOR AND IT IS NOT A WRITING PASS: `workspace/continuation/next-0016/PROMPT.md`, which runs the seven instruments per volume across all sixteen, attributes the seventy-seven thousand five hundred and ninety-four excess windows to volumes that have never been measured at volume scope, and puts the two human decisions in front of the human. ITS FIRST LINE FORBIDS IT TO WRITE A MORNING, AND THAT IS THE ONLY INSTRUCTION IT NEEDS FROM THIS FILE.**

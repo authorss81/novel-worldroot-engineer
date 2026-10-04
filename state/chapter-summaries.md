@@ -1037,3 +1037,55 @@ batch both carry.**
 **THE FIFTEEN VOLUMES BEHIND RAN FORTY-NINE MORNINGS EACH AND THE SIXTEENTH AND LAST RAN FORTY-FIVE, AND EVERY *FORTY-NINE* IN THE VOLUME-SIXTEEN MATERIAL IS A COUNT OF THE FIFTEENTH VOLUME'S OWN MORNINGS AND NONE OF THEM IS A COUNT OF THE SIXTEENTH'S.** No morning exists after `chapter-0780.md` and no card exists after the forty-fifth.
 
 **AND WHAT THE CLOSE MEASURED ABOUT THOSE FORTY-FIVE MORNINGS, IN THE FIGURES THAT MAY BE QUOTED: 731 items from the volume's own list, 720 required present and 11 required absent, fifteen failures every one of which is a figure in the wrong form with the value correct; gate one nil inside the volume at a thirty-word floor; the whole-paragraph reading 4,597 units and 36 shapes and 50 excess; the sliding reading 69,087 windows and 620 shapes and 679 excess, of which seventeen are the two locked sentences spent whole by design; twenty-four apparatus blocks against a ceiling of thirty with one `Entered` label; the far-end sentence whole on days 949, 990 and 993 and the comfort line whole on days 949, 985 and 993; the run's maximum at day 992 and not at day 993; the second place still without water and read off a board on the last morning; the thirty-five in and out; the four losses at four; and the pruning window open, unentered, undescribed and unnamed at the end of the series.** The full record is `reviews/volume-16-close.findings.md` and the lock is the sixteenth at the end of `outline/ending.md`.
+
+---
+
+## The series close, 2026-10-04: the whole-manuscript index, and the map no file printed
+
+**THIS PASS SUMMARISED NO MORNING A SECOND TIME. THE FORTY-FIVE MORNINGS OF THE SIXTEENTH VOLUME ARE INDEXED ABOVE, MORNING BY MORNING, DAY BY DAY, WITH THE FILE THAT CARRIES EACH, AND NOTHING HERE REPEATS ONE. WHAT IS BELOW IS THE INDEX OF THE BOOK AS A WHOLE, WHICH NO FILE IN THIS REPOSITORY CARRIED.**
+
+**ITS RECORD IS `reviews/series-close.findings.md`, ITS HARNESS IS `workspace/series-close/verify_series.py` AND ITS RAW OUTPUT IS `workspace/series-close/MEASUREMENT.txt`.**
+
+### The book, measured at whole-manuscript scope, which no pass had done before
+
+| Volume | Mornings | Files | Chapters | Words |
+|---|---|---|---|---|
+| one | forty-nine | 49 | `chapter-0001.md` to `chapter-0049.md` | 166,022 |
+| two | forty-nine | 49 | `chapter-0050.md` to `chapter-0098.md` | 141,818 |
+| three | forty-nine | 49 | `chapter-0099.md` to `chapter-0147.md` | 142,952 |
+| four | forty-nine | 49 | `chapter-0148.md` to `chapter-0196.md` | 141,727 |
+| five | forty-nine | 49 | `chapter-0197.md` to `chapter-0245.md` | 144,846 |
+| six | forty-nine | 49 | `chapter-0246.md` to `chapter-0294.md` | 146,883 |
+| seven | forty-nine | 49 | `chapter-0295.md` to `chapter-0343.md` | 140,227 |
+| eight | forty-nine | 49 | `chapter-0344.md` to `chapter-0392.md` | 139,423 |
+| nine | forty-nine | 49 | `chapter-0393.md` to `chapter-0441.md` | 141,658 |
+| ten | forty-nine | 49 | `chapter-0442.md` to `chapter-0490.md` | 141,223 |
+| eleven | forty-nine | 49 | `chapter-0491.md` to `chapter-0539.md` | 143,305 |
+| twelve | forty-nine | 49 | `chapter-0540.md` to `chapter-0588.md` | 118,058 |
+| thirteen | forty-nine | 49 | `chapter-0589.md` to `chapter-0637.md` | 91,321 |
+| fourteen | forty-nine | 49 | `chapter-0638.md` to `chapter-0686.md` | 116,146 |
+| fifteen | forty-nine | 49 | `chapter-0687.md` to `chapter-0735.md` | 115,783 |
+| **sixteen, the last** | **forty-five** | **45** | **`chapter-0736.md` to `chapter-0780.md`** | **98,905** |
+| **the manuscript** | **seven hundred and eighty** | **780** | **1 to 780, no duplicate and no gap** | **2,130,297** |
+
+**VOLUMES ONE TO FIFTEEN SUM TO 2,031,392 AND VOLUME SIXTEEN TO 98,905 AND THE TWO SUM TO THE PUBLISHED 2,130,297 EXACTLY. EVERY PUBLISHED WORD TOTAL IN THE STATE LAYER REPRODUCES TO THE WORD AT THE SCOPE OF THE WHOLE BOOK. Volume 12 is the one volume that ran four batches rather than five, its fourth being its closing batch at nineteen mornings, and that is its own batch count and not a missing file.**
+
+### THE DAY MAP, WHICH NO FILE PRINTED, AND THE FIVE MORNINGS THAT DISAGREE WITH IT
+
+**`day = chapter + 213`, read back out of the book's own dated headings and not assumed: day = 451 + 30 × (month − 4) + (day of month − 1), with the offset counted against the chapter number. Of 193 dated headings, 188 carry that offset. Five do not, and every one of the five is in Volume Two or Volume Three.**
+
+| file | chapter | the heading gives day | the map gives |
+|---|---|---|---|
+| `chapter-0129.md` | 129 | 571 | 342 |
+| `chapter-0144.md` | 144 | 601 | 357 |
+| `chapter-0159.md` | 159 | 631 | 372 |
+| `chapter-0178.md` | 178 | 661 | 391 |
+| `chapter-0204.md` | 204 | 361 | 417 |
+
+**AND TWO DATED HEADINGS USE CARDINALS FOR THE DAY OF MONTH WHERE A HUNDRED AND EIGHTY-ODD USE ORDINALS, BOTH DATES BEING RIGHT: `chapter-0618.md` reads *The Twenty-One Of The Sixteenth* and `chapter-0626.md` reads *The Twenty-Nine Of The Sixteenth*, being days 831 and 839. REPORTED AND NOT REPAIRED. Seven closed headings in all, and every one of the seven is closed prose.**
+
+**AND THE PRINTED CLOCK HAS NO MONTHS BEFORE DAY 361, so no morning before chapter 148 can be dated from it.**
+
+### What this file does not now carry, and why
+
+**NO MORNING IS SUMMARISED HERE THAT IS SUMMARISED ABOVE, AND NO FIGURE OF ANY SERIES APPEARS IN THIS SECTION, because a summary of a summary is how a state file doubles in a decade. The figures of the sixteen series are printed once, at `state/current.md` section 30b for the last morning of the book, and the rule beside each one re-derives it.**
