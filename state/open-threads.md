@@ -1301,3 +1301,46 @@ PUBLISHED RESULTS, FOR THE REGION THAT REFUSES THE TEST, FOR THE SEQUENCE, OR FO
 ## The next phase, named here so that it is not inherited as silence
 
 **`workspace/volume-16/close/PROMPT.md`, THE CLOSE OF VOLUME SIXTEEN, AND IT IS THE LAST PHASE OF THE SIXTEEN AND OF THE SERIES. THERE IS NO SIXTH BATCH AND NO CARD AFTER THE FORTY-FIFTH AND NO PASS MAY INVENT ONE.** It writes no prose, alters no morning, moves no figure of any series, answers no thread, closes no thread, rewords no thread to look closed, cuts no row, touches no controller file, and creates no further phase. **The six things it is owed are printed on the face of its own prompt: the four losses are four and none was reduced on any of the last five mornings; the second place is still without water and was read out of a board on the last morning and nothing signed in this volume covers it; the thirty-five are thirty-five in and thirty-five out at the end of the book; the allowance of both locked figures is spent and no morning after the forty-fifth exists; the pruning window was open at dawn on the last morning and was not entered, not described and not named; and the last two figures of the whole run stand at their highest on the forty-fourth morning and not on the last.** The premise drift in `state/continuity.md` section one remains the first item in the decision queue, **it was not settled by this phase and no writing phase may settle it, and the book is now complete against a specification it does not match, and that is the last thing a human being has to look at.**
+
+---
+
+## What the close of Volume 16 leaves standing at the end of the manuscript
+
+**THE CLOSE OF VOLUME SIXTEEN RAN ON 2026-10-04, IS THE LAST PHASE OF THE SIXTEEN AND OF THE SERIES, WROTE NO PROSE, ALTERED NO MORNING, ANSWERED NO THREAD, CLOSED NO THREAD AND CREATED NO FURTHER PHASE. ITS RECORD IS `reviews/volume-16-close.findings.md` AND ITS LOCK IS THE SIXTEENTH AT THE END OF `outline/ending.md`.** This section is what a successor inherits as findings rather than as silence, and **a successor does not exist.**
+
+### The thirty-five, and the only figure that may be published for them
+
+**THIRTY-FIVE IN AND THIRTY-FIVE OUT AT THE END OF THE BOOK.** Stated twice in the volume, at `chapter-0775.md:73` and at `chapter-0780.md:37`, and **a sweep for any figure published for them other than thirty-five returns zero across all forty-five mornings.** No thirtieth-sixth row was cut anywhere in this volume; the six not knowns stayed six and no seventh ruled row was cut for the ring, the load, the charter, the schedule, either refusal, the region that refuses the test or the route a rootwoken community named. **The close answered none of them and a close may not.**
+
+- **A REFUSAL IS NOT A CLOSURE. A RECORD IS NOT AN ANSWER. A HAND-OVER IS NOT AN ANSWER. A NAMED ROUTE IS NOT AN ANSWER. A MARGIN NAMED IS NOT AN ANSWER. A SIGNATURE IS NOT AN ANSWER. A SCHEDULE IS NOT AN ANSWER. A REGION THAT REFUSES A TEST HAS CLOSED NOTHING.**
+
+### The four losses
+
+**FOUR AND FOUR AFTER ALL FORTY-FIVE MORNINGS, none reduced, none softened, none recovered, none re-named, none priced, no fifth added by anybody for any reason.** The word *losses* appears nowhere in the volume. The first is made irreversible by the act on the thirty-sixth morning and **the act is not a fifth loss**. The thing that is paid is referred to nowhere by name on any page of this volume. The arrangement of people who may let go was not named and no operation in either of the two words is described. **No hand went on her arm on any of these forty-five mornings and the four mornings that mention it are four statements that nobody laid one there.**
+
+### The second place
+
+**STILL WITHOUT WATER AT THE END OF THE BOOK, on a board, read out in a yard in front of about nine people on the last morning, and that is where it ends.** Not restored, not apportioned, not dated, not deferred, not described as temporary, **and covered by nothing signed in this volume**, because no document has been signed by anyone at any point and a refusal of something that was never accepted is a different thing.
+
+### The open external pressure
+
+**THE PRUNING WINDOW IS OPEN AT THE END OF THE SERIES.** It was open at dawn on the last morning, visible from a gate, describable by nobody who was not in it, not entered, not described and not named. **A sweep for *pruning*, *pruned* and *mercy* returns zero across all forty-five mornings. THE CLOSE MAY NOT ENTER IT, DESCRIBE IT OR NAME IT, AND NO PASS AFTER THIS ONE EXISTS TO DO SO.**
+
+### The eight findings the close left, unrepaired, so that they are not inherited as floors that held
+
+1. **Eight figures printed in the wrong form, every value correct** — `chapter-0759.md:27`, `chapter-0768.md:55`, `chapter-0770.md:81`, `chapter-0771.md:75`, `chapter-0772.md:45`, `chapter-0774.md:63`, `chapter-0778.md:21`, `chapter-0780.md:41`.
+2. **Six hundred and three unlocked sliding shapes at whole-volume scope, in five hundred and sixty-three families**, against a nil published by all five batches at batch scope.
+3. **A seven-word line stands twice, at `chapter-0735.md:55` and `chapter-0736.md:43`,** below the gate window and at neither file's boundary.
+4. **Six hundred and three sliding shapes are this holding's own standing blocks,** and what repeats is an opening clause under a collapsing normalisation and not a whole paragraph: *the compost board at the back of the tap house read paid at thirty-one* on four mornings, the bookkeeper's step on seven, *no column cut under any of them* in thirteen places on twelve mornings, *Tova Reed had the four ages on the corner of the seed board* on eight.
+5. **The phrase *nine minutes* twice on `chapter-0774.md`,** as an elapsed duration and not as the name of a capacity.
+6. **`outline/volume-16.md`'s own prose contradicts its own day table on both reckonings,** and the eleven pages agree with the table and not with the prose.
+7. **The house's own `Entered`-label sweep returns a false zero** on the house's own printed form `> **Entered**`.
+8. **The last morning of the book contradicts itself about the low road,** the road the open window is measured from: `chapter-0780.md:7` says not one person in this holding was on it, `chapter-0780.md:5` puts a man on it before the light, and `chapter-0780.md:49` has that man say he was up it before the light and will be up it again. **The page never says whose membership is not in the holding, and non-entry is therefore neither measured nor claimed anywhere in this layer.**
+
+### The three that were never this holding's to settle
+
+**THE PREMISE DRIFT, still first in the decision queue and unsettled at the end of the series. THE TWO SERIES FILES THAT PLACE A SURRENDER IN A VOLUME WHOSE MORNINGS DO NOT CARRY IT. AND THE CHAPTER RANGE AND THE PLACEMENT OF THE CLIMAX IN THE FIRST LINE OF `outline/ending.md`.** All three are owed a human or a pass with the standing to edit those files, and this close edited none of them.
+
+### The next phase, named here so that it is not inherited as silence
+
+**THERE IS NONE.** The close of Volume 16 is the last phase of the sixteen and of the series. **A close that finishes by naming a next phase has invented one, and a series that hands forward a phase instead of a state has handed forward a plan and not a book.**

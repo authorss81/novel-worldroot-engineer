@@ -1,0 +1,562 @@
+==============================================================================
+0. WORD COUNTS, MEASURED PER FILE WITH len(text.split()) AND NEVER BY CONCATENATION
+   0736:2716  0737:2316  0738:1655  0739:1717  0740:1738  0741:1673  0742:1827  0743:1808  0744:1608  0745:1644
+   0746:2260  0747:1823  0748:2105  0749:1921  0750:2358  0751:2006  0752:2175  0753:2180  0754:1996  0755:1916
+   0756:2481  0757:1892  0758:1843  0759:1735  0760:1694  0761:1642  0762:1895  0763:1607  0764:1757  0765:1789
+   0766:2377  0767:2440  0768:2238  0769:2370  0770:2853  0771:3090  0772:2768  0773:2749  0774:3011  0775:3505
+   0776:2721  0777:3199  0778:2397  0779:1983  0780:3427
+   Volume 16: 98905 across 45 files
+     batch-0001: 18702 across 10 files
+     batch-0002: 20740 across 10 files
+     batch-0003: 18335 across 10 files
+     batch-0004: 27401 across 10 files
+     batch-0005: 13727 across 5 files
+   manuscript: 2130297 across 780 files
+   volumes one to fifteen: 2031392 across 735 files  (reconciles: 2031392 + 98905 = 2130297)
+   files lacking an EOF newline in the manuscript: 75
+   of those in Volume 16: 38 ['chapter-0736.md', 'chapter-0737.md', 'chapter-0738.md', 'chapter-0739.md', 'chapter-0740.md', 'chapter-0741.md', 'chapter-0742.md', 'chapter-0743.md', 'chapter-0744.md', 'chapter-0745.md', 'chapter-0746.md', 'chapter-0747.md', 'chapter-0748.md', 'chapter-0749.md', 'chapter-0750.md', 'chapter-0751.md', 'chapter-0752.md', 'chapter-0753.md', 'chapter-0754.md', 'chapter-0755.md', 'chapter-0756.md', 'chapter-0757.md', 'chapter-0758.md', 'chapter-0759.md', 'chapter-0760.md', 'chapter-0761.md', 'chapter-0762.md', 'chapter-0763.md', 'chapter-0764.md', 'chapter-0765.md', 'chapter-0766.md', 'chapter-0768.md', 'chapter-0769.md', 'chapter-0776.md', 'chapter-0777.md', 'chapter-0778.md', 'chapter-0779.md', 'chapter-0780.md']
+   wc -w over the same files listed one by one: 2130297, difference 0
+   wc -w over the same files CONCATENATED: 2130223, difference -74  <-- the residual, and it is the count of files that lack an EOF newline among those the count lands between
+==============================================================================
+1. THE SELF-COLLISION CONTROLS, RUN FIRST, AND THEY MUST REPRODUCE
+   28 copies, 27 gaps: sliding 1 shape(s) / 27 excess; whole-paragraph 0 shape(s) / 0 excess -> REPRODUCES
+   13 copies, 12 gaps: sliding 1 shape(s) / 12 excess; whole-paragraph 0 shape(s) / 0 excess -> REPRODUCES
+   the normalisation is settled: True. A working gate proves that a shape is real; it does not prove that the absence of a shape means anything.
+==============================================================================
+2. THE PARITY READING. THE DEMONSTRATION ON A KNOWN INSTANCE COMES FIRST, AND THE MORNING-BY-MORNING TABLE FOLLOWS IT, AND THE READING RUNS OVER ALL FORTY-FIVE MORNINGS AND NOT OVER ITS OWN FILES
+==============================================================================
+2b. THE READING DEMONSTRATED ON A KNOWN INSTANCE OF THE CLASS IT CATCHES, AND IT IS RUN BEFORE THE PER-MORNING TABLE BELOW, BECAUSE A READING THAT HAS NOT BEEN SHOWN THE CLASS MAY NOT PUBLISH ITS NIL AS A NIL
+   fixture: the pre-repair wording recorded at workspace/volume-16/batch-0005/SELF-CHECK.md section 12 item 1, on day 989 (an odd morning, so the smaller half moves)
+     verb 'came' carries 'two hundred and fifty-eight', wanted 'two hundred and forty-eight' -> FLAGGED, so the reading sees the class
+     verb 'stood' carries 'two hundred and forty-eight', wanted 'two hundred and fifty-eight' -> FLAGGED, so the reading sees the class
+   the same reading against the page as it now stands, chapter-0776.md: 2 paired delivery sentence(s), 0 flagged
+     verb 'stood' carries 'two hundred and fifty-eight', wanted 'two hundred and fifty-eight'
+     verb 'came' carries 'two hundred and forty-eight', wanted 'two hundred and forty-eight'
+   THE READING IS DEMONSTRATED ON THE CLASS: yes
+   the mirror fixture on an even morning (day 990): 1 of 2 flagged
+   chapter-0736.md day 949 morning  1 odd  : the smaller half moved, mover 'two hundred and twenty-eight', stander 'two hundred and thirty-eight'; 0 half(s) attached to a verb that says which way -> clean
+   chapter-0737.md day 950 morning  2 even: the larger half moved, mover 'two hundred and thirty-nine', stander 'two hundred and twenty-eight'; 0 half(s) attached to a verb that says which way -> clean
+   chapter-0738.md day 951 morning  3 odd  : the smaller half moved, mover 'two hundred and twenty-nine', stander 'two hundred and thirty-nine'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0739.md day 952 morning  4 even: the larger half moved, mover 'two hundred and forty', stander 'two hundred and twenty-nine'; 1 half(s) attached to a verb that says which way -> clean
+   chapter-0740.md day 953 morning  5 odd  : the smaller half moved, mover 'two hundred and thirty', stander 'two hundred and forty'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0741.md day 954 morning  6 even: the larger half moved, mover 'two hundred and forty-one', stander 'two hundred and thirty'; 1 half(s) attached to a verb that says which way -> clean
+   chapter-0742.md day 955 morning  7 odd  : the smaller half moved, mover 'two hundred and thirty-one', stander 'two hundred and forty-one'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0743.md day 956 morning  8 even: the larger half moved, mover 'two hundred and forty-two', stander 'two hundred and thirty-one'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0744.md day 957 morning  9 odd  : the smaller half moved, mover 'two hundred and thirty-two', stander 'two hundred and forty-two'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0745.md day 958 morning 10 even: the larger half moved, mover 'two hundred and forty-three', stander 'two hundred and thirty-two'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0746.md day 959 morning 11 odd  : the smaller half moved, mover 'two hundred and thirty-three', stander 'two hundred and forty-three'; 0 half(s) attached to a verb that says which way -> clean
+   chapter-0747.md day 960 morning 12 even: the larger half moved, mover 'two hundred and forty-four', stander 'two hundred and thirty-three'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0748.md day 961 morning 13 odd  : the smaller half moved, mover 'two hundred and thirty-four', stander 'two hundred and forty-four'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0749.md day 962 morning 14 even: the larger half moved, mover 'two hundred and forty-five', stander 'two hundred and thirty-four'; 4 half(s) attached to a verb that says which way -> 2 FLAGGED, read by hand below
+       FLAGGED: 'two hundred and thirty-four' on 'came', wanted 'two hundred and forty-five' | d not have to.  **"four hundred and seventy-nine of window. two hundred and thirty-four came in the night and two hundred and forty-five stood, and 
+       FLAGGED: 'two hundred and forty-five' on 'stood', wanted 'two hundred and thirty-four' | f window. two hundred and thirty-four came in the night and two hundred and forty-five stood, and i know that is the wrong way round because i have
+   chapter-0750.md day 963 morning 15 odd  : the smaller half moved, mover 'two hundred and thirty-five', stander 'two hundred and forty-five'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0751.md day 964 morning 16 even: the larger half moved, mover 'two hundred and forty-six', stander 'two hundred and thirty-five'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0752.md day 965 morning 17 odd  : the smaller half moved, mover 'two hundred and thirty-six', stander 'two hundred and forty-six'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0753.md day 966 morning 18 even: the larger half moved, mover 'two hundred and forty-seven', stander 'two hundred and thirty-six'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0754.md day 967 morning 19 odd  : the smaller half moved, mover 'two hundred and thirty-seven', stander 'two hundred and forty-seven'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0755.md day 968 morning 20 even: the larger half moved, mover 'two hundred and forty-eight', stander 'two hundred and thirty-seven'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0756.md day 969 morning 21 odd  : the smaller half moved, mover 'two hundred and thirty-eight', stander 'two hundred and forty-eight'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0757.md day 970 morning 22 even: the larger half moved, mover 'two hundred and forty-nine', stander 'two hundred and thirty-eight'; 0 half(s) attached to a verb that says which way -> clean
+   chapter-0758.md day 971 morning 23 odd  : the smaller half moved, mover 'two hundred and thirty-nine', stander 'two hundred and forty-nine'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0759.md day 972 morning 24 even: the larger half moved, mover 'two hundred and fifty', stander 'two hundred and thirty-nine'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0760.md day 973 morning 25 odd  : the smaller half moved, mover 'two hundred and forty', stander 'two hundred and fifty'; 1 half(s) attached to a verb that says which way -> clean
+   chapter-0761.md day 974 morning 26 even: the larger half moved, mover 'two hundred and fifty-one', stander 'two hundred and forty'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0762.md day 975 morning 27 odd  : the smaller half moved, mover 'two hundred and forty-one', stander 'two hundred and fifty-one'; 0 half(s) attached to a verb that says which way -> clean
+   chapter-0763.md day 976 morning 28 even: the larger half moved, mover 'two hundred and fifty-two', stander 'two hundred and forty-one'; 0 half(s) attached to a verb that says which way -> clean
+   chapter-0764.md day 977 morning 29 odd  : the smaller half moved, mover 'two hundred and forty-two', stander 'two hundred and fifty-two'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0765.md day 978 morning 30 even: the larger half moved, mover 'two hundred and fifty-three', stander 'two hundred and forty-two'; 0 half(s) attached to a verb that says which way -> clean
+   chapter-0766.md day 979 morning 31 odd  : the smaller half moved, mover 'two hundred and forty-three', stander 'two hundred and fifty-three'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0767.md day 980 morning 32 even: the larger half moved, mover 'two hundred and fifty-four', stander 'two hundred and forty-three'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0768.md day 981 morning 33 odd  : the smaller half moved, mover 'two hundred and forty-four', stander 'two hundred and fifty-four'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0769.md day 982 morning 34 even: the larger half moved, mover 'two hundred and fifty-five', stander 'two hundred and forty-four'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0770.md day 983 morning 35 odd  : the smaller half moved, mover 'two hundred and forty-five', stander 'two hundred and fifty-five'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0771.md day 984 morning 36 even: the larger half moved, mover 'two hundred and fifty-six', stander 'two hundred and forty-five'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0772.md day 985 morning 37 odd  : the smaller half moved, mover 'two hundred and forty-six', stander 'two hundred and fifty-six'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0773.md day 986 morning 38 even: the larger half moved, mover 'two hundred and fifty-seven', stander 'two hundred and forty-six'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0774.md day 987 morning 39 odd  : the smaller half moved, mover 'two hundred and forty-seven', stander 'two hundred and fifty-seven'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0775.md day 988 morning 40 even: the larger half moved, mover 'two hundred and fifty-eight', stander 'two hundred and forty-seven'; 0 half(s) attached to a verb that says which way -> clean
+   chapter-0776.md day 989 morning 41 odd  : the smaller half moved, mover 'two hundred and forty-eight', stander 'two hundred and fifty-eight'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0777.md day 990 morning 42 even: the larger half moved, mover 'two hundred and fifty-nine', stander 'two hundred and forty-eight'; 1 half(s) attached to a verb that says which way -> clean
+   chapter-0778.md day 991 morning 43 odd  : the smaller half moved, mover 'two hundred and forty-nine', stander 'two hundred and fifty-nine'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0779.md day 992 morning 44 even: the larger half moved, mover 'two hundred and sixty', stander 'two hundred and forty-nine'; 2 half(s) attached to a verb that says which way -> clean
+   chapter-0780.md day 993 morning 45 odd  : the smaller half moved, mover 'two hundred and fifty', stander 'two hundred and sixty'; 2 half(s) attached to a verb that says which way -> clean
+   half-figures attached to a verb that says which way, examined: 72; wrong attachment: 2
+   half-figures attached to a verb that does NOT say which way (moved, went, changed), recorded and not used for a verdict: 13
+==============================================================================
+3. THE FIGURE CHECK. EVERY FIGURE DERIVED FROM ITS OWN RULE APPLIED TO ITS OWN DAY, REQUIRED AS A WHOLE PHRASE IN THAT MORNING'S BODY PROSE
+   the volume's own item list, derived here and inherited from no file: 14 x 45 mornings + 2 x 23 odd mornings + 5 x 11 fourth-line mornings = 731
+   required present: 720; required absent: 11 (the second reckoning, section 8d); failures: 8
+     FAIL chapter-0759.md: ordinal of the run -> 'five hundred and twenty-second'
+     FAIL chapter-0768.md: aggregate -> 'five hundred and twenty-nine'
+     FAIL chapter-0770.md: aggregate -> 'five hundred and thirty-one'
+     FAIL chapter-0771.md: aggregate -> 'five hundred and thirty-two'
+     FAIL chapter-0772.md: aggregate -> 'five hundred and thirty-three'
+     FAIL chapter-0774.md: aggregate -> 'five hundred and thirty-five'
+     FAIL chapter-0778.md: aggregate -> 'five hundred and thirty-nine'
+     FAIL chapter-0780.md: aggregate -> 'five hundred and forty-one'
+   figures present in a heading or an apparatus block but NOT in body prose: 0
+==============================================================================
+3b. THE FIGURES OF THE VOLUME'S OWN STANDING, DERIVED AND COMPARED WITH THE PAGES
+   the third launder enters Volume 16 at one thousand and three hundred and fifty-six hundredweight and ends at one thousand and four hundred and twenty-two hundredweight
+   its maximum in the volume is one thousand and four hundred and twenty-seven on day 992 (morning 44, chapter-0779.md), and the last morning reads one thousand and four hundred and twenty-two
+   a round hundred in the thousands stands at one thousand four hundred hundredweight on day 974 (chapter-0761.md), site three-A
+   the rising half runs 238 to 260 and stands at two hundred and sixty on day 992 and two hundred and sixty on day 993
+   the falling half runs 228 to 250; no half reaches a round hundred on any morning: True
+   the two halves add to the window on all forty-five mornings: True
+   the ordinal of the run stands at exactly five hundred on its second morning, day 950: 'five hundredth'
+   the fifth returns are at days [955, 964, 973, 982, 991], one of them a fourth-line morning (982) and one a first morning of a month (991)
+   the compost line enters paid at thirty-one and this plan schedules no turn in it; the ladder and the drawer have a fresh standing for these forty-five mornings and are not a claim about the fifteen behind
+==============================================================================
+4. THE LOCK CHECK. WHOLE APPEARANCES, LOAD-BEARING STRINGS, SHORTENED FORMS, AND THE OPENING CLAUSE
+   the far-end sentence, whole, on: [('chapter-0736.md', 1, 949), ('chapter-0777.md', 1, 990), ('chapter-0780.md', 1, 993)]
+   the comfort line, whole, on: [('chapter-0736.md', 1, 949), ('chapter-0772.md', 1, 985), ('chapter-0780.md', 1, 993)]
+   whole appearances in the volume: 3 of the far-end sentence and 3 of the comfort line, on 4 mornings
+   the allowance's ceiling is four whole appearances per figure and this volume spends 3 of the far-end and 3 of the comfort line, one in between each
+   string 'far end of a thing': 3 in Volume 16, on ['chapter-0736.md', 'chapter-0777.md', 'chapter-0780.md']
+   string 'anywhere in four counties': 3 in Volume 16, on ['chapter-0736.md', 'chapter-0777.md', 'chapter-0780.md']
+   string 'whether it is on or off': 3 in Volume 16, on ['chapter-0736.md', 'chapter-0777.md', 'chapter-0780.md']
+   string 'the comfort is not standing': 3 in Volume 16, on ['chapter-0736.md', 'chapter-0772.md', 'chapter-0780.md']
+   string 'the father is not alive in the wood': 3 in Volume 16, on ['chapter-0736.md', 'chapter-0772.md', 'chapter-0780.md']
+   string 'the day does not come back': 3 in Volume 16, on ['chapter-0736.md', 'chapter-0772.md', 'chapter-0780.md']
+   shortened forms, searched as the leading clause of either sentence outside its own whole appearance:
+   shortened forms found: 0
+   the far-end sentence's opening clause reused as somebody else's construction inside Volume 16: 0 []
+==============================================================================
+5. BOTH GATES, BOTH READINGS, BOTH SCOPES. THE FLOOR ON GATE ONE IS THIRTY WORDS AND THE COMFORT LINE IS TWENTY WORDS AND IS STRUCTURALLY INVISIBLE TO IT, SO A CLEAN GATE ONE IS NOT EVIDENCE ABOUT EITHER LOCKED FIGURE.
+   paragraphs at the declared unit, Volume 16: 1849
+   paragraphs at the declared unit, the manuscript: 34505
+   Volume 16 scope: 1297 prose paragraphs of 30 words or more, 0 exact pairs
+   whole manuscript scope: 26573 paragraphs of 30 words or more, 41 exact pairs, 1 touching Volume 16
+     TOUCHES VOLUME 16 x12: chapter-0736.md | **"The far end of a thing is held by two people and neither of them is me, and n | the locked far-end sentence, spent whole by design
+   Volume 16 scope: whole-paragraph reading 4597 units, 36 shapes, 50 excess; sliding eighteen-word reading 69087 windows, 620 shapes, 679 excess
+   whole manuscript scope: whole-paragraph reading 102606 units, 2014 shapes, 5403 excess; sliding eighteen-word reading 1589813 windows, 47169 shapes, 122407 excess
+   Volume 16 scope, every shape identified before anything is broken: 14 windows of the far-end sentence, 3 windows of the comfort line, 0 whole-paragraph chunks of the far-end sentence, 0 whole-paragraph chunks of the comfort line, and 639 that are none of those four
+   the second gate's tuple is (whole shapes, whole excess, sliding shapes, sliding excess, whole units, sliding windows) = (36, 50, 620, 679, 4597, 69087)
+   and the sliding reading's 620 shapes therefore resolve as 17 locked and 603 unlocked, and the 36 whole-paragraph shapes are all unlocked
+   the far-end sentence normalises to 31 tokens and yields 14 sliding windows; the comfort line to 20 tokens and 3
+   the unlocked shapes grouped by their first six tokens: 563 families, and the largest are:
+       5 shape(s),   5 excess | <NUM> <NUM> and <NUM> on the
+       4 shape(s),   8 excess | <NUM> <NUM> and <NUM> <NUM> at
+       4 shape(s),   4 excess | <NUM> <NUM> and <NUM> at the
+       4 shape(s),   4 excess | kellan rusk came out to the
+       4 shape(s),   4 excess | the compost board at the back
+       3 shape(s),   3 excess | <NUM> <NUM> and <NUM> <NUM> came
+       3 shape(s),   3 excess | <NUM> <NUM> and <NUM> over the
+       3 shape(s),   3 excess | at about the <NUM> hour with
+       3 shape(s),   3 excess | is <NUM> <NUM> and <NUM> <NUM>
+       2 shape(s),   6 excess | <NUM> <NUM> and <NUM> <NUM> <NUM>
+       2 shape(s),   8 excess | <NUM> <NUM> and <NUM> morning of
+       2 shape(s),   8 excess | <NUM> <NUM> and <NUM> under the
+   the largest family in full: '<NUM> <NUM> and <NUM> on the form <NUM> <NUM> and <NUM> on the charter which is the oldest'
+   whole manuscript scope, for comparison and not a measurement of this volume: {'far_window': 14, 'far_chunk': 0, 'com_window': 3, 'com_chunk': 0} locked, 49166 unlocked
+==============================================================================
+6. THE EXACT-DUPLICATE SWEEP AT ANY PARAGRAPH LENGTH, SCOPED TO THE MANUSCRIPT, BECAUSE NEITHER GATE CAN SEE A PARAGRAPH AGAINST ITSELF
+   duplicated paragraphs anywhere in the manuscript: 230
+   of those involving a morning in Volume 16: 5
+     DUP x6 in 6 files | not a locked figure | **"No."**
+     DUP x14 in 14 files | a LOCKED FIGURE, spent whole by design | **"The comfort is not standing, the father is not alive in the wood, and the day does not come back.
+     DUP x12 in 12 files | a LOCKED FIGURE, spent whole by design | **"The far end of a thing is held by two people and neither of them is me, and no instrument anywher
+     DUP x2 in 2 files | not a locked figure | **"Then what is it."**
+     DUP x2 in 2 files | not a locked figure | **"Where would you like it written down."**
+   paragraphs repeated inside a single Volume 16 file: 0
+==============================================================================
+6b. THE SAME SWEEP UNDER THE NUMBER-AND-ORDINAL NORMALISATION, WHICH IS NOT THE SAME SWEEP, AND THE SIXTEEN-LINE SWEEP, WHICH IS PER FILE
+   duplicated paragraphs under the number-and-ordinal normalisation, anywhere in the manuscript: 383
+   of those involving a morning in Volume 16: 24
+     NORM DUP in 233 files | not a locked figure | <NUM> <NUM> and <NUM> <NUM> hundredweight
+     NORM DUP in 34 files | not a locked figure | <NUM> <NUM> and <NUM> <NUM> and <NUM> hundredweight
+     NORM DUP in 15 files | not a locked figure | no
+     NORM DUP in 14 files | a LOCKED FIGURE, spent whole by design | the comfort is not standing the father is not alive in the wood and the day does not come back
+     NORM DUP in 12 files | a LOCKED FIGURE, spent whole by design | the far end of a thing is held by <NUM> people and neither of them is me and no instrument anywhere 
+     NORM DUP in 5 files | not a locked figure | <NUM>
+     NORM DUP in 4 files | not a locked figure | <NUM> <NUM> and <NUM>
+     NORM DUP in 4 files | not a locked figure | a <NUM> and <NUM> <NUM> in force <NUM> <NUM> taken and a <NUM> and <NUM> <NUM> not
+     NORM DUP in 3 files | not a locked figure | ask
+     NORM DUP in 3 files | not a locked figure | <NUM> <NUM> and <NUM> <NUM>
+     NORM DUP in 2 files | not a locked figure | kellan
+     NORM DUP in 2 files | not a locked figure | and the other
+     NORM DUP in 2 files | not a locked figure | ask it
+     NORM DUP in 2 files | not a locked figure | nobody
+     NORM DUP in 2 files | not a locked figure | a <NUM> and <NUM> <NUM> in force she said <NUM> <NUM> taken a <NUM> and <NUM> <NUM> not
+     NORM DUP in 2 files | not a locked figure | a <NUM> and <NUM> <NUM> in force <NUM> <NUM> taken a <NUM> and <NUM> <NUM> not
+     NORM DUP in 2 files | not a locked figure | then what is it
+     NORM DUP in 2 files | not a locked figure | where would you like it written down
+     NORM DUP in 2 files | not a locked figure | <NUM> <NUM> and <NUM> under the line <NUM> <NUM> and <NUM> at the head <NUM> <NUM> and <NUM> over
+     NORM DUP in 2 files | not a locked figure | up <NUM>
+     NORM DUP in 2 files | not a locked figure | <NUM> <NUM> and <NUM> under the line <NUM> <NUM> and <NUM> at the head <NUM> <NUM> and <NUM> over th
+     NORM DUP in 2 files | not a locked figure | <NUM> at the top of the ring gone with the root on it not cut not moved not dug again and no figure 
+     NORM DUP in 2 files | not a locked figure | <NUM> <NUM> and <NUM> at the near end and <NUM> <NUM> and <NUM> <NUM> at the top
+     NORM DUP in 1 files | not a locked figure | <NUM> place <NUM> houses tested yesterday
+   the sixteen-line sweep, per file, longest shared contiguous token run between any two non-blank body lines within sixteen lines of each other:
+     runs of 6 tokens: 3
+     runs of 7 tokens: 6
+     runs of 8 tokens: 1
+     runs of 9 tokens: 1
+     runs of 12 tokens: 1
+   runs of ten tokens or more: 1
+      chapter-0762.md 12 there is a sheet on your boards with six names on it
+==============================================================================
+7. THE APPARATUS COUNT, SCOPED TO VOLUME SIXTEEN AND NOT TO THE MANUSCRIPT
+   blocks spent across Volume 16: 24; ceiling thirty; unspent: 6
+   the mornings that carry one: ['chapter-0737.md', 'chapter-0738.md', 'chapter-0739.md', 'chapter-0740.md', 'chapter-0742.md', 'chapter-0744.md', 'chapter-0745.md', 'chapter-0747.md', 'chapter-0748.md', 'chapter-0750.md', 'chapter-0751.md', 'chapter-0757.md', 'chapter-0758.md', 'chapter-0759.md', 'chapter-0760.md', 'chapter-0762.md', 'chapter-0764.md', 'chapter-0765.md', 'chapter-0766.md', 'chapter-0768.md', 'chapter-0770.md', 'chapter-0775.md', 'chapter-0778.md', 'chapter-0779.md']
+   mornings carrying more than one: none by the ceiling's own first rule; counted above
+   the same count over the whole manuscript, WHICH IS NOT THE FIGURE: 782 (the mistake named at state/current.md section 27)
+   Entered labels in Volume 16: ['chapter-0739.md']
+==============================================================================
+8. THE MECHANICAL SWEEPS, EVERY ONE READ BY HAND AND PUBLISHED WHETHER IT IS CLEAN OR NOT. A SWEEP THAT FLAGS ITS OWN HOUSE IS A BROKEN SWEEP AND IS REPORTED AS ONE.
+   -- the six bare words, with the apparatus word available to the narrator only to say that there is none
+   digits in body prose: 0
+   digits in apparatus: 0
+   non-ascii in body prose: 0
+   em dash, en dash, figure dash: 0
+   volume|batch|chapter|seat|fieldbook|tally|panel: 0
+   -- the twelve month names. THE MODAL VERB IS NOT A MONTH, so the sweep runs twice: a capitalised name, and a lower-case may that carries a date rather than a verb.
+   the twelve month names, capitalised: 0
+   a lower-case may carrying a date and not a verb: 0
+   month names in any form: 0
+   -- the words that are unavailable in this holding, in body prose and in apparatus, and the apparatus counted inside its own block
+   anchor, in any form, body prose: 0
+   anchor, in any form, apparatus: 0
+   rootmark, in any form, body prose: 0
+   rootmark, in any form, apparatus: 0
+   the phrase that would name the first permanent loss: single private field: 0
+   single private field, apparatus: 0
+   the phrase that would name the first permanent loss: unified response: 0
+   unified response, apparatus: 0
+   the phrase that would name the first permanent loss: nine minutes: 2
+      chapter-0774.md line 63 [nine minutes] | t once, because a woman was told in this yard about nine minutes ago that a standing was not taken off anybody by an
+      chapter-0774.md line 69 [nine minutes] | er and had been named twice out loud there in about nine minutes and neither of those two times had been about anybo
+   nine minutes, apparatus: 0
+   -- the arrangement, the thing that is paid, and the let-go family
+   the arrangement words: 0
+   the words that would name the forty-first morning: 6
+      chapter-0766.md line 25 [failed] | n the ground that a bed which fails on a Friday has failed for the week and the reading out is on the ninth da
+      chapter-0771.md line 9 [failed] | not the strongest one. Eight was stronger and eight failed on Saturday and eight is written down as failed in 
+      chapter-0771.md line 9 [failed] | ght failed on Saturday and eight is written down as failed in a book that belongs to a crew. This is the one t
+      chapter-0771.md line 59 [failed] | n a yard in about a week with everything in it that failed, and it is going to have that place on it, because 
+      chapter-0772.md line 61 [failed] |  week and it is going to have everything in it that failed, and it is going to have my place on it, and I am n
+      chapter-0775.md line 67 [fail] | y has read anything out loud there that had a thing fail in it, and I would like the person who read it to b
+   distinct capitalised words standing mid-sentence in the forty-five mornings: 111
+      ['A', 'About', 'After', 'An', 'And', 'Any', 'Are', 'Ask', 'At', 'Auret', 'Because', 'Brack', "Brack's", 'By', 'Can', 'Chancellor', "Chancellor's", 'Could', 'Crown', 'Dae', 'Does', 'Dole', 'Emrys', 'Everything', 'Four', 'Friday', 'God', 'Hanne', 'Harlan', "Harlan's", 'He', 'How', 'I', 'If', 'In', 'Iona', 'Is', 'Ismay', 'It', 'Item', 'Kellan', 'Leave', 'Lift', 'Marek', 'Monday', 'Nia', 'Nine', 'No', 'Nobody', 'Not', 'Nothing', 'Odile', 'On', 'One', 'Ours', 'Permanent', 'Perrin', 'Put', 'Quill', "Quill's", 'Read', 'Reed', 'Rill', "Rill's", 'Roan', 'Rooke', 'Rusk', 'Saturday', 'Say', 'Selk', 'Sera', 'She', 'Sill', 'Silling', "Silling's", 'Since', 'Six', 'So', 'Somebody', 'Soren', 'Sunday', 'Tell', 'That', 'The', 'Then', 'There', 'They', 'Three', 'Thursday', 'To', 'Tova', 'Tuesday', 'Twelve', 'Two', 'Up', 'Vale', "Vale's", 'Vetch', 'Vey', 'Vray', 'We', 'Wednesday', 'What', 'Where', 'Which', 'Who', 'Whose', 'Why', 'Will', 'Write', 'You']
+   the let-go family: 0
+   -- the compost line and the seed keeper
+   a figure for a turn in the compost line, thirty-two standing alone: 0
+   *discharg*, which stands inside a negation every time it appears: 1
+      chapter-0779.md line 53 [discharg] | compost line is paid at thirty-one and has not been discharged in thirty-one or in anything, and the two people 
+   *apolog*: 0
+   one ear, deaf, cannot hear: 0
+   a hand on her arm, which must stand only as a statement that none was laid: 4
+      chapter-0758.md line 35 [hand on her arm] | n my arm about it, so do not start."** Nobody put a hand on her arm about it, or about anything else, at any hour of th
+      chapter-0771.md line 55 [hand on her arm] |  is going to make me say it sooner."** Nobody put a hand on her arm at any hour of that day and about four people were 
+      chapter-0775.md line 43 [hand on her arm] |  stayed to the end. She did not speak. Nobody put a hand on her arm and nobody said sorry to her and four or five peopl
+      chapter-0780.md line 29 [hand on her arm] | m from me,**" she said, to the chalk. Nobody laid a hand on her arm at any hour of that day, and about four people in t
+   -- the ladder and the drawer, whose standing is FRESH for these forty-five mornings and is not a claim about the fifteen behind
+   the ladder named: 28
+      chapter-0736.md line 75 [ladder] | ee lines have been bare since before the flood. The ladder stood against the tool house wall with nobody on it
+      chapter-0737.md line 99 [ladder] |  it in her own hand and is not one of the four. The ladder stood against the wall with nobody on it. The ring 
+      chapter-0739.md line 85 [ladder] |  and have never once been added to one another. The ladder was against the tool house wall all morning and no 
+      chapter-0746.md line 45 [ladder] | is Harlan's to read because I have not been up that ladder since the spring and I am not going to stand at the
+      chapter-0746.md line 89 [ladder] | d is not going to start today. Nobody went near the ladder against the tool house wall, and no figure was prin
+      chapter-0747.md line 85 [ladder] | en. Nobody in that yard went near the bottom of the ladder at the tool house wall. And the offer lay on the lo
+      chapter-0748.md line 105 [ladder] |  once, and the saucer kept it. Nobody went near the ladder at the tool house wall, and the ground inside the r
+      chapter-0749.md line 87 [ladder] | th its afternoon. Nobody in that yard went near the ladder at the tool house wall, and no figure was printed a
+      chapter-0750.md line 101 [ladder] | take it has been empty since before the spring. The ladder stayed against the tool house wall all morning and 
+      chapter-0752.md line 99 [ladder] | there has not been one since before the spring. The ladder stayed against the tool house wall that Friday and 
+      ... and 18 more
+   a rung, or a climbing verb: 1
+      chapter-0739.md line 85 [rung] |  all morning and no person put a foot on the bottom rung of it, and the ring of bare ground behind the wall 
+   the drawer named: 39
+      chapter-0736.md line 63 [drawer] | e yard and his palm flat against the frame, and the drawer in there was shut with the key on its nail, and it 
+      chapter-0737.md line 77 [drawer] | and and did not come further than the step, and the drawer behind him was shut and the key was on its nail and
+      chapter-0738.md line 72 [drawer] |  people get used to, and a form that goes back in a drawer is a form that people forget about, and I have neve
+      chapter-0739.md line 87 [drawer] | ng was asked of him at any hour of the day, and the drawer was shut at the sixth hour and again at the dark wi
+      chapter-0740.md line 11 [drawer] |  said. **"Two hundred days on a piece of paper in a drawer in the one room and it has lain out of a light sinc
+      chapter-0740.md line 25 [drawer] | our letters, and there is one letter and it is in a drawer with a key on a nail and it is shut, and I am not g
+      chapter-0742.md line 87 [drawer] | here and he said it to nobody. Kellan Rusk shut the drawer at the sixth hour and again at the dark and the key
+      chapter-0743.md line 51 [drawer] | ood on the step and would not come further, and the drawer behind him was shut and the key was on its nail and
+      chapter-0743.md line 67 [drawer] | open it and I am not going to turn the key, and the drawer has been shut all morning and it is going to be shu
+      chapter-0743.md line 67 [drawer] | y who wants to hear it. That is not the same as the drawer and I would like it written down somewhere that it 
+      ... and 29 more
+   the drawer standing open: 0
+   the key off its nail: 1
+      chapter-0780.md line 63 [off its nail] | s never the same week for both.** He took the gauge off its nail and carried it to the pump at the second house on t
+   -- the door nine hundred yards off. ITS OWN FIGURE IS *SIXTY-SIX* STANDING ALONE, and two other series in this holding carry that pair of words inside a larger figure on a morning of their own.
+   the door's own figure standing alone: 0
+   and the same pair of words inside a larger figure, which is a collision in the sweep and not a printing of the door: 4
+      chapter-0736.md line 49 [sixty-six] |  know what either half was for. **"Four hundred and sixty-six of window. Two hundred and thirty-eight above. Two 
+      chapter-0745.md line 63 [sixty-six] | ate and the four faces nearest it. **"A hundred and sixty-six in force. Twenty-nine taken. A hundred and thirty-s
+      chapter-0772.md line 33 [sixty-six] | is at the bottom, and the other is nine hundred and sixty-six and it is at the top, and forty-seven of masonry si
+      chapter-0772.md line 37 [sixty-six] | ed and nineteen and the top one is nine hundred and sixty-six and I put them on in that order and it is the order
+   -- the standing blocks this volume restates, counted PER MORNING and not per occurrence, because an occurrence is not a morning
+     4 occurrence(s) on 4 morning(s): the compost board at the back of the tap house read paid at thirty-one
+        ['chapter-0736.md', 'chapter-0737.md', 'chapter-0740.md', 'chapter-0741.md']
+     7 occurrence(s) on 7 morning(s): Kellan Rusk came out to the step with the register form under his arm
+        ['chapter-0746.md', 'chapter-0751.md', 'chapter-0756.md', 'chapter-0767.md', 'chapter-0772.md', 'chapter-0774.md', 'chapter-0775.md']
+     4 occurrence(s) on 4 morning(s): the man who lays for three councils came down the middle road with his hod
+        ['chapter-0740.md', 'chapter-0743.md', 'chapter-0748.md', 'chapter-0758.md']
+     4 occurrence(s) on 4 morning(s): a woman's own sheet with a refusal written on it in her own hand
+        ['chapter-0736.md', 'chapter-0743.md', 'chapter-0749.md', 'chapter-0771.md']
+     13 occurrence(s) on 12 morning(s): no column cut under any of them
+        ['chapter-0736.md', 'chapter-0737.md', 'chapter-0741.md', 'chapter-0743.md', 'chapter-0744.md', 'chapter-0749.md', 'chapter-0752.md', 'chapter-0753.md', 'chapter-0757.md', 'chapter-0761.md', 'chapter-0768.md', 'chapter-0771.md']
+     8 occurrence(s) on 8 morning(s): Tova Reed had the four ages on the corner of the seed board
+        ['chapter-0736.md', 'chapter-0739.md', 'chapter-0740.md', 'chapter-0741.md', 'chapter-0742.md', 'chapter-0743.md', 'chapter-0744.md', 'chapter-0745.md']
+     12 occurrence(s) on 7 morning(s): nothing against it
+        ['chapter-0736.md', 'chapter-0742.md', 'chapter-0745.md', 'chapter-0775.md', 'chapter-0776.md', 'chapter-0777.md', 'chapter-0778.md']
+   -- the two locked sentences and their six load-bearing strings
+   the six load-bearing strings: 18
+      chapter-0736.md line 99 [far end of a thing] | s, and he said it whole and he said it once. **"The far end of a thing is held by two people and neither of them is me, 
+      chapter-0736.md line 99 [anywhere in four counties] | people and neither of them is me, and no instrument anywhere in four counties says whether it is on or off."** Nobody an
+      chapter-0736.md line 99 [whether it is on or off] | e, and no instrument anywhere in four counties says whether it is on or off."** Nobody answered him. It was not said to 
+      chapter-0736.md line 105 [The comfort is not standing] | ay he says figures, at the boards, to everybody. **"The comfort is not standing, the father is not alive in the wood, an
+      chapter-0736.md line 105 [the father is not alive in the wood] | ards, to everybody. **"The comfort is not standing, the father is not alive in the wood, and the day does not come back.
+      chapter-0736.md line 105 [the day does not come back] |  standing, the father is not alive in the wood, and the day does not come back."** Nobody thanked him for it. Nobody ask
+      chapter-0772.md line 55 [The comfort is not standing] | in a voice that was not raised and was not slow. **"The comfort is not standing, the father is not alive in the wood, an
+      chapter-0772.md line 55 [the father is not alive in the wood] | d and was not slow. **"The comfort is not standing, the father is not alive in the wood, and the day does not come back.
+      chapter-0772.md line 55 [the day does not come back] |  standing, the father is not alive in the wood, and the day does not come back.** She did not move her hands. **"I have 
+      chapter-0777.md line 17 [far end of a thing] | he width of a hand with nobody's hand on it. **"The far end of a thing is held by two people and neither of them is me, 
+      chapter-0777.md line 17 [anywhere in four counties] | people and neither of them is me, and no instrument anywhere in four counties says whether it is on or off.** He said it
+      chapter-0777.md line 17 [whether it is on or off] | e, and no instrument anywhere in four counties says whether it is on or off.** He said it to a man standing in front of 
+      chapter-0780.md line 27 [The comfort is not standing] |  put the chalk down and then picked it up again. **"The comfort is not standing, the father is not alive in the wood, an
+      chapter-0780.md line 27 [the father is not alive in the wood] | picked it up again. **"The comfort is not standing, the father is not alive in the wood, and the day does not come back.
+      chapter-0780.md line 27 [the day does not come back] |  standing, the father is not alive in the wood, and the day does not come back.** She said them at the speed she says he
+      chapter-0780.md line 45 [far end of a thing] | red him without waiting for anybody else to. **"The far end of a thing is held by two people and neither of them is me, 
+      chapter-0780.md line 45 [anywhere in four counties] | people and neither of them is me, and no instrument anywhere in four counties says whether it is on or off.** Nobody in 
+      chapter-0780.md line 45 [whether it is on or off] | e, and no instrument anywhere in four counties says whether it is on or off.** Nobody in that yard said yes and nobody s
+   -- the thirty-five, the six not knowns, and the pruning window
+   thirty-five in and thirty-five out: 2
+      chapter-0775.md line 73 [thirty-five in] | nce, or for anything else, and the thirty-five were thirty-five in and thirty-five out on that Sunday morning after a 
+      chapter-0780.md line 37 [thirty-five in] | n put on it.** She picked up the tray. **"And it is thirty-five in and thirty-five out and that is the only way anybod
+   a figure published for the thirty-five other than thirty-five: 0
+   six ruled rows, and no seventh: 11
+      chapter-0736.md line 73 [Six ruled rows] | ed together and they have never been the same list. Six ruled rows stood on the shelf for the things nobody knows, and
+      chapter-0736.md line 73 [no seventh row] | stood on the shelf for the things nobody knows, and no seventh row has been cut for anything, and there was a figure o
+      chapter-0738.md line 84 [six ruled rows] | old him he had to. On the shelf in the one room the six ruled rows stood with a figure on the first and nothing on the
+      chapter-0738.md line 84 [no seventh row] | re on the first and nothing on the other three, and no seventh row has been cut for anything in this holding's record.
+      chapter-0743.md line 83 [six ruled rows] | ot been told by anybody standing at this board. The six ruled rows on the shelf stood with a figure on the first and t
+      chapter-0743.md line 83 [no seventh row] | a figure on the first and the other three bare, and no seventh row has been cut for anything. The use log had fifteen 
+      chapter-0749.md line 81 [Six ruled rows] | off me, that is the day you know I have stopped."** Six ruled rows stood on the shelf in the one room for the things n
+      chapter-0749.md line 81 [no seventh row] | e things nobody in this holding knows, and there is no seventh row cut for the schedule or the load or the cap or the 
+      chapter-0754.md line 85 [six ruled rows] | cond column on that board to write anything in. The six ruled rows on the shelf are the six, and no seventh has been c
+      chapter-0763.md line 71 [Six ruled rows] | is not written and was not written on that Tuesday. Six ruled rows sit on the shelf in the one room for the things nob
+      ... and 1 more
+   pruning, pruned: 0
+   the flow: 5
+      chapter-0768.md line 51 [the flow] | em, and if anybody in this holding writes down that the flow changed this morning I will read that sentence out 
+      chapter-0768.md line 51 [the flow] | will read that sentence out to them myself, because the flow did not change. What changed is that nobody chose i
+      chapter-0771.md line 53 [the flow] | n that route but me and the boy, and for as long as the flow is uneven and somebody has to know which of two tan
+      chapter-0773.md line 25 [the flow] |  man from the middle row who wanted to know whether the flow had changed, which was his way of asking whether it
+      chapter-0773.md line 27 [The flow] | , which was his way of asking whether it was on. **"The flow has not changed and it has not stopped and the wate
+   a mercy: 0
+   *of this month*: 1
+      chapter-0736.md line 79 [of this month] | s morning and he will not be fetched on any morning of this month, and the count of questions put to him in four year
+   -- the second reckoning, which is carried and not printed on the eleven fourth-line mornings. CHECKED AS THE TWELVE VALUES IT TAKES, nothing else.
+   the eleven second-reckoning values standing alone, anywhere in Volume 16, and NOT inside a larger figure, because ninety-ninth is also the top limb of an aggregate clause in the four hundreds: 7
+      chapter-0736.md line 19 [ninety-ninth] | he night and the run has it as the four hundred and ninety-ninth, and I have got nothing to say about either of them
+      chapter-0736.md line 41 [ninety-sixth] | ty-seven at the head of it, with a four hundred and ninety-sixth underneath and a four hundred and ninety-eighth ove
+      chapter-0736.md line 41 [ninety-eighth] |  and ninety-sixth underneath and a four hundred and ninety-eighth over the top, and there is no column cut under any 
+      chapter-0737.md line 75 [ninety-seventh] |  the head of the long sheet with a four hundred and ninety-seventh under it and a four hundred and ninety-ninth over i
+      chapter-0737.md line 75 [ninety-ninth] |  and ninety-seventh under it and a four hundred and ninety-ninth over it, and those three are three numbers and not 
+      chapter-0738.md line 58 [ninety-eighth] | red and ninety-nine at the head. A four hundred and ninety-eighth below the line and a five hundredth above it."** **
+      chapter-0739.md line 71 [ninety-ninth] |  whether it was the only order. **"Four hundred and ninety-ninth under the line. Five hundred at the head of it. Fiv
+   of those, on the eleven fourth-line mornings, where the second reckoning must be ABSENT: 2 [('chapter-0737.md', 75, 'ninety-seventh', ' the head of the long sheet with a four hundred and ninety-seventh under it and a four hundred and ninety-ninth over i'), ('chapter-0737.md', 75, 'ninety-ninth', ' and ninety-seventh under it and a four hundred and ninety-ninth over it, and those three are three numbers and not ')]
+   -- the spellings
+   an attached hundredweight: 0
+   the wrong and in the bare round hundred in the thousands, where the figure IS exactly one thousand four hundred: 3
+      chapter-0761.md line 17 [One thousand and four hundred] | bout nine people, and said it with an and in it. **"One thousand and four hundred hundredweight came down the channel in
+      chapter-0761.md line 57 [one thousand and four hundred] |  on your own sheets, and you are not going to write one thousand and four hundred, because one of those is the weight an
+      chapter-0763.md line 7 [One thousand and four hundred] | ight, and he told her three hundredweight short. **"One thousand and four hundred hundredweight."** The woman wrote it d
+   the bare round hundred in the thousands, where it is required: 5
+      chapter-0761.md line 19 [one thousand four hundred] | ay wrote on the board what the boards say, which is one thousand four hundred hundredweight, with no and in it anywhere,
+      chapter-0761.md line 57 [one thousand four hundred] | ve hundred and twenty-fourth morning, and there was one thousand four hundred hundredweight in the channel in the night,
+      chapter-0761.md line 57 [one thousand four hundred] | re off the board and you are going to go on writing one thousand four hundred on your own sheets, and you are not going 
+      chapter-0762.md line 48 [One thousand four hundred] |  he had read it off the board two hours earlier. **"One thousand four hundred hundredweight came down the channel in the
+      chapter-0762.md line 52 [one thousand four hundred] | y morning with an odd number on it, and it stood at one thousand four hundred yesterday morning, which is a figure I wou
+   a hyphen inside a spelled hundreds figure: 0
+   an ordinal date in body prose: 6
+      chapter-0749.md line 89 [on the second of ] | ainst her hip, and nobody in that yard saw what was on the second of its two ruled lines, because there was nothing on i
+      chapter-0751.md line 91 [on the second of ] | nd that one is the oldest. And four hundred and two on the second of Silling's two ruled lines, which is blank, as it ha
+      chapter-0755.md line 69 [on the second of ] | body will read in my lifetime. Four hundred and six on the second of Silling's two ruled lines, blank, and blank again t
+      chapter-0756.md line 71 [on the second of ] | ch nobody has ever read out. Four hundred and seven on the second of Silling's two ruled lines, and it is blank, and it 
+      chapter-0760.md line 39 [in the second of ] |  second branch have their load and I told the woman in the second of them first, standing at her door, before the cart t
+      chapter-0765.md line 67 [on the second of ] | ld this yard five times now."** Nobody wrote a name on the second of Silling's two ruled lines and nothing has ever been
+   a day of the week, which this holding keeps and which no rule forbids: 107
+      chapter-0736.md line 31 [Friday] | ."** **"Who has been asking."** **"Two men asked on Friday and they will ask again, and I give them the same a
+      chapter-0737.md line 67 [Thursday] | ved, because I have that corner in my own hand from Thursday and I did not touch it since."** **"That is the onl
+      chapter-0737.md line 73 [Thursday] |  off the wall with it, which he has never done on a Thursday before and which he said he had done because a man 
+      chapter-0738.md line 50 [Friday] | and thirty-nine, and I give them in that order on a Friday and I will give them in some other order on another
+      chapter-0739.md line 43 [Saturday] |  date at the top of it, and I had it written out on Saturday night at the fourth place and brought up on Monday,
+      chapter-0739.md line 43 [Monday] | aturday night at the fourth place and brought up on Monday, and the man who wrote it was told twice not to put
+      ... and 101 more
+   -- the counts that stand and are not to be added to
+   the thirty-nine blanks and the second rule under them: 32
+      chapter-0736.md line 65 [thirty-nine blanks] | hat anybody acted on. On the board in that room the thirty-nine blanks stood where they stand, and under them the second
+      chapter-0736.md line 65 [thirty-ninth time] | er them the second rule stood open and empty at the thirty-ninth time, which is the position it has been in for four yea
+      chapter-0737.md line 99 [thirty-nine blanks] | not going to be. The board in the one room stood at thirty-nine blanks with the second rule under them open and empty at
+      chapter-0737.md line 99 [thirty-ninth time] | th the second rule under them open and empty at the thirty-ninth time. The four sheets on the long table were none enter
+      chapter-0739.md line 89 [thirty-nine blanks] | in there for an hour with the second rule under the thirty-nine blanks standing open and empty in front of her and did n
+      chapter-0741.md line 89 [thirty-nine blanks] | th the chair and did not look at the board, and the thirty-nine blanks stood where they stand and the second rule under 
+      chapter-0741.md line 89 [thirty-ninth time] |  second rule under them stood open and empty at the thirty-ninth time, and four sheets lay on the long table with none o
+      chapter-0742.md line 41 [thirty-nine blanks] | , and the board in the one room behind her stood at thirty-nine blanks with the second rule under them standing open and
+      chapter-0742.md line 41 [thirty-ninth time] | cond rule under them standing open and empty at the thirty-ninth time, and she looked at that rule for about four second
+      chapter-0747.md line 83 [thirty-nine blanks] |  once matched. Above the long table on the wall are thirty-nine blanks, and the rule under them standing open and empty 
+      ... and 22 more
+   the fifteen lines of the use log, and a sixteenth: 9
+      chapter-0736.md line 71 [fifteen lines] | e or in anything. The use log in the tool house had fifteen lines in it and no sixteenth, and the barrow stood wheel 
+      chapter-0737.md line 99 [fifteen lines] | one and the other column was empty. The use log had fifteen lines and no sixteenth. The barrow went out eleven times 
+      chapter-0738.md line 82 [fifteen lines] | wants it gone."** In the tool house the use log had fifteen lines in it and nobody came in to ask for the sixteenth. 
+      chapter-0739.md line 83 [fifteen lines] | ng under it. In the tool house the use log stood at fifteen lines and the sixteenth was not written, and there were s
+      chapter-0740.md line 77 [fifteen lines] |  before the rest of them on a Sunday and left it at fifteen lines with the sixteenth one not written for anybody to c
+      chapter-0741.md line 91 [fifteen lines] |  second column of it was empty, and the use log had fifteen lines in it and no sixteenth, and the barrow had gone ele
+      chapter-0743.md line 85 [fifteen lines] | enth row has been cut for anything. The use log had fifteen lines in it and the sixteenth was not written and is not 
+      chapter-0755.md line 79 [fifteen lines] | nobody knows, and the use log in the tool house has fifteen lines in it with the sixteenth left unwritten and not goi
+      chapter-0763.md line 69 [fifteen lines] |  not going to be. The use log in the tool house has fifteen lines in it and the sixteenth is not written and was not 
+   eleven journeys of the barrow, and a twelfth: 21
+      chapter-0736.md line 71 [eleven journeys] | middle of the yard at the eleventh hour having gone eleven journeys and eleven is a floor and not a total, and there we
+      chapter-0747.md line 79 [eleven journeys] | t stands in the middle of the yard wheel first with eleven journeys in the tray, and there is no twelfth in it for any 
+      chapter-0750.md line 99 [eleven journeys] | e key and hung it back on its nail. The barrow went eleven journeys and stopped, and the man pushing it said that a roa
+      chapter-0754.md line 81 [eleven journeys] | row stood wheel first in the middle of that yard at eleven journeys, and nobody has taken it out of that gate on a twel
+      chapter-0757.md line 69 [eleven journeys] | ard did not close over them either. The barrow went eleven journeys and stopped, and the man pushing it did not go out 
+      chapter-0758.md line 73 [eleven journeys] | for them to them and not to you."** The barrow went eleven journeys and stopped, and the man who pushes it said a road 
+      chapter-0761.md line 61 [eleven journeys] |  the number of hours anywhere else. The barrow went eleven journeys on that Sunday and stopped, and the man pushing it 
+      chapter-0764.md line 65 [eleven journeys] |  to make them into anything at all. The barrow went eleven journeys on that Wednesday and was stood wheel first in the 
+      chapter-0765.md line 71 [eleven journeys] | none of them has a column been cut. The barrow went eleven journeys and stopped, and the ladder stayed against the tool
+      chapter-0766.md line 71 [eleven journeys] | wn is the same as it was yesterday. The barrow went eleven journeys on that Friday and stopped, and the man pushing it 
+      ... and 11 more
+   a fifth sheet, a fifth term or a fifth column, which the pages forbid: 7
+      chapter-0742.md line 87 [sixth term] | under a heading nobody has improved and there is no sixth term on it. And at about the eleventh hour Roan Selk rol
+      chapter-0749.md line 81 [sixth term] |  empty under a heading nobody has improved, with no sixth term written on it and no seventh and no eighth. Four sh
+      chapter-0757.md line 75 [sixth term] |  empty under a heading nobody has improved, with no sixth term written on it and no seventh and no eighth. And out
+      chapter-0759.md line 39 [fifth column] | with it for a week.** He put his thumb on the empty fifth column without touching the paper. **"Eleven houses. If th
+      chapter-0770.md line 93 [sixth term] | der a heading nobody had improved, and there was no sixth term and no seventh and no eighth, and eleven days was n
+      chapter-0774.md line 69 [sixth term] | terms had three of the four five lines ruled and no sixth term written and no seventh and no eighth, and a woman w
+      chapter-0775.md line 71 [sixth term] | re not on any paper in this holding and there is no sixth term and no seventh and no eighth.** And I put the board
+   a column cut under one of the four sheets: 20
+      chapter-0736.md line 41 [column cut under] | red and ninety-eighth over the top, and there is no column cut under any of the three of them and I am one of two hands 
+      chapter-0736.md line 67 [column cut under] | ere four sheets, none entered, none refused, and no column cut under any of them, and the fifth piece of paper on that t
+      chapter-0737.md line 99 [column cut under] | g table were none entered, none refused, and had no column cut under any of them, and the fifth piece of paper there is 
+      chapter-0741.md line 89 [column cut under] | one of them entered and none of them refused and no column cut under any of them. The compost board at the back of the t
+      chapter-0743.md line 87 [column cut under] | side the doorway, none entered, none refused and no column cut under any of them, and the fifth piece of paper there is 
+      chapter-0744.md line 23 [column cut under] |  have written it on the boards, because there is no column cut under anything of the kind and there is not going to be o
+      chapter-0744.md line 23 [column cut under] | hey stand with none entered and none refused and no column cut under any of them, and the fifth paper there is a woman's
+      chapter-0744.md line 77 [column cut under] |  the long table had nobody's writing on them and no column cut under any of them. And at about the eleventh hour the bed
+      chapter-0745.md line 55 [column cut under] |  it is not a number,"** he said, **"and it is not a column cut under either of your names, and if you want it off the sh
+      chapter-0749.md line 83 [column cut under] | side the doorway, none entered, none refused and no column cut under any of them, and the fifth piece of paper on that t
+      ... and 10 more
+   the four sheets, none entered and none refused: 27
+      chapter-0736.md line 41 [no column cut under] | undred and ninety-eighth over the top, and there is no column cut under any of the three of them and I am one of two han
+      chapter-0736.md line 67 [none entered] | ng table inside the doorway there were four sheets, none entered, none refused, and no column cut under any of them,
+      chapter-0736.md line 67 [none refused] | e the doorway there were four sheets, none entered, none refused, and no column cut under any of them, and the fifth
+      chapter-0736.md line 67 [no column cut under] | e were four sheets, none entered, none refused, and no column cut under any of them, and the fifth piece of paper on tha
+      chapter-0737.md line 99 [none entered] | -ninth time. The four sheets on the long table were none entered, none refused, and had no column cut under any of t
+      chapter-0737.md line 99 [none refused] | he four sheets on the long table were none entered, none refused, and had no column cut under any of them, and the f
+      ... and 21 more
+   twenty-nine fetchings of the man of about seventy, and a fetching: 18
+      chapter-0736.md line 79 [fetched] | d a word about it. The man of about seventy was not fetched. He has been fetched twenty-nine times and he has n
+      chapter-0736.md line 79 [fetched] | e man of about seventy was not fetched. He has been fetched twenty-nine times and he has not been fetched this 
+      chapter-0736.md line 79 [fetched] |  been fetched twenty-nine times and he has not been fetched this morning and he will not be fetched on any morn
+      chapter-0736.md line 79 [fetched] | as not been fetched this morning and he will not be fetched on any morning of this month, and the count of ques
+      chapter-0737.md line 99 [fetched] | body went near it. The man of about seventy was not fetched and the count of questions put to him was nil. And 
+      chapter-0739.md line 87 [fetched] | olumn of it empty. The man of about seventy was not fetched and nothing was asked of him at any hour of the day
+      chapter-0741.md line 87 [fetched] | front of them, and the man of about seventy was not fetched and nothing was asked of him at any hour of the day
+      chapter-0742.md line 53 [fetched] | "** **"That it stands where it stands and nobody is fetched and nobody is asked anything, and that is the whole
+      ... and 10 more
+   the seed ring re-dug, re-counted or improved: 2
+      chapter-0771.md line 89 [eight beds] | e fifth bed was holding what it had been given, and eight beds were where they had been on a sheet with a stone on
+      chapter-0775.md line 37 [Six beds] | wn houses, that the flows in that table are good.** Six beds hold. Five hold the load. There is a figure on that
+   the four losses, and a fifth: 0
+==============================================================================
+9. ORDINALS OUTSIDE HEADINGS, AT THE UNIT DECLARED. A HIT IS A HIT AND NOT A VERDICT, AND THE HYPHEN IN A SPELLED TENS-ORDINAL DEFEATS A HARNESS'S OWN EXCLUSION RULE, SO EVERY HIT IS CLASSIFIED AND THE RESIDUAL IS PRINTED.
+   ordinal words of that set standing in body prose: 266
+      152  an hour, in the house form
+       82  a limb of a spelled figure, tens-ordinal hyphenated
+       32  something else, printed in full below
+   the residual, every one read: 32
+     chapter-0736.md line 71: 'sixteenth' | before ['it', 'and', 'no'] after ['and', 'the', 'barrow']
+        he use log in the tool house had fifteen lines in it and no sixteenth, and the barrow stood wheel first in the middle of the yard
+     chapter-0737.md line 99: 'sixteenth' | before ['lines', 'and', 'no'] after ['The', 'barrow', 'went']
+        ther column was empty. The use log had fifteen lines and no sixteenth. The barrow went out eleven times and eleven is a floor. Se
+     chapter-0738.md line 82: 'sixteenth' | before ['ask', 'for', 'the'] after ['The', 'barrow', 'had']
+        g had fifteen lines in it and nobody came in to ask for the sixteenth. The barrow had been round eleven times and the man who pus
+     chapter-0739.md line 83: 'sixteenth' | before ['lines', 'and', 'the'] after ['was', 'not', 'written']
+        n the tool house the use log stood at fifteen lines and the sixteenth was not written, and there were seven sessions in this hold
+     chapter-0740.md line 77: 'sixteenth' | before ['lines', 'with', 'the'] after ['one', 'not', 'written']
+        t of them on a Sunday and left it at fifteen lines with the sixteenth one not written for anybody to come back and find. The comp
+     chapter-0741.md line 91: 'sixteenth' | before ['it', 'and', 'no'] after ['and', 'the', 'barrow']
+        t was empty, and the use log had fifteen lines in it and no sixteenth, and the barrow had gone eleven times and eleven is a floor
+     chapter-0743.md line 85: 'sixteenth' | before ['it', 'and', 'the'] after ['was', 'not', 'written']
+        t for anything. The use log had fifteen lines in it and the sixteenth was not written and is not going to be, and the barrow had 
+     chapter-0744.md line 27: 'ninth' | before ['have', 'written', 'a'] after ['bed', 'in', 'this']
+        came in the night and it is down five. And I have written a ninth bed in this book this morning before I have written a figur
+     chapter-0744.md line 79: 'ninth' | before ['talk', 'about', 'the'] after []
+        , and nobody in this yard stopped working to talk about the ninth.
+     chapter-0747.md line 79: 'twelfth' | before ['there', 'is', 'no'] after ['in', 'it', 'for']
+        eel first with eleven journeys in the tray, and there is no twelfth in it for any reason including a good one. The figure in fr
+     chapter-0753.md line 59: 'ninth' | before ['eight', 'and', 'the'] after ['course', 'at', 'the']
+         down the channel in the night, and it is up eight, and the ninth course at the near end wants laying and I am not going to l
+     chapter-0754.md line 81: 'twelfth' | before ['gate', 'on', 'a'] after ['and', 'the', 'man']
+        ven journeys, and nobody has taken it out of that gate on a twelfth, and the man pushing it said on Saturday and again on Sunda
+     chapter-0755.md line 79: 'sixteenth' | before ['it', 'with', 'the'] after ['left', 'unwritten', 'and']
+         use log in the tool house has fifteen lines in it with the sixteenth left unwritten and not going to be written. The ladder stay
+     chapter-0756.md line 59: 'twelfth' | before ['go', 'out', 'a'] after ['time', 'and', 'the']
+        nth hour and came back and stopped, and it did not go out a twelfth time, and the man pushing it stood with the shafts up for a
+     chapter-0758.md line 49: 'ninth' | before ['this', 'run', 'The'] after ['course', 'at', 'the']
+         the five hundred and twenty-first morning of this run. The ninth course at the near end wants laying and I am going to lay i
+     chapter-0759.md line 31: 'tenth' | before ['ever', 'And', 'the'] after ['course', 'wants', 'laying']
+         fifty-three, top. Forty-seven of masonry, as ever. And the tenth course wants laying today and has wanted laying since Tuesd
+     chapter-0760.md line 55: 'eleventh' | before ['fifty-four', 'and', 'the'] after ['course', 'at', 'the']
+        nd the top has gone to nine hundred and fifty-four, and the eleventh course at the near end is laid as of this morning and I lai
+     chapter-0761.md line 5: 'ninth' | before ['came', 'at', 'the'] after ['and', 'the', 'whole']
+        he crew had two men on it and the third of them came at the ninth, and the whole of it was ordinary work on a Sunday and nobo
+     chapter-0761.md line 19: 'twelfth' | before ['and', 'laid', 'the'] after ['course', 'You', 'did']
+        nything, and the man put his hod down and went and laid the twelfth course. **"You did not tell him."** **"He told me a figure 
+     chapter-0762.md line 5: 'ninth' | before ['hour', 'and', 'the'] after ['and', 'it', 'was']
+         a sheet on the middle table between the sixth hour and the ninth and it was up on the boards with a stone on it before the l
+     chapter-0763.md line 25: 'eleventh' | before ['times', 'and', 'the'] after ['was', 'the', 'last']
+         better, and he went out and came back eleven times and the eleventh was the last one and it was the eleventh for the reason it 
+     chapter-0763.md line 25: 'eleventh' | before ['it', 'was', 'the'] after ['for', 'the', 'reason']
+        even times and the eleventh was the last one and it was the eleventh for the reason it has been the eleventh all season. At abou
+     chapter-0763.md line 25: 'eleventh' | before ['has', 'been', 'the'] after ['all', 'season', 'At']
+         one and it was the eleventh for the reason it has been the eleventh all season. At about the seventh hour the north board was w
+     chapter-0763.md line 69: 'sixteenth' | before ['it', 'and', 'the'] after ['is', 'not', 'written']
+        e use log in the tool house has fifteen lines in it and the sixteenth is not written and was not written on that Tuesday. Six rul
+     chapter-0766.md line 25: 'ninth' | before ['is', 'on', 'the'] after ['day', 'That', 'is']
+        riday has failed for the week and the reading out is on the ninth day. **"That is not yours to take off and it is not his to 
+     chapter-0767.md line 47: 'eleventh' | before ['have', 'laid', 'the'] after ['course', 'this', 'morning']
+        he man who lays for three councils said, **"I have laid the eleventh course this morning and I have not been up there and I am n
+     chapter-0771.md line 63: 'eleventh' | before ['who', 'laid', 'the'] after ['course', 'at', 'the']
+        rty-seven of masonry as ever, and I am the one who laid the eleventh course at the near end and I would rather those two figures
+     chapter-0776.md line 79: 'eleventh' | before ['and', 'by', 'the'] after ['there', 'were', 'five']
+         said and not one of them had heard it from him, and by the eleventh there were five, and two of the five were asking whether an
+     chapter-0777.md line 31: 'tenth' | before ['measure', 'since', 'the'] after ['morning', 'of', 'this']
+        o away. Both of them have been on a short measure since the tenth morning of this holding's counting and both of them are on 
+     chapter-0779.md line 37: 'twelfth' | before ['them', 'and', 'the'] after ['of', 'them', 'out']
+        under that number and I have laid every one of them and the twelfth of them out of line and I have never taken it out because i
+     chapter-0779.md line 41: 'eleventh' | before ['I', 'laid', 'the'] after ['course', 'at', 'the']
+         steps. **"And I said those two out loud because I laid the eleventh course at the near end myself eight mornings ago and I have
+     chapter-0780.md line 69: 'tenth' | before ['and', 'at', 'the'] after ['and', 'gave', 'the']
+        middle gate at the sixth hour and at the seventh and at the tenth and gave the three numbers out loud each time, and they wer
+==============================================================================
+9b. THE EIGHT FIGURES OF THE FIGURE CHECK THAT ARE PRESENT IN THE WRONG FORM, NAMED BY FILE AND BY LINE, AND NOT REPAIRED
+   chapter-0759.md line 27, day 972, morning 24: the ordinal of the run is 522 and the page prints a cardinal where the series is an ordinal:
+      **"Nine beds in this book, and five hundred and twenty-two mornings of this run, and one thousand and three hundred and ninety-seven hundredw
+   chapter-0768.md line 55, day 981, morning 33: the aggregate is 529 and the page prints the ordinal where the series is a cardinal:
+      **"The five hundred and twenty-eighth is the figure with the rule under it, the five hundred and twenty-ninth stands at the top of that sheet, and the five hundred and thirtieth is at the fo
+   chapter-0770.md line 81, day 983, morning 35: the aggregate is 531 and the page prints the ordinal where the series is a cardinal:
+      **"That wall carries five hundred and thirty-first, five hundred and thirtieth sits beneath the rule, and five hundred and thirty-s
+   chapter-0771.md line 75, day 984, morning 36: the aggregate is 532 and the page prints the ordinal where the series is a cardinal:
+      **"It goes five hundred and thirty-second at the top of that sheet, five hundred and thirty-first at the bottom of it, an
+   chapter-0772.md line 45, day 985, morning 37: the aggregate is 533 and the page prints the ordinal where the series is a cardinal:
+      **"Five hundred and thirty-third sits at the head of that sheet, five hundred and thirty-second under the rule, a
+   chapter-0774.md line 63, day 987, morning 39: the aggregate is 535 and the page prints the ordinal where the series is a cardinal:
+      **"Five hundred and thirty-fifth is what that wall carries, five hundred and thirty-fourth is under the rule, and
+   chapter-0778.md line 21, day 991, morning 43: the aggregate is 539 and the page prints the ordinal where the series is a cardinal:
+      **"Five hundred and thirty-ninth, five hundred and thirty-eighth, five hundred and fortieth.** She said them unde
+   chapter-0780.md line 41, day 993, morning 45: the aggregate is 541 and the page prints the ordinal where the series is a cardinal:
+      **"Five hundred and forty-first is at the head of that sheet, and under the rule it says the five hundred and for
+   the eight are a FORM and not a VALUE. Every one of the eight values is correct for its day and correct against the plan's own day table, and not one figure of any series was moved to pay for them.
+==============================================================================
+10. THE SIX LOCKED FIGURES AND THE TWO ALLOWED FIGURES, AND WHAT THE VOLUME SPENDS
+   the third launder's maximum stands on day 992 (chapter-0779.md, morning 44) and not on the last morning, because the volume closes on an odd morning and an odd morning falls
+   the ordinal of the run on the last morning is five hundred and forty-third and on the morning before it five hundred and forty-second, so the ordinal of the run stands one HIGHER on the last morning while the launder figure stands 5 LOWER, and the two are two series and are not added and are not a sign
+==============================================================================
