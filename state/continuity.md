@@ -1284,3 +1284,23 @@ It inherited the plate at the head of the channel, which nobody was put over and
 ### 22e. The standing doubt, at the end of the series, and this is the last time it can be printed
 
 **IT IS STILL AT SECTION ONE OF THIS FILE AND IT IS STILL UNSETTLED, AND IT IS FIRST IN THE DECISION QUEUE.** `NOVEL_SPEC.md`, `bible/` and `outline/series.md` specify *The Worldroot Engineer*; **across seven hundred and eighty chapter files `Rootway` appears in zero and `Worldroot` appears in zero.** What is on disk is internally consistent and competently written and it is not the book the spec, the bible and the series file specify. **The bible is still authoritative and still describes a story that has not been written. THE MANUSCRIPT IS NOT EVIDENCE THAT THE PREMISE IS RETIRED. A HUMAN DECIDES WHETHER TO RE-PLAN WHAT IS LEFT AGAINST THE BIBLE OR TO RETIRE THE BIBLE AND RE-SPECIFY THE NOVEL, AND NO PASS IN THIS REPOSITORY HAS THE STANDING TO MAKE THAT DECISION AND NO VOLUME REMAINS TO CARRY IT INTO.**
+
+---
+
+## 23. The card set was re-derived against the plan once more on 2026-10-04, and the places it disagrees with the plan stand at three
+
+**THE THING A SUCCESSOR NEEDS FROM THIS SECTION IS SHORT. `outline/batches/volume-16-cards.md` IS THE CARD SET FOR THE SIXTEENTH AND LAST VOLUME, IT IS COMPLETE AT FORTY-FIVE CARDS, AND IT WAS REVIEWED TWICE. A REVIEW-REPAIR PASS ON 2026-10-04 PAID ALL TEN FINDINGS OF THE SECOND REVIEW, ITS RECORD IS `reviews/volume-16-plan.findings.md`, AND EVERY FIGURE IT WITHDREW IS WITHDRAWN BY NAME THERE AND IN THE CARD SET ITSELF.**
+
+### 23a. The three departures from the governing plan, which is the number a successor will look for
+
+1. **The plan's own item list counts five figures on each of the eleven fourth-line mornings and totals seven hundred and thirty-one; the plan's own settlement at its section eight-d carries the second reckoning and prints it on none of them, which leaves seven hundred and twenty available to body prose. Both numbers stand and neither is withdrawn, and a pass may not invent a twelfth figure to make them agree.**
+2. **The plan's prose at two places says the second reckoning reaches exactly one hundred on its eighth fourth-line morning, and the plan's own rule and the plan's own day table both put it on the seventh. The cards follow the rule and the table, and the one hundredth falls on the twenty-sixth morning.**
+3. **The fourth of the five pressures is named on this file's page as the districts naming their own holders and not by the plan's phrase for it, because the plan's phrase carries the first of the two words the plan puts out of body prose and a card is a sheet a writer writes a morning from. The pressure is unmoved, unsoftened and unreduced, and no morning of the volume is affected. THIS IS A NAME AND NOT A FIGURE, AND A SUCCESSOR NEEDS NOTHING FROM IT BUT THE KNOWLEDGE THAT THE NAME DIFFERS.**
+
+### 23b. The two standing facts about that file that a successor must not re-open
+
+**THE SECOND RECKONING IS CARRIED AND NOT PRINTED ON ANY MORNING THAT PRINTS THE FIRST, ON ALL ELEVEN FOURTH-LINE MORNINGS, AND A FIGURE CHECK THAT ASKS FOR IT ON THE PAGE IS ASKING FOR SOMETHING THE PLAN FORBIDS. AND SILLING'S SECOND RULED LINE TAKES *DAY LESS FIVE HUNDRED AND SIXTY-TWO* ON EVERY ONE OF THE FORTY-FIVE CARDS AND ONCE IN THE RULE TABLE, WHICH IS FORTY-SIX OCCURRENCES OF THE RIGHT RULE AND ZERO OF THE WRONG ONE; THAT STATISTIC WAS PUBLISHED THREE TIMES AGAINST THE WRONG FILE, WAS WITHDRAWN, AND STILL HOLDS AFTER THE REPAIR.**
+
+### 23c. What this section does not do
+
+**IT SETTLES NOTHING IN THE MANUSCRIPT. NO MORNING IS AFFECTED BY ANYTHING ABOVE, THE PREMISE DRIFT AT SECTION ONE OF THIS FILE IS STILL FIRST IN THE DECISION QUEUE AND IS STILL UNSETTLED, AND THERE IS NO PHASE AFTER THE CLOSE OF VOLUME SIXTEEN. THE CARD SET IS THE ONE PHASE THAT STILL EXISTS ON DISK AND ITS OUTPUT IS COMPLETE.**
